@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-06-05T02:07:14.847402Z",
+  "summary": {
+    "total_pages_with_permalink": 282,
+    "visible_pages": 241,
+    "hidden_pages": 41,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_advertising_fallacie_a808f7",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_affirming_consequent_413c6c",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_anecdotal_evidence_616cb7",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_appeal_to_authority_908307",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_appeal_to_emotion_1ba8d1",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_appeal_to_ignorance_7e7b18",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_appeal_to_novelty_f53150",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_appeal_to_popularity_14cb62",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_appeal_to_tradition_3c0a72",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_argument_mapping_8e4963",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_bandwagon_pressure_080021",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_borderline_context_4b25b4",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_circular_reasoning_3c0e54",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_deadline_slippery_sl_ce90e1",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_debate_fallacies_6ade0b",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_essay_fallacies_4a857b",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_evidence_gaps_1106c2",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_fallacy_labels_567868",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_false_dilemmas_827e99",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_formal_fallacies_6c776a",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_hasty_generalisation_417b3c",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_health_claim_fallaci_b1d78e",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_index",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_informal_fallacies_08e748",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_loaded_language_f9a858",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_no_true_scotsman_ecc324",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_political_speech_fal_4164bc",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_post_hoc_reasoning_729d96",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_product_safety_red_h_5014e0",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_red_herrings_458e95",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_relevance_tests_0373ab",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_rumour_fallacies_49ef49",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_school_phone_policy_e59b69",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_slippery_slope_201aa8",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_social_media_fallaci_99cf1a",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_sports_false_cause_f4fada",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_straw_man_arguments_c08438",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_tone_vs_logic_601e34",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914",
+        "to": "logical_fallacies_998914_tu_quoque_690e39",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914",
+        "type": "parent"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_advertising_fallacie_a808f7",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_affirming_consequent_413c6c",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_anecdotal_evidence_616cb7",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_appeal_to_authority_908307",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_appeal_to_emotion_1ba8d1",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_appeal_to_ignorance_7e7b18",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_appeal_to_novelty_f53150",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_appeal_to_popularity_14cb62",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_appeal_to_tradition_3c0a72",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_argument_mapping_8e4963",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_bandwagon_pressure_080021",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_borderline_context_4b25b4",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_circular_reasoning_3c0e54",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_deadline_slippery_sl_ce90e1",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_debate_fallacies_6ade0b",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_essay_fallacies_4a857b",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_evidence_gaps_1106c2",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_fallacy_labels_567868",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_false_dilemmas_827e99",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_formal_fallacies_6c776a",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_hasty_generalisation_417b3c",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_health_claim_fallaci_b1d78e",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_informal_fallacies_08e748",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_loaded_language_f9a858",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_no_true_scotsman_ecc324",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_political_speech_fal_4164bc",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_post_hoc_reasoning_729d96",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_product_safety_red_h_5014e0",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_red_herrings_458e95",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_relevance_tests_0373ab",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_rumour_fallacies_49ef49",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_school_phone_policy_e59b69",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_slippery_slope_201aa8",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_social_media_fallaci_99cf1a",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_sports_false_cause_f4fada",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_straw_man_arguments_c08438",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_tone_vs_logic_601e34",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_tu_quoque_690e39_hypocrisy_credibilit_251a26",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_tu_quoque_690e39_hypocrisy_feasibilit_40f055",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_tu_quoque_690e39_index",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914_tu_quoque_690e39_whataboutism_deflect_361b8d",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_tu_quoque_690e39",
+        "to": "logical_fallacies_998914",
+        "type": "ancestor"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914",
+        "type": "parent"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_advertising_fallacie_a808f7",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_affirming_consequent_413c6c",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_anecdotal_evidence_616cb7",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_appeal_to_authority_908307",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_appeal_to_emotion_1ba8d1",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_appeal_to_ignorance_7e7b18",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_appeal_to_novelty_f53150",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_appeal_to_popularity_14cb62",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_appeal_to_tradition_3c0a72",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_argument_mapping_8e4963",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_bandwagon_pressure_080021",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_borderline_context_4b25b4",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_circular_reasoning_3c0e54",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_deadline_slippery_sl_ce90e1",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_debate_fallacies_6ade0b",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_essay_fallacies_4a857b",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_evidence_gaps_1106c2",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_fallacy_labels_567868",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_false_dilemmas_827e99",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_formal_fallacies_6c776a",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_hasty_generalisation_417b3c",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_health_claim_fallaci_b1d78e",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_informal_fallacies_08e748",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_loaded_language_f9a858",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_no_true_scotsman_ecc324",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_political_speech_fal_4164bc",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_post_hoc_reasoning_729d96",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_product_safety_red_h_5014e0",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_red_herrings_458e95",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_relevance_tests_0373ab",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_rumour_fallacies_49ef49",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_school_phone_policy_e59b69",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_slippery_slope_201aa8",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_social_media_fallaci_99cf1a",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_sports_false_cause_f4fada",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_straw_man_arguments_c08438",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_tone_vs_logic_601e34",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_tu_quoque_690e39",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3_index",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "to": "logical_fallacies_998914",
+        "type": "ancestor"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914",
+        "type": "parent"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_advertising_fallacie_a808f7",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_affirming_consequent_413c6c",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_anecdotal_evidence_616cb7",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_appeal_to_authority_908307",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_appeal_to_emotion_1ba8d1",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_appeal_to_ignorance_7e7b18",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_appeal_to_novelty_f53150",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_appeal_to_popularity_14cb62",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_appeal_to_tradition_3c0a72",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_argument_mapping_8e4963",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_bandwagon_pressure_080021",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_borderline_context_4b25b4",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_circular_reasoning_3c0e54",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_deadline_slippery_sl_ce90e1",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_debate_fallacies_6ade0b",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_essay_fallacies_4a857b",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_evidence_gaps_1106c2",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_fallacy_labels_567868",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_false_dilemmas_827e99",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_formal_fallacies_6c776a",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_hasty_generalisation_417b3c",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_health_claim_fallaci_b1d78e",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_informal_fallacies_08e748",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_loaded_language_f9a858",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_no_true_scotsman_ecc324",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_political_speech_fal_4164bc",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_post_hoc_reasoning_729d96",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_product_safety_red_h_5014e0",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_red_herrings_458e95",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_relevance_tests_0373ab",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_rumour_fallacies_49ef49",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_school_phone_policy_e59b69",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_slippery_slope_201aa8",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_social_media_fallaci_99cf1a",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_sports_false_cause_f4fada",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_straw_man_arguments_c08438",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_tone_vs_logic_601e34",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_tu_quoque_690e39",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3_ambiguity_fallacies_d3f3b9",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3_index",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3_only_a_theory_a039d5",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3_spot_equivocation_bb_fc54df",
+        "type": "child"
+      },
+      {
+        "from": "logical_fallacies_998914_equivocation_cdc9d3",
+        "to": "logical_fallacies_998914",
+        "type": "ancestor"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914",
+        "type": "parent"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_ad_hominem_32e1c3",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_advertising_fallacie_a808f7",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_affirming_consequent_413c6c",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_anecdotal_evidence_616cb7",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_appeal_to_authority_908307",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_appeal_to_emotion_1ba8d1",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_appeal_to_ignorance_7e7b18",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_appeal_to_novelty_f53150",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_appeal_to_popularity_14cb62",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_appeal_to_tradition_3c0a72",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_argument_mapping_8e4963",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_bandwagon_pressure_080021",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_borderline_context_4b25b4",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_circular_reasoning_3c0e54",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_deadline_slippery_sl_ce90e1",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_debate_fallacies_6ade0b",
+        "type": "sibling"
+      },
+      {
+        "from": "logical_fallacies_998914_red_herrings_458e95",
+        "to": "logical_fallacies_998914_equivocation_cdc9d3",
+        "type": "sibling"
+      }
+    ]
+  }
+}

@@ -1,0 +1,765 @@
+sidebar_generated:
+- title: Fallacy Lab
+  title_full: Logical Fallacies
+  url: /logical-fallacies/
+  children:
+  - title: Ad Hominem
+    title_full: When Personal Attacks Replace Reasons | Fallacy Lab
+    url: /ad-hominem/
+    children:
+    - title: Association
+      title_full: When association replaces evidence | Ad Hominem
+      url: /association/
+    - title: Credibility
+      title_full: When character evidence actually matters | Ad Hominem
+      url: /credibility-840c81/
+    - title: Pile ons
+      title_full: Why online insults spread so fast | Ad Hominem
+      url: /pile-ons/
+    - title: Science Effects
+      title_full: Can attacking a scientist change beliefs? | Ad Hominem
+      url: /science-effects/
+    - title: Tu Quoque Hypocrisy
+      title_full: Tu Quoque Hypocrisy | Ad Hominem
+      url: /tu-quoque-hypocrisy/
+  - title: Advertising
+    title_full: How Ads Make Weak Claims Persuasive | Fallacy Lab
+    url: /advertising/
+    children:
+    - title: Bandwagon Ads
+      title_full: When Popular Ads Pretend Popular Means Proven | Advertising
+      url: /bandwagon-ads/
+    - title: Celebrity Ads
+      title_full: Why Fame Is Not Product Evidence | Advertising
+      url: /celebrity-ads/
+    - title: Clinical Claims
+      title_full: What Does Clinically Proven Actually Prove? | Advertising
+      url: /clinical-claims/
+    - title: Hidden Payments
+      title_full: When Sponsored Praise Needs Clear Disclosure | Advertising
+      url: /hidden-payments/
+    - title: Review Ratings
+      title_full: Can Star Ratings Become Manufactured Proof? | Advertising
+      url: /review-ratings/
+  - title: Anecdotes
+    title_full: When Is a Story Not Enough? | Fallacy Lab
+    url: /anecdotes/
+    children:
+    - title: After Treatment
+      title_full: Did the Remedy Cause the Recovery? | Anecdotes
+      url: /after-treatment/
+    - title: Fair Use
+      title_full: How to Use Stories Without Cherry Picking | Anecdotes
+      url: /fair-use/
+    - title: False Rule
+      title_full: When One Story Starts Sounding Like Proof | Anecdotes
+      url: /false-rule/
+    - title: Medical Signals
+      title_full: Can a Patient Story Warn US Early? | Anecdotes
+      url: /medical-signals/
+    - title: Vivid Stories
+      title_full: Why Vivid Examples Feel So Convincing | Anecdotes
+      url: /vivid-stories/
+  - title: Argument Map
+    title_full: Can You Map the Reasoning? | Fallacy Lab
+    url: /argument-map/
+    children:
+    - title: Citation Gaps
+      title_full: When a Scientific Source Does Not Prove the Claim | Argument Map
+      url: /citation-gaps/
+    - title: Hidden Assumptions
+      title_full: What Assumptions Make This Policy Argument Work? | Argument Map
+      url: /hidden-assumptions-6f3cc8/
+    - title: Linked Premises
+      title_full: Are These Reasons Independent or One Linked Argument? | Argument Map
+      url: /linked-premises/
+    - title: Policy Objections
+      title_full: Do the Objections Undermine the Policy or the Reasoning? | Argument Map
+      url: /policy-objections/
+    - title: Weak Link Checks
+      title_full: Which Part of the Argument Actually Fails? | Argument Map
+      url: /weak-link-checks/
+  - title: Authority
+    title_full: When Should You Trust an Expert? | Fallacy Lab
+    url: /authority/
+    children:
+    - title: Biased Experts
+      title_full: When Experts Have Something to Gain | Authority
+      url: /biased-experts/
+    - title: Celebrity Claims
+      title_full: When Fame Pretends to Be Expertise | Authority
+      url: /celebrity-claims/
+    - title: Evidence Not Proof
+      title_full: Why Experts Still Need Evidence | Authority
+      url: /evidence-not-proof/
+    - title: Expert Consensus
+      title_full: One Expert or the Whole Field? | Authority
+      url: /expert-consensus/
+    - title: Unnamed Experts
+      title_full: Who Are These Experts, Exactly? | Authority
+      url: /unnamed-experts/
+  - title: Bad Samples
+    title_full: How Much Evidence Is Enough? | Fallacy Lab
+    url: /bad-samples/
+    children:
+    - title: Digest Poll
+      title_full: The Huge Poll That Got It Wrong | Bad Samples
+      url: /digest-poll/
+    - title: Experience
+      title_full: What Personal Experience Can Prove | Bad Samples
+      url: /experience/
+    - title: Review Bias
+      title_full: Do Bad Reviews Show the Whole Picture? | Bad Samples
+      url: /review-bias/
+    - title: Small Samples
+      title_full: How Many Examples Are Enough? | Bad Samples
+      url: /small-samples/
+    - title: Some to Most
+      title_full: When Some Becomes Most | Bad Samples
+      url: /some-to-most/
+  - title: Bandwagon
+    title_full: Are You Being Pressured to Join? | Fallacy Lab
+    url: /bandwagon/
+    children:
+    - title: Asch Lines
+      title_full: What the Asch Experiments Still Show | Bandwagon
+      url: /asch-lines/
+    - title: Group Knows
+      title_full: When Should You Trust the Crowd? | Bandwagon
+      url: /group-knows/
+    - title: Reach vs Truth
+      title_full: When Popularity Is Not Proof | Bandwagon
+      url: /reach-vs-truth/
+    - title: Standing Alone
+      title_full: Why Disagreement Feels Socially Risky | Bandwagon
+      url: /standing-alone/
+    - title: Trending Loops
+      title_full: How Trending Numbers Create More Trending | Bandwagon
+      url: /trending-loops/
+  - title: Circularity
+    title_full: Is the Argument Proving Itself? | Fallacy Lab
+    url: /circularity/
+    children:
+    - title: Bible Loops
+      title_full: When Authority Arguments Turn in Circles | Circularity
+      url: /bible-loops/
+    - title: Hidden Loops
+      title_full: How Long Argument Chains Hide Circularity | Circularity
+      url: /hidden-loops/
+    - title: News Trust
+      title_full: Can a Source Prove Its Own Reliability? | Circularity
+      url: /news-trust/
+    - title: Rewording
+      title_full: When Explanations Just Rename the Claim | Circularity
+      url: /rewording/
+    - title: Support Test
+      title_full: Would the Premise Convince a Skeptic? | Circularity
+      url: /support-test/
+  - title: Context
+    title_full: When Is It Really a Fallacy? | Fallacy Lab
+    url: /context/
+    children:
+    - title: Credibility
+      title_full: When Is Personal Criticism Relevant? | Context
+      url: /credibility-3bd4bb/
+    - title: Expert Shortcuts
+      title_full: When Should You Trust an Expert? | Context
+      url: /expert-shortcuts/
+    - title: Fear Warnings
+      title_full: When Is Fear a Fair Warning? | Context
+      url: /fear-warnings/
+    - title: No Proof
+      title_full: When Does No Proof Actually Matter? | Context
+      url: /no-proof/
+    - title: Two Options
+      title_full: Are Those Really the Only Choices? | Context
+      url: /two-options/
+  - title: Deadlines
+    title_full: Will One Extension Ruin the Rules? | Fallacy Lab
+    url: /deadlines/
+    children:
+    - title: Evidence Rules
+      title_full: What Proof Should an Extension Need? | Deadlines
+      url: /evidence-rules/
+    - title: Fairness Risk
+      title_full: When Does One Extension Become Unfair? | Deadlines
+      url: /fairness-risk/
+    - title: Precedent
+      title_full: Does One Extension Force the Next? | Deadlines
+      url: /precedent-bb651f/
+    - title: Rule Limits
+      title_full: Is a Flexible Deadline Still a Deadline? | Deadlines
+      url: /rule-limits/
+    - title: Self Certify
+      title_full: Can Self Certified Extensions Stay Fair? | Deadlines
+      url: /self-certify/
+  - title: Debate
+    title_full: How to Spot Fallacies in Debate | Fallacy Lab
+    url: /debate/
+    children:
+    - title: Ad Hominem
+      title_full: Do Not Take the Personal Bait | Debate
+      url: /ad-hominem-c0341b/
+    - title: Charity
+      title_full: The Fairer Way to Win Arguments | Debate
+      url: /charity/
+    - title: False Choices
+      title_full: When Debate Choices Are Too Neat | Debate
+      url: /false-choices/
+    - title: Labels
+      title_full: Should You Name the Fallacy? | Debate
+      url: /labels-6f7ad9/
+    - title: Straw Men
+      title_full: How to Answer a Straw Man Fast | Debate
+      url: /straw-men-16d877/
+  - title: Emotion
+    title_full: When Does Emotion Replace Evidence? | Fallacy Lab
+    url: /emotion/
+    children:
+    - title: Fake News
+      title_full: Why Emotional Headlines Feel True | Emotion
+      url: /fake-news/
+    - title: Fake Urgency
+      title_full: How Countdown Pressure Shortens Judgment | Emotion
+      url: /fake-urgency/
+    - title: Fear Appeals
+      title_full: When Fear Warns but Does Not Prove | Emotion
+      url: /fear-appeals/
+    - title: Pity Proof
+      title_full: When Pity Starts Doing the Proving | Emotion
+      url: /pity-proof/
+    - title: Threats
+      title_full: Why Threats Are Not Evidence | Emotion
+      url: /threats/
+  - title: Equivocation
+    title_full: Did the Key Word Change Meaning? | Fallacy Lab
+    url: /equivocation/
+    children:
+    - title: Compare Fallacies
+      title_full: Which Ambiguity Fallacy Is Actually Happening? | Equivocation
+      url: /compare-fallacies/
+    - title: Free Speech
+      title_full: When Does Free Speech Become a Word Game? | Equivocation
+      url: /free-speech/
+    - title: Natural Claims
+      title_full: Does Natural Really Mean Safe or Good? | Equivocation
+      url: /natural-claims/
+    - title: Spotting It
+      title_full: How Can You Tell When a Word Has Shifted? | Equivocation
+      url: /spotting-it/
+    - title: Theory Claims
+      title_full: Why Only a Theory Misleads About Science | Equivocation
+      url: /theory-claims/
+  - title: Essays
+    title_full: How Fallacies Weaken Student Essays | Fallacy Lab
+    url: /essays/
+    children:
+    - title: Because Gaps
+      title_full: When Because Does Not Prove the Point | Essays
+      url: /because-gaps/
+    - title: Cherry Picking
+      title_full: The Evidence Your Essay Cannot Ignore | Essays
+      url: /cherry-picking/
+    - title: Dropped Quotes
+      title_full: Why Quotations Cannot Argue Alone | Essays
+      url: /dropped-quotes/
+    - title: Scale Jumps
+      title_full: How One Example Becomes Too Much | Essays
+      url: /scale-jumps/
+    - title: Straw Men
+      title_full: Are You Answering the Real Objection? | Essays
+      url: /straw-men/
+  - title: Evidence Gaps
+    title_full: What Evidence Is the Argument Missing? | Fallacy Lab
+    url: /evidence-gaps/
+    children:
+    - title: Ad Claims
+      title_full: What Should Ads Have to Prove? | Evidence Gaps
+      url: /ad-claims/
+    - title: Anecdotes
+      title_full: Why One Story Feels Like a Pattern | Evidence Gaps
+      url: /anecdotes-277b8a/
+    - title: Bad Samples
+      title_full: When Five Voices Become Everyone | Evidence Gaps
+      url: /bad-samples-69cbd5/
+    - title: Cherry Picking
+      title_full: When One Study Hides the Rest | Evidence Gaps
+      url: /cherry-picking-71687b/
+    - title: False Cause
+      title_full: Did It Work, Or Just Happen After? | Evidence Gaps
+      url: /false-cause-d2310d/
+  - title: False Cause
+    title_full: Did One Thing Really Cause Another? | Fallacy Lab
+    url: /false-cause/
+    children:
+    - title: Counterfactuals
+      title_full: The One Question False Causes Avoid | False Cause
+      url: /counterfactuals/
+    - title: Lucky Rituals
+      title_full: Why Lucky Shirts Feel Like Evidence | False Cause
+      url: /lucky-rituals/
+    - title: Policy Timing
+      title_full: Did the Policy Work, or Just Arrive First? | False Cause
+      url: /policy-timing/
+    - title: Regression
+      title_full: When Improvement Was Already Likely | False Cause
+      url: /regression/
+    - title: VAERS Reports
+      title_full: When After a Vaccine Is Not Proof | False Cause
+      url: /vaers-reports/
+  - title: False Dilemma
+    title_full: What Choices Are Being Hidden? | Fallacy Lab
+    url: /false-dilemma/
+    children:
+    - title: Budget Debates
+      title_full: Is It Really Pay More or Collapse? | False Dilemma
+      url: /budget-debates/
+    - title: Bush Phrase
+      title_full: What Did 'With US' Leave Out? | False Dilemma
+      url: /bush-phrase/
+    - title: Privacy Security
+      title_full: Do We Have to Choose Privacy or Safety? | False Dilemma
+      url: /privacy-security/
+    - title: Real Choices
+      title_full: When Is a Dilemma Actually Real? | False Dilemma
+      url: /real-choices/
+    - title: Spotting Gaps
+      title_full: What Options Did the Argument Leave Out? | False Dilemma
+      url: /spotting-gaps/
+  - title: Formal Logic
+    title_full: When the Structure Makes Reasoning Fail | Fallacy Lab
+    url: /formal-logic/
+    children:
+    - title: Existence Errors
+      title_full: Do Universal Claims Prove Anything Exists | Formal Logic
+      url: /existence-errors/
+    - title: False Effects
+      title_full: When Evidence Looks Like Proof but Isnt | Formal Logic
+      url: /false-effects/
+    - title: Other Causes
+      title_full: The Fallacy That Rules Out Too Much | Formal Logic
+      url: /other-causes/
+    - title: Probability Trap
+      title_full: When Rare Evidence Misleads a Jury | Formal Logic
+      url: /probability-trap/
+    - title: Shared Category
+      title_full: Why Shared Traits Do Not Prove Identity | Formal Logic
+      url: /shared-category/
+  - title: Ignorance
+    title_full: What Does Missing Evidence Prove? | Fallacy Lab
+    url: /ignorance/
+    children:
+    - title: Not Proven
+      title_full: Why Not Guilty Is Not the Same as False | Ignorance
+      url: /not-proven/
+    - title: Null Results
+      title_full: When No Effect Has Not Been Proved | Ignorance
+      url: /null-results/
+    - title: Proof Burden
+      title_full: Who Has to Prove the Claim? | Ignorance
+      url: /proof-burden/
+    - title: Rumour Gaps
+      title_full: Why Silence Makes Rumours Feel True | Ignorance
+      url: /rumour-gaps/
+    - title: Silence Test
+      title_full: When Does No Evidence Actually Count? | Ignorance
+      url: /silence-test/
+  - title: Informal Logic
+    title_full: Why Context Changes the Argument | Fallacy Lab
+    url: /informal-logic/
+    children:
+    - title: Ad Hominem
+      title_full: When Personal Criticism Actually Matters | Informal Logic
+      url: /ad-hominem-7b72f2/
+    - title: Anecdotes
+      title_full: When One Story Becomes Too Much Proof | Informal Logic
+      url: /anecdotes-7b13b3/
+    - title: Authority
+      title_full: When Expert Opinion Is Not Enough | Informal Logic
+      url: /authority-69260f/
+    - title: Equivocation
+      title_full: When One Word Quietly Changes the Argument | Informal Logic
+      url: /equivocation-6842f1/
+    - title: Red Herrings
+      title_full: Is That Point Relevant or a Distraction? | Informal Logic
+      url: /red-herrings-13d922/
+  - title: Labels
+    title_full: When Fallacy Labels Mislead Too | Fallacy Lab
+    url: /labels/
+    children:
+    - title: Anecdotes
+      title_full: Does Anecdotal Evidence Make a Claim False? | Labels
+      url: /anecdotes-c0ecbe/
+    - title: Authority
+      title_full: When Expert Authority Is Helpful or Misleading | Labels
+      url: /authority-494dc1/
+    - title: Bad vs True
+      title_full: When Bad Arguments Still Reach True Claims | Labels
+      url: /bad-vs-true/
+    - title: Callouts
+      title_full: Why Online Fallacy Callouts Go Wrong | Labels
+      url: /callouts/
+    - title: Repair
+      title_full: How Fallacy Labels Can Improve Arguments | Labels
+      url: /repair/
+  - title: Loaded Words
+    title_full: What Is the Wording Sneaking In? | Fallacy Lab
+    url: /loaded-words/
+    children:
+    - title: Biased Surveys
+      title_full: How Question Wording Skews Survey Results | Loaded Words
+      url: /biased-surveys/
+    - title: Charged Labels
+      title_full: Are the Labels Doing More Than the Evidence? | Loaded Words
+      url: /charged-labels/
+    - title: Hidden Assumptions
+      title_full: How to Detect the Premises No One Defends | Loaded Words
+      url: /hidden-assumptions/
+    - title: Loaded Questions
+      title_full: When Does a Question Smuggle In an Answer? | Loaded Words
+      url: /loaded-questions/
+    - title: Memory Framing
+      title_full: Can One Word Change What People Remember? | Loaded Words
+      url: /memory-framing/
+  - title: No True
+    title_full: Are Definitions Moving to Escape Evidence? | Fallacy Lab
+    url: /no-true/
+    children:
+    - title: Fair Redefinition
+      title_full: When Is Redefinition Not a Fallacy? | No True
+      url: /fair-redefinition/
+    - title: Membership Tests
+      title_full: When Does a True Member Really Count? | No True
+      url: /membership-tests/
+    - title: Persuasive Words
+      title_full: When Definitions Carry Hidden Judgment | No True
+      url: /persuasive-words/
+    - title: Porridge Case
+      title_full: Why the Porridge Example Still Works | No True
+      url: /porridge-case/
+    - title: Purity Labels
+      title_full: How Purity Labels Shut Down Evidence | No True
+      url: /purity-labels/
+  - title: Novelty
+    title_full: Is New Always Better? | Fallacy Lab
+    url: /novelty/
+    children:
+    - title: Fair Comparison
+      title_full: How to Compare Old and New Fairly | Novelty
+      url: /fair-comparison/
+    - title: Medical Proof
+      title_full: When New Treatments Outrun the Evidence | Novelty
+      url: /medical-proof/
+    - title: Modern Claims
+      title_full: When Modern Language Does the Persuading | Novelty
+      url: /modern-claims/
+    - title: New Coke
+      title_full: Why New Coke Was Not Just a Taste Test | Novelty
+      url: /new-coke/
+    - title: Tech Hype
+      title_full: Does the New Feature Still Work Later? | Novelty
+      url: /tech-hype/
+  - title: Phones
+    title_full: Are Phone Rules Really All or Nothing? | Fallacy Lab
+    url: /phones/
+    children:
+    - title: Ban Models
+      title_full: What Does a Phone Ban Actually Mean? | Phones
+      url: /ban-models/
+    - title: Exceptions
+      title_full: When Should a Phone Rule Bend? | Phones
+      url: /exceptions/
+    - title: Locked Pouches
+      title_full: Are Locked Pouches a Simple Fix? | Phones
+      url: /locked-pouches/
+    - title: Test Scores
+      title_full: Do Phone Bans Raise Test Scores? | Phones
+      url: /test-scores/
+    - title: Wellbeing
+      title_full: Do Phone Rules Improve Wellbeing? | Phones
+      url: /wellbeing/
+  - title: Politics
+    title_full: How Public Arguments Go Off Track | Fallacy Lab
+    url: /politics/
+    children:
+    - title: Ad Hominem
+      title_full: When Personal Attacks Hide the Policy Question | Politics
+      url: /ad-hominem-bd3aff/
+    - title: Deregulation
+      title_full: The Missing Middle in Deregulation Debates | Politics
+      url: /deregulation/
+    - title: Polite Fallacies
+      title_full: Can a Fallacy Sound Perfectly Reasonable? | Politics
+      url: /polite-fallacies/
+    - title: Popularity
+      title_full: When Majority Support Becomes Fake Proof | Politics
+      url: /popularity-f296de/
+    - title: Straw Man
+      title_full: How Healthcare Claims Become Straw Men | Politics
+      url: /straw-man-3a18b7/
+  - title: Popularity
+    title_full: Does Belief Make a Claim True? | Fallacy Lab
+    url: /popularity/
+    children:
+    - title: Cascades
+      title_full: How Bandwagons Grow From Thin Evidence | Popularity
+      url: /cascades/
+    - title: Fake Reviews
+      title_full: Can Popular Reviews Be Trusted? | Popularity
+      url: /fake-reviews/
+    - title: Popularity Bias
+      title_full: Why Trending Lists Can Distort Judgment | Popularity
+      url: /popularity-bias/
+    - title: Social Proof
+      title_full: When Social Proof Stops Being Evidence | Popularity
+      url: /social-proof/
+    - title: The Asch Conformity Experiments
+      title_full: Why Obvious Answers Can Bend Under Pressure | Popularity
+      url: /the-asch-conformity-experiments/
+  - title: Red Herring
+    title_full: Is This Point Actually Relevant? | Fallacy Lab
+    url: /red-herring/
+    children:
+    - title: Context Test
+      title_full: Is It Context or a Dodge? | Red Herring
+      url: /context-test/
+    - title: Dead Cat
+      title_full: Why Shocking Distractions Work | Red Herring
+      url: /dead-cat/
+    - title: Detail Flood
+      title_full: When Details Become a Smokescreen | Red Herring
+      url: /detail-flood/
+    - title: Straw Man
+      title_full: Straw Man or Red Herring? | Red Herring
+      url: /straw-man-585401/
+    - title: Whataboutism
+      title_full: When Whataboutism Becomes a Dodge | Red Herring
+      url: /whataboutism/
+  - title: Relevance
+    title_full: Does This Reason Actually Matter? | Fallacy Lab
+    url: /relevance/
+    children:
+    - title: Ad Hominem
+      title_full: When Character Attacks Are Actually Relevant | Relevance
+      url: /ad-hominem-e77826/
+    - title: Pity Appeals
+      title_full: When Sympathy Does Not Prove the Claim | Relevance
+      url: /pity-appeals/
+    - title: Popularity
+      title_full: Does Popular Belief Make a Claim True? | Relevance
+      url: /popularity-1baf18/
+    - title: Red Herrings
+      title_full: When True Concerns Pull Arguments Off Track | Relevance
+      url: /red-herrings/
+    - title: Warrants
+      title_full: The Missing Bridge Between Evidence and Claim | Relevance
+      url: /warrants/
+  - title: Remedies
+    title_full: Do Popular Remedies Prove Themselves? | Fallacy Lab
+    url: /remedies/
+    children:
+    - title: Ad Red Flags
+      title_full: How miracle cure ads sell belief | Remedies
+      url: /ad-red-flags/
+    - title: FDA Warnings
+      title_full: What warning databases reveal about remedies | Remedies
+      url: /fda-warnings/
+    - title: Interactions
+      title_full: Natural does not always mean safe | Remedies
+      url: /interactions/
+    - title: Popularity
+      title_full: Why bestsellers can still mislead | Remedies
+      url: /popularity-e421fe/
+    - title: Testimonials
+      title_full: When recovery stories are not evidence | Remedies
+      url: /testimonials/
+  - title: Rumours
+    title_full: Why Rumours Feel Like Evidence | Fallacy Lab
+    url: /rumours/
+    children:
+    - title: False Cause
+      title_full: Did that really cause this? | Rumours
+      url: /false-cause-11cf12/
+    - title: FOAF Claims
+      title_full: Who actually said the warning? | Rumours
+      url: /foaf-claims/
+    - title: Health Harm
+      title_full: When health rumours become dangerous | Rumours
+      url: /health-harm/
+    - title: No Disproof
+      title_full: Why no disproof is not proof | Rumours
+      url: /no-disproof/
+    - title: Viral Proof
+      title_full: When sharing looks like evidence | Rumours
+      url: /viral-proof/
+  - title: Safety Claims
+    title_full: Did the Answer Address Safety? | Fallacy Lab
+    url: /safety-claims/
+    children:
+    - title: CPSC Reporting
+      title_full: Why Regulators Want Hazard Facts Fast | Safety Claims
+      url: /cpsc-reporting/
+    - title: Crash Stats
+      title_full: When Safety Statistics Compare the Wrong Things | Safety Claims
+      url: /crash-stats/
+    - title: Safety Pledges
+      title_full: When 'We Care About Safety' Is Not an Answer | Safety Claims
+      url: /safety-pledges/
+    - title: Scale Claims
+      title_full: Can Big Numbers Hide a Serious Hazard? | Safety Claims
+      url: /scale-claims/
+    - title: Tread Case
+      title_full: Did Warnings Answer the Tread+ Risk? | Safety Claims
+      url: /tread-case/
+  - title: Slippery Slope
+    title_full: Will One Step Really Lead There? | Fallacy Lab
+    url: /slippery-slope/
+    children:
+    - title: Boundaries
+      title_full: Does a Blurry Line Mean No Line? | Slippery Slope
+      url: /boundaries/
+    - title: Mechanisms
+      title_full: What Actually Makes the Slope Slippery? | Slippery Slope
+      url: /mechanisms/
+    - title: Missing Middle
+      title_full: Where Did the Middle of the Slope Go? | Slippery Slope
+      url: /missing-middle/
+    - title: Precedent
+      title_full: Does One Exception Really Rewrite the Rule? | Slippery Slope
+      url: /precedent/
+    - title: Safeguards
+      title_full: Can the Slide Be Stopped in Time? | Slippery Slope
+      url: /safeguards/
+  - title: Social Media
+    title_full: Why Bad Arguments Spread Fast Online | Fallacy Lab
+    url: /social-media/
+    children:
+    - title: False Choices
+      title_full: When Viral Posts Force False Choices | Social Media
+      url: /false-choices-ce4c3c/
+    - title: False News
+      title_full: Why False Claims Outrun Careful Corrections | Social Media
+      url: /false-news/
+    - title: Outrage
+      title_full: Does Outrage Make Bad Arguments Spread? | Social Media
+      url: /outrage/
+    - title: Pile Ons
+      title_full: When Personal Attacks Pretend To Prove A Point | Social Media
+      url: /pile-ons-220fa0/
+    - title: Screenshots
+      title_full: Why Screenshots Are Not Always Evidence | Social Media
+      url: /screenshots/
+  - title: Sports Cause
+    title_full: Did the Logo Cause the Losing Streak? | Fallacy Lab
+    url: /sports-cause/
+    children:
+    - title: Evidence Checks
+      title_full: How to Test a Sports Logo Curse | Sports Cause
+      url: /evidence-checks/
+    - title: Fan Backlash
+      title_full: Why New Sports Logos Make Fans Angry | Sports Cause
+      url: /fan-backlash/
+    - title: Logo Rules
+      title_full: Respect Ritual or Real Sports Curse? | Sports Cause
+      url: /logo-rules/
+    - title: Lucky Hits
+      title_full: Why Logo Superstitions Survive Bad Evidence | Sports Cause
+      url: /lucky-hits/
+    - title: Post Hoc
+      title_full: Did the Logo Really Cause the Losing Streak? | Sports Cause
+      url: /post-hoc/
+  - title: Straw Man
+    title_full: Are You Answering the Real Argument? | Fallacy Lab
+    url: /straw-man/
+    children:
+    - title: Corrections
+      title_full: How to Answer a Straw Man | Straw Man
+      url: /corrections/
+    - title: Exaggeration
+      title_full: When Moderate Claims Become Easy Targets | Straw Man
+      url: /exaggeration/
+    - title: Hollow Men
+      title_full: Who Actually Holds That View? | Straw Man
+      url: /hollow-men/
+    - title: Quote Mining
+      title_full: How Quotes Lose Their Meaning | Straw Man
+      url: /quote-mining/
+    - title: Weak Manning
+      title_full: When the Weakest Example Stands In | Straw Man
+      url: /weak-manning/
+  - title: Tone
+    title_full: Is Tone the Same as Logic? | Fallacy Lab
+    url: /tone/
+    children:
+    - title: Anger
+      title_full: Can an angry argument still be logical? | Tone
+      url: /anger/
+    - title: Credibility
+      title_full: When is a personal criticism relevant? | Tone
+      url: /credibility-a8ea40/
+    - title: Four Tests
+      title_full: The four tests every argument faces | Tone
+      url: /four-tests/
+    - title: Polite Weakness
+      title_full: Why polite arguments can still be bad | Tone
+      url: /polite-weakness/
+    - title: Tone Policing
+      title_full: When does tone policing become a fallacy? | Tone
+      url: /tone-policing/
+  - title: Tradition
+    title_full: Is Old the Same as Right? | Fallacy Lab
+    url: /tradition/
+    children:
+    - title: Old Rules
+      title_full: When Should Old Rules Stay? | Tradition
+      url: /old-rules/
+    - title: Semmelweis
+      title_full: When Medical Tradition Cost Lives | Tradition
+      url: /semmelweis/
+    - title: Status Quo
+      title_full: Why Familiar Choices Feel Safer | Tradition
+      url: /status-quo/
+    - title: Time Tested
+      title_full: What Has Time Really Tested? | Tradition
+      url: /time-tested/
+    - title: Traditional Roles
+      title_full: Does Tradition Make Roles Fair? | Tradition
+      url: /traditional-roles/
+  - title: Tu Quoque
+    title_full: Does Hypocrisy Refute the Claim? | Fallacy Lab
+    url: /tu-quoque/
+    children:
+    - title: Credibility
+      title_full: When Hypocrisy Really Hurts Credibility | Tu Quoque
+      url: /credibility/
+    - title: Double Standards
+      title_full: When Double Standards Are the Point | Tu Quoque
+      url: /double-standards/
+    - title: Feasibility
+      title_full: Does Hypocrisy Reveal Hidden Costs? | Tu Quoque
+      url: /feasibility/
+    - title: Smoking Doctor
+      title_full: Can a Hypocrite Still Give Good Advice? | Tu Quoque
+      url: /smoking-doctor/
+    - title: Whataboutism
+      title_full: When Whataboutism Dodges the Real Issue | Tu Quoque
+      url: /whataboutism-82b621/
+  - title: Wet Pavement
+    title_full: Why One Explanation Is Not Enough | Fallacy Lab
+    url: /wet-pavement/
+    children:
+    - title: Driver Example
+      title_full: Does No Accident Prove Good Driving? | Wet Pavement
+      url: /driver-example/
+    - title: One Way Logic
+      title_full: Why If P Then Q Does Not Reverse | Wet Pavement
+      url: /one-way-logic/
+    - title: Other Causes
+      title_full: What Else Could Make Pavement Wet? | Wet Pavement
+      url: /other-causes-a0566c/
+    - title: Smoke and Fire
+      title_full: When Bad Logic Still Feels Sensible | Wet Pavement
+      url: /smoke-and-fire/
+    - title: Truth Table
+      title_full: The Truth Table That Breaks the Rain Claim | Wet Pavement
+      url: /truth-table/

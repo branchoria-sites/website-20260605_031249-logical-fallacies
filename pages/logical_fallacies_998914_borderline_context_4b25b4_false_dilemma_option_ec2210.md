@@ -289,7 +289,7 @@ Consider statements such as:
 
 </div>
 
-The persuasive force comes from presenting the alternatives as exhaustive. Yet the neglected possibilities may include partial reforms, alternative proposals, temporary measures, compromise arrangements, or the decision to gather more evidence before acting. False dilemmas therefore do not merely reduce complexity; they often conceal relevant choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">false dilemma fallacy</span><span class="citation-popover-snippet">ScribbrFalse Dilemma Fallacy | Examples &amp; Definition30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLFalse Dilemma Fallacy</span><span class="citation-popover-snippet">Excelsior OWLFalse Dilemma Fallacy - Excelsior OWLA false dilemma is a logical fallacy that presents only two options or sides to an issu...</span></span></span> A useful warning sign is when a speaker jumps directly from“these are two options” to “therefore one of them must be accepted”. The existence of two options does not prove that no others exist.
+The persuasive force comes from presenting the alternatives as exhaustive. Yet the neglected possibilities may include partial reforms, alternative proposals, temporary measures, compromise arrangements, or the decision to gather more evidence before acting. False dilemmas therefore do not merely reduce complexity; they often conceal relevant choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">false dilemma fallacy</span><span class="citation-popover-snippet">False Dilemma Fallacy &#124; Examples &amp; Definition30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLFalse Dilemma Fallacy</span><span class="citation-popover-snippet">Excelsior OWLFalse Dilemma Fallacy - Excelsior OWLA false dilemma is a logical fallacy that presents only two options or sides to an issu...</span></span></span> A useful warning sign is when a speaker jumps directly from“these are two options” to “therefore one of them must be accepted”. The existence of two options does not prove that no others exist.
 
 ## Rules That Genuinely Create Two Options
 
@@ -323,7 +323,7 @@ A common pattern is:
 
 > Either we adopt policy X immediately, or we accept problem Y forever.
 
-The argument may overlook modified versions of policy X, competing proposals, phased implementation, pilot programmes, or non-regulatory solutions. The omission matters because public decisions rarely involve only one proposed remedy and complete inaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">false dilemma fallacy</span><span class="citation-popover-snippet">ScribbrFalse Dilemma Fallacy | Examples &amp; Definition30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The argument may overlook modified versions of policy X, competing proposals, phased implementation, pilot programmes, or non-regulatory solutions. The omission matters because public decisions rarely involve only one proposed remedy and complete inaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">false dilemma fallacy</span><span class="citation-popover-snippet">False Dilemma Fallacy &#124; Examples &amp; Definition30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 The classic example discussed in critical-thinking literature concerns noise regulation. A speaker may claim that regulating excessive noise would force businesses to close. Yet additional options exist, such as soundproofing, revised operating practices, or targeted restrictions. The argument appears reasonable only because intermediate possibilities have been excluded from view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span>
 
@@ -335,7 +335,7 @@ This does not mean every political compromise is feasible. Budget limits, legal 
 
 False dilemmas often rely on a psychological preference for clear categories. People frequently find it easier to think in terms of success or failure, loyalty or betrayal, safety or danger, rather than navigating uncertainty and mixed outcomes. Researchers and theorists of fallacies have long noted that binary framing simplifies complex realities and can make decisions feel more manageable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of fallacies</span><span class="citation-popover-snippet">List of fallaciesFalse dilemma (false dichotomy, fallacy of bifurcation, black-or-white fallacy) – two alternative statements are give...</span></span></span>
 
-This tendency becomes especially powerful when the alternatives are [emotionally charged]({{ 'charged-labels/' | relative_url }}):
+This tendency becomes especially powerful when the alternatives are emotionally charged:
 
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
@@ -389,14 +389,14 @@ Instead of asking, “Which of these two options must we choose?”, the discuss
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
-* What other options exist? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">| False Dilemma, Dichotomy...13 May 2026 — The either-or fallacy presents only two options as the only possibilities, ignoring other alt...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+* What other options exist? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">False Dilemma, Dichotomy...13 May 2026 — The either-or fallacy presents only two options as the only possibilities, ignoring other alt...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 * Which alternatives are realistic?
 * What compromises are available?
 * What constraints genuinely eliminate some choices?
 
 </div>
 
-Once those questions are raised, the force of the original argument often weakens. The audience is no longer confined to a manufactured binary and can evaluate the broader range of possibilities. That shift—from forced choice to genuine comparison—is the central reason false dilemmas matter in critical thinking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">| False Dilemma, Dichotomy...13 May 2026 — The either-or fallacy presents only two options as the only possibilities, ignoring other alt...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Once those questions are raised, the force of the original argument often weakens. The audience is no longer confined to a manufactured binary and can evaluate the broader range of possibilities. That shift—from forced choice to genuine comparison—is the central reason false dilemmas matter in critical thinking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">False Dilemma, Dichotomy...13 May 2026 — The either-or fallacy presents only two options as the only possibilities, ignoring other alt...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -820,81 +820,81 @@ Once those questions are raised, the force of the original argument often weaken
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: False dilemma  
-   Link: [https://en.wikipedia.org/wiki/False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_dilemma</a>  
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica What Is the Either-Or Fallacy?  
-   Link: [https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy](https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| False Dilemma, Dichotomy...13 May 2026 — The either-or fallacy presents only two options as the only possibilities, ignoring other alt...</p></details>
+   Link: <a href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma, Dichotomy...13 May 2026 — The either-or fallacy presents only two options as the only possibilities, ignoring other alt...</p></details>
    Published: May 2026  
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/6233/5355](https://informallogic.ca/index.php/informal_logic/article/view/6233/5355)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/6233/5355" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/6233/5355</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Distinction Between False Dilemma and False Disjunctive...by T Tomic · 2021 · Cited by 5 — By adding the additional relevant disjunc...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: scribbr.com  
    Title: false dilemma fallacy  
-   Link: [https://www.scribbr.com/fallacies/false-dilemma-fallacy/](https://www.scribbr.com/fallacies/false-dilemma-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrFalse Dilemma Fallacy | Examples &amp; Definition30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/false-dilemma-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma Fallacy | Examples &amp; Definition30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by...</p></details>
    Published: May 2023  
 
 6. <a id="endnote-6"></a>
    Source: owl.excelsior.edu  
    Title: OWLFalse Dilemma Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLFalse Dilemma Fallacy - Excelsior OWLA false dilemma is a logical fallacy that presents only two options or sides to an issu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: rintintin.colorado.edu  
-   Link: [https://rintintin.colorado.edu/~vancecd/phil1440/forms.pdf](https://rintintin.colorado.edu/~vancecd/phil1440/forms.pdf)  
+   Link: <a href="https://rintintin.colorado.edu/~vancecd/phil1440/forms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rintintin.colorado.edu/~vancecd/phil1440/forms.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The argument just given is both “valid” and “sound”Whenever the disjunctive premise has the form “A ˅ ~A”, then there is no way for it to...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: [https://plato.stanford.edu/entries/category-mistakes/](https://plato.stanford.edu/entries/category-mistakes/)  
+   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 171 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: web.stanford.edu  
-   Link: [https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm](https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm)  
+   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesFalse Dilemma: two choices are given when in fact there are three options; From [Ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;): because something is not known to be...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/7171](https://informallogic.ca/index.php/informal_logic/article/view/7171)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/7171" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/7171</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The formalized model (FM)of this fallacy has as its centerpiece a valid disjunctive...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesFalse dilemma (false dichotomy, fallacy of bifurcation, black-or-white fallacy) – two alternative statements are give...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scribbr.co.uk  
    Title: Scribbr False Dilemma Fallacy | Examples & Definition  
-   Link: [https://www.scribbr.co.uk/fallacy/false-dilemma/](https://www.scribbr.co.uk/fallacy/false-dilemma/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/false-dilemma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma Fallacy | Examples &amp; Definition - Scribbr30 May 2023 — The false dilemma fallacy means presenting a limited number of optio...</p></details>
    Published: May 2023  
 
@@ -903,53 +903,53 @@ Once those questions are raised, the force of the original argument often weaken
 15. <a id="endnote-15"></a>
    Source: hoover.org  
    Title: leaving middle east fallacy false dichotomy  
-   Link: [https://www.hoover.org/research/leaving-middle-east-fallacy-false-dichotomy](https://www.hoover.org/research/leaving-middle-east-fallacy-false-dichotomy)  
+   Link: <a href="https://www.hoover.org/research/leaving-middle-east-fallacy-false-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://www.hoover.org/research/leaving-middle-east-fallacy-false-dichotomy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hoover InstitutionLeaving The Middle East: The Fallacy Of A False Dichotomy2 Apr 2020 — The false dichotomy, or false dilemma, is defined...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: erudit.org  
-   Link: [https://www.erudit.org/en/journals/informallogic/2023-v43-n2-informallogic08215/1101538ar.pdf](https://www.erudit.org/en/journals/informallogic/2023-v43-n2-informallogic08215/1101538ar.pdf)  
+   Link: <a href="https://www.erudit.org/en/journals/informallogic/2023-v43-n2-informallogic08215/1101538ar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/en/journals/informallogic/2023-v43-n2-informallogic08215/1101538ar.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alternatives not only fail to be jointly exhaustive, but they are not even likely. As a result, the disjunctive premise is false, or at l...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/false-dichotomy](https://fallacyguide.com/fallacies/false-dichotomy)  
+   Link: <a href="https://fallacyguide.com/fallacies/false-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/false-dichotomy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dichotomy Fallacy: Definition, Examples &amp; How to Fix ItFalse dichotomy forces a choice between two options when more exist. See pat...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: inoculation.science  
-   Link: [https://inoculation.science/inoculation-videos/false-dichotomy/](https://inoculation.science/inoculation-videos/false-dichotomy/)  
+   Link: <a href="https://inoculation.science/inoculation-videos/false-dichotomy/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/inoculation-videos/false-dichotomy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos - False DichotomiesA false dichotomy (or false dilemma) is a logical fallacy in which a limited number of choices or sides are pre...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: open.library.okstate.edu  
    Title: unknown 3  
-   Link: [https://open.library.okstate.edu/criticalthinking/chapter/__unknown__-3/](https://open.library.okstate.edu/criticalthinking/chapter/__unknown__-3/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>– Critical ThinkingFalse dilemma Presenting a limited set of alternatives when there are others that are worth considering in the context...</p></details>
+   Link: <a href="https://open.library.okstate.edu/criticalthinking/chapter/__unknown__-3/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/criticalthinking/chapter/__unknown__-3/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical ThinkingFalse dilemma Presenting a limited set of alternatives when there are others that are worth considering in the context...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: psychologyfanatic.com  
    Title: logical fallacy of false dilemmas  
-   Link: [https://psychologyfanatic.com/logical-fallacy-of-false-dilemmas/](https://psychologyfanatic.com/logical-fallacy-of-false-dilemmas/)  
+   Link: <a href="https://psychologyfanatic.com/logical-fallacy-of-false-dilemmas/" target="_blank" rel="noopener noreferrer nofollow">https://psychologyfanatic.com/logical-fallacy-of-false-dilemmas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemmas: Understanding Logical Fallacies23 May 2025 — Basically, the fallacy of false dilemma works by limiting the options unfair...</p></details>
    Published: May 2025  
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/hj95ip/why_is_the_euthyphro_dilemma_a_false_dilemma/](https://www.reddit.com/r/askphilosophy/comments/hj95ip/why_is_the_euthyphro_dilemma_a_false_dilemma/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/hj95ip/why_is_the_euthyphro_dilemma_a_false_dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/hj95ip/why_is_the_euthyphro_dilemma_a_false_dilemma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.youtube.com/watch?v=Di710J7Hia4](https://www.youtube.com/watch?v=Di710J7Hia4) Basically he states...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.3758/s13421-018-0804-x](https://link.springer.com/article/10.3758/s13421-018-0804-x)  
+   Link: <a href="https://link.springer.com/article/10.3758/s13421-018-0804-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-018-0804-x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dilemma fallacies and content effects - Springer Natureby J Brisson · 2018 · Cited by 29 — From a logical point of view, the false dilemm...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XIyLqUOJ0lY](https://www.youtube.com/watch?v=XIyLqUOJ0lY)  
+   Link: <a href="https://www.youtube.com/watch?v=XIyLqUOJ0lY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XIyLqUOJ0lY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>laiming that there are only two options...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: creationmagazine.com  
-   Link: [https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091](https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091)  
+   Link: <a href="https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091" target="_blank" rel="noopener noreferrer nofollow">https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consider having two premises (alternatives), P and Q. &#x27;Either P or Q&#x27; in a logical argument means...Read more...</p></details>

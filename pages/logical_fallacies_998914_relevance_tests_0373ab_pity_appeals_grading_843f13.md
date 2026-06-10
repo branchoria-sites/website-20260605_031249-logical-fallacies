@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_relevance_tests_0373ab_pity_appea
 
 ## Introduction
 
-An appeal to pity can feel highly relevant when a student is facing genuine hardship. Illness, family crises, financial pressure, bereavement, or other difficulties naturally invite compassion. The key question in reasoning, however, is not whether the hardship is real but whether it proves the specific claim being made. In grading disputes, this distinction is especially important. A student's difficult circumstances may justify support, extensions, accommodations, or alternative arrangements, but they do not automatically demonstrate that the required academic standard has been met. An appeal to pity becomes fallacious when sympathy is used as evidence for a conclusion that requires different evidence. In the language of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a [relevance]({{ 'relevance/' | relative_url }}) problem: the emotional facts may be true and important, yet still fail to establish the grading claim under discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">ScribbrAppeal to Pity Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</span></span></span>
+An appeal to pity can feel highly relevant when a student is facing genuine hardship. Illness, family crises, financial pressure, bereavement, or other difficulties naturally invite compassion. The key question in reasoning, however, is not whether the hardship is real but whether it proves the specific claim being made. In grading disputes, this distinction is especially important. A student's difficult circumstances may justify support, extensions, accommodations, or alternative arrangements, but they do not automatically demonstrate that the required academic standard has been met. An appeal to pity becomes fallacious when sympathy is used as evidence for a conclusion that requires different evidence. In the language of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a [relevance]({{ 'relevance/' | relative_url }}) problem: the emotional facts may be true and important, yet still fail to establish the grading claim under discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_pity_appeals_grading_843f13-Illustration-1-dark.svg" | relative_url }}" alt="Pity Appeals illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_pity_appeals_grading_843f13-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_pity_appeals_grading_843f13-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,13 +282,13 @@ An appeal to pity can feel highly relevant when a student is facing genuine hard
 
 Grading decisions concern real people, not abstract numbers. Because educational outcomes affect scholarships, careers, family expectations, and self-esteem, stories of hardship often seem inseparable from academic judgement.
 
-This reaction is understandable. Human beings are responsive to compassion, and emotional information can influence persuasion even when it does not directly address the issue being evaluated. Research on [emotional framing]({{ 'fake-news/' | relative_url }}) and argument evaluation suggests that emotional content can make weak reasoning appear more convincing and can reduce people's ability to identify fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEmotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
+This reaction is understandable. Human beings are responsive to compassion, and emotional information can influence persuasion even when it does not directly address the issue being evaluated. Research on emotional framing and argument evaluation suggests that emotional content can make weak reasoning appear more convincing and can reduce people's ability to identify fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
 
 Consider a student who says:
 
 > "Please raise my grade. My laptop was stolen, my car broke down, and I have had an awful semester."
 
-The circumstances may be genuine and unfortunate. Yet the grading question is whether the submitted work satisfies the criteria for the grade requested. The hardship explains why performance may have suffered, but it does not itself demonstrate that the work deserved a higher mark. This is why logic texts commonly use grade appeals as examples of the appeal to pity fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">ScribbrAppeal to Pity Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[Philosophy at HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">pens when people argue for special treatment on the basis of...Read more...</span></span></span>
+The circumstances may be genuine and unfortunate. Yet the grading question is whether the submitted work satisfies the criteria for the grade requested. The hardship explains why performance may have suffered, but it does not itself demonstrate that the work deserved a higher mark. This is why logic texts commonly use grade appeals as examples of the appeal to pity fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[Philosophy at HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">pens when people argue for special treatment on the basis of...Read more...</span></span></span>
 
 The emotional force of the story can create a sense that refusing the request would be harsh. However, "this person deserves sympathy" and "this work earned a higher grade" are different conclusions. The first may be true while the second remains unproven.
 
@@ -316,7 +316,7 @@ For example, if university policy permits deadline extensions for documented ill
 
 A common misunderstanding is that all emotional appeals are irrational. They are not.
 
-An appeal to pity becomes fallacious when it replaces evidence rather than supplementing it. Argumentation scholars and critical-thinking texts consistently note that appeals to compassion can be legitimate when compassion is relevant to the decision being made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">ScribbrAppeal to Pity Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> In educational settings, emotional information may be relevant when:
+An appeal to pity becomes fallacious when it replaces evidence rather than supplementing it. Argumentation scholars and critical-thinking texts consistently note that appeals to compassion can be legitimate when compassion is relevant to the decision being made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> In educational settings, emotional information may be relevant when:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -377,11 +377,11 @@ When confronted with a plea for a higher grade based primarily on hardship, a si
 
 </div>
 
-If the hardship supports a different conclusion than the one being argued for, the reasoning has drifted away from the issue under evaluation. That drift is the hallmark of an [appeal to pity as]({{ 'pity-proof/' | relative_url }}) a fallacy of relevance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAd Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of relevance.......</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">ScribbrAppeal to Pity Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</span></span></span>
+If the hardship supports a different conclusion than the one being argued for, the reasoning has drifted away from the issue under evaluation. That drift is the hallmark of an appeal to pity as a fallacy of relevance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAd Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of relevance.......</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</span></span></span>
 
 ## The Core Lesson
 
-Appeals to pity in grading disputes are persuasive because compassion matters. The mistake is not caring about hardship; the mistake is treating hardship as proof of a claim that must be established by academic evidence. Strong reasoning keeps these issues distinct. Sympathy may justify support, flexibility, or assistance, but a grade is earned by satisfying the criteria used to award it. When emotional considerations replace those criteria rather than informing a separate decision, the appeal to pity has crossed from compassion into fallacious reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">ScribbrAppeal to Pity Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[Philosophy at HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">pens when people argue for special treatment on the basis of...Read more...</span></span></span>
+Appeals to pity in grading disputes are persuasive because compassion matters. The mistake is not caring about hardship; the mistake is treating hardship as proof of a claim that must be established by academic evidence. Strong reasoning keeps these issues distinct. Sympathy may justify support, flexibility, or assistance, but a grade is earned by satisfying the criteria used to award it. When emotional considerations replace those criteria rather than informing a separate decision, the appeal to pity has crossed from compassion into fallacious reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Appeal to Pity Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[Philosophy at HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">pens when people argue for special treatment on the basis of...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GBIGUQKzCkE" title="Critical Thinking: The Fallacy of Appeal to Pity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GBIGUQKzCkE" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal to Pity</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 3.7K &middot; Uploaded: December 2014 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GBIGUQKzCkE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GBIGUQKzCkE">Open on YouTube</a></p></div></div></div>
@@ -809,126 +809,126 @@ Appeals to pity in grading disputes are persuasive because compassion matters. T
 1. <a id="endnote-1"></a>
    Source: scribbr.com  
    Title: appeal to pity  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-pity/](https://www.scribbr.com/fallacies/appeal-to-pity/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAppeal to Pity Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-pity/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Pity Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoki...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2510.09695](https://arxiv.org/abs/2510.09695)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEmotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.09695</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</p></details>
    Published: October 9, 2025  
 
 3. <a id="endnote-3"></a>
    Source: philosophy.hku.hk  
-   Link: [https://philosophy.hku.hk/think/fallacy/list.php](https://philosophy.hku.hk/think/fallacy/list.php)  
+   Link: <a href="https://philosophy.hku.hk/think/fallacy/list.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/fallacy/list.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pens when people argue for special treatment on the basis of...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: thoughtco.com  
    Title: Thought Co Definition and Examples of Argumentum Ad Misericordiam  
-   Link: [https://www.thoughtco.com/what-is-ad-misericordiam-1688966](https://www.thoughtco.com/what-is-ad-misericordiam-1688966)  
+   Link: <a href="https://www.thoughtco.com/what-is-ad-misericordiam-1688966" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/what-is-ad-misericordiam-1688966</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples of Argumentum Ad MisericordiamMay 17, 2025 — When an appeal to sympathy or pity is highly exaggerated or irreleva...</p></details>
    Published: May 17, 2025  
 
 5. <a id="endnote-5"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterAppeal to pity. Definition: The appeal to pity takes place when an arguer tries to get pe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 7. <a id="endnote-7"></a>
    Source: read.aupress.ca  
    Title: Athabasca University Press Chapter 15  
-   Link: [https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf](https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf)  
+   Link: <a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of Emotional BiasThe fallacy of appeal to pity occurs when we attempt to evoke feelings of pity or compassion in order to cause...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/misery.html](https://philosophy.lander.edu/logic/misery.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/misery.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageArgumentum ad MisericordiamAppeal to Pity or Sympathy with Examples. Abstract: The ad misericordiam fallacy illicitly...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: afterall.net  
    Title: appeal to pity  
-   Link: [https://afterall.net/illogic/motive/appeal-to-pity/](https://afterall.net/illogic/motive/appeal-to-pity/)  
+   Link: <a href="https://afterall.net/illogic/motive/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/motive/appeal-to-pity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illogic at Afterall.net1 Jan 2026 — In this fallacious argument it is implied that agreement should be forthcoming out of sympathy for th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: study.com  
    Title: Appeal to Pity Fallacy | Definition & Examples  
-   Link: [https://study.com/academy/lesson/video/appeal-to-pity-fallacy-definition-examples.html](https://study.com/academy/lesson/video/appeal-to-pity-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/video/appeal-to-pity-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/appeal-to-pity-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoThe appeal to pity fallacy (argumentum ad misericodiam) occurs when someone tries to win an argument by emphasizing unfortunate cons...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: study.com  
    Title: Appeal to Pity Fallacy | Definition & Examples  
-   Link: [https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html](https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LessonThe appeal to pity fallacy is a logical fallacy in which a person making an argument ignores the argument or fails to provide a rat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conceptions of fallacies are that they are false but...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PityDescription: The attempt to distract from the truth of the conclusion by the use of pity. Logical Forms: Person 1 is accuse...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 226186090 Appeal to pity A case study of the argumentum ad misericordiam  
-   Link: [https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam](https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam)  
+   Link: <a href="https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Appeal to pity: A case study of the argumentum ad...Nov 29, 2020 — PDF | The appeal to pity, orargumentum ad misericordiam, has tr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: coursehero.com  
    Title: 29288077 Define and describe the appeal to Pity argumentum ad  
-   Link: [https://www.coursehero.com/tutors-problems/English/29288077-Define-and-describe-the-appeal-to-Pity-argumentum-ad/](https://www.coursehero.com/tutors-problems/English/29288077-Define-and-describe-the-appeal-to-Pity-argumentum-ad/)  
+   Link: <a href="https://www.coursehero.com/tutors-problems/English/29288077-Define-and-describe-the-appeal-to-Pity-argumentum-ad/" target="_blank" rel="noopener noreferrer nofollow">https://www.coursehero.com/tutors-problems/English/29288077-Define-and-describe-the-appeal-to-Pity-argumentum-ad/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An appeal to pity or the argumentum ad misericordiam is a fallacy where someone tries to win certain support for an idea...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/354151720/Appeal-to-Pity](https://www.scribd.com/document/354151720/Appeal-to-Pity)  
+   Link: <a href="https://www.scribd.com/document/354151720/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/354151720/Appeal-to-Pity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ls to pity, [ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;), equivocation, composition, division...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: inquiresabound.wordpress.com  
    Title: argumentum ad misericordiam appeal to pity  
-   Link: [https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/](https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Misericordiam (Appeal to Pity) - Meta/InquiresSep 5, 2021 — It is an [appeal to emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;), specifically pity, as a piece of evidence inst...</p></details>
+   Link: <a href="https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Misericordiam (Appeal to Pity) - Meta/InquiresSep 5, 2021 — It is an appeal to [emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;), specifically pity, as a piece of evidence inst...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/Appeal_to_Pity.html?id=X7JzWpRV4T0C](https://books.google.com/books/about/Appeal_to_Pity.html?id=X7JzWpRV4T0C)  
+   Link: <a href="https://books.google.com/books/about/Appeal_to_Pity.html?id=X7JzWpRV4T0C" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Appeal_to_Pity.html?id=X7JzWpRV4T0C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksAppeal to Pity: Argumentum ad MisericordiamAppeal to pity has frequently been exploited with amazing success as a deceptive t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: grammarly.com  
    Title: What Is the Appeal to Pity Fallacy?  
-   Link: [https://www.grammarly.com/blog/rhetorical-devices/appeal-to-pity-fallacy/](https://www.grammarly.com/blog/rhetorical-devices/appeal-to-pity-fallacy/)  
+   Link: <a href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-pity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/appeal-to-pity-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples12 Oct 2022 — The appeal to pity fallacy is the fallacy of supporting a position by attempting to provoke pity or...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: quillbot.com  
    Title: What Is Appeal to Pity Fallacy?  
-   Link: [https://quillbot.com/blog/reasoning/appeal-to-pity-fallacy/](https://quillbot.com/blog/reasoning/appeal-to-pity-fallacy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Examples &amp; DefinitionJun 24, 2024 — The appeal to pity fallacy occurs when an argument attempts to persuade by evoking compassion rathe...</p></details>
+   Link: <a href="https://quillbot.com/blog/reasoning/appeal-to-pity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/appeal-to-pity-fallacy/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; DefinitionJun 24, 2024 — The appeal to pity fallacy occurs when an argument attempts to persuade by evoking compassion rathe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ses.edu  
    Title: argumentum ad misericoriam  
-   Link: [https://ses.edu/argumentum-ad-misericoriam/](https://ses.edu/argumentum-ad-misericoriam/)  
+   Link: <a href="https://ses.edu/argumentum-ad-misericoriam/" target="_blank" rel="noopener noreferrer nofollow">https://ses.edu/argumentum-ad-misericoriam/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 14, 2017 — The person who appeals to pity is exploiting the feelings of the hearer rather than putting forth convincing evidence that...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pressbooks.pub  
    Title: chapter 12 rhetorical appeals and fallacies  
-   Link: [https://pressbooks.pub/centralarizonacollege/chapter/chapter-12-rhetorical-appeals-and-fallacies/](https://pressbooks.pub/centralarizonacollege/chapter/chapter-12-rhetorical-appeals-and-fallacies/)  
+   Link: <a href="https://pressbooks.pub/centralarizonacollege/chapter/chapter-12-rhetorical-appeals-and-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/centralarizonacollege/chapter/chapter-12-rhetorical-appeals-and-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stirring emotions in an audience is a way to get them involved in the argument, and involvement can create more...</p></details>

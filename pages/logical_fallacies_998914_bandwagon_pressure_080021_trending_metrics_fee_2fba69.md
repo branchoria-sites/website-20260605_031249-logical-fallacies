@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:34:08'
 parent_title: Are You Being Pressured to Join? | Fallacy Lab
 parent_permalink: /bandwagon/
 parent_nav_short_title: Bandwagon
@@ -259,7 +260,6 @@ prev_link:
   permalink: /standing-alone/
   short_title: Standing Alone
   heading_title: Why Disagreement Feels Socially Risky
-date: '2026-06-05 02:34:08 '
 header:
   og_image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-1.webp
@@ -278,7 +278,7 @@ Popularity metrics compress large amounts of social information into a single, e
 
 This shortcut is often useful. A product with thousands of reviews may genuinely have more evidence behind it than a product with none. A widely followed account may have earned its audience through expertise or entertainment value. The problem arises when the popularity signal quietly substitutes for independent evaluation.
 
-Online platforms make these signals unusually vivid. Users encounter precise numbers—likes, reposts, downloads, subscribers and ratings—rather than vague impressions. Studies of social media engagement metrics have found that high engagement counts increase perceived newsworthiness and encourage users to read and share content, even when the metrics themselves do not establish the content's accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Effect of Social Media Engagement Metrics in Risk</span><span class="citation-popover-snippet">ResearchGateEffect of Social Media Engagement Metrics in Risk...September 29, 2020 — Findings suggest that high engagement metrics show...</span><span class="citation-popover-meta">Published: September 29, 2020</span></span></span>
+Online platforms make these signals unusually vivid. Users encounter precise numbers—likes, reposts, downloads, subscribers and ratings—rather than vague impressions. Studies of social media engagement metrics have found that high engagement counts increase perceived newsworthiness and encourage users to read and share content, even when the metrics themselves do not establish the content's accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Effect of Social Media Engagement Metrics in Risk</span><span class="citation-popover-snippet">Effect of Social Media Engagement Metrics in Risk...September 29, 2020 — Findings suggest that high engagement metrics show...</span><span class="citation-popover-meta">Published: September 29, 2020</span></span></span>
 
 Trending indicators can therefore function as a persuasive cue before any substantive assessment occurs. The implicit message is not simply “many people noticed this” but often “many people noticed this, therefore it must be worth noticing”.
 
@@ -312,9 +312,9 @@ Trending systems are often presented as mirrors of public interest. Yet once use
 
 A trending topic receives additional exposure simply because it occupies a privileged position on a page or feed. Users who might otherwise have ignored it are more likely to click, discuss or share it. Those interactions then generate further evidence that the topic is important.
 
-This creates a self-fulfilling dynamic. The label “trending” is initially based on behaviour, but the label also changes behaviour. As a result, later popularity may reflect both genuine interest and the influence of the visibility mechanism itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
+This creates a self-fulfilling dynamic. The label “trending” is initially based on behaviour, but the label also changes behaviour. As a result, later popularity may reflect both genuine interest and the influence of the visibility mechanism itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
 
-Experimental research on ranked feeds suggests that placement alone affects attention. Identical content can receive significantly different levels of engagement depending on where it appears in a popularity-based ranking, even when users do not consciously recognise the influence of rank. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
+Experimental research on ranked feeds suggests that placement alone affects attention. Identical content can receive significantly different levels of engagement depending on where it appears in a popularity-based ranking, even when users do not consciously recognise the influence of rank. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</span><span class="citation-popover-meta">Published: September 22, 2025</span></span></span>
 
 From a logical perspective, this means that popularity metrics are not always independent evidence. Sometimes they are partly the outcome of previous popularity signals.
 
@@ -328,9 +328,9 @@ Platforms often optimise for engagement because engagement is measurable. Recomm
 
 The difficulty is that engagement and quality are not identical concepts.
 
-A post may attract attention because it is informative, but it may also attract attention because it is emotionally provocative, controversial, surprising or already popular. Internal reporting and external analyses of social-media ranking systems have documented cases where engagement-focused weighting increased the visibility of [emotionally charged]({{ 'charged-labels/' | relative_url }}) content because those interactions generated stronger user responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabMore internal documents show how Facebook&#x27;s algorithm...26 Oct 2021 — The ranking algorithm treated reactions such as “angry,”...</span></span></span>
+A post may attract attention because it is informative, but it may also attract attention because it is emotionally provocative, controversial, surprising or already popular. Internal reporting and external analyses of social-media ranking systems have documented cases where engagement-focused weighting increased the visibility of emotionally charged content because those interactions generated stronger user responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: niemanlab.org">[Nieman Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">niemanlab.org</span><span class="citation-popover-snippet">Nieman LabMore internal documents show how Facebook&#x27;s algorithm...26 Oct 2021 — The ranking algorithm treated reactions such as “angry,”...</span></span></span>
 
-When users interpret popularity as proof of truth, expertise or value, they risk committing a bandwagon-style error. The metric may indicate that many people interacted with the content, but it does not automatically establish why they interacted with it.
+When users interpret popularity as proof of truth, expertise or value, they risk committing a [bandwagon]({{ 'bandwagon/' | relative_url }})-style error. The metric may indicate that many people interacted with the content, but it does not automatically establish why they interacted with it.
 
 ## Ratings, Reviews and Bestseller Badges
 
@@ -802,156 +802,156 @@ Online feedback loops make this distinction especially important because visible
 
 1. <a id="endnote-1"></a>
    Source: princeton.edu  
-   Link: [https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf](https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf)  
+   Link: <a href="https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.princeton.edu/~mjs3/salganik_dodds_watts06_full.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Princeton UniversityExperimental Study of Inequality and Unpredictability in an...September 14, 2006 — by MJ Salganik · Cited by 3018 —...</p></details>
    Published: September 14, 2006  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCQuantifying Social Influence in an Online Cultural Market  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSocial Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 304 — Algorithmic mechanisms on digital media...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 304 — Algorithmic mechanisms on digital media...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Effect of Social Media Engagement Metrics in Risk  
-   Link: [https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication](https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateEffect of Social Media Engagement Metrics in Risk...September 29, 2020 — Findings suggest that high engagement metrics show...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345897932_The_Meaning_of_Numbers_Effect_of_Social_Media_Engagement_Metrics_in_Risk_Communication</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Social Media Engagement Metrics in Risk...September 29, 2020 — Findings suggest that high engagement metrics show...</p></details>
    Published: September 29, 2020  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Matthew effect  
-   Link: [https://en.wikipedia.org/wiki/Matthew_effect](https://en.wikipedia.org/wiki/Matthew_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Matthew_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Matthew_effect</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Algorithmic amplification  
-   Link: [https://en.wikipedia.org/wiki/Algorithmic_amplification](https://en.wikipedia.org/wiki/Algorithmic_amplification)  
+   Link: <a href="https://en.wikipedia.org/wiki/Algorithmic_amplification" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Algorithmic_amplification</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2509.18440](https://arxiv.org/abs/2509.18440)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2509.18440" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.18440</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ranking Effect: How Algorithmic Rank Influences Attention on Social MediaSeptember 22, 2025...</p></details>
    Published: September 22, 2025  
 
 8. <a id="endnote-8"></a>
    Source: marketingcourse.org  
    Title: Marketing Course.org The Psychology of Online Reviews and Ratings: Leveraging  
-   Link: [https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/](https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/)  
+   Link: <a href="https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/" target="_blank" rel="noopener noreferrer nofollow">https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Online Reviews and Ratings: Leveraging...May 5, 2025 — 5 May 2025 — Online reviews and ratings serve as a potent form...</p></details>
    Published: May 5, 2025  
 
 9. <a id="endnote-9"></a>
    Source: ijfans.org  
-   Link: [https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf](https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf)  
+   Link: <a href="https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2406.19571v1](https://arxiv.org/html/2406.19571v1)  
+   Link: <a href="https://arxiv.org/html/2406.19571v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2406.19571v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reranking Social Media Feeds: A Practical Guide for Field...27 Jun 2024 — This article offers practical recommendations to researchers d...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/51372761_Experimental_Study_of_Inequality_and_Unpredictability_in_an_Artificial_Cultural_Market](https://www.researchgate.net/publication/51372761_Experimental_Study_of_Inequality_and_Unpredictability_in_an_Artificial_Cultural_Market)  
+   Link: <a href="https://www.researchgate.net/publication/51372761_Experimental_Study_of_Inequality_and_Unpredictability_in_an_Artificial_Cultural_Market" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51372761_Experimental_Study_of_Inequality_and_Unpredictability_in_an_Artificial_Cultural_Market</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Study of Inequality and Unpredictability in an...29 Apr 2026 — We investigated this paradox experimentally, by creating an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scholarsbank.uoregon.edu  
-   Link: [https://scholarsbank.uoregon.edu/bitstreams/40b3225a-bdc0-4b20-b5c6-dcedc112ae88/download](https://scholarsbank.uoregon.edu/bitstreams/40b3225a-bdc0-4b20-b5c6-dcedc112ae88/download)  
+   Link: <a href="https://scholarsbank.uoregon.edu/bitstreams/40b3225a-bdc0-4b20-b5c6-dcedc112ae88/download" target="_blank" rel="noopener noreferrer nofollow">https://scholarsbank.uoregon.edu/bitstreams/40b3225a-bdc0-4b20-b5c6-dcedc112ae88/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholars&#x27; BankEXPLORING THE EFFECT OF SOCIAL MEDIA POPULARITY...by E WALDRON · 2022 · Cited by 1 — These findings confirm that indicator...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pdodds.w3.uvm.edu  
-   Link: [https://pdodds.w3.uvm.edu/research/papers/salganik2006a/](https://pdodds.w3.uvm.edu/research/papers/salganik2006a/)  
+   Link: <a href="https://pdodds.w3.uvm.edu/research/papers/salganik2006a/" target="_blank" rel="noopener noreferrer nofollow">https://pdodds.w3.uvm.edu/research/papers/salganik2006a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Of (im)possible interestExperimental study of inequality and unpredictability in an...We investigated this paradox experimentally, by cr...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: engineering.fb.com  
    Title: Engineering at Meta News Feed ranking, powered by machine learning  
-   Link: [https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/](https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/)  
+   Link: <a href="https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/" target="_blank" rel="noopener noreferrer nofollow">https://engineering.fb.com/2021/01/26/core-infra/news-feed-ranking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering at MetaNews Feed ranking, powered by machine learningJanuary 26, 2021 — 26 Jan 2021 — We are sharing new details of how we de...</p></details>
    Published: January 26, 2021  
 
 15. <a id="endnote-15"></a>
    Source: tech.facebook.com  
-   Link: [https://tech.facebook.com/engineering/2021/1/news-feed-ranking/](https://tech.facebook.com/engineering/2021/1/news-feed-ranking/)  
+   Link: <a href="https://tech.facebook.com/engineering/2021/1/news-feed-ranking/" target="_blank" rel="noopener noreferrer nofollow">https://tech.facebook.com/engineering/2021/1/news-feed-ranking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ting what you&#x27;re most likely to be interested in or engage with.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: niemanlab.org  
-   Link: [https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger](https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger)  
+   Link: <a href="https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger" target="_blank" rel="noopener noreferrer nofollow">https://www.niemanlab.org/2021/10/more-internal-documents-show-how-facebooks-algorithm-prioritized-[anger</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nieman LabMore internal documents show how Facebook&#x27;s algorithm...26 Oct 2021 — The ranking algorithm treated reactions such as “angry,”...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: These algorithms determine how content is filtered,  
-   Link: [https://www.facebook.com/groups/TheMovmentofyork/posts/8173845212645904/](https://www.facebook.com/groups/TheMovmentofyork/posts/8173845212645904/)  
+   Link: <a href="https://www.facebook.com/groups/TheMovmentofyork/posts/8173845212645904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/TheMovmentofyork/posts/8173845212645904/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How social media algorithms influence user content visibilityIn social media, algorithms are rules, signals and data that govern the plat...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: socialinsilico.wordpress.com  
    Title: music lab  
-   Link: [https://socialinsilico.wordpress.com/tag/music-lab/](https://socialinsilico.wordpress.com/tag/music-lab/)  
+   Link: <a href="https://socialinsilico.wordpress.com/tag/music-lab/" target="_blank" rel="noopener noreferrer nofollow">https://socialinsilico.wordpress.com/tag/music-lab/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lab | Social in silico20 Jan 2014 — So social influence increases not just inequality in decision making (“the rich get richer”), but als...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: karishma-agr1996.medium.com  
-   Link: [https://karishma-agr1996.medium.com/how-feed-ranking-algorithms-work-the-hidden-system-design-behind-personalized-feeds-4cd243fbd772](https://karishma-agr1996.medium.com/how-feed-ranking-algorithms-work-the-hidden-system-design-behind-personalized-feeds-4cd243fbd772)  
+   Link: <a href="https://karishma-agr1996.medium.com/how-feed-ranking-algorithms-work-the-hidden-system-design-behind-personalized-feeds-4cd243fbd772" target="_blank" rel="noopener noreferrer nofollow">https://karishma-agr1996.medium.com/how-feed-ranking-algorithms-work-the-hidden-system-design-behind-personalized-feeds-4cd243fbd772</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feed Ranking Algorithms Work: The Hidden System...Meta&#x27;s News Feed Ranking model uses multi-task learning — predicting likes, shares, co...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: conversion-uplift.co.uk  
-   Link: [https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/](https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/)  
+   Link: <a href="https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/" target="_blank" rel="noopener noreferrer nofollow">https://conversion-uplift.co.uk/post/bandwagon-effect-and-conversion-optimisation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bandwagon Effect and Why People Follow the CrowdThe bandwagon effect is a psychological tendency where the adoption of ideas, product...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: renascence.io  
    Title: bandwagon effect leveraging [social proof](&#123;&#123; 'social-proof/' | relative_url &#125;&#125;) in customer experience  
-   Link: [https://www.renascence.io/journal/bandwagon-effect-leveraging-social-proof-in-customer-experience](https://www.renascence.io/journal/bandwagon-effect-leveraging-social-proof-in-customer-experience)  
+   Link: <a href="https://www.renascence.io/journal/bandwagon-effect-leveraging-social-proof-in-customer-experience" target="_blank" rel="noopener noreferrer nofollow">https://www.renascence.io/journal/bandwagon-effect-leveraging-social-proof-in-customer-experience</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bandwagon Effect: Leveraging Social Proof in Customer...1 Aug 2024 — The Bandwagon Effect is the tendency for people to align their beli...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Experimental-Study-of-Inequality-and-in-an-Cultural-Salganik-Dodds/982670ad8463c69eabc745a62aca170d255d0ee0](https://www.semanticscholar.org/paper/Experimental-Study-of-Inequality-and-in-an-Cultural-Salganik-Dodds/982670ad8463c69eabc745a62aca170d255d0ee0)  
+   Link: <a href="https://www.semanticscholar.org/paper/Experimental-Study-of-Inequality-and-in-an-Cultural-Salganik-Dodds/982670ad8463c69eabc745a62aca170d255d0ee0" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Experimental-Study-of-Inequality-and-in-an-Cultural-Salganik-Dodds/982670ad8463c69eabc745a62aca170d255d0ee0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>loaded previously unknown songs either with or without knowledge of previous...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ifo.de  
    Title: Institut CESifo Working Paper No  
-   Link: [https://www.ifo.de/DocDL/cesifo1_wp10011.pdf](https://www.ifo.de/DocDL/cesifo1_wp10011.pdf)  
+   Link: <a href="https://www.ifo.de/DocDL/cesifo1_wp10011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/cesifo1_wp10011.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10011by F Germano · Cited by 16 — This paper investigates the dy- namic feedback loop between recommendation algorithms and user behavior...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: smartinsights.com  
    Title: new global social media research  
-   Link: [https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/](https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/)  
+   Link: <a href="https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.smartinsights.com/social-media-marketing/social-media-strategy/new-global-social-media-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global social media statistics research summary14 Feb 2025 — Our compilation of the latest social media statistics of consumer adoption a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sfieducation.s3.amazonaws.com  
    Title: Salganik etal Science2006  
-   Link: [https://sfieducation.s3.amazonaws.com/2022%2BComplexity-GAINs/readings/Salganik_etal_Science2006.pdf](https://sfieducation.s3.amazonaws.com/2022%2BComplexity-GAINs/readings/Salganik_etal_Science2006.pdf)  
+   Link: <a href="https://sfieducation.s3.amazonaws.com/2022%2BComplexity-GAINs/readings/Salganik_etal_Science2006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sfieducation.s3.amazonaws.com/2022%2BComplexity-GAINs/readings/Salganik_etal_Science2006.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Study of Inequality and Unpredictability in an...by MJ Salganik · Cited by 3012 — We investigated this paradox experimental...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/10864415.2025.2556645](https://www.tandfonline.com/doi/full/10.1080/10864415.2025.2556645)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10864415.2025.2556645" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10864415.2025.2556645</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Streamer&#x27;s Halo and Viewer&#x27;s Bandwagon...by R Yun · 2025 — The bandwagon effect refers to the tendency for individuals...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12451025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Real‐Time Engagement in Shaping Social Media...by X Lu · 2025 · Cited by 12 — This study addresses these critical gaps by integr...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mattgroh.com  
-   Link: [https://mattgroh.com/pdfs/ganimals2.pdf](https://mattgroh.com/pdfs/ganimals2.pdf)  
+   Link: <a href="https://mattgroh.com/pdfs/ganimals2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mattgroh.com/pdfs/ganimals2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social influence leads to the formation of diverse local trends17 Aug 2021 — The Music Lab inspired a generation of experiments in artifi...</p></details>

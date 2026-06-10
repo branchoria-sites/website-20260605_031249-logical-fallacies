@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_do
 
 ## Introduction
 
-In arguments about public policy, science, workplace decisions, or everyday disagreements, background information is often necessary. The challenge is that not all background information serves the same purpose. Useful context helps answer the question being discussed. A [red herring]({{ 'red-herring/' | relative_url }}) shifts attention to a different question, often one that is easier, safer, or more emotionally appealing to discuss. The key test is not whether the new information is true or interesting, but whether it changes the answer to the original issue. Philosophers of argumentation classify red herrings as fallacies of [relevance]({{ 'relevance/' | relative_url }}) because they divert discussion away from the point at issue rather than resolving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">PhilPapersDouglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesArguing for a conclusion that is not relevant to the current issue. Also called Irrelevant Co...</span></span></span>
+In arguments about public policy, science, workplace decisions, or everyday disagreements, background information is often necessary. The challenge is that not all background information serves the same purpose. Useful context helps answer the question being discussed. A [red herring]({{ 'red-herring/' | relative_url }}) shifts attention to a different question, often one that is easier, safer, or more emotionally appealing to discuss. The key test is not whether the new information is true or interesting, but whether it changes the answer to the original issue. Philosophers of argumentation classify red herrings as fallacies of [relevance]({{ 'relevance/' | relative_url }}) because they divert discussion away from the point at issue rather than resolving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesArguing for a conclusion that is not relevant to the current issue. Also called Irrelevant Co...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1-dark.svg" | relative_url }}" alt="Context Test illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -287,7 +287,7 @@ A useful rule is:
 * **Context adds information that bears on the conclusion.**
 * **A red herring adds information that competes for attention.**
 
-The distinction is based on relevance, not on truthfulness, emotional force, or complexity. A completely accurate statement can still function as a red herring if it diverts the discussion from the issue that remains unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Relevance in Argumentation</span><span class="citation-popover-snippet">RoutledgeRelevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Argument relevance and structure</span><span class="citation-popover-snippet">Assessing and...by F Macagno · 2016 · Cited by 77 — The purpose of this paper is to show whether the two crucial dimensions used for ass...</span></span></span>
+The distinction is based on relevance, not on truthfulness, emotional force, or complexity. A completely accurate statement can still function as a red herring if it diverts the discussion from the issue that remains unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Relevance in Argumentation</span><span class="citation-popover-snippet">Relevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Argument relevance and structure</span><span class="citation-popover-snippet">Assessing and...by F Macagno · 2016 · Cited by 77 — The purpose of this paper is to show whether the two crucial dimensions used for ass...</span></span></span>
 
 ## Pin Down the Original Question
 
@@ -307,14 +307,14 @@ Before evaluating new information, state the unresolved question in one sentence
 
 Once that question is fixed, every new point can be tested against it.
 
-Argumentation theorists describe red herrings as diversions that redirect a dialogue away from its proper issue. The problem is not merely reaching a wrong conclusion; it is changing the direction of the discussion so that the original burden of proof fades from view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">PhilPapersDouglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic Classification of Fallacies of Relevance!</span><span class="citation-popover-snippet">Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</span></span></span>
+Argumentation theorists describe red herrings as diversions that redirect a dialogue away from its proper issue. The problem is not merely reaching a wrong conclusion; it is changing the direction of the discussion so that the original burden of proof fades from view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic Classification of Fallacies of Relevance!</span><span class="citation-popover-snippet">Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</span></span></span>
 
 A practical technique is to ask: **“Even if this new point is correct, what happens to the original question?”**
 
 If the original question remains unanswered, the new point may be functioning as a distraction rather than a contribution.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Af0STrY58i4" title="Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer">Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 179.4K &middot; Uploaded: December 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Af0STrY58i4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9FlerH-fp5k" title="Missing the Point (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9FlerH-fp5k" target="_blank" rel="noopener noreferrer">Missing the Point (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 20.6K &middot; Uploaded: February 2014 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9FlerH-fp5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9FlerH-fp5k">Open on YouTube</a></p></div></div></div>
 
 ## Test Whether the New Point Changes the Answer
 
@@ -371,7 +371,7 @@ Relevant context: “The target was revised midway through the reporting period.
 Understanding the definition of the target affects the assessment.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZggiwS7iv2A" title="Red Herring (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer">Red Herring (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 32.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZggiwS7iv2A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Af0STrY58i4" title="Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer">Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 179.4K &middot; Uploaded: December 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Af0STrY58i4">Open on YouTube</a></p></div></div></div>
 
 ### Identifying Alternative Causes
 
@@ -416,7 +416,7 @@ Motives may matter in some contexts, but they do not by themselves determine the
 These moves often feel persuasive because they introduce emotionally significant or socially meaningful concerns. However, relevance requires a demonstrable connection to the claim under examination, not merely a thematic connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageIgnoratio Elenchi (Irrelevant Conclusion); Straw ManIgnoratio Elenchi is the fallacy of reaching an irrelevant conclu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Red HerringThe red herring is a deliberate diversion of attention with the intention of trying to abandon the original argument.Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9FlerH-fp5k" title="Missing the Point (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9FlerH-fp5k" target="_blank" rel="noopener noreferrer">Missing the Point (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 20.6K &middot; Uploaded: February 2014 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9FlerH-fp5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9FlerH-fp5k">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZggiwS7iv2A" title="Red Herring (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer">Red Herring (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 32.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZggiwS7iv2A">Open on YouTube</a></p></div></div></div>
 
 ## Common Warning Signs
 
@@ -452,7 +452,7 @@ If a clear connection exists and the answer could change, the information is fun
 
 If the connection is weak or missing, and the original issue remains unresolved, the information is functioning as a red herring.
 
-The goal is not to reject background information. Good reasoning often depends on context. The goal is to ensure that context illuminates the issue under discussion rather than leading attention away from it. In the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), that difference marks the boundary between relevant explanation and argumentative diversion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Relevance in Argumentation</span><span class="citation-popover-snippet">RoutledgeRelevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">PhilPapersDouglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span>
+The goal is not to reject background information. Good reasoning often depends on context. The goal is to ensure that context illuminates the issue under discussion rather than leading attention away from it. In the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), that difference marks the boundary between relevant explanation and argumentative diversion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: routledge.com">[Routledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">routledge.com</span><span class="citation-popover-title">Relevance in Argumentation</span><span class="citation-popover-snippet">Relevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -876,150 +876,150 @@ The goal is not to reject background information. Good reasoning often depends o
 1. <a id="endnote-1"></a>
    Source: philpapers.org  
    Title: WALCOF 5  
-   Link: [https://philpapers.org/rec/WALCOF-5](https://philpapers.org/rec/WALCOF-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersDouglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</p></details>
+   Link: <a href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALCOF-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: routledge.com  
    Title: Relevance in Argumentation  
-   Link: [https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604](https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RoutledgeRelevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</p></details>
+   Link: <a href="https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604" target="_blank" rel="noopener noreferrer nofollow">https://www.routledge.com/Relevance-in-Argumentation/Walton/p/book/9780805847604</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relevance in Argumentation - 1st Edition - Douglas WaltonIn Relevance in Argumentation, author Douglas Walton presents a new met...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Argument relevance and structure  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386](https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0883035516300386</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing and...by F Macagno · 2016 · Cited by 77 — The purpose of this paper is to show whether the two crucial dimensions used for ass...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: peterellerton.substack.com  
    Title: What critical thinking is (and is not)  
-   Link: [https://peterellerton.substack.com/p/what-critical-thinking-is-and-is](https://peterellerton.substack.com/p/what-critical-thinking-is-and-is)  
+   Link: <a href="https://peterellerton.substack.com/p/what-critical-thinking-is-and-is" target="_blank" rel="noopener noreferrer nofollow">https://peterellerton.substack.com/p/what-critical-thinking-is-and-is</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the education contrarianDecember 14, 2025 — This involves applying established norms—such as clarity, relevance, and logical consistency—...</p></details>
    Published: December 14, 2025  
 
 5. <a id="endnote-5"></a>
    Source: open.edu  
-   Link: [https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&section=4](https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&section=4)  
+   Link: <a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&amp;section=4" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=51387&amp;section=4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University4 The importance of critical thinking and analysis in...When you think critically, you weigh up all sides of an argum...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Red Herring (Logical Fallacy)  
-   Link: [https://www.youtube.com/watch?v=ZggiwS7iv2A](https://www.youtube.com/watch?v=ZggiwS7iv2A)  
+   Link: <a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZggiwS7iv2A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Red Herring  
-   Link: [https://www.youtube.com/watch?v=Af0STrY58i4](https://www.youtube.com/watch?v=Af0STrY58i4)  
+   Link: <a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Af0STrY58i4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Red Herring&quot; Fallacy...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesArguing for a conclusion that is not relevant to the current issue. Also called Irrelevant Co...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Red-Herring](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Red-Herring</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red HerringThe red herring is a deliberate diversion of attention with the intention of trying to abandon the original argument.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: informallogic.ca  
    Title: [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) Classification of Fallacies of Relevance!  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/download/2133/1577](https://informallogic.ca/index.php/informal_logic/article/download/2133/1577)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/download/2133/1577</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ojs.uwindsor.ca  
-   Link: [https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133)  
+   Link: <a href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133" target="_blank" rel="noopener noreferrer nofollow">https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Classification of Fallacies of Relevance | Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case wher...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/ignoratio.html](https://philosophy.lander.edu/logic/ignoratio.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignoratio.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageIgnoratio Elenchi (Irrelevant Conclusion); Straw ManIgnoratio Elenchi is the fallacy of reaching an irrelevant conclu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — Two competing conceptions of fallacies are that they are false but...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Also called Irrelevant Conclusion. It is a form of the Red Herring Fallacy. Biased...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Internet](https://en.wikipedia.org/wiki/Internet)  
+   Link: <a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: philosophybytheway.blogspot.com  
    Title: red herring  
-   Link: [https://philosophybytheway.blogspot.com/2022/09/red-herring.html](https://philosophybytheway.blogspot.com/2022/09/red-herring.html)  
+   Link: <a href="https://philosophybytheway.blogspot.com/2022/09/red-herring.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2022/09/red-herring.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Sept 2022 — It can also be intentionally put forward that way, for a red herring often serves as a way of distraction from the questio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: qcc.cuny.edu  
    Title: Arguments Fallacies  
-   Link: [https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html](https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html)  
+   Link: <a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FALLACIESIgnoratio Elenchi: (Irrelevant Conclusion); see also Straw Man; Red Herring; Non Sequitur-- any incorrect argument which reaches...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/14720925/Relevance_in_Argumentation](https://www.academia.edu/14720925/Relevance_in_Argumentation)  
+   Link: <a href="https://www.academia.edu/14720925/Relevance_in_Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/14720925/Relevance_in_Argumentation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Relevance in ArgumentationIn Relevance in Argumentation, author Douglas Walton presents a new method for critically evaluating argu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: therapyroute.com  
-   Link: [https://www.therapyroute.com/article/critical-thinking-by-therapyroute](https://www.therapyroute.com/article/critical-thinking-by-therapyroute)  
+   Link: <a href="https://www.therapyroute.com/article/critical-thinking-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/critical-thinking-by-therapyroute</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical ThinkingCritical thinking is the objective analysis and evaluation of information, arguments, and situations to form well-reason...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: api.pageplace.de  
-   Link: [https://api.pageplace.de/preview/DT0400.9781135618964_A23805656/preview-9781135618964_A23805656.pdf](https://api.pageplace.de/preview/DT0400.9781135618964_A23805656/preview-9781135618964_A23805656.pdf)  
+   Link: <a href="https://api.pageplace.de/preview/DT0400.9781135618964_A23805656/preview-9781135618964_A23805656.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781135618964_A23805656/preview-9781135618964_A23805656.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In ArgumentationThe purpose of this book is to present a method that can be used to assist a user to critically evaluate arguments, and o...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cambridgeassessment.org.uk  
-   Link: [https://www.cambridgeassessment.org.uk/Images/109769-critical-thinking-a-definition-and-taxonomy-for-cambridge-assessment-supporting-validity-arguments-about-critical-thinking-assessments-administered-by-cambridge-assessment.pdf](https://www.cambridgeassessment.org.uk/Images/109769-critical-thinking-a-definition-and-taxonomy-for-cambridge-assessment-supporting-validity-arguments-about-critical-thinking-assessments-administered-by-cambridge-assessment.pdf)  
+   Link: <a href="https://www.cambridgeassessment.org.uk/Images/109769-critical-thinking-a-definition-and-taxonomy-for-cambridge-assessment-supporting-validity-arguments-about-critical-thinking-assessments-administered-by-cambridge-assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeassessment.org.uk/Images/109769-critical-thinking-a-definition-and-taxonomy-for-cambridge-assessment-supporting-validity-arguments-about-critical-thinking-assessments-administered-by-cambridge-assessment.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is less obviously a descendent of MENO, though it does necessarily involve analysis and evaluation of arguments.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
    Title: Douglas Walton Relevance in Argumentation 2003 pdf  
-   Link: [https://www.scribd.com/document/251680632/Douglas-Walton-Relevance-in-Argumentation-2003-pdf](https://www.scribd.com/document/251680632/Douglas-Walton-Relevance-in-Argumentation-2003-pdf)  
+   Link: <a href="https://www.scribd.com/document/251680632/Douglas-Walton-Relevance-in-Argumentation-2003-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/251680632/Douglas-Walton-Relevance-in-Argumentation-2003-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EXAMPLES OF IRRELEVANT ARGUMENTS. 17. smear themselves with a herring (which turns red or brown when it spoils) in order to throw dogs of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/352032431893773/posts/2142677289495936/](https://www.facebook.com/groups/352032431893773/posts/2142677289495936/)  
+   Link: <a href="https://www.facebook.com/groups/352032431893773/posts/2142677289495936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/352032431893773/posts/2142677289495936/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>analyzing information, identifying biases, and evaluating...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchmethodscommunity.sagepub.com  
    Title: critical thinking from two perspectives  
-   Link: [https://researchmethodscommunity.sagepub.com/blog/critical-thinking-from-two-perspectives](https://researchmethodscommunity.sagepub.com/blog/critical-thinking-from-two-perspectives)  
+   Link: <a href="https://researchmethodscommunity.sagepub.com/blog/critical-thinking-from-two-perspectives" target="_blank" rel="noopener noreferrer nofollow">https://researchmethodscommunity.sagepub.com/blog/critical-thinking-from-two-perspectives</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Critical Thinking and Research14 Jun 2022 — Thinking critically is one of the foundations of research, as it entails maki...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: socialdemocracy21stcentury.blogspot.com  
    Title: Bradley Dowden, “Fallacies,” Internet  
-   Link: [https://socialdemocracy21stcentury.blogspot.com/p/these-provide-excellent-introductions.html](https://socialdemocracy21stcentury.blogspot.com/p/these-provide-excellent-introductions.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Bibliography on Logic and ReasoningAppeal to nature (argument from nature): [Appeal to Ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;) (argumentum ad ignoratiam): Red herring...</p></details>
+   Link: <a href="https://socialdemocracy21stcentury.blogspot.com/p/these-provide-excellent-introductions.html" target="_blank" rel="noopener noreferrer nofollow">https://socialdemocracy21stcentury.blogspot.com/p/these-provide-excellent-introductions.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Bibliography on Logic and ReasoningAppeal to nature (argument from nature): Appeal to [Ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;) (argumentum ad ignoratiam): Red herring...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: monash.edu  
    Title: University What is critical thinking?  
-   Link: [https://www.monash.edu/student-academic-success/sharpen-your-thinking/critical-thinking/what-is-critical-thinking](https://www.monash.edu/student-academic-success/sharpen-your-thinking/critical-thinking/what-is-critical-thinking)  
+   Link: <a href="https://www.monash.edu/student-academic-success/sharpen-your-thinking/critical-thinking/what-is-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.monash.edu/student-academic-success/sharpen-your-thinking/critical-thinking/what-is-critical-thinking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Academic SuccessCritical thinking is a kind of thinking in which you question, analyse, interpret, evaluate and make a judgement...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researcher-development.co.uk  
-   Link: [https://researcher-development.co.uk/criticalthinking/what-is-critical-thinking-and-why-is-it-important/](https://researcher-development.co.uk/criticalthinking/what-is-critical-thinking-and-why-is-it-important/)  
+   Link: <a href="https://researcher-development.co.uk/criticalthinking/what-is-critical-thinking-and-why-is-it-important/" target="_blank" rel="noopener noreferrer nofollow">https://researcher-development.co.uk/criticalthinking/what-is-critical-thinking-and-why-is-it-important/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>solve a problem or arrive at a conclusion.Read more...</p></details>

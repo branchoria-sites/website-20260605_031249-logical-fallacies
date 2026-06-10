@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert
 
 ## Introduction
 
-Expert testimony can strengthen an argument, but it does not transform a claim into a proven fact. Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this distinction is crucial. The appeal to authority fallacy occurs when a person treats an expert’s statement as if the expert’s status alone settles the question. Sound reasoning works differently: expert testimony is evidence that can increase confidence in a conclusion, yet it remains one part of a larger evidential picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Fundamentally, the fallacy involves accepting as evidence for a...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/spr2018/entries/epistemology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of Philosophy14 Dec 2005 — Defined narrowly, epistemology is the study of knowledge and justified belief...</span></span></span>
+Expert testimony can strengthen an argument, but it does not transform a claim into a proven fact. Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this distinction is crucial. The [appeal to authority]({{ 'authority/' | relative_url }}) fallacy occurs when a person treats an expert’s statement as if the expert’s status alone settles the question. Sound reasoning works differently: expert testimony is evidence that can increase confidence in a conclusion, yet it remains one part of a larger evidential picture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Fundamentally, the fallacy involves accepting as evidence for a...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/spr2018/entries/epistemology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of Philosophy14 Dec 2005 — Defined narrowly, epistemology is the study of knowledge and justified belief...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_evidence_not_ee5a8a-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Not Proof illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_evidence_not_ee5a8a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_evidence_not_ee5a8a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -308,7 +308,7 @@ Several factors make expert testimony stronger evidence: <span class="citation-c
 * **Transparent reasoning:** The expert explains how the conclusion was reached.
 * **Supporting data:** Evidence can be examined independently of the expert's status.
 * **Consistency with other experts:** The claim aligns with broader expert assessment rather than relying on a lone authority.
-* **Track record of reliability:** The methods used have been tested and validated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/rules/fre/rule_702" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute Rule 702</span><span class="citation-popover-snippet">Testimony by Expert Witnesses - Law.Cornell.Eduthe expert&#x27;s scientific, technical, or other specialized knowledge will help the trier of...</span></span></span>
+* **Track record of reliability:** The methods used have been tested and validated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/rules/fre/rule_702" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Institute Rule 702</span><span class="citation-popover-snippet">Testimony by Expert Witnesses - Law.Cornell.Eduthe expert&#x27;s scientific, technical, or other specialized knowledge will help the trier of...</span></span></span>
 
 Under these conditions, expert testimony becomes powerful evidence. It still does not become proof, but it substantially raises the probability that the claim is correct.
 
@@ -320,7 +320,7 @@ A practical way to distinguish sound reasoning from the appeal to authority fall
 
 When someone says, “This treatment works because leading researchers have repeatedly found benefits in controlled studies,” the authority functions as a guide to evidence.
 
-By contrast, “This treatment works because a famous scientist says so” substitutes status for justification. The audience is expected to accept the conclusion without examining the underlying reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-snippet">The Fallacy GuideAppeal to Authority (Argument from Authority) FallacyAppeal to authority treats an expert&#x27;s word as proof without eviden...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy | Definition &amp; Examples - Scribbr16 Jun 2023 — Appeal to authority fallacy occurs when we accept a claim mere...</span></span></span> The difference may appear subtle, but it changes the quality of the argument entirely. In the first case, the expert's role is explanatory. In the second, the expert's role is merely symbolic.
+By contrast, “This treatment works because a famous scientist says so” substitutes status for justification. The audience is expected to accept the conclusion without examining the underlying reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-snippet">The Fallacy GuideAppeal to Authority (Argument from Authority) FallacyAppeal to authority treats an expert&#x27;s word as proof without eviden...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; Examples - Scribbr16 Jun 2023 — Appeal to authority fallacy occurs when we accept a claim mere...</span></span></span> The difference may appear subtle, but it changes the quality of the argument entirely. In the first case, the expert's role is explanatory. In the second, the expert's role is merely symbolic.
 
 ## What Courts Reveal About the Limits of Expertise
 
@@ -786,185 +786,185 @@ Recognising this distinction helps avoid the appeal to authority fallacy. The qu
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentally, the fallacy involves accepting as evidence for a...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — The fallacy of appeal to authorit...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: testimony episprob  
-   Link: [https://plato.stanford.edu/entries/testimony-episprob/](https://plato.stanford.edu/entries/testimony-episprob/)  
+   Link: <a href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/testimony-episprob/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, there is disagreement about where exactly...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: testimony episprob  
-   Link: [https://plato.stanford.edu/archives/spr2012/entries/testimony-episprob/](https://plato.stanford.edu/archives/spr2012/entries/testimony-episprob/)  
+   Link: <a href="https://plato.stanford.edu/archives/spr2012/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2012/entries/testimony-episprob/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyEpistemological Problems of TestimonyFeb 2, 2006 — The main epistemological problem of testimony is th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nhd.uscourts.gov  
-   Link: [https://www.nhd.uscourts.gov/pdf/Experts_FRE_703.pdf](https://www.nhd.uscourts.gov/pdf/Experts_FRE_703.pdf)  
+   Link: <a href="https://www.nhd.uscourts.gov/pdf/Experts_FRE_703.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nhd.uscourts.gov/pdf/Experts_FRE_703.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>If experts in the particular field.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/](https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</p></details>
+   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: uscode.house.gov  
-   Link: [https://uscode.house.gov/view.xhtml?edition=1999&num=0&req=granuleid%3AUSC-1999-title28a-node246-article7-rule702](https://uscode.house.gov/view.xhtml?edition=1999&num=0&req=granuleid%3AUSC-1999-title28a-node246-article7-rule702)  
+   Link: <a href="https://uscode.house.gov/view.xhtml?edition=1999&amp;num=0&amp;req=granuleid%3AUSC-1999-title28a-node246-article7-rule702" target="_blank" rel="noopener noreferrer nofollow">https://uscode.house.gov/view.xhtml?edition=1999&amp;num=0&amp;req=granuleid%3AUSC-1999-title28a-node246-article7-rule702</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Code28 USC App Fed R Evid Rule 702: Testimony by ExpertsRule 702. Testimony by Experts. If scientific, technical, or other specialized kn...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/](https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/)  
+   Link: <a href="https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit&quot;Appealing&quot; to Expert Consensus is Not an...July 4, 2023 — To clarify, an &quot;appeal to authority&quot; has nothing to do with the consens...</p></details>
    Published: July 4, 2023  
 
 9. <a id="endnote-9"></a>
    Source: stanford.edu  
-   Link: [https://www.stanford.edu/](https://www.stanford.edu/)  
+   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/authority/](https://plato.stanford.edu/entries/authority/)  
+   Link: <a href="https://plato.stanford.edu/entries/authority/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/authority/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On this...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/spr2018/entries/epistemology/](https://plato.stanford.edu/archives/spr2018/entries/epistemology/)  
+   Link: <a href="https://plato.stanford.edu/archives/spr2018/entries/epistemology/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2018/entries/epistemology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophy14 Dec 2005 — Defined narrowly, epistemology is the study of knowledge and justified belief...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/1fcymup/when_is_an_appeal_to_authority_not_a_logical/](https://www.reddit.com/r/askphilosophy/comments/1fcymup/when_is_an_appeal_to_authority_not_a_logical/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1fcymup/when_is_an_appeal_to_authority_not_a_logical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1fcymup/when_is_an_appeal_to_authority_not_a_logical/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Because sometimes I feel like appeal to authority...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Authority Fallacy | Idea Channel | PBS Digital Studios  
-   Link: [http://www.youtube.com/watch?v=mgqM6xeZHNM](http://www.youtube.com/watch?v=mgqM6xeZHNM)  
+   Link: <a href="http://www.youtube.com/watch?v=mgqM6xeZHNM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=mgqM6xeZHNM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: [http://www.youtube.com/watch?v=4CtofTCXcYI](http://www.youtube.com/watch?v=4CtofTCXcYI)  
+   Link: <a href="http://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4CtofTCXcYI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to authority evidence vs proof logical fallacies Appeal to Authority: When trusting experts becomes a logical fallacy The Science...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Appeal to Authority Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/](https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; Examples - Scribbr16 Jun 2023 — Appeal to authority fallacy occurs when we accept a claim mere...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-authority](https://fallacyguide.com/fallacies/appeal-to-authority)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideAppeal to Authority (Argument from Authority) FallacyAppeal to authority treats an expert&#x27;s word as proof without eviden...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: law.cornell.edu  
    Title: Legal Information Institute Rule 702  
-   Link: [https://www.law.cornell.edu/rules/fre/rule_702](https://www.law.cornell.edu/rules/fre/rule_702)  
+   Link: <a href="https://www.law.cornell.edu/rules/fre/rule_702" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/rules/fre/rule_702</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony by Expert Witnesses - Law.Cornell.Eduthe expert&#x27;s scientific, technical, or other specialized knowledge will help the trier of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: harvardlawreview.org  
    Title: federal rule of evidence 702  
-   Link: [https://harvardlawreview.org/print/vol-138/federal-rule-of-evidence-702/](https://harvardlawreview.org/print/vol-138/federal-rule-of-evidence-702/)  
+   Link: <a href="https://harvardlawreview.org/print/vol-138/federal-rule-of-evidence-702/" target="_blank" rel="noopener noreferrer nofollow">https://harvardlawreview.org/print/vol-138/federal-rule-of-evidence-702/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 10, 2025 — The admissibility of expert testimony in federal courts is governed by the standard set out in Rule 702 of the Federal Rul...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: arnoldporter.com  
    Title: amended federal rule of evidence 702  
-   Link: [https://www.arnoldporter.com/en/perspectives/advisories/2023/12/amended-federal-rule-of-evidence-702](https://www.arnoldporter.com/en/perspectives/advisories/2023/12/amended-federal-rule-of-evidence-702)  
+   Link: <a href="https://www.arnoldporter.com/en/perspectives/advisories/2023/12/amended-federal-rule-of-evidence-702" target="_blank" rel="noopener noreferrer nofollow">https://www.arnoldporter.com/en/perspectives/advisories/2023/12/amended-federal-rule-of-evidence-702</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arnold &amp; PorterAmended Federal Rule of Evidence 702: What You Need...1 Dec 2023 — Rule 702 has been amended to clarify how trial judges...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: perkinscoie.com  
    Title: updated language federal rule evidence 702 what litigators should know  
-   Link: [https://perkinscoie.com/insights/update/updated-language-federal-rule-evidence-702-what-litigators-should-know](https://perkinscoie.com/insights/update/updated-language-federal-rule-evidence-702-what-litigators-should-know)  
+   Link: <a href="https://perkinscoie.com/insights/update/updated-language-federal-rule-evidence-702-what-litigators-should-know" target="_blank" rel="noopener noreferrer nofollow">https://perkinscoie.com/insights/update/updated-language-federal-rule-evidence-702-what-litigators-should-know</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated Language to Federal Rule of Evidence 702Oct 13, 2023 — FRE 702 is used extensively in federal civil litigation, as it controls wh...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/uk-news/2025/jun/15/expert-witnesses-are-weakest-link-in-english-justice-system-says-wrongly-convicted-surgeon](https://www.theguardian.com/uk-news/2025/jun/15/expert-witnesses-are-weakest-link-in-english-justice-system-says-wrongly-convicted-surgeon)  
+   Link: <a href="https://www.theguardian.com/uk-news/2025/jun/15/expert-witnesses-are-weakest-link-in-english-justice-system-says-wrongly-convicted-surgeon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2025/jun/15/expert-witnesses-are-weakest-link-in-english-justice-system-says-wrongly-convicted-surgeon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sellu, who spent 15 months in prison, now advocates for reform in how expert witnesses are trained, selected, and regulated, particularly...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/05/16/sports/stanford-womens-hoops-program-accused-of-toxic-environment-in-shocking-allegations/](https://nypost.com/2026/05/16/sports/stanford-womens-hoops-program-accused-of-toxic-environment-in-shocking-allegations/)  
+   Link: <a href="https://nypost.com/2026/05/16/sports/stanford-womens-hoops-program-accused-of-toxic-environment-in-shocking-allegations/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/16/sports/stanford-womens-hoops-program-accused-of-toxic-environment-in-shocking-allegations/</a>  
 
 23. <a id="endnote-23"></a>
    Source: evidenceattrial.com  
    Title: Rule 702  
-   Link: [https://www.evidenceattrial.com/blog/Rule%20702](https://www.evidenceattrial.com/blog/Rule%20702)  
+   Link: <a href="https://www.evidenceattrial.com/blog/Rule%20702" target="_blank" rel="noopener noreferrer nofollow">https://www.evidenceattrial.com/blog/Rule%20702</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It says, in essence, a qualified expert may provide opinion testimony if a checklist of conditions is met.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Argument from authority  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_authority](https://en.wikipedia.org/wiki/Argument_from_authority)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from authorityAn argument from authority is a form of argument in which the opinion of an authority figure (or figures) is us...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.01889](https://arxiv.org/abs/1802.01889)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDivergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</p></details>
+   Link: <a href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.01889</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to AuthorityInsisting that a claim is true simply because a valid authority or expert on the issue said it was true, without any o...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb](https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb)  
+   Link: <a href="https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority ought to include Expert ConsensusI&#x27;m going to argue that appealing to expert authority isn&#x27;t simply bad reasoning, bu...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/appeal-to-authority](https://yourlogicalfallacyis.com/appeal-to-authority)  
+   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is appeal to authorityAppeals to authority are not valid arguments, but nor is it reasonable to disregard the claims...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/legalindustry/expert-opinions-law-enforcement-agents-diaz-isnt-end-analysis-2024-07-03/](https://www.reuters.com/legal/legalindustry/expert-opinions-law-enforcement-agents-diaz-isnt-end-analysis-2024-07-03/)  
+   Link: <a href="https://www.reuters.com/legal/legalindustry/expert-opinions-law-enforcement-agents-diaz-isnt-end-analysis-2024-07-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/legalindustry/expert-opinions-law-enforcement-agents-diaz-isnt-end-analysis-2024-07-03/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States, Delilah Diaz was indicted for drug trafficking after Border Patrol agents found methamphetamine in a car she was driving...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: phillipslytle.com  
-   Link: [https://phillipslytle.com/amended-federal-rule-702-and-expert-admissibility-a-rule-that-hit-the-ground-running/](https://phillipslytle.com/amended-federal-rule-702-and-expert-admissibility-a-rule-that-hit-the-ground-running/)  
+   Link: <a href="https://phillipslytle.com/amended-federal-rule-702-and-expert-admissibility-a-rule-that-hit-the-ground-running/" target="_blank" rel="noopener noreferrer nofollow">https://phillipslytle.com/amended-federal-rule-702-and-expert-admissibility-a-rule-that-hit-the-ground-running/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amended Federal Rule 702 and Expert AdmissibilityDec 20, 2023 — Amended Federal Rule of Evidence 702, which sets forth the standard for e...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/](https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “authority” isn&#x27;t an expert. This is probably the most...FALLACY OF THE DAY: APPEAL TO AUTHORITY DEFINITION AND EXPLANATION: The app...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/26919/chapter/2](https://www.nationalacademies.org/read/26919/chapter/2)  
+   Link: <a href="https://www.nationalacademies.org/read/26919/chapter/2" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26919/chapter/2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: The Admissibility of Expert TestimonyRule 702(a): The Expert&#x27;s Opinion “Will Help” the Trier of Fact...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: mass.gov  
    Title: section 702 testimony by expert witnesses  
-   Link: [https://www.mass.gov/guide-to-evidence/section-702-testimony-by-expert-witnesses](https://www.mass.gov/guide-to-evidence/section-702-testimony-by-expert-witnesses)  
+   Link: <a href="https://www.mass.gov/guide-to-evidence/section-702-testimony-by-expert-witnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.mass.gov/guide-to-evidence/section-702-testimony-by-expert-witnesses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 702. Testimony by expert witnessesFeb 1, 2025 — First Foundation Requirement: Assistance to the Trier of Fact. “The role of an ex...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: philosophy.stackexchange.com  
    Title: In a scientific [context](&#123;&#123; 'context/' | relative_url &#125;&#125;), it would be a fallacious  
-   Link: [https://philosophy.stackexchange.com/questions/109884/differentiating-an-argument-from-authority-from-expert-testimony](https://philosophy.stackexchange.com/questions/109884/differentiating-an-argument-from-authority-from-expert-testimony)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/109884/differentiating-an-argument-from-authority-from-expert-testimony" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/109884/differentiating-an-argument-from-authority-from-expert-testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an argument from authority from expert...25 Feb 2024 — Consider the following argument: The mathematical theorem T is a true theorem, b...</p></details>

@@ -278,7 +278,7 @@ Influencer marketing sits at the intersection of [advertising]({{ 'advertising/'
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Payments illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader study of [advertising fallacies]({{ 'advertising/' | relative_url }}), these rules matter because undisclosed sponsorship can create a misleading inference: the audience may treat an endorsement as independent evidence when it is actually part of a paid marketing campaign.
+Within the broader study of advertising fallacies, these rules matter because undisclosed sponsorship can create a misleading inference: the audience may treat an endorsement as independent evidence when it is actually part of a paid marketing campaign.
 
 ## Why Material Connections Affect Trust
 
@@ -311,7 +311,7 @@ This illustrates why disclosure rules are linked to consumer reasoning. The pers
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-2-dark.svg" | relative_url }}" alt="Hidden Payments illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Hidden Incentives Reshape the Audience's Inference
 
-When a recommendation appears unpaid, audiences often treat it as a form of [social proof]({{ 'social-proof/' | relative_url }}). The endorsement seems to communicate that a person voluntarily chose to support a product because of [personal experience]({{ 'experience/' | relative_url }}) or genuine enthusiasm.
+When a recommendation appears unpaid, audiences often treat it as a form of [social proof]({{ 'social-proof/' | relative_url }}). The endorsement seems to communicate that a person voluntarily chose to support a product because of personal [experience]({{ 'experience/' | relative_url }}) or genuine enthusiasm.
 
 Hidden incentives change the meaning of that signal. The recommendation may still reflect honest opinion, but it also reflects a commercial relationship. Without disclosure, consumers may draw stronger conclusions than the available evidence justifies.
 
@@ -334,11 +334,11 @@ These effects are particularly relevant because influencer marketing is built on
 
 ## Evidence That Disclosure Still Matters
 
-Research on affiliate marketing disclosures suggests that transparency remains inconsistent and that many users struggle to recognise commercial relationships when disclosures are weak or unclear. A large study of affiliate marketing content on YouTube and Pinterest found relatively low disclosure rates and reported that users often failed to understand short or ambiguous disclosure language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research on affiliate marketing disclosures suggests that transparency remains inconsistent and that many users struggle to recognise commercial relationships when disclosures are weak or unclear. A large study of affiliate marketing content on YouTube and Pinterest found relatively low disclosure rates and reported that users often failed to understand short or ambiguous disclosure language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
-More recent research examining influencer disclosure practices across countries found that disclosure behaviour changes in response to legal and platform requirements. Importantly, the study reported that properly disclosed sponsored content generally did not suffer an additional engagement penalty compared with sponsored content overall, suggesting that transparency does not necessarily destroy audience interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+More recent research examining influencer disclosure practices across countries found that disclosure behaviour changes in response to legal and platform requirements. Importantly, the study reported that properly disclosed sponsored content generally did not suffer an additional engagement penalty compared with sponsored content overall, suggesting that transparency does not necessarily destroy audience interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
-Research on YouTube affiliate marketing has also found persistent compliance challenges despite years of regulatory guidance, reinforcing the FTC's concern that undisclosed financial relationships remain common enough to affect consumer understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research on YouTube affiliate marketing has also found persistent compliance challenges despite years of regulatory guidance, reinforcing the FTC's concern that undisclosed financial relationships remain common enough to affect consumer understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Payments illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_hidden_influencer_pa_c9b913-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -775,204 +775,204 @@ For that reason, disclosure functions as a governance tool aimed at preserving i
 
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingIf you criticize a competitor of a brand that you are paid to end...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 3. <a id="endnote-3"></a>
    Source: hoganlovells.com  
-   Link: [https://www.hoganlovells.com/en/publications/ftc-warns-trade-associations-and-influencers-on-compliance-with-endorsement-guides](https://www.hoganlovells.com/en/publications/ftc-warns-trade-associations-and-influencers-on-compliance-with-endorsement-guides)  
+   Link: <a href="https://www.hoganlovells.com/en/publications/ftc-warns-trade-associations-and-influencers-on-compliance-with-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/ftc-warns-trade-associations-and-influencers-on-compliance-with-endorsement-guides</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>warns trade associations and influencers on...27 Nov 2023 — The FTC&#x27;s recently revised Endorsement Guides, published on July 26, 2023, r...</p></details>
    Published: July 26, 2023  
 
 4. <a id="endnote-4"></a>
    Source: digital-client-solutions.hoganlovells.com  
    Title: Hey influencers!  
-   Link: [https://digital-client-solutions.hoganlovells.com/influencer/tool/influencers-tool-regulatory-and-litigation-hey-influencers-the-ftc-is-talking-to-you-new-guidance-from-the-ftc](https://digital-client-solutions.hoganlovells.com/influencer/tool/influencers-tool-regulatory-and-litigation-hey-influencers-the-ftc-is-talking-to-you-new-guidance-from-the-ftc)  
+   Link: <a href="https://digital-client-solutions.hoganlovells.com/influencer/tool/influencers-tool-regulatory-and-litigation-hey-influencers-the-ftc-is-talking-to-you-new-guidance-from-the-ftc" target="_blank" rel="noopener noreferrer nofollow">https://digital-client-solutions.hoganlovells.com/influencer/tool/influencers-tool-regulatory-and-litigation-hey-influencers-the-ftc-is-talking-to-you-new-guidance-from-the-ftc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FTC is talking to you - new guidance...The FTC has guidelines requiring clear disclosures when an influencer is being compensated fo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ftc.gov  
    Title: s lord taylor case native advertising clear disclosure always style  
-   Link: [https://www.ftc.gov/business-guidance/blog/2016/03/ftcs-lord-taylor-case-native-advertising-clear-disclosure-always-style](https://www.ftc.gov/business-guidance/blog/2016/03/ftcs-lord-taylor-case-native-advertising-clear-disclosure-always-style)  
+   Link: <a href="https://www.ftc.gov/business-guidance/blog/2016/03/ftcs-lord-taylor-case-native-advertising-clear-disclosure-always-style" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/blog/2016/03/ftcs-lord-taylor-case-native-advertising-clear-disclosure-always-style</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Lord &amp; Taylor case: In native advertising, clear...15 Mar 2016 — For example, according to the FTC, Lord &amp;...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2016/03/lord-taylor-settles-ftc-charges-it-deceived-consumers-through-paid-article-online-fashion-magazine](https://www.ftc.gov/news-events/news/press-releases/2016/03/lord-taylor-settles-ftc-charges-it-deceived-consumers-through-paid-article-online-fashion-magazine)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2016/03/lord-taylor-settles-ftc-charges-it-deceived-consumers-through-paid-article-online-fashion-magazine" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2016/03/lord-taylor-settles-ftc-charges-it-deceived-consumers-through-paid-article-online-fashion-magazine</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionLord &amp; Taylor Settles FTC Charges It Deceived Consumers...15 Mar 2016 — National retailer Lord &amp; Taylor has agre...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/node/44849](https://www.ftc.gov/node/44849)  
+   Link: <a href="https://www.ftc.gov/node/44849" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/node/44849</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionLord &amp; Taylor Settles FTC Charges It Deceived Consumers...National retailer Lord &amp; Taylor has agreed to settle F...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEndorsements on [Social Media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;): An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on [Social Media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;): An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2407.09202](https://arxiv.org/abs/2407.09202)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivInfluencer Self-Disclosure Practices on Instagram: A Multi-Country Longitudinal StudyJuly 12, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2407.09202" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.09202</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencer Self-Disclosure Practices on Instagram: A Multi-Country Longitudinal StudyJuly 12, 2024...</p></details>
    Published: July 12, 2024  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.04383](https://arxiv.org/abs/2603.04383)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTurning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube&#x27;s Influencer EconomyMarch 4, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.04383</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube&#x27;s Influencer EconomyMarch 4, 2026...</p></details>
    Published: March 4, 2026  
 
 11. <a id="endnote-11"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/](https://www.ftc.gov/)  
+   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission | Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/cases-proceedings/152-3181-c4576-lord-taylor-llc-matter](https://www.ftc.gov/legal-library/browse/cases-proceedings/152-3181-c4576-lord-taylor-llc-matter)  
+   Link: <a href="https://www.ftc.gov/legal-library/browse/cases-proceedings/152-3181-c4576-lord-taylor-llc-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/cases-proceedings/152-3181-c4576-lord-taylor-llc-matter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lord &amp; Taylor, LLC, In the Matter ofLord &amp; Taylor Settles FTC Charges It Deceived Consumers Through Paid Article in an Online Fashion Mag...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link: [https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers](https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/disclosures-101-social-media-influencers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This brochure from FTC staff gives tips on when and how to make good disclosures.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: hoganlovells.com  
    Title: Hey influencers!  
-   Link: [https://www.hoganlovells.com/en/publications/hey-influencers-the-ftc-is-talking-to-you-new-guidance-from-the-ftc](https://www.hoganlovells.com/en/publications/hey-influencers-the-ftc-is-talking-to-you-new-guidance-from-the-ftc)  
+   Link: <a href="https://www.hoganlovells.com/en/publications/hey-influencers-the-ftc-is-talking-to-you-new-guidance-from-the-ftc" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/hey-influencers-the-ftc-is-talking-to-you-new-guidance-from-the-ftc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The FTC is talking to you - new guidance...20 Nov 2019 — As such, the FTC reiterates that it is the influencer&#x27;s own responsibility to d...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: deceptive.design  
    Title: Legal Cases  
-   Link: [https://www.deceptive.design/cases/in-the-matter-of-lord-taylor](https://www.deceptive.design/cases/in-the-matter-of-lord-taylor)  
+   Link: <a href="https://www.deceptive.design/cases/in-the-matter-of-lord-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.deceptive.design/cases/in-the-matter-of-lord-taylor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our analysis. Lord &amp; Taylor misled consumers by...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ftc.net  
-   Link: [https://www.ftc.net/](https://www.ftc.net/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC: TV | Internet and Phone PackagesFTC is a local telecommunications company headquartered in Kingstree, SC, providing digital tv, inte...</p></details>
+   Link: <a href="https://www.ftc.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.net/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>TV | Internet and Phone PackagesFTC is a local telecommunications company headquartered in Kingstree, SC, providing digital tv, inte...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/user/FTCvideos](https://www.youtube.com/user/FTCvideos)  
+   Link: <a href="https://www.youtube.com/user/FTCvideos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/user/FTCvideos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTCvideosVideos · How To Report Platforms That Violate the Take It Down Act · FTC Enforces Compliance With the Take It Down Act · My acti...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=Hq1UDKzazVQ](http://www.youtube.com/watch?v=Hq1UDKzazVQ)  
+   Link: <a href="http://www.youtube.com/watch?v=Hq1UDKzazVQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Hq1UDKzazVQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EP 118. Disclosures 101: FTC Guidelines for Social Media Influencers...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: EP 118. Disclosures 101: FTC Guidelines for Social Media Influencers  
-   Link: [http://www.youtube.com/watch?v=Q1D_dZdExHA](http://www.youtube.com/watch?v=Q1D_dZdExHA)  
+   Link: <a href="http://www.youtube.com/watch?v=Q1D_dZdExHA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Q1D_dZdExHA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyer Explains FTC Endorsement Guides for Influencers...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Lawyer Explains FTC Endorsement Guides for Influencers  
-   Link: [http://www.youtube.com/watch?v=9bddsIKkfe0](http://www.youtube.com/watch?v=9bddsIKkfe0)  
+   Link: <a href="http://www.youtube.com/watch?v=9bddsIKkfe0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=9bddsIKkfe0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>012: FTC Disclosure Best Practices For Influencers...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: 012: FTC Disclosure Best Practices For Influencers  
-   Link: [http://www.youtube.com/watch?v=OO9UWCoFuY8](http://www.youtube.com/watch?v=OO9UWCoFuY8)  
+   Link: <a href="http://www.youtube.com/watch?v=OO9UWCoFuY8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OO9UWCoFuY8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the FTC: Understanding New Endorsement Guidelines For Influencer Marketing With Rob Freund...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=pfdDMXxvLHI](http://www.youtube.com/watch?v=pfdDMXxvLHI)  
+   Link: <a href="http://www.youtube.com/watch?v=pfdDMXxvLHI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pfdDMXxvLHI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Endorsement Guides Influencers Disclosure New FTC Guidelines &amp; Disclosures that Brands, Agencies and Influencers Need to Know Find Yo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and [testimonials](&#123;&#123; 'testimonials/' | relative_url &#125;&#125;) in advertising  
-   Link: [https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising](https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising)  
+   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterGuides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopti...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: wardandsmith.com  
    Title: the ad vantage point navigating the ftc endorsement guides part iii  
-   Link: [https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii](https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii)  
+   Link: <a href="https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii" target="_blank" rel="noopener noreferrer nofollow">https://www.wardandsmith.com/article/the-ad-vantage-point-navigating-the-ftc-endorsement-guides-part-iii</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ward and Smith, P.A.The #AD Vantage Point: Navigating the FTC Endorsement...24 Jan 2024 — Express examples of “material connections” (§...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: hallrender.com  
    Title: a year later revisiting ftcs updated endorsement guides  
-   Link: [https://hallrender.com/2024/07/17/a-year-later-revisiting-ftcs-updated-endorsement-guides/](https://hallrender.com/2024/07/17/a-year-later-revisiting-ftcs-updated-endorsement-guides/)  
+   Link: <a href="https://hallrender.com/2024/07/17/a-year-later-revisiting-ftcs-updated-endorsement-guides/" target="_blank" rel="noopener noreferrer nofollow">https://hallrender.com/2024/07/17/a-year-later-revisiting-ftcs-updated-endorsement-guides/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Year Later—Revisiting FTC&#x27;s Updated Endorsement...17 Jul 2024 — When working with influencers, advertisers must ensure that they are p...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Federal Trade Commission  
-   Link: [https://en.wikipedia.org/wiki/Federal_Trade_Commission](https://en.wikipedia.org/wiki/Federal_Trade_Commission)  
+   Link: <a href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Trade_Commission</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: usa.gov  
-   Link: [https://www.usa.gov/agencies/federal-trade-commission](https://www.usa.gov/agencies/federal-trade-commission)  
+   Link: <a href="https://www.usa.gov/agencies/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/federal-trade-commission</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hey also provide information to help consumers.Read more...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: termly.io  
-   Link: [https://termly.io/resources/articles/ftc-requirements-for-influencers/](https://termly.io/resources/articles/ftc-requirements-for-influencers/)  
+   Link: <a href="https://termly.io/resources/articles/ftc-requirements-for-influencers/" target="_blank" rel="noopener noreferrer nofollow">https://termly.io/resources/articles/ftc-requirements-for-influencers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Requirements For Influencers: Guidelines and RulesThe FTC guidelines say that influencers must transparently make it known whenever a...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: summitworkshops.com  
-   Link: [https://summitworkshops.com/2016/03/3-17-16-lord-taylor-settles-ftc-paid-instagram-posts/](https://summitworkshops.com/2016/03/3-17-16-lord-taylor-settles-ftc-paid-instagram-posts/)  
+   Link: <a href="https://summitworkshops.com/2016/03/3-17-16-lord-taylor-settles-ftc-paid-instagram-posts/" target="_blank" rel="noopener noreferrer nofollow">https://summitworkshops.com/2016/03/3-17-16-lord-taylor-settles-ftc-paid-instagram-posts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lord &amp; Taylor Settles With FTC Over Paid Instagram PostsDepartment store chain Lord &amp; Taylor has settled charges with the FTC that they e...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: adamigo.ai  
-   Link: [https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures](https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures)  
+   Link: <a href="https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.adamigo.ai/blog/ultimate-guide-to-ftc-ad-disclosures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimate Guide to FTC Ad DisclosuresA material connection refers to any relationship between you and a brand that could influence your en...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: tish.law  
-   Link: [https://tish.law/wp-content/uploads/2025/04/Understanding-the-Legalities-of-Influencer-Marketing.pdf](https://tish.law/wp-content/uploads/2025/04/Understanding-the-Legalities-of-Influencer-Marketing.pdf)  
+   Link: <a href="https://tish.law/wp-content/uploads/2025/04/Understanding-the-Legalities-of-Influencer-Marketing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tish.law/wp-content/uploads/2025/04/Understanding-the-Legalities-of-Influencer-Marketing.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Legalities of Influencer MarketingSocial media endorsements should explicitly indicate the material connection at the b...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: theshelf.com  
-   Link: [https://www.theshelf.com/the-blog/lord-taylor-floods-every-fashionistas-instagram-feed-pulling-off-huge-social-media-blitz/](https://www.theshelf.com/the-blog/lord-taylor-floods-every-fashionistas-instagram-feed-pulling-off-huge-social-media-blitz/)  
+   Link: <a href="https://www.theshelf.com/the-blog/lord-taylor-floods-every-fashionistas-instagram-feed-pulling-off-huge-social-media-blitz/" target="_blank" rel="noopener noreferrer nofollow">https://www.theshelf.com/the-blog/lord-taylor-floods-every-fashionistas-instagram-feed-pulling-off-huge-social-media-blitz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lord &amp; Taylor Pulls Off a Huge Influencer Marketing Blitz...Mar 17, 2015 — The brand and its content creators didn&#x27;t disclose that they...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: fenwick.com  
-   Link: [https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements](https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements)  
+   Link: <a href="https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Announces Updated Endorsement Guides to Combat…25 Jul 2023 — The Guides set forth general principles for evaluating endorsements and...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: climatesolutionslaw.com  
-   Link: [https://www.climatesolutionslaw.com/2024/01/will-ftcs-new-endorsement-guidelines-dent-usage-of-social-media-influencers-in-2024/](https://www.climatesolutionslaw.com/2024/01/will-ftcs-new-endorsement-guidelines-dent-usage-of-social-media-influencers-in-2024/)  
+   Link: <a href="https://www.climatesolutionslaw.com/2024/01/will-ftcs-new-endorsement-guidelines-dent-usage-of-social-media-influencers-in-2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.climatesolutionslaw.com/2024/01/will-ftcs-new-endorsement-guidelines-dent-usage-of-social-media-influencers-in-2024/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Will FTC&#x27;s New Endorsement Guidelines Dent Usage of Social...17 Jan 2024 — The question going forward is to what degree the new guidelin...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: katten.com  
-   Link: [https://katten.com/The-FTCs-Native-Advertising-Settlement-With-Lord-Taylor-Highlights-the-Commissions](https://katten.com/The-FTCs-Native-Advertising-Settlement-With-Lord-Taylor-Highlights-the-Commissions)  
+   Link: <a href="https://katten.com/The-FTCs-Native-Advertising-Settlement-With-Lord-Taylor-Highlights-the-Commissions" target="_blank" rel="noopener noreferrer nofollow">https://katten.com/The-FTCs-Native-Advertising-Settlement-With-Lord-Taylor-Highlights-the-Commissions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The FTC&#x27;s Native Advertising Settlement With Lord &amp; Taylor...31 Mar 2016 — According to the FTC&#x27;s complaint, the influencers and endorse...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: kelleydrye.com  
    Title: ftc sends warning letters to companies and influencers over disclosures in posts  
-   Link: [https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-sends-warning-letters-to-companies-and-influencers-over-disclosures-in-posts](https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-sends-warning-letters-to-companies-and-influencers-over-disclosures-in-posts)  
+   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-sends-warning-letters-to-companies-and-influencers-over-disclosures-in-posts" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ftc-sends-warning-letters-to-companies-and-influencers-over-disclosures-in-posts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Sends Warning Letters to Companies and Influencers...16 Nov 2023 — The letters start with a reminder that influencers must ​“clearly...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: adexchanger.com  
    Title: no ad no dice lord taylor settles with ftc for influencer marketing campaign  
-   Link: [https://www.adexchanger.com/online-advertising/no-ad-no-dice-lord-taylor-settles-with-ftc-for-influencer-marketing-campaign/](https://www.adexchanger.com/online-advertising/no-ad-no-dice-lord-taylor-settles-with-ftc-for-influencer-marketing-campaign/)  
+   Link: <a href="https://www.adexchanger.com/online-advertising/no-ad-no-dice-lord-taylor-settles-with-ftc-for-influencer-marketing-campaign/" target="_blank" rel="noopener noreferrer nofollow">https://www.adexchanger.com/online-advertising/no-ad-no-dice-lord-taylor-settles-with-ftc-for-influencer-marketing-campaign/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No #Ad, No Dice: Lord &amp; Taylor Settles With FTC For...15 Mar 2016 — The FTC reached a settlement with Lord &amp; Taylor on Tuesday for an in...</p></details>

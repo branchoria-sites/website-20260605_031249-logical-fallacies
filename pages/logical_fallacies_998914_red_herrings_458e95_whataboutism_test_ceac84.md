@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_
 
 ## Introduction
 
-Whataboutism is often described as answering criticism with “But what about them?”. As a test for spotting red herrings, the key question is not whether the comparison is true, but whether it helps answer the issue under discussion. When a speaker responds to a charge by pointing to someone else’s wrongdoing, hypocrisy, or inconsistency, the move may expose a genuine double standard. Yet if it leaves the original criticism unanswered, it functions as a diversion rather than a defence. Encyclopaedia Britannica defines whataboutism as responding to an accusation or difficult question with a counteraccusation or different issue, while discussions of [relevance]({{ 'relevance/' | relative_url }}) fallacies treat it as a common way of shifting attention away from the claim that needs to be addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
+Whataboutism is often described as answering criticism with “But what about them?”. As a test for spotting red herrings, the key question is not whether the comparison is true, but whether it helps answer the issue under discussion. When a speaker responds to a charge by pointing to someone else’s wrongdoing, hypocrisy, or inconsistency, the move may expose a genuine double standard. Yet if it leaves the original criticism unanswered, it functions as a diversion rather than a defence. Encyclopaedia Britannica defines whataboutism as responding to an accusation or difficult question with a counteraccusation or different issue, while discussions of [relevance]({{ 'relevance/' | relative_url }}) fallacies treat it as a common way of shifting attention away from the claim that needs to be addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1-dark.svg" | relative_url }}" alt="Whataboutism illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,7 +297,7 @@ Now consider:
 
 Here the comparison directly addresses the claim of uniqueness. It is relevant rather than evasive.
 
-The red-herring test is therefore simple: if the comparison helps evaluate the original claim, it may be legitimate. If it merely redirects attention, it is functioning as whataboutism. Philosophical discussions of relevance fallacies and analyses of whataboutery both emphasise that the crucial issue is whether the new point contributes to resolving the original dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">PhilPapersEoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
+The red-herring test is therefore simple: if the comparison helps evaluate the original claim, it may be legitimate. If it merely redirects attention, it is functioning as whataboutism. Philosophical discussions of relevance fallacies and analyses of whataboutery both emphasise that the crucial issue is whether the new point contributes to resolving the original dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BWiMwVqq4rM" title="Whataboutism in Russian diplomacy | Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BWiMwVqq4rM" target="_blank" rel="noopener noreferrer">Whataboutism in Russian diplomacy | Explained</a></p><p class="youtube-embed-meta">Channel: TV Rain Newsroom &middot; Views: 17.8K &middot; Uploaded: September 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BWiMwVqq4rM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BWiMwVqq4rM">Open on YouTube</a></p></div></div></div>
@@ -306,7 +306,7 @@ The red-herring test is therefore simple: if the comparison helps evaluate the o
 
 One reason whataboutism is difficult to evaluate is that accusations of hypocrisy are sometimes important.
 
-Imagine a regulator who punishes one industry for behaviour routinely ignored in another. Pointing out the inconsistency could reveal bias, selective enforcement, or unfair treatment. In such cases, the charge of [double standards]({{ 'double-standards/' | relative_url }}) helps assess whether the criticism itself is being applied fairly. Scholars analysing whataboutery have argued that not every “what about” response is fallacious because some comparisons genuinely illuminate fairness, consistency, or policy principles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">PhilPapersEoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
+Imagine a regulator who punishes one industry for behaviour routinely ignored in another. Pointing out the inconsistency could reveal bias, selective enforcement, or unfair treatment. In such cases, the charge of [double standards]({{ 'double-standards/' | relative_url }}) helps assess whether the criticism itself is being applied fairly. Scholars analysing whataboutery have argued that not every “what about” response is fallacious because some comparisons genuinely illuminate fairness, consistency, or policy principles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
 
 A useful distinction is between two questions:
 
@@ -374,7 +374,7 @@ Similarly:
 
 The response may identify a broader problem, but it can also dilute scrutiny of the particular case being discussed.
 
-Researchers studying online discourse note that whataboutism often operates as a form of narrative disruption. Instead of directly contesting a claim, it redirects attention toward another grievance, controversy, or accusation. This makes detection difficult because the new topic is frequently related enough to seem relevant at first glance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivPaying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</span><span class="citation-popover-meta">Published: February 15, 2024</span></span></span>
+Researchers studying online discourse note that whataboutism often operates as a form of narrative disruption. Instead of directly contesting a claim, it redirects attention toward another grievance, controversy, or accusation. This makes detection difficult because the new topic is frequently related enough to seem relevant at first glance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</span><span class="citation-popover-meta">Published: February 15, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-3-dark.svg" | relative_url }}" alt="Whataboutism illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -391,7 +391,7 @@ A comparison is not automatically fallacious merely because it broadens the disc
 
 For example, if someone argues that a particular punishment is justified because a certain act is exceptionally harmful, evidence that similar acts receive different treatment may be directly relevant.
 
-The decisive question remains relevance. If the comparison helps assess the truth, fairness, or scope of the original claim, it contributes to the argument. If it merely redirects attention, it becomes a red herring. This distinction is central to philosophical discussions of whataboutery and relevance-based fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">PhilPapersEoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
+The decisive question remains relevance. If the comparison helps assess the truth, fairness, or scope of the original claim, it contributes to the argument. If it merely redirects attention, it becomes a red herring. This distinction is central to philosophical discussions of whataboutery and relevance-based fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bG5IzHQ0SMM" title="Whataboutism explained (explainity® explainer video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bG5IzHQ0SMM" target="_blank" rel="noopener noreferrer">Whataboutism explained (explainity® explainer video)</a></p><p class="youtube-embed-meta">Channel: explainitychannel &middot; Views: 16.5K &middot; Uploaded: November 2022 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bG5IzHQ0SMM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bG5IzHQ0SMM">Open on YouTube</a></p></div></div></div>
@@ -400,7 +400,7 @@ The decisive question remains relevance. If the comparison helps assess the trut
 
 Whataboutism is best understood not as any mention of another wrongdoing, but as a test of relevance. A comparison can reveal hypocrisy, expose double standards, or supply essential context. Those uses are not necessarily fallacious.
 
-The warning sign appears when the comparison substitutes for an answer. If the original criticism remains standing after the “what about” response, the conversation has probably been diverted. In that moment, whataboutism functions as a classic red herring: attention moves, but the issue on the table has not actually been addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesIf the fallacy is due to claiming the person does not practice what is preached, it is the Tu...</span></span></span>
+The warning sign appears when the comparison substitutes for an answer. If the original criticism remains standing after the “what about” response, the conversation has probably been diverted. In that moment, whataboutism functions as a classic red herring: attention moves, but the issue on the table has not actually been addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesIf the fallacy is due to claiming the person does not practice what is preached, it is the Tu...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -823,141 +823,141 @@ The warning sign appears when the comparison substitutes for an answer. If the o
 
 1. <a id="endnote-1"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/whataboutism](https://www.britannica.com/topic/whataboutism)  
+   Link: <a href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/whataboutism</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhataboutism | Definition, Examples, Etymology, Logical...Apr 1, 2026 — Whataboutism, the rhetorical practice of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/OCOWIA](https://philpapers.org/rec/OCOWIA)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersEoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</p></details>
+   Link: <a href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/OCOWIA</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: [https://en.wikipedia.org/wiki/Tu_quoque](https://en.wikipedia.org/wiki/Tu_quoque)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: economist.com  
-   Link: [https://www.economist.com/europe/2008/01/31/whataboutism](https://www.economist.com/europe/2008/01/31/whataboutism)  
+   Link: <a href="https://www.economist.com/europe/2008/01/31/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/europe/2008/01/31/whataboutism</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The EconomistWhataboutismJan 31, 2008 — SOVIET propagandists during the cold war were trained in a tactic that their western interlocutor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: kjzz.org  
    Title: whataboutism russian propaganda technique popular trump his supporters  
-   Link: [https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters](https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters)  
+   Link: <a href="https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters" target="_blank" rel="noopener noreferrer nofollow">https://kjzz.org/content/590934/whataboutism-russian-propaganda-technique-popular-trump-his-supporters</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whenever criticism was leveled at the Soviet Union, they countered with a similar critique of the West.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2402.09934](https://arxiv.org/abs/2402.09934)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPaying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.09934</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</p></details>
    Published: February 15, 2024  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesRed herring fallacies. edit. A red herring fallacy, one of the main subtypes of fallacies of relevance, is an error i...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Whataboutism](https://en.wikipedia.org/wiki/Whataboutism)  
+   Link: <a href="https://en.wikipedia.org/wiki/Whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Whataboutism</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WhataboutismCommon accusations include double standards, and hypocrisy, but it can also be used to relativize criticism of one&#x27;s own v...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/propaganda](https://www.britannica.com/topic/propaganda)  
+   Link: <a href="https://www.britannica.com/topic/propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/propaganda</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Techniques, Examples, &amp;...16 May 2026 — Propaganda is the more or less systematic effort to manipulate other people...</p></details>
    Published: May 2026  
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/](https://www.britannica.com/)  
+   Link: <a href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia Britannica | BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: [https://plato.stanford.edu/entries/category-mistakes/](https://plato.stanford.edu/entries/category-mistakes/)  
+   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2002/entries/logic-informal/](https://plato.stanford.edu/archives/sum2002/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LogicVan Eemeren and Grootendorst explain ad hominem as a violation of their first rule for &quot;critical discussion,&quot; which maintains that &quot;...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: encyclopedia.pub  
-   Link: [https://encyclopedia.pub/entry/35272](https://encyclopedia.pub/entry/35272)  
+   Link: <a href="https://encyclopedia.pub/entry/35272" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/35272</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whataboutism | Encyclopedia MDPINov 18, 2022 — Whataboutism is used as Russian propaganda with the goal of obfuscating criticism of the R...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2311.09761](https://arxiv.org/pdf/2311.09761)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv:2311.09761v2 [cs.CL] 9 Apr 2024by C Helwe · 2023 · Cited by 22 — It aims to systematize and classify the fallacies used in current...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2311.09761" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2311.09761</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2311.09761v2 [cs.CL] 9 Apr 2024by C Helwe · 2023 · Cited by 22 — It aims to systematize and classify the fallacies used in current...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacy is due to claiming the person does not practice what is preached, it is the Tu...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Tu quoque)Description: Claiming the argument is flawed by pointing out that the one making the argument is not acting consist...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/1sisl9n/cmv_whataboutism_is_a_logical_fallacy_but_it/](https://www.reddit.com/r/changemyview/comments/1sisl9n/cmv_whataboutism_is_a_logical_fallacy_but_it/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/1sisl9n/cmv_whataboutism_is_a_logical_fallacy_but_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/1sisl9n/cmv_whataboutism_is_a_logical_fallacy_but_it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whataboutism is a logical fallacy, but it works extremely wellWhataboutism is a tactic that deflects criticism by pointing to someone els...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 20. <a id="endnote-20"></a>
    Source: globalchallenges.ch  
    Title: propaganda and disinformation between east and west a long term perspective  
-   Link: [https://globalchallenges.ch/issue/13/propaganda-and-disinformation-between-east-and-west-a-long-term-perspective/](https://globalchallenges.ch/issue/13/propaganda-and-disinformation-between-east-and-west-a-long-term-perspective/)  
+   Link: <a href="https://globalchallenges.ch/issue/13/propaganda-and-disinformation-between-east-and-west-a-long-term-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://globalchallenges.ch/issue/13/propaganda-and-disinformation-between-east-and-west-a-long-term-perspective/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Propaganda and Disinformation between East and WestIn the years following the October Revolution of 1917, the Soviet government sponsored...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BWiMwVqq4rM](https://www.youtube.com/watch?v=BWiMwVqq4rM)  
+   Link: <a href="https://www.youtube.com/watch?v=BWiMwVqq4rM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BWiMwVqq4rM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whataboutism in Russian diplomacy | ExplainedWhataboutism is not only a way of shifting blame whenever faced with an accusation — it is a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/tu-quoque](https://yourlogicalfallacyis.com/tu-quoque)  
+   Link: <a href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is commonly employed as an effective red herring because it takes the heat off someone having to...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: markmanson.net  
-   Link: [https://markmanson.net/logical-fallacies](https://markmanson.net/logical-fallacies)  
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red herring logical fallacy: Hitler was a vegetarian. Red herrings are also...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: russiamatters.org  
    Title: 2 decades russian whataboutism partial rundown  
-   Link: [https://www.russiamatters.org/blog/2-decades-russian-whataboutism-partial-rundown](https://www.russiamatters.org/blog/2-decades-russian-whataboutism-partial-rundown)  
+   Link: <a href="https://www.russiamatters.org/blog/2-decades-russian-whataboutism-partial-rundown" target="_blank" rel="noopener noreferrer nofollow">https://www.russiamatters.org/blog/2-decades-russian-whataboutism-partial-rundown</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Decades of Russian &#x27;Whataboutism&#x27;: A Partial RundownOct 21, 2021 — The collection below features statements made between 2000 and 2021...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MAtalkss/posts/whataboutisma-logical-fallacy-when-instead-of-addressing-the-issue-raised-the-pe/1175665091263489/](https://www.facebook.com/MAtalkss/posts/whataboutisma-logical-fallacy-when-instead-of-addressing-the-issue-raised-the-pe/1175665091263489/)  
+   Link: <a href="https://www.facebook.com/MAtalkss/posts/whataboutisma-logical-fallacy-when-instead-of-addressing-the-issue-raised-the-pe/1175665091263489/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MAtalkss/posts/whataboutisma-logical-fallacy-when-instead-of-addressing-the-issue-raised-the-pe/1175665091263489/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ssue raised, the mind diverts attention by shifting the...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ffreethinkers/posts/10158808061367188/](https://www.facebook.com/groups/ffreethinkers/posts/10158808061367188/)  
+   Link: <a href="https://www.facebook.com/groups/ffreethinkers/posts/10158808061367188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ffreethinkers/posts/10158808061367188/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>le always tend to use it and it’s annoying. They don’t even try...</p></details>

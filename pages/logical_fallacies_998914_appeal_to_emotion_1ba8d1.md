@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:27:46'
 parent_title: Fallacy Lab
 parent_permalink: /logical-fallacies/
 parent_nav_short_title: Fallacy Lab
@@ -492,7 +493,6 @@ next_link:
   permalink: /equivocation/
   short_title: Equivocation
   heading_title: Did the Key Word Change Meaning?
-date: '2026-06-05 01:27:46 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-overview-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-overview.webp
@@ -555,7 +555,7 @@ Not all emotional pressure uses the same route. Fear, pity and urgency are espec
 
 **Fear** pushes the audience towards immediate protection. [Fear appeals]({{ 'fear-appeals/' | relative_url }}) can be legitimate when the danger is real and the recommended action is supported by evidence. Research on fear appeals in health communication has found that strong fear appeals can influence attitudes, intentions and behaviour, especially when people also believe they can take effective action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> But fear becomes fallacious when it exaggerates danger, hides probabilities, or leaps from “this is frightening” to “therefore this claim is true.”
 
-**Pity** shifts attention from the issue to the suffering of a person or group. That suffering may be morally important, but it may not answer the question under debate. In grading, guilt, hiring, guilt by association or criminal liability, pity can blur the difference between compassion and proof. UNC’s fallacies guide treats appeal to pity as a move that tries to make people accept a conclusion by making them feel sorry for someone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies – The Writing Center</span><span class="citation-popover-snippet">The Writing Center Fallacies – The Writing Center</span></span></span>
+**Pity** shifts attention from the issue to the suffering of a person or group. That suffering may be morally important, but it may not answer the question under debate. In grading, guilt, hiring, guilt by [association]({{ 'association/' | relative_url }}) or criminal liability, pity can blur the difference between compassion and proof. UNC’s fallacies guide treats appeal to pity as a move that tries to make people accept a conclusion by making them feel sorry for someone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies – The Writing Center</span><span class="citation-popover-snippet">The Writing Center Fallacies – The Writing Center</span></span></span>
 
 **Urgency** compresses the time available for checking. It is especially effective in sales, scams, political mobilisation and online sharing. A deadline can be legitimate when it is real and relevant. It becomes manipulative when it is artificial, misleading or designed to stop comparison. The Advertising Standards Authority has warned, for instance, that countdown clocks can create undue pressure in sensitive advertising categories such as gambling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/news/it-s-the-final-countdown-but-is-it-really.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAIt&#x27;s the final countdown… but is it really?</span><span class="citation-popover-snippet">ASAIt&#x27;s the final countdown… but is it really?</span></span></span>
 
@@ -1063,74 +1063,74 @@ In practice, the warning sign is not “this argument made me feel something.”
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies (Stanford Encyclopedia of Philosophy)...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLUsing Rhetorical Strategies for Persuasion  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies – The Writing Center  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
 4. <a id="endnote-4"></a>
    Source: GOV.UK  
    Title: CM A investigates online selling practices based on ‘urgency’ claims  
-   Link: [https://www.gov.uk/government/news/cma-investigates-online-selling-practices-based-on-urgency-claims](https://www.gov.uk/government/news/cma-investigates-online-selling-practices-based-on-urgency-claims)  
+   Link: <a href="https://www.gov.uk/government/news/cma-investigates-online-selling-practices-based-on-urgency-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/cma-investigates-online-selling-practices-based-on-urgency-claims</a>  
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
    Title: Dark commercial patterns (EN)  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: ASAIt's the final countdown… but is it really?  
-   Link: [https://www.asa.org.uk/news/it-s-the-final-countdown-but-is-it-really.html](https://www.asa.org.uk/news/it-s-the-final-countdown-but-is-it-really.html)  
+   Link: <a href="https://www.asa.org.uk/news/it-s-the-final-countdown-but-is-it-really.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/it-s-the-final-countdown-but-is-it-really.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-020-00252-3](https://link.springer.com/article/10.1186/s41235-020-00252-3)  
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00252-3</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2510.09695](https://arxiv.org/abs/2510.09695)  
+   Link: <a href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.09695</a>  
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Ethos, Pathos, Logos: The Powers of Persuasion and Rhetoric!  
-   Link: [https://www.youtube.com/watch?v=1FqCkyO2Ir4](https://www.youtube.com/watch?v=1FqCkyO2Ir4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to emotion fallacy logical fallacies pathos Critical Thinking Lecture: [Informal Fallacies](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;): Emotional Appeals The Abundant Life...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=1FqCkyO2Ir4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1FqCkyO2Ir4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to emotion fallacy logical fallacies pathos Critical Thinking Lecture: Informal Fallacies: Emotional Appeals The Abundant Life...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Critical Thinking Lecture: Informal Fallacies: Emotional Appeals  
-   Link: [https://www.youtube.com/watch?v=poGILdwjfxo](https://www.youtube.com/watch?v=poGILdwjfxo)  
+   Link: <a href="https://www.youtube.com/watch?v=poGILdwjfxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=poGILdwjfxo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethos, Pathos, Logos: The Powers of Persuasion and Rhetoric...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Appeal to Emotion | Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=JkB3hhtLx4M](https://www.youtube.com/watch?v=JkB3hhtLx4M)  
+   Link: <a href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JkB3hhtLx4M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking Lecture: Informal Fallacies: Emotional Appeals...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Logical Fallacies: Appeal to Emotion  
-   Link: [https://www.youtube.com/watch?v=ESVP917iLM8](https://www.youtube.com/watch?v=ESVP917iLM8)  
+   Link: <a href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ESVP917iLM8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Emotion | Logical Fallacies...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Appeal to the Reader's Emotion  
-   Link: [https://www.youtube.com/watch?v=7_IZPVHiMOg](https://www.youtube.com/watch?v=7_IZPVHiMOg)  
+   Link: <a href="https://www.youtube.com/watch?v=7_IZPVHiMOg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7_IZPVHiMOg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: Appeal to Emotion...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/</a>  

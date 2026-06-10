@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:47:26'
 parent_title: Did the Key Word Change Meaning? | Fallacy Lab
 parent_permalink: /equivocation/
 parent_nav_short_title: Equivocation
@@ -265,7 +266,6 @@ next_link:
   permalink: /spotting-it/
   short_title: Spotting It
   heading_title: How Can You Tell When a Word Has Shifted?
-date: '2026-06-05 01:47:26 '
 header:
   og_image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3_natural_safe_shift_75a6ab-Illustration-1.webp
@@ -297,7 +297,7 @@ A product might be called natural because: <span class="citation-chip-wrap"><a c
 
 </div>
 
-These meanings are not identical. A plant-derived substance can be heavily processed. A synthetic version of a naturally occurring compound may be chemically identical to the natural one. A product can originate in nature yet still contain contaminants or highly concentrated active ingredients. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dictionary.cambridge.org/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dictionary.cambridge.org">[Cambridge Dictionary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dictionary.cambridge.org</span><span class="citation-popover-title">Dictionary NATURAL | English meaning</span><span class="citation-popover-snippet">Cambridge DictionaryNATURAL | English meaning - Cambridge Dictionaryas found in nature and not involving anything made or done by people...</span></span></span>
+These meanings are not identical. A plant-derived substance can be heavily processed. A synthetic version of a naturally occurring compound may be chemically identical to the natural one. A product can originate in nature yet still contain contaminants or highly concentrated active ingredients. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dictionary.cambridge.org/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dictionary.cambridge.org">[Cambridge Dictionary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dictionary.cambridge.org</span><span class="citation-popover-title">Dictionary NATURAL &#124; English meaning</span><span class="citation-popover-snippet">Cambridge DictionaryNATURAL &#124; English meaning - Cambridge Dictionaryas found in nature and not involving anything made or done by people...</span></span></span>
 
 The equivocation occurs when an argument moves from:
 
@@ -833,178 +833,178 @@ That is the essence of the equivocation. A single attractive word carries two di
 
 1. <a id="endnote-1"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better](https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better)  
+   Link: <a href="https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>, healthier, and safer than “unnatural” or synthetic drugs.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ethics.org.au  
    Title: ethics explainer naturalistic fallacy  
-   Link: [https://ethics.org.au/ethics-explainer-naturalistic-fallacy/](https://ethics.org.au/ethics-explainer-naturalistic-fallacy/)  
+   Link: <a href="https://ethics.org.au/ethics-explainer-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://ethics.org.au/ethics-explainer-naturalistic-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ETHICS CENTREEthics Explainer: Naturalistic Fallacy15 Mar 2016 — The naturalistic fallacy is an informal logical fallacy which argues...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach](https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach)  
+   Link: <a href="https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/are-you-considering-a-complementary-health-approach</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keep in mind that “natural” does not necessarily mean “safe.” (Think of...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dictionary.cambridge.org  
    Title: Dictionary NATURAL | English meaning  
-   Link: [https://dictionary.cambridge.org/dictionary/english/natural](https://dictionary.cambridge.org/dictionary/english/natural)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/natural</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge DictionaryNATURAL | English meaning - Cambridge Dictionaryas found in nature and not involving anything made or done by people...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nccih.nih.gov  
    Title: NCCIHUsing Dietary Supplements Wisely  
-   Link: [https://www.nccih.nih.gov/health/using-dietary-supplements-wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely)  
+   Link: <a href="https://www.nccih.nih.gov/health/using-dietary-supplements-wisely" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/using-dietary-supplements-wisely</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>dietary supplements (and some prescription drugs) come from natural sources, but “natural” does not always mean “safe.” For example, the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684](https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273230020300684</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirect“Natural” is not synonymous with “Safe”: Toxicity of...by TE Gaston · 2020 · Cited by 91 — Consumers equate “natural” with...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: content.govdelivery.com  
-   Link: [https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075](https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075)  
+   Link: <a href="https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075" target="_blank" rel="noopener noreferrer nofollow">https://content.govdelivery.com/accounts/USNIHNCCIH/bulletins/15c6075</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safe Use of Dietary/Herbal SupplementsAug 12, 2016 — An herbal supplement may not contain the correct plant species. The amounts of the i...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: fda.gov  
    Title: 101 dietary supplements  
-   Link: [https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements](https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements)  
+   Link: <a href="https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationFDA 101: Dietary SupplementsJun 2, 2022 — Dietary supplements can help improve health but can also have risks...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fda.gov  
    Title: questions and answers dietary supplements  
-   Link: [https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements](https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements)  
+   Link: <a href="https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationQuestions and Answers on Dietary SupplementsFeb 21, 2024 — Because FDA does not approve dietary supplements b...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: fda.gov  
    Title: s regulation dietary supplements dr cara welch  
-   Link: [https://www.fda.gov/drugs/news-events-human-drugs/fdas-regulation-dietary-supplements-dr-cara-welch](https://www.fda.gov/drugs/news-events-human-drugs/fdas-regulation-dietary-supplements-dr-cara-welch)  
+   Link: <a href="https://www.fda.gov/drugs/news-events-human-drugs/fdas-regulation-dietary-supplements-dr-cara-welch" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/news-events-human-drugs/fdas-regulation-dietary-supplements-dr-cara-welch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationFDA&#x27;s Regulation of Dietary Supplements with Dr. Cara...Mar 5, 2024 — FDA does not approve dietary supplemen...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/](https://www.fda.gov/)  
+   Link: <a href="https://www.fda.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationThe FDA is responsible for protecting the public health by ensuring the safety, efficacy, and security o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/consumers/consumer-updates/10-facts-about-what-fda-does-and-does-not-approve](https://www.fda.gov/consumers/consumer-updates/10-facts-about-what-fda-does-and-does-not-approve)  
+   Link: <a href="https://www.fda.gov/consumers/consumer-updates/10-facts-about-what-fda-does-and-does-not-approve" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/10-facts-about-what-fda-does-and-does-not-approve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Facts about What FDA Does and Does Not ApproveJan 26, 2024 — Fact #2: Vitamins, minerals, herbs, and other dietary supplements are NOT...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fda.gov  
    Title: dietary supplements  
-   Link: [https://www.fda.gov/food/dietary-supplements](https://www.fda.gov/food/dietary-supplements)  
+   Link: <a href="https://www.fda.gov/food/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/dietary-supplements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 1, 2024 — FDA regulates dietary supplements under a different set of regulations than those covering conventional foods and drug prod...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0273230020300738](https://www.sciencedirect.com/science/article/pii/S0273230020300738)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0273230020300738" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0273230020300738</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory landscape of dietary supplements and herbal...by S Thakkar · 2020 · Cited by 361 — This review summarizes a significant porti...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ods.od.nih.gov  
-   Link: [https://ods.od.nih.gov/factsheets/WYNTK-Consumer/](https://ods.od.nih.gov/factsheets/WYNTK-Consumer/)  
+   Link: <a href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/WYNTK-Consumer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some all-natural botanical products, for example comfrey and kava, can harm the liver.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: We also include probiotics in this category  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7543483/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralNational Center for Complementary and Integrative Health...by WJ Weber · 2020 · Cited by 20 — NCCIH includes in the term “...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9375827/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralClinical Implications of Herbal Supplements in Conventional...by G Hassen · 2022 · Cited by 137 — Though perceived as safe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: arocjournal.com  
-   Link: [https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/](https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/)  
+   Link: <a href="https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/" target="_blank" rel="noopener noreferrer nofollow">https://arocjournal.com/journal/safety-evaluation-and-concerns-of-natural-products-in-traditional-medicine/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Evaluation and Concerns of Natural Products in...by TB Aliu · Cited by 10 — This review examines key safety concerns associated w...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/](https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/)  
+   Link: <a href="https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/03/16/health/fda-warns-about-weight-loss-supplements-containing-toxin/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug Administration (FDA) has issued an urgent warning about a growing list of weight loss supplements that fraudulently claim t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements](https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements)  
+   Link: <a href="https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumers Need To Know About Dietary Supplements“Natural” does not necessarily mean “safe.” For example, the herbs comfrey and kava can c...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Nature](https://en.wikipedia.org/wiki/Nature)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nature" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nature</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureNature is an inherent character or constitution, particularly of the ecosphere or the universe as a whole. In this general sense...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/343466371_NCCIH_Perspectives_on_Clinical_Research_Involving_Natural_Products](https://www.researchgate.net/publication/343466371_NCCIH_Perspectives_on_Clinical_Research_Involving_Natural_Products)  
+   Link: <a href="https://www.researchgate.net/publication/343466371_NCCIH_Perspectives_on_Clinical_Research_Involving_Natural_Products" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343466371_NCCIH_Perspectives_on_Clinical_Research_Involving_Natural_Products</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NCCIH Perspectives on Clinical Research Involving...Despite their use by a large percentage of Americans, there is little evidence for t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: masseycancercenter.org  
    Title: the truth behind natural products herbal supplements  
-   Link: [https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/](https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/)  
+   Link: <a href="https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/" target="_blank" rel="noopener noreferrer nofollow">https://www.masseycancercenter.org/news/the-truth-behind-natural-products-herbal-supplements/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural products are NOT safer than prescription medications 2. You CAN use complementary therapies with conventional treatments 3. All n...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/365088518_Natural_Does_Not_Mean_Safe](https://www.researchgate.net/publication/365088518_Natural_Does_Not_Mean_Safe)  
+   Link: <a href="https://www.researchgate.net/publication/365088518_Natural_Does_Not_Mean_Safe" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365088518_Natural_Does_Not_Mean_Safe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Natural Does Not Mean SafeSome chemicals in medicinal plants that are of safety concerns include the endocrine-disrupting chemicals...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/adnature.html](https://www.fallacyfiles.org/adnature.html)  
+   Link: <a href="https://www.fallacyfiles.org/adnature.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/adnature.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Appeal to NatureAn argument appeals to nature when it claims that something is good because it&#x27;s natural, or bad because...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/natural](https://www.merriam-webster.com/dictionary/natural)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/natural</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATURAL Definition &amp; Meaningnatural, ingenuous, naive, unsophisticated, artless mean free from pretension or calculation. natural implies...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: jamesfodor.com  
-   Link: [https://jamesfodor.com/naturalistic-fallacy/](https://jamesfodor.com/naturalistic-fallacy/)  
+   Link: <a href="https://jamesfodor.com/naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://jamesfodor.com/naturalistic-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Naturalistic FallacyThe naturalistic fallacy (also called an appeal to nature) is committed when one argues that because something happen...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_nature](https://en.wikipedia.org/wiki/Appeal_to_nature)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_nature" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_nature</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to natureAn appeal to nature is a rhetorical technique for presenting and proposing the argument that &quot;a thing is good because...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/EnglishLearning/comments/pdo4jg/what_does_natural_mean/](https://www.reddit.com/r/EnglishLearning/comments/pdo4jg/what_does_natural_mean/)  
+   Link: <a href="https://www.reddit.com/r/EnglishLearning/comments/pdo4jg/what_does_natural_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EnglishLearning/comments/pdo4jg/what_does_natural_mean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What does &quot;natural&quot; mean?: r/EnglishLearningDom was impressed with Ramsey&#x27;s skills: Dom: You&#x27;re a natural. Ramsey: Of course I am. What...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: m.facebook.com  
    Title: natural doesnt necessarily mean safer or better while some medicines are derived  
-   Link: [https://m.facebook.com/NIH.ODS/photos/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122181307191/](https://m.facebook.com/NIH.ODS/photos/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122181307191/)  
+   Link: <a href="https://m.facebook.com/NIH.ODS/photos/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122181307191/" target="_blank" rel="noopener noreferrer nofollow">https://m.facebook.com/NIH.ODS/photos/natural-doesnt-necessarily-mean-safer-or-better-while-some-medicines-are-derived/675122181307191/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Natural” doesn&#x27;t necessarily mean safer or better. While some medicines are derived from plants, not all products from nature are effect...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/dictionary/english/natural](https://www.collinsdictionary.com/dictionary/english/natural)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/natural" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/natural</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of, existing in, or produced by nature; natural science; natural cliffs. 2. in accordance with human nature; it is only natural to want t...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: partiallyexaminedlife.com  
    Title: when a fallacy aint a fallacy the naturalistic fallacy  
-   Link: [https://partiallyexaminedlife.com/2026/02/27/when-a-fallacy-aint-a-fallacy-the-naturalistic-fallacy/](https://partiallyexaminedlife.com/2026/02/27/when-a-fallacy-aint-a-fallacy-the-naturalistic-fallacy/)  
+   Link: <a href="https://partiallyexaminedlife.com/2026/02/27/when-a-fallacy-aint-a-fallacy-the-naturalistic-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://partiallyexaminedlife.com/2026/02/27/when-a-fallacy-aint-a-fallacy-the-naturalistic-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When a Fallacy Ain&#x27;t a Fallacy: The Naturalistic Fallacy27 Feb 2026 — The accusation of a naturalistic fallacy is lodged when someone def...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/](https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/)  
+   Link: <a href="https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Gunhillmedicalvillage/posts/myth-natural-means-safereality-just-because-a-product-is-labeled-natural-doesnt-/1162610439394195/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ontamination and growth than synthetic raw materials.&quot; While the...Read more...</p></details>

@@ -278,7 +278,7 @@ People often rely on other people’s choices when they are uncertain. If many c
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_social_proof_crowds_d40ed5-Illustration-1-dark.svg" | relative_url }}" alt="Social Proof illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_social_proof_crowds_d40ed5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_social_proof_crowds_d40ed5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader [appeal to popularity]({{ 'popularity/' | relative_url }}) fallacy, social proof becomes misleading when agreement is treated as proof rather than as a clue. A large number of people can reach the same conclusion because they have independently observed good evidence. But they can also reach it because they copied one another, responded to the same source, or feared standing apart from the group. The difference between those situations is crucial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSocial ProofSocial proof is a psychological phenomenon in which people look to the actions of others to determine how to...</span></span></span>
+Within the broader appeal to popularity fallacy, social proof becomes misleading when agreement is treated as proof rather than as a clue. A large number of people can reach the same conclusion because they have independently observed good evidence. But they can also reach it because they copied one another, responded to the same source, or feared standing apart from the group. The difference between those situations is crucial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabSocial ProofSocial proof is a psychological phenomenon in which people look to the actions of others to determine how to...</span></span></span>
 
 ## Why People Treat Crowds as Information
 
@@ -395,7 +395,7 @@ People may follow a majority because they fear criticism, want social approval, 
 
 ### Distinguish Adoption From Truth
 
-A claim can spread successfully because it is memorable, emotionally engaging, socially rewarded, or repeatedly encountered. None of those factors guarantees accuracy. Research on [information cascades]({{ 'cascades/' | relative_url }}) and online information diffusion shows that widespread transmission and factual reliability are separate questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.11044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Information Cascades and Social Learning</span><span class="citation-popover-snippet">arXiv Information Cascades and Social Learning</span></span></span>
+A claim can spread successfully because it is memorable, emotionally engaging, socially rewarded, or repeatedly encountered. None of those factors guarantees accuracy. Research on information [cascades]({{ 'cascades/' | relative_url }}) and online information diffusion shows that widespread transmission and factual reliability are separate questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.11044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Information Cascades and Social Learning</span><span class="citation-popover-snippet">arXiv Information Cascades and Social Learning</span></span></span>
 
 ## The Core Mechanism
 
@@ -828,177 +828,177 @@ Understanding this distinction helps explain why appeal-to-popularity arguments 
 
 1. <a id="endnote-1"></a>
    Source: cs.cornell.edu  
-   Link: [https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf)  
+   Link: <a href="https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch16.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cornell Bowers CSChapter 16 Information Cascadesby D Easley · Cited by 40 — Roughly, then, an information cascade has the potential to oc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWise or mad crowds?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7439644/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7439644/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7439644/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7439644/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The cognitive [mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) underlying...by AN Tump · 2020 · Cited by 122 — Early-deciding individuals can thereby trigger information casc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Information cascade  
-   Link: [https://en.wikipedia.org/wiki/Information_cascade](https://en.wikipedia.org/wiki/Information_cascade)  
+   Link: <a href="https://en.wikipedia.org/wiki/Information_cascade" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Information_cascade</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Title: arXiv Information [Cascades](&#123;&#123; 'cascades/' | relative_url &#125;&#125;) and Social Learning  
-   Link: [https://arxiv.org/abs/2105.11044](https://arxiv.org/abs/2105.11044)  
+   Title: arXiv Information Cascades and Social Learning  
+   Link: <a href="https://arxiv.org/abs/2105.11044" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.11044</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: [Asch conformity](&#123;&#123; 'the-asch-conformity-experiments/' | relative_url &#125;&#125;) experiments  
-   Link: [https://en.wikipedia.org/wiki/Asch_conformity_experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments)  
+   Title: Asch conformity experiments  
+   Link: <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>power of social influence: A replication and extension of...by A Franzen · 2023 · Cited by 61 — In this paper, we pursue four goals: Fir...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Message Distortion in Information Cascades  
-   Link: [https://arxiv.org/abs/1902.09197](https://arxiv.org/abs/1902.09197)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMessage Distortion in Information CascadesFebruary 25, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1902.09197" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.09197</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Message Distortion in Information CascadesFebruary 25, 2019...</p></details>
    Published: February 25, 2019  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2006.00765](https://arxiv.org/abs/2006.00765)  
+   Link: <a href="https://arxiv.org/abs/2006.00765" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.00765</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Robert Cialdini  
-   Link: [https://en.wikipedia.org/wiki/Robert_Cialdini](https://en.wikipedia.org/wiki/Robert_Cialdini)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robert_Cialdini" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_Cialdini</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert CialdiniRobert Beno Cialdini (/tʃælˈdiːni/) born April 27, 1945 is an American psychologist and author.... He is the Regents&#x27;...</p></details>
    Published: April 27, 1945  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Social proof  
-   Link: [https://en.wikipedia.org/wiki/Social_proof](https://en.wikipedia.org/wiki/Social_proof)  
+   Link: <a href="https://en.wikipedia.org/wiki/Social_proof" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Social_proof</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social proofWhen a person is in a situation where they are unsure of the correct way to behave, they will often look to others for clu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: blogs.cornell.edu  
    Title: The conclusion of this experiment directly relates to information  
-   Link: [https://blogs.cornell.edu/info2040/2017/10/25/the-asch-experiment-and-its-relation-to-information-cascades/](https://blogs.cornell.edu/info2040/2017/10/25/the-asch-experiment-and-its-relation-to-information-cascades/)  
+   Link: <a href="https://blogs.cornell.edu/info2040/2017/10/25/the-asch-experiment-and-its-relation-to-information-cascades/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.cornell.edu/info2040/2017/10/25/the-asch-experiment-and-its-relation-to-information-cascades/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch Experiment and its Relation to Information CascadesOct 25, 2017 — The Asch Experiment is simple, yet strongly conveys the power of c...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cialdini.com  
-   Link: [https://cialdini.com/](https://cialdini.com/)  
+   Link: <a href="https://cialdini.com/" target="_blank" rel="noopener noreferrer nofollow">https://cialdini.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cialdini Institute - Harness the Power of Ethical PersuasionWe teach, train, and coach organizations to ethically apply the science of pe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/social-proof](https://thedecisionlab.com/reference-guide/psychology/social-proof)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/social-proof</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabSocial ProofSocial proof is a psychological phenomenon in which people look to the actions of others to determine how to...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: influenceatwork.com  
-   Link: [https://www.influenceatwork.com/](https://www.influenceatwork.com/)  
+   Link: <a href="https://www.influenceatwork.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.influenceatwork.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Cialdini Influence Training...Dr. Robert Cialdini&#x27;s INFLUENCE AT WORK® is a professional resource to improve performance using pr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: persuasionmatters.com  
    Title: revisiting cialdinis six principles of persuasion social proof  
-   Link: [https://www.persuasionmatters.com/revisiting-cialdinis-six-principles-of-persuasion-social-proof/](https://www.persuasionmatters.com/revisiting-cialdinis-six-principles-of-persuasion-social-proof/)  
+   Link: <a href="https://www.persuasionmatters.com/revisiting-cialdinis-six-principles-of-persuasion-social-proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.persuasionmatters.com/revisiting-cialdinis-six-principles-of-persuasion-social-proof/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting Cialdini&#x27;s Six Principles of Persuasion: Social Proof15 Sept 2018 — People follow the lead of similar others, and this conditi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: simplypsychology.org  
    Title: Simply Psychology Asch Conformity Line Experiment  
-   Link: [https://www.simplypsychology.org/asch-conformity.html](https://www.simplypsychology.org/asch-conformity.html)  
+   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyAsch Conformity Line ExperimentMay 15, 2025 — Solomon Asch experimented with investigating the extent to which social pr...</p></details>
    Published: May 15, 2025  
 
 17. <a id="endnote-17"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/sociology/conformity](https://thedecisionlab.com/reference-guide/sociology/conformity)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/sociology/conformity" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/sociology/conformity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Based on Muzafer Sherif&#x27;s 1935 publication, Asch was able to further provide evidence for the effects of conformity on human behavior.6...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: verywellmind.com  
    Title: [the asch conformity experiments](&#123;&#123; 'the-asch-conformity-experiments/' | relative_url &#125;&#125;) 2794996  
-   Link: [https://www.verywellmind.com/the-asch-conformity-experiments-2794996](https://www.verywellmind.com/the-asch-conformity-experiments-2794996)  
+   Link: <a href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/the-asch-conformity-experiments-2794996</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Asch Conformity ExperimentsOct 26, 2025 — The purpose of the Asch conformity experiment was to demonstrate the power of conformity in...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dev.bobmarley.com  
-   Link: [https://dev.bobmarley.com/info/6TW/249/P1lo21/conformity_experiments](https://dev.bobmarley.com/info/6TW/249/P1lo21/conformity_experiments)  
+   Link: <a href="https://dev.bobmarley.com/info/6TW/249/P1lo21/conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://dev.bobmarley.com/info/6TW/249/P1lo21/conformity_experiments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CONFORMITY EXPERIMENTSAsch&#x27;s experiment illuminated the powerful role of normative social influence, demonstrating that individuals may c...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/social](https://dictionary.cambridge.org/us/dictionary/english/social)  
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/social" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/social</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>related to meeting and spending time with other people for pleasure: He had almost no social life.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: social-engineer.org  
    Title: Social Proof  
-   Link: [https://www.social-engineer.org/framework/influencing-others/influence-tactics/social-proof/](https://www.social-engineer.org/framework/influencing-others/influence-tactics/social-proof/)  
+   Link: <a href="https://www.social-engineer.org/framework/influencing-others/influence-tactics/social-proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.social-engineer.org/framework/influencing-others/influence-tactics/social-proof/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Security Through EducationSocial proof is a psychological phenomenon that occurs in social situations when people are unable to determine...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: influenceatwork.com  
    Title: 7 principles of persuasion  
-   Link: [https://www.influenceatwork.com/7-principles-of-persuasion/](https://www.influenceatwork.com/7-principles-of-persuasion/)  
+   Link: <a href="https://www.influenceatwork.com/7-principles-of-persuasion/" target="_blank" rel="noopener noreferrer nofollow">https://www.influenceatwork.com/7-principles-of-persuasion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Cialdini&#x27;s Seven Principles of Persuasion | IAWThe Sixth Principle is Social Proof. Especially when they are uncertain, people wil...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: ssa.gov  
-   Link: [https://www.ssa.gov/](https://www.ssa.gov/)  
+   Link: <a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/</a>  
 
 24. <a id="endnote-24"></a>
    Source: insidebe.com  
-   Link: [https://insidebe.com/articles/social-proof-2/](https://insidebe.com/articles/social-proof-2/)  
+   Link: <a href="https://insidebe.com/articles/social-proof-2/" target="_blank" rel="noopener noreferrer nofollow">https://insidebe.com/articles/social-proof-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Proof – Everything You Need To KnowSocial proof is the tendency to be swayed by other people&#x27;s choices, especially in ambiguous ci...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/social](https://www.merriam-webster.com/dictionary/social)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/social" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/social</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SOCIAL Definition &amp; MeaningThe meaning of SOCIAL is marked by or passed in pleasant companionship with friends or associates. How to use...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: achology.com  
    Title: One key factor is normative social influence, where individuals  
-   Link: [https://achology.com/psychology/social-conformity-insights-from-the-asch-conformity-experiment/?srsltid=AfmBOoo3ZkzknazG_Qm6WwRdtldcl2RE5vOzMQJlVzeag5dXFDuXiqA1](https://achology.com/psychology/social-conformity-insights-from-the-asch-conformity-experiment/?srsltid=AfmBOoo3ZkzknazG_Qm6WwRdtldcl2RE5vOzMQJlVzeag5dXFDuXiqA1)  
+   Link: <a href="https://achology.com/psychology/social-conformity-insights-from-the-asch-conformity-experiment/?srsltid=AfmBOoo3ZkzknazG_Qm6WwRdtldcl2RE5vOzMQJlVzeag5dXFDuXiqA1" target="_blank" rel="noopener noreferrer nofollow">https://achology.com/psychology/social-conformity-insights-from-the-asch-conformity-experiment/?srsltid=AfmBOoo3ZkzknazG_Qm6WwRdtldcl2RE5vOzMQJlVzeag5dXFDuXiqA1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Social Conformity: Insights from The Asch...The Asch Conformity Experiment revealed several psychological mechanisms underl...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: people-shift.com  
    Title: People Shift Cialdini's 6 Principles of Persuasion: A Simple  
-   Link: [https://people-shift.com/articles/cialdinis-6-principles-of-persuasion/](https://people-shift.com/articles/cialdinis-6-principles-of-persuasion/)  
+   Link: <a href="https://people-shift.com/articles/cialdinis-6-principles-of-persuasion/" target="_blank" rel="noopener noreferrer nofollow">https://people-shift.com/articles/cialdinis-6-principles-of-persuasion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cialdini&#x27;s 6 Principles of Persuasion: A Simple SummaryJul 11, 2019 — Cialdini&#x27;s 6 Principles of Persuasion are reciprocity, scarcity, au...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
    Title: Social Security Administration (@socialsecurity)Go Digital!  
-   Link: [https://www.facebook.com/socialsecurity/](https://www.facebook.com/socialsecurity/)  
+   Link: <a href="https://www.facebook.com/socialsecurity/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/socialsecurity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find the answers you need, without the wait. Need information about Social Security? From forms to benefit details to frequently asked qu...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: news.wpcarey.asu.edu  
    Title: 20070103 gentle science persuasion part three social proof  
-   Link: [https://news.wpcarey.asu.edu/20070103-gentle-science-persuasion-part-three-social-proof](https://news.wpcarey.asu.edu/20070103-gentle-science-persuasion-part-three-social-proof)  
+   Link: <a href="https://news.wpcarey.asu.edu/20070103-gentle-science-persuasion-part-three-social-proof" target="_blank" rel="noopener noreferrer nofollow">https://news.wpcarey.asu.edu/20070103-gentle-science-persuasion-part-three-social-proof</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gentle science of persuasion, part three: Social proofJan 3, 2007 — Social psychologists have long known that human beings often make cho...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: leadalchemists.com  
-   Link: [https://www.leadalchemists.com/marketing-psychology/social-proof/](https://www.leadalchemists.com/marketing-psychology/social-proof/)  
+   Link: <a href="https://www.leadalchemists.com/marketing-psychology/social-proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/social-proof/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to manipulate; [Context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;)-Appropriate: Consider when social proof is helpful...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/intellectual-giants/robert-cialdini/](https://fs.blog/intellectual-giants/robert-cialdini/)  
+   Link: <a href="https://fs.blog/intellectual-giants/robert-cialdini/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/intellectual-giants/robert-cialdini/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n, one of the great and enduring works of social psychology...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-quiet-footnote/influence-by-robert-cialdini-the-psychology-behind-why-we-say-yes-ae71223f22de](https://medium.com/the-quiet-footnote/influence-by-robert-cialdini-the-psychology-behind-why-we-say-yes-ae71223f22de)  
+   Link: <a href="https://medium.com/the-quiet-footnote/influence-by-robert-cialdini-the-psychology-behind-why-we-say-yes-ae71223f22de" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-quiet-footnote/influence-by-robert-cialdini-the-psychology-behind-why-we-say-yes-ae71223f22de</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>viour, assuming that what the majority is doing must be right.Read more...</p></details>

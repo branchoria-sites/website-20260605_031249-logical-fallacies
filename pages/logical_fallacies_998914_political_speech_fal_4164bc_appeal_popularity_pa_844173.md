@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appea
 
 ## Introduction
 
-In parliamentary [debate]({{ 'debate/' | relative_url }}), public opinion matters. Elected representatives are expected to pay attention to voters, explain how policies reflect public concerns and consider the legitimacy that comes from democratic support. The problem arises when popularity is treated not as a political consideration but as proof that a claim is true or that a policy is sound. This is the logical fallacy known as an [appeal to popularity]({{ 'popularity/' | relative_url }}), or *argumentum ad populum*. It occurs when a speaker argues that a proposition should be accepted simply because many people believe it, support it or favour it. Popularity may be politically relevant, but it is not evidence that a factual claim is correct or that a policy will achieve its intended outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</span></span></span>
+In parliamentary [debate]({{ 'debate/' | relative_url }}), public opinion matters. Elected representatives are expected to pay attention to voters, explain how policies reflect public concerns and consider the legitimacy that comes from democratic support. The problem arises when popularity is treated not as a political consideration but as proof that a claim is true or that a policy is sound. This is the logical fallacy known as an appeal to popularity, or *argumentum ad populum*. It occurs when a speaker argues that a proposition should be accepted simply because many people believe it, support it or favour it. Popularity may be politically relevant, but it is not evidence that a factual claim is correct or that a policy will achieve its intended outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_appeal_popularity_pa_844173-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ Within legislatures, this fallacy is especially important because parliamentary 
 
 Parliamentary debate differs from many other forms of argument because legislators are not merely discussing abstract truths. They are also making collective decisions on behalf of citizens. As a result, references to public opinion are often appropriate.
 
-A member of parliament may legitimately argue that a proposal deserves consideration because it reflects the preferences of a large portion of the electorate. Democratic systems require representatives to take citizens' interests, values and priorities seriously. Scholars of political argumentation note that appeals to majority preferences can play a role in establishing the political legitimacy of a policy position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-015-9372-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</span></span></span>
+A member of parliament may legitimately argue that a proposal deserves consideration because it reflects the preferences of a large portion of the electorate. Democratic systems require representatives to take citizens' interests, values and priorities seriously. Scholars of political argumentation note that appeals to majority preferences can play a role in establishing the political legitimacy of a policy position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-015-9372-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</span></span></span>
 
 This democratic [context]({{ 'context/' | relative_url }}) explains why popularity-based arguments can sound persuasive. Statements such as:
 
@@ -299,7 +299,7 @@ This democratic [context]({{ 'context/' | relative_url }}) explains why populari
 
 may be relevant when discussing political mandates or electoral accountability.
 
-However, [relevance]({{ 'relevance/' | relative_url }}) to political legitimacy is not the same as proof of correctness. A majority can support a policy that is ineffective, misunderstand factual evidence or hold beliefs that later prove mistaken. The logical mistake occurs when popularity is presented as if it settles questions that require independent evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span>
+However, [relevance]({{ 'relevance/' | relative_url }}) to political legitimacy is not the same as proof of correctness. A majority can support a policy that is ineffective, misunderstand factual evidence or hold beliefs that later prove mistaken. The logical mistake occurs when popularity is presented as if it settles questions that require independent evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span>
 
 ## How Appeal to Majority Bypasses Evidence
 
@@ -311,7 +311,7 @@ The structure of the fallacy is straightforward:
 1. Many people believe or support a claim.
 2. Therefore, the claim is true or the policy is justified.
 
-The conclusion does not logically follow from the premise. Whether a claim is widely accepted and whether it is true are separate questions. Logic scholars classify appeal to popularity as a relevance fallacy because the popularity of a belief does not itself provide evidence for its accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[2philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an elite group people irre...</span></span></span>
+The conclusion does not logically follow from the premise. Whether a claim is widely accepted and whether it is true are separate questions. Logic scholars classify appeal to popularity as a relevance fallacy because the popularity of a belief does not itself provide evidence for its accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[2philosophy.lander.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an elite group people irre...</span></span></span>
 
 In parliamentary settings, the fallacy often appears in more sophisticated forms than the textbook example. Rather than explicitly saying “the majority believes it, therefore it is true”, speakers may imply that public support eliminates the need for further justification.
 
@@ -367,11 +367,11 @@ A useful distinction is between two questions:
 
 ### Who should decide?
 
-In a democracy, majority preferences often matter when determining collective choices. Legislators may reasonably argue that policy should reflect the wishes of citizens because democratic institutions exist to represent them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-015-9372-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</span></span></span>
+In a democracy, majority preferences often matter when determining collective choices. Legislators may reasonably argue that policy should reflect the wishes of citizens because democratic institutions exist to represent them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-015-9372-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</span></span></span>
 
 ### What is true or effective?
 
-Questions of fact require evidence beyond public belief. Whether a tax policy increases revenue, whether a public-health measure reduces harm, or whether a forecast is accurate cannot be determined solely by counting supporters. These questions require data, analysis and reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span>
+Questions of fact require evidence beyond public belief. Whether a tax policy increases revenue, whether a public-health measure reduces harm, or whether a forecast is accurate cannot be determined solely by counting supporters. These questions require data, analysis and reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span>
 
 Confusion arises when answers to the first question are used to settle the second. Democratic legitimacy and factual validity are related but distinct concepts.
 
@@ -408,7 +408,7 @@ When appeal-to-popularity arguments dominate, that deliberative function weakens
 
 The result is a debate focused on who has the larger following rather than on which arguments are better supported.
 
-Recognising the appeal to popularity fallacy does not require ignoring public opinion. Democratic debate depends on understanding what citizens want. The critical point is that majority support can indicate political importance, legitimacy or urgency, but it cannot by itself prove that a claim is true or that a policy is sound. Evidence must still do that work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</span></span></span>
+Recognising the appeal to popularity fallacy does not require ignoring public opinion. Democratic debate depends on understanding what citizens want. The critical point is that majority support can indicate political importance, legitimacy or urgency, but it cannot by itself prove that a claim is true or that a policy is sound. Evidence must still do that work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlypublications.universiteitleiden.nl">[Scholarly Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlypublications.universiteitleiden.nl</span><span class="citation-popover-snippet">Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -831,57 +831,57 @@ Recognising the appeal to popularity fallacy does not require ignoring public op
 
 1. <a id="endnote-1"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/popular.html](https://philosophy.lander.edu/logic/popular.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an elite group people irre...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10503-015-9372-4](https://link.springer.com/article/10.1007/s10503-015-9372-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10503-015-9372-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-015-9372-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of European Parliamentary Committees of Inquiryby C Andone · 2016 · Cited by 22 — By treating appeals to the majority in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribbr.com  
    Title: ad populum fallacy  
-   Link: [https://www.scribbr.com/fallacies/ad-populum-fallacy/](https://www.scribbr.com/fallacies/ad-populum-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-populum-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;s...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: rozenbergquarterly.com  
-   Link: [https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/](https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/)  
+   Link: <a href="https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/" target="_blank" rel="noopener noreferrer nofollow">https://rozenbergquarterly.com/issa-proceedings-2010-analysis-of-fallacies-in-croatian-parliamentary-debate/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis Of Fallacies in Croatian Parliamentary Debateby G Kišiček — This fallacy is often accompanied by words like: “Everybody knows th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: journal-redescriptions.org  
    Title: “What Is the Point of Parliamentary Debate?” Deliberation,  
-   Link: [https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf](https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf)  
+   Link: <a href="https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journal-redescriptions.org/articles/49/files/submission/proof/49-1-94-1-10-20190828.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This article seeks to open up debate about Parliamentary debate by exploring the history of ideas about Parliamentary debate and rhetoric...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: parliament.uk  
-   Link: [https://www.parliament.uk/about/how/business/debates/](https://www.parliament.uk/about/how/business/debates/)  
+   Link: <a href="https://www.parliament.uk/about/how/business/debates/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/about/how/business/debates/</a>  
 
 7. <a id="endnote-7"></a>
    Source: scribbr.co.uk  
    Title: Scribbr What Is Ad Populum Fallacy? | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/](https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</p></details>
    Published: June 20, 2023  
 
 8. <a id="endnote-8"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: [https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view](https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view)  
+   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A3458708/view</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly PublicationsAd populum arguments in a political contextAn appeal to the opinion of a lot of people or even to the majority of p...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Argumentum ad populum  
-   Link: [https://en.wikipedia.org/wiki/Argumentum_ad_populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populumIn argumentation theory, an argumentum ad populum is an informal fallacy that asserts a claim is true, good, or c...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: uvm.edu  
    Title: Parliamentary debate  
-   Link: [https://www.uvm.edu/~debate/meanyparli.html](https://www.uvm.edu/~debate/meanyparli.html)  
+   Link: <a href="https://www.uvm.edu/~debate/meanyparli.html" target="_blank" rel="noopener noreferrer nofollow">https://www.uvm.edu/~debate/meanyparli.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rs do not...Read more...</p></details>
 
 ### Additional References
@@ -889,55 +889,55 @@ Recognising the appeal to popularity fallacy does not require ignoring public op
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 281112603 Parrying Ad Hominem Arguments in Parliamentary Debates  
-   Link: [https://www.researchgate.net/publication/281112603_Parrying_Ad_Hominem_Arguments_in_Parliamentary_Debates](https://www.researchgate.net/publication/281112603_Parrying_Ad_Hominem_Arguments_in_Parliamentary_Debates)  
+   Link: <a href="https://www.researchgate.net/publication/281112603_Parrying_Ad_Hominem_Arguments_in_Parliamentary_Debates" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281112603_Parrying_Ad_Hominem_Arguments_in_Parliamentary_Debates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>José Plug published Parrying Ad Hominem Arguments in Parliamentary Debates | Find, read and cite all the research you need on...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: icar.cnrs.fr  
-   Link: [https://icar.cnrs.fr/dicoplantin/political-arguments-eng/](https://icar.cnrs.fr/dicoplantin/political-arguments-eng/)  
+   Link: <a href="https://icar.cnrs.fr/dicoplantin/political-arguments-eng/" target="_blank" rel="noopener noreferrer nofollow">https://icar.cnrs.fr/dicoplantin/political-arguments-eng/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Political Arguments: Two Collections6 Aug 2021 — Bentham focuses exclusively on fallacious arguments in parliamentary debates...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-[bandwagon](https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-[bandwagon)  
+   Link: <a href="https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-[bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-[bandwagon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populum, also known as the &quot;appeal to...Argumentum ad populum is a logical fallacy that argues a claim is true because a l...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: STAR TREK Logical Thinking #1  
-   Link: [https://www.youtube.com/watch?v=xkoMdnCS6Og](https://www.youtube.com/watch?v=xkoMdnCS6Og)  
+   Link: <a href="https://www.youtube.com/watch?v=xkoMdnCS6Og" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xkoMdnCS6Og</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is argumentum ad populum? [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) Explained #7...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5712170/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5712170/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5712170/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5712170/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>appeal to popularity... There has been discussion whether ad populum would be reasonable and not fallacious in the political debate [32...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: files.eric.ed.gov  
-   Link: [https://files.eric.ed.gov/fulltext/ED299644.pdf](https://files.eric.ed.gov/fulltext/ED299644.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/ED299644.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED299644.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper reviews the newly emergent trend of audience-centered debate paradigms, such as the narrative and the issues-agenda paradigms...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Ad Populum (Appeal to Popularity): Lesson and Activity  
-   Link: [https://www.youtube.com/watch?v=8zg2dpimhNQ](https://www.youtube.com/watch?v=8zg2dpimhNQ)  
+   Link: <a href="https://www.youtube.com/watch?v=8zg2dpimhNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8zg2dpimhNQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STAR TREK Logical Thinking #1 - Argumentum Ad Populum (Appeal to the Majority)...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: [https://www.youtube.com/watch?v=aF6EHTtyYqw](https://www.youtube.com/watch?v=aF6EHTtyYqw)  
+   Link: <a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Don't Be a Sheep: The Ad Populum Fallacy Explained  
-   Link: [https://www.youtube.com/watch?v=n14qsp2C9Tw](https://www.youtube.com/watch?v=n14qsp2C9Tw)  
+   Link: <a href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n14qsp2C9Tw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Populum (Appeal to Popularity): Lesson and Activity...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: assignnmentinneed.com  
    Title: what is an example of ad populum fallacy in [politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;)  
-   Link: [https://www.assignnmentinneed.com/blog/what-is-an-example-of-ad-populum-fallacy-in-politics](https://www.assignnmentinneed.com/blog/what-is-an-example-of-ad-populum-fallacy-in-politics)  
+   Link: <a href="https://www.assignnmentinneed.com/blog/what-is-an-example-of-ad-populum-fallacy-in-politics" target="_blank" rel="noopener noreferrer nofollow">https://www.assignnmentinneed.com/blog/what-is-an-example-of-ad-populum-fallacy-in-politics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of presenting...Read more...</p></details>

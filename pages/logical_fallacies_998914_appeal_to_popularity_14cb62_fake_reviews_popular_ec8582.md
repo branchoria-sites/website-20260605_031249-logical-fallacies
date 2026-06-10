@@ -278,7 +278,7 @@ Online ratings and reviews can be useful because they summarise the experiences 
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-1-dark.svg" | relative_url }}" alt="Fake Reviews illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader [appeal to popularity]({{ 'popularity/' | relative_url }}) fallacy, fake reviews matter because they create an artificial majority. A shopper who sees thousands of positive ratings may reasonably assume that many independent customers reached the same conclusion. If those signals have been engineered, however, the apparent consensus is no longer reliable evidence. The issue is not merely commercial deception; it is a practical example of how crowd belief can be manufactured and then mistaken for proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2024/08/22/2024-18519/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">trade regulation rule on the use of consumer reviews and testimonials</span><span class="citation-popover-snippet">Federal RegisterTrade Regulation Rule on the Use of Consumer Reviews...22 Aug 2024 — The key provisions of the rule prohibit conduct tha...</span></span></span>
+Within the broader appeal to popularity fallacy, fake reviews matter because they create an artificial majority. A shopper who sees thousands of positive ratings may reasonably assume that many independent customers reached the same conclusion. If those signals have been engineered, however, the apparent consensus is no longer reliable evidence. The issue is not merely commercial deception; it is a practical example of how crowd belief can be manufactured and then mistaken for proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2024/08/22/2024-18519/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">trade regulation rule on the use of consumer reviews and testimonials</span><span class="citation-popover-snippet">Federal RegisterTrade Regulation Rule on the Use of Consumer Reviews...22 Aug 2024 — The key provisions of the rule prohibit conduct tha...</span></span></span>
 
 ## How Review Counts Become Evidence Shortcuts
 
@@ -343,7 +343,7 @@ Modern review systems also compress complex information into simple metrics:
 
 These indicators are attractive because they simplify decisions. Yet the simpler the signal, the easier it can be to manipulate. A shopper may never read individual reviews and instead rely entirely on a numerical summary that can be artificially inflated. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leadalchemists.com/marketing-psychology/social-proof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leadalchemists.com">[2leadalchemists.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leadalchemists.com</span><span class="citation-popover-snippet">sements, media mentions, and user statistics to build trust and credibility with...Read more...</span></span></span>
 
-Recent research has added another concern: sophisticated AI-generated reviews can be difficult for both humans and automated systems to distinguish from genuine reviews. In one 2025 study, participants identified fake reviews only at roughly chance levels, suggesting that traditional instincts about spotting obvious fraud may be becoming less reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivLarge Language Models as &#x27;Hidden Persuaders&#x27;: Fake Product Reviews are Indistinguishable to Humans and MachinesJune 16, 2025...</span><span class="citation-popover-meta">Published: June 16, 2025</span></span></span>
+Recent research has added another concern: sophisticated AI-generated reviews can be difficult for both humans and automated systems to distinguish from genuine reviews. In one 2025 study, participants identified fake reviews only at roughly chance levels, suggesting that traditional instincts about spotting obvious fraud may be becoming less reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Large Language Models as &#x27;Hidden Persuaders&#x27;: Fake Product Reviews are Indistinguishable to Humans and MachinesJune 16, 2025...</span><span class="citation-popover-meta">Published: June 16, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eqxIwJQEJNc" title="Online Fake Reviews | Amazon and Google commitments 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eqxIwJQEJNc" target="_blank" rel="noopener noreferrer">Online Fake Reviews | Amazon and Google commitments 2025</a></p><p class="youtube-embed-meta">Channel: Competition and Markets Authority &middot; Views: 244 &middot; Uploaded: June 2025 &middot; Length: 1 minute 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eqxIwJQEJNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eqxIwJQEJNc">Open on YouTube</a></p></div></div></div>
@@ -812,190 +812,190 @@ The broader lesson mirrors the central problem of appeal to popularity. A crowd 
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
    Title: federal trade commission announces final rule banning fake reviews [testimonials](&#123;&#123; 'testimonials/' | relative_url &#125;&#125;)  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials](https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFederal Trade Commission Announces Final Rule Banning...14 Aug 2024 — The final rule prohibits: Fake or False Co...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0969698924004958](https://www.sciencedirect.com/science/article/abs/pii/S0969698924004958)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHow social proof influences consumer impulse buying on...by W Huang · 2025 · Cited by 45 — It suggests that social proof en...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0969698924004958" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0969698924004958</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How social proof influences consumer impulse buying on...by W Huang · 2025 · Cited by 45 — It suggests that social proof en...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: marketingcourse.org  
-   Link: [https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/](https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/)  
+   Link: <a href="https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/" target="_blank" rel="noopener noreferrer nofollow">https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Online Reviews and Ratings: Leveraging...5 May 2025 — Online reviews and ratings serve as a potent form of social proo...</p></details>
    Published: May 2025  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
    Title: Link What makes an online review credible?  
-   Link: [https://link.springer.com/article/10.1007/s11301-022-00312-6](https://link.springer.com/article/10.1007/s11301-022-00312-6)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11301-022-00312-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11301-022-00312-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic review of...by K Pooja · 2024 · Cited by 97 — The credibility of online reviews is described as consumers&#x27; assessment of th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ftc.gov  
    Title: consumer reviews testimonials rule questions answers  
-   Link: [https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — The rule authorizes courts to impose civil...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
    Title: US FTC finalizes ban on companies buying and selling fake online reviews The U.S  
-   Link: [https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/](https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission (FTC) has finalized a ban on the sale and purchase of fake online reviews. This new rule targets the trafficking...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: crowell.com  
    Title: Enforcement Penalties.Read more  
-   Link: [https://www.crowell.com/en/insights/client-alerts/keeping-it-real-ftc-targets-fake-reviews-in-first-consumer-review-rule](https://www.crowell.com/en/insights/client-alerts/keeping-it-real-ftc-targets-fake-reviews-in-first-consumer-review-rule)  
+   Link: <a href="https://www.crowell.com/en/insights/client-alerts/keeping-it-real-ftc-targets-fake-reviews-in-first-consumer-review-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/keeping-it-real-ftc-targets-fake-reviews-in-first-consumer-review-rule</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowell &amp; Moring - HomeFTC Targets Fake Reviews in First Consumer Review Rule24 Dec 2025 — Prohibits selling, buying, or using fake indic...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: GOV.UK  
    Title: amazon gives undertakings to cma to curb fake reviews  
-   Link: [https://www.gov.uk/government/news/amazon-gives-undertakings-to-cma-to-curb-fake-reviews](https://www.gov.uk/government/news/amazon-gives-undertakings-to-cma-to-curb-fake-reviews)  
+   Link: <a href="https://www.gov.uk/government/news/amazon-gives-undertakings-to-cma-to-curb-fake-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/amazon-gives-undertakings-to-cma-to-curb-fake-reviews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commitments include enhanced detection systems and sanctions for businesses and mark...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: uk secures action amazon tackle fake reviews 2025 06 05  
-   Link: [https://www.reuters.com/sustainability/boards-policy-regulation/uk-secures-action-amazon-tackle-fake-reviews-2025-06-05/](https://www.reuters.com/sustainability/boards-policy-regulation/uk-secures-action-amazon-tackle-fake-reviews-2025-06-05/)  
+   Link: <a href="https://www.reuters.com/sustainability/boards-policy-regulation/uk-secures-action-amazon-tackle-fake-reviews-2025-06-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/boards-policy-regulation/uk-secures-action-amazon-tackle-fake-reviews-2025-06-05/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK secures action from Amazon to tackle fake reviews5 Jun 2025 — Amazon (AMZN.O) has committed to do more to tackle fake reviews, includi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: leadalchemists.com  
-   Link: [https://www.leadalchemists.com/marketing-psychology/social-proof/](https://www.leadalchemists.com/marketing-psychology/social-proof/)  
+   Link: <a href="https://www.leadalchemists.com/marketing-psychology/social-proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.leadalchemists.com/marketing-psychology/social-proof/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sements, media mentions, and user statistics to build trust and credibility with...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.13313](https://arxiv.org/abs/2506.13313)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivLarge Language Models as &#x27;Hidden Persuaders&#x27;: Fake Product Reviews are Indistinguishable to Humans and MachinesJune 16, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.13313" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.13313</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large Language Models as &#x27;Hidden Persuaders&#x27;: Fake Product Reviews are Indistinguishable to Humans and MachinesJune 16, 2025...</p></details>
    Published: June 16, 2025  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451958823000118](https://www.sciencedirect.com/science/article/pii/S2451958823000118)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958823000118" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958823000118</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic literature review about the consumers&#x27; side of...by M Walther · 2023 · Cited by 42 — We provide a narrative synthesis compa...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/cma-cases/online-reviews](https://www.gov.uk/cma-cases/online-reviews)  
+   Link: <a href="https://www.gov.uk/cma-cases/online-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/online-reviews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reviewsThe CMA will investigate whether these websites are taking sufficient measures to protect consumers from fake and misleading revie...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
    Title: fake and misleading reviews 5 businesses under cma investigation  
-   Link: [https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation](https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation)  
+   Link: <a href="https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and misleading reviews: 5 businesses under CMA...27 Mar 2026 — The Competition and Markets Authority (CMA) has launched 5 new consumer l...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission | Protecting America's Consumers About the FTC  
-   Link: [https://www.ftc.gov/](https://www.ftc.gov/)  
+   Link: <a href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our mission is protecting the public from deceptive or unfair business practices and from unfair methods of competition through law enfor...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/uk-regulator-investigates-five-companies-fake-reviews-misleading-ratings-2026-03-27/](https://www.reuters.com/business/uk-regulator-investigates-five-companies-fake-reviews-misleading-ratings-2026-03-27/)  
+   Link: <a href="https://www.reuters.com/business/uk-regulator-investigates-five-companies-fake-reviews-misleading-ratings-2026-03-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/uk-regulator-investigates-five-companies-fake-reviews-misleading-ratings-2026-03-27/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK regulator investigates five companies for fake reviews...27 Mar 2026 — CMA said meal‑kit firm Pasta Evangelists may have offered disc...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: connect.cma.gov.uk  
-   Link: [https://connect.cma.gov.uk/40900/widgets/133670/documents/91151](https://connect.cma.gov.uk/40900/widgets/133670/documents/91151)  
+   Link: <a href="https://connect.cma.gov.uk/40900/widgets/133670/documents/91151" target="_blank" rel="noopener noreferrer nofollow">https://connect.cma.gov.uk/40900/widgets/133670/documents/91151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with consumer law if you publish online reviews4 Sept 2025 — &#x27;Fake review&#x27; A consumer review (whether positive or negative) that purports...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: federalregister.gov  
    Title: trade regulation rule on the use of consumer reviews and testimonials  
-   Link: [https://www.federalregister.gov/documents/2024/08/22/2024-18519/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials](https://www.federalregister.gov/documents/2024/08/22/2024-18519/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials)  
+   Link: <a href="https://www.federalregister.gov/documents/2024/08/22/2024-18519/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/08/22/2024-18519/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal RegisterTrade Regulation Rule on the Use of Consumer Reviews...22 Aug 2024 — The key provisions of the rule prohibit conduct tha...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wsj.com  
    Title: The Wall Street Journal$5 for a Good Online Review?  
-   Link: [https://www.wsj.com/articles/5-for-a-good-online-review-no-way-says-new-ftc-rule-e27275fe](https://www.wsj.com/articles/5-for-a-good-online-review-no-way-says-new-ftc-rule-e27275fe)  
+   Link: <a href="https://www.wsj.com/articles/5-for-a-good-online-review-no-way-says-new-ftc-rule-e27275fe" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/5-for-a-good-online-review-no-way-says-new-ftc-rule-e27275fe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No Way, Says New FTC RuleThe Federal Trade Commission (FTC) has implemented a new rule to mitigate fake online reviews and deceptive soci...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Federal Trade Commission  
-   Link: [https://en.wikipedia.org/wiki/Federal_Trade_Commission](https://en.wikipedia.org/wiki/Federal_Trade_Commission)  
+   Link: <a href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Federal_Trade_Commission</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: usa.gov  
-   Link: [https://www.usa.gov/agencies/federal-trade-commission](https://www.usa.gov/agencies/federal-trade-commission)  
+   Link: <a href="https://www.usa.gov/agencies/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/federal-trade-commission</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hey also provide information to help consumers.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/federal-trade-commission](https://www.linkedin.com/company/federal-trade-commission)  
+   Link: <a href="https://www.linkedin.com/company/federal-trade-commission" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/federal-trade-commission</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe FTC is a bipartisan federal agency with a unique dual mission to protect consumers and promote competition.Re...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sellercentral.amazon.co.uk  
    Title: amazon.co.uk Fake reviews  
-   Link: [https://sellercentral.amazon.co.uk/seller-forums/discussions/t/d488030c-d6c8-4e98-a231-cbc2030136b3](https://sellercentral.amazon.co.uk/seller-forums/discussions/t/d488030c-d6c8-4e98-a231-cbc2030136b3)  
+   Link: <a href="https://sellercentral.amazon.co.uk/seller-forums/discussions/t/d488030c-d6c8-4e98-a231-cbc2030136b3" target="_blank" rel="noopener noreferrer nofollow">https://sellercentral.amazon.co.uk/seller-forums/discussions/t/d488030c-d6c8-4e98-a231-cbc2030136b3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reviews - competitor sabotage17 Dec 2025 — The UK Competition and Markets Authority (CMA) have been investigating Amazon&#x27;s practices in r...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: traverssmith.com  
-   Link: [https://www.traverssmith.com/knowledge/knowledge-container/fake-reviews-will-trader-recommendation-platforms-be-caught-in-the-crossfire-between-businesses-and-the-cma/](https://www.traverssmith.com/knowledge/knowledge-container/fake-reviews-will-trader-recommendation-platforms-be-caught-in-the-crossfire-between-businesses-and-the-cma/)  
+   Link: <a href="https://www.traverssmith.com/knowledge/knowledge-container/fake-reviews-will-trader-recommendation-platforms-be-caught-in-the-crossfire-between-businesses-and-the-cma/" target="_blank" rel="noopener noreferrer nofollow">https://www.traverssmith.com/knowledge/knowledge-container/fake-reviews-will-trader-recommendation-platforms-be-caught-in-the-crossfire-between-businesses-and-the-cma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake reviews: will trader recommendation platforms be...25 Apr 2025 — The CMA recently obtained undertakings from each of Google and Ama...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: media.product.which.co.uk  
-   Link: [https://media.product.which.co.uk/prod/files/file/gm-84d4bfe0-7786-4d59-82d9-e60961f32ed4-fake-reviews-full-report.pdf](https://media.product.which.co.uk/prod/files/file/gm-84d4bfe0-7786-4d59-82d9-e60961f32ed4-fake-reviews-full-report.pdf)  
+   Link: <a href="https://media.product.which.co.uk/prod/files/file/gm-84d4bfe0-7786-4d59-82d9-e60961f32ed4-fake-reviews-full-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.product.which.co.uk/prod/files/file/gm-84d4bfe0-7786-4d59-82d9-e60961f32ed4-fake-reviews-full-report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>real impact of fake reviewsThe results demonstrate that the harm arising from fake reviews could be vast, with many consumers at risk of...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theguardian.com  
    Title: amazon promises fake reviews crackdown after investigation by uk watchdog  
-   Link: [https://www.theguardian.com/technology/2025/jun/06/amazon-promises-fake-reviews-crackdown-after-investigation-by-uk-watchdog](https://www.theguardian.com/technology/2025/jun/06/amazon-promises-fake-reviews-crackdown-after-investigation-by-uk-watchdog)  
+   Link: <a href="https://www.theguardian.com/technology/2025/jun/06/amazon-promises-fake-reviews-crackdown-after-investigation-by-uk-watchdog" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jun/06/amazon-promises-fake-reviews-crackdown-after-investigation-by-uk-watchdog</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon promises fake reviews crackdown after...5 Jun 2025 — Amazon has promised to do a better job policing fake reviews and to crack do...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: lewissilkin.com  
    Title: amazon gives undertakings to cma on fake and misleading reviews 102kdie  
-   Link: [https://www.lewissilkin.com/insights/2025/06/06/amazon-gives-undertakings-to-cma-on-fake-and-misleading-reviews-102kdie](https://www.lewissilkin.com/insights/2025/06/06/amazon-gives-undertakings-to-cma-on-fake-and-misleading-reviews-102kdie)  
+   Link: <a href="https://www.lewissilkin.com/insights/2025/06/06/amazon-gives-undertakings-to-cma-on-fake-and-misleading-reviews-102kdie" target="_blank" rel="noopener noreferrer nofollow">https://www.lewissilkin.com/insights/2025/06/06/amazon-gives-undertakings-to-cma-on-fake-and-misleading-reviews-102kdie</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon gives undertakings to CMA on fake and...6 Jun 2025 — The CMA launched an investigation into Amazon several years ago over concern...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: hoganlovells.com  
    Title: ftc publishes final rule banning fake consumer reviews and testimonials  
-   Link: [https://www.hoganlovells.com/en/publications/ftc-publishes-final-rule-banning-fake-consumer-reviews-and-testimonials](https://www.hoganlovells.com/en/publications/ftc-publishes-final-rule-banning-fake-consumer-reviews-and-testimonials)  
+   Link: <a href="https://www.hoganlovells.com/en/publications/ftc-publishes-final-rule-banning-fake-consumer-reviews-and-testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/ftc-publishes-final-rule-banning-fake-consumer-reviews-and-testimonials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC publishes final rule banning fake consumer reviews...11 Sept 2024 — The Final Rule prohibits the sale and purchase of fake consumer...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: stampedsupport.stamped.io  
    Title: 29877379192987 Complying with the FTC Final Rule for Reviews  
-   Link: [https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews](https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews)  
+   Link: <a href="https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews" target="_blank" rel="noopener noreferrer nofollow">https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with the FTC Final Rule for Reviews7 Oct 2024 — To enforce the banning of fake reviews and testimonials, the final rule prohibits: Fake o...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ashurst.com  
    Title: from five stars to fines the risks of fake reviews in the uk  
-   Link: [https://www.ashurst.com/en/insights/from-five-stars-to-fines-the-risks-of-fake-reviews-in-the-uk/](https://www.ashurst.com/en/insights/from-five-stars-to-fines-the-risks-of-fake-reviews-in-the-uk/)  
+   Link: <a href="https://www.ashurst.com/en/insights/from-five-stars-to-fines-the-risks-of-fake-reviews-in-the-uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/from-five-stars-to-fines-the-risks-of-fake-reviews-in-the-uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From five stars to fines: the risks of fake reviews in the UK14 Jul 2025 — New prohibitions on fake reviews came into force on 6 April 20...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: morganlewis.com  
    Title: ftc issues final rule on consumer reviews and testimonials  
-   Link: [https://www.morganlewis.com/pubs/2024/08/ftc-issues-final-rule-on-consumer-reviews-and-testimonials](https://www.morganlewis.com/pubs/2024/08/ftc-issues-final-rule-on-consumer-reviews-and-testimonials)  
+   Link: <a href="https://www.morganlewis.com/pubs/2024/08/ftc-issues-final-rule-on-consumer-reviews-and-testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.morganlewis.com/pubs/2024/08/ftc-issues-final-rule-on-consumer-reviews-and-testimonials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues Final Rule on Consumer Reviews and...26 Aug 2024 — The Final Rule issued on August 14 specifically defines and prohibits cert...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: tlt.com  
    Title: cma steps up its crackdown on fake and misleading reviews  
-   Link: [https://www.tlt.com/insights-and-events/insight/cma-steps-up-its-crackdown-on-fake-and-misleading-reviews](https://www.tlt.com/insights-and-events/insight/cma-steps-up-its-crackdown-on-fake-and-misleading-reviews)  
+   Link: <a href="https://www.tlt.com/insights-and-events/insight/cma-steps-up-its-crackdown-on-fake-and-misleading-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.tlt.com/insights-and-events/insight/cma-steps-up-its-crackdown-on-fake-and-misleading-reviews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On 27 March 2026 the CMA announced that it had opened a series of new investigations into fake and misleading reviews under the Digital M...</p></details>
    Published: March 2026  
 
 33. <a id="endnote-33"></a>
    Source: freshfields.com  
    Title: ftc announces final rule on deceptive reviews 102jh9p  
-   Link: [https://www.freshfields.com/en/our-thinking/blogs/a-fresh-take/ftc-announces-final-rule-on-deceptive-reviews-102jh9p](https://www.freshfields.com/en/our-thinking/blogs/a-fresh-take/ftc-announces-final-rule-on-deceptive-reviews-102jh9p)  
+   Link: <a href="https://www.freshfields.com/en/our-thinking/blogs/a-fresh-take/ftc-announces-final-rule-on-deceptive-reviews-102jh9p" target="_blank" rel="noopener noreferrer nofollow">https://www.freshfields.com/en/our-thinking/blogs/a-fresh-take/ftc-announces-final-rule-on-deceptive-reviews-102jh9p</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Announces Final Rule on Deceptive Reviews21 Aug 2024 — The FTC has a long history of suing companies for fake reviews (from deceptive...</p></details>

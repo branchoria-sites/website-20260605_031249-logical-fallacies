@@ -472,9 +472,9 @@ child_links:
   short_title: Science Effects
   heading_title: Can attacking a scientist change beliefs?
 - basename: logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14
-  title: Tu Quoque Hypocrisy | Ad Hominem
-  permalink: /tu-quoque-hypocrisy/
-  short_title: Tu Quoque Hypocrisy
+  title: Tu Quoque Hypocrisy 9 F6 A14 | Ad Hominem
+  permalink: /tu-quoque-hypocrisy-9-f6-a14/
+  short_title: Tu Quoque Hypocrisy 9 F6 A14
 up_link:
   basename: logical_fallacies_998914
   title: Fallacy Lab
@@ -527,7 +527,7 @@ A common misunderstanding is that “ad hominem” means “any personal critici
 
 The difference is easiest to see in testimony. If a witness is giving evidence, their reliability may matter. Legal [evidence rules]({{ 'evidence-rules/' | relative_url }}) often allow credibility to be attacked or supported in limited ways, especially where the evidence concerns truthfulness rather than general dislike. For instance, Minnesota’s Rule 608 states that witness credibility may be attacked or supported by opinion or reputation evidence, but only as it relates to character for truthfulness or untruthfulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revisor.mn.gov">[MN Revisor&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revisor.mn.gov</span><span class="citation-popover-title">Revisor&#x27;s Office Rule 608</span><span class="citation-popover-snippet">Evidence of Character and Conduct of WitnessAugust 6, 2025 — Rule 608. Evidence of Character and Conduct of Witness​. (a) Opinion and rep...</span><span class="citation-popover-meta">Published: August 6, 2025</span></span></span>
 
-That logic does not transfer automatically to every debate. A scientist’s funding source, a politician’s financial interest or an expert’s disciplinary competence may be relevant because they bear on possible bias, access to evidence or reliability. But “this person is arrogant”, “that speaker is ugly”, “she once made a mistake in another context” or “he belongs to a group I dislike” usually does no argumentative work. It may change the mood of the debate, but it does not test the claim.
+That logic does not transfer automatically to every debate. A scientist’s funding source, a politician’s financial interest or an expert’s disciplinary competence may be relevant because they bear on possible bias, access to evidence or reliability. But “this person is arrogant”, “that speaker is ugly”, “she once made a mistake in another [context]({{ 'context/' | relative_url }})” or “he belongs to a group I dislike” usually does no argumentative work. It may change the mood of the debate, but it does not test the claim.
 
 A useful distinction is:
 
@@ -1083,159 +1083,159 @@ That distinction keeps fallacy-spotting from becoming another personalised weapo
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ad hominem fallacy involves bringing negative aspects of an arguer, or their situation, to bear on the view they are advancing. There...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Ad hominem is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2209.02062](https://arxiv.org/abs/2209.02062)  
+   Link: <a href="https://arxiv.org/abs/2209.02062" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.02062</a>  
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2002/entries/logic-informal/](https://plato.stanford.edu/archives/sum2002/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
 
 6. <a id="endnote-6"></a>
    Source: web.stanford.edu  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: [https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm](https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm)  
+   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.06613](https://arxiv.org/abs/1802.06613)  
+   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
 
 8. <a id="endnote-8"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: [https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/](https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/)  
+   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
 
 9. <a id="endnote-9"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: revisor.mn.gov  
    Title: Revisor's Office Rule 608  
-   Link: [https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/](https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/)  
+   Link: <a href="https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.revisor.mn.gov/court_rules/rule/ev-608/pdf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of Character and Conduct of WitnessAugust 6, 2025 — Rule 608. Evidence of Character and Conduct of Witness​. (a) Opinion and rep...</p></details>
    Published: August 6, 2025  
 
 11. <a id="endnote-11"></a>
    Source: aclanthology.org  
-   Link: [https://aclanthology.org/N18-1036/](https://aclanthology.org/N18-1036/)  
+   Link: <a href="https://aclanthology.org/N18-1036/" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/N18-1036/</a>  
 
 12. <a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792](https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/14693062.2023.2245792</a>  
 
 13. <a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&mi=ehikzz](https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&mi=ehikzz)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&amp;mi=ehikzz" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/00027642241240352?amp%3Baf=R%2Fsergei+a.+samoilenko%2F&amp;mi=ehikzz</a>  
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns](https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns)  
+   Link: <a href="https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/jan/15/spain-climate-scientists-subjected-alarming-rise-hate-speech-minister-warns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies noted that this abuse impacts public perception, particularly of Spain&#x27;s state meteorological agency (Aemet), and can dissuade sc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/environment/2025/jul/16/death-threats-online-abuse-land-climate-defenders](https://www.theguardian.com/environment/2025/jul/16/death-threats-online-abuse-land-climate-defenders)  
+   Link: <a href="https://www.theguardian.com/environment/2025/jul/16/death-threats-online-abuse-land-climate-defenders" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/environment/2025/jul/16/death-threats-online-abuse-land-climate-defenders</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
 17. <a id="endnote-17"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 18. <a id="endnote-18"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2990/2442](https://informallogic.ca/index.php/informal_logic/article/view/2990/2442)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2990/2442</a>  
 
 19. <a id="endnote-19"></a>
    Source: legal-resources.uslegalforms.com  
    Title: ad hominem  
-   Link: [https://legal-resources.uslegalforms.com/a/ad-hominem](https://legal-resources.uslegalforms.com/a/ad-hominem)  
+   Link: <a href="https://legal-resources.uslegalforms.com/a/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/a/ad-hominem</a>  
 
 20. <a id="endnote-20"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/ad-hominem](https://www.britannica.com/topic/ad-hominem)  
+   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
 
 21. <a id="endnote-21"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: psychologyfanatic.com  
    Title: ad hominem attacks  
-   Link: [https://psychologyfanatic.com/ad-hominem-attacks/](https://psychologyfanatic.com/ad-hominem-attacks/)  
+   Link: <a href="https://psychologyfanatic.com/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://psychologyfanatic.com/ad-hominem-attacks/</a>  
 
 23. <a id="endnote-23"></a>
    Source: rpmministries.org  
    Title: ad hominem attacks  
-   Link: [https://rpmministries.org/2025/07/ad-hominem-attacks/](https://rpmministries.org/2025/07/ad-hominem-attacks/)  
+   Link: <a href="https://rpmministries.org/2025/07/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://rpmministries.org/2025/07/ad-hominem-attacks/</a>  
 
 24. <a id="endnote-24"></a>
    Source: finmasters.com  
    Title: ad hominem fallacy  
-   Link: [https://finmasters.com/ad-hominem-fallacy/](https://finmasters.com/ad-hominem-fallacy/)  
+   Link: <a href="https://finmasters.com/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/ad-hominem-fallacy/</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=-gm-GMIjNpo](http://www.youtube.com/watch?v=-gm-GMIjNpo)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to handle ad hominem attacks [debate fallacies](&amp;#123;&amp;#123; &#x27;debate/&#x27; | relative_url &amp;#125;&amp;#125;) Mastering the Ad Hominem: Defend Against Logical Fallacies Dre “DreAllDay” Baldwin...</p></details>
+   Link: <a href="http://www.youtube.com/watch?v=-gm-GMIjNpo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-gm-GMIjNpo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to handle ad hominem attacks debate fallacies Mastering the Ad Hominem: Defend Against Logical Fallacies Dre “DreAllDay” Baldwin...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Mastering the Ad Hominem: Defend Against Logical Fallacies  
-   Link: [http://www.youtube.com/watch?v=oEtWVduI1UE](http://www.youtube.com/watch?v=oEtWVduI1UE)  
+   Link: <a href="http://www.youtube.com/watch?v=oEtWVduI1UE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=oEtWVduI1UE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is an Ad Hominem Attack? | Argument Clinic | WIRED...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: What is an Ad Hominem Attack? | Argument Clinic | WIRED  
-   Link: [http://www.youtube.com/watch?v=F5CMW2XBH6I](http://www.youtube.com/watch?v=F5CMW2XBH6I)  
+   Link: <a href="http://www.youtube.com/watch?v=F5CMW2XBH6I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=F5CMW2XBH6I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Ad Hominem [HD]...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/33339443/Ad_Hominem_Argument](https://www.academia.edu/33339443/Ad_Hominem_Argument)  
+   Link: <a href="https://www.academia.edu/33339443/Ad_Hominem_Argument" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/33339443/Ad_Hominem_Argument</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/379375006_Developing_a_Critical_Response_to_Ad_Hominem_Attacks_Against_Climate_Science](https://www.researchgate.net/publication/379375006_Developing_a_Critical_Response_to_Ad_Hominem_Attacks_Against_Climate_Science)  
+   Link: <a href="https://www.researchgate.net/publication/379375006_Developing_a_Critical_Response_to_Ad_Hominem_Attacks_Against_Climate_Science" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379375006_Developing_a_Critical_Response_to_Ad_Hominem_Attacks_Against_Climate_Science</a>  
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse](https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse)  
+   Link: <a href="https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse</a>  
 
 31. <a id="endnote-31"></a>
    Source: crankyuncle.com  
-   Link: [https://crankyuncle.com/wp-content/uploads/2023/08/Samoilenko_2023_ad_hom.pdf](https://crankyuncle.com/wp-content/uploads/2023/08/Samoilenko_2023_ad_hom.pdf)  
+   Link: <a href="https://crankyuncle.com/wp-content/uploads/2023/08/Samoilenko_2023_ad_hom.pdf" target="_blank" rel="noopener noreferrer nofollow">https://crankyuncle.com/wp-content/uploads/2023/08/Samoilenko_2023_ad_hom.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: fee.org  
-   Link: [https://fee.org/articles/5-reasons-to-avoid-ad-hominem-arguments/](https://fee.org/articles/5-reasons-to-avoid-ad-hominem-arguments/)  
+   Link: <a href="https://fee.org/articles/5-reasons-to-avoid-ad-hominem-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://fee.org/articles/5-reasons-to-avoid-ad-hominem-arguments/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/](https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/)  
+   Link: <a href="https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/</a>  
 
 34. <a id="endnote-34"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618](https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618)  
+   Link: <a href="https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618</a>  

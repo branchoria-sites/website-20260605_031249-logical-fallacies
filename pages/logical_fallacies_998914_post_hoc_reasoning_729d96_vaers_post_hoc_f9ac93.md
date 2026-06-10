@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_vaers_p
 
 ## Introduction
 
-A common form of [post hoc reasoning]({{ 'false-cause/' | relative_url }}) appears in discussions of vaccine safety: a person receives a vaccine, experiences a medical event afterwards, and the timing is treated as proof that the vaccine caused the event. The Vaccine Adverse Event Reporting System (VAERS) is frequently drawn into this mistake because it contains reports of health problems that occurred after vaccination. However, VAERS was created to detect possible safety signals, not to establish cause and effect. A report can be important, concerning, and worthy of investigation while still providing [no proof]({{ 'no-proof/' | relative_url }}) that the vaccine caused the event. Understanding this distinction is essential for avoiding the logical error of assuming that “after” automatically means “because of”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCAbout the Vaccine Adverse Event Reporting System (VAERS)17 Apr 2026 — A VAERS report alone does not indicate whether a vaccine caused...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">Guide to Interpreting VAERS Data8 May 2025 — The report of an adverse event to VAERS is not documentation that a vaccine caused the event...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+A common form of [post hoc]({{ 'post-hoc/' | relative_url }}) reasoning appears in discussions of vaccine safety: a person receives a vaccine, experiences a medical event afterwards, and the timing is treated as proof that the vaccine caused the event. The Vaccine Adverse Event Reporting System (VAERS) is frequently drawn into this mistake because it contains reports of health problems that occurred after vaccination. However, VAERS was created to detect possible safety signals, not to establish cause and effect. A report can be important, concerning, and worthy of investigation while still providing [no proof]({{ 'no-proof/' | relative_url }}) that the vaccine caused the event. Understanding this distinction is essential for avoiding the logical error of assuming that “after” automatically means “because of”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">About the Vaccine Adverse Event Reporting System (VAERS)17 Apr 2026 — A VAERS report alone does not indicate whether a vaccine caused...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">Guide to Interpreting VAERS Data8 May 2025 — The report of an adverse event to VAERS is not documentation that a vaccine caused the event...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_vaers_post_hoc_f9ac93-Illustration-1-dark.svg" | relative_url }}" alt="VAERS Reports illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_vaers_post_hoc_f9ac93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_vaers_post_hoc_f9ac93-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -278,26 +278,26 @@ VAERS is a national vaccine safety monitoring system jointly managed by the U.S.
 
 The key point is that a VAERS report records a temporal sequence: vaccination happened, and a health event happened afterwards. It does not establish that the vaccine caused the event. CDC, FDA, and VAERS guidance all explicitly state that a report alone is not evidence of causation. Some reported events may be vaccine-related, while others may be coincidental illnesses, injuries, or deaths that would have occurred regardless of vaccination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vaers.hhs.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">and Drug Administration (FDA), agencies of the US Department of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[3CDC 3vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-snippet">Guide to Interpreting VAERS Data8 May 2025 — The report of an adverse event to VAERS is not documentation that a vaccine caused the event...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-This distinction directly addresses the [post hoc]({{ 'post-hoc/' | relative_url }}) fallacy. The mere fact that Event B followed Event A does not demonstrate that A caused B. A VAERS entry is evidence that two events occurred in sequence; it is not evidence that the first produced the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
+This distinction directly addresses the post hoc fallacy. The mere fact that Event B followed Event A does not demonstrate that A caused B. A VAERS entry is evidence that two events occurred in sequence; it is not evidence that the first produced the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
 
 ## Why Passive Reporting Systems Collect Unrelated Events
 
-VAERS is a passive surveillance system. Rather than actively tracking every vaccinated person, it relies on reports being submitted when events occur. The system is designed to be sensitive, not definitive. Investigators would rather receive many reports that later prove unrelated than miss an early warning sign of a genuine safety problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe reporting sensitivity of the Vaccine Adverse Event</span><span class="citation-popover-snippet">PMCby ER Miller · 2020 · Cited by 57 — VAERS accepts reports of adverse events (AEs) following vaccination from healthcare providers, vac...</span></span></span>
+VAERS is a passive surveillance system. Rather than actively tracking every vaccinated person, it relies on reports being submitted when events occur. The system is designed to be sensitive, not definitive. Investigators would rather receive many reports that later prove unrelated than miss an early warning sign of a genuine safety problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe reporting sensitivity of the Vaccine Adverse Event</span><span class="citation-popover-snippet">by ER Miller · 2020 · Cited by 57 — VAERS accepts reports of adverse events (AEs) following vaccination from healthcare providers, vac...</span></span></span>
 
 This design means that unrelated events inevitably enter the database. Millions of people are vaccinated every year. In any large population, some individuals will naturally [experience]({{ 'experience/' | relative_url }}) heart attacks, strokes, cancers, accidents, seizures, miscarriages, or deaths shortly after vaccination simply because such events occur every day. When vaccination is widespread, some of those events will happen soon afterwards by coincidence alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oregonhealthnews.oregon.gov/vaers-monitors-for-adverse-events-after-vaccination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oregonhealthnews.oregon.gov">[Oregon Health News Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oregonhealthnews.oregon.gov</span><span class="citation-popover-title">adverse events in VAERS do not mean they were caused by vaccination.Read more</span><span class="citation-popover-snippet">Oregon Health News BlogVAERS monitors for adverse events after vaccinationJun 9, 2022 — A report to VAERS does not mean a vaccine caused...</span></span></span>
 
 For that reason, VAERS encourages reporting even when the reporter is unsure whether the vaccine played any role. A report is treated as a lead for further analysis, not as a confirmed finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.org">[FactCheck.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.org</span><span class="citation-popover-snippet">What VAERS Can and Can&#x27;t Do, and How Anti-Vaccination...6 Jun 2023 — “VAERS data interpreted alone or out of context can lead to erroneo...</span></span></span>
 
-The consequence is that raw report counts can be highly misleading. If thousands of reports mention a particular condition, that does not automatically mean thousands of vaccine-caused cases occurred. The reports may include duplicates, incomplete information, events with alternative explanations, or events occurring at rates expected in the general population. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
+The consequence is that raw report counts can be highly misleading. If thousands of reports mention a particular condition, that does not automatically mean thousands of vaccine-caused cases occurred. The reports may include duplicates, incomplete information, events with alternative explanations, or events occurring at rates expected in the general population. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fgWba0mFZQ0" title="No, CDC VAERS data does not show that the COVID vaccine is killing thousands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fgWba0mFZQ0" target="_blank" rel="noopener noreferrer">No, CDC VAERS data does not show that the COVID vaccine is killing thousands</a></p><p class="youtube-embed-meta">Channel: 12 News &middot; Views: 6.9K &middot; Uploaded: September 2021 &middot; Length: 3 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fgWba0mFZQ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fgWba0mFZQ0">Open on YouTube</a></p></div></div></div>
 
 ## A Concrete Example: Reports of Death After Vaccination
 
-Deaths reported after vaccination illustrate the causation mistake particularly clearly. Because death is a serious event, it is often reported to VAERS when it occurs after vaccination. Yet the presence of a death report does not mean investigators concluded that vaccination caused the death. VAERS guidance repeatedly warns against interpreting reports in that way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-title">VAER S</span><span class="citation-popover-snippet">VAERS - FAQs - HHS.govJust because an adverse event happened after a person received a vaccine does not mean the vaccine caused the adver...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">covid 19 vaccine safety surveillance</span><span class="citation-popover-snippet">Food and Drug AdministrationCOVID-19 Vaccine Safety Surveillance10 Jan 2025 — Some VAERS reports might represent true vaccine reactions o...</span></span></span>
+Deaths reported after vaccination illustrate the causation mistake particularly clearly. Because death is a serious event, it is often reported to VAERS when it occurs after vaccination. Yet the presence of a death report does not mean investigators concluded that vaccination caused the death. VAERS guidance repeatedly warns against interpreting reports in that way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-title">VAER S</span><span class="citation-popover-snippet">FAQs - HHS.govJust because an adverse event happened after a person received a vaccine does not mean the vaccine caused the adver...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">covid 19 vaccine safety surveillance</span><span class="citation-popover-snippet">Food and Drug AdministrationCOVID-19 Vaccine Safety Surveillance10 Jan 2025 — Some VAERS reports might represent true vaccine reactions o...</span></span></span>
 
-Researchers reviewing historical VAERS death reports found that many had causes unrelated to vaccination, including conditions that occur in the population independently of vaccine exposure. Detailed investigation using medical records, death certificates, and autopsy findings is necessary before causal conclusions can be reached. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
+Researchers reviewing historical VAERS death reports found that many had causes unrelated to vaccination, including conditions that occur in the population independently of vaccine exposure. Detailed investigation using medical records, death certificates, and autopsy findings is necessary before causal conclusions can be reached. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
 
 This example shows why the argument “a death was reported after vaccination, therefore the vaccine caused the death” is logically defective. It skips the entire investigative process and treats chronology as proof.
 
@@ -311,9 +311,9 @@ Investigators typically ask several questions:
 * Is the same pattern observed consistently across different datasets and populations?
 * Is there a biologically plausible mechanism linking the vaccine to the event?
 * Does the timing fit what is known about how the vaccine works?
-* Do controlled studies or active surveillance systems confirm the [association]({{ 'association/' | relative_url }})? <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
+* Do controlled studies or active surveillance systems confirm the [association]({{ 'association/' | relative_url }})? <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
 
-A genuine vaccine safety issue can be discovered through this process. VAERS has historically helped identify important concerns that were later confirmed through additional investigation. However, the confirmation comes from follow-up research and multiple lines of evidence, not from the original reports alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
+A genuine vaccine safety issue can be discovered through this process. VAERS has historically helped identify important concerns that were later confirmed through additional investigation. However, the confirmation comes from follow-up research and multiple lines of evidence, not from the original reports alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</span></span></span>
 
 In logical terms, the report generates a hypothesis. Evidence from epidemiological studies, clinical investigation, and comparative data is required before that hypothesis becomes a justified causal conclusion.
 
@@ -321,7 +321,7 @@ In logical terms, the report generates a hypothesis. Evidence from epidemiologic
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_vaers_post_hoc_f9ac93-Illustration-2-dark.svg" | relative_url }}" alt="VAERS Reports illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_vaers_post_hoc_f9ac93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_vaers_post_hoc_f9ac93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the After-Vaccine Causation Mistake Spreads
 
-Misinterpretations often occur when raw VAERS numbers are presented without [context]({{ 'context/' | relative_url }}). Large totals can appear alarming because readers naturally assume each report represents a verified vaccine injury. Yet VAERS itself warns that report totals cannot be interpreted as proof of a causal relationship or as direct measures of risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-title">VAER S</span><span class="citation-popover-snippet">VAERS - Data - HHS.gov8 May 2025 — The number of reports alone cannot be interpreted as evidence of a causal association between a vaccin...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Misinterpretations often occur when raw VAERS numbers are presented without [context]({{ 'context/' | relative_url }}). Large totals can appear alarming because readers naturally assume each report represents a verified vaccine injury. Yet VAERS itself warns that report totals cannot be interpreted as proof of a causal relationship or as direct measures of risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vaers.hhs.gov">[vaers.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vaers.hhs.gov</span><span class="citation-popover-title">VAER S</span><span class="citation-popover-snippet">Data - HHS.gov8 May 2025 — The number of reports alone cannot be interpreted as evidence of a causal association between a vaccin...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 During debates over COVID-19 vaccines, numerous claims circulated that simply counted reports and treated them as confirmed cases of vaccine harm. Public-health agencies, researchers, and fact-checking organisations repeatedly noted that this approach confuses signal detection with causal determination. The logical error is the same post hoc pattern seen in many other contexts: an event occurred after vaccination, therefore vaccination must have caused it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bmj.com/content/383/bmj.p2582/rr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Anti-vaccination activists have leveraged this data to make...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.org">[FactCheck.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.org</span><span class="citation-popover-snippet">What VAERS Can and Can&#x27;t Do, and How Anti-Vaccination...6 Jun 2023 — “VAERS data interpreted alone or out of context can lead to erroneo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factcheck.org">[FactCheck.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factcheck.org</span><span class="citation-popover-snippet">What VAERS Can and Can&#x27;t Do, and How Anti-Vaccination...6 Jun 2023 — “VAERS data interpreted alone or out of context can lead to erroneo...</span></span></span>
 
@@ -760,134 +760,134 @@ A VAERS report answers one question: did an event occur after vaccination? It do
 
 1. <a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety-systems/vaers/index.html](https://www.cdc.gov/vaccine-safety-systems/vaers/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCAbout the Vaccine Adverse Event Reporting System (VAERS)17 Apr 2026 — A VAERS report alone does not indicate whether a vaccine caused...</p></details>
+   Link: <a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>About the Vaccine Adverse Event Reporting System (VAERS)17 Apr 2026 — A VAERS report alone does not indicate whether a vaccine caused...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: vaers.hhs.gov  
-   Link: [https://vaers.hhs.gov/data/dataguide.html](https://vaers.hhs.gov/data/dataguide.html)  
+   Link: <a href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data/dataguide.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Interpreting VAERS Data8 May 2025 — The report of an adverse event to VAERS is not documentation that a vaccine caused the event...</p></details>
    Published: May 2025  
 
 3. <a id="endnote-3"></a>
    Source: vaers.hhs.gov  
-   Link: [https://vaers.hhs.gov/](https://vaers.hhs.gov/)  
+   Link: <a href="https://vaers.hhs.gov/" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Drug Administration (FDA), agencies of the US Department of...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe reporting sensitivity of the Vaccine Adverse Event  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby ER Miller · 2020 · Cited by 57 — VAERS accepts reports of adverse events (AEs) following vaccination from healthcare providers, vac...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11252891/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by ER Miller · 2020 · Cited by 57 — VAERS accepts reports of adverse events (AEs) following vaccination from healthcare providers, vac...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: vaers.hhs.gov  
    Title: VAER S  
-   Link: [https://vaers.hhs.gov/faq.html](https://vaers.hhs.gov/faq.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS - FAQs - HHS.govJust because an adverse event happened after a person received a vaccine does not mean the vaccine caused the adver...</p></details>
+   Link: <a href="https://vaers.hhs.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/faq.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQs - HHS.govJust because an adverse event happened after a person received a vaccine does not mean the vaccine caused the adver...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fda.gov  
    Title: covid 19 vaccine safety surveillance  
-   Link: [https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance](https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance)  
+   Link: <a href="https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/covid-19-vaccine-safety-surveillance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationCOVID-19 Vaccine Safety Surveillance10 Jan 2025 — Some VAERS reports might represent true vaccine reactions o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: fda.gov  
    Title: vaccine adverse event reporting system vaers questions and answers  
-   Link: [https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers](https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers)  
+   Link: <a href="https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/vaccines-blood-biologics/vaccine-adverse-events/vaccine-adverse-event-reporting-system-vaers-questions-and-answers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationVaccine Adverse Event Reporting System (VAERS)...4 Oct 2024 — Please note that a VAERS report does not mean...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: vaccinesafety.edu  
-   Link: [https://www.vaccinesafety.edu/vaers-vaccine-adverse-event-reporting-system/](https://www.vaccinesafety.edu/vaers-vaccine-adverse-event-reporting-system/)  
+   Link: <a href="https://www.vaccinesafety.edu/vaers-vaccine-adverse-event-reporting-system/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaccinesafety.edu/vaers-vaccine-adverse-event-reporting-system/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS – Vaccine Adverse Event Reporting SystemVAERS is not designed to determine if a vaccine caused a health problem, but is especially...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: oregonhealthnews.oregon.gov  
    Title: adverse events in VAERS do not mean they were caused by vaccination.Read more  
-   Link: [https://oregonhealthnews.oregon.gov/vaers-monitors-for-adverse-events-after-vaccination/](https://oregonhealthnews.oregon.gov/vaers-monitors-for-adverse-events-after-vaccination/)  
+   Link: <a href="https://oregonhealthnews.oregon.gov/vaers-monitors-for-adverse-events-after-vaccination/" target="_blank" rel="noopener noreferrer nofollow">https://oregonhealthnews.oregon.gov/vaers-monitors-for-adverse-events-after-vaccination/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon Health News BlogVAERS monitors for adverse events after vaccinationJun 9, 2022 — A report to VAERS does not mean a vaccine caused...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: factcheck.org  
-   Link: [https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/](https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/)  
+   Link: <a href="https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.factcheck.org/2023/06/scicheck-what-vaers-can-and-cant-do-and-how-anti-vaccination-groups-habitually-misuse-its-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What VAERS Can and Can&#x27;t Do, and How Anti-Vaccination...6 Jun 2023 — “VAERS data interpreted alone or out of context can lead to erroneo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: health.com  
    Title: What Is VAERS?  
-   Link: [https://www.health.com/condition/infectious-diseases/coronavirus/what-is-vaers-cdc-database](https://www.health.com/condition/infectious-diseases/coronavirus/what-is-vaers-cdc-database)  
+   Link: <a href="https://www.health.com/condition/infectious-diseases/coronavirus/what-is-vaers-cdc-database" target="_blank" rel="noopener noreferrer nofollow">https://www.health.com/condition/infectious-diseases/coronavirus/what-is-vaers-cdc-database</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why the CDC Database Is Crucial to Vaccine Safety-and How to Use It ResponsiblyThe Vaccine Adverse Event Reporting System (VAERS) is an e...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: vaers.hhs.gov  
    Title: VAER S  
-   Link: [https://vaers.hhs.gov/data.html](https://vaers.hhs.gov/data.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS - Data - HHS.gov8 May 2025 — The number of reports alone cannot be interpreted as evidence of a causal association between a vaccin...</p></details>
+   Link: <a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data - HHS.gov8 May 2025 — The number of reports alone cannot be interpreted as evidence of a causal association between a vaccin...</p></details>
    Published: May 2025  
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDeaths Reported to the Vaccine Adverse Event  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6771280/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6771280/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby PL Moro · 2015 · Cited by 52 — VAERS received 2149 death reports, most (n = 1469 [68.4%]) in children. Median age was 0.5 years (ra...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6771280/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6771280/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by PL Moro · 2015 · Cited by 52 — VAERS received 2149 death reports, most (n = 1469 [68.4%]) in children. Median age was 0.5 years (ra...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: factcheck.org  
-   Link: [https://www.factcheck.org/2023/02/scicheck-posts-falsely-claim-cdc-official-admitted-covid-19-vaccines-cause-debilitating-illnesses/](https://www.factcheck.org/2023/02/scicheck-posts-falsely-claim-cdc-official-admitted-covid-19-vaccines-cause-debilitating-illnesses/)  
+   Link: <a href="https://www.factcheck.org/2023/02/scicheck-posts-falsely-claim-cdc-official-admitted-covid-19-vaccines-cause-debilitating-illnesses/" target="_blank" rel="noopener noreferrer nofollow">https://www.factcheck.org/2023/02/scicheck-posts-falsely-claim-cdc-official-admitted-covid-19-vaccines-cause-debilitating-illnesses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Posts Falsely Claim CDC Official Admitted COVID-19...20 Feb 2023 — Health problems that are reported to the Vaccine Adverse Event Report...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/383/bmj.p2582/rr](https://www.bmj.com/content/383/bmj.p2582/rr)  
+   Link: <a href="https://www.bmj.com/content/383/bmj.p2582/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/383/bmj.p2582/rr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anti-vaccination activists have leveraged this data to make...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/index.html](https://www.cdc.gov/index.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC: Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
+   Link: <a href="https://www.cdc.gov/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/index.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionCDC is the nation&#x27;s leading science-based, data-driven, service organization that protects...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: wonder.cdc.gov  
-   Link: [https://wonder.cdc.gov/wonder/help/vaers.html](https://wonder.cdc.gov/wonder/help/vaers.html)  
+   Link: <a href="https://wonder.cdc.gov/wonder/help/vaers.html" target="_blank" rel="noopener noreferrer nofollow">https://wonder.cdc.gov/wonder/help/vaers.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adverse Events Reporting System (VAERS) HelpThe number of reports alone cannot be interpreted as evidence of a causal association between...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: people.com  
-   Link: [https://people.com/cdc-shares-update-on-hantavirus-outbreak-in-us-11975734](https://people.com/cdc-shares-update-on-hantavirus-outbreak-in-us-11975734)  
+   Link: <a href="https://people.com/cdc-shares-update-on-hantavirus-outbreak-in-us-11975734" target="_blank" rel="noopener noreferrer nofollow">https://people.com/cdc-shares-update-on-hantavirus-outbreak-in-us-11975734</a>  
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26209838/](https://pubmed.ncbi.nlm.nih.gov/26209838/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26209838/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26209838/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 715 — Generally, VAERS data cannot...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23063829/](https://pubmed.ncbi.nlm.nih.gov/23063829/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23063829/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23063829/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>assessment of adverse events reported to the...by AM Loughlin · 2012 · Cited by 46 — Assessment of VAERS reports identified that causali...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Vaccine Adverse Event Reporting System  
-   Link: [https://en.wikipedia.org/wiki/Vaccine_Adverse_Event_Reporting_System](https://en.wikipedia.org/wiki/Vaccine_Adverse_Event_Reporting_System)  
+   Link: <a href="https://en.wikipedia.org/wiki/Vaccine_Adverse_Event_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vaccine_Adverse_Event_Reporting_System</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine Adverse Event Reporting SystemVAERS is a postmarketing surveillance program, collecting information about adverse events (poss...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Centers for Disease Control and Prevention  
-   Link: [https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention](https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention)  
+   Link: <a href="https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Disease Control and PreventionThe agency&#x27;s main goal is the protection of public health and safety through the control and...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9805973/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9805973/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9805973/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9805973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>adverse event reporting system (VAERS) - PMC - NIHby OA Almadani · 2022 · Cited by 10 — In addition, reports in this system can be used t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
    Title: Vaccine Adverse Event Reporting System  
-   Link: [https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/vaccine-adverse-event-reporting-system](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/vaccine-adverse-event-reporting-system)  
+   Link: <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/vaccine-adverse-event-reporting-system" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/vaccine-adverse-event-reporting-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewVAERS does have limitations inherent to a passive reporting system, which include being subject to reporting bias, such as und...</p></details>
 
 ### Additional References
@@ -895,55 +895,55 @@ A VAERS report answers one question: did an event occur after vaccination? It do
 25. <a id="endnote-25"></a>
    Source: science.org  
    Title: antivaccine activists use government database side effects scare public  
-   Link: [https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public](https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public)  
+   Link: <a href="https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/antivaccine-activists-use-government-database-side-effects-scare-public</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Antivaccine activists use a government database on side...26 May 2021 — To counter misinterpretation of its data, the VAERS website prom...</p></details>
    Published: May 2021  
 
 26. <a id="endnote-26"></a>
    Source: cdcfoundation.org  
-   Link: [https://www.cdcfoundation.org/](https://www.cdcfoundation.org/)  
+   Link: <a href="https://www.cdcfoundation.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.cdcfoundation.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC FoundationThe CDC Foundation is a global nonprofit, managing public health programs that impact chronic and infectious diseases and e...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: time.com  
-   Link: [https://time.com/7341350/what-is-vaers-vaccine-reporting-database/](https://time.com/7341350/what-is-vaers-vaccine-reporting-database/)  
+   Link: <a href="https://time.com/7341350/what-is-vaers-vaccine-reporting-database/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7341350/what-is-vaers-vaccine-reporting-database/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Created in 1990 as part of the 1986 National Vaccine Injury Act, VAERS allows anyone to report potential vaccine side effects, fostering...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: VAERS data interpreted alone or out of context can lead to erroneous  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4632204/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 707 — Generally, VAERS data cannot be used to de...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/article/fact-check/reports-of-9318-vaers-covid-19-vaccine-deaths-do-not-prove-causality-idUSL1N2P21CV/](https://www.reuters.com/article/fact-check/reports-of-9318-vaers-covid-19-vaccine-deaths-do-not-prove-causality-idUSL1N2P21CV/)  
+   Link: <a href="https://www.reuters.com/article/fact-check/reports-of-9318-vaers-covid-19-vaccine-deaths-do-not-prove-causality-idUSL1N2P21CV/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/reports-of-9318-vaers-covid-19-vaccine-deaths-do-not-prove-causality-idUSL1N2P21CV/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of 9318 VAERS COVID-19 vaccine deaths do not...26 Jul 2021 — Fact Check: Reports of 9,318 VAERS COVID-19 vaccine deaths do not p...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIImproving Detection of and Response to Adverse Events  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK232983/](https://www.ncbi.nlm.nih.gov/books/NBK232983/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK232983/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK232983/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection of and Response to Adverse Events - NCBIA CDC study indicated that, as with all passive surveillance systems, underreporting oc...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: webmd.com  
    Title: VAER S and Vaccine Safety: What You Need to Know This is a myth  
-   Link: [https://www.webmd.com/vaccines/vaers-and-vaccine-safety](https://www.webmd.com/vaccines/vaers-and-vaccine-safety)  
+   Link: <a href="https://www.webmd.com/vaccines/vaers-and-vaccine-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/vaccines/vaers-and-vaccine-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VAERS reports alone don&#x27;t determine whether vaccines cause or play a role in health problems or deaths. According to the latest report, m...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nebraskamed.com  
-   Link: [https://www.nebraskamed.com/COVID/does-vaers-list-deaths-caused-by-covid-19-vaccines](https://www.nebraskamed.com/COVID/does-vaers-list-deaths-caused-by-covid-19-vaccines)  
+   Link: <a href="https://www.nebraskamed.com/COVID/does-vaers-list-deaths-caused-by-covid-19-vaccines" target="_blank" rel="noopener noreferrer nofollow">https://www.nebraskamed.com/COVID/does-vaers-list-deaths-caused-by-covid-19-vaccines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does VAERS list deaths caused by COVID-19 vaccines?May 13, 2021 — VAERS cannot and does not determine whether a vaccine caused something...</p></details>
    Published: May 13, 2021  
 
 33. <a id="endnote-33"></a>
    Source: bmjgroup.com  
-   Link: [https://bmjgroup.com/is-the-us-reporting-system-for-vaccine-safety-broken/](https://bmjgroup.com/is-the-us-reporting-system-for-vaccine-safety-broken/)  
+   Link: <a href="https://bmjgroup.com/is-the-us-reporting-system-for-vaccine-safety-broken/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/is-the-us-reporting-system-for-vaccine-safety-broken/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pposed to be user-friendly, responsive, and transparent.Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822](https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSafety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0264410X15009822</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety monitoring in the Vaccine Adverse Event Reporting...by TT Shimabukuro · 2015 · Cited by 713 — Generally, VAERS data...</p></details>

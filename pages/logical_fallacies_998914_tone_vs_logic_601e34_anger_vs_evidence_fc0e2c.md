@@ -288,7 +288,7 @@ The anger does not prove the accusation. The documents do the evidential work. T
 
 The logical problem appears when anger ceases to accompany evidence and begins to replace it.
 
-An [appeal to emotion]({{ 'emotion/' | relative_url }}) is generally considered fallacious when it encourages acceptance of a conclusion because of the audience's feelings rather than because the conclusion has been adequately supported. The issue is not that emotions are present; the issue is that they become a substitute for reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span> Several common patterns illustrate this shift:
+An appeal to emotion is generally considered fallacious when it encourages acceptance of a conclusion because of the audience's feelings rather than because the conclusion has been adequately supported. The issue is not that emotions are present; the issue is that they become a substitute for reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy &#124; Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span> Several common patterns illustrate this shift:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -305,7 +305,7 @@ In each case, the audience is being pushed toward a conclusion through emotional
 This is why logic textbooks often classify appeals to pity, fear, ridicule, or similar emotional tactics as fallacies of [relevance]({{ 'relevance/' | relative_url }}) when the emotion has no genuine bearing on the truth of the claim being assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JkB3hhtLx4M" title="Appeal to Emotion | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer">Appeal to Emotion | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 7.6K &middot; Uploaded: March 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JkB3hhtLx4M">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SPN54qYUqng" title="Appeal to Pity (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SPN54qYUqng" target="_blank" rel="noopener noreferrer">Appeal to Pity (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 27.5K &middot; Uploaded: February 2014 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SPN54qYUqng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SPN54qYUqng">Open on YouTube</a></p></div></div></div>
 
 ## A useful test: what happens if the anger is removed?
 
@@ -356,7 +356,7 @@ Now consider:
 Here anger functions as a shield against scrutiny. Rather than supplying reasons, the speaker attempts to make disagreement socially or emotionally costly. The discussion shifts from evaluating the claim to managing emotional pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[2yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Appeals to emotion include appeals to fear, envy, hatred, pity...Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SPN54qYUqng" title="Appeal to Pity (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SPN54qYUqng" target="_blank" rel="noopener noreferrer">Appeal to Pity (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 27.5K &middot; Uploaded: February 2014 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SPN54qYUqng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SPN54qYUqng">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ESVP917iLM8" title="Logical Fallacies: Appeal to Emotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer">Logical Fallacies: Appeal to Emotion</a></p><p class="youtube-embed-meta">Channel: Bitesize Philosophy &middot; Views: 5.2K &middot; Uploaded: June 2023 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ESVP917iLM8">Open on YouTube</a></p></div></div></div>
 
 ### Anger aimed at a person rather than a claim
 
@@ -364,14 +364,14 @@ A further complication arises when anger becomes personal:
 
 > “Only a fool could believe that.”
 
-The statement may express genuine frustration, but it does not address whether the belief is true. The attack focuses attention on the person instead of the argument. Whether this becomes an ad hominem fallacy depends on how it functions in the reasoning, but it certainly does not provide evidence for the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad misericordiam</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad misericordiam | logic1 Apr 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguing...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to emotion</span><span class="citation-popover-snippet">Appeal to emotion</span></span></span>
+The statement may express genuine frustration, but it does not address whether the belief is true. The attack focuses attention on the person instead of the argument. Whether this becomes an ad hominem fallacy depends on how it functions in the reasoning, but it certainly does not provide evidence for the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad misericordiam</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad misericordiam &#124; logic1 Apr 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguing...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to emotion</span><span class="citation-popover-snippet">Appeal to emotion</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ESVP917iLM8" title="Logical Fallacies: Appeal to Emotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer">Logical Fallacies: Appeal to Emotion</a></p><p class="youtube-embed-meta">Channel: Bitesize Philosophy &middot; Views: 5.2K &middot; Uploaded: June 2023 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ESVP917iLM8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JkB3hhtLx4M" title="Appeal to Emotion | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer">Appeal to Emotion | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 7.6K &middot; Uploaded: March 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JkB3hhtLx4M">Open on YouTube</a></p></div></div></div>
 
 ## Why people confuse anger with bad logic
 
-Humans often evaluate arguments through both reasoning and emotional reaction. Psychological and argumentation research suggests that [emotional framing]({{ 'fake-news/' | relative_url }}) can influence how convincing people find claims, even when the underlying logic is unchanged. As a result, audiences may mistake emotional intensity for argumentative strength—or dismiss a sound argument because its delivery feels uncomfortable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.07162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Categorical Emotions or Appraisals</span><span class="citation-popover-snippet">arXivCategorical Emotions or Appraisals - Which Emotion Model Explains Argument Convincingness Better?November 10, 2025...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
+Humans often evaluate arguments through both reasoning and emotional reaction. Psychological and argumentation research suggests that emotional framing can influence how convincing people find claims, even when the underlying logic is unchanged. As a result, audiences may mistake emotional intensity for argumentative strength—or dismiss a sound argument because its delivery feels uncomfortable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.07162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Categorical Emotions or Appraisals</span><span class="citation-popover-snippet">Categorical Emotions or Appraisals - Which Emotion Model Explains Argument Convincingness Better?November 10, 2025...</span><span class="citation-popover-meta">Published: November 10, 2025</span></span></span>
 
 This creates two opposite mistakes:
 
@@ -808,33 +808,33 @@ Anger is not itself a logical fallacy. It can be a reasonable reaction to eviden
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Appeals to pit...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Appeal to emotion  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_emotion](https://en.wikipedia.org/wiki/Appeal_to_emotion)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_emotion</a>  
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: informallogic.ca  
    Title: Argumentation Theory. One crucial advance.Read more  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2147/1591](https://informallogic.ca/index.php/informal_logic/article/view/2147/1591)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147/1591</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion, Argumentation and Informal Logic*by MA Gilbert · 2004 · Cited by 105 — Abstract: Over the past 60 years there have been tremendo...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2147](https://informallogic.ca/index.php/informal_logic/article/view/2147)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2147" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Authors. Michael A. Gilbert York University. DOI: [https://doi.org/10.22329/il.v24i3.2...&quot;](https://doi.org/10.22329/il.v24i3.2...&quot;)...</p></details>
 
 1
@@ -847,198 +847,198 @@ Anger is not itself a logical fallacy. It can be a reasonable reaction to eviden
 7. <a id="endnote-7"></a>
    Source: scribbr.com  
    Title: appeal to emotion  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-emotion/](https://www.scribbr.com/fallacies/appeal-to-emotion/)  
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-emotion/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/appeal-to-emotion](https://yourlogicalfallacyis.com/appeal-to-emotion)  
+   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-emotion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to emotion include appeals to fear, envy, hatred, pity...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/emotiona.html](https://www.fallacyfiles.org/emotiona.html)  
+   Link: <a href="https://www.fallacyfiles.org/emotiona.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/emotiona.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
    Title: argumentum ad misericordiam  
-   Link: [https://www.britannica.com/topic/argumentum-ad-misericordiam](https://www.britannica.com/topic/argumentum-ad-misericordiam)  
+   Link: <a href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-misericordiam</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaArgumentum ad misericordiam | logic1 Apr 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguing...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
    Title: ad hominem  
-   Link: [https://www.britannica.com/topic/ad-hominem](https://www.britannica.com/topic/ad-hominem)  
+   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; Facts12 Mar 2026 — Ad hominem, type of argument or attack that...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
    Title: arXiv Categorical Emotions or Appraisals  
-   Link: [https://arxiv.org/abs/2511.07162](https://arxiv.org/abs/2511.07162)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivCategorical Emotions or Appraisals - Which Emotion Model Explains Argument Convincingness Better?November 10, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2511.07162" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.07162</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Categorical Emotions or Appraisals - Which Emotion Model Explains Argument Convincingness Better?November 10, 2025...</p></details>
    Published: November 10, 2025  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2510.09695](https://arxiv.org/abs/2510.09695)  
+   Link: <a href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.09695</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Internet](https://en.wikipedia.org/wiki/Internet)  
+   Link: <a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Argumentum ad populum  
-   Link: [https://en.wikipedia.org/wiki/Argumentum_ad_populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populumIn argumentation theory, an argumentum ad populum is an informal fallacy that asserts a claim is true, good, or c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesAppeal to pity (argumentum ad misericordiam) – generating feelings of sympathy or mercy in the listener to obtain com...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/emotion/](https://plato.stanford.edu/entries/emotion/)  
+   Link: <a href="https://plato.stanford.edu/entries/emotion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/emotion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby A Scarantino · 2018 · Cited by 550 — Emotions have historically been conceptualized in one of three...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: web.stanford.edu  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: [https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm](https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm)  
+   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesAppeal to Force: the reader is persuaded to agree by force · Appeal to Pity: the reader is persuaded to agree by sympathy · Cons...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2016/entries/emotion/](https://plato.stanford.edu/archives/fall2016/entries/emotion/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2016/entries/emotion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2016/entries/emotion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFeb 3, 2003 — No aspect of our mental life is more important to the quality and meaning of our existen...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/sum2022/entries/logic-informal/](https://plato.stanford.edu/archives/sum2022/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2022/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of PhilosophyJul 16, 2021 — Logic understands an argument as an attempt to justify a conclusion, emphasizin...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2018/entries/emotion/](https://plato.stanford.edu/archives/fall2018/entries/emotion/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2018/entries/emotion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2018/entries/emotion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFeb 3, 2003 — This explains why we are so often tempted to take seriously ascription of reasonableness...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/argumentum-ad-populum](https://www.britannica.com/topic/argumentum-ad-populum)  
+   Link: <a href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-populum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populum | logicArgument ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals to such...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: philosophy.institute  
-   Title: navigating [informal fallacies](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) logical discourse  
-   Link: [https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/](https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/)  
+   Title: navigating informal fallacies logical discourse  
+   Link: <a href="https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Informal Fallacies in Logical Discourse11 Dec 2025 — As the Stanford Encyclopedia of Philosophy describes, these are errors in...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Logical Fallacies: Appeal to Emotion  
-   Link: [https://www.youtube.com/watch?v=ESVP917iLM8](https://www.youtube.com/watch?v=ESVP917iLM8)  
+   Link: <a href="https://www.youtube.com/watch?v=ESVP917iLM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ESVP917iLM8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Emotion | Logical Fallacies...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Appeal to Emotion | Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=JkB3hhtLx4M](https://www.youtube.com/watch?v=JkB3hhtLx4M)  
+   Link: <a href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JkB3hhtLx4M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weaponized Anger: How They Make You Snap...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: yorkspace.library.yorku.ca  
-   Link: [https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c](https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c)  
+   Link: <a href="https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c" target="_blank" rel="noopener noreferrer nofollow">https://yorkspace.library.yorku.ca/items/ccd0d356-a349-4865-8ad0-56b0e172716c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The presence of emotion does not necessarily harm an argument. Emotion can play a role in traditional, logic-based theories of argumentat...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 29. <a id="endnote-29"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/misery.html](https://philosophy.lander.edu/logic/misery.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/misery.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageArgumentum ad MisericordiamThe ad misericordiam fallacy illicitly appeals to pity or a related emotion such as sympat...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-emotion](https://fallacyguide.com/fallacies/appeal-to-emotion)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Impact: Appeal to Emotion distorts reasoning by Feelings alone cannot establish...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of relevance. (2) Accent, Amphiboly and Equivocation are examples...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: spotfallacy.com  
    Title: appeal to emotion  
-   Link: [https://www.spotfallacy.com/blog/logical-fallacy/appeal-to-emotion](https://www.spotfallacy.com/blog/logical-fallacy/appeal-to-emotion)  
+   Link: <a href="https://www.spotfallacy.com/blog/logical-fallacy/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://www.spotfallacy.com/blog/logical-fallacy/appeal-to-emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spot the FallacyFeb 8, 2026 — The appeal to emotion fallacy uses feelings as the primary evidence instead of reasons or facts. The argume...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacies can be either illegitimate a...</p></details>
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/6175893/Gilbert_Michael_A_1995_What_Is_an_Emotional_Argument_or_Why_Do_Argumentation_Theorists_Argue_with_their_Mates_Proceedings_of_the_Third_Conference_of_the_International_Society_for_the_Study_of_Argumentation_Amsterdam_NL_1995](https://www.academia.edu/6175893/Gilbert_Michael_A_1995_What_Is_an_Emotional_Argument_or_Why_Do_Argumentation_Theorists_Argue_with_their_Mates_Proceedings_of_the_Third_Conference_of_the_International_Society_for_the_Study_of_Argumentation_Amsterdam_NL_1995)  
+   Link: <a href="https://www.academia.edu/6175893/Gilbert_Michael_A_1995_What_Is_an_Emotional_Argument_or_Why_Do_Argumentation_Theorists_Argue_with_their_Mates_Proceedings_of_the_Third_Conference_of_the_International_Society_for_the_Study_of_Argumentation_Amsterdam_NL_1995" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/6175893/Gilbert_Michael_A_1995_What_Is_an_Emotional_Argument_or_Why_Do_Argumentation_Theorists_Argue_with_their_Mates_Proceedings_of_the_Third_Conference_of_the_International_Society_for_the_Study_of_Argumentation_Amsterdam_NL_1995</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gilbert, Michael A. 1995. &quot;What Is an Emotional Argument...8 Nov 2025 — Gilbert, Michael A. 1995. &quot;What Is an Emotional Argument, or, Wh...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to EmotionAppeal to Emotion · Description: This is the general category of many fallacies that use emotion in place of reason in o...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity</a>  
 
 37. <a id="endnote-37"></a>
    Source: windsor.scholarsportal.info  
-   Link: [https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/123/303/1650-1?inline=1](https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/123/303/1650-1?inline=1)  
+   Link: <a href="https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/123/303/1650-1?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/123/303/1650-1?inline=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic: A &#x27;Canadian&#x27; Approach to Argumentby MA GILBERT · Cited by 29 — Abstract: My essay, “Multi-Modal Argumentation” was published in th...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
    Title: 226186090 Appeal to pity A case study of the argumentum ad misericordiam  
-   Link: [https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam](https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam)  
+   Link: <a href="https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226186090_Appeal_to_pity_A_case_study_of_the_argumentum_ad_misericordiam</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Appeal to pity: A case study of the argumentum ad...Nov 29, 2020 — The appeal to pity, orargumentum ad misericordiam, has traditio...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: thinkingispower.com  
-   Link: [https://thinkingispower.com/logical-fallacies/](https://thinkingispower.com/logical-fallacies/)  
+   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shown are examples Ad hominem logical fallacy attempts to discredit an argument by...Read more...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: prezi.com  
-   Link: [https://prezi.com/52xwcr1agt1r/logical-fallacies-appeal-to-pity/](https://prezi.com/52xwcr1agt1r/logical-fallacies-appeal-to-pity/)  
+   Link: <a href="https://prezi.com/52xwcr1agt1r/logical-fallacies-appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/52xwcr1agt1r/logical-fallacies-appeal-to-pity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: Appeal to Pity - Mohammed HasanDefinition · A person substitutes a claim intended to create pity for evidence in an ar...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: finmasters.com  
    Title: Appeal to Emotion Fallacy: Definition and Examples  
-   Link: [https://finmasters.com/appeal-to-emotion/](https://finmasters.com/appeal-to-emotion/)  
+   Link: <a href="https://finmasters.com/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/appeal-to-emotion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2023 — Appeal to emotion occurs when someone uses emotional appeals instead of relevant facts and logic to support a claim...</p></details>
    Published: May 23, 2023  
 
 42. <a id="endnote-42"></a>
    Source: inquiresabound.wordpress.com  
    Title: argumentum ad misericordiam appeal to pity  
-   Link: [https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/](https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/)  
+   Link: <a href="https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2021/09/05/argumentum-ad-misericordiam-appeal-to-pity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Misericordiam (Appeal to Pity) - Meta/InquiresSep 5, 2021 — It is an appeal to emotion, specifically pity, as a piece of evidence inst...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: psychologycorner.com  
-   Link: [https://psychologycorner.com/critical-thinking-resources/what-is-the-appeal-to-emotion-fallacy/](https://psychologycorner.com/critical-thinking-resources/what-is-the-appeal-to-emotion-fallacy/)  
+   Link: <a href="https://psychologycorner.com/critical-thinking-resources/what-is-the-appeal-to-emotion-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologycorner.com/critical-thinking-resources/what-is-the-appeal-to-emotion-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>response in place of a valid or compelling argument.Read more...</p></details>

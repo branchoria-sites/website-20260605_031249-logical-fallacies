@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:24:40'
 parent_title: Is New Always Better? | Fallacy Lab
 parent_permalink: /novelty/
 parent_nav_short_title: Novelty
@@ -265,7 +266,6 @@ next_link:
   permalink: /new-coke/
   short_title: New Coke
   heading_title: Why New Coke Was Not Just a Taste Test
-date: '2026-06-05 02:24:40 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-1.webp
@@ -278,7 +278,7 @@ In debates about public and workplace reform, the word *modern* often carries pe
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-1-dark.svg" | relative_url }}" alt="Modern Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is not that modern reforms are usually bad. Many genuinely improve services, efficiency, fairness, or safety. The problem arises when labels such as *modern* and *upgraded* do the argumentative work that evidence should be doing. Once that happens, attention can shift away from measurable results, trade-offs, costs, and unintended consequences. Evidence-based policy research has repeatedly stressed that reforms should be judged by demonstrated outcomes rather than by their branding or perceived freshness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">full report</span><span class="citation-popover-snippet">OECDFull Report: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive overview of p...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/policy-areas/governance.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">GovernanceIn the public sector, the OECD helps governments design and implement strategic, evidence-based and innovative policies to stre...</span></span></span>
+The problem is not that modern reforms are usually bad. Many genuinely improve services, efficiency, fairness, or safety. The problem arises when labels such as *modern* and *upgraded* do the argumentative work that evidence should be doing. Once that happens, attention can shift away from measurable results, trade-offs, costs, and unintended consequences. Evidence-based policy research has repeatedly stressed that reforms should be judged by demonstrated outcomes rather than by their branding or perceived freshness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">full report</span><span class="citation-popover-snippet">Full Report: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive overview of p...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/policy-areas/governance.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">GovernanceIn the public sector, the OECD helps governments design and implement strategic, evidence-based and innovative policies to stre...</span></span></span>
 
 ## How Words Like “Modern” and “Upgraded” Shift Attention Away From Evidence
 
@@ -296,7 +296,7 @@ A common pattern looks like this:
 
 </div>
 
-This rhetorical move can be powerful because many people reasonably associate technological, scientific, and social progress with improvement. Yet the fact that something is newer does not establish that it is more effective. Public-administration scholars have long noted that waves of reform frequently arrive with attractive narratives and ambitious labels, while the actual effects remain uncertain until implementation and evaluation occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2005/09/modernising-government_g1gh5a93/9789264010505-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Modernising Government (EN</span><span class="citation-popover-snippet">OECDModernising Government (EN)May 28, 2025 — This book identifies levers for reform to modernise the public sector, and presents an over...</span><span class="citation-popover-meta">Published: May 28, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/public-administration-after-new-public-management_9789264086449-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">public administration after new public management 9789264086449 en</span><span class="citation-popover-snippet">Public Administration after &quot;New Public Management&quot;7 June 2010 — Reforms are focusing on the quality of services for citizens and busines...</span><span class="citation-popover-meta">Published: June 2010</span></span></span>
+This rhetorical move can be powerful because many people reasonably associate technological, scientific, and social progress with improvement. Yet the fact that something is newer does not establish that it is more effective. Public-administration scholars have long noted that waves of reform frequently arrive with attractive narratives and ambitious labels, while the actual effects remain uncertain until implementation and evaluation occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2005/09/modernising-government_g1gh5a93/9789264010505-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Modernising Government (EN</span><span class="citation-popover-snippet">Modernising Government (EN)May 28, 2025 — This book identifies levers for reform to modernise the public sector, and presents an over...</span><span class="citation-popover-meta">Published: May 28, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/public-administration-after-new-public-management_9789264086449-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">public administration after new public management 9789264086449 en</span><span class="citation-popover-snippet">Public Administration after &quot;New Public Management&quot;7 June 2010 — Reforms are focusing on the quality of services for citizens and busines...</span><span class="citation-popover-meta">Published: June 2010</span></span></span>
 
 The language of reform can therefore create an illusion of evidence. A policy may sound advanced because it is presented as part of a modernisation agenda, even when supporting data are limited, contested, or unavailable.
 
@@ -313,7 +313,7 @@ Research on public-sector reform repeatedly emphasises the importance of evaluat
 This is why descriptions such as “modern governance”, “reimagined service delivery”, or “institutional transformation” should be treated as starting points for inquiry rather than conclusions.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TFlGhXeooPA" title="Every Single Logical Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer">Every Single Logical Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Unsolicited advice &middot; Views: 648.5K &middot; Uploaded: March 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TFlGhXeooPA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I6Z0pXNLIh4" title="Political, Forensic, and Ceremonial Rhetoric--Writing Notes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I6Z0pXNLIh4" target="_blank" rel="noopener noreferrer">Political, Forensic, and Ceremonial Rhetoric--Writing Notes</a></p><p class="youtube-embed-meta">Channel: Writing Notes &middot; Views: 299 &middot; Uploaded: October 2017 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I6Z0pXNLIh4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I6Z0pXNLIh4">Open on YouTube</a></p></div></div></div>
 
 ## Why Modernity Is a Particularly Powerful Political Signal
 
@@ -323,7 +323,7 @@ Political leaders often present reforms as evidence that institutions are adapti
 
 The difficulty is that symbolic progress and practical progress are not identical.
 
-A reform can successfully communicate dynamism while failing to improve outcomes. Conversely, a less glamorous reform may generate substantial benefits despite lacking fashionable terminology. Studies of evidence-informed policymaking repeatedly stress that policy quality depends on the strength of analysis, implementation, monitoring, and evaluation rather than on how progressive the reform sounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/12/managing-change-in-oecd-governments_g17a1c80/227141782188.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDManaging Change in OECD Governments (EN)by OH Melchor · 2008 · Cited by 118 — The objective is to explore the different ways in which...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/policy-implications-and-the-way-forward_1cf96736.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">policy implications and the way forward 1cf96736</span><span class="citation-popover-snippet">OECDStrengthening National Evidence-Informed Policymaking...18 Dec 2025 — This chapter outlines forward-looking policy pathways to suppo...</span></span></span>
+A reform can successfully communicate dynamism while failing to improve outcomes. Conversely, a less glamorous reform may generate substantial benefits despite lacking fashionable terminology. Studies of evidence-informed policymaking repeatedly stress that policy quality depends on the strength of analysis, implementation, monitoring, and evaluation rather than on how progressive the reform sounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/12/managing-change-in-oecd-governments_g17a1c80/227141782188.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Managing Change in OECD Governments (EN)by OH Melchor · 2008 · Cited by 118 — The objective is to explore the different ways in which...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/policy-implications-and-the-way-forward_1cf96736.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">policy implications and the way forward 1cf96736</span><span class="citation-popover-snippet">Strengthening National Evidence-Informed Policymaking...18 Dec 2025 — This chapter outlines forward-looking policy pathways to suppo...</span></span></span>
 
 The appeal to novelty enters when modernity itself becomes evidence. Instead of demonstrating that a proposal works, advocates rely on the assumption that contemporary approaches must be superior to older ones.
 
@@ -360,7 +360,7 @@ A claim that a policy is modern tells us little. A claim that it reduces process
 A reform may help one group while imposing burdens on another. Aggregate language can conceal uneven effects.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I6Z0pXNLIh4" title="Political, Forensic, and Ceremonial Rhetoric--Writing Notes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I6Z0pXNLIh4" target="_blank" rel="noopener noreferrer">Political, Forensic, and Ceremonial Rhetoric--Writing Notes</a></p><p class="youtube-embed-meta">Channel: Writing Notes &middot; Views: 299 &middot; Uploaded: October 2017 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I6Z0pXNLIh4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I6Z0pXNLIh4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TFlGhXeooPA" title="Every Single Logical Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer">Every Single Logical Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Unsolicited advice &middot; Views: 648.5K &middot; Uploaded: March 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TFlGhXeooPA">Open on YouTube</a></p></div></div></div>
 
 ### What is the baseline?
 
@@ -374,7 +374,7 @@ Pilot programmes, evaluations, audits, experiments, performance indicators, and 
 
 Nearly every reform involves compromises. Understanding them is essential for informed judgement.
 
-These questions align with broader evidence-informed policy approaches, which emphasise evaluating costs, benefits, effects, and implementation realities rather than relying on assumptions about progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/overview-of-lessons-learned-and-principles-for-healthy-evidence-informed-policymaking-ecosystems_f4089495.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Strengthening National Evidence-Informed Policymaking...18 Dec 2025 — This chapter distils findings from the EIPM project&#x27;s seven countr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/evidence-informed-infrastructure-decision-making_ac3e2c57.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">evidence informed infrastructure decision making ac3e2c57</span><span class="citation-popover-snippet">OECDEvidence-informed infrastructure decision making19 Jun 2025 — Such evidence-informed decision making uses existing evidence and past...</span></span></span>
+These questions align with broader evidence-informed policy approaches, which emphasise evaluating costs, benefits, effects, and implementation realities rather than relying on assumptions about progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/overview-of-lessons-learned-and-principles-for-healthy-evidence-informed-policymaking-ecosystems_f4089495.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Strengthening National Evidence-Informed Policymaking...18 Dec 2025 — This chapter distils findings from the EIPM project&#x27;s seven countr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/evidence-informed-infrastructure-decision-making_ac3e2c57.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">evidence informed infrastructure decision making ac3e2c57</span><span class="citation-popover-snippet">Evidence-informed infrastructure decision making19 Jun 2025 — Such evidence-informed decision making uses existing evidence and past...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-3-dark.svg" | relative_url }}" alt="Modern Claims illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -384,7 +384,7 @@ Not every appeal to modernity is fallacious. Sometimes the language accurately d
 
 The distinction lies in the role that modernity plays within the argument. If modernity is merely descriptive—“this is a newer system, and here is evidence that it improves outcomes”—the argument may be sound. If modernity functions as the main reason for acceptance—“this is a newer system, therefore it is better”—the argument slips into appeal to novelty.
 
-Evidence-informed governance increasingly emphasises measurable outcomes, transparency, evaluation, and accountability precisely because reform rhetoric alone cannot establish effectiveness. Public trust is strengthened when governments and organisations can demonstrate results rather than merely promise modernisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">oecd survey on drivers of trust in public institutions 2024 results 9a20554b en</span><span class="citation-popover-snippet">OECDOECD Survey on Drivers of Trust in Public Institutions10 Jul 2024 — The second OECD Survey on Drivers of Trust in Public Institutions...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/about/news/press-releases/2025/06/governments-should-strengthen-public-trust-by-improving-efficiency-citizen-engagement-and-access-to-public-services.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Governments should strengthen public trust by improving...19 Jun 2025 — Governments can strengthen public trust by ensuring meaningful p...</span></span></span>
+Evidence-informed governance increasingly emphasises measurable outcomes, transparency, evaluation, and accountability precisely because reform rhetoric alone cannot establish effectiveness. Public trust is strengthened when governments and organisations can demonstrate results rather than merely promise modernisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">oecd survey on drivers of trust in public institutions 2024 results 9a20554b en</span><span class="citation-popover-snippet">OECD Survey on Drivers of Trust in Public Institutions10 Jul 2024 — The second OECD Survey on Drivers of Trust in Public Institutions...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/about/news/press-releases/2025/06/governments-should-strengthen-public-trust-by-improving-efficiency-citizen-engagement-and-access-to-public-services.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Governments should strengthen public trust by improving...19 Jun 2025 — Governments can strengthen public trust by ensuring meaningful p...</span></span></span>
 
 ## The Core Mechanism
 
@@ -818,201 +818,201 @@ The reform may indeed be beneficial. The fallacy occurs when the language of pro
 1. <a id="endnote-1"></a>
    Source: oecd.org  
    Title: full report  
-   Link: [https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report.html](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDFull Report: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive overview of p...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full Report: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive overview of p...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/policy-areas/governance.html](https://www.oecd.org/en/topics/policy-areas/governance.html)  
+   Link: <a href="https://www.oecd.org/en/topics/policy-areas/governance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-areas/governance.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GovernanceIn the public sector, the OECD helps governments design and implement strategic, evidence-based and innovative policies to stre...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: oecd.org  
    Title: Modernising Government (EN)  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2005/09/modernising-government_g1gh5a93/9789264010505-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2005/09/modernising-government_g1gh5a93/9789264010505-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDModernising Government (EN)May 28, 2025 — This book identifies levers for reform to modernise the public sector, and presents an over...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2005/09/modernising-government_g1gh5a93/9789264010505-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2005/09/modernising-government_g1gh5a93/9789264010505-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Modernising Government (EN)May 28, 2025 — This book identifies levers for reform to modernise the public sector, and presents an over...</p></details>
    Published: May 28, 2025  
 
 4. <a id="endnote-4"></a>
    Source: oecd.org  
    Title: public administration after new public management 9789264086449 en  
-   Link: [https://www.oecd.org/en/publications/public-administration-after-new-public-management_9789264086449-en.html](https://www.oecd.org/en/publications/public-administration-after-new-public-management_9789264086449-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/public-administration-after-new-public-management_9789264086449-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/public-administration-after-new-public-management_9789264086449-en.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Administration after &quot;New Public Management&quot;7 June 2010 — Reforms are focusing on the quality of services for citizens and busines...</p></details>
    Published: June 2010  
 
 5. <a id="endnote-5"></a>
    Source: amor.cms.hu-berlin.de  
    Title: 371 Public sector reform and evaluation  
-   Link: [https://amor.cms.hu-berlin.de/~h0598bce/docs/hw2003-public-sector-reform-and-evaluation.pdf](https://amor.cms.hu-berlin.de/~h0598bce/docs/hw2003-public-sector-reform-and-evaluation.pdf)  
+   Link: <a href="https://amor.cms.hu-berlin.de/~h0598bce/docs/hw2003-public-sector-reform-and-evaluation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amor.cms.hu-berlin.de/~h0598bce/docs/hw2003-public-sector-reform-and-evaluation.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Approaches and...by H Wollmann · Cited by 4 — Finally, there is evidence of a growing interest in the academic research community in con...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/12/managing-change-in-oecd-governments_g17a1c80/227141782188.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/12/managing-change-in-oecd-governments_g17a1c80/227141782188.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDManaging Change in OECD Governments (EN)by OH Melchor · 2008 · Cited by 118 — The objective is to explore the different ways in which...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/12/managing-change-in-oecd-governments_g17a1c80/227141782188.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/12/managing-change-in-oecd-governments_g17a1c80/227141782188.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing Change in OECD Governments (EN)by OH Melchor · 2008 · Cited by 118 — The objective is to explore the different ways in which...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: oecd.org  
    Title: policy implications and the way forward 1cf96736  
-   Link: [https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/policy-implications-and-the-way-forward_1cf96736.html](https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/policy-implications-and-the-way-forward_1cf96736.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDStrengthening National Evidence-Informed Policymaking...18 Dec 2025 — This chapter outlines forward-looking policy pathways to suppo...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/policy-implications-and-the-way-forward_1cf96736.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/policy-implications-and-the-way-forward_1cf96736.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strengthening National Evidence-Informed Policymaking...18 Dec 2025 — This chapter outlines forward-looking policy pathways to suppo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/overview-of-lessons-learned-and-principles-for-healthy-evidence-informed-policymaking-ecosystems_f4089495.html](https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/overview-of-lessons-learned-and-principles-for-healthy-evidence-informed-policymaking-ecosystems_f4089495.html)  
+   Link: <a href="https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/overview-of-lessons-learned-and-principles-for-healthy-evidence-informed-policymaking-ecosystems_f4089495.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/overview-of-lessons-learned-and-principles-for-healthy-evidence-informed-policymaking-ecosystems_f4089495.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strengthening National Evidence-Informed Policymaking...18 Dec 2025 — This chapter distils findings from the EIPM project&#x27;s seven countr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: oecd.org  
    Title: evidence informed infrastructure decision making ac3e2c57  
-   Link: [https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/evidence-informed-infrastructure-decision-making_ac3e2c57.html](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/evidence-informed-infrastructure-decision-making_ac3e2c57.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDEvidence-informed infrastructure decision making19 Jun 2025 — Such evidence-informed decision making uses existing evidence and past...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/evidence-informed-infrastructure-decision-making_ac3e2c57.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/evidence-informed-infrastructure-decision-making_ac3e2c57.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-informed infrastructure decision making19 Jun 2025 — Such evidence-informed decision making uses existing evidence and past...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
    Title: oecd survey on drivers of trust in public institutions 2024 results 9a20554b en  
-   Link: [https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html](https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDOECD Survey on Drivers of Trust in Public Institutions10 Jul 2024 — The second OECD Survey on Drivers of Trust in Public Institutions...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Survey on Drivers of Trust in Public Institutions10 Jul 2024 — The second OECD Survey on Drivers of Trust in Public Institutions...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/about/news/press-releases/2025/06/governments-should-strengthen-public-trust-by-improving-efficiency-citizen-engagement-and-access-to-public-services.html](https://www.oecd.org/en/about/news/press-releases/2025/06/governments-should-strengthen-public-trust-by-improving-efficiency-citizen-engagement-and-access-to-public-services.html)  
+   Link: <a href="https://www.oecd.org/en/about/news/press-releases/2025/06/governments-should-strengthen-public-trust-by-improving-efficiency-citizen-engagement-and-access-to-public-services.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/news/press-releases/2025/06/governments-should-strengthen-public-trust-by-improving-efficiency-citizen-engagement-and-access-to-public-services.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governments should strengthen public trust by improving...19 Jun 2025 — Governments can strengthen public trust by ensuring meaningful p...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: oecd.org  
    Title: government at a glance 2025 0efd0bcd en  
-   Link: [https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en.html](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive overview of public governance...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oecd.org  
    Title: component 16  
-   Link: [https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/component-16.html](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/component-16.html)  
+   Link: <a href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/component-16.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/component-16.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public services: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive overview of p...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/public-governance-and-administration-modernisation.html](https://www.oecd.org/en/topics/public-governance-and-administration-modernisation.html)  
+   Link: <a href="https://www.oecd.org/en/topics/public-governance-and-administration-modernisation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/public-governance-and-administration-modernisation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public governance and administration modernisationGovernments are enacting new public administration reforms that increasingly seek to in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/12/public-value-in-public-service-transformation_73c2ed5a/47c17892-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/12/public-value-in-public-service-transformation_73c2ed5a/47c17892-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/12/public-value-in-public-service-transformation_73c2ed5a/47c17892-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/12/public-value-in-public-service-transformation_73c2ed5a/47c17892-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Value in Public Service TransformationThis report was prepared by the OECD Directorate for Public Governance (GOV), under the lead...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: oecd.org  
    Title: government at a glance 2025 70e14c6c  
-   Link: [https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c.html](https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government at a Glance 2025Jun 19, 2025 — The 2025 edition of Government at a Glance offers a comprehensive overview of public governance...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: oecd.org  
    Title: perceptions of public sector integrity dd721ac4  
-   Link: [https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/perceptions-of-public-sector-integrity_dd721ac4.html](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/perceptions-of-public-sector-integrity_dd721ac4.html)  
+   Link: <a href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/perceptions-of-public-sector-integrity_dd721ac4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/perceptions-of-public-sector-integrity_dd721ac4.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceptions of public sector integrity: Government at a...19 Jun 2025 — Overall, the findings highlight persistent concerns about integr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/05/multi-level-governance-reforms_g1g77b03/9789264272866-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/05/multi-level-governance-reforms_g1g77b03/9789264272866-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/05/multi-level-governance-reforms_g1g77b03/9789264272866-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/05/multi-level-governance-reforms_g1g77b03/9789264272866-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>untries. Multi-level governance reforms often have...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: oecd.org  
    Title: drivers of trust in public institutions fe2b7742  
-   Link: [https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/drivers-of-trust-in-public-institutions_fe2b7742.html](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/drivers-of-trust-in-public-institutions_fe2b7742.html)  
+   Link: <a href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/drivers-of-trust-in-public-institutions_fe2b7742.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/drivers-of-trust-in-public-institutions_fe2b7742.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Drivers of trust in public institutions: Government at a...19 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: oecd.org  
    Title: transparency of public information 60a963c4  
-   Link: [https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/transparency-of-public-information_60a963c4.html](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/transparency-of-public-information_60a963c4.html)  
+   Link: <a href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/transparency-of-public-information_60a963c4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/transparency-of-public-information_60a963c4.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transparency of public information: Government at a...19 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive ov...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: oecd.org  
    Title: governance of sector regulators 48990352  
-   Link: [https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/governance-of-sector-regulators_48990352.html](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/governance-of-sector-regulators_48990352.html)  
+   Link: <a href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/governance-of-sector-regulators_48990352.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/governance-of-sector-regulators_48990352.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance of sector regulators19 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive overview of public governa...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2003/09/governance-of-public-research_g1gh383a/9789264103764-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2003/09/governance-of-public-research_g1gh383a/9789264103764-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2003/09/governance-of-public-research_g1gh383a/9789264103764-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2003/09/governance-of-public-research_g1gh383a/9789264103764-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ce on project funding and contract research exerts.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/levels-of-trust-in-public-institutions_62a3b94e.html](https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/levels-of-trust-in-public-institutions_62a3b94e.html)  
+   Link: <a href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/levels-of-trust-in-public-institutions_62a3b94e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/levels-of-trust-in-public-institutions_62a3b94e.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Levels of trust in public institutions: Government at a...19 Jun 2025 — Strengthening trust in public institutions through good public g...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: oecd.org  
    Title: 1c258f55 en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/07/government-at-a-glance-2021_70df9612/1c258f55-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/07/government-at-a-glance-2021_70df9612/1c258f55-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/07/government-at-a-glance-2021_70df9612/1c258f55-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/07/government-at-a-glance-2021_70df9612/1c258f55-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Government at a Glance 2021 (EN)New process indicators for this edition cover public sector integrity, infrastructure governance, and ope...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: oecd.org  
    Title: getting the public on side 262255fd en  
-   Link: [https://www.oecd.org/en/publications/getting-the-public-on-side_262255fd-en.html](https://www.oecd.org/en/publications/getting-the-public-on-side_262255fd-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/getting-the-public-on-side_262255fd-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/getting-the-public-on-side_262255fd-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting the Public on Side26 Mar 2025 — This report looks at and assesses the available data and what they can tell policymakers about pe...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/entities/publication/65b64572-1146-51fd-b0e8-ef977eea9a19](https://openknowledge.worldbank.org/entities/publication/65b64572-1146-51fd-b0e8-ef977eea9a19)  
+   Link: <a href="https://openknowledge.worldbank.org/entities/publication/65b64572-1146-51fd-b0e8-ef977eea9a19" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/65b64572-1146-51fd-b0e8-ef977eea9a19</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Knowledge RepositoryMaking Public Sector Reforms Work: Political and Economic...by S Bunse · 2012 · Cited by 72 — Supporting effec...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: instituteforgovernment.org.uk  
-   Link: [https://www.instituteforgovernment.org.uk/sites/default/files/publications/Policy%20making%20in%20the%20real%20world.pdf](https://www.instituteforgovernment.org.uk/sites/default/files/publications/Policy%20making%20in%20the%20real%20world.pdf)  
+   Link: <a href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/Policy%20making%20in%20the%20real%20world.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.instituteforgovernment.org.uk/sites/default/files/publications/Policy%20making%20in%20the%20real%20world.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>POLICY MAKING IN THE REAL WORLDby P MAKING — It provides both an in-depth look at attempts to reform policy making over the last fourteen...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: ppp-online.org  
-   Link: [https://ppp-online.org/view-all-volumes/modernisation-marketisation-and-housing-reform-the-use-of-evidence-based-policy-as-a-rationality-discourse-3/](https://ppp-online.org/view-all-volumes/modernisation-marketisation-and-housing-reform-the-use-of-evidence-based-policy-as-a-rationality-discourse-3/)  
+   Link: <a href="https://ppp-online.org/view-all-volumes/modernisation-marketisation-and-housing-reform-the-use-of-evidence-based-policy-as-a-rationality-discourse-3/" target="_blank" rel="noopener noreferrer nofollow">https://ppp-online.org/view-all-volumes/modernisation-marketisation-and-housing-reform-the-use-of-evidence-based-policy-as-a-rationality-discourse-3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modernisation, marketisation and housing reform: The use...12 Jun 2013 — The language of evidence-based policies appeals to politicians...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/14719037.2022.2080860](https://www.tandfonline.com/doi/full/10.1080/14719037.2022.2080860)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14719037.2022.2080860" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14719037.2022.2080860</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public sector innovation in [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;): A comparative study of...by E Cinar · 2024 · Cited by 184 — Our comparative study examines 108 inno...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/242419804_Discussion_Paper_2_Evidence-based_policy_and_practice_moving_from_rhetoric_to_reality](https://www.researchgate.net/publication/242419804_Discussion_Paper_2_Evidence-based_policy_and_practice_moving_from_rhetoric_to_reality)  
+   Link: <a href="https://www.researchgate.net/publication/242419804_Discussion_Paper_2_Evidence-based_policy_and_practice_moving_from_rhetoric_to_reality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242419804_Discussion_Paper_2_Evidence-based_policy_and_practice_moving_from_rhetoric_to_reality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nd practice&#x27; agenda, and explores how the UK public sector is grappling with...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: idos-research.de  
    Title: Available evidence must be the backbone of policy-making  
-   Link: [https://www.idos-research.de/uploads/media/DP_8.2018.pdf](https://www.idos-research.de/uploads/media/DP_8.2018.pdf)  
+   Link: <a href="https://www.idos-research.de/uploads/media/DP_8.2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.idos-research.de/uploads/media/DP_8.2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IDOS ResearchEvidence-Oriented Approaches in Development Cooperationby P Marschall · Cited by 2 — For supporting evidence-oriented policy...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: cmi.no  
-   Link: [https://www.cmi.no/publications/file/3042-public-sector-reform-what-works-and-why.pdf](https://www.cmi.no/publications/file/3042-public-sector-reform-what-works-and-why.pdf)  
+   Link: <a href="https://www.cmi.no/publications/file/3042-public-sector-reform-what-works-and-why.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmi.no/publications/file/3042-public-sector-reform-what-works-and-why.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Sector Reform: What Works and Why?by A Copy — sumed without evidence that these changes would bring about improved public administ...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: undp.org  
-   Link: [https://www.undp.org/sites/g/files/zskgke326/files/publications/PS-Reform_Paper.pdf](https://www.undp.org/sites/g/files/zskgke326/files/publications/PS-Reform_Paper.pdf)  
+   Link: <a href="https://www.undp.org/sites/g/files/zskgke326/files/publications/PS-Reform_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/sites/g/files/zskgke326/files/publications/PS-Reform_Paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Several frameworks have been developed to classify and analyse...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: brookings.edu  
-   Link: [https://www.brookings.edu/wp-content/uploads/2016/07/reformingthepublicsector_chapter.pdf](https://www.brookings.edu/wp-content/uploads/2016/07/reformingthepublicsector_chapter.pdf)  
+   Link: <a href="https://www.brookings.edu/wp-content/uploads/2016/07/reformingthepublicsector_chapter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/wp-content/uploads/2016/07/reformingthepublicsector_chapter.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction: Challenges of Public Sector ReformAfter almost three decades of reforms, the role of the public sector has changed signific...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: econstor.eu  
    Title: This is despite large inequalities in practical, de facto, powers.Read more  
-   Link: [https://www.econstor.eu/bitstream/10419/339202/1/1950996050.pdf](https://www.econstor.eu/bitstream/10419/339202/1/1950996050.pdf)  
+   Link: <a href="https://www.econstor.eu/bitstream/10419/339202/1/1950996050.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/339202/1/1950996050.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Resisting reform in the public sector: Theory and historical...by O Brufal · 2025 — Reform in the public sector treats organisations as...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: ahuri.edu.au  
-   Link: [https://www.ahuri.edu.au/sites/default/files/migration/documents/AHURI_Final_Report_No58_A_critical_review_of_evidence_based_policy_making.pdf](https://www.ahuri.edu.au/sites/default/files/migration/documents/AHURI_Final_Report_No58_A_critical_review_of_evidence_based_policy_making.pdf)  
+   Link: <a href="https://www.ahuri.edu.au/sites/default/files/migration/documents/AHURI_Final_Report_No58_A_critical_review_of_evidence_based_policy_making.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ahuri.edu.au/sites/default/files/migration/documents/AHURI_Final_Report_No58_A_critical_review_of_evidence_based_policy_making.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tuition or any other method, because policy making per se can never be...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:13:10'
 parent_title: When Is a Story Not Enough? | Fallacy Lab
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
@@ -265,7 +266,6 @@ next_link:
   permalink: /false-rule/
   short_title: False Rule
   heading_title: When One Story Starts Sounding Like Proof
-date: '2026-06-05 02:13:10 '
 header:
   og_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1.webp
@@ -278,7 +278,7 @@ Stories are often the most memorable part of an argument. A personal account can
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-dark.svg" | relative_url }}" alt="Fair Use illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Using anecdotes responsibly does not mean avoiding stories. It means matching the story to the claim. A well-used anecdote illustrates a pattern that is supported by broader evidence. A poorly used anecdote substitutes for evidence that is missing. The difference is central to avoiding [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) based on anecdotal reasoning and hasty generalisation. Research in medicine, communication, and evidence evaluation consistently shows that anecdotes can be valuable as signals, examples, and hypothesis generators, but they become misleading when presented as proof of how things generally work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAnecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either...</span></span></span>
+Using anecdotes responsibly does not mean avoiding stories. It means matching the story to the claim. A well-used anecdote illustrates a pattern that is supported by broader evidence. A poorly used anecdote substitutes for evidence that is missing. The difference is central to avoiding [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) based on anecdotal reasoning and hasty generalisation. Research in medicine, communication, and evidence evaluation consistently shows that anecdotes can be valuable as signals, examples, and hypothesis generators, but they become misleading when presented as proof of how things generally work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Anecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either...</span></span></span>
 
 ## Illustration, Signal, Analogy, and Proof: Know What Role the Story Plays
 
@@ -323,13 +323,13 @@ Several common [mechanisms]({{ 'mechanisms/' | relative_url }}) produce distorte
 
 **Memorable cases crowd out ordinary ones.** Dramatic successes and failures attract attention, while routine outcomes rarely become stories. As a result, the anecdotes available for discussion are often unrepresentative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
-**Self-selection shapes what gets reported.** People with strong experiences are more likely to speak up. Those with ordinary or neutral experiences may remain silent. This can create a misleading impression of what is typical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Anecdotes are not Evidence</span><span class="citation-popover-snippet">LinkedInAnecdotes are not EvidenceMay 22, 2021 — Anecdotal evidence is evidence where small numbers of anecdotes are presented. There is...</span><span class="citation-popover-meta">Published: May 22, 2021</span></span></span>
+**Self-selection shapes what gets reported.** People with strong experiences are more likely to speak up. Those with ordinary or neutral experiences may remain silent. This can create a misleading impression of what is typical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Anecdotes are not Evidence</span><span class="citation-popover-snippet">Anecdotes are not EvidenceMay 22, 2021 — Anecdotal evidence is evidence where small numbers of anecdotes are presented. There is...</span><span class="citation-popover-meta">Published: May 22, 2021</span></span></span>
 
 **Confirmation bias influences collection.** Individuals often notice examples that support their existing beliefs more readily than examples that challenge them. Once a conclusion is favoured, supporting stories may be gathered enthusiastically while contradictory cases are overlooked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
-**Availability affects judgement.** A vivid anecdote is easier to recall than a statistical summary. People may therefore overestimate the importance or frequency of events that are easy to imagine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span>
+**Availability affects judgement.** A vivid anecdote is easier to recall than a statistical summary. People may therefore overestimate the importance or frequency of events that are easy to imagine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span>
 
-Recognising these tendencies is essential because they can distort both the creation and the evaluation of [anecdotal evidence]({{ 'anecdotes/' | relative_url }}).
+Recognising these tendencies is essential because they can distort both the creation and the evaluation of anecdotal evidence.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JTKD9_7LVE8" title="Scientific Published Research Compared to Anecdotal Information" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JTKD9_7LVE8" target="_blank" rel="noopener noreferrer">Scientific Published Research Compared to Anecdotal Information</a></p><p class="youtube-embed-meta">Channel: DeBacco University &middot; Views: 1.5K &middot; Uploaded: April 2019 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JTKD9_7LVE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JTKD9_7LVE8">Open on YouTube</a></p></div></div></div>
@@ -348,7 +348,7 @@ Fourth, compare the anecdote with independent evidence. Does broader research po
 
 Finally, evaluate whether the conclusion exceeds what the story can support. A story can usually establish that an event occurred. It rarely establishes how often it occurs or why it occurs.
 
-These questions do not eliminate the value of [personal experience]({{ 'experience/' | relative_url }}). Instead, they help place that experience in its proper evidential role.
+These questions do not eliminate the value of personal experience. Instead, they help place that experience in its proper evidential role.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-3-dark.svg" | relative_url }}" alt="Fair Use illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -801,107 +801,107 @@ Avoiding cherry-picking therefore requires a simple discipline: let anecdotes sh
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAnecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAnecdotes that provide definitive evidence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1702478/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>that provide definitive evidence - PMCby JK Aronson · 2006 · Cited by 189 — Anecdotal reports of adverse drug reactions are generally reg...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: [https://en.wikipedia.org/wiki/Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
 5. <a id="endnote-5"></a>
    Source: linkedin.com  
    Title: Linked In Anecdotes are not Evidence  
-   Link: [https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management](https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInAnecdotes are not EvidenceMay 22, 2021 — Anecdotal evidence is evidence where small numbers of anecdotes are presented. There is...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/anecdotes-evidence-glen-alleman-ms-systems-management</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes are not EvidenceMay 22, 2021 — Anecdotal evidence is evidence where small numbers of anecdotes are presented. There is...</p></details>
    Published: May 22, 2021  
 
 6. <a id="endnote-6"></a>
    Source: nngroup.com  
    Title: responding skepticism small usability tests  
-   Link: [https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/](https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/)  
+   Link: <a href="https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/responding-skepticism-small-usability-tests/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupHow to Respond to Skepticism of Testing Small Groups...Feb 24, 2019 — Here are some techniques you can use to help t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/videos/maximize-user-research-insight/](https://www.nngroup.com/videos/maximize-user-research-insight/)  
+   Link: <a href="https://www.nngroup.com/videos/maximize-user-research-insight/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/maximize-user-research-insight/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nielsen Norman GroupHow to Maximize User Research Insight (Keynote address...Increase the reliability and validity of your research find...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nngroup.com  
    Title: Nielsen Norman Group First Rule of Usability?  
-   Link: [https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/](https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/)  
+   Link: <a href="https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Listen to UsersAug 4, 2001 — To design the best UX, pay attention to what users do, not what they say. Self-reported claims are unr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ora.ox.ac.uk  
-   Link: [https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38](https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38)  
+   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Adde0582a-6622-4dfa-a437-1acd4287f83d/files/m1091e3e599b0de15efdd4d05fd7dde38</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal reports, by which we mean either individual cases or small case series...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: philpharmblog.wordpress.com  
-   Link: [https://philpharmblog.wordpress.com/wp-content/uploads/2016/09/aronson.pdf](https://philpharmblog.wordpress.com/wp-content/uploads/2016/09/aronson.pdf)  
+   Link: <a href="https://philpharmblog.wordpress.com/wp-content/uploads/2016/09/aronson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpharmblog.wordpress.com/wp-content/uploads/2016/09/aronson.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Adverse Drug ReactionsIn this paper we detailed different types of between-the-eyes (or definitive) adverse drug reactions (Aronson JK...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence](https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence)  
+   Link: <a href="https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Anecdotes as evidenceWe need guidelines for reporting anecdotes of suspected adverse drug reactions... adverse reaction, listed on...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UXDesign/comments/1bodmk9/we_should_ignore_nn/](https://www.reddit.com/r/UXDesign/comments/1bodmk9/we_should_ignore_nn/)  
+   Link: <a href="https://www.reddit.com/r/UXDesign/comments/1bodmk9/we_should_ignore_nn/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/1bodmk9/we_should_ignore_nn/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We should ignore NN?: r/UXDesignWould love to have a discussion about this recent Medium article. I’ve not been following the personalit...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/](https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/)  
+   Link: <a href="https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UXDesign/comments/1h06d6l/is_nngroup_trustable/](https://www.reddit.com/r/UXDesign/comments/1h06d6l/is_nngroup_trustable/)  
+   Link: <a href="https://www.reddit.com/r/UXDesign/comments/1h06d6l/is_nngroup_trustable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UXDesign/comments/1h06d6l/is_nngroup_trustable/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nourishedbyscience.com  
    Title: Nourished by Science Is Anecdotal Evidence Valuable?  
-   Link: [https://nourishedbyscience.com/is-anecdotal-evidence-valuable-5-reasons-to-be-cautious/](https://nourishedbyscience.com/is-anecdotal-evidence-valuable-5-reasons-to-be-cautious/)  
+   Link: <a href="https://nourishedbyscience.com/is-anecdotal-evidence-valuable-5-reasons-to-be-cautious/" target="_blank" rel="noopener noreferrer nofollow">https://nourishedbyscience.com/is-anecdotal-evidence-valuable-5-reasons-to-be-cautious/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Reasons To be Cautious!10 Jun 2022 — So, the first big problem with anecdotes is that an anecdote doesn&#x27;t provide any data on how gener...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/videos/in-person-usability-testing/](https://www.nngroup.com/videos/in-person-usability-testing/)  
+   Link: <a href="https://www.nngroup.com/videos/in-person-usability-testing/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/in-person-usability-testing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rs unique benefits, such as building rapport, observing non-verbal cues...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/PhilosophyofScience/comments/1xys7o/why_is_anecdotal_evidence_considered_to_be/](https://www.reddit.com/r/PhilosophyofScience/comments/1xys7o/why_is_anecdotal_evidence_considered_to_be/)  
+   Link: <a href="https://www.reddit.com/r/PhilosophyofScience/comments/1xys7o/why_is_anecdotal_evidence_considered_to_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PhilosophyofScience/comments/1xys7o/why_is_anecdotal_evidence_considered_to_be/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>represent a statistical cross section accurately. matts2.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ovid.com  
    Title: When I use a word … Medical definitions  
-   Link: [https://www.ovid.com/journals/bmjd/fulltext/10.1136/bmj.p1032~when-i-use-a-word-medical-definitions-pharmacovigilance](https://www.ovid.com/journals/bmjd/fulltext/10.1136/bmj.p1032~when-i-use-a-word-medical-definitions-pharmacovigilance)  
+   Link: <a href="https://www.ovid.com/journals/bmjd/fulltext/10.1136/bmj.p1032~when-i-use-a-word-medical-definitions-pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/bmjd/fulltext/10.1136/bmj.p1032~when-i-use-a-word-medical-definitions-pharmacovigilance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJby JK Aronson · 2023 · Cited by 4 — It is not therefore surprising that a lot of information about adverse events in people taking med...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/videos/opinions-expert-design-review/](https://www.nngroup.com/videos/opinions-expert-design-review/)  
+   Link: <a href="https://www.nngroup.com/videos/opinions-expert-design-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/opinions-expert-design-review/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>identifying usability problems and strengths. Video Author...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nngroup.com  
-   Link: [https://www.nngroup.com/videos/dont-listen-to-customers/](https://www.nngroup.com/videos/dont-listen-to-customers/)  
+   Link: <a href="https://www.nngroup.com/videos/dont-listen-to-customers/" target="_blank" rel="noopener noreferrer nofollow">https://www.nngroup.com/videos/dont-listen-to-customers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You must watch what people actually do when using your...</p></details>

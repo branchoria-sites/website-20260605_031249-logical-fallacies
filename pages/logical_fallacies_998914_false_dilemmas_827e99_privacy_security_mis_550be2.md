@@ -284,7 +284,7 @@ Within the broader topic of [false dilemmas]({{ 'false-dilemma/' | relative_url 
 
 The privacy-security dilemma gains force from real-world fears. Governments face pressure to prevent terrorism, organised crime, cyberattacks, and other [threats]({{ 'threats/' | relative_url }}). At the same time, citizens worry about surveillance, misuse of personal information, and the chilling effects of excessive monitoring. Because both concerns are legitimate, arguments framed as an urgent choice between them can seem reasonable.
 
-Another reason the binary persists is that some security measures do require access to information that would otherwise remain private. Investigators may need communications records, location data, or financial information. From this observation, however, it does not automatically follow that broad or unchecked access is necessary. The leap from “some access may be needed” to “privacy must be sacrificed” is where the false dilemma often appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-snippet">VerfassungsblogThe legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</span><span class="citation-popover-meta">Published: April 21, 2022</span></span></span>
+Another reason the binary persists is that some security measures do require access to information that would otherwise remain private. Investigators may need communications records, location data, or financial information. From this observation, however, it does not automatically follow that broad or unchecked access is necessary. The leap from “some access may be needed” to “privacy must be sacrificed” is where the false dilemma often appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-snippet">The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</span><span class="citation-popover-meta">Published: April 21, 2022</span></span></span>
 
 Scholars have also noted that privacy and security are frequently treated as if they occupy opposite ends of a single scale. Yet privacy can itself contribute to security. Secure communications, strong authentication systems, and protected personal data help defend individuals, businesses, and governments against criminals and hostile actors. In that sense, privacy protections are sometimes part of a security strategy rather than an obstacle to one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlycommons.law.northwestern.edu">[Scholarly Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlycommons.law.northwestern.edu</span><span class="citation-popover-snippet">Scholarly CommonsPrivacy Versus Securityby DE Bambauer · 2013 · Cited by 146 — Legal scholarship tends to conflate privacy and security...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span>
 
@@ -311,7 +311,7 @@ International discussions about government access to private-sector data have in
 
 Auditing creates another middle option. Instead of assuming that authorities will always use powers appropriately, audit systems generate records that can later be reviewed.
 
-Privacy audits can evaluate whether organisations collected excessive data, retained information too long, or failed to implement promised safeguards. In government settings, audit trails can help ensure that surveillance tools are used only for authorised purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.compact.nl/articles/privacy-audits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compact.nl">[Compact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compact.nl</span><span class="citation-popover-snippet">CompactPrivacy auditsData privacy is an important management aspect and contributes to sustainable investments. It should therefore take...</span></span></span>
+Privacy audits can evaluate whether organisations collected excessive data, retained information too long, or failed to implement promised safeguards. In government settings, audit trails can help ensure that surveillance tools are used only for authorised purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.compact.nl/articles/privacy-audits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compact.nl">[Compact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compact.nl</span><span class="citation-popover-snippet">Privacy auditsData privacy is an important management aspect and contributes to sustainable investments. It should therefore take...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-2-dark.svg" | relative_url }}" alt="Privacy Security illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,7 +329,7 @@ Law-enforcement agencies frequently argue that strong encryption can impede inve
 
 The debate is therefore not simply about privacy. Strong encryption protects banking systems, healthcare records, government communications, critical infrastructure, and ordinary citizens from cybercrime. Several analyses have concluded that mandated backdoors or key-escrow systems would introduce systemic security risks alongside any investigative benefits. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internetsociety.org">[Internet Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internetsociety.org</span><span class="citation-popover-snippet">Internet SocietyThe Economic Impact of Laws that Weaken Encryption LECAby G Barker · 2021 — should accept security risks of encryption ba...</span></span></span>
 
-This does not mean that investigative challenges disappear. Instead, policymakers have explored alternatives such as targeted device access, improved digital forensics, international cooperation, specialised investigative capabilities, and judicially supervised access procedures. Whether these alternatives are sufficient remains contested, but their existence demonstrates that the policy landscape contains more than two choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">CSISThe Effect of Encryption on Lawful Access to...Our research found that the risk to public safety created by encryption has not reach...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">This stalemate has made it challenging to publicly discuss any potential compromise. Some insiders from government and big-tech companies...</span></span></span>
+This does not mean that investigative challenges disappear. Instead, policymakers have explored alternatives such as targeted device access, improved digital forensics, international cooperation, specialised investigative capabilities, and judicially supervised access procedures. Whether these alternatives are sufficient remains contested, but their existence demonstrates that the policy landscape contains more than two choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">The Effect of Encryption on Lawful Access to...Our research found that the risk to public safety created by encryption has not reach...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">This stalemate has made it challenging to publicly discuss any potential compromise. Some insiders from government and big-tech companies...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RRt08MvK4tE" title="Why You&#x27;re Misunderstanding Privacy (and How It Harms You)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RRt08MvK4tE" target="_blank" rel="noopener noreferrer">Why You&#x27;re Misunderstanding Privacy (and How It Harms You)</a></p><p class="youtube-embed-meta">Channel: Privacy Guides &middot; Views: 28.8K &middot; Uploaded: March 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RRt08MvK4tE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RRt08MvK4tE">Open on YouTube</a></p></div></div></div>
@@ -342,7 +342,7 @@ There are situations in which broader information access may improve investigati
 
 Debates surrounding intelligence collection programmes often revolve around precisely these questions. Disagreements may concern how much oversight is sufficient, whether [warrants]({{ 'warrants/' | relative_url }}) should be required, how incidental collection should be handled, or how long information should be retained. The existence of these disputes does not prove that privacy and security are mutually exclusive. Instead, it shows that balancing them requires continuous institutional design and democratic accountability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">national security agencies to conduct warrantless surveillance of foreign communications that may incidentally collect data from American...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interface-eu.org">[Interface]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interface-eu.org</span><span class="citation-popover-snippet">An International Compendium of Good Legal Safeguards and Oversight Innovations. By Thorsten Wetzling and Kilian Vieth...</span></span></span>
 
-A useful warning sign is language suggesting that one value must be abandoned entirely to preserve the other. Claims that privacy is an absolute barrier to safety, or that every security measure inevitably destroys liberty, usually oversimplify the available choices. Real policy debates tend to involve degrees, conditions, safeguards, and oversight rather than absolute positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-snippet">VerfassungsblogThe legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</span><span class="citation-popover-meta">Published: April 21, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Privacy vs</span><span class="citation-popover-snippet">Privacy vs. Security: It&#x27;s a False Dilemma6 Oct 2019 — Congress is the proper body to balance these risks—to reconcile individual privacy...</span></span></span>
+A useful warning sign is language suggesting that one value must be abandoned entirely to preserve the other. Claims that privacy is an absolute barrier to safety, or that every security measure inevitably destroys liberty, usually oversimplify the available choices. Real policy debates tend to involve degrees, conditions, safeguards, and oversight rather than absolute positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-snippet">The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</span><span class="citation-popover-meta">Published: April 21, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Privacy vs</span><span class="citation-popover-snippet">Privacy vs. Security: It&#x27;s a False Dilemma6 Oct 2019 — Congress is the proper body to balance these risks—to reconcile individual privacy...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-3-dark.svg" | relative_url }}" alt="Privacy Security illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -778,140 +778,140 @@ As a result, the key question is rarely whether privacy or security should win. 
 1. <a id="endnote-1"></a>
    Source: legalinstruments.oecd.org  
    Title: OECD LEGAL 0487  
-   Link: [https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487)  
+   Link: <a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: legalinstruments.oecd.org  
-   Link: [https://legalinstruments.oecd.org/en/instruments/114](https://legalinstruments.oecd.org/en/instruments/114)  
+   Link: <a href="https://legalinstruments.oecd.org/en/instruments/114" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/114</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Legal InstrumentsGuidelines Governing the Protection of Privacy and...The OECD Privacy Guidelines are the cornerstone of this work...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: verfassungsblog.de  
-   Link: [https://verfassungsblog.de/os6-privacy-vs-security/](https://verfassungsblog.de/os6-privacy-vs-security/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VerfassungsblogThe legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</p></details>
+   Link: <a href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/os6-privacy-vs-security/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</p></details>
    Published: April 21, 2022  
 
 4. <a id="endnote-4"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/policy-issues/privacy-and-data-protection.html](https://www.oecd.org/en/topics/policy-issues/privacy-and-data-protection.html)  
+   Link: <a href="https://www.oecd.org/en/topics/policy-issues/privacy-and-data-protection.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/privacy-and-data-protection.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy and data protectionProtecting people&#x27;s privacy ensures their safety, dignity, and other fundamental rights and freedoms such as f...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: compact.nl  
-   Link: [https://www.compact.nl/articles/privacy-audits/](https://www.compact.nl/articles/privacy-audits/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CompactPrivacy auditsData privacy is an important management aspect and contributes to sustainable investments. It should therefore take...</p></details>
+   Link: <a href="https://www.compact.nl/articles/privacy-audits/" target="_blank" rel="noopener noreferrer nofollow">https://www.compact.nl/articles/privacy-audits/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy auditsData privacy is an important management aspect and contributes to sustainable investments. It should therefore take...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: afapdp.org  
-   Link: [https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf](https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf)  
+   Link: <a href="https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.afapdp.org/wp-content/uploads/2018/06/oecd_privacy_framework.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and a condition for the free flow of personal...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/cybersecurity/article/1/1/69/2367066](https://academic.oup.com/cybersecurity/article/1/1/69/2367066)  
+   Link: <a href="https://academic.oup.com/cybersecurity/article/1/1/69/2367066" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/cybersecurity/article/1/1/69/2367066</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicKeys under doormats: mandating insecurity by requiring...by H Abelson · 2015 · Cited by 361 — Many of us came together then...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bsa.org  
-   Link: [https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf](https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf)  
+   Link: <a href="https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bsa.org/files/policy-filings/10032019bsaencryptionleapaper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encryption and Law Enforcement Access to Data3 Oct 2019 — It would weaken national security by enabling adversaries to exploit encryption...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: csis.org  
-   Link: [https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption](https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CSISThe Effect of Encryption on Lawful Access to...Our research found that the risk to public safety created by encryption has not reach...</p></details>
+   Link: <a href="https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Encryption on Lawful Access to...Our research found that the risk to public safety created by encryption has not reach...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement](https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement)  
+   Link: <a href="https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This stalemate has made it challenging to publicly discuss any potential compromise. Some insiders from government and big-tech companies...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scholarlycommons.law.northwestern.edu  
-   Link: [https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&[context](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&[context)  
+   Link: <a href="https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly CommonsPrivacy Versus Securityby DE Bambauer · 2013 · Cited by 146 — Legal scholarship tends to conflate privacy and security...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: crossborderdataforum.org  
-   Link: [https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/](https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/)  
+   Link: <a href="https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/" target="_blank" rel="noopener noreferrer nofollow">https://www.crossborderdataforum.org/lawfare-gentlemens-rules-for-reading-each-others-mail-the-new-oecd-principles-on-government-access-to-personal-data-held-by-private-sector-entities/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New OECD Principles on Government Access to...11 Jan 2023 — The recent OECD declaration demonstrates the surprising degree of common...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: internetsociety.org  
-   Link: [https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf](https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf)  
+   Link: <a href="https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.internetsociety.org/wp-content/uploads/2021/05/The_Economic_Impact_of_Laws_that_Weaken_Encryption-EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet SocietyThe Economic Impact of Laws that Weaken Encryption LECAby G Barker · 2021 — should accept security risks of encryption ba...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate](https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate)  
+   Link: <a href="https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/apr/15/fisa-surveillance-renewal-debate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>national security agencies to conduct warrantless surveillance of foreign communications that may incidentally collect data from American...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: interface-eu.org  
-   Link: [https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf](https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf)  
+   Link: <a href="https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.interface-eu.org/storage/archive/files/upping_the_ante_on_bulk_surveillance_v2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An International Compendium of Good Legal Safeguards and Oversight Innovations. By Thorsten Wetzling and Kilian Vieth...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wsj.com  
    Title: The Wall Street Journal Privacy vs  
-   Link: [https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477](https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477)  
+   Link: <a href="https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy vs. Security: It&#x27;s a False Dilemma6 Oct 2019 — Congress is the proper body to balance these risks—to reconcile individual privacy...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/national](https://dictionary.cambridge.org/us/dictionary/english/national)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| definition in the Cambridge English Dictionaryrelating to all parts of a nation or to a nation as a whole rather than to any part of it...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/national</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryrelating to all parts of a nation or to a nation as a whole rather than to any part of it...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389986954_Balancing_Surveillance_and_Privacy_Legal_Frameworks_Governing_Technology_in_the_Digital_Age](https://www.researchgate.net/publication/389986954_Balancing_Surveillance_and_Privacy_Legal_Frameworks_Governing_Technology_in_the_Digital_Age)  
+   Link: <a href="https://www.researchgate.net/publication/389986954_Balancing_Surveillance_and_Privacy_Legal_Frameworks_Governing_Technology_in_the_Digital_Age" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389986954_Balancing_Surveillance_and_Privacy_Legal_Frameworks_Governing_Technology_in_the_Digital_Age</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Frameworks Governing Technology in the Digital Age19 Mar 2025 — The study highlights the tension between national security objectiv...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: raeng.org.uk  
-   Link: [https://raeng.org.uk/media/2hwab54p/dilemmas_of_privacy_and_surveillance_report.pdf](https://raeng.org.uk/media/2hwab54p/dilemmas_of_privacy_and_surveillance_report.pdf)  
+   Link: <a href="https://raeng.org.uk/media/2hwab54p/dilemmas_of_privacy_and_surveillance_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raeng.org.uk/media/2hwab54p/dilemmas_of_privacy_and_surveillance_report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dilemmas of Privacy and SurveillanceThe laws protecting privacy need to be clarified in order to be more effective. As well as making the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/national](https://www.merriam-webster.com/dictionary/national)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/national" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/national</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NATIONAL Definition &amp; Meaning5 days ago — 1. of or relating to a nation; national [boundaries](&amp;#123;&amp;#123; &#x27;boundaries/&#x27; | relative_url &amp;#125;&amp;#125;); the national flag. 2. nationalist. 3. compr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/privacy-versus-security-users-choice](https://www.wired.com/story/privacy-versus-security-users-choice)  
+   Link: <a href="https://www.wired.com/story/privacy-versus-security-users-choice" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/privacy-versus-security-users-choice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2022, the idea that privacy must be sacrificed for security will be debunked, revealing the true extent of privacy intrusions by &quot;free...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dserver.bundestag.de  
-   Link: [https://dserver.bundestag.de/btd/18/CD12850/D_II_Sachverstaendigengutachten/14%20Gutachten%20Aldrich.pdf](https://dserver.bundestag.de/btd/18/CD12850/D_II_Sachverstaendigengutachten/14%20Gutachten%20Aldrich.pdf)  
+   Link: <a href="https://dserver.bundestag.de/btd/18/CD12850/D_II_Sachverstaendigengutachten/14%20Gutachten%20Aldrich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dserver.bundestag.de/btd/18/CD12850/D_II_Sachverstaendigengutachten/14%20Gutachten%20Aldrich.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK intelligence Community before and after Snowden3.The protection of privacy and civil liberties in the UK. 4. This needs to be consider...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nationaljournal.com  
-   Link: [https://www.nationaljournal.com/](https://www.nationaljournal.com/)  
+   Link: <a href="https://www.nationaljournal.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaljournal.com/</a>  
 
 24. <a id="endnote-24"></a>
    Source: thirdway.org  
-   Link: [https://www.thirdway.org/report/weakened-encryption-the-threat-to-americas-national-security.pdf](https://www.thirdway.org/report/weakened-encryption-the-threat-to-americas-national-security.pdf)  
+   Link: <a href="https://www.thirdway.org/report/weakened-encryption-the-threat-to-americas-national-security.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thirdway.org/report/weakened-encryption-the-threat-to-americas-national-security.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weakened Encryption: The Threat to America&#x27;s National...by M Eoyang · Cited by 5 — If backdoors were introduced into encrypted systems...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: insideprivacy.com  
    Title: revised oecd privacy guidelines strengthen accountability principle  
-   Link: [https://www.insideprivacy.com/international/revised-oecd-privacy-guidelines-strengthen-accountability-principle/](https://www.insideprivacy.com/international/revised-oecd-privacy-guidelines-strengthen-accountability-principle/)  
+   Link: <a href="https://www.insideprivacy.com/international/revised-oecd-privacy-guidelines-strengthen-accountability-principle/" target="_blank" rel="noopener noreferrer nofollow">https://www.insideprivacy.com/international/revised-oecd-privacy-guidelines-strengthen-accountability-principle/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revised OECD Privacy Guidelines Strengthen...23 Sept 2013 — The revised Guidelines introduce a number of new concepts and changes to the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: kas.de  
    Title: privacy and security a comparative constitutional law conversation  
-   Link: [https://www.kas.de/en/web/usa/single-title/-/content/privacy-and-security-a-comparative-constitutional-law-conversation](https://www.kas.de/en/web/usa/single-title/-/content/privacy-and-security-a-comparative-constitutional-law-conversation)  
+   Link: <a href="https://www.kas.de/en/web/usa/single-title/-/content/privacy-and-security-a-comparative-constitutional-law-conversation" target="_blank" rel="noopener noreferrer nofollow">https://www.kas.de/en/web/usa/single-title/-/content/privacy-and-security-a-comparative-constitutional-law-conversation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Konrad Adenauer StiftungPrivacy and Security: A Comparative Constitutional Law...26 Jun 2015 — On both sides of the Atlantic, debate ove...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w](https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w)  
+   Link: <a href="https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCeiRyLo_Q9q4tlv9aaQJF5w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalThe Official YouTube Page for the band The National. More The National - Rome (Full Album Fan Video) Rome - The Live Album...</p></details>

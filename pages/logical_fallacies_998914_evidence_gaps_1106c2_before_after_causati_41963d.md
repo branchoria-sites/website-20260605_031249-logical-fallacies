@@ -268,15 +268,15 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after
 
 ## Introduction
 
-A common persuasive move is simple: something changed, then an improvement followed, so the change is presented as the cause. A company launches a new policy and sales rise. A person starts a supplement and feels better. A government introduces a programme and unemployment falls. The timeline is real, but the conclusion may not be. This is a form of the false-cause fallacy often called *[post hoc]({{ 'post-hoc/' | relative_url }}) ergo propter hoc*—“after this, therefore because of this”. The mistake is not noticing that one event happened before another; it is treating timing alone as proof of causation. Causation requires evidence that the change actually produced the outcome and that rival explanations have been addressed. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">PMC - NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span>
+A common persuasive move is simple: something changed, then an improvement followed, so the change is presented as the cause. A company launches a new policy and sales rise. A person starts a supplement and feels better. A government introduces a programme and unemployment falls. The timeline is real, but the conclusion may not be. This is a form of the false-cause fallacy often called *[post hoc]({{ 'post-hoc/' | relative_url }}) ergo propter hoc*—“after this, therefore because of this”. The mistake is not noticing that one event happened before another; it is treating timing alone as proof of causation. Causation requires evidence that the change actually produced the outcome and that rival explanations have been addressed. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-1-dark.svg" | relative_url }}" alt="False Cause illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [evidence gaps]({{ 'evidence-gaps/' | relative_url }}) behind persuasive claims, before-and-after arguments are especially powerful because they feel intuitive. People naturally search for causes, and a clear sequence of events often feels like an explanation even when important evidence is missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Post Hoc Fallacy?</span><span class="citation-popover-snippet">| Examples &amp; DefinitionJune 26, 2024 — 26 Jun 2024 — The post hoc fallacy is a common error in reasoning in which one event is assumed to...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
+Within [evidence gaps]({{ 'evidence-gaps/' | relative_url }}) behind persuasive claims, before-and-after arguments are especially powerful because they feel intuitive. People naturally search for causes, and a clear sequence of events often feels like an explanation even when important evidence is missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Post Hoc Fallacy?</span><span class="citation-popover-snippet">Examples &amp; DefinitionJune 26, 2024 — 26 Jun 2024 — The post hoc fallacy is a common error in reasoning in which one event is assumed to...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
 
 ## Why Timing Alone Does Not Prove Cause
 
-The fact that an outcome occurred after an intervention is a necessary condition for causation, but it is not a sufficient one. If a treatment appears before recovery, that timing is compatible with the treatment causing recovery. It is also compatible with coincidence, natural recovery, measurement error, or some other factor producing the improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">PMC - NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> The core pattern looks like this:
+The fact that an outcome occurred after an intervention is a necessary condition for causation, but it is not a sufficient one. If a treatment appears before recovery, that timing is compatible with the treatment causing recovery. It is also compatible with coincidence, natural recovery, measurement error, or some other factor producing the improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> The core pattern looks like this:
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -287,9 +287,9 @@ The fact that an outcome occurred after an intervention is a necessary condition
 
 </div>
 
-The weakness lies in step three. The conclusion arrives before competing explanations have been tested. Britannica describes the post hoc fallacy as mistaking temporal sequence for causal connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/post-hoc-ergo-propter-hoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">post hoc ergo propter hoc</span><span class="citation-popover-snippet">Encyclopedia BritannicaPost hoc ergo propter hoc | fallacy13 May 2026 — Version of this fallacy, called post hoc ergo propter hoc (“after...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The weakness lies in step three. The conclusion arrives before competing explanations have been tested. Britannica describes the post hoc fallacy as mistaking temporal sequence for causal connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/post-hoc-ergo-propter-hoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">post hoc ergo propter hoc</span><span class="citation-popover-snippet">Encyclopedia BritannicaPost hoc ergo propter hoc &#124; fallacy13 May 2026 — Version of this fallacy, called post hoc ergo propter hoc (“after...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-Consider a patient who begins a new remedy during the worst phase of an illness and improves a week later. Improvement [after treatment]({{ 'after-treatment/' | relative_url }}) is compatible with the remedy working. But it is also compatible with the illness following its normal course. Without additional evidence, the timeline alone cannot distinguish between these possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Post Hoc Fallacy?</span><span class="citation-popover-snippet">| Examples &amp; DefinitionJune 26, 2024 — 26 Jun 2024 — The post hoc fallacy is a common error in reasoning in which one event is assumed to...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
+Consider a patient who begins a new remedy during the worst phase of an illness and improves a week later. Improvement [after treatment]({{ 'after-treatment/' | relative_url }}) is compatible with the remedy working. But it is also compatible with the illness following its normal course. Without additional evidence, the timeline alone cannot distinguish between these possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Post Hoc Fallacy?</span><span class="citation-popover-snippet">Examples &amp; DefinitionJune 26, 2024 — 26 Jun 2024 — The post hoc fallacy is a common error in reasoning in which one event is assumed to...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
 
 This is why many dramatic [testimonials]({{ 'testimonials/' | relative_url }}) are weaker evidence than they appear. A sincere report of “I did X and then I got better” demonstrates sequence, not necessarily causation.
 
@@ -326,11 +326,11 @@ A before-and-after claim often focuses on the most visible change while ignoring
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-2-dark.svg" | relative_url }}" alt="False Cause illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why These Arguments Are So Persuasive
 
-Before-and-after stories succeed because they match how people naturally understand the world. Humans are pattern-seeking. When two events occur in sequence, the mind readily constructs a narrative linking them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Post Hoc Fallacy?</span><span class="citation-popover-snippet">| Examples &amp; DefinitionJune 26, 2024 — 26 Jun 2024 — The post hoc fallacy is a common error in reasoning in which one event is assumed to...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
+Before-and-after stories succeed because they match how people naturally understand the world. Humans are pattern-seeking. When two events occur in sequence, the mind readily constructs a narrative linking them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Post Hoc Fallacy?</span><span class="citation-popover-snippet">Examples &amp; DefinitionJune 26, 2024 — 26 Jun 2024 — The post hoc fallacy is a common error in reasoning in which one event is assumed to...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
 
 Several factors strengthen the illusion:
 
-* **[Personal experience]({{ 'experience/' | relative_url }}) feels convincing.** First-hand observation often seems more trustworthy than abstract statistics.
+* **Personal [experience]({{ 'experience/' | relative_url }}) feels convincing.** First-hand observation often seems more trustworthy than abstract statistics.
 * **Simple stories are memorable.** “I changed one thing and everything improved” is easier to remember than a complex explanation involving several causes.
 * **Success receives more attention than failure.** People often hear from those who improved after an intervention, not from those whose outcomes stayed the same.
 * **Coincidences are easy to overinterpret.** When a positive result follows a deliberate action, the action naturally receives credit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.org/blog/what-is-the-post-hoc-fallacy-vaccine-fears-correlation-vs-causation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.org">[centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.org</span><span class="citation-popover-title">What Is The Post Hoc Fallacy</span><span class="citation-popover-snippet">Vaccine Fears, Correlation...6 Apr 2015 — The appearance of causation may simply be coincidence; or A may have caused B, or B may have c...</span></span></span>
@@ -364,7 +364,7 @@ Some conditions improve naturally. Some markets recover naturally. Some trends r
 
 ### What Evidence Connects Cause to Effect?
 
-A credible causal claim usually offers more than chronology. It may provide controlled comparisons, repeated observations, a plausible mechanism, or evidence that alternative explanations have been tested and found inadequate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">PMC - NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span>
+A credible causal claim usually offers more than chronology. It may provide controlled comparisons, repeated observations, a plausible mechanism, or evidence that alternative explanations have been tested and found inadequate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xpWR_bo44ac" title="False Cause Fallacy Example" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xpWR_bo44ac" target="_blank" rel="noopener noreferrer">False Cause Fallacy Example</a></p><p class="youtube-embed-meta">Channel: Philosophy Vibe &middot; Views: 18.2K &middot; Uploaded: January 2021 &middot; Length: 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xpWR_bo44ac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xpWR_bo44ac">Open on YouTube</a></p></div></div></div>
@@ -373,7 +373,7 @@ A credible causal claim usually offers more than chronology. It may provide cont
 
 Before-and-after claims often sound persuasive because they provide a neat story: change first, improvement second. Yet timing alone establishes sequence, not causation. The central evidence gap is the absence of proof that the outcome would not have occurred without the intervention.
 
-A stronger causal argument must go beyond chronology. It must address comparison groups, natural variation, regression towards the mean, competing explanations, and the possibility of coincidence. When those questions remain unanswered, “it happened after” is not the same as “it happened because of.” Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">PMC - NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span>
+A stronger causal argument must go beyond chronology. It must address comparison groups, natural variation, regression towards the mean, competing explanations, and the possibility of coincidence. When those questions remain unanswered, “it happened after” is not the same as “it happened because of.” Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -797,128 +797,128 @@ A stronger causal argument must go beyond chronology. It must address comparison
 1. <a id="endnote-1"></a>
    Source: britannica.com  
    Title: post hoc ergo propter hoc  
-   Link: [https://www.britannica.com/topic/post-hoc-ergo-propter-hoc](https://www.britannica.com/topic/post-hoc-ergo-propter-hoc)  
+   Link: <a href="https://www.britannica.com/topic/post-hoc-ergo-propter-hoc" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/post-hoc-ergo-propter-hoc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaPost hoc ergo propter hoc | fallacy13 May 2026 — Version of this fallacy, called post hoc ergo propter hoc (“after...</p></details>
    Published: May 2026  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPost hoc ergo propter hoc  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribbr.com  
    Title: post hoc fallacy  
-   Link: [https://www.scribbr.com/fallacies/post-hoc-fallacy/](https://www.scribbr.com/fallacies/post-hoc-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/post-hoc-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</p></details>
    Published: May 2023  
 
 4. <a id="endnote-4"></a>
    Source: quillbot.com  
    Title: What Is Post Hoc Fallacy?  
-   Link: [https://quillbot.com/blog/reasoning/post-hoc-fallacy/](https://quillbot.com/blog/reasoning/post-hoc-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Examples &amp; DefinitionJune 26, 2024 — 26 Jun 2024 — The post hoc fallacy is a common error in reasoning in which one event is assumed to...</p></details>
+   Link: <a href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/post-hoc-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; DefinitionJune 26, 2024 — 26 Jun 2024 — The post hoc fallacy is a common error in reasoning in which one event is assumed to...</p></details>
    Published: June 26, 2024  
 
 5. <a id="endnote-5"></a>
    Source: centerforinquiry.org  
    Title: What Is The Post Hoc Fallacy  
-   Link: [https://centerforinquiry.org/blog/what-is-the-post-hoc-fallacy-vaccine-fears-correlation-vs-causation/](https://centerforinquiry.org/blog/what-is-the-post-hoc-fallacy-vaccine-fears-correlation-vs-causation/)  
+   Link: <a href="https://centerforinquiry.org/blog/what-is-the-post-hoc-fallacy-vaccine-fears-correlation-vs-causation/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/what-is-the-post-hoc-fallacy-vaccine-fears-correlation-vs-causation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vaccine Fears, Correlation...6 Apr 2015 — The appearance of causation may simply be coincidence; or A may have caused B, or B may have c...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Regression toward the mean  
-   Link: [https://en.wikipedia.org/wiki/Regression_toward_the_mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean)  
+   Link: <a href="https://en.wikipedia.org/wiki/Regression_toward_the_mean" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Regression_toward_the_mean</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Regression fallacy  
-   Link: [https://en.wikipedia.org/wiki/Regression_fallacy](https://en.wikipedia.org/wiki/Regression_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Regression_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Regression_fallacy</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Questionable cause  
-   Link: [https://en.wikipedia.org/wiki/Questionable_cause](https://en.wikipedia.org/wiki/Questionable_cause)  
+   Link: <a href="https://en.wikipedia.org/wiki/Questionable_cause" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Questionable_cause</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Correlation does not imply causation  
-   Link: [https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Post hoc ergo propter hoc  
-   Link: [https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)  
+   Link: <a href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Post hoc ergo propter hocPost hoc ergo propter hoc is an informal fallacy that states &quot;Because event Y followed event X, event Y must...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: study.com  
    Title: Post Hoc Fallacy | Definition & Examples  
-   Link: [https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html](https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html)  
+   Link: <a href="https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoThe post hoc fallacy is a fallacy that assumes a cause-and-effect relationship without evidence. It is an argument that one event di...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: legal-resources.uslegalforms.com  
    Title: post hoc ergo propter hoc  
-   Link: [https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc](https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc)  
+   Link: <a href="https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hoc Ergo Propter Hoc: Understanding the FallacyThe term &quot;post hoc ergo propter hoc&quot; is a Latin phrase that translates to &quot;after this, the...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ffreethinkers/posts/10157549772972188/](https://www.facebook.com/groups/ffreethinkers/posts/10157549772972188/)  
+   Link: <a href="https://www.facebook.com/groups/ffreethinkers/posts/10157549772972188/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ffreethinkers/posts/10157549772972188/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation does not imply causationPost hoc ergo propter hoc fallacy: A fallacy commonly made of correlation: Causation does not necessa...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: study.com  
-   Link: [https://study.com/learn/lesson/post-hoc-fallacy.html](https://study.com/learn/lesson/post-hoc-fallacy.html)  
+   Link: <a href="https://study.com/learn/lesson/post-hoc-fallacy.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/post-hoc-fallacy.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Post Hoc, Oversimplification &amp; Correlation Causation FallacyPost hoc is a fallacy because it suggests that one event happening before ano...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: abi.org  
-   Link: [https://www.abi.org/feed-item/logical-fallacy-and-the-law-post-hoc-ergo-propter-hoc](https://www.abi.org/feed-item/logical-fallacy-and-the-law-post-hoc-ergo-propter-hoc)  
+   Link: <a href="https://www.abi.org/feed-item/logical-fallacy-and-the-law-post-hoc-ergo-propter-hoc" target="_blank" rel="noopener noreferrer nofollow">https://www.abi.org/feed-item/logical-fallacy-and-the-law-post-hoc-ergo-propter-hoc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Latin for the fallacy of reasoning of &quot;after this, therefore because of this.&quot; This episode from West Wing assumes that at...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: afterall.net  
    Title: The fallacy is committed when it is assumed that  
-   Link: [https://afterall.net/illogic/causal/post-hoc/](https://afterall.net/illogic/causal/post-hoc/)  
+   Link: <a href="https://afterall.net/illogic/causal/post-hoc/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/causal/post-hoc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Post Hoc, or Correlation Ain&#x27;t Causation | Illogic at Afterall.net1 Jan 2026 — The name in Latin, post hoc ergo propter hoc, means “after...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: Anyway, I am having trouble differentiating  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/](https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Difference between non causa pro causa &amp; post hoc ergo...Hello, I am in the process of reviewing [logical fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) as a reminder to find...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-false-causeaka-mistaking-correlation-for-causation-post-hoc-e/498215735234044/](https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-false-causeaka-mistaking-correlation-for-causation-post-hoc-e/498215735234044/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-false-causeaka-mistaking-correlation-for-causation-post-hoc-e/498215735234044/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-false-causeaka-mistaking-correlation-for-causation-post-hoc-e/498215735234044/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>correlation equals causation. Oftentimes, correlations happen by...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: [https://www.youtube.com/watch?v=5A7hSaoRv0g](https://www.youtube.com/watch?v=5A7hSaoRv0g)  
+   Link: <a href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5A7hSaoRv0g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Post Hoc Ergo Propter Hoc (Easiest 3-Minute Explanation)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Fallacies: Post Hoc Ergo Propter Hoc  
-   Link: [https://www.youtube.com/watch?v=UNuWpJODsYg](https://www.youtube.com/watch?v=UNuWpJODsYg)  
+   Link: <a href="https://www.youtube.com/watch?v=UNuWpJODsYg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UNuWpJODsYg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation vs Causation Explained: Why Patterns Can Mislead Us...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Correlation vs Causation Explained: Why Patterns Can Mislead Us  
-   Link: [https://www.youtube.com/watch?v=ofweqU0Lz4I](https://www.youtube.com/watch?v=ofweqU0Lz4I)  
+   Link: <a href="https://www.youtube.com/watch?v=ofweqU0Lz4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ofweqU0Lz4I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Cause Fallacy Example...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Post Hoc Ergo Propter Hoc (Easiest 3-Minute Explanation)  
-   Link: [https://www.youtube.com/watch?v=c9TyRXd_S7U](https://www.youtube.com/watch?v=c9TyRXd_S7U)  
+   Link: <a href="https://www.youtube.com/watch?v=c9TyRXd_S7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c9TyRXd_S7U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Post Hoc Ergo Propter Hoc...</p></details>

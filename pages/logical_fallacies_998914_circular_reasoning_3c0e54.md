@@ -507,15 +507,15 @@ Circular reasoning and unsupported conclusions are central [mechanisms]({{ 'mech
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-overview.webp" | relative_url }}" alt="Overview image for Circularity" loading="eager" decoding="sync" fetchpriority="high">
 ## Begging the Question: When the Argument Presumes Its Conclusion
 
-A classic way circularity shows up in reasoning is through the fallacy called **begging the question**, also known by its Latin name *petitio principii*. Here, one of the premises in an argument assumes the very claim that the argument is supposed to establish. In other words, the argument never gets off the ground because it starts by presuming what it is meant to demonstrate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrBegging the Question Fallacy | Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+A classic way circularity shows up in reasoning is through the fallacy called **begging the question**, also known by its Latin name *petitio principii*. Here, one of the premises in an argument assumes the very claim that the argument is supposed to establish. In other words, the argument never gets off the ground because it starts by presuming what it is meant to demonstrate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Begging the Question Fallacy &#124; Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
-In its simplest form, begging the question can look like a tautology: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrBegging the Question Fallacy | Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+In its simplest form, begging the question can look like a tautology: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Begging the Question Fallacy &#124; Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
 > *“God exists because the Bible says so, and the Bible is true because it is the word of God.”*
 
-In this example, the premise doesn’t offer independent evidence for God’s existence; it merely appeals to a source whose authority itself depends on the claim being established. This gives the illusion of support while introducing no new information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrBegging the Question Fallacy | Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
+In this example, the premise doesn’t offer independent evidence for God’s existence; it merely appeals to a source whose authority itself depends on the claim being established. This gives the illusion of support while introducing no new information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Begging the Question Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Begging the Question Fallacy &#124; Definition &amp; ExamplesMay 31, 2023...</span><span class="citation-popover-meta">Published: May 31, 2023</span></span></span>
 
-More subtle instances disguise the circularity behind rephrasing, [loaded language]({{ 'loaded-words/' | relative_url }}), or unstated assumptions. For example, saying “Opium puts people to sleep because it contains soporific properties” is circular because *soporific* literally means “sleep-inducing,” so the reason and the conclusion are effectively the same claim in different words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.logicalfallacies.org/begging-the-question.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicalfallacies.org">[logicalfallacies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicalfallacies.org</span><span class="citation-popover-title">Begging The Question</span><span class="citation-popover-snippet">Definition &amp; Examples | LF...</span></span></span>
+More subtle instances disguise the circularity behind rephrasing, loaded language, or unstated assumptions. For example, saying “Opium puts people to sleep because it contains soporific properties” is circular because *soporific* literally means “sleep-inducing,” so the reason and the conclusion are effectively the same claim in different words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.logicalfallacies.org/begging-the-question.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicalfallacies.org">[logicalfallacies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicalfallacies.org</span><span class="citation-popover-title">Begging The Question</span><span class="citation-popover-snippet">Definition &amp; Examples &#124; LF...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-1-dark.svg" | relative_url }}" alt="Circularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -550,7 +550,7 @@ For example, saying:
 
 > *“This news source is reliable because it only publishes accurate stories, and we know the stories are accurate because the source is reliable.”*
 
-presents a loop: reliability is supported by accuracy and accuracy by reliability. Unless some external, independently justified evidence about accuracy or reliability is offered, the argument never leaves the loop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly</span><span class="citation-popover-snippet">RebutlyCircular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly...</span></span></span>
+presents a loop: reliability is supported by accuracy and accuracy by reliability. Unless some external, independently justified evidence about accuracy or reliability is offered, the argument never leaves the loop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
 
 This lack of independent evidence is what distinguishes mere repetition from genuine support. It is why circular reasoning is treated as a fallacy in [informal logic]({{ 'informal-logic/' | relative_url }}): it fails to advance understanding or justify belief beyond what the audience already assumes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
@@ -560,7 +560,7 @@ This lack of independent evidence is what distinguishes mere repetition from gen
 
 Despite often being *valid* in the strict formal sense — if the premises are true, then the conclusion is also true — circular arguments are weak as explanations or justifications because they provide no *reason* to accept the premises other than already believing the conclusion. In informal logic, this is what makes them *fallacious*: the argument fails to connect *why* something should be accepted to any evidence or reasoning external to the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
-This is why writers and debaters are encouraged to ask whether premises would still be persuasive to someone who doubts the conclusion. If not, the argument may be merely circular rather than genuinely supportive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly</span><span class="citation-popover-snippet">RebutlyCircular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly...</span></span></span>
+This is why writers and debaters are encouraged to ask whether premises would still be persuasive to someone who doubts the conclusion. If not, the argument may be merely circular rather than genuinely supportive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-3-dark.svg" | relative_url }}" alt="Circularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -577,7 +577,7 @@ Recognising circular reasoning often involves:(#endnote-1 "Endnote 1") <span cla
 
 </div>
 
-Being alert to these patterns helps distinguish between arguments that *justify* a conclusion and those that merely *reflect* it back on itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly</span><span class="citation-popover-snippet">RebutlyCircular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly...</span></span></span>
+Being alert to these patterns helps distinguish between arguments that *justify* a conclusion and those that merely *reflect* it back on itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
 
 Circular reasoning and unsupported conclusions remind us that good argumentation requires premises that stand on their own, not just mirrors of what we’re trying to prove. Without such independent support, an argument may seem persuasive but ultimately fails to do the work of genuine reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
@@ -1007,127 +1007,127 @@ Circular reasoning and unsupported conclusions remind us that good argumentation
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Circular reasoning  
-   Link: [https://en.wikipedia.org/wiki/Circular_reasoning](https://en.wikipedia.org/wiki/Circular_reasoning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circular_reasoning</a>  
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: Begging the Question Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.com/fallacies/begging-the-question-fallacy/](https://www.scribbr.com/fallacies/begging-the-question-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrBegging the Question Fallacy | Definition &amp; ExamplesMay 31, 2023...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/begging-the-question-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the Question Fallacy | Definition &amp; ExamplesMay 31, 2023...</p></details>
    Published: May 31, 2023  
 
 3. <a id="endnote-3"></a>
    Source: logicalfallacies.org  
    Title: Begging The Question  
-   Link: [https://www.logicalfallacies.org/begging-the-question.html](https://www.logicalfallacies.org/begging-the-question.html)  
+   Link: <a href="https://www.logicalfallacies.org/begging-the-question.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/begging-the-question.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LF...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: rebutly.com  
    Title: Circular Reasoning Fallacy — Definition, Examples & How to Counter | Rebutly  
-   Link: [https://rebutly.com/fallacies/circular-reasoning](https://rebutly.com/fallacies/circular-reasoning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RebutlyCircular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly...</p></details>
+   Link: <a href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://rebutly.com/fallacies/circular-reasoning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter | Rebutly...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: logical-fallacy.com  
    Title: Begging the Question  
-   Link: [https://www.logical-fallacy.com/articles/begging-the-question/](https://www.logical-fallacy.com/articles/begging-the-question/)  
+   Link: <a href="https://www.logical-fallacy.com/articles/begging-the-question/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/begging-the-question/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples - Logical FallacyNovember 3, 2020 — BEGGING THE QUESTION - DEFINITION AND EXAMPLES 2020-11-03 DEFINITION Begging...</p></details>
    Published: November 3, 2020  
 
 6. <a id="endnote-6"></a>
    Source: logical-fallacy.com  
    Title: Circular Reasoning  
-   Link: [https://www.logical-fallacy.com/articles/circular-reasoning/](https://www.logical-fallacy.com/articles/circular-reasoning/)  
+   Link: <a href="https://www.logical-fallacy.com/articles/circular-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/circular-reasoning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples - Logical FallacyOctober 2, 2020 — CIRCULAR REASONING - DEFINITION AND EXAMPLES 2020-10-02 What we detect CONTENT...</p></details>
    Published: October 2, 2020  
 
 7. <a id="endnote-7"></a>
    Source: logicalfallacies.org  
    Title: Circular Reasoning  
-   Link: [https://www.logicalfallacies.org/circular-reasoning.html](https://www.logicalfallacies.org/circular-reasoning.html)  
+   Link: <a href="https://www.logicalfallacies.org/circular-reasoning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/circular-reasoning.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LFCIRCULAR REASONING informal Fallacy The fallacy of circular reasoning occurs when a person assumes the truth of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Begging the Question Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-begging-the-question-fallacy/](https://www.scribbr.co.uk/fallacy/the-begging-the-question-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrBegging the Question Fallacy | Definition &amp; ExamplesJune 1, 2023...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-begging-the-question-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-begging-the-question-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the Question Fallacy | Definition &amp; ExamplesJune 1, 2023...</p></details>
    Published: June 1, 2023  
 
 9. <a id="endnote-9"></a>
    Source: fallacyfiles.org  
    Title: Fallacy Files Logical Fallacy: Begging the Question  
-   Link: [https://www.fallacyfiles.org/begquest.html](https://www.fallacyfiles.org/begquest.html)  
+   Link: <a href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/begquest.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: scribbr.co.uk  
    Title: Circular Reasoning Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/circular-reasoning/](https://www.scribbr.co.uk/fallacy/circular-reasoning/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/circular-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/circular-reasoning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revised on 21 August 2023. The circular reasoning fallacy is an argument that assumes the very t...</p></details>
    Published: August 2023  
 
 11. <a id="endnote-11"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/circular.html](https://philosophy.lander.edu/logic/circular.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/circular.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Principii, Circular Argument, Begging the QuestionIMAGEPETITIO PRINCIPII (Begging the Question or Circular Argument) Abstract: Petitio pr...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/circular-argument](https://www.britannica.com/topic/circular-argument)  
+   Link: <a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular argument | Definition, History, Examples, &amp; Facts | BritannicaCIRCULAR ARGUMENT logic Also known as: begging the question, petit...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/begging-the-question](https://fallacyguide.com/fallacies/begging-the-question)  
+   Link: <a href="https://fallacyguide.com/fallacies/begging-the-question" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/begging-the-question</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SummaryExplanationPatternWhy it mattersExamplesOften Confused WithFAQFurther Reading PresumptionAKA: Circular Reasoning THE BEGGING THE Q...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: fallacies.online  
    Title: Take for example the following statement: > The Bible is God’s W  
-   Link: [https://fallacies.online/wiki/logic/formal_fallacies/circular_reasoning](https://fallacies.online/wiki/logic/formal_fallacies/circular_reasoning)  
+   Link: <a href="https://fallacies.online/wiki/logic/formal_fallacies/circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/circular_reasoning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoning – Fallacies OnlineJanuary 25, 2023 — CIRCULAR REASONING A form of logical fallacy in which the position that still has...</p></details>
    Published: January 25, 2023  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Critical Thinking #16: Begging the Question  
-   Link: [https://www.youtube.com/watch?v=N6U56pMc4_s](https://www.youtube.com/watch?v=N6U56pMc4_s)  
+   Link: <a href="https://www.youtube.com/watch?v=N6U56pMc4_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N6U56pMc4_s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoning begging the question fallacy Simpsons [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;): Circular Reasoning Colburn Classroom...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10503-024-09640-1](https://link.springer.com/article/10.1007/s10503-024-09640-1)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10503-024-09640-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-024-09640-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Around in Circles | Argumentation | Springer Nature LinkNovember 29, 2024 — GOING AROUND IN CIRCLES Begging the Question and the Structur...</p></details>
    Published: November 29, 2024  
 
 17. <a id="endnote-17"></a>
    Source: asa3.org  
-   Link: [https://www.asa3.org/ASA/education/think/circular.htm](https://www.asa3.org/ASA/education/think/circular.htm)  
+   Link: <a href="https://www.asa3.org/ASA/education/think/circular.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.asa3.org/ASA/education/think/circular.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In this fallacy...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Are you Begging the Question?  
-   Link: [https://www.youtube.com/watch?v=OAXKc-rvMa8](https://www.youtube.com/watch?v=OAXKc-rvMa8)  
+   Link: <a href="https://www.youtube.com/watch?v=OAXKc-rvMa8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OAXKc-rvMa8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking #16: Begging the Question...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Circular reasoning and begging the question  
-   Link: [https://www.youtube.com/watch?v=3aizAxS5Fm0](https://www.youtube.com/watch?v=3aizAxS5Fm0)  
+   Link: <a href="https://www.youtube.com/watch?v=3aizAxS5Fm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3aizAxS5Fm0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are you Begging the Question? - Gentleman Thinker...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: What is Circular Reasoning?  
-   Link: [https://www.youtube.com/watch?v=YyigEEx5194](https://www.youtube.com/watch?v=YyigEEx5194)  
+   Link: <a href="https://www.youtube.com/watch?v=YyigEEx5194" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YyigEEx5194</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoning and begging the question...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Simpsons Logical Fallacies: Circular Reasoning  
-   Link: [https://www.youtube.com/watch?v=hH8VttNKiO8](https://www.youtube.com/watch?v=hH8VttNKiO8)  
+   Link: <a href="https://www.youtube.com/watch?v=hH8VttNKiO8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hH8VttNKiO8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Circular Reasoning?...</p></details>

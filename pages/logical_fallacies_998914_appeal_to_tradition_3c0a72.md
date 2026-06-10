@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:34:10'
 parent_title: Fallacy Lab
 parent_permalink: /logical-fallacies/
 parent_nav_short_title: Fallacy Lab
@@ -492,7 +493,6 @@ next_link:
   permalink: /tu-quoque/
   short_title: Tu Quoque
   heading_title: Does Hypocrisy Refute the Claim?
-date: '2026-06-05 01:34:10 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-overview-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-overview.webp
@@ -505,7 +505,7 @@ Appeal to tradition is the mistake of treating age, custom or familiarity as pro
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-overview.webp" | relative_url }}" alt="Overview image for Tradition" loading="eager" decoding="sync" fetchpriority="high">
-Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), appeal to tradition is best understood as a failure of support. The conclusion may still turn out to be true, but the reason offered is too weak: “old” does not automatically mean “good”, “familiar” does not automatically mean “safe”, and “customary” does not automatically mean “justified”. Informal logic is especially useful here because the mistake depends on context, not on a simple invalid formula; [informal fallacies]({{ 'informal-logic/' | relative_url }}) often turn on content, purpose and the role an argument is playing in a real discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesSo, informal fallacies are errors of reasoning that cannot easily be expressed in our standar...</span></span></span>
+Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), appeal to tradition is best understood as a failure of support. The conclusion may still turn out to be true, but the reason offered is too weak: “old” does not automatically mean “good”, “familiar” does not automatically mean “safe”, and “customary” does not automatically mean “justified”. [Informal logic]({{ 'informal-logic/' | relative_url }}) is especially useful here because the mistake depends on context, not on a simple invalid formula; informal fallacies often turn on content, purpose and the role an argument is playing in a real discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesSo, informal fallacies are errors of reasoning that cannot easily be expressed in our standar...</span></span></span>
 
 ## Why tradition can look like evidence
 
@@ -557,7 +557,7 @@ This is why fallacy identification should be careful rather than automatic. The 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-2-dark.svg" | relative_url }}" alt="Tradition illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why familiar practices feel safer than new ones
 
-Appeal to tradition has psychological help. People do not evaluate old and new practices from a neutral starting line. Behavioural research on status quo bias shows that people often disproportionately stick with an existing option simply because it is the current one. Samuelson and Zeckhauser’s influential work described real decisions as commonly including a “do nothing” or “maintain the current decision” option, and found that people tend to favour that status quo in both experiments and consequential choices such as health plans and retirement programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Status quo bias in decision making</span><span class="citation-popover-snippet">Status quo bias in decision making</span></span></span>
+Appeal to tradition has psychological help. People do not evaluate old and new practices from a neutral starting line. Behavioural research on [status quo]({{ 'status-quo/' | relative_url }}) bias shows that people often disproportionately stick with an existing option simply because it is the current one. Samuelson and Zeckhauser’s influential work described real decisions as commonly including a “do nothing” or “maintain the current decision” option, and found that people tend to favour that status quo in both experiments and consequential choices such as health plans and retirement programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Status quo bias in decision making</span><span class="citation-popover-snippet">Status quo bias in decision making</span></span></span>
 
 Familiarity can also feel like liking. Robert Zajonc’s research on the mere-exposure effect proposed that repeated exposure to a stimulus can improve attitudes towards it. That does not mean every familiar thing is preferred forever, or that people are helplessly biased by repetition. It does help explain why a familiar practice can feel more reasonable before anyone has compared outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psy.lmu.de">[psy.lmu.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psy.lmu.de</span><span class="citation-popover-title">mere exposure effect</span><span class="citation-popover-snippet">mere exposure effect</span></span></span>
 
@@ -1040,196 +1040,196 @@ Old can mean tested. It can mean meaningful. It can mean resilient. It can also 
 1. <a id="endnote-1"></a>
    Source: chesterton.org  
    Title: taking a fence down  
-   Link: [https://www.chesterton.org/taking-a-fence-down/](https://www.chesterton.org/taking-a-fence-down/)  
+   Link: <a href="https://www.chesterton.org/taking-a-fence-down/" target="_blank" rel="noopener noreferrer nofollow">https://www.chesterton.org/taking-a-fence-down/</a>  
 
 2. <a id="endnote-2"></a>
    Source: philarchive.org  
    Title: Phil Archive A Partnership for the Ages  
-   Link: [https://philarchive.org/archive/DEEAPF](https://philarchive.org/archive/DEEAPF)  
+   Link: <a href="https://philarchive.org/archive/DEEAPF" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/DEEAPF</a>  
 
 3. <a id="endnote-3"></a>
    Source: quillbot.com  
    Title: appeal to tradition fallacy  
-   Link: [https://quillbot.com/blog/reasoning/appeal-to-tradition-fallacy/](https://quillbot.com/blog/reasoning/appeal-to-tradition-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/appeal-to-tradition-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/appeal-to-tradition-fallacy/</a>  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
    Title: Status quo bias in decision making  
-   Link: [https://link.springer.com/article/10.1007/BF00055564](https://link.springer.com/article/10.1007/BF00055564)  
+   Link: <a href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF00055564</a>  
 
 5. <a id="endnote-5"></a>
    Source: psy.lmu.de  
    Title: mere exposure effect  
-   Link: [https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf](https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf)  
+   Link: <a href="https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHistory of evidence-based medicine  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3263217/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3263217/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3263217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3263217/</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMedical Reversal: Why We Must Raise the Bar Before  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3238324/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3238324/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3238324/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3238324/</a>  
 
 9. <a id="endnote-9"></a>
    Source: philarchive.org  
-   Link: [https://philarchive.org/archive/PATROI](https://philarchive.org/archive/PATROI)  
+   Link: <a href="https://philarchive.org/archive/PATROI" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/PATROI</a>  
 
 10. <a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-94-024-2252-8_40](https://link.springer.com/rwe/10.1007/978-94-024-2252-8_40)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-94-024-2252-8_40" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-94-024-2252-8_40</a>  
 
 11. <a id="endnote-11"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: [https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/](https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/)  
+   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Appeal to Tradition | Logical Fallacies  
-   Link: [http://www.youtube.com/watch?v=5jiTWnyliQY](http://www.youtube.com/watch?v=5jiTWnyliQY)  
+   Link: <a href="http://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=5jiTWnyliQY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: Appeal To Tradition...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesSo, informal fallacies are errors of reasoning that cannot easily be expressed in our standar...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: fs.blog  
    Title: Farnam Street Chesterton's Fence: A Lesson in Thinking  
-   Link: [https://fs.blog/chestertons-fence/](https://fs.blog/chestertons-fence/)  
+   Link: <a href="https://fs.blog/chestertons-fence/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/chestertons-fence/</a>  
 
 15. <a id="endnote-15"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition</a>  
 
 16. <a id="endnote-16"></a>
    Source: mayoclinicproceedings.org  
-   Link: [https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext](https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext)  
+   Link: <a href="https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext</a>  
 
 17. <a id="endnote-17"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
 18. <a id="endnote-18"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Appeal to tradition  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_tradition](https://en.wikipedia.org/wiki/Appeal_to_tradition)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_tradition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_tradition</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Status quo bias  
-   Link: [https://en.wikipedia.org/wiki/Status_quo_bias](https://en.wikipedia.org/wiki/Status_quo_bias)  
+   Link: <a href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Status_quo_bias</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Edmund Burke  
-   Link: [https://en.wikipedia.org/wiki/Edmund_Burke](https://en.wikipedia.org/wiki/Edmund_Burke)  
+   Link: <a href="https://en.wikipedia.org/wiki/Edmund_Burke" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edmund_Burke</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Ignaz Semmelweis  
-   Link: [https://en.wikipedia.org/wiki/Ignaz_Semmelweis](https://en.wikipedia.org/wiki/Ignaz_Semmelweis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ignaz_Semmelweis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ignaz_Semmelweis</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Medical reversal  
-   Link: [https://en.wikipedia.org/wiki/Medical_reversal](https://en.wikipedia.org/wiki/Medical_reversal)  
+   Link: <a href="https://en.wikipedia.org/wiki/Medical_reversal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Medical_reversal</a>  
 
 24. <a id="endnote-24"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kooky/logical-fallacies-d01c742385ea](https://medium.com/%40kooky/logical-fallacies-d01c742385ea)  
+   Link: <a href="https://medium.com/%40kooky/logical-fallacies-d01c742385ea" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kooky/logical-fallacies-d01c742385ea</a>  
 
 25. <a id="endnote-25"></a>
    Source: bol.com  
-   Title: [informal logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: [https://www.bol.com/nl/nl/f/informal-logic/30049280/](https://www.bol.com/nl/nl/f/informal-logic/30049280/)  
+   Title: informal logic  
+   Link: <a href="https://www.bol.com/nl/nl/f/informal-logic/30049280/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/f/informal-logic/30049280/</a>  
 
 26. <a id="endnote-26"></a>
    Source: logicalfallacies.org  
    Title: Appeal To Tradition  
-   Link: [https://www.logicalfallacies.org/appeal-to-tradition.html](https://www.logicalfallacies.org/appeal-to-tradition.html)  
+   Link: <a href="https://www.logicalfallacies.org/appeal-to-tradition.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/appeal-to-tradition.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 28. <a id="endnote-28"></a>
    Source: prezi.com  
    Title: Appeal to Tradition  
-   Link: [https://prezi.com/p/w6z5asybsczo/appeal-to-tradition/](https://prezi.com/p/w6z5asybsczo/appeal-to-tradition/)  
+   Link: <a href="https://prezi.com/p/w6z5asybsczo/appeal-to-tradition/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/p/w6z5asybsczo/appeal-to-tradition/</a>  
 
 29. <a id="endnote-29"></a>
    Source: socialcognition.trubox.ca  
    Title: status quo bias  
-   Link: [https://socialcognition.trubox.ca/2024/03/13/status-quo-bias/](https://socialcognition.trubox.ca/2024/03/13/status-quo-bias/)  
+   Link: <a href="https://socialcognition.trubox.ca/2024/03/13/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://socialcognition.trubox.ca/2024/03/13/status-quo-bias/</a>  
 
 30. <a id="endnote-30"></a>
    Source: logical-fallacy.com  
    Title: Appeal to Tradition  
-   Link: [https://www.logical-fallacy.com/articles/appeal-to-tradition/](https://www.logical-fallacy.com/articles/appeal-to-tradition/)  
+   Link: <a href="https://www.logical-fallacy.com/articles/appeal-to-tradition/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/appeal-to-tradition/</a>  
 
 31. <a id="endnote-31"></a>
    Source: thethinkers.house  
    Title: Appeal to Tradition  
-   Link: [https://thethinkers.house/appeal-to-tradition/](https://thethinkers.house/appeal-to-tradition/)  
+   Link: <a href="https://thethinkers.house/appeal-to-tradition/" target="_blank" rel="noopener noreferrer nofollow">https://thethinkers.house/appeal-to-tradition/</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: STAR TREK Logical Thinking #7  
-   Link: [http://www.youtube.com/watch?v=uIaYrXRLzSA](http://www.youtube.com/watch?v=uIaYrXRLzSA)  
+   Link: <a href="http://www.youtube.com/watch?v=uIaYrXRLzSA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uIaYrXRLzSA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Tradition (Argumentum ad Antiquitatem) Fallacy...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Old Trap | Appeal to Tradition Fallacy  
-   Link: [http://www.youtube.com/watch?v=3h2h1Q7H6zU](http://www.youtube.com/watch?v=3h2h1Q7H6zU)  
+   Link: <a href="http://www.youtube.com/watch?v=3h2h1Q7H6zU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3h2h1Q7H6zU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to tradition fallacy Appeal to Tradition | Logical Fallacies Eternal Thinker...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Logical Fallacies: Appeal To Tradition  
-   Link: [http://www.youtube.com/watch?v=YiWm9PxIPQM](http://www.youtube.com/watch?v=YiWm9PxIPQM)  
+   Link: <a href="http://www.youtube.com/watch?v=YiWm9PxIPQM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YiWm9PxIPQM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STAR TREK Logical Thinking #7 - Argumentum Ad Antiquitam (Appeal to Tradition)...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making](https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making)  
+   Link: <a href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making</a>  
 
 37. <a id="endnote-37"></a>
    Source: sfu.ca  
-   Link: [https://www.sfu.ca/~swartz/walton/walton.htm](https://www.sfu.ca/~swartz/walton/walton.htm)  
+   Link: <a href="https://www.sfu.ca/~swartz/walton/walton.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/~swartz/walton/walton.htm</a>  
 
 38. <a id="endnote-38"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40fallacyinlogic/appeal-to-tradition-fallacy-definition-and-examples-df533e6cce5e](https://medium.com/%40fallacyinlogic/appeal-to-tradition-fallacy-definition-and-examples-df533e6cce5e)  
+   Link: <a href="https://medium.com/%40fallacyinlogic/appeal-to-tradition-fallacy-definition-and-examples-df533e6cce5e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40fallacyinlogic/appeal-to-tradition-fallacy-definition-and-examples-df533e6cce5e</a>  
 
 39. <a id="endnote-39"></a>
    Source: newdirection.online  
-   Link: [https://newdirection.online/the-european-journal/article/burke_and_the_breaking_of_the_social_contract](https://newdirection.online/the-european-journal/article/burke_and_the_breaking_of_the_social_contract)  
+   Link: <a href="https://newdirection.online/the-european-journal/article/burke_and_the_breaking_of_the_social_contract" target="_blank" rel="noopener noreferrer nofollow">https://newdirection.online/the-european-journal/article/burke_and_the_breaking_of_the_social_contract</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/v2zci3/cmv_i_disagree_with_chestertons_fence/](https://www.reddit.com/r/changemyview/comments/v2zci3/cmv_i_disagree_with_chestertons_fence/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/v2zci3/cmv_i_disagree_with_chestertons_fence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/v2zci3/cmv_i_disagree_with_chestertons_fence/</a>  
 
 41. <a id="endnote-41"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/chestertons-fence-principle-thoughtful-change-peopledriven-ppzoc](https://www.linkedin.com/pulse/chestertons-fence-principle-thoughtful-change-peopledriven-ppzoc)  
+   Link: <a href="https://www.linkedin.com/pulse/chestertons-fence-principle-thoughtful-change-peopledriven-ppzoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/chestertons-fence-principle-thoughtful-change-peopledriven-ppzoc</a>  

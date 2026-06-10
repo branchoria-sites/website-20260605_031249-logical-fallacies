@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:19:16'
 parent_title: Are Definitions Moving to Escape Evidence? | Fallacy Lab
 parent_permalink: /no-true/
 parent_nav_short_title: No True
@@ -265,7 +266,6 @@ next_link:
   permalink: /porridge-case/
   short_title: Porridge Case
   heading_title: Why the Porridge Example Still Works
-date: '2026-06-05 02:19:16 '
 header:
   og_image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasiv
 
 ## Introduction
 
-Arguments do not always change people’s minds by presenting new facts. Sometimes they change the meaning of a valued word while keeping its positive emotional appeal intact. A speaker may redefine a term such as “freedom”, “democracy”, “science”, or “justice” so that it now favours a particular position, yet continue to rely on the respect and approval that the original word already carries. Philosophers call this a *persuasive definition*: a redefinition that alters a word’s descriptive [boundaries]({{ 'boundaries/' | relative_url }}) while preserving its favourable or unfavourable emotional force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/mind/article-abstract/XLVII/187/331/1032607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic IV.—PERSUASIVE DEFINITIONS | Mind</span><span class="citation-popover-snippet">OUP AcademicIV.—PERSUASIVE DEFINITIONS | Mind - Oxford Academicby CL STEVENSON · 1938 · Cited by 317 — CHARLES LESLIE STEVENSON; IV.—PERS...</span></span></span>
+Arguments do not always change people’s minds by presenting new facts. Sometimes they change the meaning of a valued word while keeping its positive emotional appeal intact. A speaker may redefine a term such as “freedom”, “democracy”, “science”, or “justice” so that it now favours a particular position, yet continue to rely on the respect and approval that the original word already carries. Philosophers call this a *persuasive definition*: a redefinition that alters a word’s descriptive [boundaries]({{ 'boundaries/' | relative_url }}) while preserving its favourable or unfavourable emotional force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/mind/article-abstract/XLVII/187/331/1032607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic IV.—PERSUASIVE DEFINITIONS &#124; Mind</span><span class="citation-popover-snippet">OUP AcademicIV.—PERSUASIVE DEFINITIONS &#124; Mind - Oxford Academicby CL STEVENSON · 1938 · Cited by 317 — CHARLES LESLIE STEVENSON; IV.—PERS...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-1-dark.svg" | relative_url }}" alt="Persuasive Words illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -732,7 +732,7 @@ The audience often hears two messages at once:
 
 Because the emotional approval arrives bundled with the definition, the argument can bypass careful examination. Researchers in argumentation theory describe persuasive definitions as combining classification claims with value judgments, allowing a definitional change to influence how people evaluate a situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/594" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.uwindsor.ca">[University of Windsor Journal Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.uwindsor.ca</span><span class="citation-popover-snippet">University of Windsor Journal PublishingPersuasive Definitions: Values, Meanings and Implicit...by F Macagno · 2008 · Cited by 44 — Pers...</span></span></span>
 
-This is one reason persuasive definitions often appear near the boundary between rhetoric and fallacy. Not every persuasive definition is automatically illegitimate, but it becomes suspect when the definitional shift substitutes for evidence rather than supporting it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Deceptive Arguments Containing Persuasive Language</span><span class="citation-popover-snippet">ResearchGateDeceptive Arguments Containing Persuasive Language...June 1, 2005 — Using persuasive definitions and persuasive language gen...</span><span class="citation-popover-meta">Published: June 1, 2005</span></span></span>
+This is one reason persuasive definitions often appear near the boundary between rhetoric and fallacy. Not every persuasive definition is automatically illegitimate, but it becomes suspect when the definitional shift substitutes for evidence rather than supporting it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Deceptive Arguments Containing Persuasive Language</span><span class="citation-popover-snippet">Deceptive Arguments Containing Persuasive Language...June 1, 2005 — Using persuasive definitions and persuasive language gen...</span><span class="citation-popover-meta">Published: June 1, 2005</span></span></span>
 
 ## Freedom, Democracy, and Science as Contested Labels
 
@@ -758,7 +758,7 @@ The word “science” carries authority, credibility, and intellectual prestige
 
 One argument may imply that only conclusions supporting a particular methodology count as “real science”. Another may redefine science so broadly that nearly any preferred claim can be included. In each case, the speaker benefits from the positive standing of science while simultaneously changing the criteria for membership. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
 
-The pattern resembles [No True Scotsman]({{ 'no-true/' | relative_url }}) reasoning when inconvenient examples are excluded from the category after the fact. However, the focus here is not primarily on protecting a universal claim from counterexamples. It is on attaching approval or disapproval to a revised definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+The pattern resembles [No True]({{ 'no-true/' | relative_url }}) Scotsman reasoning when inconvenient examples are excluded from the category after the fact. However, the focus here is not primarily on protecting a universal claim from counterexamples. It is on attaching approval or disapproval to a revised definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WX3kEZymh44" title="Types of Definitions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WX3kEZymh44" target="_blank" rel="noopener noreferrer">Types of Definitions</a></p><p class="youtube-embed-meta">Channel: Michael Gavin &middot; Views: 40.6K &middot; Uploaded: September 2016 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WX3kEZymh44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WX3kEZymh44">Open on YouTube</a></p></div></div></div>
@@ -800,198 +800,198 @@ These questions separate the emotional appeal of a term from the descriptive cri
 
 ## The Core Insight
 
-Persuasive definitions succeed by borrowing the reputation of a respected word while quietly changing what the word covers. The audience hears the familiar approval attached to terms such as freedom, democracy, or science and may not notice that the boundaries of the concept have shifted. The result is a subtle form of argumentative leverage: a value judgment is smuggled into a definition and then presented as if it were merely a matter of language. Recognising that move helps keep debates focused on the underlying issues rather than on [emotionally charged]({{ 'charged-labels/' | relative_url }}) labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+Persuasive definitions succeed by borrowing the reputation of a respected word while quietly changing what the word covers. The audience hears the familiar approval attached to terms such as freedom, democracy, or science and may not notice that the boundaries of the concept have shifted. The result is a subtle form of argumentative leverage: a value judgment is smuggled into a definition and then presented as if it were merely a matter of language. Recognising that move helps keep debates focused on the underlying issues rather than on emotionally [charged labels]({{ 'charged-labels/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/stevenson/](https://plato.stanford.edu/entries/stevenson/)  
+   Link: <a href="https://plato.stanford.edu/entries/stevenson/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/stevenson/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCharles Leslie Stevenson - Stanford Encyclopedia of Philosophyby D Boisvert · 2011 · Cited by 7 — Pers...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academic.oup.com  
    Title: Academic IV.—PERSUASIVE DEFINITIONS | Mind  
-   Link: [https://academic.oup.com/mind/article-abstract/XLVII/187/331/1032607](https://academic.oup.com/mind/article-abstract/XLVII/187/331/1032607)  
+   Link: <a href="https://academic.oup.com/mind/article-abstract/XLVII/187/331/1032607" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/mind/article-abstract/XLVII/187/331/1032607</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicIV.—PERSUASIVE DEFINITIONS | Mind - Oxford Academicby CL STEVENSON · 1938 · Cited by 317 — CHARLES LESLIE STEVENSON; IV.—PERS...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: philpapers.org  
    Title: Phil Papers Persuasive definition  
-   Link: [https://philpapers.org/rec/ABEPD](https://philpapers.org/rec/ABEPD)  
+   Link: <a href="https://philpapers.org/rec/ABEPD" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/ABEPD</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Andrew Aberdeinby A Aberdein · 1998 · Cited by 27 — Charles Stevenson introduced the term &#x27;persuasive definition&#x27; to describe a suspect f...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Persuasive definition  
-   Link: [https://en.wikipedia.org/wiki/Persuasive_definition](https://en.wikipedia.org/wiki/Persuasive_definition)  
+   Link: <a href="https://en.wikipedia.org/wiki/Persuasive_definition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Persuasive_definition</a>  
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/win2013/entries/stevenson/](https://plato.stanford.edu/archives/win2013/entries/stevenson/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2013/entries/stevenson/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2013/entries/stevenson/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCharles Leslie Stevenson - Stanford Encyclopedia of PhilosophyApr 15, 2011 — The emotive meaning of a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: encyclopedia.pub  
-   Link: [https://encyclopedia.pub/entry/36976](https://encyclopedia.pub/entry/36976)  
+   Link: <a href="https://encyclopedia.pub/entry/36976" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/36976</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Charles Stevenson | Encyclopedia MDPI29 Nov 2022 — In his papers &quot;The Emotive Meaning of Ethical Terms&quot; (1937) and &quot;Persuasive Definition...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate Deceptive Arguments Containing Persuasive Language  
-   Link: [https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions](https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateDeceptive Arguments Containing Persuasive Language...June 1, 2005 — Using persuasive definitions and persuasive language gen...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deceptive Arguments Containing Persuasive Language...June 1, 2005 — Using persuasive definitions and persuasive language gen...</p></details>
    Published: June 1, 2005  
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2016/entries/stevenson/](https://plato.stanford.edu/archives/fall2016/entries/stevenson/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2016/entries/stevenson/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2016/entries/stevenson/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leslie Stevenson - Stanford Encyclopedia of Philosophy15 Apr 2011 — 1938a, “Ethical Judgments and Avoidability,” reprinted in Stevenson 1...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: thick ethical concepts  
-   Link: [https://plato.stanford.edu/entries/thick-ethical-concepts/](https://plato.stanford.edu/entries/thick-ethical-concepts/)  
+   Link: <a href="https://plato.stanford.edu/entries/thick-ethical-concepts/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/thick-ethical-concepts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethical Concepts - Stanford Encyclopedia of Philosophyby P Väyrynen · 2016 · Cited by 255 — Thick concepts, the general class of which in...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
    Title: moral motivation  
-   Link: [https://plato.stanford.edu/archives/win2021/entries/moral-motivation/](https://plato.stanford.edu/archives/win2021/entries/moral-motivation/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2021/entries/moral-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2021/entries/moral-motivation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Motivation - Stanford Encyclopedia of Philosophy19 Oct 2006 — Stevenson, C., 1944, Ethics and Language, New Haven: Yale University Press...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: moore moral  
-   Link: [https://plato.stanford.edu/entries/moore-moral/](https://plato.stanford.edu/entries/moore-moral/)  
+   Link: <a href="https://plato.stanford.edu/entries/moore-moral/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/moore-moral/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduMoore&#x27;s Moral Philosophyby T Hurka · 2005 · Cited by 88 — For him the central moral concept was “ought,” and he defined good...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/[emotion](https://plato.stanford.edu/entries/[emotion)  
+   Link: <a href="https://plato.stanford.edu/entries/[emotion" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/[emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby A Scarantino · 2018 · Cited by 530 — Emotions have historically been conceptualized in one of three...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: moral cognitivism  
-   Link: [https://plato.stanford.edu/archives/fall2007/entries/moral-cognitivism/](https://plato.stanford.edu/archives/fall2007/entries/moral-cognitivism/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2007/entries/moral-cognitivism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2007/entries/moral-cognitivism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitivism vs. Non-CognitivismJan 23, 2004 — Some theorists who view themselves as emotivists suggest that even the most general terms o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
    Title: disagreement moral  
-   Link: [https://plato.stanford.edu/entries/disagreement-moral/](https://plato.stanford.edu/entries/disagreement-moral/)  
+   Link: <a href="https://plato.stanford.edu/entries/disagreement-moral/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/disagreement-moral/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That much can be agreed by all theorists. What is debated is rather what it...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Charles Stevenson (philosopher)  
-   Link: [https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29](https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</p></details>
    Published: June 27, 1908  
 
 17. <a id="endnote-17"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/sep/stevenson/](https://philpapers.org/sep/stevenson/)  
+   Link: <a href="https://philpapers.org/sep/stevenson/" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/sep/stevenson/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Linked bibliography for the SEP articleWorks by C. L. Stevenson Cited in This Article. 1937, “The Emotive Meaning of Ethical Terms,” repr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ojs.uwindsor.ca  
-   Link: [https://ojs.uwindsor.ca/index.php/informal_logic/article/view/594](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/594)  
+   Link: <a href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/594" target="_blank" rel="noopener noreferrer nofollow">https://ojs.uwindsor.ca/index.php/informal_logic/article/view/594</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Windsor Journal PublishingPersuasive Definitions: Values, Meanings and Implicit...by F Macagno · 2008 · Cited by 44 — Pers...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is a kind of error in reasoning. The list of fallacies below contains 231 names of the most common fallacies, and it provides brief expla...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: philarchive.org  
-   Link: [https://philarchive.org/archive/MACPDV](https://philarchive.org/archive/MACPDV)  
+   Link: <a href="https://philarchive.org/archive/MACPDV" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/MACPDV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Persuasive Definitions:by F Macagno · 2008 · Cited by 44 — Abstract: The purpose of this paper is to inquire into the relationship betwee...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical FallaciesFallacies are fake or deceptive arguments, &quot;junk cognition,&quot; that is, arguments that seem irrefutable but prove...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/72768566.pdf](https://core.ac.uk/download/pdf/72768566.pdf)  
+   Link: <a href="https://core.ac.uk/download/pdf/72768566.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/72768566.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Persuasive Definitionby A Aberdein · 1998 · Cited by 27 — Abstract: Charles Stevenson introduced the term &#x27;persuasive definition&#x27; to desc...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scribbr.com  
    Title: logical fallacy  
-   Link: [https://www.scribbr.com/fallacies/logical-fallacy/](https://www.scribbr.com/fallacies/logical-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/logical-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies | Definition, Types, List &amp; Examples20 Apr 2023 — A logical fallacy is an argument that may sound convincing or true bu...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: uwindsor.scholaris.ca  
    Title: ca Persuasive Definition  
-   Link: [https://uwindsor.scholaris.ca/items/6ce1e409-c67d-42f7-b0a2-f5fabeb78a8e](https://uwindsor.scholaris.ca/items/6ce1e409-c67d-42f7-b0a2-f5fabeb78a8e)  
+   Link: <a href="https://uwindsor.scholaris.ca/items/6ce1e409-c67d-42f7-b0a2-f5fabeb78a8e" target="_blank" rel="noopener noreferrer nofollow">https://uwindsor.scholaris.ca/items/6ce1e409-c67d-42f7-b0a2-f5fabeb78a8e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition - Scholarship at UWindsorby A Aberdein · 2014 · Cited by 27 — Charles Stevenson introduced the term &#x27;persuasive definition&#x27; to...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: discovery.researcher.life  
-   Link: [https://discovery.researcher.life/article/iv-persuasive-definitions/cedccc860f5a3da4bf71bdf609d5ae3f](https://discovery.researcher.life/article/iv-persuasive-definitions/cedccc860f5a3da4bf71bdf609d5ae3f)  
+   Link: <a href="https://discovery.researcher.life/article/iv-persuasive-definitions/cedccc860f5a3da4bf71bdf609d5ae3f" target="_blank" rel="noopener noreferrer nofollow">https://discovery.researcher.life/article/iv-persuasive-definitions/cedccc860f5a3da4bf71bdf609d5ae3f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>researcher.lifeIV.—PERSUASIVE DEFINITIONSThis paper examines the role of persuasive definitions in philosophical and rhetorical contexts...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: studeersnel.nl  
-   Link: [https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/reasoning-and-arguing/all-fallacies-by-definition-ra/74615010](https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/reasoning-and-arguing/all-fallacies-by-definition-ra/74615010)  
+   Link: <a href="https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/reasoning-and-arguing/all-fallacies-by-definition-ra/74615010" target="_blank" rel="noopener noreferrer nofollow">https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/reasoning-and-arguing/all-fallacies-by-definition-ra/74615010</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>examples. Freedom rule - “Parties must not prevent each other from putting forward standpoints or casting doubt on...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/39908519/The_Definist_Fallacy_Winning_21st_Century_Political_Battles_by_Orwellian_Redefinition_of_Words](https://www.academia.edu/39908519/The_Definist_Fallacy_Winning_21st_Century_Political_Battles_by_Orwellian_Redefinition_of_Words)  
+   Link: <a href="https://www.academia.edu/39908519/The_Definist_Fallacy_Winning_21st_Century_Political_Battles_by_Orwellian_Redefinition_of_Words" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/39908519/The_Definist_Fallacy_Winning_21st_Century_Political_Battles_by_Orwellian_Redefinition_of_Words</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Definist Fallacy: Winning 21st-Century Political Battles...The definist fallacy manipulates definitions to gain political leverage i...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: tehredblur.medium.com  
    Title: fallacies from the dictionary 9eddfad76389  
-   Link: [https://tehredblur.medium.com/fallacies-from-the-dictionary-9eddfad76389](https://tehredblur.medium.com/fallacies-from-the-dictionary-9eddfad76389)  
+   Link: <a href="https://tehredblur.medium.com/fallacies-from-the-dictionary-9eddfad76389" target="_blank" rel="noopener noreferrer nofollow">https://tehredblur.medium.com/fallacies-from-the-dictionary-9eddfad76389</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Dictionary - Inquisitive Nok - MediumIt is invoked when one deliberately uses words and phrases with strong and often negative c...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: philosophyalevel.com  
-   Title: [informal fallacies](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) examples  
-   Link: [https://philosophyalevel.com/posts/informal-fallacies-examples/](https://philosophyalevel.com/posts/informal-fallacies-examples/)  
+   Title: informal fallacies examples  
+   Link: <a href="https://philosophyalevel.com/posts/informal-fallacies-examples/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/informal-fallacies-examples/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Fallacies: 15 Common Examples of Faulty...31 May 2023 — Informal fallacies are errors in reasoning that depend on [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;), not...</p></details>
    Published: May 2023  
 
 30. <a id="endnote-30"></a>
    Source: lindsey.edu  
-   Link: [https://www.lindsey.edu/academics/img/writing-center-pdfs/introduction-fallacies.pdf](https://www.lindsey.edu/academics/img/writing-center-pdfs/introduction-fallacies.pdf)  
+   Link: <a href="https://www.lindsey.edu/academics/img/writing-center-pdfs/introduction-fallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lindsey.edu/academics/img/writing-center-pdfs/introduction-fallacies.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to FallaciesA fallacy is an illogical step in the formulation of an argument. An argument in academic writing is essentially...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: forskning.ruc.dk  
-   Link: [https://forskning.ruc.dk/files/99462701/Rhetorical-Argumentation-The-Copenhagen-School-1685896827.pdf](https://forskning.ruc.dk/files/99462701/Rhetorical-Argumentation-The-Copenhagen-School-1685896827.pdf)  
+   Link: <a href="https://forskning.ruc.dk/files/99462701/Rhetorical-Argumentation-The-Copenhagen-School-1685896827.pdf" target="_blank" rel="noopener noreferrer nofollow">https://forskning.ruc.dk/files/99462701/Rhetorical-Argumentation-The-Copenhagen-School-1685896827.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentation: The Copenhagen Schooldefinition of rhetoric as “the faculty of observing in any given case the available means of persuasi...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: www2.hawaii.edu  
    Title: chapt4 EL am  
-   Link: [https://www2.hawaii.edu/~pine/EL/chapt4-EL-am.pdf](https://www2.hawaii.edu/~pine/EL/chapt4-EL-am.pdf)  
+   Link: <a href="https://www2.hawaii.edu/~pine/EL/chapt4-EL-am.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.hawaii.edu/~pine/EL/chapt4-EL-am.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4: INFORMAL FALLACIES IHere is our definition: A logical fallacy is an argument that is usually psychologically persuasive but logically...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: www2.hawaii.edu  
    Title: chap2EL 2  
-   Link: [https://www2.hawaii.edu/~pine/Book2/chap2EL-2.html](https://www2.hawaii.edu/~pine/Book2/chap2EL-2.html)  
+   Link: <a href="https://www2.hawaii.edu/~pine/Book2/chap2EL-2.html" target="_blank" rel="noopener noreferrer nofollow">https://www2.hawaii.edu/~pine/Book2/chap2EL-2.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LogicThose who support freedom and democracy do not support absolute freedom.... For those that are not arguments, label each as a descr...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Fallacy: Persuasive Definition  
-   Link: [https://www.youtube.com/watch?v=ldC_t4ULG2I](https://www.youtube.com/watch?v=ldC_t4ULG2I)  
+   Link: <a href="https://www.youtube.com/watch?v=ldC_t4ULG2I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ldC_t4ULG2I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Persuasive (Pseudo)Definitions - Logical Semiotics 12...</p></details>

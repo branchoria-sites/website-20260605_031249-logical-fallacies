@@ -272,7 +272,7 @@ image: /assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_bandw
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_bandwagon_ads_popula_4e8fd8-Illustration-1-dark.svg" | relative_url }}" alt="Bandwagon Ads illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_bandwagon_ads_popula_4e8fd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_bandwagon_ads_popula_4e8fd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader family of [advertising fallacies]({{ 'advertising/' | relative_url }}), the bandwagon approach treats social acceptance as if it were proof. Popularity can indicate awareness, availability, fashion, market dominance or customer satisfaction, but it cannot by itself establish that a product is superior, safer, healthier or better value. Understanding that distinction helps consumers separate evidence of uptake from evidence of performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionFTC Policy Statement Regarding Advertising SubstantiationJune 24, 2014 — Advertisers substantiate express and imp...</span><span class="citation-popover-meta">Published: June 24, 2014</span></span></span>
+Within the broader family of advertising fallacies, the bandwagon approach treats social acceptance as if it were proof. Popularity can indicate awareness, availability, fashion, market dominance or customer satisfaction, but it cannot by itself establish that a product is superior, safer, healthier or better value. Understanding that distinction helps consumers separate evidence of uptake from evidence of performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionFTC Policy Statement Regarding Advertising SubstantiationJune 24, 2014 — Advertisers substantiate express and imp...</span><span class="citation-popover-meta">Published: June 24, 2014</span></span></span>
 
 ## What Popularity Claims Really Show
 
@@ -296,7 +296,7 @@ Several factors can drive popularity:
 
 The key point is that popularity is an outcome, not an explanation. A product can become popular for reasons unrelated to quality. Conversely, excellent products sometimes remain niche because they have limited marketing, distribution or brand recognition.
 
-Advertising research helps explain why popularity cues are so influential. Large-scale field experiments have found that even simple social signals associated with advertisements can increase engagement and response rates. People often treat evidence that others have chosen something as information about what they themselves should choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/227396836_Social_Influence_in_Social_Advertising_Evidence_from_Field_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Social Influence in Social Advertising: Evidence from Field</span><span class="citation-popover-snippet">ResearchGateSocial Influence in Social Advertising: Evidence from Field...June 19, 2012 — We conduct two very large field experiments th...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/2229012.2229027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibrarySocial influence in social advertising | Proceedings of the...4 Jun 2012 — We conduct two very large field experiment...</span></span></span>
+Advertising research helps explain why popularity cues are so influential. Large-scale field experiments have found that even simple social signals associated with advertisements can increase engagement and response rates. People often treat evidence that others have chosen something as information about what they themselves should choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/227396836_Social_Influence_in_Social_Advertising_Evidence_from_Field_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Social Influence in Social Advertising: Evidence from Field</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field...June 19, 2012 — We conduct two very large field experiments th...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/2229012.2229027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibrarySocial influence in social advertising &#124; Proceedings of the...4 Jun 2012 — We conduct two very large field experiment...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WeGl8ASNmro" title="Making Millions From Doing One Thing‼️ - David, Donni &amp; Billionaire B #392" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WeGl8ASNmro" target="_blank" rel="noopener noreferrer">Making Millions From Doing One Thing‼️ - David, Donni &amp; Billionaire B #392</a></p><p class="youtube-embed-meta">Channel: Social Proof &middot; Views: 16.7K &middot; Uploaded: September 2023 &middot; Length: 1 hour 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WeGl8ASNmro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WeGl8ASNmro">Open on YouTube</a></p></div></div></div>
@@ -329,7 +329,7 @@ When people lack expertise, they frequently rely on the behaviour of others as a
 
 Advertisers exploit this tendency because it reduces the effort required to evaluate a product. Instead of examining ingredients, specifications, safety data or performance testing, consumers can rely on the apparent judgement of the crowd.
 
-Research on social advertising demonstrates that cues linked to peers or social connections can measurably affect consumer behaviour. The effect is often stronger when the social cue comes from people perceived as similar, familiar or trustworthy. MIT Initiative on the Digital Economy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/227396836_Social_Influence_in_Social_Advertising_Evidence_from_Field_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Social Influence in Social Advertising: Evidence from Field</span><span class="citation-popover-snippet">ResearchGateSocial Influence in Social Advertising: Evidence from Field...June 19, 2012 — We conduct two very large field experiments th...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[3arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field...by E Bakshy · 2012 · Cited by 432 — We conduct two very large field experi...</span></span></span>
+Research on social advertising demonstrates that cues linked to peers or social connections can measurably affect consumer behaviour. The effect is often stronger when the social cue comes from people perceived as similar, familiar or trustworthy. MIT Initiative on the Digital Economy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/227396836_Social_Influence_in_Social_Advertising_Evidence_from_Field_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Social Influence in Social Advertising: Evidence from Field</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field...June 19, 2012 — We conduct two very large field experiments th...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[3arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field...by E Bakshy · 2012 · Cited by 432 — We conduct two very large field experi...</span></span></span>
 
 The fact that a cue is persuasive, however, does not mean that it is logically sufficient. A crowd can be informative while still being wrong, uninformed or influenced by factors unrelated to product quality.
 
@@ -368,7 +368,7 @@ This matters because popularity language often sits near the boundary between fa
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* “Best-selling” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/advice-online/types-of-claims-best-selling.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">types of claims best selling</span><span class="citation-popover-snippet">ASATypes of claims: &quot;Best-selling&quot;11 Apr 2025 — In most cases, “best-selling” claims are likely to be understood as comparisons with iden...</span></span></span>
+* “Best-selling” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/advice-online/types-of-claims-best-selling.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">types of claims best selling</span><span class="citation-popover-snippet">Types of claims: &quot;Best-selling&quot;11 Apr 2025 — In most cases, “best-selling” claims are likely to be understood as comparisons with iden...</span></span></span>
 * “Number 1”
 * “Leading brand”
 * “Most customers”
@@ -830,154 +830,154 @@ That limitation is what makes bandwagon advertising a recurring logical fallacy.
 
 1. <a id="endnote-1"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/advice-online/substantiation.html](https://www.asa.org.uk/advice-online/substantiation.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/substantiation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/substantiation.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Substantiation - ASA12 Mar 2026 — Marketers must hold documentary evidence to prove claims that consumers are likely to regard as objecti...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate Social Influence in Social Advertising: Evidence from Field  
-   Link: [https://www.researchgate.net/publication/227396836_Social_Influence_in_Social_Advertising_Evidence_from_Field_Experiments](https://www.researchgate.net/publication/227396836_Social_Influence_in_Social_Advertising_Evidence_from_Field_Experiments)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSocial Influence in Social Advertising: Evidence from Field...June 19, 2012 — We conduct two very large field experiments th...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/227396836_Social_Influence_in_Social_Advertising_Evidence_from_Field_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227396836_Social_Influence_in_Social_Advertising_Evidence_from_Field_Experiments</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence in Social Advertising: Evidence from Field...June 19, 2012 — We conduct two very large field experiments th...</p></details>
    Published: June 19, 2012  
 
 3. <a id="endnote-3"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/2229012.2229027](https://dl.acm.org/doi/10.1145/2229012.2229027)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/2229012.2229027" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/2229012.2229027</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibrarySocial influence in social advertising | Proceedings of the...4 Jun 2012 — We conduct two very large field experiment...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1206.4327](https://arxiv.org/abs/1206.4327)  
+   Link: <a href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1206.4327</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence in Social Advertising: Evidence from Field...by E Bakshy · 2012 · Cited by 432 — We conduct two very large field experi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ide.mit.edu  
-   Link: [https://ide.mit.edu/wp-content/uploads/2020/10/mksc.2020.1240.pdf](https://ide.mit.edu/wp-content/uploads/2020/10/mksc.2020.1240.pdf)  
+   Link: <a href="https://ide.mit.edu/wp-content/uploads/2020/10/mksc.2020.1240.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2020/10/mksc.2020.1240.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Initiative on the Digital EconomySocial Advertising Effectiveness Across Products: A Large7 Oct 2020 — In this paper, we define socia...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: kelleydrye.com  
-   Link: [https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards](https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards)  
+   Link: <a href="https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelley Drye &amp; Warren LLPAdvertising and Marketing StandardsAs a general rule, claims in advertisements must be truthful and not misleadin...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: asa.org.uk  
    Title: types of claims best selling  
-   Link: [https://www.asa.org.uk/advice-online/types-of-claims-best-selling.html](https://www.asa.org.uk/advice-online/types-of-claims-best-selling.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASATypes of claims: &quot;Best-selling&quot;11 Apr 2025 — In most cases, “best-selling” claims are likely to be understood as comparisons with iden...</p></details>
+   Link: <a href="https://www.asa.org.uk/advice-online/types-of-claims-best-selling.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/types-of-claims-best-selling.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of claims: &quot;Best-selling&quot;11 Apr 2025 — In most cases, “best-selling” claims are likely to be understood as comparisons with iden...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: asa.org.uk  
    Title: types of claims superlative  
-   Link: [https://www.asa.org.uk/advice-online/types-of-claims-superlative.html](https://www.asa.org.uk/advice-online/types-of-claims-superlative.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/types-of-claims-superlative.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/types-of-claims-superlative.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of claims: Superlative11 Apr 2025 — A superlative claim can be a broad claim, such as “the best” or &#x27;best-selling&#x27;, or a specific c...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: asa.org.uk  
    Title: types of claims leading  
-   Link: [https://www.asa.org.uk/advice-online/types-of-claims-leading.html](https://www.asa.org.uk/advice-online/types-of-claims-leading.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/types-of-claims-leading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/types-of-claims-leading.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of claims: &quot;Leading&quot;11 Apr 2025 — In most cases, a “leading” claim will be interpreted as a best-selling claim that needs to be sup...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: asa.org.uk  
    Title: types of claims no 1  
-   Link: [https://www.asa.org.uk/advice-online/types-of-claims-no-1.html](https://www.asa.org.uk/advice-online/types-of-claims-no-1.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/types-of-claims-no-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/types-of-claims-no-1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of claims: &quot;No. 1&quot;11 Apr 2025 — In most cases a &#x27;number 1&#x27; claim presented as a best-selling claim that needs to be supported by sa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: How Is The Bandwagon Fallacy Used In Advertising?  
-   Link: [http://www.youtube.com/watch?v=-wcWq30GLFc](http://www.youtube.com/watch?v=-wcWq30GLFc)  
+   Link: <a href="http://www.youtube.com/watch?v=-wcWq30GLFc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-wcWq30GLFc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bandwagon Fallacy...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Bandwagon Fallacy  
-   Link: [http://www.youtube.com/watch?v=a-AFaBcUui4](http://www.youtube.com/watch?v=a-AFaBcUui4)  
+   Link: <a href="http://www.youtube.com/watch?v=a-AFaBcUui4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=a-AFaBcUui4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Propaganda Bandwagon - Old Navy Commercial...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtu.be  
    Title: Social Proof  
-   Link: [https://youtu.be/mWdIrgCCWYw](https://youtu.be/mWdIrgCCWYw)  
+   Link: <a href="https://youtu.be/mWdIrgCCWYw" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/mWdIrgCCWYw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prof Robert Cialdini explains the principle of social proof avvedpuriswar...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtu.be  
    Title: Social Proof  
-   Link: [https://youtu.be/WeGl8ASNmro?si=Kd6GwacKvXX8-rrZ](https://youtu.be/WeGl8ASNmro?si=Kd6GwacKvXX8-rrZ)  
+   Link: <a href="https://youtu.be/WeGl8ASNmro?si=Kd6GwacKvXX8-rrZ" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/WeGl8ASNmro?si=Kd6GwacKvXX8-rrZ</a>  
 
 15. <a id="endnote-15"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation](https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation)  
+   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Policy Statement Regarding Advertising SubstantiationJune 24, 2014 — Advertisers substantiate express and imp...</p></details>
    Published: June 24, 2014  
 
 16. <a id="endnote-16"></a>
    Source: committees.parliament.uk  
    Title: ukadvertising standards authority  
-   Link: [https://committees.parliament.uk/writtenevidence/130620/html/](https://committees.parliament.uk/writtenevidence/130620/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/130620/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/130620/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>standards authority - written evidence (fdo0116)8 Apr 2024 — Health claims in food specifically refer to a relationship between a food /...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: emergentmind.com  
    Title: social influence in social advertising  
-   Link: [https://www.emergentmind.com/topics/social-influence-in-social-advertising](https://www.emergentmind.com/topics/social-influence-in-social-advertising)  
+   Link: <a href="https://www.emergentmind.com/topics/social-influence-in-social-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/social-influence-in-social-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Jan 2026 — Explore how social influence shapes online advertising by leveraging peer cues and crowd ratings to enhance engagement and...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: academyofphysicalmedicine.co.uk  
-   Link: [https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf](https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf)  
+   Link: <a href="https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA GUIDANCE: Marketing Claims“Biggest”, “best-selling”, “leading” and other, similar claims are generally treated as objective claims th...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mbhb.com  
-   Link: [https://www.mbhb.com/intelligence/snippets/seven-points-to-consider-regarding-advertising-claims/](https://www.mbhb.com/intelligence/snippets/seven-points-to-consider-regarding-advertising-claims/)  
+   Link: <a href="https://www.mbhb.com/intelligence/snippets/seven-points-to-consider-regarding-advertising-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.mbhb.com/intelligence/snippets/seven-points-to-consider-regarding-advertising-claims/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seven Points to Consider Regarding Advertising ClaimsAdvertising must be truthful and non-deceptive, advertisers must have evidence to ba...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cs.tau.ac.il  
-   Link: [https://www.cs.tau.ac.il/~fiat/cgt12/EC_2012/docs/p146.pdf](https://www.cs.tau.ac.il/~fiat/cgt12/EC_2012/docs/p146.pdf)  
+   Link: <a href="https://www.cs.tau.ac.il/~fiat/cgt12/EC_2012/docs/p146.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.tau.ac.il/~fiat/cgt12/EC_2012/docs/p146.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TAU Computer ScienceSocial Influence in Social Advertising: Evidence from Field...by E BAKSHY · Cited by 432 — As far as we know, the pr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: allaboutadvertisinglaw.com  
-   Link: [https://www.allaboutadvertisinglaw.com/2024/11/understanding-false-advertising-claims-an-excerpt-from-the-advertising-law-tool-kit.html](https://www.allaboutadvertisinglaw.com/2024/11/understanding-false-advertising-claims-an-excerpt-from-the-advertising-law-tool-kit.html)  
+   Link: <a href="https://www.allaboutadvertisinglaw.com/2024/11/understanding-false-advertising-claims-an-excerpt-from-the-advertising-law-tool-kit.html" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutadvertisinglaw.com/2024/11/understanding-false-advertising-claims-an-excerpt-from-the-advertising-law-tool-kit.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the easiest claim to make, because if an ad is literally false, or false on its face, consumer deception is presumed.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: millercanfield.com  
    Title: resources FTC Power to Demand Substantiation for Ads Faces Fiery Lawsuit  
-   Link: [https://www.millercanfield.com/resources-FTC-Power-to-Demand-Substantiation-for-Ads-Faces-Fiery-Lawsuit.html](https://www.millercanfield.com/resources-FTC-Power-to-Demand-Substantiation-for-Ads-Faces-Fiery-Lawsuit.html)  
+   Link: <a href="https://www.millercanfield.com/resources-FTC-Power-to-Demand-Substantiation-for-Ads-Faces-Fiery-Lawsuit.html" target="_blank" rel="noopener noreferrer nofollow">https://www.millercanfield.com/resources-FTC-Power-to-Demand-Substantiation-for-Ads-Faces-Fiery-Lawsuit.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s Power to Demand Substantiation for Ads Faces Fiery...23 Jun 2025 — Under current Federal Trade Commission (FTC) policy, an adverti...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: bizlawuk.co.uk  
    Title: every rule you need to know of business while making a marketing claim  
-   Link: [https://www.bizlawuk.co.uk/every-rule-you-need-to-know-of-business-while-making-a-marketing-claim/](https://www.bizlawuk.co.uk/every-rule-you-need-to-know-of-business-while-making-a-marketing-claim/)  
+   Link: <a href="https://www.bizlawuk.co.uk/every-rule-you-need-to-know-of-business-while-making-a-marketing-claim/" target="_blank" rel="noopener noreferrer nofollow">https://www.bizlawuk.co.uk/every-rule-you-need-to-know-of-business-while-making-a-marketing-claim/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA rules you need to know while making marketing claims.14 Oct 2021 — Unless they are blatantly fake, [testimonials](&amp;#123;&amp;#123; &#x27;testimonials/&#x27; | relative_url &amp;#125;&amp;#125;) or endorsements used...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hunton.com  
    Title: 93936 navigating over the counter product ads after ftc warning  
-   Link: [https://www.hunton.com/media/publication/93936_navigating-over-the-counter-product-ads-after-ftc-warning.pdf](https://www.hunton.com/media/publication/93936_navigating-over-the-counter-product-ads-after-ftc-warning.pdf)  
+   Link: <a href="https://www.hunton.com/media/publication/93936_navigating-over-the-counter-product-ads-after-ftc-warning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hunton.com/media/publication/93936_navigating-over-the-counter-product-ads-after-ftc-warning.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Over-The-Counter Product Ads After FTC Warningby A Ghiam · 2023 — False statements by necessary implication are claims that wh...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: greenly.earth  
    Title: complying with the advertising standards authority asa rules  
-   Link: [https://greenly.earth/en-gb/blog/company-guide/complying-with-the-advertising-standards-authority-asa-rules](https://greenly.earth/en-gb/blog/company-guide/complying-with-the-advertising-standards-authority-asa-rules)  
+   Link: <a href="https://greenly.earth/en-gb/blog/company-guide/complying-with-the-advertising-standards-authority-asa-rules" target="_blank" rel="noopener noreferrer nofollow">https://greenly.earth/en-gb/blog/company-guide/complying-with-the-advertising-standards-authority-asa-rules</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complying with the Advertising Standards Authority (ASA)...3 Mar 2023 — In this article we&#x27;ll look at what the updated ASA advertising g...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: contractorcalculator.co.uk  
-   Link: [https://www.contractorcalculator.co.uk/asa_case_study.aspx](https://www.contractorcalculator.co.uk/asa_case_study.aspx)  
+   Link: <a href="https://www.contractorcalculator.co.uk/asa_case_study.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.contractorcalculator.co.uk/asa_case_study.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eld for all websites selling advertising, whilst at the same time making it...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: asa.org.uk  
    Title: substantiation sampling references and consumer goods  
-   Link: [https://www.asa.org.uk/advice-online/substantiation-sampling-references-and-consumer-goods.html](https://www.asa.org.uk/advice-online/substantiation-sampling-references-and-consumer-goods.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/substantiation-sampling-references-and-consumer-goods.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/substantiation-sampling-references-and-consumer-goods.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Substantiation: Consumer surveys and sample claims29 Apr 2026 — This guidance aims to answer some key questions that the Copy Advice team...</p></details>

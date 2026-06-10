@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:44:08'
 parent_title: Does Hypocrisy Refute the Claim? | Fallacy Lab
 parent_permalink: /tu-quoque/
 parent_nav_short_title: Tu Quoque
@@ -259,7 +260,6 @@ next_link:
   permalink: /double-standards/
   short_title: Double Standards
   heading_title: When Double Standards Are the Point
-date: '2026-06-05 01:44:08 '
 header:
   og_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_hypocrisy_credibilit_251a26-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_hypocrisy_credibilit_251a26-Illustration-1.webp
@@ -307,7 +307,7 @@ One of the most common mistakes in public [debate]({{ 'debate/' | relative_url }
 
 These are different conclusions.
 
-A person may be hypocritical and still be correct. A politician who violates a transparency rule may nevertheless accurately identify corruption elsewhere. A doctor who smokes may still correctly describe the health risks of smoking. A parent who struggles with debt may still give sound advice about saving money. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Ad hominem | Religion and Philosophy | Research StartersAd hominem refers to a logical fallacy where individuals attack their opponents&#x27;...</span></span></span> What hypocrisy can support is a more limited inference:
+A person may be hypocritical and still be correct. A politician who violates a transparency rule may nevertheless accurately identify corruption elsewhere. A doctor who smokes may still correctly describe the health risks of smoking. A parent who struggles with debt may still give sound advice about saving money. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Ad hominem &#124; Religion and Philosophy &#124; Research StartersAd hominem refers to a logical fallacy where individuals attack their opponents&#x27;...</span></span></span> What hypocrisy can support is a more limited inference:
 
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
@@ -784,120 +784,120 @@ Tu quoque reasoning becomes fallacious when these evaluations are merged and a c
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: [https://plato.stanford.edu/entries/category-mistakes/](https://plato.stanford.edu/entries/category-mistakes/)  
+   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2002/entries/logic-informal/](https://plato.stanford.edu/archives/sum2002/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic&quot; Different kinds of ad hominem (i.e., abusive, circumstantial and tu quoque ad hominem) are construed as different violations of th...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/spr2023/entries/fallacies/](https://plato.stanford.edu/archives/spr2023/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/archives/spr2023/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2023/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: informallogic.ca  
    Title: [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) Tu Quoque Arguments and the Significance of Hypocrisy  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/543/506](https://informallogic.ca/index.php/informal_logic/article/view/543/506)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoque arguments are ad hominem arguments wherein a speaker (B) charges another (A) with inconsistency on an issue of dispute.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallacies... Ad Hominem Fallacy is deciding whether the personal attack is relevant or irrelevant. For...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: [https://en.wikipedia.org/wiki/Tu_quoque](https://en.wikipedia.org/wiki/Tu_quoque)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thoughtco.com  
    Title: Tu Quoque  
-   Link: [https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335](https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335)  
+   Link: <a href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which does not attack a per...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/tu-quoque](https://yourlogicalfallacyis.com/tu-quoque)  
+   Link: <a href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is commonly employed as an effective [red herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;) because it takes the heat off someone having to...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/ad-hominem](https://www.britannica.com/topic/ad-hominem)  
+   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — The tu quoque type involves responding in ki...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/cliffs-questions/8524229](https://www.cliffsnotes.com/cliffs-questions/8524229)  
+   Link: <a href="https://www.cliffsnotes.com/cliffs-questions/8524229" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/cliffs-questions/8524229</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>made the case to me that I need to lose weight, citing several health problems...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 277060812 Worries About Tu Quoque as a Fallacy  
-   Link: [https://www.researchgate.net/publication/277060812_Worries_About_Tu_Quoque_as_a_Fallacy](https://www.researchgate.net/publication/277060812_Worries_About_Tu_Quoque_as_a_Fallacy)  
+   Link: <a href="https://www.researchgate.net/publication/277060812_Worries_About_Tu_Quoque_as_a_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/277060812_Worries_About_Tu_Quoque_as_a_Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Worries About Tu Quoque as a Fallacy31 Dec 2025 — Tu quoque, Latin for &quot;you also,&quot; is an informal logical fallacy in which disputan...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pimaopen.pressbooks.pub  
-   Link: [https://pimaopen.pressbooks.pub/intrologic/chapter/2-3-fallacies-of-distraction/](https://pimaopen.pressbooks.pub/intrologic/chapter/2-3-fallacies-of-distraction/)  
+   Link: <a href="https://pimaopen.pressbooks.pub/intrologic/chapter/2-3-fallacies-of-distraction/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/intrologic/chapter/2-3-fallacies-of-distraction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pressbooks.pub2.3 Fallacies of Distraction – An Introduction to LogicFallacies of distraction involve arguing in such a way that the issu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/between-showtrials-and-utopia-a-study-of-the-tu-quoque-defence/712A7F0DAFB646CFEA04D229DBECCF46](https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/between-showtrials-and-utopia-a-study-of-the-tu-quoque-defence/712A7F0DAFB646CFEA04D229DBECCF46)  
+   Link: <a href="https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/between-showtrials-and-utopia-a-study-of-the-tu-quoque-defence/712A7F0DAFB646CFEA04D229DBECCF46" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/leiden-journal-of-international-law/article/between-showtrials-and-utopia-a-study-of-the-tu-quoque-defence/712A7F0DAFB646CFEA04D229DBECCF46</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Between show-trials and Utopia: A study of the tu quoque...by K Borrelli · 2019 · Cited by 19 — Tu quoque, meaning in Latin &#x27;you too&#x27;, i...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: openstax.org  
-   Title: Open Stax5.5 [Informal Fallacies](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: [https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies](https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies)  
+   Title: Open Stax5.5 Informal Fallacies  
+   Link: <a href="https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5.5 Informal Fallacies - Introduction to Philosophy15 Jun 2022 — When someone commits a tu quoque ad hominem fallacy, they attempt to und...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>claim by assailing the proponent of it.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ently with the claims of the argument.Read more...</p></details>

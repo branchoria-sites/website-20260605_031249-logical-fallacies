@@ -272,11 +272,11 @@ Many viral posts become persuasive not because they provide strong evidence, but
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_viral_false_choices_f3ae69-Illustration-1-dark.svg" | relative_url }}" alt="False Choices illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_viral_false_choices_f3ae69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_viral_false_choices_f3ae69-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This pattern is a classic [false dilemma]({{ 'false-dilemma/' | relative_url }}), also known as a false dichotomy. The fallacy presents only two options when other reasonable positions exist. On social media, where attention is scarce and messages compete for rapid engagement, binary framing can spread especially well because it is easy to understand, [emotionally charged]({{ 'charged-labels/' | relative_url }}), and highly shareable. Research on framing, misinformation, and online polarisation suggests that simplified frames can shape how audiences interpret issues long before they evaluate the evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/362915881_Framing_Theory_in_the_Age_of_Social_Media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Framing Theory in the Age of Social Media</span><span class="citation-popover-snippet">ResearchGateFraming Theory in the Age of Social MediaAugust 29, 2022 — 24 Feb 2026 — Framing Theory and frame analysis has been found fun...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gvpt.umd.edu/sites/gvpt.umd.edu/files/pubs/%23PolarizedFeeds.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gvpt.umd.edu">[Department of]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gvpt.umd.edu</span><span class="citation-popover-title">#Polarized Feeds</span><span class="citation-popover-snippet">Department of Government and PoliticsThree Experiments on Polarization, Framing, and Social Mediaby A Banks · 2020 · Cited by 143 — We de...</span></span></span> Government and Politics
+This pattern is a classic [false dilemma]({{ 'false-dilemma/' | relative_url }}), also known as a false dichotomy. The fallacy presents only two options when other reasonable positions exist. On [social media]({{ 'social-media/' | relative_url }}), where attention is scarce and messages compete for rapid engagement, binary framing can spread especially well because it is easy to understand, emotionally charged, and highly shareable. Research on framing, misinformation, and online polarisation suggests that simplified frames can shape how audiences interpret issues long before they evaluate the evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/362915881_Framing_Theory_in_the_Age_of_Social_Media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Framing Theory in the Age of Social Media</span><span class="citation-popover-snippet">Framing Theory in the Age of Social MediaAugust 29, 2022 — 24 Feb 2026 — Framing Theory and frame analysis has been found fun...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gvpt.umd.edu/sites/gvpt.umd.edu/files/pubs/%23PolarizedFeeds.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gvpt.umd.edu">[Department of]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gvpt.umd.edu</span><span class="citation-popover-title">#Polarized Feeds</span><span class="citation-popover-snippet">Department of Government and PoliticsThree Experiments on Polarization, Framing, and Social Mediaby A Banks · 2020 · Cited by 143 — We de...</span></span></span> Government and Politics
 
 ## How Compression Creates False Dilemmas
 
-[Social media]({{ 'social-media/' | relative_url }}) platforms reward brevity. A post that can be understood in seconds has an advantage over a nuanced explanation requiring context. The problem is that many public questions are not naturally simple.
+Social media platforms reward brevity. A post that can be understood in seconds has an advantage over a nuanced explanation requiring [context]({{ 'context/' | relative_url }}). The problem is that many public questions are not naturally simple.
 
 Consider a debate about housing policy, public health, policing, climate adaptation, education reform, or technological regulation. Each topic involves trade-offs, uncertainty, competing goals, and multiple possible solutions. Yet a viral post may compress that complexity into a statement such as:
 
@@ -291,18 +291,18 @@ Consider a debate about housing policy, public health, policing, climate adaptat
 
 The audience is invited to choose between two extreme positions while ignoring the broad territory in between.
 
-Communication researchers describe this process as framing. Frames highlight some aspects of reality while downplaying others. On social media, frames often become more influential because users encounter information in short, isolated fragments rather than in longer discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/362915881_Framing_Theory_in_the_Age_of_Social_Media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Framing Theory in the Age of Social Media</span><span class="citation-popover-snippet">ResearchGateFraming Theory in the Age of Social MediaAugust 29, 2022 — 24 Feb 2026 — Framing Theory and frame analysis has been found fun...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
+Communication researchers describe this process as framing. Frames highlight some aspects of reality while downplaying others. On social media, frames often become more influential because users encounter information in short, isolated fragments rather than in longer discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/362915881_Framing_Theory_in_the_Age_of_Social_Media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Framing Theory in the Age of Social Media</span><span class="citation-popover-snippet">Framing Theory in the Age of Social MediaAugust 29, 2022 — 24 Feb 2026 — Framing Theory and frame analysis has been found fun...</span><span class="citation-popover-meta">Published: August 29, 2022</span></span></span>
 
 The resulting false choice is powerful because it changes the debate itself. Instead of asking, “What does the evidence show?” readers are pushed toward asking, “Which side am I on?”
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iZ3u8sP8tDo" title="False Dilemma: Either Love it or Fear it - Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iZ3u8sP8tDo" target="_blank" rel="noopener noreferrer">False Dilemma: Either Love it or Fear it - Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 9.3K &middot; Uploaded: April 2020 &middot; Length: 3 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iZ3u8sP8tDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iZ3u8sP8tDo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gDfQHWQwJ8Q" title="Prebunking Manipulation Techniques: False Dichotomies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gDfQHWQwJ8Q" target="_blank" rel="noopener noreferrer">Prebunking Manipulation Techniques: False Dichotomies</a></p><p class="youtube-embed-meta">Channel: Info Interventions &middot; Views: 598.2K &middot; Uploaded: May 2021 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gDfQHWQwJ8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gDfQHWQwJ8Q">Open on YouTube</a></p></div></div></div>
 
 ## Why Binary Frames Spread So Easily
 
 [False dilemmas]({{ 'false-dilemma/' | relative_url }}) are not merely reasoning errors. They are often effective social tools.
 
-A two-sided conflict is easier to share than a complicated explanation. It creates a story with heroes, villains, and a clear decision. Research on viral communication and misinformation repeatedly finds that emotionally engaging, simplified content tends to travel efficiently through social networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14648849221077749" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Viral journalism</span><span class="citation-popover-snippet">Strategy, tactics and limitations of the fast...by A Denisova · 2023 · Cited by 120 — This paper starts with the analysis of the existin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — A majority of false stories are spread by a small numbe...</span></span></span>
+A two-sided conflict is easier to share than a complicated explanation. It creates a story with heroes, villains, and a clear decision. Research on viral communication and misinformation repeatedly finds that emotionally engaging, simplified content tends to travel efficiently through social networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/14648849221077749" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Viral journalism</span><span class="citation-popover-snippet">Strategy, tactics and limitations of the fast...by A Denisova · 2023 · Cited by 120 — This paper starts with the analysis of the existin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-title">how social media rewards misinformation</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — A majority of false stories are spread by a small numbe...</span></span></span>
 
 Several mechanisms make binary framing attractive:
 
@@ -364,7 +364,7 @@ These formulations ignore the possibility of partial evidence, uncertainty, meth
 
 The damage caused by false dilemmas extends beyond individual arguments.
 
-When people repeatedly encounter issues framed as two-sided moral battles, disagreement becomes easier to interpret as evidence of bad character rather than differing evidence or priorities. Researchers studying polarisation have found that social media environments can encourage stronger emotional hostility between groups, even when underlying policy disagreements are more complex. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brookings.edu">[Brookings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brookings.edu</span><span class="citation-popover-title">How tech platforms fuel U.S</span><span class="citation-popover-snippet">political polarization and what...27 Sept 2021 — How tech platforms fuel U.S. political polarization and what government can do about it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10106894/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Polarizing Impact of Political Disinformation and Hate...by PN Vasist · 2023 · Cited by 209 — In an era of deep polarization, a c...</span></span></span>
+When people repeatedly encounter issues framed as two-sided moral battles, disagreement becomes easier to interpret as evidence of bad character rather than differing evidence or priorities. Researchers studying polarisation have found that social media environments can encourage stronger emotional hostility between groups, even when underlying policy disagreements are more complex. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brookings.edu">[Brookings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brookings.edu</span><span class="citation-popover-title">How tech platforms fuel U.S</span><span class="citation-popover-snippet">political polarization and what...27 Sept 2021 — How tech platforms fuel U.S. political polarization and what government can do about it...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10106894/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Polarizing Impact of Political Disinformation and Hate...by PN Vasist · 2023 · Cited by 209 — In an era of deep polarization, a c...</span></span></span>
 
 Binary framing also discourages learning. If every issue is presented as a choice between total agreement and total opposition, there is little incentive to explore intermediate positions or revise one's views.
 
@@ -373,7 +373,7 @@ Evidence from misinformation research suggests that binary evaluations can entre
 This matters because many real-world questions are probabilistic rather than absolute. Evidence accumulates gradually. Conclusions are often provisional. The demand for immediate certainty can distort how people reason about complex topics.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gDfQHWQwJ8Q" title="Prebunking Manipulation Techniques: False Dichotomies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gDfQHWQwJ8Q" target="_blank" rel="noopener noreferrer">Prebunking Manipulation Techniques: False Dichotomies</a></p><p class="youtube-embed-meta">Channel: Info Interventions &middot; Views: 598.2K &middot; Uploaded: May 2021 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gDfQHWQwJ8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gDfQHWQwJ8Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yvP-l3s7U9k" title="Demolish the False Dilemma Fallacy: Logic You Need to Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yvP-l3s7U9k" target="_blank" rel="noopener noreferrer">Demolish the False Dilemma Fallacy: Logic You Need to Know</a></p><p class="youtube-embed-meta">Channel: Verse &amp; Vision &middot; Views: 288 &middot; Uploaded: November 2023 &middot; Length: 3 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yvP-l3s7U9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yvP-l3s7U9k">Open on YouTube</a></p></div></div></div>
 
 ## Better Questions to Ask Before Accepting the Frame
 
@@ -837,120 +837,120 @@ In many cases, the strongest position lies in the space the viral post left out:
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Framing Theory in the Age of Social Media  
-   Link: [https://www.researchgate.net/publication/362915881_Framing_Theory_in_the_Age_of_Social_Media](https://www.researchgate.net/publication/362915881_Framing_Theory_in_the_Age_of_Social_Media)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateFraming Theory in the Age of Social MediaAugust 29, 2022 — 24 Feb 2026 — Framing Theory and frame analysis has been found fun...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/362915881_Framing_Theory_in_the_Age_of_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362915881_Framing_Theory_in_the_Age_of_Social_Media</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Framing Theory in the Age of Social MediaAugust 29, 2022 — 24 Feb 2026 — Framing Theory and frame analysis has been found fun...</p></details>
    Published: August 29, 2022  
 
 2. <a id="endnote-2"></a>
    Source: brookings.edu  
    Title: How tech platforms fuel U.S  
-   Link: [https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/](https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/)  
+   Link: <a href="https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.brookings.edu/articles/how-tech-platforms-fuel-u-s-political-polarization-and-what-government-can-do-about-it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>political polarization and what...27 Sept 2021 — How tech platforms fuel U.S. political polarization and what government can do about it...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: insights.som.yale.edu  
    Title: how social media rewards misinformation  
-   Link: [https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation](https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation)  
+   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — A majority of false stories are spread by a small numbe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv False Information on Web and Social Media: A Survey  
-   Link: [https://arxiv.org/abs/1804.08559](https://arxiv.org/abs/1804.08559)  
+   Link: <a href="https://arxiv.org/abs/1804.08559" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1804.08559</a>  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0047272726000253](https://www.sciencedirect.com/science/article/pii/S0047272726000253)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRanking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 12 — The framework is extended to...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 12 — The framework is extended to...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10106894/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10106894/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Polarizing Impact of Political Disinformation and Hate...by PN Vasist · 2023 · Cited by 209 — In an era of deep polarization, a c...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10106894/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10106894/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Polarizing Impact of Political Disinformation and Hate...by PN Vasist · 2023 · Cited by 209 — In an era of deep polarization, a c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Perspective-taking to Reduce Affective Polarization on Social Media  
-   Link: [https://arxiv.org/abs/2110.05596](https://arxiv.org/abs/2110.05596)  
+   Link: <a href="https://arxiv.org/abs/2110.05596" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.05596</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2010.06019](https://arxiv.org/abs/2010.06019)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivProbabilistic Social Learning Improves the Public&#x27;s Detection of MisinformationOctober 12, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2010.06019" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2010.06019</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Probabilistic Social Learning Improves the Public&#x27;s Detection of MisinformationOctober 12, 2020...</p></details>
    Published: October 12, 2020  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/341847607_Digital_Dilemmas_Exploring_Social_Media_Ethics_in_Organizations](https://www.researchgate.net/publication/341847607_Digital_Dilemmas_Exploring_Social_Media_Ethics_in_Organizations)  
+   Link: <a href="https://www.researchgate.net/publication/341847607_Digital_Dilemmas_Exploring_Social_Media_Ethics_in_Organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/341847607_Digital_Dilemmas_Exploring_Social_Media_Ethics_in_Organizations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>f industries can face when they implement social media to communicate with...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0747563225002894](https://www.sciencedirect.com/science/article/pii/S0747563225002894)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563225002894" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563225002894</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;), consumer cynicism and negative word-of-mouthby OI MOISESCU · 2025 · Cited by 5 — In today&#x27;s digital era dominated by social me...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: gvpt.umd.edu  
    Title: #Polarized Feeds  
-   Link: [https://gvpt.umd.edu/sites/gvpt.umd.edu/files/pubs/%23PolarizedFeeds.pdf](https://gvpt.umd.edu/sites/gvpt.umd.edu/files/pubs/%23PolarizedFeeds.pdf)  
+   Link: <a href="https://gvpt.umd.edu/sites/gvpt.umd.edu/files/pubs/%23PolarizedFeeds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gvpt.umd.edu/sites/gvpt.umd.edu/files/pubs/%23PolarizedFeeds.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Government and PoliticsThree Experiments on Polarization, Framing, and Social Mediaby A Banks · 2020 · Cited by 143 — We de...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Viral journalism  
-   Link: [https://journals.sagepub.com/doi/10.1177/14648849221077749](https://journals.sagepub.com/doi/10.1177/14648849221077749)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/14648849221077749" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14648849221077749</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategy, tactics and limitations of the fast...by A Denisova · 2023 · Cited by 120 — This paper starts with the analysis of the existin...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: ijraset.com  
-   Link: [https://www.ijraset.com/best-journal/logical-fallacies-in-social-media-discourse-160](https://www.ijraset.com/best-journal/logical-fallacies-in-social-media-discourse-160)  
+   Link: <a href="https://www.ijraset.com/best-journal/logical-fallacies-in-social-media-discourse-160" target="_blank" rel="noopener noreferrer nofollow">https://www.ijraset.com/best-journal/logical-fallacies-in-social-media-discourse-160</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) in Social MediaBy artificially limiting the apparent choices, the false dichotomy forces the audience to choose between...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/free-factor/the-false-dilemma-social-activists-favorite-fallacy-65830b28ed23](https://medium.com/free-factor/the-false-dilemma-social-activists-favorite-fallacy-65830b28ed23)  
+   Link: <a href="https://medium.com/free-factor/the-false-dilemma-social-activists-favorite-fallacy-65830b28ed23" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/free-factor/the-false-dilemma-social-activists-favorite-fallacy-65830b28ed23</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The False Dilemma: Social Activists&#x27; Favorite FallacySilence is violence. The problem here, as with all false dilemmas, is that the concl...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/jbim/article/38/8/1656/204931/Towards-dissemination-detection-and-combating](https://www.emerald.com/jbim/article/38/8/1656/204931/Towards-dissemination-detection-and-combating)  
+   Link: <a href="https://www.emerald.com/jbim/article/38/8/1656/204931/Towards-dissemination-detection-and-combating" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jbim/article/38/8/1656/204931/Towards-dissemination-detection-and-combating</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an understanding of misinformation on social media platforms, which is a...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: news.northeastern.edu  
    Title: social media political polarization research  
-   Link: [https://news.northeastern.edu/2025/11/27/social-media-political-polarization-research/](https://news.northeastern.edu/2025/11/27/social-media-political-polarization-research/)  
+   Link: <a href="https://news.northeastern.edu/2025/11/27/social-media-political-polarization-research/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2025/11/27/social-media-political-polarization-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>research reveals algorithms&#x27; hidden political power27 Nov 2025 — New research hijacks social media platform rankings to study how great a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/echo-chambers-filter-bubbles-and-polarisation-literature-review](https://reutersinstitute.politics.ox.ac.uk/echo-chambers-filter-bubbles-and-polarisation-literature-review)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/echo-chambers-filter-bubbles-and-polarisation-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/echo-chambers-filter-bubbles-and-polarisation-literature-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chambers, filter bubbles, and polarisation: a literature...19 Jan 2022 — Exposure to opposing views on social media can increase politic...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: 2021-2025.state.gov  
    Title: roadmap info integrity  
-   Link: [https://2021-2025.state.gov/roadmap-info-integrity/](https://2021-2025.state.gov/roadmap-info-integrity/)  
+   Link: <a href="https://2021-2025.state.gov/roadmap-info-integrity/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/roadmap-info-integrity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>false dichotomy. A binary framing misses the real issue: digital information manipulation undermines one&#x27;s ability to exercise the freedo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/07421222.2025.2561381](https://www.tandfonline.com/doi/full/10.1080/07421222.2025.2561381)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2025.2561381" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/07421222.2025.2561381</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Artificial Intelligence Recommendations Amplify...by H Ma · 2025 · Cited by 2 — We conducted three online experiments inve...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/23311886.2024.2302216](https://www.tandfonline.com/doi/full/10.1080/23311886.2024.2302216)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311886.2024.2302216" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311886.2024.2302216</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring fake news awareness and trust in the age of...by DH Lan · 2024 · Cited by 112 — This study explores the awareness of fake news...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mfE2Ws2RJaM](https://www.youtube.com/watch?v=mfE2Ws2RJaM)  
+   Link: <a href="https://www.youtube.com/watch?v=mfE2Ws2RJaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mfE2Ws2RJaM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Demolish the False Dilemma Fallacy: Logic You Need to Know...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.adv7864](https://www.science.org/doi/10.1126/sciadv.adv7864)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adv7864" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adv7864</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the success and failure of online political...by T Heide-Jørgensen · 2025 · Cited by 5 — Here, we study the nature of onli...</p></details>

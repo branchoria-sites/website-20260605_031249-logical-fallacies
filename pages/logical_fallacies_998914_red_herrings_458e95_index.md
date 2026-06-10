@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-red-herrings/
 description: Focused pages that expand on Red Herring.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_red_herrings_458e95
 parent_title: Red Herring | Logical Fallacies

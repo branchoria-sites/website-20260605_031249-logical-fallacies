@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:49:41'
 parent_title: Did the Key Word Change Meaning? | Fallacy Lab
 parent_permalink: /equivocation/
 parent_nav_short_title: Equivocation
@@ -265,7 +266,6 @@ next_link:
   permalink: /natural-claims/
   short_title: Natural Claims
   heading_title: Does Natural Really Mean Safe or Good?
-date: '2026-06-05 01:49:41 '
 header:
   og_image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-1.webp
@@ -514,7 +514,7 @@ When legal protection, moral entitlement, social permission, and immunity from c
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -523,78 +523,94 @@ When legal protection, moral entitlement, social permission, and immunity from c
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1944 “Free Speech Doesn’t Mean Careless Talk” Vintage Style WW2 Poster - 11x14"><img src="{{ '/assets/images/marketplace-covers/8f467544349d00f3679e.jpg' | relative_url }}" alt="Listing image for 1944 “Free Speech Doesn’t Mean Careless Talk” Vintage Style WW2 Poster - 11x14" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Contender Game of Presidential Debate Topic Cards Argument Moderator USA"><img src="https://i.ebayimg.com/images/g/znwAAOSwIOpnCK2z/s-l225.jpg" alt="Listing image for The Contender Game of Presidential Debate Topic Cards Argument Moderator USA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1944 “Free Speech Doesn’t Mean Careless Talk” Vintage Style WW2 Poster - 11x14</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">The Contender Game of Presidential Debate Topic Cards Argument Moderator USA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.com</span>: free speech poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate game cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate game cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1st Amendment Free Speech T-Shirt"><img src="{{ '/assets/images/marketplace-covers/fbdab9dd2de6919b5f53.jpg' | relative_url }}" alt="Listing image for 1st Amendment Free Speech T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BAD OPINIONS - The Family Party Game of Hot Takes &amp; Sizzling Debates"><img src="https://i.ebayimg.com/images/g/BLAAAeSwSulo5ua5/s-l225.jpg" alt="Listing image for BAD OPINIONS - The Family Party Game of Hot Takes &amp; Sizzling Debates" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1st Amendment Free Speech T-Shirt</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">BAD OPINIONS - The Family Party Game of Hot Takes &amp; Sizzling Debates</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.com</span>: free speech poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate game cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate game cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1940s “Free Speech, Careless Talk” WWII Historic Propaganda War Poster - 24x32"><img src="{{ '/assets/images/marketplace-covers/a34bc0d7d3b32bfb2ece.jpg' | relative_url }}" alt="Listing image for 1940s “Free Speech, Careless Talk” WWII Historic Propaganda War Poster - 24x32" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deep Dilemmas 200 Debate Cards Game New Condition"><img src="https://i.ebayimg.com/images/g/nBwAAeSwkxNqD2d6/s-l225.jpg" alt="Listing image for Deep Dilemmas 200 Debate Cards Game New Condition" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1940s “Free Speech, Careless Talk” WWII Historic Propaganda War Poster - 24x32</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">Deep Dilemmas 200 Debate Cards Game New Condition</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.com</span>: free speech poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate game cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate game cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100"><img src="{{ '/assets/images/marketplace-covers/ae63707898f40e0eb44e.jpg' | relative_url }}" alt="Listing image for FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bad Opinions: Card Game of Hot Takes and Sizzling Debates! VGC"><img src="https://i.ebayimg.com/images/g/sQ4AAeSwO6xpsqz-/s-l225.jpg" alt="Listing image for Bad Opinions: Card Game of Hot Takes and Sizzling Debates! VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">Bad Opinions: Card Game of Hot Takes and Sizzling Debates! VGC</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.com</span>: free speech poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate game cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate game cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=free+speech+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=free-speech-when-does-free-speech-become-a-word-game-logical-fallacies-free-speech-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -670,17 +686,31 @@ When legal protection, moral entitlement, social permission, and immunity from c
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -693,42 +723,73 @@ When legal protection, moral entitlement, social permission, and immunity from c
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -743,114 +804,118 @@ When legal protection, moral entitlement, social permission, and immunity from c
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/freedom-speech/](https://plato.stanford.edu/entries/freedom-speech/)  
+   Link: <a href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/freedom-speech/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/](https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/)  
+   Link: <a href="https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/us-supreme-court-throws-out-rulings-public-officials-blocking-social-media-2024-03-15/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court has set a new standard for determining if public officials acted in a governmental capacity when blocking critics on social...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: amnesty.org  
-   Link: [https://www.amnesty.org/en/what-we-do/freedom-of-expression/](https://www.amnesty.org/en/what-we-do/freedom-of-expression/)  
+   Link: <a href="https://www.amnesty.org/en/what-we-do/freedom-of-expression/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/what-we-do/freedom-of-expression/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amnesty InternationalFreedom of ExpressionYou have the right to say what you think, share information and demand a better world. You also...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: athena.unibo.it  
-   Link: [https://athena.unibo.it/article/download/15655/16492/68792](https://athena.unibo.it/article/download/15655/16492/68792)  
+   Link: <a href="https://athena.unibo.it/article/download/15655/16492/68792" target="_blank" rel="noopener noreferrer nofollow">https://athena.unibo.it/article/download/15655/16492/68792</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is the Public Moral Instigation Against Inappropriate Free...July 5, 2023 — My aim in this article is to show that cancel culture is sel...</p></details>
    Published: July 5, 2023  
 
 5. <a id="endnote-5"></a>
    Source: constitutioncenter.org  
-   Link: [https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266](https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266)  
+   Link: <a href="https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266" target="_blank" rel="noopener noreferrer nofollow">https://constitutioncenter.org/the-constitution/amendments/amendment-i/interpretations/266</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Constitution CenterInterpretation: Freedom of Speech and the PressGenerally speaking, it means that the government may not jail, fine, or...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ala.org  
-   Link: [https://www.ala.org/advocacy/intfreedom/censorship](https://www.ala.org/advocacy/intfreedom/censorship)  
+   Link: <a href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow">https://www.ala.org/advocacy/intfreedom/censorship</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The First Amendment only prevents government restrictions on speech. It does not...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis-2024-7](https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis-2024-7)  
+   Link: <a href="https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis-2024-7" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/supreme-court-ruling-netchoice-big-tech-analysis-2024-7</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These cases—NetChoice v. Paxton in Texas and Moody v. NetChoice in Florida—involved laws limiting social-media companies from censoring c...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Freedom of speech  
-   Link: [https://en.wikipedia.org/wiki/Freedom_of_speech](https://en.wikipedia.org/wiki/Freedom_of_speech)  
+   Link: <a href="https://en.wikipedia.org/wiki/Freedom_of_speech" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Freedom_of_speech</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Freedom of speechFreedom of speech is a principle that supports the freedom of an individual or a community to articulate their opinio...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: uscourts.gov  
-   Link: [https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does-free-speech-mean](https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does-free-speech-mean)  
+   Link: <a href="https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does-free-speech-mean" target="_blank" rel="noopener noreferrer nofollow">https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does-free-speech-mean</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States CourtsWhat Does Free Speech Mean?“Congress shall make no law...abridging freedom of speech.” Freedom of speech includes the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The Decline of Freedom of Expression and Social  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10008147/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10008147/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby A Masferrer · 2023 · Cited by 56 — Freedom of expression is a fundamental part of living in a free and open society and, above all...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10008147/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10008147/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Masferrer · 2023 · Cited by 56 — Freedom of expression is a fundamental part of living in a free and open society and, above all...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: acludc.org  
    Title: five ways first amendment protects your speech and three ways it does not  
-   Link: [https://www.acludc.org/news/five-ways-first-amendment-protects-your-speech-and-three-ways-it-does-not/](https://www.acludc.org/news/five-ways-first-amendment-protects-your-speech-and-three-ways-it-does-not/)  
+   Link: <a href="https://www.acludc.org/news/five-ways-first-amendment-protects-your-speech-and-three-ways-it-does-not/" target="_blank" rel="noopener noreferrer nofollow">https://www.acludc.org/news/five-ways-first-amendment-protects-your-speech-and-three-ways-it-does-not/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Five ways the First Amendment protects your speech15 Aug 2024 — The First Amendment of the US Constitution protects our fundamental right...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: carnegieendowment.org  
-   Link: [https://carnegieendowment.org/europe/strategic-europe/2026/06/taking-the-pulse-are-western-democracies-failing-free-speech](https://carnegieendowment.org/europe/strategic-europe/2026/06/taking-the-pulse-are-western-democracies-failing-free-speech)  
+   Link: <a href="https://carnegieendowment.org/europe/strategic-europe/2026/06/taking-the-pulse-are-western-democracies-failing-free-speech" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/europe/strategic-europe/2026/06/taking-the-pulse-are-western-democracies-failing-free-speech</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s, truth-seeking, pluralism, countering hate, and preventing violence.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aclu.org  
-   Link: [https://www.aclu.org/news/free-speech/protecting-free-speech-in-the-face-of-government-retaliation](https://www.aclu.org/news/free-speech/protecting-free-speech-in-the-face-of-government-retaliation)  
+   Link: <a href="https://www.aclu.org/news/free-speech/protecting-free-speech-in-the-face-of-government-retaliation" target="_blank" rel="noopener noreferrer nofollow">https://www.aclu.org/news/free-speech/protecting-free-speech-in-the-face-of-government-retaliation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Civil Liberties UnionProtecting Free Speech in the Face of Government...18 Sept 2025 — The First Amendment protects the rights...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TED/posts/your-right-to-free-speech-is-a-human-right-says-greg-lukianoff-heres-why-it-shou/1484717056561101/](https://www.facebook.com/TED/posts/your-right-to-free-speech-is-a-human-right-says-greg-lukianoff-heres-why-it-shou/1484717056561101/)  
+   Link: <a href="https://www.facebook.com/TED/posts/your-right-to-free-speech-is-a-human-right-says-greg-lukianoff-heres-why-it-shou/1484717056561101/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TED/posts/your-right-to-free-speech-is-a-human-right-says-greg-lukianoff-heres-why-it-shou/1484717056561101/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your right to free speech is a human right, says Greg...In the eyes of the law, freedom of speech is a legal protection, not a civil one...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: United States free speech [exceptions](&#123;&#123; 'exceptions/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/United_States_free_speech_exceptions](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions)  
+   Link: <a href="https://en.wikipedia.org/wiki/United_States_free_speech_exceptions" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_free_speech_exceptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States free speech exceptionsAs a general rule, lies are protected, with limited exceptions such as defamation, fraud, false ad...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: verfassungsblog.de  
    Title: turn against free speech america  
-   Link: [https://verfassungsblog.de/turn-against-free-speech-america/](https://verfassungsblog.de/turn-against-free-speech-america/)  
+   Link: <a href="https://verfassungsblog.de/turn-against-free-speech-america/" target="_blank" rel="noopener noreferrer nofollow">https://verfassungsblog.de/turn-against-free-speech-america/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling Far and Fast21 Sept 2025 — Since the 1930s, when the Supreme Court first began to protect First Amendment rights, it has safeguar...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scholar.law.colorado.edu  
    Title: Most of Free Speech law rests  
-   Link: [https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1417&[context](https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1417&[context)  
+   Link: <a href="https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1417&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholar.law.colorado.edu/cgi/viewcontent.cgi?article=1417&amp;[context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>colorado.eduCensorship, Copyright, and Free Speech: Some Tentative...by CL Eisgruber · 2003 · Cited by 24 — In my view, there is a good...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/03906701.2022.2133406](https://www.tandfonline.com/doi/full/10.1080/03906701.2022.2133406)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03906701.2022.2133406" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03906701.2022.2133406</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Hate speech or free speech: an ethical dilemma?by N Gorenc · 2022 · Cited by 48 — Freedom of opinion...</p></details>

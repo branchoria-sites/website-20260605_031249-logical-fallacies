@@ -284,9 +284,9 @@ The significance of the phrase is not that opposition to terrorism was controver
 
 Bush’s formulation presented a stark choice: support the United States in its campaign against terrorism or stand on the side of terrorists. In the immediate aftermath of the attacks, the phrase served a powerful rhetorical purpose. It communicated urgency, moral clarity, and a demand for international cooperation at a moment of widespread fear and uncertainty. George W. Bush Presidential Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfr.org/timelines/how-911-reshaped-foreign-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfr.org">[Council on Foreign Relations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfr.org</span><span class="citation-popover-title">how 911 reshaped foreign policy</span><span class="citation-popover-snippet">either you are with us or you are with the terrorists.” The U.S. government uses the term “global war on terror” to describe its far...R...</span></span></span>
 
-From the perspective of argument analysis, however, the question is whether the available options were actually exhausted by those two categories. Many governments, organisations, and citizens could simultaneously condemn terrorism while disagreeing about military tactics, legal authorities, intelligence practices, detention policies, or the scope of future military action. Those positions did not fit neatly into either side of the binary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophynow.org/issues/52/The_Bush_Disjunction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophynow.org">[Philosophy Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophynow.org</span><span class="citation-popover-snippet">Philosophy NowThe Bush Disjunction | Issue 52... September 11 terrorist attacks, U.S. President George W. Bush gave a speech to... eithe...</span></span></span>
+From the perspective of argument analysis, however, the question is whether the available options were actually exhausted by those two categories. Many governments, organisations, and citizens could simultaneously condemn terrorism while disagreeing about military tactics, legal authorities, intelligence practices, detention policies, or the scope of future military action. Those positions did not fit neatly into either side of the binary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophynow.org/issues/52/The_Bush_Disjunction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophynow.org">[Philosophy Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophynow.org</span><span class="citation-popover-snippet">Philosophy NowThe Bush Disjunction &#124; Issue 52... September 11 terrorist attacks, U.S. President George W. Bush gave a speech to... eithe...</span></span></span>
 
-A [false dilemma]({{ 'false-dilemma/' | relative_url }}) occurs when an argument treats two possibilities as if they are the only relevant choices despite the existence of additional alternatives. Critics of the phrase therefore argued that it risked equating disagreement over methods with sympathy for the enemy, even when the disagreement concerned how best to fight terrorism rather than whether terrorism should be opposed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophynow.org/issues/52/The_Bush_Disjunction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophynow.org">[Philosophy Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophynow.org</span><span class="citation-popover-snippet">Philosophy NowThe Bush Disjunction | Issue 52... September 11 terrorist attacks, U.S. President George W. Bush gave a speech to... eithe...</span></span></span>
+A [false dilemma]({{ 'false-dilemma/' | relative_url }}) occurs when an argument treats two possibilities as if they are the only relevant choices despite the existence of additional alternatives. Critics of the phrase therefore argued that it risked equating disagreement over methods with sympathy for the enemy, even when the disagreement concerned how best to fight terrorism rather than whether terrorism should be opposed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophynow.org/issues/52/The_Bush_Disjunction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophynow.org">[Philosophy Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophynow.org</span><span class="citation-popover-snippet">Philosophy NowThe Bush Disjunction &#124; Issue 52... September 11 terrorist attacks, U.S. President George W. Bush gave a speech to... eithe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a1tnRhIpzqQ" title="From the archives: George W. Bush addresses Congress after 9/11 attacks in 2001" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a1tnRhIpzqQ" target="_blank" rel="noopener noreferrer">From the archives: George W. Bush addresses Congress after 9/11 attacks in 2001</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 1.6M &middot; Uploaded: September 2023 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a1tnRhIpzqQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a1tnRhIpzqQ">Open on YouTube</a></p></div></div></div>
@@ -298,7 +298,7 @@ The original speech was directed not only at Americans but also at foreign gover
 In that narrow diplomatic sense, the statement can be interpreted as a demand that states stop providing safe haven to terrorist organisations. Under this reading, the intended distinction was between governments cooperating against al-Qaeda and governments assisting or protecting it. George W. Bush Presidential Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://ciaotest.cc.columbia.edu/olj/ad/ad_v9_2/doc01.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ciaotest.cc.columbia.edu">[CIAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ciaotest.cc.columbia.edu</span><span class="citation-popover-title">CIAOThe Bush Doctrine and U.S</span><span class="citation-popover-snippet">Interventionby CJ Dolan · 2004 · Cited by 15 — Either you are with us, or you are with the terrorists. From this day forward, any nation...</span></span></span> The difficulty arises because political slogans often travel beyond their original audience and purpose. Once repeated in media coverage andpublic [debate]({{ 'debate/' | relative_url }}), the phrase could be understood more broadly than the specific policy demand embedded in the speech. A statement aimed at governments that actively supported terrorist groups could also be heard as a warning directed at anyone questioning aspects of the emerging “war on terror”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfr.org/timelines/how-911-reshaped-foreign-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfr.org">[Council on Foreign Relations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfr.org</span><span class="citation-popover-title">how 911 reshaped foreign policy</span><span class="citation-popover-snippet">either you are with us or you are with the terrorists.” The U.S. government uses the term “global war on terror” to describe its far...R...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZF7cPvaKFXM" title="President George W. Bush’s address to a joint session of Congress following 9/11 - Sept. 20, 2001" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZF7cPvaKFXM" target="_blank" rel="noopener noreferrer">President George W. Bush’s address to a joint session of Congress following 9/11 - Sept. 20, 2001</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 758.3K &middot; Uploaded: September 2021 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZF7cPvaKFXM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZF7cPvaKFXM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9vzRMaHCysU" title="President George W. Bush addresses a Joint Congress about the War on Terror" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9vzRMaHCysU" target="_blank" rel="noopener noreferrer">President George W. Bush addresses a Joint Congress about the War on Terror</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 143.7K &middot; Uploaded: July 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9vzRMaHCysU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9vzRMaHCysU">Open on YouTube</a></p></div></div></div>
 
 ## Support for the Goal Versus Disagreement About the Method
 
@@ -329,7 +329,7 @@ Whether the phrase should be classified as a false dilemma depends partly on how
 
 If the statement is read as a specific warning to governments that sheltered terrorist organisations, the choice may appear less fallacious. A state either would cooperate in denying sanctuary to al-Qaeda or would continue enabling it. In that limited context, Bush was drawing a strategic boundary rather than mapping every possible political position. George W. Bush Presidential Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://americanarchive.org/primary_source_sets/war-on-terror/5-507-6m3319sr3r" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: americanarchive.org">[American Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">americanarchive.org</span><span class="citation-popover-snippet">Either you are with us, or you are with the terrorists. [applause] From this day forward, any nation...Read more...</span></span></span>
 
-If, however, the phrase is interpreted as a broader political frame for public debate, the criticism becomes stronger. Publics, allies, legislators, and commentators were not limited to only two meaningful positions. They could oppose terrorism while disagreeing about strategy, law, proportionality, or long-term objectives. Under that interpretation, the statement obscured important intermediate positions and encouraged a simplified view of a complex policy landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophynow.org/issues/52/The_Bush_Disjunction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophynow.org">[Philosophy Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophynow.org</span><span class="citation-popover-snippet">Philosophy NowThe Bush Disjunction | Issue 52... September 11 terrorist attacks, U.S. President George W. Bush gave a speech to... eithe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2775610_code1792737.pdf?abstractid=2775610&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">Many people did accept his subsequent arguments,</span><span class="citation-popover-snippet">SSRN[PDF] Good Versus Evil: Argument to Begin Global War on TerrorismWe also argue that once President Bush set the Good versus Evil fram...</span></span></span>
+If, however, the phrase is interpreted as a broader political frame for public debate, the criticism becomes stronger. Publics, allies, legislators, and commentators were not limited to only two meaningful positions. They could oppose terrorism while disagreeing about strategy, law, proportionality, or long-term objectives. Under that interpretation, the statement obscured important intermediate positions and encouraged a simplified view of a complex policy landscape. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophynow.org/issues/52/The_Bush_Disjunction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophynow.org">[Philosophy Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophynow.org</span><span class="citation-popover-snippet">Philosophy NowThe Bush Disjunction &#124; Issue 52... September 11 terrorist attacks, U.S. President George W. Bush gave a speech to... eithe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2775610_code1792737.pdf?abstractid=2775610&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">Many people did accept his subsequent arguments,</span><span class="citation-popover-snippet">SSRN[PDF] Good Versus Evil: Argument to Begin Global War on TerrorismWe also argue that once President Bush set the Good versus Evil fram...</span></span></span>
 
 This explains why the phrase remains a recurring example in discussions of false dilemmas. The issue is not whether terrorism should be condemned. The issue is whether political rhetoric can collapse distinctions that matter, turning debates about methods, limits, and alternatives into apparent tests of loyalty.
 
@@ -342,7 +342,7 @@ More than two decades later, the expression continues to be cited because it cap
 
 At the same time, its lasting controversy shows why analysts of logical fallacies pay attention to missing middle options. Political decisions often involve degrees of support, conditional cooperation, procedural objections, and disagreements about implementation. When those possibilities disappear from view, audiences may begin evaluating only the [two options]({{ 'two-options/' | relative_url }}) presented rather than asking whether other legitimate positions exist.
 
-Bush’s “with us or with the terrorists” formulation therefore remains a useful historical example of how either-or rhetoric can strengthen a political message while also narrowing the space for qualified agreement and nuanced disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophynow.org/issues/52/The_Bush_Disjunction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophynow.org">[Philosophy Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophynow.org</span><span class="citation-popover-snippet">Philosophy NowThe Bush Disjunction | Issue 52... September 11 terrorist attacks, U.S. President George W. Bush gave a speech to... eithe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/September_2001_George_W._Bush_speech_to_a_joint_session_of_Congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">September 2001 George W. Bush speech to a joint session of Congress</span><span class="citation-popover-snippet">Bush speech to a joint session...September 20, 2001 (2001-09-20). Time, 8:00 p.m. EST. Duration, 35 minutes... terrorists, and aids and...</span><span class="citation-popover-meta">Published: September 2001</span></span></span>
+Bush’s “with us or with the terrorists” formulation therefore remains a useful historical example of how either-or rhetoric can strengthen a political message while also narrowing the space for qualified agreement and nuanced disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophynow.org/issues/52/The_Bush_Disjunction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophynow.org">[Philosophy Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophynow.org</span><span class="citation-popover-snippet">Philosophy NowThe Bush Disjunction &#124; Issue 52... September 11 terrorist attacks, U.S. President George W. Bush gave a speech to... eithe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/September_2001_George_W._Bush_speech_to_a_joint_session_of_Congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">September 2001 George W. Bush speech to a joint session of Congress</span><span class="citation-popover-snippet">Bush speech to a joint session...September 20, 2001 (2001-09-20). Time, 8:00 p.m. EST. Duration, 35 minutes... terrorists, and aids and...</span><span class="citation-popover-meta">Published: September 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_with_us_or_terrorist_0d3e2f-Illustration-3-dark.svg" | relative_url }}" alt="Bush Phrase illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_with_us_or_terrorist_0d3e2f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_with_us_or_terrorist_0d3e2f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -769,139 +769,139 @@ Bush’s “with us or with the terrorists” formulation therefore remains a us
 1. <a id="endnote-1"></a>
    Source: georgewbush-whitehouse.archives.gov  
    Title: George W  
-   Link: [https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html](https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bush Presidential LibraryPresident Declares &quot;Freedom at War with Fear&quot;President Bush addressed a joint session of Congress and the Americ...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: papers.ssrn.com  
    Title: Many people did accept his subsequent arguments,  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2775610_code1792737.pdf?abstractid=2775610&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2775610_code1792737.pdf?abstractid=2775610&mirid=1)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2775610_code1792737.pdf?abstractid=2775610&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2775610_code1792737.pdf?abstractid=2775610&amp;mirid=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRN[PDF] Good Versus Evil: Argument to Begin Global War on TerrorismWe also argue that once President Bush set the Good versus Evil fram...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ciaotest.cc.columbia.edu  
    Title: CIAOThe Bush Doctrine and U.S  
-   Link: [https://ciaotest.cc.columbia.edu/olj/ad/ad_v9_2/doc01.html](https://ciaotest.cc.columbia.edu/olj/ad/ad_v9_2/doc01.html)  
+   Link: <a href="https://ciaotest.cc.columbia.edu/olj/ad/ad_v9_2/doc01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/ad/ad_v9_2/doc01.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventionby CJ Dolan · 2004 · Cited by 15 — Either you are with us, or you are with the terrorists. From this day forward, any nation...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: 2009-2017.state.gov  
-   Link: [https://2009-2017.state.gov/j/ct/rls/crt/2001/html/10249.htm](https://2009-2017.state.gov/j/ct/rls/crt/2001/html/10249.htm)  
+   Link: <a href="https://2009-2017.state.gov/j/ct/rls/crt/2001/html/10249.htm" target="_blank" rel="noopener noreferrer nofollow">https://2009-2017.state.gov/j/ct/rls/crt/2001/html/10249.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of StateL - Overview of State-Sponsored TerrorismEither you are with us, or you are with the terrorists.&quot; President George W...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ciaotest.cc.columbia.edu  
    Title: fa sepoct03a  
-   Link: [https://ciaotest.cc.columbia.edu/olj/fa/fa_sepoct03a.html](https://ciaotest.cc.columbia.edu/olj/fa/fa_sepoct03a.html)  
+   Link: <a href="https://ciaotest.cc.columbia.edu/olj/fa/fa_sepoct03a.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/fa/fa_sepoct03a.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are only two powers now in the world. One is America, which is tyrannical and oppressive. The...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: September 2001 George W. Bush speech to a joint session of Congress  
-   Link: [https://en.wikipedia.org/wiki/September_2001_George_W._Bush_speech_to_a_joint_session_of_Congress](https://en.wikipedia.org/wiki/September_2001_George_W._Bush_speech_to_a_joint_session_of_Congress)  
+   Link: <a href="https://en.wikipedia.org/wiki/September_2001_George_W._Bush_speech_to_a_joint_session_of_Congress" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/September_2001_George_W._Bush_speech_to_a_joint_session_of_Congress</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bush speech to a joint session...September 20, 2001 (2001-09-20). Time, 8:00 p.m. EST. Duration, 35 minutes... terrorists, and aids and...</p></details>
    Published: September 2001  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: You are either with us, or against us  
-   Link: [https://en.wikipedia.org/wiki/You_are_either_with_us%2C_or_against_us](https://en.wikipedia.org/wiki/You_are_either_with_us%2C_or_against_us)  
+   Link: <a href="https://en.wikipedia.org/wiki/You_are_either_with_us%2C_or_against_us" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/You_are_either_with_us%2C_or_against_us</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>You are either with us, or against usA contemporary example is the statement of former US President George W.... Either you are with...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: americanarchive.org  
-   Link: [https://americanarchive.org/primary_source_sets/war-on-terror/5-507-6m3319sr3r](https://americanarchive.org/primary_source_sets/war-on-terror/5-507-6m3319sr3r)  
+   Link: <a href="https://americanarchive.org/primary_source_sets/war-on-terror/5-507-6m3319sr3r" target="_blank" rel="noopener noreferrer nofollow">https://americanarchive.org/primary_source_sets/war-on-terror/5-507-6m3319sr3r</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Either you are with us, or you are with the terrorists. [applause] From this day forward, any nation...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cfr.org  
    Title: how 911 reshaped foreign policy  
-   Link: [https://www.cfr.org/timelines/how-911-reshaped-foreign-policy](https://www.cfr.org/timelines/how-911-reshaped-foreign-policy)  
+   Link: <a href="https://www.cfr.org/timelines/how-911-reshaped-foreign-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.cfr.org/timelines/how-911-reshaped-foreign-policy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>either you are with us or you are with the terrorists.” The U.S. government uses the term “global war on terror” to describe its far...R...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: philosophynow.org  
-   Link: [https://philosophynow.org/issues/52/The_Bush_Disjunction](https://philosophynow.org/issues/52/The_Bush_Disjunction)  
+   Link: <a href="https://philosophynow.org/issues/52/The_Bush_Disjunction" target="_blank" rel="noopener noreferrer nofollow">https://philosophynow.org/issues/52/The_Bush_Disjunction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy NowThe Bush Disjunction | Issue 52... September 11 terrorist attacks, U.S. President George W. Bush gave a speech to... eithe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: marshallcenter.org  
    Title: Marshall Center The EU and U.S  
-   Link: [https://www.marshallcenter.org/en/publications/occasional-papers/eu-and-us-strategies-against-terrorism-and-proliferation-wmd-comparative-study-0](https://www.marshallcenter.org/en/publications/occasional-papers/eu-and-us-strategies-against-terrorism-and-proliferation-wmd-comparative-study-0)  
+   Link: <a href="https://www.marshallcenter.org/en/publications/occasional-papers/eu-and-us-strategies-against-terrorism-and-proliferation-wmd-comparative-study-0" target="_blank" rel="noopener noreferrer nofollow">https://www.marshallcenter.org/en/publications/occasional-papers/eu-and-us-strategies-against-terrorism-and-proliferation-wmd-comparative-study-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies against Terrorism and Proliferation of...This paper is intended to give a comparative analysis of the strategies of US and EU...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: vanityfair.com  
    Title: Vanity Fair"We Can Never Allow This to Happen Again": Rep  
-   Link: [https://www.vanityfair.com/news/2021/08/barbara-lee-afghanistan-withdrawal-joe-biden](https://www.vanityfair.com/news/2021/08/barbara-lee-afghanistan-withdrawal-joe-biden)  
+   Link: <a href="https://www.vanityfair.com/news/2021/08/barbara-lee-afghanistan-withdrawal-joe-biden" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2021/08/barbara-lee-afghanistan-withdrawal-joe-biden</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Barbara Lee on Afghanistan&#x27;s Spectacular Fall and the Futility of &quot;Forever Wars&quot;August 18, 2021 — Rep. Barbara Lee reflects on her vote a...</p></details>
    Published: August 18, 2021  
 
 13. <a id="endnote-13"></a>
    Source: mulroneyinstitute.ca  
    Title: George W  
-   Link: [https://www.mulroneyinstitute.ca/node/5006](https://www.mulroneyinstitute.ca/node/5006)  
+   Link: <a href="https://www.mulroneyinstitute.ca/node/5006" target="_blank" rel="noopener noreferrer nofollow">https://www.mulroneyinstitute.ca/node/5006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bush&#x27;s Address After 9/11Nine days following the September 11th 2001 attacks on the United States, George W. Bush addressed both houses o...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: Either you are with us, or you are with the terrorists  
-   Link: [https://www.researchgate.net/publication/33417009_Either_you_are_with_us_or_you_are_with_the_terrorists_A_discourse_analysis_of_President_George_W_Bush%27s_declared_war_on_terrorism](https://www.researchgate.net/publication/33417009_Either_you_are_with_us_or_you_are_with_the_terrorists_A_discourse_analysis_of_President_George_W_Bush%27s_declared_war_on_terrorism)  
+   Link: <a href="https://www.researchgate.net/publication/33417009_Either_you_are_with_us_or_you_are_with_the_terrorists_A_discourse_analysis_of_President_George_W_Bush%27s_declared_war_on_terrorism" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/33417009_Either_you_are_with_us_or_you_are_with_the_terrorists_A_discourse_analysis_of_President_George_W_Bush%27s_declared_war_on_terrorism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Citation | Either you are with us, or you are with the terrorists. A discourse analysis of President George W. Bush&#x27;s decla...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: georgewbushlibrary.gov  
-   Link: [https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror](https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror)  
+   Link: <a href="https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror" target="_blank" rel="noopener noreferrer nofollow">https://www.georgewbushlibrary.gov/research/topic-guides/global-war-terror</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global War on TerrorThe Global War on Terror is an international, American-led military campaign launched following the September 11, 200...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bu.edu  
-   Link: [https://www.bu.edu/historic/hs/nov01.html](https://www.bu.edu/historic/hs/nov01.html)  
+   Link: <a href="https://www.bu.edu/historic/hs/nov01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/historic/hs/nov01.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston UniversityThe Historical Society, Boston UniversityHis weapon is not traditional war, but terror. Ideally, terrorists represent a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: teenvogue.com  
-   Link: [https://www.teenvogue.com/story/what-is-the-aumf-iraq](https://www.teenvogue.com/story/what-is-the-aumf-iraq)  
+   Link: <a href="https://www.teenvogue.com/story/what-is-the-aumf-iraq" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/what-is-the-aumf-iraq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>presidents to wage war globally. The U.S. Constitution grants Congress the power to declare war, but since World War II, presidents have...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: gravitas in 2001 george w bush had declared either you are with us or you are wi  
-   Link: [https://www.facebook.com/WIONews/posts/gravitas-in-2001-george-w-bush-had-declared-either-you-are-with-us-or-you-are-wi/1840152766195350/](https://www.facebook.com/WIONews/posts/gravitas-in-2001-george-w-bush-had-declared-either-you-are-with-us-or-you-are-wi/1840152766195350/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/gravitas-in-2001-george-w-bush-had-declared-either-you-are-with-us-or-you-are-wi/1840152766195350/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/gravitas-in-2001-george-w-bush-had-declared-either-you-are-with-us-or-you-are-wi/1840152766195350/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#Gravitas | In 2001, George W Bush had declared: &quot;...Gravitas | In 2001, George W Bush had declared: &quot;Either you are with us or you are...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: securitypolicylaw.syr.edu  
-   Link: [https://securitypolicylaw.syr.edu/wp-content/uploads/2016/11/Barnett_American-Exceptionalism_and_the_Construction_of_the_War_on-Terror-mwedit111716.pdf](https://securitypolicylaw.syr.edu/wp-content/uploads/2016/11/Barnett_American-Exceptionalism_and_the_Construction_of_the_War_on-Terror-mwedit111716.pdf)  
+   Link: <a href="https://securitypolicylaw.syr.edu/wp-content/uploads/2016/11/Barnett_American-Exceptionalism_and_the_Construction_of_the_War_on-Terror-mwedit111716.pdf" target="_blank" rel="noopener noreferrer nofollow">https://securitypolicylaw.syr.edu/wp-content/uploads/2016/11/Barnett_American-Exceptionalism_and_the_Construction_of_the_War_on-Terror-mwedit111716.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11, 2001, galvanized the articulation of a comprehensive counterterrorism policy framework in the Middle East; however...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: presidency.ucsb.edu  
    Title: address before joint session the congress the state the union 24  
-   Link: [https://www.presidency.ucsb.edu/documents/address-before-joint-session-the-congress-the-state-the-union-24](https://www.presidency.ucsb.edu/documents/address-before-joint-session-the-congress-the-state-the-union-24)  
+   Link: <a href="https://www.presidency.ucsb.edu/documents/address-before-joint-session-the-congress-the-state-the-union-24" target="_blank" rel="noopener noreferrer nofollow">https://www.presidency.ucsb.edu/documents/address-before-joint-session-the-congress-the-state-the-union-24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Before a Joint Session of the Congress on the...20 Jan 2004 — As part of the offensive against terror, we are also confronting the regim...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thesis.eur.nl  
-   Link: [https://thesis.eur.nl/pub/45939/Gestel_366765.pdf](https://thesis.eur.nl/pub/45939/Gestel_366765.pdf)  
+   Link: <a href="https://thesis.eur.nl/pub/45939/Gestel_366765.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesis.eur.nl/pub/45939/Gestel_366765.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A content analysis of the news coverage of George W. Bush&#x27;s speeches on the War on...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: georgewbushlibrary.gov  
    Title: 9 11 the steel of american resolve  
-   Link: [https://www.georgewbushlibrary.gov/explore/exhibits/9-11-the-steel-of-american-resolve](https://www.georgewbushlibrary.gov/explore/exhibits/9-11-the-steel-of-american-resolve)  
+   Link: <a href="https://www.georgewbushlibrary.gov/explore/exhibits/9-11-the-steel-of-american-resolve" target="_blank" rel="noopener noreferrer nofollow">https://www.georgewbushlibrary.gov/explore/exhibits/9-11-the-steel-of-american-resolve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>George W. Bush Library9/11: The Steel of American ResolveThe 9/11 terrorist attacks killed 2977 people and changed the world as we knew i...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: Why is he talking about Iran, Iraq and North Korea?  
-   Link: [https://www.facebook.com/AmericanExperiencePBS/posts/states-like-these-and-their-terrorist-allies-constitute-an-axis-of-evil-arming-t/1292641179578160/](https://www.facebook.com/AmericanExperiencePBS/posts/states-like-these-and-their-terrorist-allies-constitute-an-axis-of-evil-arming-t/1292641179578160/)  
+   Link: <a href="https://www.facebook.com/AmericanExperiencePBS/posts/states-like-these-and-their-terrorist-allies-constitute-an-axis-of-evil-arming-t/1292641179578160/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanExperiencePBS/posts/states-like-these-and-their-terrorist-allies-constitute-an-axis-of-evil-arming-t/1292641179578160/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;States like these, and their terrorist allies, constitute an axis of evil...January 29, 2026 — I watched the speech, and I remember thi...</p></details>
    Published: January 29, 2026  
 
 24. <a id="endnote-24"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: [https://georgewbush-whitehouse.archives.gov/nsc/nssall.html](https://georgewbush-whitehouse.archives.gov/nsc/nssall.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/nsc/nssall.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/nsc/nssall.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Security Strategy of the United States of AmericaToday, the United States enjoys a position of unparalleled military strength an...</p></details>

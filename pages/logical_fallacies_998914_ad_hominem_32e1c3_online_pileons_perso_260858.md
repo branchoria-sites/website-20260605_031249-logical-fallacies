@@ -244,9 +244,9 @@ sibling_links:
   short_title: Science Effects
   heading_title: Can attacking a scientist change beliefs?
 - basename: logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14
-  title: Tu Quoque Hypocrisy | Ad Hominem
-  permalink: /tu-quoque-hypocrisy/
-  short_title: Tu Quoque Hypocrisy
+  title: Tu Quoque Hypocrisy 9 F6 A14 | Ad Hominem
+  permalink: /tu-quoque-hypocrisy-9-f6-a14/
+  short_title: Tu Quoque Hypocrisy 9 F6 A14
 up_link:
   basename: logical_fallacies_998914_ad_hominem_32e1c3
   title: Ad Hominem | Logical Fallacies
@@ -273,7 +273,7 @@ image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_
 
 ## Introduction
 
-Online pile-ons and quote-post personal attacks are a modern form of ad hominem argument that thrive on the design of [social media]({{ 'social-media/' | relative_url }}) platforms. Instead of answering a claim, users share a post to a wider audience, attach a brief insult or accusation, and invite others to react. The result is often a rapid shift in attention from the substance of an argument to the character, motives or identity of the person who made it. Because these exchanges are public, highly visible and rewarded by engagement metrics, a short personal attack can spread faster than a detailed rebuttal. Research on social media behaviour suggests that [outrage]({{ 'outrage/' | relative_url }}), signalling and group dynamics all help amplify these personalised attacks, making them especially influential in shaping first impressions and public judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage online</span><span class="citation-popover-snippet">YaleNews&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
+Online pile-ons and quote-post personal attacks are a modern form of ad hominem argument that thrive on the design of [social media]({{ 'social-media/' | relative_url }}) platforms. Instead of answering a claim, users share a post to a wider audience, attach a brief insult or accusation, and invite others to react. The result is often a rapid shift in attention from the substance of an argument to the character, motives or identity of the person who made it. Because these exchanges are public, highly visible and rewarded by engagement metrics, a short personal attack can spread faster than a detailed rebuttal. Research on social media behaviour suggests that [outrage]({{ 'outrage/' | relative_url }}), signalling and group dynamics all help amplify these personalised attacks, making them especially influential in shaping first impressions and public judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage online</span><span class="citation-popover-snippet">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-1-dark.svg" | relative_url }}" alt="Pile ons illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -309,7 +309,7 @@ Several factors encourage this behaviour:
 * **Visibility:** Every additional hostile reaction demonstrates that others have already joined.
 * **Low participation costs:** Adding a mocking comment or repost requires little effort.
 * **Social rewards:** Likes, reposts and supportive replies provide immediate feedback.
-* **Perceived consensus:** Large numbers of critical responses can create the impression that the matter is already settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage online</span><span class="citation-popover-snippet">YaleNews&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
+* **Perceived consensus:** Large numbers of critical responses can create the impression that the matter is already settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage online</span><span class="citation-popover-snippet">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
 
 The result is that criticism increasingly becomes a performance for observers rather than an attempt to persuade the original speaker.
 
@@ -350,7 +350,7 @@ The danger is not merely that the crowd may be mistaken. It is that the crowd's 
 
 ## Keeping the claim in view
 
-Recognising an online [ad hominem pile]({{ 'pile-ons-220fa0/' | relative_url }})-on requires attention to what is actually being addressed.
+Recognising an online ad hominem pile-on requires attention to what is actually being addressed.
 
 Useful questions include:
 
@@ -367,7 +367,7 @@ Useful questions include:
 
 These questions help separate legitimate criticism from personal dismissal. A person's credibility, expertise or conflicts of interest may sometimes be relevant. However, those considerations still need to connect to the quality of the evidence or reasoning. Simply attracting mass disapproval does not prove a claim false.
 
-In online environments, this distinction becomes especially important because platform design often rewards speed, visibility and emotional reaction. The easiest content to spread is not always the strongest argument. A quote-post that turns a [debate]({{ 'debate/' | relative_url }}) into a judgement of character may achieve enormous reach while contributing very little to determining whether the original claim is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3625680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryTo Reply or to Quote: Comparing Conversational Framing...Our research (1) demonstrates that the quote feature is more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage online</span><span class="citation-popover-snippet">YaleNews&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
+In online environments, this distinction becomes especially important because platform design often rewards speed, visibility and emotional reaction. The easiest content to spread is not always the strongest argument. A quote-post that turns a [debate]({{ 'debate/' | relative_url }}) into a judgement of character may achieve enormous reach while contributing very little to determining whether the original claim is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3625680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryTo Reply or to Quote: Comparing Conversational Framing...Our research (1) demonstrates that the quote feature is more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage online</span><span class="citation-popover-snippet">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-3-dark.svg" | relative_url }}" alt="Pile ons illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -793,88 +793,88 @@ In online environments, this distinction becomes especially important because pl
 
 1. <a id="endnote-1"></a>
    Source: insight.kellogg.northwestern.edu  
-   Link: [https://insight.kellogg.northwestern.edu/article/whats-behind-the-rush-to-join-an-internet-pile-on](https://insight.kellogg.northwestern.edu/article/whats-behind-the-rush-to-join-an-internet-pile-on)  
+   Link: <a href="https://insight.kellogg.northwestern.edu/article/whats-behind-the-rush-to-join-an-internet-pile-on" target="_blank" rel="noopener noreferrer nofollow">https://insight.kellogg.northwestern.edu/article/whats-behind-the-rush-to-join-an-internet-pile-on</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kellogg InsightWhat&#x27;s Behind the Rush to Join an Internet Pile-on?30 Jan 2024 — Joining a social-media pile-on, calling for someone&#x27;s fir...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3625680](https://dl.acm.org/doi/10.1145/3625680)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3625680" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3625680</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryTo Reply or to Quote: Comparing Conversational Framing...Our research (1) demonstrates that the quote feature is more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2207.03020](https://arxiv.org/abs/2207.03020)  
+   Link: <a href="https://arxiv.org/abs/2207.03020" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.03020</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2311.09367](https://arxiv.org/abs/2311.09367)  
+   Link: <a href="https://arxiv.org/abs/2311.09367" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.09367</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Detection and Behavioral Analysis on Social Mediaby S Mane · 2023 · Cited by 6 — This paper delves into the field of Aggression C...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: news.yale.edu  
    Title: News'Likes' and 'shares' teach people to express more outrage online  
-   Link: [https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YaleNews&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</p></details>
+   Link: <a href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</p></details>
    Published: August 13, 2021  
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20563051211021378](https://journals.sagepub.com/doi/10.1177/20563051211021378)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051211021378" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051211021378</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMorally Motivated Networked Harassment as Normative...by AE Marwick · 2021 · Cited by 236 — identified 10 types of harassme...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358364726_Adolescents_on_Social_Media_Aggression_and_Cyberbullying](https://www.researchgate.net/publication/358364726_Adolescents_on_Social_Media_Aggression_and_Cyberbullying)  
+   Link: <a href="https://www.researchgate.net/publication/358364726_Adolescents_on_Social_Media_Aggression_and_Cyberbullying" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358364726_Adolescents_on_Social_Media_Aggression_and_Cyberbullying</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adolescents on Social Media: Aggression and CyberbullyingBecause these behaviors target social relationships and reputational standing wi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: hsph.harvard.edu  
-   Link: [https://hsph.harvard.edu/research/health-communication/resources/digital-safety-kit-for-public-health/recognize-and-understand-online-harassment/](https://hsph.harvard.edu/research/health-communication/resources/digital-safety-kit-for-public-health/recognize-and-understand-online-harassment/)  
+   Link: <a href="https://hsph.harvard.edu/research/health-communication/resources/digital-safety-kit-for-public-health/recognize-and-understand-online-harassment/" target="_blank" rel="noopener noreferrer nofollow">https://hsph.harvard.edu/research/health-communication/resources/digital-safety-kit-for-public-health/recognize-and-understand-online-harassment/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and understand online harassmentOnline harassment can take many forms. It might resemble in-person bullying via personal insults and thre...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374578042_To_Reply_or_to_Quote_Comparing_Conversational_Framing_Strategies_on_Twitter](https://www.researchgate.net/publication/374578042_To_Reply_or_to_Quote_Comparing_Conversational_Framing_Strategies_on_Twitter)  
+   Link: <a href="https://www.researchgate.net/publication/374578042_To_Reply_or_to_Quote_Comparing_Conversational_Framing_Strategies_on_Twitter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374578042_To_Reply_or_to_Quote_Comparing_Conversational_Framing_Strategies_on_Twitter</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To Reply or to Quote: Comparing Conversational Framing...Our research (1) demonstrates that the quote feature is more often used to broa...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: news.exeter.ac.uk  
-   Link: [https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/even-when-peoples-opinions-are-hard-to-change-online-comments-can-shape-how-political-social-media-content-is-perceived-study-shows/](https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/even-when-peoples-opinions-are-hard-to-change-online-comments-can-shape-how-political-social-media-content-is-perceived-study-shows/)  
+   Link: <a href="https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/even-when-peoples-opinions-are-hard-to-change-online-comments-can-shape-how-political-social-media-content-is-perceived-study-shows/" target="_blank" rel="noopener noreferrer nofollow">https://news.exeter.ac.uk/faculty-of-humanities-arts-and-social-sciences/even-when-peoples-opinions-are-hard-to-change-online-comments-can-shape-how-political-social-media-content-is-perceived-study-shows/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>when people&#x27;s opinions are hard to change, online...8 Apr 2026 — Online comments can shape how social media content about [politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;) is pe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: www-users.york.ac.uk  
-   Link: [https://www-users.york.ac.uk/~ade1/research/Social%20media/CompleteGuidetoTwitterAnalyticsSimplyMeasured.pdf](https://www-users.york.ac.uk/~ade1/research/Social%20media/CompleteGuidetoTwitterAnalyticsSimplyMeasured.pdf)  
+   Link: <a href="https://www-users.york.ac.uk/~ade1/research/Social%20media/CompleteGuidetoTwitterAnalyticsSimplyMeasured.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-users.york.ac.uk/~ade1/research/Social%20media/CompleteGuidetoTwitterAnalyticsSimplyMeasured.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete Guide to Twitter AnalyticsThe potential reach metric allows you to quantify not only the users you engaged with, but also the fo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencemediacentre.es  
    Title: online bullying public health problem needs social and governmental response  
-   Link: [https://sciencemediacentre.es/en/online-bullying-public-health-problem-needs-social-and-governmental-response](https://sciencemediacentre.es/en/online-bullying-public-health-problem-needs-social-and-governmental-response)  
+   Link: <a href="https://sciencemediacentre.es/en/online-bullying-public-health-problem-needs-social-and-governmental-response" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/online-bullying-public-health-problem-needs-social-and-governmental-response</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Online harassment is a public health problem&quot;.Oct 10, 2023 — &quot;We are seeing more and more episodes of abuse and harassment on social net...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: frogmanmediagroup.com  
    Title: the science of first impressions what your social media profile says about you  
-   Link: [https://frogmanmediagroup.com/the-science-of-first-impressions-what-your-social-media-profile-says-about-you/](https://frogmanmediagroup.com/the-science-of-first-impressions-what-your-social-media-profile-says-about-you/)  
+   Link: <a href="https://frogmanmediagroup.com/the-science-of-first-impressions-what-your-social-media-profile-says-about-you/" target="_blank" rel="noopener noreferrer nofollow">https://frogmanmediagroup.com/the-science-of-first-impressions-what-your-social-media-profile-says-about-you/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies show that people form an opinion about someone or something in seven seconds or less.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: commonslibrary.org  
    Title: surviving the pile on navigating online culture wars  
-   Link: [https://commonslibrary.org/surviving-the-pile-on-navigating-online-culture-wars/](https://commonslibrary.org/surviving-the-pile-on-navigating-online-culture-wars/)  
+   Link: <a href="https://commonslibrary.org/surviving-the-pile-on-navigating-online-culture-wars/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.org/surviving-the-pile-on-navigating-online-culture-wars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Surviving the Pile-On: Navigating Online Culture Wars13 Jan 2025 — Learn how to navigate online culture wars and survive social media pil...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: kingsleynapley.co.uk  
    Title: crimes committed using social media new guidelines  
-   Link: [https://www.kingsleynapley.co.uk/insights/blogs/criminal-law-blog/crimes-committed-using-social-media-new-guidelines](https://www.kingsleynapley.co.uk/insights/blogs/criminal-law-blog/crimes-committed-using-social-media-new-guidelines)  
+   Link: <a href="https://www.kingsleynapley.co.uk/insights/blogs/criminal-law-blog/crimes-committed-using-social-media-new-guidelines" target="_blank" rel="noopener noreferrer nofollow">https://www.kingsleynapley.co.uk/insights/blogs/criminal-law-blog/crimes-committed-using-social-media-new-guidelines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>harassment of an individual, and (ii) “virtual mobbing” or “dog-piling” whereby a number of individuals use social media to disparage...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: absolutelymaybe.plos.org  
    Title: quote tweeting over 30 studies dispel some myths  
-   Link: [https://absolutelymaybe.plos.org/2023/01/12/quote-tweeting-over-30-studies-dispel-some-myths/](https://absolutelymaybe.plos.org/2023/01/12/quote-tweeting-over-30-studies-dispel-some-myths/)  
+   Link: <a href="https://absolutelymaybe.plos.org/2023/01/12/quote-tweeting-over-30-studies-dispel-some-myths/" target="_blank" rel="noopener noreferrer nofollow">https://absolutelymaybe.plos.org/2023/01/12/quote-tweeting-over-30-studies-dispel-some-myths/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tweeting: Over 30 Studies Dispel Some Myths12 Jan 2023 — I found 37 studies with data and/or content analysis for quote tweets (QTs) that...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:57:11'
 parent_title: Will One Extension Ruin the Rules? | Fallacy Lab
 parent_permalink: /deadlines/
 parent_nav_short_title: Deadlines
@@ -265,7 +266,6 @@ next_link:
   permalink: /rule-limits/
   short_title: Rule Limits
   heading_title: Is a Flexible Deadline Still a Deadline?
-date: '2026-06-05 02:57:11 '
 header:
   og_image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-1.webp
@@ -278,7 +278,7 @@ A common slippery-slope objection to deadline extensions runs as follows: if one
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-1-dark.svg" | relative_url }}" alt="Precedent illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction is central to precedent arguments in deadline-extension decisions. A previous extension can influence future decisions by creating a reference point, but it does not automatically determine them. In governance systems, precedent is usually strongest when later cases are materially similar. When circumstances differ, consistency may require different outcomes rather than identical ones. The slippery-slope error occurs when the existence of one precedent is treated as proof that decision-makers have lost the ability to distinguish between cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">Oxford Research Archive Consistency in Administrative Law</span><span class="citation-popover-snippet">Oxford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</span><span class="citation-popover-meta">Published: May 5, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.localgovernmentlawyer.co.uk/governance/314-governance-a-risk-articles/40015-administrative-law-principles-consistently-consistent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localgovernmentlawyer.co.uk">[Local Government Lawyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localgovernmentlawyer.co.uk</span><span class="citation-popover-title">40015 administrative law principles consistently consistent</span><span class="citation-popover-snippet">Administrative law principles – consistently consistent8 Mar 2019 — What we mean in terms of consistency is that we should be treated in...</span></span></span>
+This distinction is central to precedent arguments in deadline-extension decisions. A previous extension can influence future decisions by creating a reference point, but it does not automatically determine them. In governance systems, precedent is usually strongest when later cases are materially similar. When circumstances differ, consistency may require different outcomes rather than identical ones. The slippery-slope error occurs when the existence of one precedent is treated as proof that decision-makers have lost the ability to distinguish between cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">Oxford Research Archive Consistency in Administrative Law</span><span class="citation-popover-snippet">ford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</span><span class="citation-popover-meta">Published: May 5, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.localgovernmentlawyer.co.uk/governance/314-governance-a-risk-articles/40015-administrative-law-principles-consistently-consistent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localgovernmentlawyer.co.uk">[Local Government Lawyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localgovernmentlawyer.co.uk</span><span class="citation-popover-title">40015 administrative law principles consistently consistent</span><span class="citation-popover-snippet">Administrative law principles – consistently consistent8 Mar 2019 — What we mean in terms of consistency is that we should be treated in...</span></span></span>
 
 ## How Precedent Differs from Surrender
 
@@ -351,7 +351,7 @@ A poorly reasoned decision may simply say that an extension was approved. A narr
 
 The narrower the reasoning, the easier it becomes to evaluate future requests against the same standard rather than against the bare fact that an extension once occurred.
 
-This approach reflects a broader principle found in administrative decision-making. Consistency is not achieved by repeating outcomes mechanically. It is achieved by applying the same criteria to comparable situations. Prior decisions matter because of the reasons behind them, not merely because they happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">Oxford Research Archive Consistency in Administrative Law</span><span class="citation-popover-snippet">Oxford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</span><span class="citation-popover-meta">Published: May 5, 2023</span></span></span>
+This approach reflects a broader principle found in administrative decision-making. Consistency is not achieved by repeating outcomes mechanically. It is achieved by applying the same criteria to comparable situations. Prior decisions matter because of the reasons behind them, not merely because they happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">Oxford Research Archive Consistency in Administrative Law</span><span class="citation-popover-snippet">ford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</span><span class="citation-popover-meta">Published: May 5, 2023</span></span></span>
 
 A carefully written approval can therefore reduce slippery-slope pressure. Instead of creating a broad precedent of “extensions are allowed”, it creates a more precise precedent of “extensions are allowed when these specific conditions are met”.
 
@@ -396,7 +396,7 @@ This means that decision-makers can remain consistent while producing different 
 
 The crucial requirement is that the distinctions are relevant, transparent and connected to the governing rule.
 
-Seen this way, precedent is neither irrelevant nor all-powerful. It is a tool for disciplined comparison. The slippery-slope mistake arises when precedent is treated as a force that automatically overrides judgement. A past extension can guide future decisions, but it does not force every later request to receive the same answer. Fair governance depends on comparing reasons, not merely counting prior exceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Judicial-Judicial Equality Slippery Slopes and the...15 Jun 2022 — Arguing that judicial decision A will lead to B thus requires more th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">Oxford Research Archive Consistency in Administrative Law</span><span class="citation-popover-snippet">Oxford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</span><span class="citation-popover-meta">Published: May 5, 2023</span></span></span>
+Seen this way, precedent is neither irrelevant nor all-powerful. It is a tool for disciplined comparison. The slippery-slope mistake arises when precedent is treated as a force that automatically overrides judgement. A past extension can guide future decisions, but it does not force every later request to receive the same answer. Fair governance depends on comparing reasons, not merely counting prior exceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Judicial-Judicial Equality Slippery Slopes and the...15 Jun 2022 — Arguing that judicial decision A will lead to B thus requires more th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">Oxford Research Archive Consistency in Administrative Law</span><span class="citation-popover-snippet">ford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</span><span class="citation-popover-meta">Published: May 5, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_pLU_Txx8Zo" title="How to Spot Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_pLU_Txx8Zo" target="_blank" rel="noopener noreferrer">How to Spot Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Darren F Magee &middot; Views: 4.9K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_pLU_Txx8Zo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_pLU_Txx8Zo">Open on YouTube</a></p></div></div></div>
@@ -823,54 +823,54 @@ Seen this way, precedent is neither irrelevant nor all-powerful. It is a tool fo
 
 1. <a id="endnote-1"></a>
    Source: reason.com  
-   Link: [https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/](https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/)  
+   Link: <a href="https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Judicial-Judicial Equality [Slippery Slopes](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) and the...15 Jun 2022 — Arguing that judicial decision A will lead to B thus requires more th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ibanet.org  
    Title: infeasibility of precedents as tool for consistency arbitration  
-   Link: [https://www.ibanet.org/infeasibility-of-precedents-as-tool-for-consistency-arbitration](https://www.ibanet.org/infeasibility-of-precedents-as-tool-for-consistency-arbitration)  
+   Link: <a href="https://www.ibanet.org/infeasibility-of-precedents-as-tool-for-consistency-arbitration" target="_blank" rel="noopener noreferrer nofollow">https://www.ibanet.org/infeasibility-of-precedents-as-tool-for-consistency-arbitration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The infeasibility of using precedents as a tool to increase...4 Mar 2022 — The reliance on precedents in the decision-making process is...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slippery.pdf](https://www2.law.ucla.edu/Volokh/slippery.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>should be relied on when deciding which future decisions should be.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf](https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on when deciding which future decisions should be...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ora.ox.ac.uk  
    Title: Oxford Research Archive Consistency in Administrative Law  
-   Link: [https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j](https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</p></details>
+   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</p></details>
    Published: May 5, 2023  
 
 6. <a id="endnote-6"></a>
    Source: localgovernmentlawyer.co.uk  
    Title: 40015 administrative law principles consistently consistent  
-   Link: [https://www.localgovernmentlawyer.co.uk/governance/314-governance-a-risk-articles/40015-administrative-law-principles-consistently-consistent](https://www.localgovernmentlawyer.co.uk/governance/314-governance-a-risk-articles/40015-administrative-law-principles-consistently-consistent)  
+   Link: <a href="https://www.localgovernmentlawyer.co.uk/governance/314-governance-a-risk-articles/40015-administrative-law-principles-consistently-consistent" target="_blank" rel="noopener noreferrer nofollow">https://www.localgovernmentlawyer.co.uk/governance/314-governance-a-risk-articles/40015-administrative-law-principles-consistently-consistent</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Administrative law principles – consistently consistent8 Mar 2019 — What we mean in terms of consistency is that we should be treated in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: americanbar.org  
    Title: understand stare decisis  
-   Link: [https://www.americanbar.org/groups/public_education/publications/preview_home/understand-stare-decisis/](https://www.americanbar.org/groups/public_education/publications/preview_home/understand-stare-decisis/)  
+   Link: <a href="https://www.americanbar.org/groups/public_education/publications/preview_home/understand-stare-decisis/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanbar.org/groups/public_education/publications/preview_home/understand-stare-decisis/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Bar AssociationUnderstanding Stare Decisis16 Dec 2022 — To put it simply, stare decisis holds that courts and judges should hono...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: decisions.scc-csc.ca  
    Title: SCC Decisions Canada (Minister of Citizenship and Immigration) v  
-   Link: [https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/18078/index.do](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/18078/index.do)  
+   Link: <a href="https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/18078/index.do" target="_blank" rel="noopener noreferrer nofollow">https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/18078/index.do</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vavilov19 Dec 2019 — Whether an administrative decision maker has acted reasonably in adapting a legal or equitable doctrine involves a h...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mcleods.com.au  
    Title: Mc Leods Lawyers Restrictions on the Principle of Consistency in Decision  
-   Link: [https://www.mcleods.com.au/news/restrictions-on-the-principle-of-consistency-in-decision-making/](https://www.mcleods.com.au/news/restrictions-on-the-principle-of-consistency-in-decision-making/)  
+   Link: <a href="https://www.mcleods.com.au/news/restrictions-on-the-principle-of-consistency-in-decision-making/" target="_blank" rel="noopener noreferrer nofollow">https://www.mcleods.com.au/news/restrictions-on-the-principle-of-consistency-in-decision-making/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McLeods LawyersRestrictions on the Principle of Consistency in Decision-...March 11, 2020 — 11 Mar 2020 — The principle of consistency i...</p></details>
    Published: March 11, 2020  
 
@@ -878,55 +878,55 @@ Seen this way, precedent is neither irrelevant nor all-powerful. It is a tool fo
 
 10. <a id="endnote-10"></a>
    Source: administrativelawreview.org  
-   Link: [https://administrativelawreview.org/wp-content/uploads/sites/2/2023/04/ALR-75.1_Eisenberg-and-Mendelson_crop.pdf](https://administrativelawreview.org/wp-content/uploads/sites/2/2023/04/ALR-75.1_Eisenberg-and-Mendelson_crop.pdf)  
+   Link: <a href="https://administrativelawreview.org/wp-content/uploads/sites/2/2023/04/ALR-75.1_Eisenberg-and-Mendelson_crop.pdf" target="_blank" rel="noopener noreferrer nofollow">https://administrativelawreview.org/wp-content/uploads/sites/2/2023/04/ALR-75.1_Eisenberg-and-Mendelson_crop.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NOT-SO-STANDARD MODELby RS EISENBERG · Cited by 30 — Finally, it may tempt agencies to make policy through adjudication rather than t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: econfaculty.gmu.edu  
-   Link: [https://econfaculty.gmu.edu/pboettke/workshop/spring05/Rizzo.pdf](https://econfaculty.gmu.edu/pboettke/workshop/spring05/Rizzo.pdf)  
+   Link: <a href="https://econfaculty.gmu.edu/pboettke/workshop/spring05/Rizzo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://econfaculty.gmu.edu/pboettke/workshop/spring05/Rizzo.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gmu.edurules, theories and slippery slopes&#x27;.by MJ Rizo · Cited by 113 — Eugene Volokh has produced a wide- ranging study of various possi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: publiclawforeveryone.com  
-   Link: [https://publiclawforeveryone.com/2018/06/15/the-supreme-courts-judgment-in-gallaher-consistency-as-a-free-standing-principle-of-administrative-law/](https://publiclawforeveryone.com/2018/06/15/the-supreme-courts-judgment-in-gallaher-consistency-as-a-free-standing-principle-of-administrative-law/)  
+   Link: <a href="https://publiclawforeveryone.com/2018/06/15/the-supreme-courts-judgment-in-gallaher-consistency-as-a-free-standing-principle-of-administrative-law/" target="_blank" rel="noopener noreferrer nofollow">https://publiclawforeveryone.com/2018/06/15/the-supreme-courts-judgment-in-gallaher-consistency-as-a-free-standing-principle-of-administrative-law/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consistency as a free-standing principle of administrative...15 Jun 2018 — Notions like &#x27;conspicuous unfairness&#x27; and &#x27;abuse of power&#x27; ar...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hls.harvard.edu  
    Title: eugene volokh of the volokh conspiracy discusses slippery slope arguments video  
-   Link: [https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/](https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/)  
+   Link: <a href="https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/" target="_blank" rel="noopener noreferrer nofollow">https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Volokh, of The Volokh Conspiracy, discusses slippery...4 Oct 2011 — “Slippery slope arguments are actually about looking at public polic...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchonline.stthomas.edu  
-   Link: [https://researchonline.stthomas.edu/view/pdfCoverPage?download=true&filePid=13439813920003691&instCode=01CLIC_STTHOMAS](https://researchonline.stthomas.edu/view/pdfCoverPage?download=true&filePid=13439813920003691&instCode=01CLIC_STTHOMAS)  
+   Link: <a href="https://researchonline.stthomas.edu/view/pdfCoverPage?download=true&amp;filePid=13439813920003691&amp;instCode=01CLIC_STTHOMAS" target="_blank" rel="noopener noreferrer nofollow">https://researchonline.stthomas.edu/view/pdfCoverPage?download=true&amp;filePid=13439813920003691&amp;instCode=01CLIC_STTHOMAS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L. REV (2003). This article provides a comprehensive analysis of the Slippery Slope argument.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: uclalawreview.org  
-   Link: [https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf](https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf)  
+   Link: <a href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lippery slope mechanisms in both judicial decisionmaking and legislative action.&#x27; And...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPrecedent and the Rule of Law  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8643603/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8643603/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8643603/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8643603/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and the Rule of Law - PMCby S Lewis · 2021 · Cited by 105 — In the civil law [tradition](&amp;#123;&amp;#123; &#x27;tradition/&#x27; | relative_url &amp;#125;&amp;#125;), precedents are often used in order to tip the bal...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
    Title: They serve as the foundation for judges' reasoning  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2667096824000363](https://www.sciencedirect.com/science/article/pii/S2667096824000363)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2667096824000363" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667096824000363</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Textual similarity for legal precedents discovery: Assessing...by H Mentzingen · 2024 · Cited by 11 — In a court [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;), administrative...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 228189621 The Mechanisms of the Slippery Slope  
-   Link: [https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope](https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope)  
+   Link: <a href="https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mechanisms of the Slippery Slope | Request PDF9 Feb 2026 — Volokh (2003) shows, for example, that judiciary decisions can facilitate...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ukconstitutionallaw.org  
    Title: against consistency as a ground of review  
-   Link: [https://ukconstitutionallaw.org/2020/03/09/against-consistency-as-a-ground-of-review/](https://ukconstitutionallaw.org/2020/03/09/against-consistency-as-a-ground-of-review/)  
+   Link: <a href="https://ukconstitutionallaw.org/2020/03/09/against-consistency-as-a-ground-of-review/" target="_blank" rel="noopener noreferrer nofollow">https://ukconstitutionallaw.org/2020/03/09/against-consistency-as-a-ground-of-review/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Foran: Against Consistency as a Ground of Review9 Mar 2020 — A charitable reading would be that equal treatment is not a distinct...</p></details>

@@ -766,92 +766,92 @@ The episode remains memorable because it shows that the crucial question is not 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: The Literary Digest  
-   Link: [https://en.wikipedia.org/wiki/The_Literary_Digest](https://en.wikipedia.org/wiki/The_Literary_Digest)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Literary_Digest" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Literary_Digest</a>  
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C](https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C)  
+   Link: <a href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disas...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/1936](https://en.wikipedia.org/wiki/1936)  
+   Link: <a href="https://en.wikipedia.org/wiki/1936" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1936</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>19361936 (MCMXXXVI) was a leap year starting on Wednesday of the Gregorian calendar, the 1936th year of the Common Era (CE) and Anno D...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 1936 Summer Olympics  
-   Link: [https://en.wikipedia.org/wiki/1936_Summer_Olympics](https://en.wikipedia.org/wiki/1936_Summer_Olympics)  
+   Link: <a href="https://en.wikipedia.org/wiki/1936_Summer_Olympics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1936_Summer_Olympics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1936 Summer OlympicsOlympiade) and officially branded as Berlin 1936, were an international multi-sport event held from August 1st to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: historymatters.gmu.edu  
-   Link: [https://historymatters.gmu.edu/d/5168/](https://historymatters.gmu.edu/d/5168/)  
+   Link: <a href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow">https://historymatters.gmu.edu/d/5168/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bitbybitbook.com  
    Title: Bit by Bit Asking questions  
-   Link: [https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/](https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/)  
+   Link: <a href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineTaking the Next Step in Exploring the Literary Digest 1936...by B Chance · 2024 — Their methods correctly predict...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/literary](https://www.merriam-webster.com/dictionary/literary)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/literary" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/literary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LITERARY Definition &amp; Meaning6 days ago — The meaning of LITERARY is of, relating to, or having the characteristics of humane learning or...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: randomservices.org  
-   Link: [https://www.randomservices.org/random/data/LiteraryDigest.html](https://www.randomservices.org/random/data/LiteraryDigest.html)  
+   Link: <a href="https://www.randomservices.org/random/data/LiteraryDigest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.randomservices.org/random/data/LiteraryDigest.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Literary Digest PollThe candidates were Franklin Delano Roosevelt (the incumbent president, a democrat) and Alfred (Alf) Mossman Land...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 315940924 Roosevelt Predicted to Win Revisiting the 1936 Literary Digest Poll  
-   Link: [https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll](https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll)  
+   Link: <a href="https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roosevelt Predicted to Win: Revisiting the 1936 Literary...The Literary Digest poll of 1936, which incorrectly predicted that Landon wou...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theatlantic.com  
    Title: cellphones skew political polls did landlines do the same thing in 1936  
-   Link: [https://www.theatlantic.com/technology/archive/2012/09/cellphones-skew-political-polls-did-landlines-do-the-same-thing-in-1936/262640/](https://www.theatlantic.com/technology/archive/2012/09/cellphones-skew-political-polls-did-landlines-do-the-same-thing-in-1936/262640/)  
+   Link: <a href="https://www.theatlantic.com/technology/archive/2012/09/cellphones-skew-political-polls-did-landlines-do-the-same-thing-in-1936/262640/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/technology/archive/2012/09/cellphones-skew-political-polls-did-landlines-do-the-same-thing-in-1936/262640/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cellphones Skew Political Polls: Did Landlines Do...20 Sept 2012 — The infamous Literary Digest poll of 1936 predicted Alf Landon would...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pivotalresearch.ca  
    Title: the poll that changed polling selection bias and the 1936 us election  
-   Link: [https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/](https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/)  
+   Link: <a href="https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/" target="_blank" rel="noopener noreferrer nofollow">https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Poll that Changed Polling (Selection bias and the 1936...3 Jul 2024 — In advance of the 1936 presidential election, the Literary Dig...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalww2museum.org  
    Title: 1936 year worker labor action and reelection franklin d roosevelt  
-   Link: [https://www.nationalww2museum.org/war/articles/1936-year-worker-labor-action-and-reelection-franklin-d-roosevelt](https://www.nationalww2museum.org/war/articles/1936-year-worker-labor-action-and-reelection-franklin-d-roosevelt)  
+   Link: <a href="https://www.nationalww2museum.org/war/articles/1936-year-worker-labor-action-and-reelection-franklin-d-roosevelt" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalww2museum.org/war/articles/1936-year-worker-labor-action-and-reelection-franklin-d-roosevelt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1936, a Year for the Worker: Labor Action and...Jul 13, 2023 — In 1936, strikes and protests achieved major gains for American workers a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1](https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1)  
+   Link: <a href="https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Publisher. An intro to a statistical bias that makes its...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: blogs.library.duke.edu  
-   Link: [https://blogs.library.duke.edu/digital-collections/adaccess/timeline/1936-1940/](https://blogs.library.duke.edu/digital-collections/adaccess/timeline/1936-1940/)  
+   Link: <a href="https://blogs.library.duke.edu/digital-collections/adaccess/timeline/1936-1940/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.library.duke.edu/digital-collections/adaccess/timeline/1936-1940/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>duke.edu1936-1940 | Digital Collections Blog1936. Part of Roosevelt&#x27;s New Deal policies, the Agricultural Adjustment Act (AAA), is deemed...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: mathcenter.oxford.emory.edu  
    Title: historical Blunders  
-   Link: [https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/](https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/)  
+   Link: <a href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow">https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Math CenterFamous Statistical Blunders in HistoryIn 1936, Literary Digest, a national magazine of the time, sent out 10 million &quot;straw&quot; b...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2107.14166](https://arxiv.org/abs/2107.14166)  
+   Link: <a href="https://arxiv.org/abs/2107.14166" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.14166</a>  

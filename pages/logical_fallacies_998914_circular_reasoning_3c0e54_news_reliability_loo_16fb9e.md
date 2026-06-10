@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_re
 
 ## Introduction
 
-Can a news source prove its own reliability? Logically, no. A source may claim that it is accurate, impartial, or trustworthy, but those claims become circular if the only evidence offered is the source’s own record as described by itself. The reasoning loop looks simple: “This outlet is reliable because its reporting is accurate, and we know its reporting is accurate because the outlet is reliable.” The conclusion and the evidence end up supporting each other without any independent check. This is a specific form of [circular reasoning]({{ 'circularity/' | relative_url }}), a fallacy in which an argument never leaves its own assumptions.
+Can a news source prove its own reliability? Logically, no. A source may claim that it is accurate, impartial, or trustworthy, but those claims become circular if the only evidence offered is the source’s own record as described by itself. The reasoning loop looks simple: “This outlet is reliable because its reporting is accurate, and we know its reporting is accurate because the outlet is reliable.” The conclusion and the evidence end up supporting each other without any independent check. This is a specific form of circular reasoning, a fallacy in which an argument never leaves its own assumptions.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1-dark.svg" | relative_url }}" alt="News Trust illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -365,7 +365,7 @@ Statements such as “this source has always been right” often rely on selecti
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-3-dark.svg" | relative_url }}" alt="News Trust illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fact-Checking Used as a Badge Rather Than a Process
 
-Fact-checking can strengthen credibility when it is transparent and open to scrutiny. However, simply declaring that material has been fact-checked does not automatically prove accuracy. The value comes from the methodology, evidence, and accountability behind the verification process. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby DM Markowitz · 2023 · Cited by 32 — The current study assessed agreement among two independent fact-checkers, The Washington Post a...</span></span></span>
+Fact-checking can strengthen credibility when it is transparent and open to scrutiny. However, simply declaring that material has been fact-checked does not automatically prove accuracy. The value comes from the methodology, evidence, and accountability behind the verification process. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DM Markowitz · 2023 · Cited by 32 — The current study assessed agreement among two independent fact-checkers, The Washington Post a...</span></span></span>
 
 ### Source-to-Source Echoes
 
@@ -806,176 +806,176 @@ By contrast, evidence such as transparent sourcing, correction records, independ
 
 1. <a id="endnote-1"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/fact-check/about/](https://www.reuters.com/fact-check/about/)  
+   Link: <a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters ha establecido una unidad de fact-checking que revisa material visual y declaraciones en redes sociales. Los hallazgos se publica...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: glassmanlab.seas.harvard.edu  
    Title: We identify reliability criteria, We discuss 11 widely recognized criteria,  
-   Link: [https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf](https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf)  
+   Link: <a href="https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reliability Criteria for News WebsitesFebruary 1, 2024 — by H HEUER · 2024 · Cited by 15 — Reliability criteria for news websites can hel...</p></details>
    Published: February 1, 2024  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.09565](https://arxiv.org/abs/2404.09565)  
+   Link: <a href="https://arxiv.org/abs/2404.09565" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.09565</a>  
 
 4. <a id="endnote-4"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: rebuilding trust journalisms role ai driven world  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world](https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/rebuilding-trust-journalisms-role-ai-driven-world</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>People often place trust in sources that affirm their worldview, even when they lack accuracy or integrity.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2012.01663](https://arxiv.org/abs/2012.01663)  
+   Link: <a href="https://arxiv.org/abs/2012.01663" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.01663</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8869166/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govTrust, Media Credibility, Social Ties, and the Intention to Share...by P Majerczak · 2022 · Cited by 183 — This study expands on...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: news.gallup.com  
    Title: trust media new low.aspx  
-   Link: [https://news.gallup.com/poll/695762/trust-media-new-low.aspx](https://news.gallup.com/poll/695762/trust-media-new-low.aspx)  
+   Link: <a href="https://news.gallup.com/poll/695762/trust-media-new-low.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/695762/trust-media-new-low.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Media at New Low of 28% in U.S.October 2, 2025 — 2 Oct 2025 — Americans&#x27; trust in newspapers, television and radio to report the news...</p></details>
    Published: October 2, 2025  
 
 8. <a id="endnote-8"></a>
    Source: news.gallup.com  
    Title: americans trust media remains trend low.aspx  
-   Link: [https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx](https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx)  
+   Link: <a href="https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/651977/americans-trust-media-remains-trend-low.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gallup.comAmericans&#x27; Trust in Media Remains at Trend Low14 Oct 2024 — Americans continue to register record-low trust in the mass media...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: news.gallup.com  
-   Link: [https://news.gallup.com/topic/media.aspx](https://news.gallup.com/topic/media.aspx)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Gallup Topic30 Apr 2026 — Americans&#x27; trust in the media to report the news fully, accurately and fairly has edged down four points to 3...</p></details>
+   Link: <a href="https://news.gallup.com/topic/media.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/topic/media.aspx</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gallup Topic30 Apr 2026 — Americans&#x27; trust in the media to report the news fully, accurately and fairly has edged down four points to 3...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby DM Markowitz · 2023 · Cited by 32 — The current study assessed agreement among two independent fact-checkers, The Washington Post a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10368232/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Markowitz · 2023 · Cited by 32 — The current study assessed agreement among two independent fact-checkers, The Washington Post a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reutersinstitute.politics.ox.ac.uk  
    Title: Nic Newman and Richard Fletcher Bias, Bullshit and Lies Report  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-11/Nic%20Newman%20and%20Richard%20Fletcher%20-%20Bias%2C%20Bullshit%20and%20Lies%20-%20Report.pdf](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-11/Nic%20Newman%20and%20Richard%20Fletcher%20-%20Bias%2C%20Bullshit%20and%20Lies%20-%20Report.pdf)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-11/Nic%20Newman%20and%20Richard%20Fletcher%20-%20Bias%2C%20Bullshit%20and%20Lies%20-%20Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2017-11/Nic%20Newman%20and%20Richard%20Fletcher%20-%20Bias%2C%20Bullshit%20and%20Lies%20-%20Report.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bias, Bullshit and Lies16 Nov 2017 — Fact-checking approaches have been widely adopted by mainstream media companies such as the Washingt...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: trust.org  
    Title: world press freedom day 2026  
-   Link: [https://www.trust.org/2026/04/29/world-press-freedom-day-2026/](https://www.trust.org/2026/04/29/world-press-freedom-day-2026/)  
+   Link: <a href="https://www.trust.org/2026/04/29/world-press-freedom-day-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/2026/04/29/world-press-freedom-day-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 days ago — We equip journalists with the tools they need to maintain editorial best practice in their reporting, such as sourcing, veri...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: news.gallup.com  
    Title: americans misinformation bias inaccuracy news.aspx  
-   Link: [https://news.gallup.com/opinion/gallup/235796/americans-misinformation-bias-inaccuracy-news.aspx](https://news.gallup.com/opinion/gallup/235796/americans-misinformation-bias-inaccuracy-news.aspx)  
+   Link: <a href="https://news.gallup.com/opinion/gallup/235796/americans-misinformation-bias-inaccuracy-news.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/opinion/gallup/235796/americans-misinformation-bias-inaccuracy-news.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gallup.comAmericans: Much Misinformation, Bias, Inaccuracy in News20 Jun 2018 — Americans estimate 62% of the news they see in newspapers...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: news.gallup.com  
    Title: media use evaluation.aspx  
-   Link: [https://news.gallup.com/poll/1663/media-use-evaluation.aspx](https://news.gallup.com/poll/1663/media-use-evaluation.aspx)  
+   Link: <a href="https://news.gallup.com/poll/1663/media-use-evaluation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/1663/media-use-evaluation.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Use and Evaluation | Gallup Historical TrendsHow much trust and confidence do you have in the mass media, such as newspapers, TV and radi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: news.gallup.com  
    Title: americans reliance trust media news sources trends.aspx  
-   Link: [https://news.gallup.com/poll/265808/americans-reliance-trust-media-news-sources-trends.aspx](https://news.gallup.com/poll/265808/americans-reliance-trust-media-news-sources-trends.aspx)  
+   Link: <a href="https://news.gallup.com/poll/265808/americans-reliance-trust-media-news-sources-trends.aspx" target="_blank" rel="noopener noreferrer nofollow">https://news.gallup.com/poll/265808/americans-reliance-trust-media-news-sources-trends.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gallup.comAmericans&#x27; Reliance on and Trust in Media News Sources...We&#x27;d like to know whether or not you can trust the accuracy of the ne...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: trust.org  
-   Link: [https://www.trust.org/our-journalism/](https://www.trust.org/our-journalism/)  
+   Link: <a href="https://www.trust.org/our-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/our-journalism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our JournalismWe adhere to the Thomson Reuters Trust Principles of integrity, independence and freedom from bias.... accurate and impart...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: trust.org  
-   Link: [https://www.trust.org/about-us/](https://www.trust.org/about-us/)  
+   Link: <a href="https://www.trust.org/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/about-us/</a>  
 
 18. <a id="endnote-18"></a>
    Source: trust.org  
-   Link: [https://www.trust.org/legal/trust-principles/](https://www.trust.org/legal/trust-principles/)  
+   Link: <a href="https://www.trust.org/legal/trust-principles/" target="_blank" rel="noopener noreferrer nofollow">https://www.trust.org/legal/trust-principles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trust PrinciplesThe Trust Principles imposed obligations on Reuters and its employees to act at all times with integrity, independence, a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reutersagency.com  
-   Link: [https://reutersagency.com/about/standards-values/](https://reutersagency.com/about/standards-values/)  
+   Link: <a href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/standards-values/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thomsonreuters.com  
-   Link: [https://www.thomsonreuters.com/en/about-us/trust-principles](https://www.thomsonreuters.com/en/about-us/trust-principles)  
+   Link: <a href="https://www.thomsonreuters.com/en/about-us/trust-principles" target="_blank" rel="noopener noreferrer nofollow">https://www.thomsonreuters.com/en/about-us/trust-principles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trust PrinciplesThe Trust Principles imposed obligations on Reuters and its employees to act at all times with integrity, independenc...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reutersagency.com  
-   Link: [https://reutersagency.com/about/our-trust-principles/](https://reutersagency.com/about/our-trust-principles/)  
+   Link: <a href="https://reutersagency.com/about/our-trust-principles/" target="_blank" rel="noopener noreferrer nofollow">https://reutersagency.com/about/our-trust-principles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters: Our Trust PrinciplesAlongside our Trust Principles, our journalists adhere to strict journalistic standards and values in everyt...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2031240</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The first...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Reuters](https://en.wikipedia.org/wiki/Reuters)  
+   Link: <a href="https://en.wikipedia.org/wiki/Reuters" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reuters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersReuters is an international news agency wholly owned by Thomson Reuters, which is a multinational information conglomerate.Read...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: spj.org  
-   Link: [https://www.spj.org/what-the-codes-say-code-provisions-by-subject/](https://www.spj.org/what-the-codes-say-code-provisions-by-subject/)  
+   Link: <a href="https://www.spj.org/what-the-codes-say-code-provisions-by-subject/" target="_blank" rel="noopener noreferrer nofollow">https://www.spj.org/what-the-codes-say-code-provisions-by-subject/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Society of Professional JournalistsWhat the Codes Say: Code provisions by subjectThe good news organization is fair, accurate, responsibl...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thebaron.info  
    Title: Reuters tops accuracy and impartiality scores  
-   Link: [https://www.thebaron.info/news/article/2019/07/01/reuters-tops-accuracy-and-impartiality-scores-study](https://www.thebaron.info/news/article/2019/07/01/reuters-tops-accuracy-and-impartiality-scores-study)  
+   Link: <a href="https://www.thebaron.info/news/article/2019/07/01/reuters-tops-accuracy-and-impartiality-scores-study" target="_blank" rel="noopener noreferrer nofollow">https://www.thebaron.info/news/article/2019/07/01/reuters-tops-accuracy-and-impartiality-scores-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>study1 Jul 2019 — Reuters has the highest accuracy score of all publications in a recent study and tracks almost dead centre on a bias sc...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WHOSEARO/posts/how-do-you-spot-the-difference-between-news-vs-fake-news-information-vs-[rumours](https://www.facebook.com/WHOSEARO/posts/how-do-you-spot-the-difference-between-news-vs-fake-news-information-vs-[rumours)  
+   Link: <a href="https://www.facebook.com/WHOSEARO/posts/how-do-you-spot-the-difference-between-news-vs-fake-news-information-vs-[rumours" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHOSEARO/posts/how-do-you-spot-the-difference-between-news-vs-fake-news-information-vs-[rumours</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you spot the difference between news vs fake...🛠️ DIY Tip: Use fact-checking sites like Snopes, Africa Check, or Google Fact Check...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality](https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality)  
+   Link: <a href="https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330710636_Fighting_misinformation_on_social_media_using_crowdsourced_judgments_of_news_source_quality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rces independently influence participants&#x27; credibility judgments...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/290347859_Reuters_Principles_Of_Trust_Or_Propaganda](https://www.researchgate.net/publication/290347859_Reuters_Principles_Of_Trust_Or_Propaganda)  
+   Link: <a href="https://www.researchgate.net/publication/290347859_Reuters_Principles_Of_Trust_Or_Propaganda" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290347859_Reuters_Principles_Of_Trust_Or_Propaganda</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>East conflict published on the Reuters proprietary websites...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ifcncodeofprinciples.poynter.org  
-   Link: [https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b04ba7689d4814192d8](https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b04ba7689d4814192d8)  
+   Link: <a href="https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b04ba7689d4814192d8" target="_blank" rel="noopener noreferrer nofollow">https://ifcncodeofprinciples.poynter.org/application/public/reuters/661a8b04ba7689d4814192d8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IFCN Code of Principles - PoynterThe principles of with integrity, independence, and freedom from bias guide all journalism at Reuters...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/reuters-journalism-handbook/14063121](https://www.slideshare.net/slideshow/reuters-journalism-handbook/14063121)  
+   Link: <a href="https://www.slideshare.net/slideshow/reuters-journalism-handbook/14063121" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/reuters-journalism-handbook/14063121</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ding accuracy, freedom from bias, independence...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: mediareform.org.uk  
-   Link: [https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf](https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf)  
+   Link: <a href="https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mediareform.org.uk/wp-content/uploads/2015/12/Reuters_Handbook_of_Journalism.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Reform CoalitionReuters Handbook of Journalism Standards and ValuesEverything we do as Reuters journalists has to be independent, f...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8UHoY0B48uM](https://www.youtube.com/watch?v=8UHoY0B48uM)  
+   Link: <a href="https://www.youtube.com/watch?v=8UHoY0B48uM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8UHoY0B48uM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Media Literacy: Crash Course Media Literacy #1...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: ebooks.inflibnet.ac.in  
-   Link: [https://ebooks.inflibnet.ac.in/aep08/chapter/sources-in-media-checking-for-truth-reliability/](https://ebooks.inflibnet.ac.in/aep08/chapter/sources-in-media-checking-for-truth-reliability/)  
+   Link: <a href="https://ebooks.inflibnet.ac.in/aep08/chapter/sources-in-media-checking-for-truth-reliability/" target="_blank" rel="noopener noreferrer nofollow">https://ebooks.inflibnet.ac.in/aep08/chapter/sources-in-media-checking-for-truth-reliability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sources in Media – Checking for truth &amp; reliability18 Mar 2012 — Objectives. To identify reliable sources of information; To identify fak...</p></details>

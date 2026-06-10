@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:48:52'
 parent_title: Did the Key Word Change Meaning? | Fallacy Lab
 parent_permalink: /equivocation/
 parent_nav_short_title: Equivocation
@@ -259,7 +260,6 @@ next_link:
   permalink: /free-speech/
   short_title: Free Speech
   heading_title: When Does Free Speech Become a Word Game?
-date: '2026-06-05 01:48:52 '
 header:
   og_image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3_ambiguity_fallacies_d3f3b9-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3_ambiguity_fallacies_d3f3b9-Illustration-1.webp
@@ -307,7 +307,7 @@ Here, “rare” shifts from “scarce” to “uncommon.” The argument's appa
 A useful diagnostic test is substitution. Replace the repeated word with its intended meaning each time. If the argument collapses, equivocation is likely present. This reflects the central feature of the fallacy: the ambiguity lies in the meaning of a term, not in sentence structure or delivery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAccent, Amphiboly and Equivocation are examples of fallacies of ambiguity. Ambiguity Any fall...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XnBfWthZ8X4" title="Informal Fallacies of Ambiguity: Equivocation, Amphiboly, Accent, Composition &amp; Division" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XnBfWthZ8X4" target="_blank" rel="noopener noreferrer">Informal Fallacies of Ambiguity: Equivocation, Amphiboly, Accent, Composition &amp; Division</a></p><p class="youtube-embed-meta">Channel: Examrace (UPSC, NET, NCERT, ICSE ...) &middot; Views: 18.2K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XnBfWthZ8X4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XnBfWthZ8X4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SmlBkyaDX-I" title="Fallacies of Ambiguity and Grammatical Analogy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SmlBkyaDX-I" target="_blank" rel="noopener noreferrer">Fallacies of Ambiguity and Grammatical Analogy</a></p><p class="youtube-embed-meta">Channel: Professor Koehl&#x27;s Classroom &middot; Views: 25.1K &middot; Uploaded: August 2013 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SmlBkyaDX-I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SmlBkyaDX-I">Open on YouTube</a></p></div></div></div>
 
 ## Syntax Traps in Amphiboly
 
@@ -322,7 +322,7 @@ The sentence can mean either:
 * I was wearing pyjamas when I shot the elephant.
 * The elephant was wearing my pyjamas.
 
-The ambiguity comes from the attachment of the phrase “in my pyjamas,” not from any individual word. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/equivocation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaEquivocation | logical fallacyWhereas equivocation involves the ambiguity of a single word, amphiboly consists of...</span></span></span>
+The ambiguity comes from the attachment of the phrase “in my pyjamas,” not from any individual word. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/equivocation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaEquivocation &#124; logical fallacyWhereas equivocation involves the ambiguity of a single word, amphiboly consists of...</span></span></span>
 
 A more argument-like example is:
 
@@ -371,7 +371,7 @@ The extracted wording may imply an endorsement stronger than the original contex
 Modern examples often involve bold text, headlines, [social media]({{ 'social-media/' | relative_url }}) [screenshots]({{ 'screenshots/' | relative_url }}), or edited quotations that shift audience interpretation without changing the literal words.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SmlBkyaDX-I" title="Fallacies of Ambiguity and Grammatical Analogy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SmlBkyaDX-I" target="_blank" rel="noopener noreferrer">Fallacies of Ambiguity and Grammatical Analogy</a></p><p class="youtube-embed-meta">Channel: Professor Koehl&#x27;s Classroom &middot; Views: 25.1K &middot; Uploaded: August 2013 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SmlBkyaDX-I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SmlBkyaDX-I">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lcR4LruYlGk" title="Equivocation Fallacy - With Simple, Practical, and Philosophical Examples" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lcR4LruYlGk" target="_blank" rel="noopener noreferrer">Equivocation Fallacy - With Simple, Practical, and Philosophical Examples</a></p><p class="youtube-embed-meta">Channel: Logic &amp; Philosophy &middot; Views: 6.8K &middot; Uploaded: March 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lcR4LruYlGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lcR4LruYlGk">Open on YouTube</a></p></div></div></div>
 
 ## Which Fallacy Is Happening? A Side-by-Side Comparison
 
@@ -382,7 +382,7 @@ QuestionEquivocationAmphibolyAccentWhat changes?Meaning of a wordStructure of a 
 This distinction is widely recognised in philosophical and logic literature: equivocation concerns semantic ambiguity, amphiboly concerns syntactic ambiguity, and accent concerns ambiguity created by emphasis. [Internet Encyclopedia of Philosophy+3Internet Encyclopedia of Philosophy+3Stanford Encyclopedia of Philosophy]
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lcR4LruYlGk" title="Equivocation Fallacy - With Simple, Practical, and Philosophical Examples" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lcR4LruYlGk" target="_blank" rel="noopener noreferrer">Equivocation Fallacy - With Simple, Practical, and Philosophical Examples</a></p><p class="youtube-embed-meta">Channel: Logic &amp; Philosophy &middot; Views: 6.8K &middot; Uploaded: March 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lcR4LruYlGk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lcR4LruYlGk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XnBfWthZ8X4" title="Informal Fallacies of Ambiguity: Equivocation, Amphiboly, Accent, Composition &amp; Division" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XnBfWthZ8X4" target="_blank" rel="noopener noreferrer">Informal Fallacies of Ambiguity: Equivocation, Amphiboly, Accent, Composition &amp; Division</a></p><p class="youtube-embed-meta">Channel: Examrace (UPSC, NET, NCERT, ICSE ...) &middot; Views: 18.2K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XnBfWthZ8X4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XnBfWthZ8X4">Open on YouTube</a></p></div></div></div>
 
 ## Why These Fallacies Are Easily Confused
 
@@ -492,7 +492,7 @@ Recognising the precise source of ambiguity matters because the remedy differs i
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -502,111 +502,36 @@ Recognising the precise source of ambiguity matters because the remedy differs i
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a1bb2d3fa5dd95cf6165.jpg' | relative_url }}" alt="Listing image for I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I wish I lacked critical thinking s Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -614,15 +539,15 @@ Recognising the precise source of ambiguity matters because the remedy differs i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker"><img src="{{ '/assets/images/marketplace-covers/f7362cef8e4ae2cf3095.jpg' | relative_url }}" alt="Listing image for Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSw3w1p1~TM/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical thinking the other national deficit Vinyl Car Window Wall Decal Sticker</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -630,15 +555,15 @@ Recognising the precise source of ambiguity matters because the remedy differs i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -646,15 +571,15 @@ Recognising the precise source of ambiguity matters because the remedy differs i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 18755 Critical Thinking Classroom Decor Wall Print Poster"><img src="{{ '/assets/images/marketplace-covers/f44a4838fd3b80d052fa.jpg' | relative_url }}" alt="Listing image for 18755 Critical Thinking Classroom Decor Wall Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2aMAAeSwQYlp1Tf6/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">18755 Critical Thinking Classroom Decor Wall Print Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -662,7 +587,7 @@ Recognising the precise source of ambiguity matters because the remedy differs i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=compare-fallacies-which-ambiguity-fallacy-is-actually-happening-logical-fallacies-critical-thinking-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-ambiguity-fallacy-is-actually-happening-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="which-ambiguity-fallacy-is-actually-happening-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -739,17 +664,31 @@ Recognising the precise source of ambiguity matters because the remedy differs i
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -762,42 +701,73 @@ Recognising the precise source of ambiguity matters because the remedy differs i
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -812,119 +782,123 @@ Recognising the precise source of ambiguity matters because the remedy differs i
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — The fallacy of equi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/equivocation](https://www.britannica.com/topic/equivocation)  
+   Link: <a href="https://www.britannica.com/topic/equivocation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/equivocation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaEquivocation | logical fallacyWhereas equivocation involves the ambiguity of a single word, amphiboly consists of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: read.aupress.ca  
    Title: Chapter 14  
-   Link: [https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/f8c8bad3-17e2-4cfd-b50b-6b6880d40052](https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/f8c8bad3-17e2-4cfd-b50b-6b6880d40052)  
+   Link: <a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/f8c8bad3-17e2-4cfd-b50b-6b6880d40052" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/f8c8bad3-17e2-4cfd-b50b-6b6880d40052</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of Ambiguity | Critical Thinking, Logic...Equivocation occurs when a key word is used in two or more senses in the same argume...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Fallacy of accent  
-   Link: [https://en.wikipedia.org/wiki/Fallacy_of_accent](https://en.wikipedia.org/wiki/Fallacy_of_accent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy_of_accent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy_of_accent</a>  
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/ambiguity/](https://plato.stanford.edu/entries/ambiguity/)  
+   Link: <a href="https://plato.stanford.edu/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/ambiguity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby A Sennet · 2011 · Cited by 292 — Ambiguity is important and it is worth examining what the phenomen...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2020/entries/vagueness/](https://plato.stanford.edu/archives/fall2020/entries/vagueness/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2020/entries/vagueness/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/vagueness/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This will clarify the nature of the philosophical challenge posed by vagueness.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2013/entries/ambiguity/](https://plato.stanford.edu/archives/fall2013/entries/ambiguity/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/ambiguity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In common parlance, the word &#x27;...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/win2014/entries/ambiguity/](https://plato.stanford.edu/archives/win2014/entries/ambiguity/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2014/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2014/entries/ambiguity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophy16 May 2011 — A standard test for ambiguity is to take two sentences that contain the purportedly ambi...</p></details>
    Published: May 2011  
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: philosophy.institute  
    Title: ambiguity logic root fallacies  
-   Link: [https://philosophy.institute/logic/ambiguity-logic-root-fallacies/](https://philosophy.institute/logic/ambiguity-logic-root-fallacies/)  
+   Link: <a href="https://philosophy.institute/logic/ambiguity-logic-root-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/ambiguity-logic-root-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity in Logic: The Root of Many Fallacies12 Dec 2025 — The Internet Encyclopedia of Philosophy places accent, amphiboly, and equivoc...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy/Verbal-fallacies](https://www.britannica.com/topic/fallacy/Verbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;), Straw Man7 days ago — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved throu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAccent, Amphiboly and Equivocation are examples of fallacies of ambiguity. Ambiguity Any fall...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: seop.illc.uva.nl  
-   Link: [https://seop.illc.uva.nl/entries/fallacies/](https://seop.illc.uva.nl/entries/fallacies/)  
+   Link: <a href="https://seop.illc.uva.nl/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies29 May 2015 — The fallacy of equivocation is an argument which exploits the ambiguity of a te...</p></details>
    Published: May 2015  
 
 14. <a id="endnote-14"></a>
    Source: philosophypages.com  
-   Link: [https://www.philosophypages.com/lg/e06c.htm](https://www.philosophypages.com/lg/e06c.htm)  
+   Link: <a href="https://www.philosophypages.com/lg/e06c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophypages.com/lg/e06c.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy PagesFallacies of AmbiguityThe fallacies of ambiguity all involve a confusion of two or more different senses. Equivocation. A...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: en.wikiversity.org  
    Title: Fallacies of Ambiguity  
-   Link: [https://en.wikiversity.org/wiki/Recognizing_Fallacies/Fallacies_of_Ambiguity](https://en.wikiversity.org/wiki/Recognizing_Fallacies/Fallacies_of_Ambiguity)  
+   Link: <a href="https://en.wikiversity.org/wiki/Recognizing_Fallacies/Fallacies_of_Ambiguity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikiversity.org/wiki/Recognizing_Fallacies/Fallacies_of_Ambiguity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>edit. The fallacy of Amphiboly occurs when a syntactic ambiguity allows one meaning to be used in the premise and another meaning...Read...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amphiboly is ambiguity of syntax. Equivocation is ambiguity of semantics. Accent is ambiguity of...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: seop.illc.uva.nl  
    Title: word meaning  
-   Link: [https://seop.illc.uva.nl/entries/word-meaning/](https://seop.illc.uva.nl/entries/word-meaning/)  
+   Link: <a href="https://seop.illc.uva.nl/entries/word-meaning/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/word-meaning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaningby L Gasparri · 2015 · Cited by 64 — This entry provides an overview of the way issues related to word meaning have been explored...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: inquiresabound.wordpress.com  
-   Link: [https://inquiresabound.wordpress.com/2020/12/03/equivocation/](https://inquiresabound.wordpress.com/2020/12/03/equivocation/)  
+   Link: <a href="https://inquiresabound.wordpress.com/2020/12/03/equivocation/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2020/12/03/equivocation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta/Inquires - WordPress.com3 Dec 2020 — If an argument uses an ambiguity in their premises, or conclusion, then the argument is equivoc...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: philosophybytheway.blogspot.com  
-   Link: [https://philosophybytheway.blogspot.com/2024/05/equivocation.html](https://philosophybytheway.blogspot.com/2024/05/equivocation.html)  
+   Link: <a href="https://philosophybytheway.blogspot.com/2024/05/equivocation.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2024/05/equivocation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 May 2024 — This fallacy involves that a word or phrase is used with different meanings in an argumentation. You may think: Of course...</p></details>
    Published: May 2024  
 
@@ -933,53 +907,53 @@ Recognising the precise source of ambiguity matters because the remedy differs i
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: Logic: short explanation of the Fallacy of Equivocation  
-   Link: [https://www.reddit.com/r/philosophy/comments/59ulm6/logic_short_explanation_of_the_fallacy_of/](https://www.reddit.com/r/philosophy/comments/59ulm6/logic_short_explanation_of_the_fallacy_of/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/59ulm6/logic_short_explanation_of_the_fallacy_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/59ulm6/logic_short_explanation_of_the_fallacy_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: In this Wireless Philosophy video, Joseph Wu (University of Cambridge) explains the fallacy of equivocation, the fallacy that oc...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
    Title: 316792512 Fallacies Arising from Ambiguity  
-   Link: [https://www.researchgate.net/publication/316792512_Fallacies_Arising_from_Ambiguity](https://www.researchgate.net/publication/316792512_Fallacies_Arising_from_Ambiguity)  
+   Link: <a href="https://www.researchgate.net/publication/316792512_Fallacies_Arising_from_Ambiguity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316792512_Fallacies_Arising_from_Ambiguity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Fallacies Arising from Ambiguity2 Dec 2020 — Amphiboly as the fallacy dependent on language that arises from ambiguity in the gramm...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
    Title: Understanding Amphiboly Fallacy  
-   Link: [https://www.scribd.com/presentation/884296379/Fallacies-of-Ambiguity](https://www.scribd.com/presentation/884296379/Fallacies-of-Ambiguity)  
+   Link: <a href="https://www.scribd.com/presentation/884296379/Fallacies-of-Ambiguity" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/884296379/Fallacies-of-Ambiguity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AmbiguityThe document discusses various fallacies of ambiguity, including amphiboly, equivocation, hypostatization, composition, and divi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, 1. Only man is logical. 2.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/fallacy-of-logic/51435471](https://www.slideshare.net/slideshow/fallacy-of-logic/51435471)  
+   Link: <a href="https://www.slideshare.net/slideshow/fallacy-of-logic/51435471" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/fallacy-of-logic/51435471</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h fallacy is explained with definitions...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XnBfWthZ8X4](https://www.youtube.com/watch?v=XnBfWthZ8X4)  
+   Link: <a href="https://www.youtube.com/watch?v=XnBfWthZ8X4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XnBfWthZ8X4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Equivocation, Amphiboly, Accent, Composition &amp; Division...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Equivocation Fallacy  
-   Link: [https://www.youtube.com/watch?v=lcR4LruYlGk](https://www.youtube.com/watch?v=lcR4LruYlGk)  
+   Link: <a href="https://www.youtube.com/watch?v=lcR4LruYlGk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcR4LruYlGk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With Simple, Practical, and...The fallacy of equivocation (also called the fallacy of ambiguity) is the fallacy whereby one incorrectly...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/philosophy/comments/3sa2s2/fallacy_of_equivocation_using_the_same_word_in/](https://www.reddit.com/r/philosophy/comments/3sa2s2/fallacy_of_equivocation_using_the_same_word_in/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/3sa2s2/fallacy_of_equivocation_using_the_same_word_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/3sa2s2/fallacy_of_equivocation_using_the_same_word_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>throughout an argument...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Fallacies of Ambiguity and Grammatical Analogy  
-   Link: [https://www.youtube.com/watch?v=SmlBkyaDX-I](https://www.youtube.com/watch?v=SmlBkyaDX-I)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Informal Fallacies](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;): Fallacies of Ambiguity...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=SmlBkyaDX-I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SmlBkyaDX-I</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Fallacies: Fallacies of Ambiguity...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kXlIAXx5TXE](https://www.youtube.com/watch?v=kXlIAXx5TXE)  
+   Link: <a href="https://www.youtube.com/watch?v=kXlIAXx5TXE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kXlIAXx5TXE</a>  

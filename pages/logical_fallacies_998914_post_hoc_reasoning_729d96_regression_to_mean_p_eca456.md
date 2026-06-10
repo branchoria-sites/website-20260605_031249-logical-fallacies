@@ -274,11 +274,11 @@ image: /assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regress
 
 ## Introduction
 
-Regression to the mean is one of the most common hidden explanations behind persuasive [post hoc]({{ 'post-hoc/' | relative_url }}) stories. When an outcome is unusually good or unusually bad, the next measurement is often closer to average even if nothing important has changed. As a result, an intervention introduced after an extreme result can appear effective simply because improvement was already likely. This creates a powerful form of false-cause reasoning: a treatment, management decision, motivational speech, policy change, or training programme receives credit for a recovery that would probably have happened anyway. Statistical researchers have long warned that regression to the mean can make ordinary variation look like genuine change, especially when attention is focused on unusually extreme cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15333621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedRegression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2448 — Regression to the mean (RTM) is a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/ije/article/34/1/215/638499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicRegression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2470 — Regression to the mean (RTM)...</span></span></span>
+Regression to the mean is one of the most common hidden explanations behind persuasive [post hoc]({{ 'post-hoc/' | relative_url }}) stories. When an outcome is unusually good or unusually bad, the next measurement is often closer to average even if nothing important has changed. As a result, an intervention introduced after an extreme result can appear effective simply because improvement was already likely. This creates a powerful form of false-cause reasoning: a treatment, management decision, motivational speech, policy change, or training programme receives credit for a recovery that would probably have happened anyway. Statistical researchers have long warned that regression to the mean can make ordinary variation look like genuine change, especially when attention is focused on unusually extreme cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15333621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Regression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2448 — Regression to the mean (RTM) is a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/ije/article/34/1/215/638499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicRegression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2470 — Regression to the mean (RTM)...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-1-dark.svg" | relative_url }}" alt="Regression illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader family of post hoc fallacies, regression to the mean matters because it offers a specific alternative explanation. The question is not merely “Did improvement happen after the intervention?” but “Was improvement likely because the starting point was unusually extreme?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">PMCby HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span>
+Within the broader family of post hoc fallacies, regression to the mean matters because it offers a specific alternative explanation. The question is not merely “Did improvement happen after the intervention?” but “Was improvement likely because the starting point was unusually extreme?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">by HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span>
 
 ## Why Extreme Results Tend to Soften Over Time
 
@@ -311,13 +311,13 @@ The same pattern appears repeatedly:
 
 The problem is that step four often ignores the possibility that the initial result was selected precisely because it was extreme. Once extreme cases are chosen for attention, subsequent movement towards average performance is partly built into the situation. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/1471-2288-13-119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkAssessing regression to the mean effects in health care...by A Linden · 2013 · Cited by 238 — In this paper, the author ful...</span></span></span>
 
-This is why before-and-after comparisons can be deceptive. A dramatic change between two observations does not automatically demonstrate that the intervention caused the improvement. Without a comparison group or longer-term evidence, regression to the mean remains a plausible alternative explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">PMCby HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinestatbook.com/2/regression/regression_toward_mean.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinestatbook.com">[2onlinestatbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinestatbook.com</span><span class="citation-popover-snippet">Regression Toward the MeanA related phenomenon is called the Sports Illustrated Cover Jinx. An experiment without a control group can con...</span></span></span>
+This is why before-and-after comparisons can be deceptive. A dramatic change between two observations does not automatically demonstrate that the intervention caused the improvement. Without a comparison group or longer-term evidence, regression to the mean remains a plausible alternative explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">by HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinestatbook.com/2/regression/regression_toward_mean.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinestatbook.com">[2onlinestatbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinestatbook.com</span><span class="citation-popover-snippet">Regression Toward the MeanA related phenomenon is called the Sports Illustrated Cover Jinx. An experiment without a control group can con...</span></span></span>
 
 ## Health: Why Patients Often Improve After Seeking Treatment
 
 Health care provides some of the clearest examples because patients frequently seek help when symptoms are at their worst.
 
-A person suffering recurring pain, migraines, depression, allergies, or other fluctuating conditions is more likely to book an appointment during a severe episode than during a mild one. If symptoms naturally fluctuate, improvement may occur afterwards even without an effective treatment. Researchers have identified regression to the mean as a major challenge when evaluating therapies, particularly in studies that examine only patients before and [after treatment]({{ 'after-treatment/' | relative_url }}) without adequate controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">PMCby HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">PMCby HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span>
+A person suffering recurring pain, migraines, depression, allergies, or other fluctuating conditions is more likely to book an appointment during a severe episode than during a mild one. If symptoms naturally fluctuate, improvement may occur afterwards even without an effective treatment. Researchers have identified regression to the mean as a major challenge when evaluating therapies, particularly in studies that examine only patients before and [after treatment]({{ 'after-treatment/' | relative_url }}) without adequate controls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">by HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">by HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span>
 
 This helps explain why ineffective treatments can accumulate impressive [testimonials]({{ 'testimonials/' | relative_url }}). Patients often remember that they sought treatment during an exceptionally bad period and then improved. The timing feels causal. Yet some of the observed recovery may simply reflect a return from an unusually severe episode towards the person's typical state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.strengthzonetraining.com/why-smart-trainers-believe-stupid-things-part-3-regression-to-the-mean/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strengthzonetraining.com">[Strength Zone Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strengthzonetraining.com</span><span class="citation-popover-title">Strength Zone Training Why Smart Trainers Believe Stupid Things: (Part 3</span><span class="citation-popover-snippet">sports world: The “Sports Illustrated jinx” and the “Madden curse.... Regression to the mean might very well be the true explanation for...</span></span></span>
 
@@ -333,7 +333,7 @@ Suppose a sales representative has a terrible quarter. Management introduces a n
 
 However, the same logic applies to exceptional success. A representative who achieves an extraordinary quarter may receive a special reward, only to perform less spectacularly afterwards. Observers may conclude that praise reduced motivation. In reality, both patterns can emerge from regression to the mean: extreme lows tend to rise and extreme highs tend to fall closer to typical performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sports_Illustrated_cover_jinx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sports Illustrated cover jinx</span><span class="citation-popover-snippet">Sports Illustrated cover jinx</span></span></span>
 
-This phenomenon has influenced discussions of management practices for decades because it can create misleading impressions about the effectiveness of punishment, rewards, incentives, and organisational reforms. When interventions consistently follow unusually good or bad outcomes, natural statistical movement can masquerade as evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">PMCby HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span>
+This phenomenon has influenced discussions of management practices for decades because it can create misleading impressions about the effectiveness of punishment, rewards, incentives, and organisational reforms. When interventions consistently follow unusually good or bad outcomes, natural statistical movement can masquerade as evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">by HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span>
 
 ## Performance and Sport: The Myth of the Jinx
 
@@ -372,10 +372,10 @@ When these conditions are present, a post hoc explanation deserves caution. Impr
 
 Regression to the mean does not prove that an intervention failed. Sometimes treatments, policies, coaching methods, or management decisions genuinely work. The lesson is narrower but important: improvement after an intervention is not sufficient evidence that the intervention caused the improvement.
 
-In [post hoc reasoning]({{ 'false-cause/' | relative_url }}), people naturally focus on what changed most recently. Regression to the mean reminds us to examine what was already likely to happen. When an outcome begins from an extreme position, movement towards a more ordinary result may require no special cause at all. Ignoring that possibility turns a statistical tendency into a false success story and a common form of false-cause reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">PMCby HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15333621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedRegression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2448 — Regression to the mean (RTM) is a...</span></span></span>
+In post hoc reasoning, people naturally focus on what changed most recently. Regression to the mean reminds us to examine what was already likely to happen. When an outcome begins from an extreme position, movement towards a more ordinary result may require no special cause at all. Ignoring that possibility turns a statistical tendency into a false success story and a common form of false-cause reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">by HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15333621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Regression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2448 — Regression to the mean (RTM) is a...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5A7hSaoRv0g" title="CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 189.1K &middot; Uploaded: February 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5A7hSaoRv0g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nl0XYXvQt4c" title="What is Regression to the Mean?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nl0XYXvQt4c" target="_blank" rel="noopener noreferrer">What is Regression to the Mean?</a></p><p class="youtube-embed-meta">Channel: John Zak &middot; Views: 2.1K &middot; Uploaded: November 2021 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nl0XYXvQt4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nl0XYXvQt4c">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -767,217 +767,217 @@ In [post hoc reasoning]({{ 'false-cause/' | relative_url }}), people naturally f
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/ije/article/34/1/215/638499](https://academic.oup.com/ije/article/34/1/215/638499)  
+   Link: <a href="https://academic.oup.com/ije/article/34/1/215/638499" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/ije/article/34/1/215/638499</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicRegression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2470 — Regression to the mean (RTM)...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All healthcare professionals...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/1471-2288-13-119](https://link.springer.com/article/10.1186/1471-2288-13-119)  
+   Link: <a href="https://link.springer.com/article/10.1186/1471-2288-13-119" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1471-2288-13-119</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkAssessing regression to the mean effects in health care...by A Linden · 2013 · Cited by 238 — In this paper, the author ful...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Regression toward the mean  
-   Link: [https://en.wikipedia.org/wiki/Regression_toward_the_mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean)  
+   Link: <a href="https://en.wikipedia.org/wiki/Regression_toward_the_mean" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Regression_toward_the_mean</a>  
 
 5. <a id="endnote-5"></a>
    Source: onlinestatbook.com  
-   Link: [https://onlinestatbook.com/2/regression/regression_toward_mean.html](https://onlinestatbook.com/2/regression/regression_toward_mean.html)  
+   Link: <a href="https://onlinestatbook.com/2/regression/regression_toward_mean.html" target="_blank" rel="noopener noreferrer nofollow">https://onlinestatbook.com/2/regression/regression_toward_mean.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression Toward the MeanA related phenomenon is called the Sports Illustrated Cover Jinx. An experiment without a control group can con...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCombined bias suppression in single-arm therapy studies  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bmj.com  
    Title: bmj 2024 081124  
-   Link: [https://www.bmj.com/content/389/bmj-2024-081124](https://www.bmj.com/content/389/bmj-2024-081124)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJCONSORT 2025 explanation and elaborationby S Hopewell · 2025 · Cited by 168 — The CONSORT (Consolidated Standards of Reporting Trials)...</p></details>
+   Link: <a href="https://www.bmj.com/content/389/bmj-2024-081124" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/389/bmj-2024-081124</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2025 explanation and elaborationby S Hopewell · 2025 · Cited by 168 — The CONSORT (Consolidated Standards of Reporting Trials)...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Sports Illustrated cover jinx  
-   Link: [https://en.wikipedia.org/wiki/Sports_Illustrated_cover_jinx](https://en.wikipedia.org/wiki/Sports_Illustrated_cover_jinx)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sports_Illustrated_cover_jinx" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sports_Illustrated_cover_jinx</a>  
 
 9. <a id="endnote-9"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-regression](https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-regression)  
+   Link: <a href="https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-regression" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-regression</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11. Correlation and regressionIn this [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) “regression” (the term is a historical anomaly) simply means that the average value of y is...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bmj.com  
    Title: regression mean  
-   Link: [https://www.bmj.com/rapid-response/2011/10/29/regression-mean](https://www.bmj.com/rapid-response/2011/10/29/regression-mean)  
+   Link: <a href="https://www.bmj.com/rapid-response/2011/10/29/regression-mean" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/10/29/regression-mean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression to the mean29 Mar 2003 — Cross sectional survey of effectiveness of lipid lowering drugs in reducing serum cholesterol concent...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bmj.com  
    Title: bmj 2023 078276  
-   Link: [https://www.bmj.com/content/386/bmj-2023-078276](https://www.bmj.com/content/386/bmj-2023-078276)  
+   Link: <a href="https://www.bmj.com/content/386/bmj-2023-078276" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/386/bmj-2023-078276</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing clinical prediction models: a step-by-step guideby O Efthimiou · 2024 · Cited by 325 — This article presents a step-by-step gu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/350/bmj.h2750](https://www.bmj.com/content/350/bmj.h2750)  
+   Link: <a href="https://www.bmj.com/content/350/bmj.h2750" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/350/bmj.h2750</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression based quasi-experimental approach when...by E Kontopantelis · 2015 · Cited by 1073 — Interrupted time series analysis is a qu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/308/6933/896](https://www.bmj.com/content/308/6933/896)  
+   Link: <a href="https://www.bmj.com/content/308/6933/896" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/308/6933/896</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics Notes: Correlation, regression, and repeated databy JM Bland · 1994 · Cited by 317 — The extreme case would occur if we had on...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/341/bmj.c5004](https://www.bmj.com/content/341/bmj.c5004)  
+   Link: <a href="https://www.bmj.com/content/341/bmj.c5004" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/341/bmj.c5004</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>regression equation, so plots such as these show how much the individual units (in this case practices) differ from the mean. For the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/sites/default/files/attachments/bmj-article/pre-pub-history/second-response-15.2.20.pdf](https://www.bmj.com/sites/default/files/attachments/bmj-article/pre-pub-history/second-response-15.2.20.pdf)  
+   Link: <a href="https://www.bmj.com/sites/default/files/attachments/bmj-article/pre-pub-history/second-response-15.2.20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/sites/default/files/attachments/bmj-article/pre-pub-history/second-response-15.2.20.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Response to the reviewersFor example, by 5 and 10 years after follow-up what is the average additional risk (or reduction in risk) for ea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bmj.com  
    Title: bmj 2023 074820  
-   Link: [https://www.bmj.com/content/384/bmj-2023-074820](https://www.bmj.com/content/384/bmj-2023-074820)  
+   Link: <a href="https://www.bmj.com/content/384/bmj-2023-074820" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/384/bmj-2023-074820</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of clinical prediction models (part 2)by RD Riley · 2024 · Cited by 308 — Multivariable Model-Building - A pragmatic approach...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/10/12/e039921](https://bmjopen.bmj.com/content/10/12/e039921)  
+   Link: <a href="https://bmjopen.bmj.com/content/10/12/e039921" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/10/12/e039921</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to statistical simulations in health researchby AL Boulesteix · 2020 · Cited by 83 — We aim to provide a first introduction to simulation...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bmj.com  
    Title: response 04 mar 2025  
-   Link: [https://www.bmj.com/sites/default/files/attachments/bmj-article/pre-pub-history/response_04-mar-2025.pdf](https://www.bmj.com/sites/default/files/attachments/bmj-article/pre-pub-history/response_04-mar-2025.pdf)  
+   Link: <a href="https://www.bmj.com/sites/default/files/attachments/bmj-article/pre-pub-history/response_04-mar-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/sites/default/files/attachments/bmj-article/pre-pub-history/response_04-mar-2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Point-to-point reply: BMJ-2024-082092 – 2nd revisionOur answer: We have now performed an additional analysis using days from T0 to T1 as...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/350/bmj.h1302](https://www.bmj.com/content/350/bmj.h1302)  
+   Link: <a href="https://www.bmj.com/content/350/bmj.h1302" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/350/bmj.h1302</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Precision medicine to improve use of bleeding avoidance...by JA Spertus · 2015 · Cited by 85 — In addition, among the nine study sites...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/5/9/e008093.reviewer-comments](https://bmjopen.bmj.com/content/5/9/e008093.reviewer-comments)  
+   Link: <a href="https://bmjopen.bmj.com/content/5/9/e008093.reviewer-comments" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/5/9/e008093.reviewer-comments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>review historyThe authors should then add a paragraph &quot;attrition analysis&quot; and describe the students lost to follow-up. Methods: There is...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bmj.com  
    Title: On the 12th Day of Christmas, a Statistician Sent to Me  
-   Link: [https://www.bmj.com/content/bmj/379/bmj-2022-072883.full.pdf](https://www.bmj.com/content/bmj/379/bmj-2022-072883.full.pdf)  
+   Link: <a href="https://www.bmj.com/content/bmj/379/bmj-2022-072883.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/bmj/379/bmj-2022-072883.full.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by RD Riley · 2022 · Cited by 58 — Meta-regression is often used to examine the extent to which study level covariates (eg, mean age, dos...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/15333621/](https://pubmed.ncbi.nlm.nih.gov/15333621/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedRegression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2448 — Regression to the mean (RTM) is a...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15333621/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15333621/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2448 — Regression to the mean (RTM) is a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: statisticsbyjim.com  
    Title: regression to the mean  
-   Link: [https://statisticsbyjim.com/basics/regression-to-the-mean/](https://statisticsbyjim.com/basics/regression-to-the-mean/)  
+   Link: <a href="https://statisticsbyjim.com/basics/regression-to-the-mean/" target="_blank" rel="noopener noreferrer nofollow">https://statisticsbyjim.com/basics/regression-to-the-mean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics By JimRegression to the Mean: Definition &amp; ExamplesMar 28, 2024 — Regression to the mean is the statistical tendency for an un...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: abc.net.au  
    Title: ABC News What does regression to the mean, mean?  
-   Link: [https://www.abc.net.au/science/articles/2015/05/12/4217146.htm](https://www.abc.net.au/science/articles/2015/05/12/4217146.htm)  
+   Link: <a href="https://www.abc.net.au/science/articles/2015/05/12/4217146.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/science/articles/2015/05/12/4217146.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What does regression to the mean, mean?May 12, 2015 — Regression is caused by performances fluctuating about ability, so that performance...</p></details>
    Published: May 12, 2015  
 
 25. <a id="endnote-25"></a>
    Source: strengthzonetraining.com  
    Title: Strength Zone Training Why Smart Trainers Believe Stupid Things: (Part 3)  
-   Link: [https://www.strengthzonetraining.com/why-smart-trainers-believe-stupid-things-part-3-regression-to-the-mean/](https://www.strengthzonetraining.com/why-smart-trainers-believe-stupid-things-part-3-regression-to-the-mean/)  
+   Link: <a href="https://www.strengthzonetraining.com/why-smart-trainers-believe-stupid-things-part-3-regression-to-the-mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.strengthzonetraining.com/why-smart-trainers-believe-stupid-things-part-3-regression-to-the-mean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sports world: The “Sports Illustrated jinx” and the “Madden curse.... Regression to the mean might very well be the true explanation for...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: psychologytoday.com  
    Title: the sports illustrated cover jinx  
-   Link: [https://www.psychologytoday.com/gb/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx](https://www.psychologytoday.com/gb/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayThe Sports Illustrated Cover Jinx12 Oct 2016 — The Sports Illustrated Jinx and the Madden Curse are extreme examples of r...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/sport/2002/jan/20/ussport.lawrencedonegan](https://www.theguardian.com/sport/2002/jan/20/ussport.lawrencedonegan)  
+   Link: <a href="https://www.theguardian.com/sport/2002/jan/20/ussport.lawrencedonegan" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/sport/2002/jan/20/ussport.lawrencedonegan</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>magazine&#x27;s long-held belief that the &#x27;jinx&#x27; could be explained away by the theory of &#x27;regression to the mean&#x27;. In plain language this mea...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: psychologytoday.com  
    Title: the sports illustrated cover jinx  
-   Link: [https://www.psychologytoday.com/us/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx](https://www.psychologytoday.com/us/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx)  
+   Link: <a href="https://www.psychologytoday.com/us/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 12, 2016 — This is a statistical phenomenon known as regression to the mean. There is regression in baseball and other athletic perfo...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: scribbr.com  
    Title: regression to the mean  
-   Link: [https://www.scribbr.com/research-bias/regression-to-the-mean/](https://www.scribbr.com/research-bias/regression-to-the-mean/)  
+   Link: <a href="https://www.scribbr.com/research-bias/regression-to-the-mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-bias/regression-to-the-mean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesOct 15, 2022 — Regression to the mean is observed when variables that are extremely high or low move closer to the a...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/ca/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx](https://www.psychologytoday.com/ca/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx)  
+   Link: <a href="https://www.psychologytoday.com/ca/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/what-the-luck/201610/the-sports-illustrated-cover-jinx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sports Illustrated Cover JinxOct 12, 2016 — The Sports Illustrated Jinx and the Madden Curse are extreme examples of regression...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: convert.com  
-   Link: [https://www.convert.com/glossary/regression-to-the-mean/](https://www.convert.com/glossary/regression-to-the-mean/)  
+   Link: <a href="https://www.convert.com/glossary/regression-to-the-mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.convert.com/glossary/regression-to-the-mean/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition of Regression to the MeanRegression to the mean is the statistical tendency for extreme values to move closer to the average o...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nbastuffer.com  
-   Link: [https://www.nbastuffer.com/analytics101/regression-to-the-mean/](https://www.nbastuffer.com/analytics101/regression-to-the-mean/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NBAstufferRegression To The Mean in Sports ExplainedRegression to the mean in sports performance produced the “Sports Illustrated Jinx” s...</p></details>
+   Link: <a href="https://www.nbastuffer.com/analytics101/regression-to-the-mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbastuffer.com/analytics101/regression-to-the-mean/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression To The Mean in Sports ExplainedRegression to the mean in sports performance produced the “Sports Illustrated Jinx” s...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40vplevris/regression-to-the-mean-why-extreme-results-rarely-last-and-what-we-can-do-about-it-01f11ac7766e](https://medium.com/%40vplevris/regression-to-the-mean-why-extreme-results-rarely-last-and-what-we-can-do-about-it-01f11ac7766e)  
+   Link: <a href="https://medium.com/%40vplevris/regression-to-the-mean-why-extreme-results-rarely-last-and-what-we-can-do-about-it-01f11ac7766e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40vplevris/regression-to-the-mean-why-extreme-results-rarely-last-and-what-we-can-do-about-it-01f11ac7766e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression to the Mean: Why Extreme Results Rarely LastExtreme results tend to be followed by more typical ones. · Regression to the mean...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: brookbushinstitute.com  
-   Link: [https://brookbushinstitute.com/glossary/regression-to-the-mean](https://brookbushinstitute.com/glossary/regression-to-the-mean)  
+   Link: <a href="https://brookbushinstitute.com/glossary/regression-to-the-mean" target="_blank" rel="noopener noreferrer nofollow">https://brookbushinstitute.com/glossary/regression-to-the-mean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression to the meanIf you select extreme cases on the first measurement, follow-up measures will likely be less extreme simply because...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/regression-to-the-mean-and-its-implications-648660c9bf76](https://medium.com/data-science/regression-to-the-mean-and-its-implications-648660c9bf76)  
+   Link: <a href="https://medium.com/data-science/regression-to-the-mean-and-its-implications-648660c9bf76" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/regression-to-the-mean-and-its-implications-648660c9bf76</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression to the mean and its implicationsRegression to the mean occurs when you compare any two variables that aren&#x27;t perfectly correla...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: bigthink.com  
-   Link: [https://bigthink.com/articles/a-simple-principle-that-explains-everything-from-the-perceived-success-of-speed-cameras-and-alternative-medicine-to-the-sports-illustrated-jinx/](https://bigthink.com/articles/a-simple-principle-that-explains-everything-from-the-perceived-success-of-speed-cameras-and-alternative-medicine-to-the-sports-illustrated-jinx/)  
+   Link: <a href="https://bigthink.com/articles/a-simple-principle-that-explains-everything-from-the-perceived-success-of-speed-cameras-and-alternative-medicine-to-the-sports-illustrated-jinx/" target="_blank" rel="noopener noreferrer nofollow">https://bigthink.com/articles/a-simple-principle-that-explains-everything-from-the-perceived-success-of-speed-cameras-and-alternative-medicine-to-the-sports-illustrated-jinx/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A simple principle that explains everything from the...25 Jan 2014 — A simple principle that explains everything from the perceived succ...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: www-users.york.ac.uk  
-   Link: [https://www-users.york.ac.uk/~mb55/talks/regmean.htm](https://www-users.york.ac.uk/~mb55/talks/regmean.htm)  
+   Link: <a href="https://www-users.york.ac.uk/~mb55/talks/regmean.htm" target="_blank" rel="noopener noreferrer nofollow">https://www-users.york.ac.uk/~mb55/talks/regmean.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>towards the meanby M Bland · Cited by 9 —... example of regression towards the mean. Hollywood Sequels. A... The &#x27;Curse of Hello&#x27; and t...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: mathwords.com  
-   Link: [https://www.mathwords.com/r/reversiontothe_mean.htm](https://www.mathwords.com/r/reversiontothe_mean.htm)  
+   Link: <a href="https://www.mathwords.com/r/reversiontothe_mean.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mathwords.com/r/reversiontothe_mean.htm</a>  
 
 39. <a id="endnote-39"></a>
    Source: retractionwatch.com  
-   Link: [https://retractionwatch.com/2018/10/30/the-regression-to-the-mean-project-what-researchers-should-know-about-a-mistake-many-make/](https://retractionwatch.com/2018/10/30/the-regression-to-the-mean-project-what-researchers-should-know-about-a-mistake-many-make/)  
+   Link: <a href="https://retractionwatch.com/2018/10/30/the-regression-to-the-mean-project-what-researchers-should-know-about-a-mistake-many-make/" target="_blank" rel="noopener noreferrer nofollow">https://retractionwatch.com/2018/10/30/the-regression-to-the-mean-project-what-researchers-should-know-about-a-mistake-many-make/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “regression to the mean project:” What researchers...Oct 30, 2018 — For an example from the world of sports, consider “The Sports Il...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: physicsforums.com  
    Title: Sports Illustrated Jinx: Regression to the Mean  
-   Link: [https://www.physicsforums.com/threads/sports-illustrated-jinx-regression-to-the-mean.171887/](https://www.physicsforums.com/threads/sports-illustrated-jinx-regression-to-the-mean.171887/)  
+   Link: <a href="https://www.physicsforums.com/threads/sports-illustrated-jinx-regression-to-the-mean.171887/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/sports-illustrated-jinx-regression-to-the-mean.171887/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 2007 — Concerns are raised about the reliability of linear regression models in predicting individual game outcomes, with some in...</p></details>
    Published: May 27, 2007  

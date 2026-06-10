@@ -335,7 +335,7 @@ The distinction resembles the difference between character evidence and factual 
 
 ## A useful case: when safety language meets safety findings
 
-The contrast becomes clearer when examining high-profile safety controversies. Following the Boeing 737 MAX crises and later quality concerns, Boeing repeatedly emphasised safety as a foundational company value. Public statements and policy documents described safety as the company's highest priority and foundation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boeing.com/safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-snippet">BoeingSafetySafety is our foundation. We strive for first-time quality and hold ourselves to the highest ethical standards as set forth i...</span></span></span>
+The contrast becomes clearer when examining high-profile safety controversies. Following the Boeing 737 MAX crises and later quality concerns, Boeing repeatedly emphasised safety as a foundational company value. Public statements and policy documents described safety as the company's highest priority and foundation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boeing.com/safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boeing.com">[Boeing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boeing.com</span><span class="citation-popover-snippet">SafetySafety is our foundation. We strive for first-time quality and hold ourselves to the highest ethical standards as set forth i...</span></span></span>
 
 However, independent investigations did not stop at those statements. Regulators and review panels examined reporting systems, quality controls, employee concerns, oversight processes, training, production practices, and measurable safety outcomes. FAA-commissioned reviews and other investigations identified gaps, disconnects, and deficiencies in aspects of Boeing's safety culture and implementation. Later investigations into production problems similarly focused on concrete failures, oversight, and corrective measures rather than corporate values language alone. Reuters 3Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great-2024-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">This investigation follows fatal crashes involving Boeing Max jets in 2018 and 2019. The FAA report highlighted a troubling workplace cul...</span></span></span>
 
@@ -801,132 +801,132 @@ Those questions test product safety. Statements about values test only what a co
 1. <a id="endnote-1"></a>
    Source: risk-engineering.org  
    Title: Risk Engineering Safety culture: A contentious and confused notion  
-   Link: [https://risk-engineering.org/concept/safety-culture](https://risk-engineering.org/concept/safety-culture)  
+   Link: <a href="https://risk-engineering.org/concept/safety-culture" target="_blank" rel="noopener noreferrer nofollow">https://risk-engineering.org/concept/safety-culture</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk EngineeringSafety culture: A contentious and confused notionMarch 30, 2020 — The safety culture of an organisation is the product of...</p></details>
    Published: March 30, 2020  
 
 2. <a id="endnote-2"></a>
    Source: icsi-eu.org  
-   Link: [https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf](https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf)  
+   Link: <a href="https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Culture: From Understanding to ActionThe safety culture reflects the importance the organisational culture grants to safety in all...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: tc.canada.ca  
    Title: Transport Canada SAFETY CULTURE POLICY STATEMENT1.0  
-   Link: [https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf](https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf)  
+   Link: <a href="https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tc.canada.ca/sites/default/files/2022-01/SAFETY_CULTURE_POLICY_STATEMENT.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transport CanadaSAFETY CULTURE POLICY STATEMENT1.0 INTRODUCTION. Safety culture refers to the shared values, beliefs, attitudes, actions...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cpsc.gov  
    Title: Duty to Report to the CPSC Your Rights and Responsibilities  
-   Link: [https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities](https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities)  
+   Link: <a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionDuty to Report to CPSC: Rights and Responsibilities...A company must report to the Commission within 2...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ecfr.gov  
    Title: part 1115  
-   Link: [https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115](https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115)  
+   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Immediately, that is, within 24 hours, after a subject firm has obtained information which reasonably supports the conclusion that its...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf](https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf)  
+   Link: <a href="https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionProduct Safety Planning, Reporting, and Recall HandbookSection 15 requires companies to report &quot;immedia...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: boeing.com  
-   Link: [https://www.boeing.com/safety](https://www.boeing.com/safety)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BoeingSafetySafety is our foundation. We strive for first-time quality and hold ourselves to the highest ethical standards as set forth i...</p></details>
+   Link: <a href="https://www.boeing.com/safety" target="_blank" rel="noopener noreferrer nofollow">https://www.boeing.com/safety</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SafetySafety is our foundation. We strive for first-time quality and hold ourselves to the highest ethical standards as set forth i...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
    Title: Panel finds safety 'disconnect' between Boeing management, employees  
-   Link: [https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/](https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/)  
+   Link: <a href="https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commissioned by the U.S. Congress after fatal crashes of Boeing 737 MAX planes in 2018 and 2019, the report criticized Boeing&#x27;s lack of a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/](https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Transportation Safety Board (NTSB) has sharply criticized Boeing for failing to provide adequate training, guidance, and oversig...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/business-and-management/safety-culture](https://www.ebsco.com/research-starters/business-and-management/safety-culture)  
+   Link: <a href="https://www.ebsco.com/research-starters/business-and-management/safety-culture" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/business-and-management/safety-culture</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety culture | Business and ManagementSafety culture refers to the collective attitudes, values, and behaviors of an organization regar...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great-2024-2](https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great-2024-2)  
+   Link: <a href="https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great-2024-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/faa-investigated-boeings-safety-culture-and-the-results-arent-great-2024-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This investigation follows fatal crashes involving Boeing Max jets in 2018 and 2019. The FAA report highlighted a troubling workplace cul...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7351545/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 737 MAX: Lessons for Engineering Ethics - PMCby J Herkert · 2020 · Cited by 232 — Thus, the case can serve a reminder to current a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fLRfXxn02Uw](https://www.youtube.com/watch?v=fLRfXxn02Uw)  
+   Link: <a href="https://www.youtube.com/watch?v=fLRfXxn02Uw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fLRfXxn02Uw</a>  
 
 14. <a id="endnote-14"></a>
    Source: democrats-transportation.house.gov  
    Title: boeing 737 max investigation  
-   Link: [https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation](https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation)  
+   Link: <a href="https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation" target="_blank" rel="noopener noreferrer nofollow">https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>737 MAX InvestigationThe Committee launched an investigation to ensure accountability, transparency in the certification process, and mos...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/346566981_Psychological_Safety_in_Aviation_New_Product_Development_Teams_Case_Study_of_737_MAX_Airplane](https://www.researchgate.net/publication/346566981_Psychological_Safety_in_Aviation_New_Product_Development_Teams_Case_Study_of_737_MAX_Airplane)  
+   Link: <a href="https://www.researchgate.net/publication/346566981_Psychological_Safety_in_Aviation_New_Product_Development_Teams_Case_Study_of_737_MAX_Airplane" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346566981_Psychological_Safety_in_Aviation_New_Product_Development_Teams_Case_Study_of_737_MAX_Airplane</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Study of 737 MAX Airplane5 May 2026 — In its mission statement, Boeing emphasizes that one of its core values is its commitment to s...</p></details>
    Published: May 2026  
 
 16. <a id="endnote-16"></a>
    Source: canadasafetytraining.com  
-   Link: [https://www.canadasafetytraining.com/Safety_Blog/building-a-safety-culture.aspx](https://www.canadasafetytraining.com/Safety_Blog/building-a-safety-culture.aspx)  
+   Link: <a href="https://www.canadasafetytraining.com/Safety_Blog/building-a-safety-culture.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.canadasafetytraining.com/Safety_Blog/building-a-safety-culture.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Steps to Build a Strong Safety Culture in the WorkplaceCreating a safety culture in organizations is based on preventing accidents, pro...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: worksafe.qld.gov.au  
-   Link: [https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0024/19365/understanding-safety-culture.pdf](https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0024/19365/understanding-safety-culture.pdf)  
+   Link: <a href="https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0024/19365/understanding-safety-culture.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.worksafe.qld.gov.au/__data/assets/pdf_file/0024/19365/understanding-safety-culture.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding safety cultureFor a safety culture to be successful it needs to be led from the top—that is, safety culture needs to be emb...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cov.com  
-   Link: [https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf](https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf)  
+   Link: <a href="https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>law, a manufacturer of consumer prod- ucts must report to the CPSC “immediately”—that is, within 24 hours—upon obtaining information that...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nelsonmullins.com  
-   Link: [https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf](https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf)  
+   Link: <a href="https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Companies must file Section 15(b) reports “immediately”— meaning within 24 hours—after obtaining information.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 320789688 Safety Culture and Return to Work Does Perception Matter  
-   Link: [https://www.researchgate.net/publication/320789688_Safety_Culture_and_Return_to_Work_Does_Perception_Matter](https://www.researchgate.net/publication/320789688_Safety_Culture_and_Return_to_Work_Does_Perception_Matter)  
+   Link: <a href="https://www.researchgate.net/publication/320789688_Safety_Culture_and_Return_to_Work_Does_Perception_Matter" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320789688_Safety_Culture_and_Return_to_Work_Does_Perception_Matter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Zohar (2000) described safety climate as employees&#x27; perception of the priority given to. safety and not based on a supervisor&#x27;s...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: transportation.gov  
    Title: faa oversight boeings broken safety culture 0  
-   Link: [https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0](https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0)  
+   Link: <a href="https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation DepartmentFAA Oversight of Boeing&#x27;s Broken Safety Culture25 Sept 2024 — The FAA will hold Boeing accountable for having an...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/s3fs-public/8002.pdf](https://www.cpsc.gov/s3fs-public/8002.pdf)  
+   Link: <a href="https://www.cpsc.gov/s3fs-public/8002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/8002.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 report with the Office of Compliance and Field.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: GOV.UK  
    Title: product safety and noncompliance notification guidance  
-   Link: [https://www.gov.uk/government/publications/notifications-of-unsafe-and-noncompliant-products/product-safety-and-noncompliance-notification-guidance](https://www.gov.uk/government/publications/notifications-of-unsafe-and-noncompliant-products/product-safety-and-noncompliance-notification-guidance)  
+   Link: <a href="https://www.gov.uk/government/publications/notifications-of-unsafe-and-noncompliant-products/product-safety-and-noncompliance-notification-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/notifications-of-unsafe-and-noncompliant-products/product-safety-and-noncompliance-notification-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>safety and noncompliance notification guidance for...13 May 2026 — This guidance is for market surveillance and enforcement authorities...</p></details>
    Published: May 2026  
 
 24. <a id="endnote-24"></a>
    Source: rucforsk.ruc.dk  
-   Link: [https://rucforsk.ruc.dk/ws/files/111388842/Boeing_project.pdf](https://rucforsk.ruc.dk/ws/files/111388842/Boeing_project.pdf)  
+   Link: <a href="https://rucforsk.ruc.dk/ws/files/111388842/Boeing_project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rucforsk.ruc.dk/ws/files/111388842/Boeing_project.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MAX. We understand that regulatory agencies and customers have...Read more...</p></details>

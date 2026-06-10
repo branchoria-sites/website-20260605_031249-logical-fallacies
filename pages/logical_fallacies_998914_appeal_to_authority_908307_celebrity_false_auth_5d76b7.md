@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebr
 
 ## Introduction
 
-Celebrity endorsements are a particularly common form of the appeal to authority fallacy. The mistake occurs when a claim seems credible because a famous person supports it, even though that person's fame has little or no connection to the subject being discussed. In health, science, finance, and [politics]({{ 'politics/' | relative_url }}), public recognition can easily be confused with relevant expertise. The result is a persuasive shortcut: people may accept a claim because they trust, admire, or identify with the celebrity rather than because the evidence is strong. As a branch of the broader appeal to authority fallacy, celebrity endorsement becomes logically weak when fame substitutes for knowledge, training, or reliable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</span></span></span>
+Celebrity endorsements are a particularly common form of the [appeal to authority]({{ 'authority/' | relative_url }}) fallacy. The mistake occurs when a claim seems credible because a famous person supports it, even though that person's fame has little or no connection to the subject being discussed. In health, science, finance, and [politics]({{ 'politics/' | relative_url }}), public recognition can easily be confused with relevant expertise. The result is a persuasive shortcut: people may accept a claim because they trust, admire, or identify with the celebrity rather than because the evidence is strong. As a branch of the broader appeal to authority fallacy, celebrity endorsement becomes logically weak when fame substitutes for knowledge, training, or reliable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-1-dark.svg" | relative_url }}" alt="Celebrity Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_celebrity_false_auth_5d76b7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -302,7 +302,7 @@ Importantly, a celebrity can sometimes be a genuine authority. A famous physicia
 
 ## Why Celebrity Endorsements Feel So Convincing
 
-The influence of celebrity endorsements is not accidental. Research in marketing and persuasion consistently finds that famous individuals can shape attitudes, purchasing intentions, and public attention. People often transfer positive feelings about a celebrity to the endorsed message or product. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0969698920312686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectCelebrity endorsements: Investigating the interactive...by K El Hedhli · 2021 · Cited by 111 — This research investigates t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalCelebrity endorser&#x27;s credibility: effect on consumers&#x27;...by C Friis-Jespersen · Cited by 15 — The findings of this study sugg...</span></span></span>
+The influence of celebrity endorsements is not accidental. Research in marketing and persuasion consistently finds that famous individuals can shape attitudes, purchasing intentions, and public attention. People often transfer positive feelings about a celebrity to the endorsed message or product. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0969698920312686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Celebrity endorsements: Investigating the interactive...by K El Hedhli · 2021 · Cited by 111 — This research investigates t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[Diva Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-snippet">Diva PortalCelebrity endorser&#x27;s credibility: effect on consumers&#x27;...by C Friis-Jespersen · Cited by 15 — The findings of this study sugg...</span></span></span>
 
 Several psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) help explain the effect:
 
@@ -365,7 +365,7 @@ Celebrities can play constructive roles by:
 
 </div>
 
-For example, research on vaccination messaging has found that celebrity endorsement can increase the visibility and spread of public-health messages. Similarly, celebrity disclosures about mental health can raise awareness and reduce stigma. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.05667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivWhen Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in IndonesiaFebruary 15, 2019...</span><span class="citation-popover-meta">Published: February 15, 2019</span></span></span>
+For example, research on vaccination messaging has found that celebrity endorsement can increase the visibility and spread of public-health messages. Similarly, celebrity disclosures about mental health can raise awareness and reduce stigma. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.05667" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">When Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in IndonesiaFebruary 15, 2019...</span><span class="citation-popover-meta">Published: February 15, 2019</span></span></span>
 
 However, these examples do not transform celebrities into experts. Their value lies in communication reach, not in providing independent evidence. A scientifically accurate message remains accurate because of the supporting evidence, not because a celebrity repeats it.
 
@@ -389,7 +389,7 @@ Is the expertise directly related to the claim?
 2. **Would the claim remain persuasive without the celebrity's name attached?**
 If not, the argument may rely heavily on authority rather than evidence.
 3. **What evidence supports the claim?**
-Look for studies, data, [expert consensus]({{ 'expert-consensus/' | relative_url }}), or verifiable facts.
+Look for studies, data, expert consensus, or verifiable facts.
 4. **Do qualified specialists agree?**
 A broad expert consensus is usually more informative than a single famous endorsement.
 5. **Is the celebrity being paid or otherwise incentivised?**
@@ -824,131 +824,131 @@ Celebrity endorsements are persuasive because fame attracts attention, creates t
 
 1. <a id="endnote-1"></a>
    Source: clutch.co  
-   Link: [https://clutch.co/resources/logical-fallacies-advertising](https://clutch.co/resources/logical-fallacies-advertising)  
+   Link: <a href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow">https://clutch.co/resources/logical-fallacies-advertising</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>per Drake in their commercial. Rapper Drake drinks a...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0969698920312686](https://www.sciencedirect.com/science/article/pii/S0969698920312686)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectCelebrity endorsements: Investigating the interactive...by K El Hedhli · 2021 · Cited by 111 — This research investigates t...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0969698920312686" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0969698920312686</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity endorsements: Investigating the interactive...by K El Hedhli · 2021 · Cited by 111 — This research investigates t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: diva-portal.org  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf](https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1117789/FULLTEXT02.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalCelebrity endorser&#x27;s credibility: effect on consumers&#x27;...by C Friis-Jespersen · Cited by 15 — The findings of this study sugg...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5251292/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5251292/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCCelebrities&#x27; impact on health-related knowledge, attitudes...by SJ Hoffman · 2017 · Cited by 134 — We aim to uncover both the directi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5251292/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5251292/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrities&#x27; impact on health-related knowledge, attitudes...by SJ Hoffman · 2017 · Cited by 134 — We aim to uncover both the directi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHelpful or harmful?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11657387/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the impact of social media...by J Kaňková · 2024 · Cited by 55 — The findings underscore the importance of expanding health c...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9950585/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9950585/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9950585/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9950585/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, public health and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1902.05667](https://arxiv.org/abs/1902.05667)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWhen Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in IndonesiaFebruary 15, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1902.05667" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.05667</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in IndonesiaFebruary 15, 2019...</p></details>
    Published: February 15, 2019  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9483822/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of celebrity disclosure on mental health-related stigmaby PC Gronholm · 2022 · Cited by 67 — Celebrity disclosures can support stigma-red...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Celebrity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to CelebrityAccepting a claim of a celebrity based on his or her celebrity status, not on the strength of the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/apcelebs.html](https://www.fallacyfiles.org/apcelebs.html)  
+   Link: <a href="https://www.fallacyfiles.org/apcelebs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/apcelebs.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesLogical Fallacy: Appeal to CelebrityAppealing to celebrity is one of the most common forms of fallacious appeal to authority...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arnoldporter.com  
    Title: ftc proposed updates to endorsement guides  
-   Link: [https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides](https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides)  
+   Link: <a href="https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.arnoldporter.com/en/perspectives/advisories/2022/06/ftc-proposed-updates-to-endorsement-guides</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arnold &amp; PorterFTC Proposed Updates to Endorsement Guides and.com...6 Jun 2022 — In the proposed updated Guides, the Commission propose...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: knowledge.wharton.upenn.edu  
-   Link: [https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/](https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/)  
+   Link: <a href="https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.wharton.upenn.edu/article/the-marketing-psychology-behind-celebrity-endorsements/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge at WhartonThe Marketing Psychology Behind Celebrity EndorsementsMay 30, 2023 — The researchers believe the ability of celebriti...</p></details>
    Published: May 30, 2023  
 
 13. <a id="endnote-13"></a>
    Source: dwt.com  
    Title: ftc advertising endorsement and testimonial guides  
-   Link: [https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides](https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides)  
+   Link: <a href="https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.dwt.com/insights/2023/07/ftc-advertising-endorsement-and-testimonial-guides</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis Wright TremaineIn a One, Two, Three Punch, the FTC Issues Updated...10 Jul 2023 — The FTC issued (i) its final, updated Guides to...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: figshare.swinburne.edu.au  
-   Link: [https://figshare.swinburne.edu.au/ndownloader/files/47665651](https://figshare.swinburne.edu.au/ndownloader/files/47665651)  
+   Link: <a href="https://figshare.swinburne.edu.au/ndownloader/files/47665651" target="_blank" rel="noopener noreferrer nofollow">https://figshare.swinburne.edu.au/ndownloader/files/47665651</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The study included five celebrity and five...Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2279977_code2046006.pdf?abstractid=2279977&mirid=1&type=2](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2279977_code2046006.pdf?abstractid=2279977&mirid=1&type=2)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2279977_code2046006.pdf?abstractid=2279977&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2279977_code2046006.pdf?abstractid=2279977&amp;mirid=1&amp;type=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Celebrity Endorsement on Customer&#x27;s Brand...This research aims to study the impact of celebrity endorsement on customer&#x27;s brand perce...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: acr-journal.com  
-   Link: [https://acr-journal.com/article/celebrity-endorsement-exploring-the-effects-of-celebrity-attractiveness-credibility-on-ad-recall-purchase-intention-1549/](https://acr-journal.com/article/celebrity-endorsement-exploring-the-effects-of-celebrity-attractiveness-credibility-on-ad-recall-purchase-intention-1549/)  
+   Link: <a href="https://acr-journal.com/article/celebrity-endorsement-exploring-the-effects-of-celebrity-attractiveness-credibility-on-ad-recall-purchase-intention-1549/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/celebrity-endorsement-exploring-the-effects-of-celebrity-attractiveness-credibility-on-ad-recall-purchase-intention-1549/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity Endorsement: Exploring the Effects of...by AA Santoki · 2025 · Cited by 1 — This research discusses the influence of credibili...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ellejoliewellness.com  
-   Link: [https://www.ellejoliewellness.com/blog-1/beware-the-influence-how-ill-informed-celebrities-and-influencers-impact-health-modalities](https://www.ellejoliewellness.com/blog-1/beware-the-influence-how-ill-informed-celebrities-and-influencers-impact-health-modalities)  
+   Link: <a href="https://www.ellejoliewellness.com/blog-1/beware-the-influence-how-ill-informed-celebrities-and-influencers-impact-health-modalities" target="_blank" rel="noopener noreferrer nofollow">https://www.ellejoliewellness.com/blog-1/beware-the-influence-how-ill-informed-celebrities-and-influencers-impact-health-modalities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Celebrities and Influencers Impact Health Advice4 Apr 2024 — Study: The Impact of Misinformation on Dietary Choices...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bidscube.com  
-   Link: [https://bidscube.com/blog/advertising-fallacies-10-real-world-examples-marketers-still-fall-for/](https://bidscube.com/blog/advertising-fallacies-10-real-world-examples-marketers-still-fall-for/)  
+   Link: <a href="https://bidscube.com/blog/advertising-fallacies-10-real-world-examples-marketers-still-fall-for/" target="_blank" rel="noopener noreferrer nofollow">https://bidscube.com/blog/advertising-fallacies-10-real-world-examples-marketers-still-fall-for/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority. This is the category of celebrity endorsements from non-experts. Pepsi&#x27;s notorious 2017 ad starring Kendall Jenner —...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sayhameed/posts/argumentum-ad-verecundiam-or-appeal-to-authority-is-a-logical-fallacy-that-occur/9895827060452257/](https://www.facebook.com/sayhameed/posts/argumentum-ad-verecundiam-or-appeal-to-authority-is-a-logical-fallacy-that-occur/9895827060452257/)  
+   Link: <a href="https://www.facebook.com/sayhameed/posts/argumentum-ad-verecundiam-or-appeal-to-authority-is-a-logical-fallacy-that-occur/9895827060452257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sayhameed/posts/argumentum-ad-verecundiam-or-appeal-to-authority-is-a-logical-fallacy-that-occur/9895827060452257/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ccurs when someone claims a statement is true simply because it is endorsed by an...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tandfonline.com  
    Title: Full article: Do celebrities in advertisements matter?  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/02650487.2024.2332107](https://www.tandfonline.com/doi/full/10.1080/02650487.2024.2332107)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02650487.2024.2332107" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02650487.2024.2332107</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Ono · 2024 · Cited by 8 — According to the Persuasion knowledge model, celebrity endorsement may lead to not only weak persuasive ef...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: when health authorities are put in the position of having to refute misinformati  
-   Link: [https://www.facebook.com/insiderscience/posts/when-health-authorities-are-put-in-the-position-of-having-to-refute-misinformati/4168292129946098/](https://www.facebook.com/insiderscience/posts/when-health-authorities-are-put-in-the-position-of-having-to-refute-misinformati/4168292129946098/)  
+   Link: <a href="https://www.facebook.com/insiderscience/posts/when-health-authorities-are-put-in-the-position-of-having-to-refute-misinformati/4168292129946098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/insiderscience/posts/when-health-authorities-are-put-in-the-position-of-having-to-refute-misinformati/4168292129946098/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Profile photo of Juan... Learn how to push back against disinformation and rebuild trust: [https://...&quot;](https://...&quot;)...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/359160018_Conceptual_Model_Development_for_Celebrity_Endorsement_in_Social_Advertising_The_Case_of_Source_Credibility_and_Celebrity-Fan_Relationship](https://www.researchgate.net/publication/359160018_Conceptual_Model_Development_for_Celebrity_Endorsement_in_Social_Advertising_The_Case_of_Source_Credibility_and_Celebrity-Fan_Relationship)  
+   Link: <a href="https://www.researchgate.net/publication/359160018_Conceptual_Model_Development_for_Celebrity_Endorsement_in_Social_Advertising_The_Case_of_Source_Credibility_and_Celebrity-Fan_Relationship" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359160018_Conceptual_Model_Development_for_Celebrity_Endorsement_in_Social_Advertising_The_Case_of_Source_Credibility_and_Celebrity-Fan_Relationship</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>source (celebrity) and celebrity-fan relationship on the cognitive and...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: bridgeportct.gov  
    Title: social media influencers and health misinformation why we must be cautious  
-   Link: [https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious](https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious)  
+   Link: <a href="https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeportct.gov/news/social-media-influencers-and-health-misinformation-why-we-must-be-cautious</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to a landmark study by MIT, [false news](&amp;#123;&amp;#123; &#x27;false-news/&#x27; | relative_url &amp;#125;&amp;#125;) stories on Twitter were 70...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hifa.org  
    Title: social media influencers and health misinformation  
-   Link: [https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation](https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation)  
+   Link: <a href="https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.hifa.org/dgroups-rss/social-media-influencers-and-health-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Dec 2025 — I would add that tighter regulations are needed not only to recuce disinformation from influencers, but also (and especially...</p></details>

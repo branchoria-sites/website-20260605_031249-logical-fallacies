@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_straw_man_arguments_c08438_weak_m
 
 ## Introduction
 
-Weak-manning occurs when someone chooses the weakest, most poorly argued, or most extreme example of a position and then treats that example as representative of the entire opposing side. Instead of confronting the strongest available case, the critic defeats an easier target and implies that no better argument exists. Within the broader family of straw man fallacies, weak-manning is especially influential because it often relies on real examples rather than invented ones. The weakness lies not in fabricating an opponent's view, but in selecting an unrepresentative version of it and presenting that version as typical. Argumentation scholars Scott Aikin and Robert Talisse describe this as a “selection” form of the straw man, where a weaker argument is chosen from among available alternatives and then used as a stand-in for the whole position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-snippet">Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — 2 Specifically, we will introduce a distinction between...</span></span></span> PhilPapers The result is a distorted debate. Audiences may leave believing that an opposing side has no serious arguments <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/AIKSML" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">The second form of the straw man fallacy is that of the selectional straw man, or better the weak man. The...Read more...</span></span></span>, when in reality they have only seen its least persuasive advocates or most fringe examples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-snippet">Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — 2 Specifically, we will introduce a distinction between...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">SquarespaceStraw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</span></span></span>
+Weak-manning occurs when someone chooses the weakest, most poorly argued, or most extreme example of a position and then treats that example as representative of the entire opposing side. Instead of confronting the strongest available case, the critic defeats an easier target and implies that no better argument exists. Within the broader family of straw man fallacies, weak-manning is especially influential because it often relies on real examples rather than invented ones. The weakness lies not in fabricating an opponent's view, but in selecting an unrepresentative version of it and presenting that version as typical. Argumentation scholars Scott Aikin and Robert Talisse describe this as a “selection” form of the straw man, where a weaker argument is chosen from among available alternatives and then used as a stand-in for the whole position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-snippet">Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — 2 Specifically, we will introduce a distinction between...</span></span></span> PhilPapers The result is a distorted debate. Audiences may leave believing that an opposing side has no serious arguments <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/AIKSML" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">The second form of the straw man fallacy is that of the selectional straw man, or better the weak man. The...Read more...</span></span></span>, when in reality they have only seen its least persuasive advocates or most fringe examples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-snippet">Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — 2 Specifically, we will introduce a distinction between...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">Straw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_weak_manning_fringe_c8f69b-Illustration-1-dark.svg" | relative_url }}" alt="Weak Manning illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_weak_manning_fringe_c8f69b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_weak_manning_fringe_c8f69b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -293,7 +293,7 @@ Several recurring patterns appear:
 
 </div>
 
-These tactics can create the impression that an entire viewpoint is intellectually weak even when substantial arguments remain unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">SquarespaceStraw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</span></span></span>
+These tactics can create the impression that an entire viewpoint is intellectually weak even when substantial arguments remain unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">Straw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</span></span></span>
 
 ## How Weak-Manning Differs from Classic Straw Men
 
@@ -322,7 +322,7 @@ Weak-manning succeeds partly because it exploits familiar patterns in human judg
 
 One factor is the availability heuristic, a cognitive shortcut in which people rely heavily on examples that are vivid, memorable, or easy to recall. A dramatic fringe statement is more memorable than a careful policy paper, so audiences may overestimate how representative it is. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/availability-heuristic-2794824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-title">availability heuristic 2794824</span><span class="citation-popover-snippet">Availability Heuristic: Examples and Effects on Decisions29 Oct 2025 — The availability heuristic is a type of mental shortcut that invol...</span></span></span>
 
-A second factor is the representativeness heuristic. People often judge a group based on examples that seem to fit a mental image or stereotype rather than on statistical reality. When a highly unusual example receives disproportionate attention, it can come to symbolise an entire movement or viewpoint in the public imagination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.appinio.com/en/blog/market-research/representativeness-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appinio.com">[Appinio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appinio.com</span><span class="citation-popover-title">What is Representativeness Heuristic?</span><span class="citation-popover-snippet">Definition, ExamplesDecember 7, 2023 — Representativeness bias is a cognitive bias that occurs when individuals rely heavily on stereotyp...</span><span class="citation-popover-meta">Published: December 7, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/bias-in-research/the-representativeness-heuristic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Representativeness Heuristic | Example &amp; Definition</span><span class="citation-popover-snippet">Representativeness Heuristic | Example &amp; Definition - Scribbr28 Dec 2022 — The &#x27;representativeness heuristic&#x27; occurs when we estimate the...</span></span></span> Media environments can amplify these tendencies. Extreme examples attract attention, generate stronger emotional reactions, and are more likely to be shared. As a result, fringe voices can become disproportionately visible even when they represent only a tiny fraction of a broader position. The ease with which such examples come to mind can make them seem more common and more representative than they actually are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profrjstarr.com">[RJ Starr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profrjstarr.com</span><span class="citation-popover-title">This bias explains why rare but</span><span class="citation-popover-snippet">RJ StarrAvailability Heuristic: Why the Most Vivid Examples Always...The availability heuristic skews our judgment by favoring emotional...</span></span></span>
+A second factor is the representativeness heuristic. People often judge a group based on examples that seem to fit a mental image or stereotype rather than on statistical reality. When a highly unusual example receives disproportionate attention, it can come to symbolise an entire movement or viewpoint in the public imagination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.appinio.com/en/blog/market-research/representativeness-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appinio.com">[Appinio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appinio.com</span><span class="citation-popover-title">What is Representativeness Heuristic?</span><span class="citation-popover-snippet">Definition, ExamplesDecember 7, 2023 — Representativeness bias is a cognitive bias that occurs when individuals rely heavily on stereotyp...</span><span class="citation-popover-meta">Published: December 7, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/bias-in-research/the-representativeness-heuristic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Representativeness Heuristic &#124; Example &amp; Definition</span><span class="citation-popover-snippet">Representativeness Heuristic &#124; Example &amp; Definition - Scribbr28 Dec 2022 — The &#x27;representativeness heuristic&#x27; occurs when we estimate the...</span></span></span> Media environments can amplify these tendencies. Extreme examples attract attention, generate stronger emotional reactions, and are more likely to be shared. As a result, fringe voices can become disproportionately visible even when they represent only a tiny fraction of a broader position. The ease with which such examples come to mind can make them seem more common and more representative than they actually are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: profrjstarr.com">[RJ Starr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">profrjstarr.com</span><span class="citation-popover-title">This bias explains why rare but</span><span class="citation-popover-snippet">RJ StarrAvailability Heuristic: Why the Most Vivid Examples Always...The availability heuristic skews our judgment by favoring emotional...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_weak_manning_fringe_c8f69b-Illustration-2-dark.svg" | relative_url }}" alt="Weak Manning illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_weak_manning_fringe_c8f69b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_weak_manning_fringe_c8f69b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,7 +337,7 @@ The move combines two errors:
 1. Selecting an extreme case.
 2. Generalising from that case to a much larger group.
 
-The audience sees an actual example and may overlook the question that matters most: whether the example accurately reflects the wider position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">SquarespaceStraw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</span></span></span>
+The audience sees an actual example and may overlook the question that matters most: whether the example accurately reflects the wider position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">Straw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</span></span></span>
 
 ## What Gets Lost When Stronger Arguments Are Ignored
 
@@ -389,7 +389,7 @@ A useful diagnostic question is simple: *Is this the strongest serious argument 
 
 If the answer is clearly no, there may be a weak-man problem. Other warning signs include repeated focus on fringe figures, reliance on embarrassing anecdotes, and an absence of engagement with well-known arguments from mainstream advocates.
 
-The central issue is not whether the criticised example exists. It is whether that example deserves to stand in for the wider position. When the weakest example becomes the public face of an entire viewpoint, the debate may appear settled while the strongest arguments remain untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-snippet">Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — 2 Specifically, we will introduce a distinction between...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">SquarespaceStraw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</span></span></span>
+The central issue is not whether the criticised example exists. It is whether that example deserves to stand in for the wider position. When the weakest example becomes the public face of an entire viewpoint, the debate may appear settled while the strongest arguments remain untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-snippet">Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — 2 Specifically, we will introduce a distinction between...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">Straw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGZkCPo7tC0" title="The Strawman Fallacy | Idea Channel | PBS Digital Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer">The Strawman Fallacy | Idea Channel | PBS Digital Studios</a></p><p class="youtube-embed-meta">Channel: PBS Idea Channel &middot; Views: 544.0K &middot; Uploaded: October 2014 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGZkCPo7tC0">Open on YouTube</a></p></div></div></div>
@@ -816,158 +816,158 @@ The central issue is not whether the criticised example exists. It is whether th
 
 1. <a id="endnote-1"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/AIKSML](https://philpapers.org/rec/AIKSML)  
+   Link: <a href="https://philpapers.org/rec/AIKSML" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKSML</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The second form of the straw man fallacy is that of the selectional straw man, or better the weak man. The...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: static1.squarespace.com  
-   Link: [https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf](https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SquarespaceStraw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</p></details>
+   Link: <a href="https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/66aa5e9b470cdc610ff23d47/t/66e9ae37d4bf1c1736326fad/1726590519767/2011%2BAikin%2B%26%2BCasey%2BStraw%2BWeak%2BHollo%2BARGUMENTATION.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw Men, Weak Men, and Hollow Men7 Oct 2010 — What Talisse and Aikin call the selectional form of the straw man, or the weak...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dwc.knaw.nl  
    Title: DWCThe straw man fallacy  
-   Link: [https://dwc.knaw.nl/DL/publications/PU00010685.pdf](https://dwc.knaw.nl/DL/publications/PU00010685.pdf)  
+   Link: <a href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010685.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 18, 2010 — In this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in order...</p></details>
    Published: November 18, 2010  
 
 4. <a id="endnote-4"></a>
    Source: philpapers.org  
    Title: Phil Papers The straw man fallacy  
-   Link: [https://philpapers.org/rec/WALTSM-4](https://philpapers.org/rec/WALTSM-4)  
+   Link: <a href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTSM-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man fallacy as...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: by Scott F  
-   Link: [https://www.facebook.com/felix.hayman/posts/by-scott-f-aikin-and-robert-b-talissethe-straw-man-fallacy-admits-of-a-wide-vari/10158103556556785/](https://www.facebook.com/felix.hayman/posts/by-scott-f-aikin-and-robert-b-talissethe-straw-man-fallacy-admits-of-a-wide-vari/10158103556556785/)  
+   Link: <a href="https://www.facebook.com/felix.hayman/posts/by-scott-f-aikin-and-robert-b-talissethe-straw-man-fallacy-admits-of-a-wide-vari/10158103556556785/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/felix.hayman/posts/by-scott-f-aikin-and-robert-b-talissethe-straw-man-fallacy-admits-of-a-wide-vari/10158103556556785/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aikin and Robert B. Talisse The straw man...7 Sept 2020 — The key is that the straw man argument requires that its audience either not k...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: appinio.com  
    Title: What is Representativeness Heuristic?  
-   Link: [https://www.appinio.com/en/blog/market-research/representativeness-heuristic](https://www.appinio.com/en/blog/market-research/representativeness-heuristic)  
+   Link: <a href="https://www.appinio.com/en/blog/market-research/representativeness-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.appinio.com/en/blog/market-research/representativeness-heuristic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, ExamplesDecember 7, 2023 — Representativeness bias is a cognitive bias that occurs when individuals rely heavily on stereotyp...</p></details>
    Published: December 7, 2023  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: [https://en.wikipedia.org/wiki/Straw_man](https://en.wikipedia.org/wiki/Straw_man)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
 
 8. <a id="endnote-8"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html](https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html)  
+   Link: <a href="https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n about but from our reasoning about each other&#x27;s reasoning.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability heuristicThe availability heuristic, also known as availability bias, is a mental shortcut that relies on immediate examp...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Straw Man Fallacy Example  
-   Link: [https://www.youtube.com/watch?v=qMzY_-ZZJaA](https://www.youtube.com/watch?v=qMzY_-ZZJaA)  
+   Link: <a href="https://www.youtube.com/watch?v=qMzY_-ZZJaA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qMzY_-ZZJaA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw Man | [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Straw Man | Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=rbG3E4W8ha0](https://www.youtube.com/watch?v=rbG3E4W8ha0)  
+   Link: <a href="https://www.youtube.com/watch?v=rbG3E4W8ha0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rbG3E4W8ha0</a>  
 
 12. <a id="endnote-12"></a>
    Source: communicationcache.com  
-   Link: [https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf](https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf)  
+   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — 2 Specifically, we will introduce a distinction between...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: verywellmind.com  
    Title: availability heuristic 2794824  
-   Link: [https://www.verywellmind.com/availability-heuristic-2794824](https://www.verywellmind.com/availability-heuristic-2794824)  
+   Link: <a href="https://www.verywellmind.com/availability-heuristic-2794824" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/availability-heuristic-2794824</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic: Examples and Effects on Decisions29 Oct 2025 — The availability heuristic is a type of mental shortcut that invol...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: profrjstarr.com  
    Title: This bias explains why rare but  
-   Link: [https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win](https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win)  
+   Link: <a href="https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win" target="_blank" rel="noopener noreferrer nofollow">https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RJ StarrAvailability Heuristic: Why the Most Vivid Examples Always...The availability heuristic skews our judgment by favoring emotional...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Representativeness Heuristic | Example & Definition  
-   Link: [https://www.scribbr.co.uk/bias-in-research/the-representativeness-heuristic/](https://www.scribbr.co.uk/bias-in-research/the-representativeness-heuristic/)  
+   Link: <a href="https://www.scribbr.co.uk/bias-in-research/the-representativeness-heuristic/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/bias-in-research/the-representativeness-heuristic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Representativeness Heuristic | Example &amp; Definition - Scribbr28 Dec 2022 — The &#x27;representativeness heuristic&#x27; occurs when we estimate the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3](https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — Walton (1996) adds that the straw man has some similarities with the ad ve...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: yumpu.com  
    Title: The straw man fallacy  
-   Link: [https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons](https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons)  
+   Link: <a href="https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Walton&#x27;s7 Apr 2014 — When an appeal is made to the claimed opinion of an expert as an authority to backup an argument, there is a...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue](https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue)  
+   Link: <a href="https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Straw Men, Iron Men, and Argumentative VirtueThe straw man fallacy consists in inappropriately constructing or selecting weak (or c...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting](https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting)  
+   Link: <a href="https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fabrizio Macagno, Douglas Walton Interpreting Straw Man...27 Feb 2018 — The tools of argumentation theory, a discipline aimed at investi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/representativeness-heuristic-examples-definition-quiz.html](https://study.com/academy/lesson/representativeness-heuristic-examples-definition-quiz.html)  
+   Link: <a href="https://study.com/academy/lesson/representativeness-heuristic-examples-definition-quiz.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/representativeness-heuristic-examples-definition-quiz.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Representative Heuristic | Definition, Origin &amp; ExamplesThe representative heuristic definition describes a heuristic where decisions are...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man](https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man)  
+   Link: <a href="https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Forms of the Straw ManTalisse and Aikin [16] argue for two forms of straw man: (i) misrepresentation and (ii) weak. The first form in...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/gb/839236173/be-2-flash-cards/](https://quizlet.com/gb/839236173/be-2-flash-cards/)  
+   Link: <a href="https://quizlet.com/gb/839236173/be-2-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/839236173/be-2-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>be 2 FlashcardsAvailability Heuristic: Judging based on easily recalled examples can lead to biased estimates. Representativeness Heurist...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCognitive biases resulting from the representativeness  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6462158/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6462158/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby M AlKhars · 2019 · Cited by 63 — This paper aims to investigate the six cognitive biases resulting from the use of the representati...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6462158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6462158/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M AlKhars · 2019 · Cited by 63 — This paper aims to investigate the six cognitive biases resulting from the use of the representati...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: socialcognition.trubox.ca  
    Title: the availability heuristic the representativeness heuristic  
-   Link: [https://socialcognition.trubox.ca/2024/02/17/the-availability-heuristic-the-representativeness-heuristic/](https://socialcognition.trubox.ca/2024/02/17/the-availability-heuristic-the-representativeness-heuristic/)  
+   Link: <a href="https://socialcognition.trubox.ca/2024/02/17/the-availability-heuristic-the-representativeness-heuristic/" target="_blank" rel="noopener noreferrer nofollow">https://socialcognition.trubox.ca/2024/02/17/the-availability-heuristic-the-representativeness-heuristic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>trubox.ca5. The Availability &amp; Representativeness Heuristics17 Feb 2024 — The two most ubiquitous heuristics are the availability and the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: philarchive.org  
    Title: Interpreting Straw Man Argumentation  
-   Link: [https://philarchive.org/rec/MACISM](https://philarchive.org/rec/MACISM)  
+   Link: <a href="https://philarchive.org/rec/MACISM" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/rec/MACISM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Waltonby F Macagno · 2017 · Cited by 63 — This book shows how research in linguistic pragmatics, philosophy of language, and rhet...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: logic.stanford.edu  
-   Link: [https://logic.stanford.edu/complaw/readings/introduction_to_argumentation_theory.pdf](https://logic.stanford.edu/complaw/readings/introduction_to_argumentation_theory.pdf)  
+   Link: <a href="https://logic.stanford.edu/complaw/readings/introduction_to_argumentation_theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://logic.stanford.edu/complaw/readings/introduction_to_argumentation_theory.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 19. 18. Douglas Walton on this analysis, it can be said that a fallacy of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;) has been committed in the Mexican War example.Re...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting](https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting)  
+   Link: <a href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fabrizio Macagno, Douglas Walton Interpreting Straw Man...The “straw man fallacy” was originally referred to as the Aristotelian sophism...</p></details>

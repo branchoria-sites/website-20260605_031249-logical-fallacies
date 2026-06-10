@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:09:26'
 parent_title: What Is the Wording Sneaking In? | Fallacy Lab
 parent_permalink: /loaded-words/
 parent_nav_short_title: Loaded Words
@@ -265,7 +266,6 @@ next_link:
   permalink: /memory-framing/
   short_title: Memory Framing
   heading_title: Can One Word Change What People Remember?
-date: '2026-06-05 02:09:26 '
 header:
   og_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_loaded_question_prem_15d3db-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_loaded_question_prem_15d3db-Illustration-1.webp
@@ -278,7 +278,7 @@ A loaded question is a question that quietly embeds a disputed claim and then as
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_loaded_question_prem_15d3db-Illustration-1-dark.svg" | relative_url }}" alt="Loaded Questions illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_loaded_question_prem_15d3db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_loaded_question_prem_15d3db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because discussions can be steered before the real disagreement is even identified. A person may find themselves defending against an accusation, accepting a characterisation, or conceding a factual claim that was never independently proven. The hidden assumption becomes the centre of the conversation while escaping scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-022-09566-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">After a brief</span><span class="citation-popover-snippet">SpringerQuestions, Presuppositions and Fallacies | Argumentationby A Moldovan · 2022 · Cited by 6 — In this paper I focus on the fallacy...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[The Fallacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Logic, Definition &amp; Examples13 Feb 2026 — An argument may be fallacious in three ways: in its material content, through a misstatement of...</span></span></span>
+This matters because discussions can be steered before the real disagreement is even identified. A person may find themselves defending against an accusation, accepting a characterisation, or conceding a factual claim that was never independently proven. The hidden assumption becomes the centre of the conversation while escaping scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-022-09566-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">After a brief</span><span class="citation-popover-snippet">Questions, Presuppositions and Fallacies &#124; Argumentationby A Moldovan · 2022 · Cited by 6 — In this paper I focus on the fallacy...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[The Fallacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Logic, Definition &amp; Examples13 Feb 2026 — An argument may be fallacious in three ways: in its material content, through a misstatement of...</span></span></span>
 
 ## How Disputed Premises Get Embedded
 
@@ -329,7 +329,7 @@ Suppose a court has already established through evidence that a defendant signed
 
 By contrast, if the signing itself remains uncertain, the same question assumes what still needs to be proven. In that context it becomes loaded. Whether a question is fallacious therefore depends not only on its wording but also on what participants have already accepted as common ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageFallacy of Complex QuestionThis type of complex question is termed a loaded question since it contains a presuppositi...</span></span></span>
 
-This distinction explains why loaded questions are often described as fallacies of presupposition. The problem is not merely that an assumption exists. The problem is that a contested assumption is treated as established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/MACPFL-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">MACPFL 7</span><span class="citation-popover-snippet">PhilArchivePresuppositional Fallaciesby F Macagno · 2024 · Cited by 6 — In argumentation, this concept emerges explicitly very rarely, es...</span></span></span>
+This distinction explains why loaded questions are often described as fallacies of presupposition. The problem is not merely that an assumption exists. The problem is that a contested assumption is treated as established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/MACPFL-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">MACPFL 7</span><span class="citation-popover-snippet">Presuppositional Fallaciesby F Macagno · 2024 · Cited by 6 — In argumentation, this concept emerges explicitly very rarely, es...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_loaded_question_prem_15d3db-Illustration-2-dark.svg" | relative_url }}" alt="Loaded Questions illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_loaded_question_prem_15d3db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_loaded_question_prem_15d3db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -352,7 +352,7 @@ The same mechanism appears in workplace disputes, personal arguments and online 
 
 In each case, a direct answer risks validating a claim that has not yet been demonstrated.
 
-Research in argumentation theory highlights that complex questions have both a linguistic dimension and a dialectical one. They are not merely unusual sentences; they can alter the structure of a discussion by changing what participants appear committed to accepting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-022-09566-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">After a brief</span><span class="citation-popover-snippet">SpringerQuestions, Presuppositions and Fallacies | Argumentationby A Moldovan · 2022 · Cited by 6 — In this paper I focus on the fallacy...</span></span></span>
+Research in argumentation theory highlights that complex questions have both a linguistic dimension and a dialectical one. They are not merely unusual sentences; they can alter the structure of a discussion by changing what participants appear committed to accepting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10503-022-09566-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">After a brief</span><span class="citation-popover-snippet">Questions, Presuppositions and Fallacies &#124; Argumentationby A Moldovan · 2022 · Cited by 6 — In this paper I focus on the fallacy...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MJ3-pqnE0oA" title="Complex or Loaded Question Fallacy | Middle and High School Homeschooling Logic/Argument video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MJ3-pqnE0oA" target="_blank" rel="noopener noreferrer">Complex or Loaded Question Fallacy | Middle and High School Homeschooling Logic/Argument video</a></p><p class="youtube-embed-meta">Channel: ClassicallyDad &middot; Views: 2.5K &middot; Uploaded: January 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MJ3-pqnE0oA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MJ3-pqnE0oA">Open on YouTube</a></p></div></div></div>
@@ -832,194 +832,194 @@ Once the hidden premise is identified, it can be treated as a separate claim req
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Loaded question  
-   Link: [https://en.wikipedia.org/wiki/Loaded_question](https://en.wikipedia.org/wiki/Loaded_question)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loaded_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_question</a>  
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
    Title: After a brief  
-   Link: [https://link.springer.com/article/10.1007/s10503-022-09566-6](https://link.springer.com/article/10.1007/s10503-022-09566-6)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerQuestions, Presuppositions and Fallacies | Argumentationby A Moldovan · 2022 · Cited by 6 — In this paper I focus on the fallacy...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10503-022-09566-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-022-09566-6</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions, Presuppositions and Fallacies | Argumentationby A Moldovan · 2022 · Cited by 6 — In this paper I focus on the fallacy...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Presupposition  
-   Link: [https://plato.stanford.edu/entries/presupposition/](https://plato.stanford.edu/entries/presupposition/)  
+   Link: <a href="https://plato.stanford.edu/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/presupposition/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyPresupposition - Stanford Encyclopedia of Philosophyby DI Beaver · 2011 · Cited by 856 — We discuss pr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Presupposition  
-   Link: [https://plato.stanford.edu/archives/spr2019/entries/presupposition/](https://plato.stanford.edu/archives/spr2019/entries/presupposition/)  
+   Link: <a href="https://plato.stanford.edu/archives/spr2019/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2019/entries/presupposition/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyPresupposition - Stanford Encyclopedia of Philosophy1 Apr 2011 — We discuss presupposition, the phenom...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Presupposition](https://en.wikipedia.org/wiki/Presupposition)  
+   Link: <a href="https://en.wikipedia.org/wiki/Presupposition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presupposition</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PresuppositionA presupposition is an implicit assumption about the world or background belief relating to an utterance whose truth is...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Complex question  
-   Link: [https://en.wikipedia.org/wiki/Complex_question](https://en.wikipedia.org/wiki/Complex_question)  
+   Link: <a href="https://en.wikipedia.org/wiki/Complex_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Complex_question</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complex questionWhen a presupposition includes an admission of wrongdoing, it is called a &quot;loaded question&quot; and is a form of entrapmen...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: philarchive.org  
    Title: MACPFL 7  
-   Link: [https://philarchive.org/archive/MACPFL-7](https://philarchive.org/archive/MACPFL-7)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilArchivePresuppositional Fallaciesby F Macagno · 2024 · Cited by 6 — In argumentation, this concept emerges explicitly very rarely, es...</p></details>
+   Link: <a href="https://philarchive.org/archive/MACPFL-7" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/MACPFL-7</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Presuppositional Fallaciesby F Macagno · 2024 · Cited by 6 — In argumentation, this concept emerges explicitly very rarely, es...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesFallacy of many questions (complex question, fallacy of presuppositions, loaded question, plurium interrogationum) –...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: stanford.edu  
-   Link: [https://www.stanford.edu/](https://www.stanford.edu/)  
+   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, in a...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2012/entries/presupposition/](https://plato.stanford.edu/archives/fall2012/entries/presupposition/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2012/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2012/entries/presupposition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophy1 Apr 2011 — We discuss presupposition, the phenomenon whereby speakers mark linguistically the inform...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: Another definition that is often used is this:.Read more  
-   Link: [https://plato.stanford.edu/archives/fall2013/entries/presupposition/](https://plato.stanford.edu/archives/fall2013/entries/presupposition/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/presupposition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophy1 Apr 2011 — One sentence presupposes another iff whenever the first is true or false, the second is true...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/win2018/entries/questions/](https://plato.stanford.edu/archives/win2018/entries/questions/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2018/entries/questions/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2018/entries/questions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Familiar considerations from the philosophy of language make it clear that one should distinguish...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: [https://plato.stanford.edu/entries/category-mistakes/](https://plato.stanford.edu/entries/category-mistakes/)  
+   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 163 — If the presuppositional account is correct, then the s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: news.stanford.edu  
    Title: ghost elephants dna research  
-   Link: [https://news.stanford.edu/stories/2026/05/ghost-elephants-dna-research](https://news.stanford.edu/stories/2026/05/ghost-elephants-dna-research)  
+   Link: <a href="https://news.stanford.edu/stories/2026/05/ghost-elephants-dna-research" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/05/ghost-elephants-dna-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>science reveals genetically distinct ‘ghost elephants’...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Begging the question  
-   Link: [https://en.wikipedia.org/wiki/Begging_the_question](https://en.wikipedia.org/wiki/Begging_the_question)  
+   Link: <a href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Begging_the_question</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the questionLoaded question – Question containing an unjustified assumption; Open-question argument – Philosophical argument...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesYou use this fallacy when you frame a question so that some controversial presupposition is m...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/complex.html](https://philosophy.lander.edu/logic/complex.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageFallacy of Complex QuestionThis type of complex question is termed a loaded question since it contains a presuppositi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/loaded-question](https://fallacyguide.com/fallacies/loaded-question)  
+   Link: <a href="https://fallacyguide.com/fallacies/loaded-question" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/loaded-question</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideLoaded Question Fallacy: Definition, Examples &amp; How to Fix ItA loaded question embeds an assumption so that any direct a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Complex Question is a form of Begging the Question. Composition. The Compositi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical FallaciesFallacies are fake or deceptive arguments, &quot;junk cognition,&quot; that is, arguments that seem irrefutable but prove...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: study.com  
    Title: Loaded Question | Definition & Examples  
-   Link: [https://study.com/academy/lesson/loaded-question-definition-examples.html](https://study.com/academy/lesson/loaded-question-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/loaded-question-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/loaded-question-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LessonA loaded question is a complex question that contains falsehoods, an assumption or unfounded presumption of guilt.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; Examples13 Feb 2026 — An argument may be fallacious in three ways: in its material content, through a misstatement of...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/browse/presupposition](https://philpapers.org/browse/presupposition)  
+   Link: <a href="https://philpapers.org/browse/presupposition" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/browse/presupposition</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Question FallacyDescription: A question that has a presupposition built in, which implies something but protects the one asking t...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/loaded-question](https://yourlogicalfallacyis.com/loaded-question)  
+   Link: <a href="https://yourlogicalfallacyis.com/loaded-question" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/loaded-question</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is loaded questionLoaded question fallacies are particularly effective at derailing rational debates because of thei...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/loaded-question/](https://effectiviology.com/loaded-question/)  
+   Link: <a href="https://effectiviology.com/loaded-question/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/loaded-question/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sumption that the person being questioned is likely to disagree with.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
    Title: 359516607 Questions Presuppositions and Fallacies  
-   Link: [https://www.researchgate.net/publication/359516607_Questions_Presuppositions_and_Fallacies](https://www.researchgate.net/publication/359516607_Questions_Presuppositions_and_Fallacies)  
+   Link: <a href="https://www.researchgate.net/publication/359516607_Questions_Presuppositions_and_Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359516607_Questions_Presuppositions_and_Fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Questions, Presuppositions and Fallacies28 Mar 2022 — PDF | In this paper I focus on the fallacy known as Complex Quest...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: fallacyinlogic.medium.com  
    Title: what is the loaded question fallacy 63bd5cc2360a  
-   Link: [https://fallacyinlogic.medium.com/what-is-the-loaded-question-fallacy-63bd5cc2360a](https://fallacyinlogic.medium.com/what-is-the-loaded-question-fallacy-63bd5cc2360a)  
+   Link: <a href="https://fallacyinlogic.medium.com/what-is-the-loaded-question-fallacy-63bd5cc2360a" target="_blank" rel="noopener noreferrer nofollow">https://fallacyinlogic.medium.com/what-is-the-loaded-question-fallacy-63bd5cc2360a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is The Loaded Question Fallacy?A question that has a presupposition built in, which implies something but protects the one asking the que...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
    Title: 309188351 Presupposition What went wrong  
-   Link: [https://www.researchgate.net/publication/309188351_Presupposition_What_went_wrong](https://www.researchgate.net/publication/309188351_Presupposition_What_went_wrong)  
+   Link: <a href="https://www.researchgate.net/publication/309188351_Presupposition_What_went_wrong" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309188351_Presupposition_What_went_wrong</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Presupposition: What went wrong?16 Oct 2016 — Generations of students have learned about presuppositions from Stephen Levinson&#x27;s 19...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: nlpnotes.com  
    Title: Presuppositions: Loaded Question  
-   Link: [https://nlpnotes.com/2014/03/09/presuppositions-loaded-question/](https://nlpnotes.com/2014/03/09/presuppositions-loaded-question/)  
+   Link: <a href="https://nlpnotes.com/2014/03/09/presuppositions-loaded-question/" target="_blank" rel="noopener noreferrer nofollow">https://nlpnotes.com/2014/03/09/presuppositions-loaded-question/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NLP Notes9 Mar 2014 — A loaded question or complex question fallacy is a question which contains a controversial or unjustified assumptio...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: thoughtco.com  
    Title: complex question fallacy 1689890  
-   Link: [https://www.thoughtco.com/complex-question-fallacy-1689890](https://www.thoughtco.com/complex-question-fallacy-1689890)  
+   Link: <a href="https://www.thoughtco.com/complex-question-fallacy-1689890" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/complex-question-fallacy-1689890</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Question Fallacy—Definition and Examples18 May 2025 — A complex question is a fallacy in which the answer to a given question pre...</p></details>
    Published: May 2025  
 
 34. <a id="endnote-34"></a>
    Source: philosophy.stackexchange.com  
    Title: is a loaded question a fallacy  
-   Link: [https://philosophy.stackexchange.com/questions/15410/is-a-loaded-question-a-fallacy](https://philosophy.stackexchange.com/questions/15410/is-a-loaded-question-a-fallacy)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/15410/is-a-loaded-question-a-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/15410/is-a-loaded-question-a-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>logic23 Aug 2014 — Simply asking a loaded question is not a fallacious argument. Rather, loaded questions are typically used to trick som...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: rephrasely.com  
    Title: loaded question fallacy  
-   Link: [https://rephrasely.com/usage/loaded-question-fallacy](https://rephrasely.com/usage/loaded-question-fallacy)  
+   Link: <a href="https://rephrasely.com/usage/loaded-question-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://rephrasely.com/usage/loaded-question-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Loaded Question Fallacy: A Key...01 Apr 2024 — A loaded question is a form of a fallacy in which the question contains...</p></details>

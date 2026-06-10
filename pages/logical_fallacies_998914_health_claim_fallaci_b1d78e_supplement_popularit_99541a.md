@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_suppl
 
 ## Introduction
 
-Popularity is one of the most powerful tools in supplement marketing. Labels such as “best-selling”, “#1 brand”, “millions of users”, or “trusted worldwide” create the impression that a product has already been tested by the crowd and found effective. In the context of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a classic [appeal to popularity]({{ 'popularity/' | relative_url }}): the suggestion that widespread use is evidence that a health claim is true.
+Popularity is one of the most powerful tools in supplement marketing. Labels such as “best-selling”, “#1 brand”, “millions of users”, or “trusted worldwide” create the impression that a product has already been tested by the crowd and found effective. In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a classic appeal to popularity: the suggestion that widespread use is evidence that a health claim is true.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,7 +291,7 @@ The logical mistake occurs when popularity is treated as a substitute for eviden
 
 The conclusion does not follow. History contains many examples of widely accepted health beliefs that later proved ineffective, exaggerated, or wrong. Mass adoption can spread faster than scientific verification, especially when consumers are motivated by fear of illness, hope for improvement, or dissatisfaction with existing treatments.
 
-Health regulators emphasise that claims about health benefits must be supported by scientific substantiation rather than consumer belief. The US Federal Trade Commission (FTC), which oversees [advertising claims]({{ 'ad-claims/' | relative_url }}), states that health-related claims must be truthful, not misleading, and backed by appropriate scientific evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
+Health regulators emphasise that claims about health benefits must be supported by scientific substantiation rather than consumer belief. The US Federal Trade Commission (FTC), which oversees advertising claims, states that health-related claims must be truthful, not misleading, and backed by appropriate scientific evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
 Popularity can therefore suggest demand. It cannot establish efficacy.
 
@@ -331,7 +331,7 @@ Popularity is rarely spontaneous. It is often manufactured through marketing sys
 
 [Social media]({{ 'social-media/' | relative_url }}) allows supplements to spread rapidly through influencer recommendations. When consumers repeatedly encounter favourable reviews, transformation stories, and endorsement videos, a perception of consensus emerges even when the underlying evidence is limited.
 
-Research on affiliate marketing and endorsements has shown that many consumers struggle to distinguish between genuine recommendations and commercial promotion. Disclosure practices have historically been inconsistent, increasing the persuasive power of influencer endorsements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
+Research on affiliate marketing and endorsements has shown that many consumers struggle to distinguish between genuine recommendations and commercial promotion. Disclosure practices have historically been inconsistent, increasing the persuasive power of influencer endorsements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</span><span class="citation-popover-meta">Published: September 3, 2018</span></span></span>
 
 The FTC has repeatedly stressed that advertisers cannot use testimonials or endorsements as a substitute for scientific substantiation. If a company could not legally make a health claim directly, it generally cannot rely on influencers or testimonials to make that claim indirectly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
@@ -820,202 +820,202 @@ Scientific evidence and popularity answer different questions. Popularity asks, 
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cohenhealthcarelaw.com  
-   Link: [https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/](https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/)  
+   Link: <a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It means you must have solid scientific evidence—often including expert analysis or...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ods.od.nih.gov  
    Title: Learn about their label information, effectiveness, safety, risk, quality,  
-   Link: [https://ods.od.nih.gov/factsheets/WYNTK-Consumer/](https://ods.od.nih.gov/factsheets/WYNTK-Consumer/)  
+   Link: <a href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/WYNTK-Consumer/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ods.od.nih.gov  
-   Link: [https://ods.od.nih.gov/HealthInformation/healthinformation.aspx](https://ods.od.nih.gov/HealthInformation/healthinformation.aspx)  
+   Link: <a href="https://ods.od.nih.gov/HealthInformation/healthinformation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/HealthInformation/healthinformation.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsHealth InformationEvidence-based summaries for health professionals and consumers on specific vitamins, mine...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
 6. <a id="endnote-6"></a>
    Source: health.com  
    Title: Study: Majority of Fish Oil Supplements Make Unfounded Health Claims  
-   Link: [https://www.health.com/fish-oil-supplements-for-heart-health-7852475](https://www.health.com/fish-oil-supplements-for-heart-health-7852475)  
+   Link: <a href="https://www.health.com/fish-oil-supplements-for-heart-health-7852475" target="_blank" rel="noopener noreferrer nofollow">https://www.health.com/fish-oil-supplements-for-heart-health-7852475</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>make health claims not supported by scientific evidence, particularly regarding heart health. Conducted by researchers from UT Southweste...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: fda.gov  
    Title: label claims conventional foods and dietary supplements  
-   Link: [https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements](https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements)  
+   Link: <a href="https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/label-claims-conventional-foods-and-dietary-supplements</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationLabel Claims for Conventional Foods and Dietary...28 Mar 2024 — Among the claims that can be used on food an...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ods.od.nih.gov  
    Title: Office of Dietary Supplements Background Information: Dietary Supplements  
-   Link: [https://ods.od.nih.gov/factsheets/DietarySupplements-Consumer/](https://ods.od.nih.gov/factsheets/DietarySupplements-Consumer/)  
+   Link: <a href="https://ods.od.nih.gov/factsheets/DietarySupplements-Consumer/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/DietarySupplements-Consumer/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Dietary SupplementsBackground Information: Dietary Supplements - Consumer11 Mar 2020 — Health claims describe a relationship be...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ods.od.nih.gov  
-   Link: [https://ods.od.nih.gov/](https://ods.od.nih.gov/)  
+   Link: <a href="https://ods.od.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Dietary Supplements (ODS) - NIHThe ODS Probiotics Fact Sheet for Consumers has been updated. It provides essential information on the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6513729/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513729/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6513729/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6513729/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>regulatory guidelines and resources to support...by RL Bailey · 2018 · Cited by 196 — This review will highlight the existing American r...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Muela-Molina · 2021 · Cited by 36 — The aim of this research is to analyse the presence of false and misleading claims in food su...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Muela-Molina · 2021 · Cited by 36 — The aim of this research is to analyse the presence of false and misleading claims in food su...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12265102/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12265102/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J Antonio · 2025 · Cited by 4 — It should be noted that supplements are not required to have FDA approval prior to marketing unless...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12265102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12265102/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Antonio · 2025 · Cited by 4 — It should be noted that supplements are not required to have FDA approval prior to marketing unless...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby RR Starr · 2015 · Cited by 259 — However, supplements need not be evaluated for efficacy, and only limited data on safety are requi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by RR Starr · 2015 · Cited by 259 — However, supplements need not be evaluated for efficacy, and only limited data on safety are requi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK220865/](https://www.ncbi.nlm.nih.gov/books/NBK220865/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK220865/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK220865/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Framework for Evaluating the Safety of Dietary...A framework for the evaluation of safety of dietary supplement ingredients must be carr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ods.od.nih.gov  
    Title: list all  
-   Link: [https://ods.od.nih.gov/factsheets/list-all/](https://ods.od.nih.gov/factsheets/list-all/)  
+   Link: <a href="https://ods.od.nih.gov/factsheets/list-all/" target="_blank" rel="noopener noreferrer nofollow">https://ods.od.nih.gov/factsheets/list-all/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supplement Fact SheetsProvides information about dietary supplements and their ingredients. These include vitamins, minerals, herbs and b...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12455376/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12455376/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12455376/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12455376/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statements and Perceived Health Benefits of Dietary...by JN Assadourian · 2025 · Cited by 5 — To evaluate how commonly used structure/fu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/health-claims](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claims | Federal Trade CommissionHealth Products Compliance Guidance. Companies must support their advertising claims with solid p...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: [https://www.youtube.com/watch?v=aF6EHTtyYqw](https://www.youtube.com/watch?v=aF6EHTtyYqw)  
+   Link: <a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SUPPLEMENT INDUSTRY MARKETING...&quot;Somebody&#x27;s got to tell the truth!!!&quot; - Rich Piana...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pwUYSi3c2Oo](https://www.youtube.com/watch?v=pwUYSi3c2Oo)  
+   Link: <a href="https://www.youtube.com/watch?v=pwUYSi3c2Oo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pwUYSi3c2Oo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populum...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Argumentum ad populum  
-   Link: [https://www.youtube.com/watch?v=myspZ3Ap4jQ](https://www.youtube.com/watch?v=myspZ3Ap4jQ)  
+   Link: <a href="https://www.youtube.com/watch?v=myspZ3Ap4jQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=myspZ3Ap4jQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Oz Exposes Supplement Scams: What You Need to Know! | Dr. Oz | S6 | Ep 161 | Full Episode...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Y5Y2aY06ums](https://www.youtube.com/watch?v=Y5Y2aY06ums)  
+   Link: <a href="https://www.youtube.com/watch?v=Y5Y2aY06ums" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y5Y2aY06ums</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic of the Herbalist Tricking Sick People...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Logic of the Herbalist Tricking Sick People  
-   Link: [https://www.youtube.com/watch?v=tPAUPY2vhH0](https://www.youtube.com/watch?v=tPAUPY2vhH0)  
+   Link: <a href="https://www.youtube.com/watch?v=tPAUPY2vhH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tPAUPY2vhH0</a>  
 
 23. <a id="endnote-23"></a>
    Source: teenvogue.com  
-   Link: [https://www.teenvogue.com/story/berberine-isnt-natures-ozempic](https://www.teenvogue.com/story/berberine-isnt-natures-ozempic)  
+   Link: <a href="https://www.teenvogue.com/story/berberine-isnt-natures-ozempic" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/berberine-isnt-natures-ozempic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, experts warn it is not equivalent to these prescription drugs and lacks proven efficacy. Ozempic and Wegovy, designed for diabet...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: fda.gov  
    Title: dietary supplements  
-   Link: [https://www.fda.gov/food/dietary-supplements](https://www.fda.gov/food/dietary-supplements)  
+   Link: <a href="https://www.fda.gov/food/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/food/dietary-supplements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 1, 2024 — FDA regulates dietary supplements under a different set of regulations than those covering conventional foods and drug prod...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=IEZ0lQ1JOnY](https://www.youtube.com/watch?v=IEZ0lQ1JOnY)  
+   Link: <a href="https://www.youtube.com/watch?v=IEZ0lQ1JOnY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IEZ0lQ1JOnY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Meeting Exploring the Scope of Dietary Supplement...FDA&#x27;s Office of Dietary Supplement Programs (ODSP) invites stakeholders to pa...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7CmI5zjFFAE](https://www.youtube.com/watch?v=7CmI5zjFFAE)  
+   Link: <a href="https://www.youtube.com/watch?v=7CmI5zjFFAE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7CmI5zjFFAE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nal Institutes of Health (NIH) Office of Dietary Supplements (ODS)...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Y8WsTQ2G-HY](https://www.youtube.com/watch?v=Y8WsTQ2G-HY)  
+   Link: <a href="https://www.youtube.com/watch?v=Y8WsTQ2G-HY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y8WsTQ2G-HY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>activities related to ensuring that supplement advertising... Claims...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: npanational.org  
-   Link: [https://www.npanational.org/regulatory/federal-trade-commission-ftc/](https://www.npanational.org/regulatory/federal-trade-commission-ftc/)  
+   Link: <a href="https://www.npanational.org/regulatory/federal-trade-commission-ftc/" target="_blank" rel="noopener noreferrer nofollow">https://www.npanational.org/regulatory/federal-trade-commission-ftc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ypically applied a substantiation standard of...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: nutrition.gov  
-   Link: [https://www.nutrition.gov/topics/dietary-supplements](https://www.nutrition.gov/topics/dietary-supplements)  
+   Link: <a href="https://www.nutrition.gov/topics/dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.nutrition.gov/topics/dietary-supplements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary SupplementsFind evidence-based information about dietary supplements. This collection of fact sheets presents information about d...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: nutrition.gov  
-   Link: [https://www.nutrition.gov/nutrition-misinformation-and-fraud](https://www.nutrition.gov/nutrition-misinformation-and-fraud)  
+   Link: <a href="https://www.nutrition.gov/nutrition-misinformation-and-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.nutrition.gov/nutrition-misinformation-and-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nutrition Misinformation and FraudFind resources to help identify nutrition misinformation and fraudulent health claims, which provide fa...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-substantiation-dietary-supplement-claims-made-under-section-403r-6-federal-food](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-substantiation-dietary-supplement-claims-made-under-section-403r-6-federal-food)  
+   Link: <a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-substantiation-dietary-supplement-claims-made-under-section-403r-6-federal-food" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-substantiation-dietary-supplement-claims-made-under-section-403r-6-federal-food</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Substantiation for Dietary Supplement Claims Made Under...20 Sept 2018 — The FTC has typically applied a substantiation standard of &quot;com...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: [https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising](https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising)  
+   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: ftcdefenselawyer.com  
-   Link: [https://ftcdefenselawyer.com/advertising-claim-substantiation/](https://ftcdefenselawyer.com/advertising-claim-substantiation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC [Advertising Claim](&amp;#123;&amp;#123; &#x27;ad-claims/&#x27; | relative_url &amp;#125;&amp;#125;) Substantiation Compliance AttorneyClaim Substantiation and “Competent and Reliable Scientific Evidence;”; Endorseme...</p></details>
+   Link: <a href="https://ftcdefenselawyer.com/advertising-claim-substantiation/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Advertising Claim Substantiation Compliance AttorneyClaim Substantiation and “Competent and Reliable Scientific Evidence;”; Endorseme...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: ftcdefenselawyer.com  
-   Link: [https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/](https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/)  
+   Link: <a href="https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Health Products Compliance Guidance | HinchNewman...As a general rule, advertisers should not make claims through consumer testimoni...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: cirs-group.com  
-   Link: [https://www.cirs-group.com/en/food/faqs-american-dietary-supplements-2-do-dietary-supplements-require-fda-approval-before-marketing](https://www.cirs-group.com/en/food/faqs-american-dietary-supplements-2-do-dietary-supplements-require-fda-approval-before-marketing)  
+   Link: <a href="https://www.cirs-group.com/en/food/faqs-american-dietary-supplements-2-do-dietary-supplements-require-fda-approval-before-marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.cirs-group.com/en/food/faqs-american-dietary-supplements-2-do-dietary-supplements-require-fda-approval-before-marketing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Dietary Supplements Require FDA Approval Before...Dec 26, 2024 — Since dietary supplements do not require pre-market approval from th...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: cov.com  
-   Link: [https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide](https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide)  
+   Link: <a href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — The new guidance broadly applies to all health-related claims, as opp...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: kelleydrye.com  
-   Link: [https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance](https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance)  
+   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misguided: The FTC Attempts to Redefine the Law with its...21 Dec 2022 — Yesterday, the FTC&#x27;s Bureau of Consumer Protection released its...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/nih-office-of-dietary-supplements-ods_ods-offers-reliable-evidence-based-information-activity-7278409351554293761-_B9h](https://www.linkedin.com/posts/nih-office-of-dietary-supplements-ods_ods-offers-reliable-evidence-based-information-activity-7278409351554293761-_B9h)  
+   Link: <a href="https://www.linkedin.com/posts/nih-office-of-dietary-supplements-ods_ods-offers-reliable-evidence-based-information-activity-7278409351554293761-_B9h" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nih-office-of-dietary-supplements-ods_ods-offers-reliable-evidence-based-information-activity-7278409351554293761-_B9h</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NIH Office of Dietary Supplements (ODS)27 Dec 2024 — ODS offers reliable, evidence-based information about dietary supplements. Students...</p></details>

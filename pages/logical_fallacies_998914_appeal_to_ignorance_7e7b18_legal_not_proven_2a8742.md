@@ -268,11 +268,11 @@ image: /assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_
 
 ## Introduction
 
-A common form of the [appeal to ignorance]({{ 'ignorance/' | relative_url }}) appears whenever people treat a legal acquittal as proof that an allegation was false. In criminal law, a verdict of not guilty usually means only that the prosecution failed to prove guilt to the required standard. It does not automatically settle every factual question about what happened. The legal system deliberately separates those questions because the consequences of wrongful conviction are severe, and therefore the burden of proof rests on the state rather than the accused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of InnocenceA fundamental principle behind the right to a fair trial is that every person should be presumed i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bljsolicitors.co.uk/blog/understanding-the-standard-of-proof-in-criminal-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bljsolicitors.co.uk">[Bell Lamb &amp; Joynson Solicitors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bljsolicitors.co.uk</span><span class="citation-popover-title">understanding the standard of proof in criminal cases</span><span class="citation-popover-snippet">In the criminal justice system in the UK, the burden of proof lies with the government. It...Read more...</span></span></span>
+A common form of the appeal to [ignorance]({{ 'ignorance/' | relative_url }}) appears whenever people treat a legal acquittal as proof that an allegation was false. In criminal law, a verdict of not guilty usually means only that the prosecution failed to prove guilt to the required standard. It does not automatically settle every factual question about what happened. The legal system deliberately separates those questions because the consequences of wrongful conviction are severe, and therefore the burden of proof rests on the state rather than the accused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of InnocenceA fundamental principle behind the right to a fair trial is that every person should be presumed i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bljsolicitors.co.uk/blog/understanding-the-standard-of-proof-in-criminal-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bljsolicitors.co.uk">[Bell Lamb &amp; Joynson Solicitors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bljsolicitors.co.uk</span><span class="citation-popover-title">understanding the standard of proof in criminal cases</span><span class="citation-popover-snippet">In the criminal justice system in the UK, the burden of proof lies with the government. It...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-1-dark.svg" | relative_url }}" alt="Not Proven illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The resulting mistake can be called the **not-proven mistake**: moving from “guilt was not proved” to “the allegation has been disproved.” That leap turns a procedural outcome into a claim of factual certainty. Within the broader family of appeal-to-[ignorance]({{ 'ignorance/' | relative_url }}) errors, it is an example of treating the absence of sufficient proof for one conclusion as proof of the opposite conclusion.
+The resulting mistake can be called the **not-proven mistake**: moving from “guilt was not proved” to “the allegation has been disproved.” That leap turns a procedural outcome into a claim of factual certainty. Within the broader family of appeal-to-ignorance errors, it is an example of treating the absence of sufficient proof for one conclusion as proof of the opposite conclusion.
 
 ## Why Not Guilty Is Not the Same as False
 
@@ -800,167 +800,167 @@ In other words, a criminal acquittal is often best understood not as proof of a 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Presumption of innocence  
-   Link: [https://en.wikipedia.org/wiki/Presumption_of_innocence](https://en.wikipedia.org/wiki/Presumption_of_innocence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presumption_of_innocence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Presumption of innocenceThe presumption of innocence is a legal principle that every person accused of any crime is considered innocen...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Burden of proof (law)  
-   Link: [https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29](https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of proof (law)The criminal standard in Australia is &#x27;beyond reasonable doubt&#x27;.... Juries are required to make findings of guil...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: evidence in criminal investigations accessible  
-   Link: [https://www.gov.uk/government/publications/evidence-in-criminal-investigations/evidence-in-criminal-investigations-accessible](https://www.gov.uk/government/publications/evidence-in-criminal-investigations/evidence-in-criminal-investigations-accessible)  
+   Link: <a href="https://www.gov.uk/government/publications/evidence-in-criminal-investigations/evidence-in-criminal-investigations-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/evidence-in-criminal-investigations/evidence-in-criminal-investigations-accessible</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is not for the defendant to prove that it was unreliable.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Acquittal](https://en.wikipedia.org/wiki/Acquittal)  
+   Link: <a href="https://en.wikipedia.org/wiki/Acquittal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acquittal</a>  
 
 5. <a id="endnote-5"></a>
    Source: ks.echr.coe.int  
    Title: ECHR-KSArticle 6 (criminal) Presumption of innocence  
-   Link: [https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence](https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence)  
+   Link: <a href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow">https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECHR-KS31 Aug 2025 — Article 6 § 2 enshrines the right of an accused person to be presumed innocent until proved guilty according to law...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tsabi.law  
-   Link: [https://tsabi.law/ask-a-lawyer/criminal-defence/presumption-of-innocence-actually-mean-for-my-criminal-defence-case-in-england-and-wales/](https://tsabi.law/ask-a-lawyer/criminal-defence/presumption-of-innocence-actually-mean-for-my-criminal-defence-case-in-england-and-wales/)  
+   Link: <a href="https://tsabi.law/ask-a-lawyer/criminal-defence/presumption-of-innocence-actually-mean-for-my-criminal-defence-case-in-england-and-wales/" target="_blank" rel="noopener noreferrer nofollow">https://tsabi.law/ask-a-lawyer/criminal-defence/presumption-of-innocence-actually-mean-for-my-criminal-defence-case-in-england-and-wales/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Presumption of Innocence&quot; actually mean for my Criminal...In England and Wales, the scales of justice are weighted in favor of the accus...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cps.gov.uk  
    Title: termination proceedings including discontinuance  
-   Link: [https://www.cps.gov.uk/prosecution-guidance/termination-proceedings-including-discontinuance](https://www.cps.gov.uk/prosecution-guidance/termination-proceedings-including-discontinuance)  
+   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/termination-proceedings-including-discontinuance" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/termination-proceedings-including-discontinuance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>court. Offering No Evidence. The prosecutor may offer no evidence in either magistrates&#x27; court or Crown Court proceedings. Magistrates&#x27; c...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cps.gov.uk  
-   Link: [https://www.cps.gov.uk/about-cps/how-a-criminal-case-works](https://www.cps.gov.uk/about-cps/how-a-criminal-case-works)  
+   Link: <a href="https://www.cps.gov.uk/about-cps/how-a-criminal-case-works" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/about-cps/how-a-criminal-case-works</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a criminal case worksThe police (or another investigative body) will investigate the crime. They&#x27;ll look for evidence to find out wha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cps.gov.uk  
    Title: code crown prosecutors  
-   Link: [https://www.cps.gov.uk/publication/code-crown-prosecutors](https://www.cps.gov.uk/publication/code-crown-prosecutors)  
+   Link: <a href="https://www.cps.gov.uk/publication/code-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/publication/code-crown-prosecutors</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Code for Crown Prosecutors26 Oct 2018 — The CPS assessment of any case is not in any sense a finding of, or implication of, any guilt...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cps.gov.uk  
    Title: Disclosure Manual: Chapter 15  
-   Link: [https://www.cps.gov.uk/prosecution-guidance/disclosure-manual-chapter-15-defence-disclosure](https://www.cps.gov.uk/prosecution-guidance/disclosure-manual-chapter-15-defence-disclosure)  
+   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/disclosure-manual-chapter-15-defence-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/disclosure-manual-chapter-15-defence-disclosure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defence Disclosure21 Oct 2021 — An adequate defence statement must - where the defence differs from the facts on which the prosecution is...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cps.gov.uk  
-   Link: [https://www.cps.gov.uk/about-cps/how-we-make-our-decisions](https://www.cps.gov.uk/about-cps/how-we-make-our-decisions)  
+   Link: <a href="https://www.cps.gov.uk/about-cps/how-we-make-our-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/about-cps/how-we-make-our-decisions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CPS: How we make our decisionsWhen a crime is reported, the police (or another investigative body) will investigate the crime. Once t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cps.gov.uk  
-   Link: [https://www.cps.gov.uk/about-cps/disclosure](https://www.cps.gov.uk/about-cps/disclosure)  
+   Link: <a href="https://www.cps.gov.uk/about-cps/disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/about-cps/disclosure</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Argument from ignorance  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: gov.scot  
-   Link: [https://www.gov.scot/publications/scottish-jury-research-fingings-large-mock-jury-study-2/pages/8/](https://www.gov.scot/publications/scottish-jury-research-fingings-large-mock-jury-study-2/pages/8/)  
+   Link: <a href="https://www.gov.scot/publications/scottish-jury-research-fingings-large-mock-jury-study-2/pages/8/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.scot/publications/scottish-jury-research-fingings-large-mock-jury-study-2/pages/8/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>jury research: findings from a mock jury study9 Oct 2019 — The judge&#x27;s direction that &quot;not guilty and not proven have the same effect, ac...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: fairtrials.org  
-   Link: [https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/](https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/)  
+   Link: <a href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fair TrialsThe Presumption of InnocenceA fundamental principle behind the right to a fair trial is that every person should be presumed i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bljsolicitors.co.uk  
    Title: understanding the standard of proof in criminal cases  
-   Link: [https://www.bljsolicitors.co.uk/blog/understanding-the-standard-of-proof-in-criminal-cases/](https://www.bljsolicitors.co.uk/blog/understanding-the-standard-of-proof-in-criminal-cases/)  
+   Link: <a href="https://www.bljsolicitors.co.uk/blog/understanding-the-standard-of-proof-in-criminal-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.bljsolicitors.co.uk/blog/understanding-the-standard-of-proof-in-criminal-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the criminal justice system in the UK, the burden of proof lies with the government. It...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lawgazette.com.sg  
    Title: The Singapore Law Gazette Acquittal Does Not Mean Innocent  
-   Link: [https://lawgazette.com.sg/feature/acquittal-does-not-mean-innocent/](https://lawgazette.com.sg/feature/acquittal-does-not-mean-innocent/)  
+   Link: <a href="https://lawgazette.com.sg/feature/acquittal-does-not-mean-innocent/" target="_blank" rel="noopener noreferrer nofollow">https://lawgazette.com.sg/feature/acquittal-does-not-mean-innocent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It simply means that the charges against the accused were not proved beyond reasonable...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thelawdictionary.org  
    Title: what does it mean to be acquitted  
-   Link: [https://thelawdictionary.org/article/what-does-it-mean-to-be-acquitted/](https://thelawdictionary.org/article/what-does-it-mean-to-be-acquitted/)  
+   Link: <a href="https://thelawdictionary.org/article/what-does-it-mean-to-be-acquitted/" target="_blank" rel="noopener noreferrer nofollow">https://thelawdictionary.org/article/what-does-it-mean-to-be-acquitted/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?29 Jul 2022 — An acquittal means that the accused is free from the charge and it occurs in a criminal case where a defendant is found no...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thetimes.com  
    Title: The Times Scrapping the 'not proven' verdict: what you need to know  
-   Link: [https://www.thetimes.com/uk/scotland/article/not-proven-verdict-what-you-need-to-know-5kl6lskgq](https://www.thetimes.com/uk/scotland/article/not-proven-verdict-what-you-need-to-know-5kl6lskgq)  
+   Link: <a href="https://www.thetimes.com/uk/scotland/article/not-proven-verdict-what-you-need-to-know-5kl6lskgq" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/uk/scotland/article/not-proven-verdict-what-you-need-to-know-5kl6lskgq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historically, Scotland offered three verdicts: guilty, not guilty, and not proven, with the latter also resulting in acquittal but often...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thetimes.com  
-   Link: [https://www.thetimes.com/best-law-firms/profile-legal/article/end-of-not-proven-verdicts-marks-scottish-shake-up-fldb7hrzf](https://www.thetimes.com/best-law-firms/profile-legal/article/end-of-not-proven-verdicts-marks-scottish-shake-up-fldb7hrzf)  
+   Link: <a href="https://www.thetimes.com/best-law-firms/profile-legal/article/end-of-not-proven-verdicts-marks-scottish-shake-up-fldb7hrzf" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/best-law-firms/profile-legal/article/end-of-not-proven-verdicts-marks-scottish-shake-up-fldb7hrzf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The change, enacted through the Victims, Witnesses and Justice Reform (Scotland) Bill led by Justice Secretary Angela Constance, aims to...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: criminallawpoland.com  
-   Link: [https://criminallawpoland.com/glossary/acquittal/](https://criminallawpoland.com/glossary/acquittal/)  
+   Link: <a href="https://criminallawpoland.com/glossary/acquittal/" target="_blank" rel="noopener noreferrer nofollow">https://criminallawpoland.com/glossary/acquittal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Aug 2025 — In criminal law, an acquittal is a legal judgment that formally clears a defendant of the criminal charges brought against...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263342632_Miscarriages_of_Justice_and_the_Discourse_of_Innocence_Perspectives_from_Appellants_Campaigners_Journalists_and_Legal_Practitioners](https://www.researchgate.net/publication/263342632_Miscarriages_of_Justice_and_the_Discourse_of_Innocence_Perspectives_from_Appellants_Campaigners_Journalists_and_Legal_Practitioners)  
+   Link: <a href="https://www.researchgate.net/publication/263342632_Miscarriages_of_Justice_and_the_Discourse_of_Innocence_Perspectives_from_Appellants_Campaigners_Journalists_and_Legal_Practitioners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263342632_Miscarriages_of_Justice_and_the_Discourse_of_Innocence_Perspectives_from_Appellants_Campaigners_Journalists_and_Legal_Practitioners</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Miscarriages of Justice and the Discourse of InnocenceThis article problematizes the discourse of innocence in relation to victims of wro...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: simonmckay.co.uk  
-   Link: [https://simonmckay.co.uk/the-decline-of-the-presumption-of-innocence/](https://simonmckay.co.uk/the-decline-of-the-presumption-of-innocence/)  
+   Link: <a href="https://simonmckay.co.uk/the-decline-of-the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow">https://simonmckay.co.uk/the-decline-of-the-presumption-of-innocence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decline of the Presumption of InnocenceThe presumption of innocence finds its evolutionary origins as a constitutional right in chapt...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theweek.com  
-   Link: [https://theweek.com/law/not-proven-no-longer-scotland-abolishes-bastard-verdict](https://theweek.com/law/not-proven-no-longer-scotland-abolishes-bastard-verdict)  
+   Link: <a href="https://theweek.com/law/not-proven-no-longer-scotland-abolishes-bastard-verdict" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/law/not-proven-no-longer-scotland-abolishes-bastard-verdict</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This third verdict option—available alongside &quot;guilty&quot; and &quot;not guilty&quot;—has often stirred confusion and dissatisfaction due to its ambigu...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: met.police.uk  
-   Link: [https://www.met.police.uk/advice/advice-and-information/spiking-advice/spiking/what-happens-during-spiking-investigation/referring-case-to-crown-prosecution-service/](https://www.met.police.uk/advice/advice-and-information/spiking-advice/spiking/what-happens-during-spiking-investigation/referring-case-to-crown-prosecution-service/)  
+   Link: <a href="https://www.met.police.uk/advice/advice-and-information/spiking-advice/spiking/what-happens-during-spiking-investigation/referring-case-to-crown-prosecution-service/" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/advice/advice-and-information/spiking-advice/spiking/what-happens-during-spiking-investigation/referring-case-to-crown-prosecution-service/</a>  
 
 26. <a id="endnote-26"></a>
    Source: nelson-guest.co.uk  
-   Link: [https://www.nelson-guest.co.uk/blog/beyond-reasonable-doubt-understanding-the-burden-of-proof-in/](https://www.nelson-guest.co.uk/blog/beyond-reasonable-doubt-understanding-the-burden-of-proof-in/)  
+   Link: <a href="https://www.nelson-guest.co.uk/blog/beyond-reasonable-doubt-understanding-the-burden-of-proof-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.nelson-guest.co.uk/blog/beyond-reasonable-doubt-understanding-the-burden-of-proof-in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nelson Guest &amp; PartnersUnderstanding the Burden of Proof in Criminal Law5 Mar 2025 — This guide explains how the burden of proof applies...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: arisa-project.eu  
-   Link: [https://arisa-project.eu/the-presumption-of-innocence-and-the-media-coverage-of-criminal-cases/](https://arisa-project.eu/the-presumption-of-innocence-and-the-media-coverage-of-criminal-cases/)  
+   Link: <a href="https://arisa-project.eu/the-presumption-of-innocence-and-the-media-coverage-of-criminal-cases/" target="_blank" rel="noopener noreferrer nofollow">https://arisa-project.eu/the-presumption-of-innocence-and-the-media-coverage-of-criminal-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>overage of her case, her presumption of innocence means nothing to outraged...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: celinedostaler.ca  
-   Link: [https://www.celinedostaler.ca/blog/understanding-presumption-of-innocence/](https://www.celinedostaler.ca/blog/understanding-presumption-of-innocence/)  
+   Link: <a href="https://www.celinedostaler.ca/blog/understanding-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow">https://www.celinedostaler.ca/blog/understanding-presumption-of-innocence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>criminal offence is considered innocent until proven guilty in a court of law.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: burtoncopeland.com  
-   Link: [https://www.burtoncopeland.com/news/what-evidence-does-the-cps-need-to-charge-someone/](https://www.burtoncopeland.com/news/what-evidence-does-the-cps-need-to-charge-someone/)  
+   Link: <a href="https://www.burtoncopeland.com/news/what-evidence-does-the-cps-need-to-charge-someone/" target="_blank" rel="noopener noreferrer nofollow">https://www.burtoncopeland.com/news/what-evidence-does-the-cps-need-to-charge-someone/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d the minimum amount of evidence required for the CPS to pursue a charge.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: criminaljusticetheoryblog.wordpress.com  
    Title: the two aspects of the presumption of innocence  
-   Link: [https://criminaljusticetheoryblog.wordpress.com/2022/10/14/the-two-aspects-of-the-presumption-of-innocence/](https://criminaljusticetheoryblog.wordpress.com/2022/10/14/the-two-aspects-of-the-presumption-of-innocence/)  
+   Link: <a href="https://criminaljusticetheoryblog.wordpress.com/2022/10/14/the-two-aspects-of-the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow">https://criminaljusticetheoryblog.wordpress.com/2022/10/14/the-two-aspects-of-the-presumption-of-innocence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Criminal Justice Theory BlogThe Two Aspects of the Presumption of Innocence14 Oct 2022 — In its procedural sense, the presumption of inno...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: hashemilaw.com  
    Title: difference between an acquittal and not guilty  
-   Link: [https://www.hashemilaw.com/difference-between-an-acquittal-and-not-guilty/](https://www.hashemilaw.com/difference-between-an-acquittal-and-not-guilty/)  
+   Link: <a href="https://www.hashemilaw.com/difference-between-an-acquittal-and-not-guilty/" target="_blank" rel="noopener noreferrer nofollow">https://www.hashemilaw.com/difference-between-an-acquittal-and-not-guilty/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is the Difference Between an Acquittal and Not Guilty?11 Jun 2024 — An acquittal means that the defendant was not proven guilty beyo...</p></details>

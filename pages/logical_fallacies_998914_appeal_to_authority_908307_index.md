@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-appeal-to/
 description: Focused pages that expand on Authority.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_appeal_to_authority_908307
 parent_title: Authority | Logical Fallacies

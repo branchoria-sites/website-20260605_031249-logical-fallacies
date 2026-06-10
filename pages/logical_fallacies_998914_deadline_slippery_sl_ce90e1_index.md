@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-deadline/
 description: Focused pages that expand on Deadlines.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_deadline_slippery_sl_ce90e1
 parent_title: Deadlines | Logical Fallacies

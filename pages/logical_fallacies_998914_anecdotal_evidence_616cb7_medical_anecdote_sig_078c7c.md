@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:29:32'
 parent_title: When Is a Story Not Enough? | Fallacy Lab
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
@@ -265,7 +266,6 @@ next_link:
   permalink: /vivid-stories/
   short_title: Vivid Stories
   heading_title: Why Vivid Examples Feel So Convincing
-date: '2026-06-05 02:29:32 '
 header:
   og_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_medical_anecdote_sig_078c7c-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_medical_anecdote_sig_078c7c-Illustration-1.webp
@@ -297,7 +297,7 @@ Rare harms present a special challenge. If a serious side effect occurs once in 
 
 The most famous example is thalidomide. In the late 1950s and early 1960s, clinicians began noticing an unusual rise in severe birth defects among babies whose mothers had taken the drug during pregnancy. These early observations were not definitive proof, but they provided the first warning that something was wrong. Subsequent investigation confirmed the [association]({{ 'association/' | relative_url }}), and the tragedy transformed drug-safety monitoring worldwide. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctdt.co.in">[2ctdt.co.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctdt.co.in</span><span class="citation-popover-snippet">birth defects became permanently linked as a result of...Read more...</span></span></span>
 
-Other serious drug-related harms have also first appeared in case reports or small case series before being confirmed through larger investigations. Reviews of pharmacovigilance history note that reports of congenital abnormalities linked to valproate, for example, emerged initially through case reports before stronger evidence accumulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s40800-017-0053-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerImportance of Publishing Adverse Drug Reaction Case Reportsby RR Shah · 2017 · Cited by 23 — However, strong evidence suggesting...</span></span></span>
+Other serious drug-related harms have also first appeared in case reports or small case series before being confirmed through larger investigations. Reviews of pharmacovigilance history note that reports of congenital abnormalities linked to valproate, for example, emerged initially through case reports before stronger evidence accumulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s40800-017-0053-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Importance of Publishing Adverse Drug Reaction Case Reportsby RR Shah · 2017 · Cited by 23 — However, strong evidence suggesting...</span></span></span>
 
 Case reports are particularly valuable when they contain features that make coincidence less likely, such as:
 
@@ -308,7 +308,7 @@ Case reports are particularly valuable when they contain features that make coin
 * Repeated occurrence in multiple unrelated patients.
 * Improvement after stopping the treatment.
 * Recurrence after re-exposure, when such re-exposure occurs unintentionally and safely.
-* A biologically plausible mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-title">bmj.k4051~adverse drug reactions</span><span class="citation-popover-snippet">OvidAdverse drug reactionsby RE Ferner · 2018 · Cited by 53 — Rechallenge is not generally advised if the suspected adverse drug reaction...</span></span></span>
+* A biologically plausible mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-title">bmj.k4051~adverse drug reactions</span><span class="citation-popover-snippet">Adverse drug reactionsby RE Ferner · 2018 · Cited by 53 — Rechallenge is not generally advised if the suspected adverse drug reaction...</span></span></span>
 
 </div>
 
@@ -324,7 +324,7 @@ A patient may develop a serious illness after taking a medicine. The timing migh
 
 This is where the logic of evidence becomes important. Anecdotes can show that an event is possible. They cannot reliably show that it is typical, frequent, or caused by the treatment. Treating a signal as proof is a version of the same evidential mistake that underlies many anecdotal fallacies: drawing a broad conclusion from insufficient evidence.
 
-Research examining adverse-drug-reaction signals has repeatedly found that some early warnings are later confirmed, while others are not. The fact that many signals fail to hold up under further scrutiny is not a weakness of the system; it is the expected outcome of a process designed to detect potential problems early. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/332/7539/488.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">BMJCase reports of suspected adverse drug reactionsby JP Vandenbroucke · 2006 · Cited by 19 — Case reports of suspected adverse drug reac...</span></span></span>
+Research examining adverse-drug-reaction signals has repeatedly found that some early warnings are later confirmed, while others are not. The fact that many signals fail to hold up under further scrutiny is not a weakness of the system; it is the expected outcome of a process designed to detect potential problems early. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/332/7539/488.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Case reports of suspected adverse drug reactionsby JP Vandenbroucke · 2006 · Cited by 19 — Case reports of suspected adverse drug reac...</span></span></span>
 
 The goal is sensitivity rather than certainty. Regulators would rather investigate a number of false alarms than miss a genuine danger that could harm large numbers of patients.
 
@@ -360,7 +360,7 @@ The role of anecdotes in medicine illustrates an important lesson about evidence
 
 When someone reports an unexpected reaction to a medicine, the report should neither be accepted as conclusive proof nor dismissed as irrelevant. Its proper role is to raise a question. Medicine advances by turning such observations into testable hypotheses and then subjecting them to more rigorous scrutiny.
 
-This balanced approach avoids two opposite errors. One is the anecdotal fallacy: assuming that a vivid [personal experience]({{ 'experience/' | relative_url }}) proves a general claim. The other is ignoring potentially important observations simply because they come from individuals. Medical safety systems work precisely because they treat anecdotes as clues—valuable enough to investigate, but not strong enough to settle the matter on their own. BMJ <span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
+This balanced approach avoids two opposite errors. One is the anecdotal fallacy: assuming that a vivid personal [experience]({{ 'experience/' | relative_url }}) proves a general claim. The other is ignoring potentially important observations simply because they come from individuals. Medical safety systems work precisely because they treat anecdotes as clues—valuable enough to investigate, but not strong enough to settle the matter on their own. BMJ <span class="citation-chip-wrap"><a class="citation-chip" href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who-umc.org">[Uppsala Monitoring Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who-umc.org</span><span class="citation-popover-snippet">Uppsala Monitoring CentrePharmacovigilance in Perspective[4] After approval is granted for a medicine, case reports of suspected adverse...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OctiisKowL8" title="Assessment and Reporting of Adverse Drug Reactions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OctiisKowL8" target="_blank" rel="noopener noreferrer">Assessment and Reporting of Adverse Drug Reactions</a></p><p class="youtube-embed-meta">Channel: PhRMAFoundation &middot; Views: 1.5K &middot; Uploaded: June 2018 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OctiisKowL8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OctiisKowL8">Open on YouTube</a></p></div></div></div>
@@ -788,189 +788,189 @@ This balanced approach avoids two opposite errors. One is the anecdotal fallacy:
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCase reports of suspected adverse drug reactions  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1363912/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1363912/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby YK Loke · 2006 · Cited by 141 — Abstract. Objective To determine whether anecdotal reports of suspected adverse drug reactions are...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1363912/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1363912/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by YK Loke · 2006 · Cited by 141 — Abstract. Objective To determine whether anecdotal reports of suspected adverse drug reactions are...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: stg-blogs.bmj.com  
    Title: rare adverse events clinical trials understanding rule three  
-   Link: [https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/](https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/)  
+   Link: <a href="https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/" target="_blank" rel="noopener noreferrer nofollow">https://stg-blogs.bmj.com/bmjebmspotlight/2017/11/14/rare-adverse-events-clinical-trials-understanding-rule-three/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ BlogsRare adverse events in clinical trialsNov 14, 2017 —... drug manufacturers, especially in cases where the reported harms are se...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAdverse drug reactions – no farewell to harms  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2000567/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2000567/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2000567/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2000567/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>drug reactions – no farewell to harms - PMC - NIHby JK Aronson · 2007 · Cited by 34 — Adverse drug reactions – no farewell to harms · The...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/332/7539/488.1](https://www.bmj.com/content/332/7539/488.1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJCase reports of suspected adverse drug reactionsby JP Vandenbroucke · 2006 · Cited by 19 — Case reports of suspected adverse drug reac...</p></details>
+   Link: <a href="https://www.bmj.com/content/332/7539/488.1" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7539/488.1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports of suspected adverse drug reactionsby JP Vandenbroucke · 2006 · Cited by 19 — Case reports of suspected adverse drug reac...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/332/7539/488.2](https://www.bmj.com/content/332/7539/488.2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJCase reports of suspected adverse drug reactionsby S Russmann · 2006 · Cited by 12 — Yes, in rare instances case reports do more harm...</p></details>
+   Link: <a href="https://www.bmj.com/content/332/7539/488.2" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7539/488.2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports of suspected adverse drug reactionsby S Russmann · 2006 · Cited by 12 — Yes, in rare instances case reports do more harm...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAn historical overview over Pharmacovigilance  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6132952/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6132952/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby G Fornasier · 2018 · Cited by 315 — The tragedy of thalidomide brought to light many problems and critical issues, in particu...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6132952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6132952/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby G Fornasier · 2018 · Cited by 315 — The tragedy of thalidomide brought to light many problems and critical issues, in particu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ctdt.co.in  
-   Link: [https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText](https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText)  
+   Link: <a href="https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText" target="_blank" rel="noopener noreferrer nofollow">https://www.ctdt.co.in/abstractArticleContentBrowse/CTDT/10744/JPJ/fullText</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>birth defects became permanently linked as a result of...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s40800-017-0053-0](https://link.springer.com/article/10.1007/s40800-017-0053-0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerImportance of Publishing Adverse Drug Reaction Case Reportsby RR Shah · 2017 · Cited by 23 — However, strong evidence suggesting...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s40800-017-0053-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s40800-017-0053-0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Publishing Adverse Drug Reaction Case Reportsby RR Shah · 2017 · Cited by 23 — However, strong evidence suggesting...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ovid.com  
    Title: bmj.k4051~adverse drug reactions  
-   Link: [https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions](https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OvidAdverse drug reactionsby RE Ferner · 2018 · Cited by 53 — Rechallenge is not generally advised if the suspected adverse drug reaction...</p></details>
+   Link: <a href="https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/bmjd/pdf/10.1136/bmj.k4051~adverse-drug-reactions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adverse drug reactionsby RE Ferner · 2018 · Cited by 53 — Rechallenge is not generally advised if the suspected adverse drug reaction...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bmj.com  
    Title: bmj 2022 071752  
-   Link: [https://www.bmj.com/content/379/bmj-2022-071752](https://www.bmj.com/content/379/bmj-2022-071752)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJCharacterization and corroboration of safety signals...by MM Dhodapkar · 2022 · Cited by 81 — A study demonstrating a significant ass...</p></details>
+   Link: <a href="https://www.bmj.com/content/379/bmj-2022-071752" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/379/bmj-2022-071752</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterization and corroboration of safety signals...by MM Dhodapkar · 2022 · Cited by 81 — A study demonstrating a significant ass...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/332/7537/335/rapid-responses](https://www.bmj.com/content/332/7537/335/rapid-responses)  
+   Link: <a href="https://www.bmj.com/content/332/7537/335/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7537/335/rapid-responses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>adverse drug reaction (ADR) is by performing a controlled follow-up study.... -making which play a significant role in...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bmj.com  
    Title: bmj 2021 068983  
-   Link: [https://www.bmj.com/content/377/bmj-2021-068983](https://www.bmj.com/content/377/bmj-2021-068983)  
+   Link: <a href="https://www.bmj.com/content/377/bmj-2021-068983" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/377/bmj-2021-068983</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Better reporting of harms in randomized trials: an extension of the CONSORT...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/](https://www.bmj.com/)  
+   Link: <a href="https://www.bmj.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/</a>  
 
 14. <a id="endnote-14"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/377/bmj.o1055](https://www.bmj.com/content/377/bmj.o1055)  
+   Link: <a href="https://www.bmj.com/content/377/bmj.o1055" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/377/bmj.o1055</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Better measuring and reporting of adverse events are...by CA Shaheed · 2022 · Cited by 5 — The CONSORT extension for harms3 provides gui...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: casereports-corporate.bmj.com  
-   Link: [https://casereports-corporate.bmj.com/](https://casereports-corporate.bmj.com/)  
+   Link: <a href="https://casereports-corporate.bmj.com/" target="_blank" rel="noopener noreferrer nofollow">https://casereports-corporate.bmj.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Includes information on adverse reactions and drug effectiveness, aimed at pharmaceutical...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: casereports.bmj.com  
-   Link: [https://casereports.bmj.com/content/13/8/e238555](https://casereports.bmj.com/content/13/8/e238555)  
+   Link: <a href="https://casereports.bmj.com/content/13/8/e238555" target="_blank" rel="noopener noreferrer nofollow">https://casereports.bmj.com/content/13/8/e238555</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bmj.comStevens-Johnson syndrome-toxic epidermal necrolysisby SS Sen · 2020 · Cited by 11 — We hereby report a fatal case of SJS and toxic...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bmj.com  
    Title: case reports vital pharmacovigilance  
-   Link: [https://www.bmj.com/rapid-response/2011/10/31/case-reports-vital-pharmacovigilance](https://www.bmj.com/rapid-response/2011/10/31/case-reports-vital-pharmacovigilance)  
+   Link: <a href="https://www.bmj.com/rapid-response/2011/10/31/case-reports-vital-pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/10/31/case-reports-vital-pharmacovigilance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports vital for pharmacovigilanceFeb 9, 2006 — Case reports of suspected adverse drug reactions—systematic literature survey of fo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/13/1/e068127](https://bmjopen.bmj.com/content/13/1/e068127)  
+   Link: <a href="https://bmjopen.bmj.com/content/13/1/e068127" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/13/1/e068127</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mining techniques for detecting signals of adverse...by Y Guan · 2023 · Cited by 6 — This study aimed to analyse cardiac therapy drug-re...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/366028801_Signals_of_Adverse_Drug_Reactions_Communicated_by_Pharmacovigilance_Stakeholders_A_Scoping_Review_of_the_Global_Literature](https://www.researchgate.net/publication/366028801_Signals_of_Adverse_Drug_Reactions_Communicated_by_Pharmacovigilance_Stakeholders_A_Scoping_Review_of_the_Global_Literature)  
+   Link: <a href="https://www.researchgate.net/publication/366028801_Signals_of_Adverse_Drug_Reactions_Communicated_by_Pharmacovigilance_Stakeholders_A_Scoping_Review_of_the_Global_Literature" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366028801_Signals_of_Adverse_Drug_Reactions_Communicated_by_Pharmacovigilance_Stakeholders_A_Scoping_Review_of_the_Global_Literature</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Signals of Adverse Drug Reactions Communicated...We shall hand-search the websites of 35 regulatory agencies/authorities, restrict...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: iris.who.int  
    Title: int SAFET Y MONITORING  
-   Link: [https://iris.who.int/bitstreams/5967e7fc-c971-46b7-9bd7-6689b26ea3aa/download](https://iris.who.int/bitstreams/5967e7fc-c971-46b7-9bd7-6689b26ea3aa/download)  
+   Link: <a href="https://iris.who.int/bitstreams/5967e7fc-c971-46b7-9bd7-6689b26ea3aa/download" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/bitstreams/5967e7fc-c971-46b7-9bd7-6689b26ea3aa/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MONITORING - IRISby World Health Organization · 2012 · Cited by 54 — The aim of spontaneous reporting systems is to detect new signals, a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s40264-022-01258-0](https://link.springer.com/article/10.1007/s40264-022-01258-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s40264-022-01258-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s40264-022-01258-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Adverse Drug Reactions Communicated by...by D Sartori · 2023 · Cited by 38 — Signals of adverse drug reactions (ADRs) can be supporte...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: who-umc.org  
-   Link: [https://who-umc.org/media/1777/25297.pdf](https://who-umc.org/media/1777/25297.pdf)  
+   Link: <a href="https://who-umc.org/media/1777/25297.pdf" target="_blank" rel="noopener noreferrer nofollow">https://who-umc.org/media/1777/25297.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: who-umc.org  
    Title: Uppsala Monitoring Centre Viewpoint Part 2 Uppsala Monitoring Centre  
-   Link: [https://who-umc.org/media/mswlqbsc/viewpoint-part-2-uppsala-monitoring-centre.pdf](https://who-umc.org/media/mswlqbsc/viewpoint-part-2-uppsala-monitoring-centre.pdf)  
+   Link: <a href="https://who-umc.org/media/mswlqbsc/viewpoint-part-2-uppsala-monitoring-centre.pdf" target="_blank" rel="noopener noreferrer nofollow">https://who-umc.org/media/mswlqbsc/viewpoint-part-2-uppsala-monitoring-centre.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organization, receives reports of adverse drug reactions from more than 70 countries and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: repository.ubn.ru.nl  
    Title: mmubn000001 270541349  
-   Link: [https://repository.ubn.ru.nl/bitstream/handle/2066/93699/mmubn000001_270541349.pdf?sequence=3](https://repository.ubn.ru.nl/bitstream/handle/2066/93699/mmubn000001_270541349.pdf?sequence=3)  
+   Link: <a href="https://repository.ubn.ru.nl/bitstream/handle/2066/93699/mmubn000001_270541349.pdf?sequence=3" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/93699/mmubn000001_270541349.pdf?sequence=3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADVERSE DRUG REACTIONSby RHB Meyboom · 1998 · Cited by 23 — sified case reports in the database of the Uppsala Monitoring Centre, cases t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: d-nb.info  
-   Link: [https://d-nb.info/1299173055/34](https://d-nb.info/1299173055/34)  
+   Link: <a href="https://d-nb.info/1299173055/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1299173055/34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Uppsala Monitoring Centre retrieved the dates of the reports of ADRs to calculate the TTC. All data were charted and...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: cioms.ch  
-   Link: [https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf](https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf)  
+   Link: <a href="https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Aspects of Signal Detection in PharmacovigilancePharmacovigilance is defined as “the science and activities relating to the det...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: southcarolina.himss.org  
-   Link: [https://southcarolina.himss.org/node/293131](https://southcarolina.himss.org/node/293131)  
+   Link: <a href="https://southcarolina.himss.org/node/293131" target="_blank" rel="noopener noreferrer nofollow">https://southcarolina.himss.org/node/293131</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection Innovation Boosts Safety and Uncovers...Safety signal monitoring has barely changed in 70 years, from when the practice was fi...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: uppsalareports.org  
    Title: underreporting in pharmacovigilance where do we go from here  
-   Link: [https://uppsalareports.org/articles/underreporting-in-pharmacovigilance-where-do-we-go-from-here/](https://uppsalareports.org/articles/underreporting-in-pharmacovigilance-where-do-we-go-from-here/)  
+   Link: <a href="https://uppsalareports.org/articles/underreporting-in-pharmacovigilance-where-do-we-go-from-here/" target="_blank" rel="noopener noreferrer nofollow">https://uppsalareports.org/articles/underreporting-in-pharmacovigilance-where-do-we-go-from-here/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Underreporting in pharmacovigilance: Where do we go...18 Feb 2026 — Uppsala Monitoring Centre recommends that a healthy national pharmac...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: pubrica.com  
-   Link: [https://pubrica.com/academy/medical-device/post-marketing-surveillance-drug-safety/](https://pubrica.com/academy/medical-device/post-marketing-surveillance-drug-safety/)  
+   Link: <a href="https://pubrica.com/academy/medical-device/post-marketing-surveillance-drug-safety/" target="_blank" rel="noopener noreferrer nofollow">https://pubrica.com/academy/medical-device/post-marketing-surveillance-drug-safety/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[6]. Case Study 2: Thalidomide. Thalidomide was originally approved for use as...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: asianjpr.com  
-   Link: [https://asianjpr.com/HTML_Papers/Asian%20Journal%20of%20Pharmaceutical%20Research__PID__2024-14-2-14.html](https://asianjpr.com/HTML_Papers/Asian%20Journal%20of%20Pharmaceutical%20Research__PID__2024-14-2-14.html)  
+   Link: <a href="https://asianjpr.com/HTML_Papers/Asian%20Journal%20of%20Pharmaceutical%20Research__PID__2024-14-2-14.html" target="_blank" rel="noopener noreferrer nofollow">https://asianjpr.com/HTML_Papers/Asian%20Journal%20of%20Pharmaceutical%20Research__PID__2024-14-2-14.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>safety and efficacy of medicinal product but there was a need of a common...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
    Title: (PDF) Real-world pharmacovigilance study on neonatal  
-   Link: [https://www.researchgate.net/publication/396360043_Real-world_pharmacovigilance_study_on_neonatal_congenital_anomalies_associated_with_maternal_drug_exposure_using_the_FDA_Adverse_Event_Reporting_System](https://www.researchgate.net/publication/396360043_Real-world_pharmacovigilance_study_on_neonatal_congenital_anomalies_associated_with_maternal_drug_exposure_using_the_FDA_Adverse_Event_Reporting_System)  
+   Link: <a href="https://www.researchgate.net/publication/396360043_Real-world_pharmacovigilance_study_on_neonatal_congenital_anomalies_associated_with_maternal_drug_exposure_using_the_FDA_Adverse_Event_Reporting_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396360043_Real-world_pharmacovigilance_study_on_neonatal_congenital_anomalies_associated_with_maternal_drug_exposure_using_the_FDA_Adverse_Event_Reporting_System</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reports were categorized as drug-related. neonatal congenital anomaly reports (see Figure 1... signals indicate potential risks. of spec...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: redalyc.org  
-   Link: [https://www.redalyc.org/journal/5705/570569642003/570569642003.pdf](https://www.redalyc.org/journal/5705/570569642003/570569642003.pdf)  
+   Link: <a href="https://www.redalyc.org/journal/5705/570569642003/570569642003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.redalyc.org/journal/5705/570569642003/570569642003.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thalidomide surveillance and pharmacovigilance in Brazilby LF Leal · 2021 · Cited by 1 — Results: New cases of congenital abnormalities w...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: ijprems.com  
-   Link: [https://www.ijprems.com/ijprems-paper/a-review-article-on-pharmacovigilence](https://www.ijprems.com/ijprems-paper/a-review-article-on-pharmacovigilence)  
+   Link: <a href="https://www.ijprems.com/ijprems-paper/a-review-article-on-pharmacovigilence" target="_blank" rel="noopener noreferrer nofollow">https://www.ijprems.com/ijprems-paper/a-review-article-on-pharmacovigilence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s (phocomelia) in 46 countries worldwide. This highlighted...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: repub.eur.nl  
    Title: 'a new potentially causal association,  
-   Link: [https://repub.eur.nl/pub/106001/Thesis-APacurariu.pdf](https://repub.eur.nl/pub/106001/Thesis-APacurariu.pdf)  
+   Link: <a href="https://repub.eur.nl/pub/106001/Thesis-APacurariu.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/106001/Thesis-APacurariu.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>role of signal detection in Pharmacovigilanceby A Păcurariu · 2018 · Cited by 1 — The first step, signal detection, is the process of mon...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: linical.com  
    Title: the new world of pharmacovigilance  
-   Link: [https://www.linical.com/articles-research/the-new-world-of-pharmacovigilance](https://www.linical.com/articles-research/the-new-world-of-pharmacovigilance)  
+   Link: <a href="https://www.linical.com/articles-research/the-new-world-of-pharmacovigilance" target="_blank" rel="noopener noreferrer nofollow">https://www.linical.com/articles-research/the-new-world-of-pharmacovigilance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 25, 2025 — It was later recognized that thalidomide use in pregnancy resulted in severe congenital malformations in thousands of infa...</p></details>

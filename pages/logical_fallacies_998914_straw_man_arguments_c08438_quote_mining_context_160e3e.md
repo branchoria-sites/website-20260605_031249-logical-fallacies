@@ -334,7 +334,7 @@ The practice is not limited to [politics]({{ 'politics/' | relative_url }}). Med
 In both cases, the mechanism is the same: accurate fragments are arranged to communicate an inaccurate overall message.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGZkCPo7tC0" title="The Strawman Fallacy | Idea Channel | PBS Digital Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer">The Strawman Fallacy | Idea Channel | PBS Digital Studios</a></p><p class="youtube-embed-meta">Channel: PBS Idea Channel &middot; Views: 544.0K &middot; Uploaded: October 2014 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGZkCPo7tC0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zXnAy15X420" title="STAR TREK Logical Thinking #75 - Quoting Out Of Context" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zXnAy15X420" target="_blank" rel="noopener noreferrer">STAR TREK Logical Thinking #75 - Quoting Out Of Context</a></p><p class="youtube-embed-meta">Channel: CHDanhauser &middot; Views: 7.2K &middot; Uploaded: March 2025 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zXnAy15X420" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zXnAy15X420">Open on YouTube</a></p></div></div></div>
 
 ## When a Genuine Quote Becomes Misleading
 
@@ -369,7 +369,7 @@ Particular caution is warranted when a quotation appears surprisingly extreme, u
 Modern digital archives, transcript databases, and video recordings make this verification easier than in the past, but the responsibility still falls on readers, viewers, and participants in debate to look beyond the excerpt.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zXnAy15X420" title="STAR TREK Logical Thinking #75 - Quoting Out Of Context" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zXnAy15X420" target="_blank" rel="noopener noreferrer">STAR TREK Logical Thinking #75 - Quoting Out Of Context</a></p><p class="youtube-embed-meta">Channel: CHDanhauser &middot; Views: 7.2K &middot; Uploaded: March 2025 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zXnAy15X420" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zXnAy15X420">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XvD_gg1fQXI" title="Straw Man Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XvD_gg1fQXI" target="_blank" rel="noopener noreferrer">Straw Man Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Communication Coach Alexander Lyon &middot; Views: 39.4K &middot; Uploaded: September 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XvD_gg1fQXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XvD_gg1fQXI">Open on YouTube</a></p></div></div></div>
 
 ## Why Quote Mining Matters for Public Reasoning
 
@@ -798,34 +798,34 @@ For that reason, contextomy occupies an important place within discussions of [l
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/joc/article/55/2/330/4103017](https://academic.oup.com/joc/article/55/2/330/4103017)  
+   Link: <a href="https://academic.oup.com/joc/article/55/2/330/4103017" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/joc/article/55/2/330/4103017</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Contextomy” refers to the excerpting of words from their original linguistic context in a way that distorts the source&#x27;s intentions. Con...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context](https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context)  
+   Link: <a href="https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Contextomy: The art of quoting out of context&#x27;Contextomy&#x27; refers to the selective excerpting of words from their origin...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227738790_Quoted_Out_of_Context_Contextomy_and_Its_Consequences](https://www.researchgate.net/publication/227738790_Quoted_Out_of_Context_Contextomy_and_Its_Consequences)  
+   Link: <a href="https://www.researchgate.net/publication/227738790_Quoted_Out_of_Context_Contextomy_and_Its_Consequences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227738790_Quoted_Out_of_Context_Contextomy_and_Its_Consequences</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quoted Out of Context: Contextomy and Its Consequences“Contextomy” refers to the excerpting of words from their original linguistic conte...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Quoting out of context  
-   Link: [https://en.wikipedia.org/wiki/Quoting_out_of_context](https://en.wikipedia.org/wiki/Quoting_out_of_context)  
+   Link: <a href="https://en.wikipedia.org/wiki/Quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quoting_out_of_context</a>  
 
 5. <a id="endnote-5"></a>
    Source: ethics.journalists.org  
    Title: ONA Ethics Quotations  
-   Link: [https://ethics.journalists.org/topics/quotations/](https://ethics.journalists.org/topics/quotations/)  
+   Link: <a href="https://ethics.journalists.org/topics/quotations/" target="_blank" rel="noopener noreferrer nofollow">https://ethics.journalists.org/topics/quotations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ONA EthicsQuotations - ONA EthicsONA Ethics - Online News AssociationProper use of quotations is a matter of being accurate and fair, and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: artandpopularculture.com  
    Title: Quote mining  
-   Link: [https://www.artandpopularculture.com/Quote_mining](https://www.artandpopularculture.com/Quote_mining)  
+   Link: <a href="https://www.artandpopularculture.com/Quote_mining" target="_blank" rel="noopener noreferrer nofollow">https://www.artandpopularculture.com/Quote_mining</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quoting out of context10 May 2023 — Quoting out of context (sometimes referred to as contextomy or quote mining) is an informal fallacy i...</p></details>
    Published: May 2023  
 
@@ -833,54 +833,54 @@ For that reason, contextomy occupies an important place within discussions of [l
 
 7. <a id="endnote-7"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Contextomy](https://www.logicallyfallacious.com/logicalfallacies/Contextomy)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Contextomy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Contextomy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ContextomyDescription: Removing a passage from its surrounding matter in such a way as to distort its intended meaning. Logical Form: Arg...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: en.wiktionary.org  
-   Link: [https://en.wiktionary.org/wiki/contextomy](https://en.wiktionary.org/wiki/contextomy)  
+   Link: <a href="https://en.wiktionary.org/wiki/contextomy" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/contextomy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(countable and uncountable, plural contextomies). (figurative) The act or practice of quoting somebody out of context, often to give a fa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/pdf/10.1177/0163443705053974?download=true](https://journals.sagepub.com/doi/pdf/10.1177/0163443705053974?download=true)  
+   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1177/0163443705053974?download=true" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1177/0163443705053974?download=true</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;review blurb&#x27; used in film advertising.... selective quotation that they have changed the way...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: logicalfallacies.org  
-   Link: [https://www.logicalfallacies.org/fallacy-of-quoting-out-of-context.html](https://www.logicalfallacies.org/fallacy-of-quoting-out-of-context.html)  
+   Link: <a href="https://www.logicalfallacies.org/fallacy-of-quoting-out-of-context.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/fallacy-of-quoting-out-of-context.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy Of Quoting Out Of Context - Definition &amp; ExamplesSelective quotation: Extracting only part of a statement to reverse or alter its...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ethiopianatheists/posts/3274575485898081/](https://www.facebook.com/groups/ethiopianatheists/posts/3274575485898081/)  
+   Link: <a href="https://www.facebook.com/groups/ethiopianatheists/posts/3274575485898081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ethiopianatheists/posts/3274575485898081/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ut of context, to make authors appear to support a position they do...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: observer.case.edu  
    Title: The Observer Kim: Out of context is out of mind  
-   Link: [https://observer.case.edu/kim-out-of-context-is-out-of-mind/](https://observer.case.edu/kim-out-of-context-is-out-of-mind/)  
+   Link: <a href="https://observer.case.edu/kim-out-of-context-is-out-of-mind/" target="_blank" rel="noopener noreferrer nofollow">https://observer.case.edu/kim-out-of-context-is-out-of-mind/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>case.eduKim: Out of context is out of mind - The Observer22 Sept 2017 — It&#x27;s also known as “quote mining”. This differs from normal quoti...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: niemanreports.org  
    Title: full quotation on newsroom ethics  
-   Link: [https://niemanreports.org/full-quotation-on-newsroom-ethics/](https://niemanreports.org/full-quotation-on-newsroom-ethics/)  
+   Link: <a href="https://niemanreports.org/full-quotation-on-newsroom-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://niemanreports.org/full-quotation-on-newsroom-ethics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Sept 1998 — Journalists are regarded by many as arrogant, biased, unfair, unethical. Unarguably, there is widespread distrust of what...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: mediahelpingmedia.org  
    Title: the power of quotes in journalism  
-   Link: [https://mediahelpingmedia.org/basics/the-power-of-quotes-in-journalism/](https://mediahelpingmedia.org/basics/the-power-of-quotes-in-journalism/)  
+   Link: <a href="https://mediahelpingmedia.org/basics/the-power-of-quotes-in-journalism/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/the-power-of-quotes-in-journalism/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jan 2026 — A quote must reproduce the speaker&#x27;s words exactly as spoken. You should not tidying up a quote for grammatical reasons or...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Journalism/comments/1h9rub1/advice_needed_about_the_ethics_of_editing_quotes/](https://www.reddit.com/r/Journalism/comments/1h9rub1/advice_needed_about_the_ethics_of_editing_quotes/)  
+   Link: <a href="https://www.reddit.com/r/Journalism/comments/1h9rub1/advice_needed_about_the_ethics_of_editing_quotes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Journalism/comments/1h9rub1/advice_needed_about_the_ethics_of_editing_quotes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aterially change tone or meaning.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ethicscasestudies.mediaschool.indiana.edu  
    Title: the great quote question  
-   Link: [https://ethicscasestudies.mediaschool.indiana.edu/cases/handling-sources/the-great-quote-question.html](https://ethicscasestudies.mediaschool.indiana.edu/cases/handling-sources/the-great-quote-question.html)  
+   Link: <a href="https://ethicscasestudies.mediaschool.indiana.edu/cases/handling-sources/the-great-quote-question.html" target="_blank" rel="noopener noreferrer nofollow">https://ethicscasestudies.mediaschool.indiana.edu/cases/handling-sources/the-great-quote-question.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>great quote question - Ethics Case StudiesHow much tampering with quotations can journalists ethically do? Most reporters and editors see...</p></details>

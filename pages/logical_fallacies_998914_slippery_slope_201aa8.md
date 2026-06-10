@@ -1097,210 +1097,210 @@ A weak slippery slope says, “If we take this step, disaster will follow.” A 
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLSlippery Slope: This is a conclusion based on the premise that if A happens, then eventually thro...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>arguments, reviving fallacy theory as an alternative way to judge argument.... This is a “slippery slope argument” that argues that some...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: philpapers.org  
    Title: Phil Papers Slippery slope arguments  
-   Link: [https://philpapers.org/rec/WALSSA-2](https://philpapers.org/rec/WALSSA-2)  
+   Link: <a href="https://philpapers.org/rec/WALSSA-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALSSA-2</a>  
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
 5. <a id="endnote-5"></a>
    Source: www2.law.ucla.edu  
    Title: School of Law The Mechanisms of the Slippery Slope  
-   Link: [https://www2.law.ucla.edu/Volokh/slippery.pdf](https://www2.law.ucla.edu/Volokh/slippery.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf](https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2733179/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2733179/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2733179/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2733179/</a>  
 
 8. <a id="endnote-8"></a>
    Source: philpapers.org  
    Title: Phil Papers This is the pre-peer reviewed version of the following  
-   Link: [https://philpapers.org/archive/JEFSSA.pdf](https://philpapers.org/archive/JEFSSA.pdf)  
+   Link: <a href="https://philpapers.org/archive/JEFSSA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/JEFSSA.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3079904/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3079904/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3079904/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3079904/</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0749596X10000896](https://www.sciencedirect.com/science/article/abs/pii/S0749596X10000896)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749596X10000896" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749596X10000896</a>  
 
 11. <a id="endnote-11"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slipperymag.pdf](https://www2.law.ucla.edu/Volokh/slipperymag.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperymag.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperymag.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slipperyfar.pdf](https://www2.law.ucla.edu/Volokh/slipperyfar.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperyfar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyfar.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/marriage.pdf](https://www2.law.ucla.edu/Volokh/marriage.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/marriage.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/marriage.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/](https://www2.law.ucla.edu/Volokh/)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/</a>  
 
 15. <a id="endnote-15"></a>
    Source: law.ucla.edu  
    Title: eugene volokh  
-   Link: [https://law.ucla.edu/faculty/faculty-profiles/eugene-volokh](https://law.ucla.edu/faculty/faculty-profiles/eugene-volokh)  
+   Link: <a href="https://law.ucla.edu/faculty/faculty-profiles/eugene-volokh" target="_blank" rel="noopener noreferrer nofollow">https://law.ucla.edu/faculty/faculty-profiles/eugene-volokh</a>  
 
 16. <a id="endnote-16"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/conduct.pdf](https://www2.law.ucla.edu/Volokh/conduct.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/conduct.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/conduct.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/2am.pdf](https://www2.law.ucla.edu/Volokh/2am.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/2am.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/2am.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/publicity.pdf](https://www2.law.ucla.edu/Volokh/publicity.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/publicity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/publicity.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: web.stanford.edu  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: [https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm](https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm)  
+   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
 
 20. <a id="endnote-20"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2016/entries/logic-informal/](https://plato.stanford.edu/archives/fall2016/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2016/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2016/entries/logic-informal/</a>  
 
 21. <a id="endnote-21"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2008/entries/logic-informal/](https://plato.stanford.edu/archives/fall2008/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2008/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2008/entries/logic-informal/</a>  
 
 22. <a id="endnote-22"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Can you outsmart the slippery slope fallacy?  
-   Link: [http://www.youtube.com/watch?v=Qt4f7QrfRRc](http://www.youtube.com/watch?v=Qt4f7QrfRRc)  
+   Link: <a href="http://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Qt4f7QrfRRc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: [http://www.youtube.com/watch?v=yxylBjtzMNQ](http://www.youtube.com/watch?v=yxylBjtzMNQ)  
+   Link: <a href="http://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is The Slippery Slope Fallacy? | Critical Thinking Basics...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterLike [post hoc](&amp;#123;&amp;#123; &#x27;post-hoc/&#x27; | relative_url &amp;#125;&amp;#125;), slippery slope can be a tricky fallacy to identify, since sometimes a chai...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: informallogic.ca  
    Title: Informal Logic The Basic Slippery Slope Argument  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/4286](https://informallogic.ca/index.php/informal_logic/article/view/4286)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4286" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4286</a>  
 
 27. <a id="endnote-27"></a>
    Source: cluelesspoliticalscientist.wordpress.com  
-   Link: [https://cluelesspoliticalscientist.wordpress.com/2019/05/08/slippery-slopes-by-frederick-schauer-a-summary/](https://cluelesspoliticalscientist.wordpress.com/2019/05/08/slippery-slopes-by-frederick-schauer-a-summary/)  
+   Link: <a href="https://cluelesspoliticalscientist.wordpress.com/2019/05/08/slippery-slopes-by-frederick-schauer-a-summary/" target="_blank" rel="noopener noreferrer nofollow">https://cluelesspoliticalscientist.wordpress.com/2019/05/08/slippery-slopes-by-frederick-schauer-a-summary/</a>  
 
 28. <a id="endnote-28"></a>
    Source: dsc.duq.edu  
-   Link: [https://dsc.duq.edu/cgi/viewcontent.cgi?article=3098&context=dlr](https://dsc.duq.edu/cgi/viewcontent.cgi?article=3098&context=dlr)  
+   Link: <a href="https://dsc.duq.edu/cgi/viewcontent.cgi?article=3098&amp;context=dlr" target="_blank" rel="noopener noreferrer nofollow">https://dsc.duq.edu/cgi/viewcontent.cgi?article=3098&amp;context=dlr</a>  
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/266563818_Slippery_Slope_Arguments](https://www.researchgate.net/publication/266563818_Slippery_Slope_Arguments)  
+   Link: <a href="https://www.researchgate.net/publication/266563818_Slippery_Slope_Arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/266563818_Slippery_Slope_Arguments</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Slippery slope  
-   Link: [https://en.wikipedia.org/wiki/Slippery_slope](https://en.wikipedia.org/wiki/Slippery_slope)  
+   Link: <a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
 
 33. <a id="endnote-33"></a>
    Source: wibrenvanderburg.nl  
    Title: The Slippery Slope Argument  
-   Link: [https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf](https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf)  
+   Link: <a href="https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 35. <a id="endnote-35"></a>
    Source: britannica.com  
    Title: slippery slope argument  
-   Link: [https://www.britannica.com/topic/slippery-slope-argument](https://www.britannica.com/topic/slippery-slope-argument)  
+   Link: <a href="https://www.britannica.com/topic/slippery-slope-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/slippery-slope-argument</a>  
 
 36. <a id="endnote-36"></a>
    Source: informallogic.ca  
    Title: The Basic Slippery Slope Argument  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/4286/3764](https://informallogic.ca/index.php/informal_logic/article/view/4286/3764)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4286/3764</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Slippery Slope Argument (SSA) Fallacy Critical Reasoning for MBA ENTRANCE  
-   Link: [http://www.youtube.com/watch?v=d0V-yaMwA_A](http://www.youtube.com/watch?v=d0V-yaMwA_A)  
+   Link: <a href="http://www.youtube.com/watch?v=d0V-yaMwA_A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=d0V-yaMwA_A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slope argument fallacy critical thinking Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY Wireless Philosophy...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
    Title: Straw Man vs Slippery Slope Fallacy explained with examples  
-   Link: [http://www.youtube.com/watch?v=RIAhM-s5oMU](http://www.youtube.com/watch?v=RIAhM-s5oMU)  
+   Link: <a href="http://www.youtube.com/watch?v=RIAhM-s5oMU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RIAhM-s5oMU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Argument (SSA) Fallacy Critical Reasoning for MBA ENTRANCE...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: What is The Slippery Slope Fallacy? | Critical Thinking Basics  
-   Link: [http://www.youtube.com/watch?v=0x2TcMqbLcg](http://www.youtube.com/watch?v=0x2TcMqbLcg)  
+   Link: <a href="http://www.youtube.com/watch?v=0x2TcMqbLcg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0x2TcMqbLcg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw Man vs Slippery Slope Fallacy explained with examples...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: rephrasely.com  
-   Link: [https://rephrasely.com/usage/slippery-slope-fallacy](https://rephrasely.com/usage/slippery-slope-fallacy)  
+   Link: <a href="https://rephrasely.com/usage/slippery-slope-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://rephrasely.com/usage/slippery-slope-fallacy</a>  
 
 41. <a id="endnote-41"></a>
    Source: sfu.ca  
-   Link: [https://www.sfu.ca/~swartz/topology/walton_and_davies.htm](https://www.sfu.ca/~swartz/topology/walton_and_davies.htm)  
+   Link: <a href="https://www.sfu.ca/~swartz/topology/walton_and_davies.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/~swartz/topology/walton_and_davies.htm</a>  
 
 42. <a id="endnote-42"></a>
    Source: wibrenvanderburg.nl  
-   Link: [https://wibrenvanderburg.nl/wp-content/uploads/2022/03/48.-critical-study-slippery-slope-arguments-by-douglas-walton.pdf](https://wibrenvanderburg.nl/wp-content/uploads/2022/03/48.-critical-study-slippery-slope-arguments-by-douglas-walton.pdf)  
+   Link: <a href="https://wibrenvanderburg.nl/wp-content/uploads/2022/03/48.-critical-study-slippery-slope-arguments-by-douglas-walton.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wibrenvanderburg.nl/wp-content/uploads/2022/03/48.-critical-study-slippery-slope-arguments-by-douglas-walton.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: khanacademy.org  
-   Link: [https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/slippery-slope-critical-thinking-fallacies-wireless-philosophy](https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/slippery-slope-critical-thinking-fallacies-wireless-philosophy)  
+   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/slippery-slope-critical-thinking-fallacies-wireless-philosophy" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/slippery-slope-critical-thinking-fallacies-wireless-philosophy</a>  
 
 44. <a id="endnote-44"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/1ktl8i/i_believe_the_slippery_slope_argument_is/](https://www.reddit.com/r/changemyview/comments/1ktl8i/i_believe_the_slippery_slope_argument_is/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/1ktl8i/i_believe_the_slippery_slope_argument_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/1ktl8i/i_believe_the_slippery_slope_argument_is/</a>  
 
 45. <a id="endnote-45"></a>
    Source: nlb.gov.sg  
-   Link: [https://www.nlb.gov.sg/main/site/-/media/NLBMedia/Images/SURE/Resources-for-Teens/LogicalFallaciesInfoG5FA.pdf](https://www.nlb.gov.sg/main/site/-/media/NLBMedia/Images/SURE/Resources-for-Teens/LogicalFallaciesInfoG5FA.pdf)  
+   Link: <a href="https://www.nlb.gov.sg/main/site/-/media/NLBMedia/Images/SURE/Resources-for-Teens/LogicalFallaciesInfoG5FA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nlb.gov.sg/main/site/-/media/NLBMedia/Images/SURE/Resources-for-Teens/LogicalFallaciesInfoG5FA.pdf</a>  
 
 46. <a id="endnote-46"></a>
    Source: unr.edu  
-   Link: [https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies)  
+   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  

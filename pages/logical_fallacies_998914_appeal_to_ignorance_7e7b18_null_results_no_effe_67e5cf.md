@@ -274,11 +274,11 @@ image: /assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_r
 
 ## Introduction
 
-A common form of [appeal to ignorance]({{ 'ignorance/' | relative_url }}) appears when a study fails to find a statistically significant effect and people treat that outcome as proof that no effect exists. In reality, a null result often means only that the study did not detect a difference under the conditions tested. The effect may truly be absent, but it may also be too small, too variable, or too difficult for the study design to detect. Statistical researchers have warned for decades that “non-significant” should not be read as “no effect,” because a failed detection and a demonstrated absence are different conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAbsence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAbsence of evidence is not evidence of absence</span><span class="citation-popover-snippet">PMC - NIHby P Alderson · 2004 · Cited by 329 — Altman and Bland considered the dangers of misinterpreting differences that do not reach s...</span></span></span>
+A common form of appeal to [ignorance]({{ 'ignorance/' | relative_url }}) appears when a study fails to find a statistically significant effect and people treat that outcome as proof that no effect exists. In reality, a null result often means only that the study did not detect a difference under the conditions tested. The effect may truly be absent, but it may also be too small, too variable, or too difficult for the study design to detect. Statistical researchers have warned for decades that “non-significant” should not be read as “no effect,” because a failed detection and a demonstrated absence are different conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Absence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAbsence of evidence is not evidence of absence</span><span class="citation-popover-snippet">NIHby P Alderson · 2004 · Cited by 329 — Altman and Bland considered the dangers of misinterpreting differences that do not reach s...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-1-dark.svg" | relative_url }}" alt="Null Results illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader family of appeal-to-[ignorance]({{ 'ignorance/' | relative_url }}) errors, this mistake occurs when missing evidence is treated as decisive evidence. The reasoning jumps from “the study did not show an effect” to “the effect does not exist,” even though the study may not have been capable of ruling the effect out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAbsence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
+Within the broader family of appeal-to-ignorance errors, this mistake occurs when missing evidence is treated as decisive evidence. The reasoning jumps from “the study did not show an effect” to “the effect does not exist,” even though the study may not have been capable of ruling the effect out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Absence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
 
 ## Why Non-Significant Results Can Mislead
 
@@ -289,7 +289,7 @@ The distinction matters because many readers unconsciously convert a cautious st
 * **What the study showed:** the evidence was insufficient to establish a detectable effect.
 * **What the mistaken interpretation claims:** there is no effect.
 
-Altman and Bland's influential discussion of “absence of evidence” pointed out that many supposedly “negative” studies may still be compatible with clinically or practically important effects. A non-significant result merely indicates that the data did not provide strong enough evidence under the chosen test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAbsence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
+Altman and Bland's influential discussion of “absence of evidence” pointed out that many supposedly “negative” studies may still be compatible with clinically or practically important effects. A non-significant result merely indicates that the data did not provide strong enough evidence under the chosen test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Absence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
 
 This confusion mirrors the structure of an appeal to ignorance. The lack of proof becomes treated as proof of the opposite position. In scientific debates, that can prematurely close inquiry, discourage replication, or create unwarranted confidence in a claim of no difference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12856849/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCStatistically significant results from low-power analyses</span><span class="citation-popover-snippet">significant results from low-power analyses - PMCby C Jaksic · 2026 — A non-statistically significant result means that the test failed t...</span></span></span>
 
@@ -297,24 +297,24 @@ This confusion mirrors the structure of an appeal to ignorance. The lack of proo
 
 ### Why Small Studies Miss Real Effects
 
-The most common reason a null result fails to settle a question is insufficient statistical power. Power refers to the probability that a study will detect an effect if the effect genuinely exists. Low-powered studies have a substantial risk of false negatives: real effects remain hidden because the experiment lacks enough information to reveal them. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAbsence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
+The most common reason a null result fails to settle a question is insufficient statistical power. Power refers to the probability that a study will detect an effect if the effect genuinely exists. Low-powered studies have a substantial risk of false negatives: real effects remain hidden because the experiment lacks enough information to reveal them. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Absence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
 
-A study with only a small number of participants may observe a genuine difference, but random variation can easily obscure it. Researchers may therefore report a non-significant result even when an effect is present. Sample-size planning exists largely to reduce this problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCStatistics in Brief: The Importance of Sample Size</span><span class="citation-popover-snippet">PMC - NIHby DJ Biau · 2008 · Cited by 732 — The size of the sample studied is a major determinant of the risk of reporting false-negative...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0002916522011777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBest (but oft forgotten) practices: sample size planning for...by SF Anderson · 2019 · Cited by 52 — This article aims to p...</span></span></span>
+A study with only a small number of participants may observe a genuine difference, but random variation can easily obscure it. Researchers may therefore report a non-significant result even when an effect is present. Sample-size planning exists largely to reduce this problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCStatistics in Brief: The Importance of Sample Size</span><span class="citation-popover-snippet">NIHby DJ Biau · 2008 · Cited by 732 — The size of the sample studied is a major determinant of the risk of reporting false-negative...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0002916522011777" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Best (but oft forgotten) practices: sample size planning for...by SF Anderson · 2019 · Cited by 52 — This article aims to p...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/27I5ilNpEnM" title="Why do we say Fail to Reject the Null Hypothesis? Why can&#x27;t I accept the Null Hypothesis?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=27I5ilNpEnM" target="_blank" rel="noopener noreferrer">Why do we say Fail to Reject the Null Hypothesis? Why can&#x27;t I accept the Null Hypothesis?</a></p><p class="youtube-embed-meta">Channel: Dr. Dawn : Stats, Data and AI - Dawn Wright Ph.D. &middot; Views: 34.0K &middot; Uploaded: May 2018 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=27I5ilNpEnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=27I5ilNpEnM">Open on YouTube</a></p></div></div></div>
 
 ### Noise Can Hide Signals
 
-Sample size is only part of the story. Measurements can be noisy because of inconsistent instruments, biological variation, unreliable surveys, or poorly controlled conditions. Statistical power depends on the balance between signal and noise. Even relatively large studies can struggle if measurements are imprecise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7745163/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSample size, power and effect size revisited</span><span class="citation-popover-snippet">PMC - NIHby CC Serdar · 2020 · Cited by 2154 — Use of a statistically incorrect sample size may lead to inadequate results in both clinic...</span></span></span>
+Sample size is only part of the story. Measurements can be noisy because of inconsistent instruments, biological variation, unreliable surveys, or poorly controlled conditions. Statistical power depends on the balance between signal and noise. Even relatively large studies can struggle if measurements are imprecise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7745163/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSample size, power and effect size revisited</span><span class="citation-popover-snippet">NIHby CC Serdar · 2020 · Cited by 2154 — Use of a statistically incorrect sample size may lead to inadequate results in both clinic...</span></span></span>
 
-Consider two medical treatments that differ only slightly in effectiveness. If patient outcomes vary widely for unrelated reasons, the treatment difference may disappear within the background noise. A non-significant result in that situation does not establish equality between treatments; it may simply reveal the limits of the measurement process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3758995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow to Calculate Sample Size and Why</span><span class="citation-popover-snippet">PMCby J Kim · 2013 · Cited by 143 — Many researchers want to show that the two groups are truly distinct, but they will fail to find sign...</span></span></span>
+Consider two medical treatments that differ only slightly in effectiveness. If patient outcomes vary widely for unrelated reasons, the treatment difference may disappear within the background noise. A non-significant result in that situation does not establish equality between treatments; it may simply reveal the limits of the measurement process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3758995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow to Calculate Sample Size and Why</span><span class="citation-popover-snippet">by J Kim · 2013 · Cited by 143 — Many researchers want to show that the two groups are truly distinct, but they will fail to find sign...</span></span></span>
 
 ### Historical Lessons from Underpowered Research
 
-Concerns about underpowered studies have been particularly prominent in fields such as neuroscience and psychology. Reviews of research practices have repeatedly found that many studies were too small to reliably detect the effects they sought to measure. The consequence is not only missed effects but also confusion about which findings should be trusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAbsence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
+Concerns about underpowered studies have been particularly prominent in fields such as neuroscience and psychology. Reviews of research practices have repeatedly found that many studies were too small to reliably detect the effects they sought to measure. The consequence is not only missed effects but also confusion about which findings should be trusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Absence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
 
-This history provides a cautionary lesson: when a field routinely relies on small studies, a collection of null results may tell us more about methodological limitations than about the true absence of an effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAbsence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
+This history provides a cautionary lesson: when a field routinely relies on small studies, a collection of null results may tell us more about methodological limitations than about the true absence of an effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Absence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-2-dark.svg" | relative_url }}" alt="Null Results illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,7 +322,7 @@ This history provides a cautionary lesson: when a field routinely relies on smal
 
 Imagine a study investigating whether a new educational programme improves examination scores. Researchers compare two groups of students and find that the programme group scores slightly higher, but the difference is not statistically significant.
 
-A careful interpretation would be: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9365504/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCUse of Confidence Intervals in Interpreting Nonstatistically...by AT Hawkins · 2021 · Cited by 32 — Careful use of confidence interva...</span></span></span>
+A careful interpretation would be: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9365504/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Use of Confidence Intervals in Interpreting Nonstatistically...by AT Hawkins · 2021 · Cited by 32 — Careful use of confidence interva...</span></span></span>
 
 > The study did not provide strong evidence that the programme improved scores.
 
@@ -330,7 +330,7 @@ An appeal-to-ignorance interpretation would be:
 
 > The programme has no effect on scores.
 
-The second statement assumes more than the data justify. The study may have involved too few students, too much variation in teaching quality, or an effect too modest for the chosen design to detect. Until those possibilities are addressed, the claim of “no effect” remains unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAbsence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6970301/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSample Size and its Importance in Research</span><span class="citation-popover-snippet">Size and its Importance in Research - PMCby C Andrade · 2020 · Cited by 1101 — This article discusses sample size and how it relates to m...</span></span></span>
+The second statement assumes more than the data justify. The study may have involved too few students, too much variation in teaching quality, or an effect too modest for the chosen design to detect. Until those possibilities are addressed, the claim of “no effect” remains unproven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Absence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6970301/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSample Size and its Importance in Research</span><span class="citation-popover-snippet">Size and its Importance in Research - PMCby C Andrade · 2020 · Cited by 1101 — This article discusses sample size and how it relates to m...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kMYxd6QeAss" title="Power of the test, p-values, publication bias and statistical evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kMYxd6QeAss" target="_blank" rel="noopener noreferrer">Power of the test, p-values, publication bias and statistical evidence</a></p><p class="youtube-embed-meta">Channel: The Filter with Mattasher &middot; Views: 71.9K &middot; Uploaded: February 2011 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kMYxd6QeAss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kMYxd6QeAss">Open on YouTube</a></p></div></div></div>
@@ -341,14 +341,14 @@ The fact that null results do not automatically prove no effect does not mean ev
 
 ### Use Confidence Intervals
 
-Confidence intervals show the range of effect sizes compatible with the data. A non-significant result accompanied by a very wide interval remains inconclusive because large positive or negative effects may still fit the evidence. A narrow interval centred near zero provides a much stronger basis for claiming that any effect is likely to be trivial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6978577/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPower to the People: Power, Negative Results and Sample Sizeby BN Gaskill · 2020 · Cited by 64 — The conventional wisdom that statisti...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/rapid-response/2011/10/30/absence-evidence-and-importance-confidence-intervals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-title">absence evidence and importance confidence intervals</span><span class="citation-popover-snippet">BMJAbsence of evidence and the importance of confidence...26 Feb 2004 — Since our 1995 BMJ note[1] the title “Absence of evidence is not...</span></span></span>
+Confidence intervals show the range of effect sizes compatible with the data. A non-significant result accompanied by a very wide interval remains inconclusive because large positive or negative effects may still fit the evidence. A narrow interval centred near zero provides a much stronger basis for claiming that any effect is likely to be trivial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6978577/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Power to the People: Power, Negative Results and Sample Sizeby BN Gaskill · 2020 · Cited by 64 — The conventional wisdom that statisti...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/rapid-response/2011/10/30/absence-evidence-and-importance-confidence-intervals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-title">absence evidence and importance confidence intervals</span><span class="citation-popover-snippet">Absence of evidence and the importance of confidence...26 Feb 2004 — Since our 1995 BMJ note[1] the title “Absence of evidence is not...</span></span></span>
 
 For example:
 
 * A confidence interval ranging from a large benefit to a large harm suggests uncertainty.
 * A confidence interval tightly clustered around no difference suggests practical absence.
 
-The distinction is often more informative than the significance label alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2174757/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCListen to the data when results are not significant</span><span class="citation-popover-snippet">PMCby CE Hewitt · 2008 · Cited by 80 — When randomised controlled trials show a difference that is not statistically significant there is...</span></span></span>
+The distinction is often more informative than the significance label alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2174757/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCListen to the data when results are not significant</span><span class="citation-popover-snippet">by CE Hewitt · 2008 · Cited by 80 — When randomised controlled trials show a difference that is not statistically significant there is...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-3-dark.svg" | relative_url }}" alt="Null Results illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_null_results_no_effe_67e5cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -371,7 +371,7 @@ These approaches recognise a crucial logical point: failing to find evidence for
 
 Null results occupy an awkward position in argumentation. They are often informative, but only when interpreted in light of study quality, sample size, measurement precision, and the expected detectability of the effect. Treating every non-significant result as proof of no effect turns uncertainty into certainty without justification.
 
-The appeal-to-ignorance mistake occurs when the absence of detected evidence is allowed to carry more weight than the evidence itself supports. Sound reasoning asks an additional question: if the effect were real, should this study have been able to find it? Only when the answer is clearly yes does a null result begin to function as meaningful evidence of absence rather than merely an absence of evidence. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAbsence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow sample size influences research outcomes</span><span class="citation-popover-snippet">Very small samples undermine the internal and external validity of a study.Read more...</span></span></span>
+The appeal-to-ignorance mistake occurs when the absence of detected evidence is allowed to carry more weight than the evidence itself supports. Sound reasoning asks an additional question: if the effect were real, should this study have been able to find it? Only when the answer is clearly yes does a null result begin to function as meaningful evidence of absence rather than merely an absence of evidence. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Absence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow sample size influences research outcomes</span><span class="citation-popover-snippet">Very small samples undermine the internal and external validity of a study.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -795,200 +795,200 @@ The appeal-to-ignorance mistake occurs when the absence of detected evidence is 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAbsence of evidence is not evidence of absence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/](https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby P Alderson · 2004 · Cited by 329 — Altman and Bland considered the dangers of misinterpreting differences that do not reach s...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby P Alderson · 2004 · Cited by 329 — Altman and Bland considered the dangers of misinterpreting differences that do not reach s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCStatistically significant results from low-power analyses  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12856849/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12856849/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12856849/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12856849/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>significant results from low-power analyses - PMCby C Jaksic · 2026 — A non-statistically significant result means that the test failed t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCStatistics in Brief: The Importance of Sample Size  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby DJ Biau · 2008 · Cited by 732 — The size of the sample studied is a major determinant of the risk of reporting false-negative...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DJ Biau · 2008 · Cited by 732 — The size of the sample studied is a major determinant of the risk of reporting false-negative...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSample size, power and effect size revisited  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7745163/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7745163/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby CC Serdar · 2020 · Cited by 2154 — Use of a statistically incorrect sample size may lead to inadequate results in both clinic...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7745163/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7745163/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby CC Serdar · 2020 · Cited by 2154 — Use of a statistically incorrect sample size may lead to inadequate results in both clinic...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow to Calculate Sample Size and Why  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3758995/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3758995/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby J Kim · 2013 · Cited by 143 — Many researchers want to show that the two groups are truly distinct, but they will fail to find sign...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3758995/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3758995/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Kim · 2013 · Cited by 143 — Many researchers want to show that the two groups are truly distinct, but they will fail to find sign...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0002916522011777](https://www.sciencedirect.com/science/article/pii/S0002916522011777)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBest (but oft forgotten) practices: sample size planning for...by SF Anderson · 2019 · Cited by 52 — This article aims to p...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0002916522011777" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0002916522011777</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best (but oft forgotten) practices: sample size planning for...by SF Anderson · 2019 · Cited by 52 — This article aims to p...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSample Size and its Importance in Research  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6970301/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6970301/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6970301/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6970301/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Size and its Importance in Research - PMCby C Andrade · 2020 · Cited by 1101 — This article discusses sample size and how it relates to m...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6978577/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6978577/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPower to the People: Power, Negative Results and Sample Sizeby BN Gaskill · 2020 · Cited by 64 — The conventional wisdom that statisti...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6978577/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6978577/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Power to the People: Power, Negative Results and Sample Sizeby BN Gaskill · 2020 · Cited by 64 — The conventional wisdom that statisti...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCListen to the data when results are not significant  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2174757/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2174757/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby CE Hewitt · 2008 · Cited by 80 — When randomised controlled trials show a difference that is not statistically significant there is...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2174757/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2174757/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by CE Hewitt · 2008 · Cited by 80 — When randomised controlled trials show a difference that is not statistically significant there is...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow sample size influences research outcomes  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Very [small samples](&amp;#123;&amp;#123; &#x27;small-samples/&#x27; | relative_url &amp;#125;&amp;#125;) undermine the internal and external validity of a study.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9365504/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9365504/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCUse of Confidence Intervals in Interpreting Nonstatistically...by AT Hawkins · 2021 · Cited by 32 — Careful use of confidence interva...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9365504/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9365504/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use of Confidence Intervals in Interpreting Nonstatistically...by AT Hawkins · 2021 · Cited by 32 — Careful use of confidence interva...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bmj.com  
    Title: absence evidence and importance confidence intervals  
-   Link: [https://www.bmj.com/rapid-response/2011/10/30/absence-evidence-and-importance-confidence-intervals](https://www.bmj.com/rapid-response/2011/10/30/absence-evidence-and-importance-confidence-intervals)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJAbsence of evidence and the importance of confidence...26 Feb 2004 — Since our 1995 BMJ note[1] the title “Absence of evidence is not...</p></details>
+   Link: <a href="https://www.bmj.com/rapid-response/2011/10/30/absence-evidence-and-importance-confidence-intervals" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/10/30/absence-evidence-and-importance-confidence-intervals</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Absence of evidence and the importance of confidence...26 Feb 2004 — Since our 1995 BMJ note[1] the title “Absence of evidence is not...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12567074/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12567074/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12567074/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12567074/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;no&#x27; with confidence: statistical approaches to test for...by LG Halsey · 2025 — Here, I provide a quick-and-easy guide to simple yet po...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/](https://www.bmj.com/)  
+   Link: <a href="https://www.bmj.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/</a>  
 
 15. <a id="endnote-15"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/311/7003/485/related](https://www.bmj.com/content/311/7003/485/related)  
+   Link: <a href="https://www.bmj.com/content/311/7003/485/related" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/311/7003/485/related</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics notes: Absence of evidence is not...Interpretation of CIs in clinical trials with non-significant results: systematic review...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/342/bmj.d3126](https://www.bmj.com/content/342/bmj.d3126)  
+   Link: <a href="https://www.bmj.com/content/342/bmj.d3126" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.d3126</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Absence of evidence is not evidence of absence. BMJ 1995;311:485. OpenUrlFREE Full TextGoogle Scholar · View Abstract.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/328/7438/476?page=1&panels_ajax_tab_tab=bmj_related_rapid_responses&panels_ajax_tab_trigger=rapid-responses](https://www.bmj.com/content/328/7438/476?page=1&panels_ajax_tab_tab=bmj_related_rapid_responses&panels_ajax_tab_trigger=rapid-responses)  
+   Link: <a href="https://www.bmj.com/content/328/7438/476?page=1&amp;panels_ajax_tab_tab=bmj_related_rapid_responses&amp;panels_ajax_tab_trigger=rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/328/7438/476?page=1&amp;panels_ajax_tab_tab=bmj_related_rapid_responses&amp;panels_ajax_tab_trigger=rapid-responses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He suggests that one should never claim that there is “no effect” but rather that authors shouldRead more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/326/7401/1267.1](https://www.bmj.com/content/326/7401/1267.1)  
+   Link: <a href="https://www.bmj.com/content/326/7401/1267.1" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/326/7401/1267.1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Evidence of absence” can be importantby M Joffe · 2003 · Cited by 4 —. Absence of evidence is not evidence of absence. BMJ 1995; 311: 4...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/7/7/e017288](https://bmjopen.bmj.com/content/7/7/e017288)  
+   Link: <a href="https://bmjopen.bmj.com/content/7/7/e017288" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/7/7/e017288</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>not statistically significant is &#x27;negative&#x27; or &#x27;inconclusive&#x27;. In conclusion... Absence of evidence is not evidence of absence. BMJ 2004...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590113326000088](https://www.sciencedirect.com/science/article/pii/S2590113326000088)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590113326000088" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590113326000088</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistically significant results from low-power analysesby C Jaksic · 2026 — At low power, results are either accurate but statistically...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/7647644/](https://pubmed.ncbi.nlm.nih.gov/7647644/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedAbsence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7647644/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7647644/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Absence of evidence is not evidence of absenceby DG Altman · 1995 · Cited by 2470 — When statistical analysis of the study data fin...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe ASA Statement on p-Values: [Context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;), Process, and...by RL Wasserstein · 2016 · Cited by 8584 — P-values do not...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: elifesciences.org  
    Title: reviewed preprints  
-   Link: [https://elifesciences.org/reviewed-preprints/92311](https://elifesciences.org/reviewed-preprints/92311)  
+   Link: <a href="https://elifesciences.org/reviewed-preprints/92311" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/reviewed-preprints/92311</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eLifeReplication of “null results” – Absence of evidence or...by S Pawel · 2024 · Cited by 12 — We show how methods, such as equivalence...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23571845/](https://pubmed.ncbi.nlm.nih.gov/23571845/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedPower failure: why small sample size undermines the...by KS Button · 2013 · Cited by 9954 — A study with low statistical power has...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23571845/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23571845/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Power failure: why small sample size undermines the...by KS Button · 2013 · Cited by 9954 — A study with low statistical power has...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: jamanetwork.com  
-   Link: [https://jamanetwork.com/journals/jama/fullarticle/2806151](https://jamanetwork.com/journals/jama/fullarticle/2806151)  
+   Link: <a href="https://jamanetwork.com/journals/jama/fullarticle/2806151" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jama/fullarticle/2806151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JAMA NetworkLack of Treatment Efficacy From Statistically Nonsignificant...by T Perneger · 2023 · Cited by 19 — Many statistically nonsi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: elifesciences.org  
-   Link: [https://elifesciences.org/articles/92311](https://elifesciences.org/articles/92311)  
+   Link: <a href="https://elifesciences.org/articles/92311" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/articles/92311</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Replication of null results: Absence of evidence or...by S Pawel · 2024 · Cited by 12 — This work provides a valuable contribution and a...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41002082/](https://pubmed.ncbi.nlm.nih.gov/41002082/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41002082/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41002082/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Would Be the Effect of Lowering the Threshold...by Y Shimozono · 2026 · Cited by 5 — Lowering the p value threshold to 0.005 would requi...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: oamonitor.ireland.openaire.eu  
-   Link: [https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1136%2Fbmj.311.7003.485](https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1136%2Fbmj.311.7003.485)  
+   Link: <a href="https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1136%2Fbmj.311.7003.485" target="_blank" rel="noopener noreferrer nofollow">https://oamonitor.ireland.openaire.eu/national/search/publication?pid=10.1136%2Fbmj.311.7003.485</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>notes: Absence of evidence is not evidence of absenceStatistics notes: Absence of evidence is not evidence of absence · Octreotide infusi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: acsu.buffalo.edu  
-   Link: [https://www.acsu.buffalo.edu/~wdmccall/os512d/EvidAbs.html](https://www.acsu.buffalo.edu/~wdmccall/os512d/EvidAbs.html)  
+   Link: <a href="https://www.acsu.buffalo.edu/~wdmccall/os512d/EvidAbs.html" target="_blank" rel="noopener noreferrer nofollow">https://www.acsu.buffalo.edu/~wdmccall/os512d/EvidAbs.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas G Altman, head,a... Similar evidence of the dangers of misinterpretation of non-significant results...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIHypothesis Testing, P Values, Confidence Intervals  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK557421/](https://www.ncbi.nlm.nih.gov/books/NBK557421/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBIby J Shreffler · 2023 · Cited by 105 — Thus, while the p-value used to detect statistical significance may result in &quot;not significant...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK557421/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK557421/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Shreffler · 2023 · Cited by 105 — Thus, while the p-value used to detect statistical significance may result in &quot;not significant...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: anesthesia.healthsci.mcmaster.ca  
-   Link: [https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf](https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf)  
+   Link: <a href="https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;not significant.&quot; Randomised controlled clinical trials that do not show a significant difference...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: blog.minitab.com  
    Title: the american statistical associations statement on the use of p values  
-   Link: [https://blog.minitab.com/en/blog/adventures-in-statistics-2/the-american-statistical-associations-statement-on-the-use-of-p-values](https://blog.minitab.com/en/blog/adventures-in-statistics-2/the-american-statistical-associations-statement-on-the-use-of-p-values)  
+   Link: <a href="https://blog.minitab.com/en/blog/adventures-in-statistics-2/the-american-statistical-associations-statement-on-the-use-of-p-values" target="_blank" rel="noopener noreferrer nofollow">https://blog.minitab.com/en/blog/adventures-in-statistics-2/the-american-statistical-associations-statement-on-the-use-of-p-values</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Statistical [Association](&amp;#123;&amp;#123; &#x27;association/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27;s Statement on...23 Mar 2016 — Using P values in conjunction with a significance level to decide when t...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
    Title: (PDF) Absence of Evidence Is Not Evidence of Absence  
-   Link: [https://www.researchgate.net/publication/232268309_Absence_of_Evidence_Is_Not_Evidence_of_Absence](https://www.researchgate.net/publication/232268309_Absence_of_Evidence_Is_Not_Evidence_of_Absence)  
+   Link: <a href="https://www.researchgate.net/publication/232268309_Absence_of_Evidence_Is_Not_Evidence_of_Absence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232268309_Absence_of_Evidence_Is_Not_Evidence_of_Absence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The non-equivalence of statistical significance and clinical importance has long been recognised, but this error of interpretation remain...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals With Low Power Comes Low Credibility?  
-   Link: [https://journals.sagepub.com/doi/10.1177/25152459241296397](https://journals.sagepub.com/doi/10.1177/25152459241296397)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/25152459241296397" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/25152459241296397</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a...Jan 28, 2025 — Researchers should be motivated to adequately power statistical tests because tests with low power have a low...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Reject or Fail to Reject Null Hypothesis | Decision Rule Explained  
-   Link: [https://www.youtube.com/watch?v=nzBrVjvCBOs](https://www.youtube.com/watch?v=nzBrVjvCBOs)  
+   Link: <a href="https://www.youtube.com/watch?v=nzBrVjvCBOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nzBrVjvCBOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The video Why do we say Fail to Reject the Null Hypothesis? Why can&#x27;t I accept the Null Hypothesis? explicitly outlines the fallacy of tr...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/p-value-trap-why-significant-does-mean-effect-absence-filip-poscic-2trcf](https://www.linkedin.com/pulse/p-value-trap-why-significant-does-mean-effect-absence-filip-poscic-2trcf)  
+   Link: <a href="https://www.linkedin.com/pulse/p-value-trap-why-significant-does-mean-effect-absence-filip-poscic-2trcf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/p-value-trap-why-significant-does-mean-effect-absence-filip-poscic-2trcf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The p-value trap: why “not significant” does not mean “no...A high p-value only indicates your data is compatible with there being no ef...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: statalist.org  
-   Link: [https://www.statalist.org/forums/forum/general-stata-discussion/general/1620255-the-use-of-p-values-has-been-criticized-by-the-american-statistical-association](https://www.statalist.org/forums/forum/general-stata-discussion/general/1620255-the-use-of-p-values-has-been-criticized-by-the-american-statistical-association)  
+   Link: <a href="https://www.statalist.org/forums/forum/general-stata-discussion/general/1620255-the-use-of-p-values-has-been-criticized-by-the-american-statistical-association" target="_blank" rel="noopener noreferrer nofollow">https://www.statalist.org/forums/forum/general-stata-discussion/general/1620255-the-use-of-p-values-has-been-criticized-by-the-american-statistical-association</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geoff Cumming advocates confidence intervals over p-values.Read more...</p></details>

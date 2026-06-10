@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_fr
 
 ## Introduction
 
-Anecdotes are powerful because they show that something happened to a real person in a concrete situation. The problem begins when a vivid story is treated as evidence that the event is common. In arguments with [evidence gaps]({{ 'evidence-gaps/' | relative_url }}), a single dramatic example can make a rare outcome feel typical, even when broader data show it is unusual. This is not because the story is false. It is because human judgement often uses memorable examples as shortcuts for estimating frequency. Research on the availability heuristic shows that people tend to judge likelihood by how easily examples come to mind, while studies of base-rate neglect show that vivid individual cases can overshadow information about how often events actually occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> ScienceDirect Understanding this mechanism helps separate two different questions: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview | ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>“Can this happen?” and “How often does it happen?” An anecdote may answer the first question perfectly while providing little evidence for the second.
+Anecdotes are powerful because they show that something happened to a real person in a concrete situation. The problem begins when a vivid story is treated as evidence that the event is common. In arguments with [evidence gaps]({{ 'evidence-gaps/' | relative_url }}), a single dramatic example can make a rare outcome feel typical, even when broader data show it is unusual. This is not because the story is false. It is because human judgement often uses memorable examples as shortcuts for estimating frequency. Research on the availability heuristic shows that people tend to judge likelihood by how easily examples come to mind, while studies of base-rate neglect show that vivid individual cases can overshadow information about how often events actually occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> ScienceDirect Understanding this mechanism helps separate two different questions: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview &#124; ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>“Can this happen?” and “How often does it happen?” An anecdote may answer the first question perfectly while providing little evidence for the second.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-1-dark.svg" | relative_url }}" alt="Anecdotes illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -300,11 +300,11 @@ Only the first follows directly from a single anecdote. The latter two require e
 The logical mistake is subtle because the anecdote itself may be completely accurate. The weakness lies in the leap from occurrence to prevalence.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H2gJXpOb2Vo" title="What is Anecdotal Evidence? (Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H2gJXpOb2Vo" target="_blank" rel="noopener noreferrer">What is Anecdotal Evidence? (Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 1.8K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H2gJXpOb2Vo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H2gJXpOb2Vo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8AwzQdRcDXs" title="73 – The Fallacy of the Anecdotal Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8AwzQdRcDXs" target="_blank" rel="noopener noreferrer">73 – The Fallacy of the Anecdotal Evidence</a></p><p class="youtube-embed-meta">Channel: ABC EastFlorida &middot; Views: 87 &middot; Uploaded: January 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8AwzQdRcDXs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8AwzQdRcDXs">Open on YouTube</a></p></div></div></div>
 
 ## Why Vivid Examples Overpower Base Rates
 
-Psychologists have long studied the availability heuristic, a mental shortcut in which people estimate probability based on how easily examples can be recalled. Events that are dramatic, emotional, recent, or heavily publicised become easier to remember and therefore seem more common than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> ScienceDirect A vivid anecdote has several advantages over abstract statistics: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview | ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>
+Psychologists have long studied the availability heuristic, a mental shortcut in which people estimate probability based on how easily examples can be recalled. Events that are dramatic, emotional, recent, or heavily publicised become easier to remember and therefore seem more common than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> ScienceDirect A vivid anecdote has several advantages over abstract statistics: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview &#124; ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
@@ -316,9 +316,9 @@ Psychologists have long studied the availability heuristic, a mental shortcut in
 
 </div>
 
-Because of these features, people may recall the story instantly while struggling to remember statistical information. The remembered example then becomes a substitute for actual frequency evidence. Research on availability-based judgement consistently finds that ease of recall influences estimates of likelihood and commonness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Availability heuristic</span><span class="citation-popover-snippet">Availability heuristic</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview | ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>
+Because of these features, people may recall the story instantly while struggling to remember statistical information. The remembered example then becomes a substitute for actual frequency evidence. Research on availability-based judgement consistently finds that ease of recall influences estimates of likelihood and commonness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Availability heuristic</span><span class="citation-popover-snippet">Availability heuristic</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview &#124; ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>
 
-This helps explain why highly publicised but rare dangers can appear more threatening than more common risks. When dramatic cases dominate attention, memory supplies a distorted sample of reality. The judgement feels evidence-based because genuine examples exist, but the sample is too small and too memorable to represent overall frequency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Risk and Availability Heuristic: The Role of...It is not obvious yet true that people heavily rely on availability heu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027722001482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectOn the generality and cognitive basis of base-rate neglectby E Stengård · 2022 · Cited by 40 — Base rate neglect refers to p...</span></span></span>
+This helps explain why highly publicised but rare dangers can appear more threatening than more common risks. When dramatic cases dominate attention, memory supplies a distorted sample of reality. The judgement feels evidence-based because genuine examples exist, but the sample is too small and too memorable to represent overall frequency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Risk and Availability Heuristic: The Role of...It is not obvious yet true that people heavily rely on availability heu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027722001482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the generality and cognitive basis of base-rate neglectby E Stengård · 2022 · Cited by 40 — Base rate neglect refers to p...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1vZDWiK_1t0" title="The Availability Heuristic (Intro Psych Tutorial #92)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1vZDWiK_1t0" target="_blank" rel="noopener noreferrer">The Availability Heuristic (Intro Psych Tutorial #92)</a></p><p class="youtube-embed-meta">Channel: PsychExamReview &middot; Views: 26.8K &middot; Uploaded: March 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1vZDWiK_1t0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1vZDWiK_1t0">Open on YouTube</a></p></div></div></div>
@@ -349,7 +349,7 @@ The effect becomes stronger when the anecdote confirms existing concerns or expe
 
 A base rate is the underlying frequency of an event within a larger population. When evaluating how common something is, base rates are often the most relevant information available.
 
-Research on base-rate neglect shows that people frequently underweight or ignore this broader statistical [context]({{ 'context/' | relative_url }}) when presented with specific individual cases. Instead of combining the anecdote with population-level information, the anecdote dominates judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe effects of base rate neglect on sequential belief updating...by BK Ashinoff · 2022 · Cited by 18 — Base-rate neglect is a pervasi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview | ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>
+Research on base-rate neglect shows that people frequently underweight or ignore this broader statistical [context]({{ 'context/' | relative_url }}) when presented with specific individual cases. Instead of combining the anecdote with population-level information, the anecdote dominates judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of base rate neglect on sequential belief updating...by BK Ashinoff · 2022 · Cited by 18 — Base-rate neglect is a pervasi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview &#124; ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>
 
 Imagine hearing about a rare failure, disease, or accident. The story supplies rich details about one instance. The base rate, by contrast, may be expressed as a percentage or probability. Because the anecdote feels concrete and the statistic feels abstract, attention shifts toward the individual case and away from the underlying frequency.
 
@@ -387,10 +387,10 @@ Representative evidence can confirm, weaken, or completely overturn the impressi
 
 The persuasive power of anecdotes comes from a mismatch between memory and measurement. Memory is designed to retain vivid, emotionally significant events. Frequency estimation requires something different: representative evidence that reflects the wider population.
 
-A story can show that an event occurred. It can make a problem feel real and human. It can even identify issues that deserve investigation. What it cannot reliably establish on its own is how common the event is. When a single memorable case is allowed to stand in for population-level evidence, a rare occurrence can begin to feel like a widespread pattern. That is the evidence gap at the heart of anecdotal reasoning: possibility is mistaken for frequency, and vividness is mistaken for prevalence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview | ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://fs.blog/mental-model-availability-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[3fs.blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">l we can easily call to mind is reality, which distorts real probabilities...</span></span></span>
+A story can show that an event occurred. It can make a problem feel real and human. It can even identify issues that deserve investigation. What it cannot reliably establish on its own is how common the event is. When a single memorable case is allowed to stand in for population-level evidence, a rare occurrence can begin to feel like a widespread pattern. That is the evidence gap at the heart of anecdotal reasoning: possibility is mistaken for frequency, and vividness is mistaken for prevalence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview &#124; ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://fs.blog/mental-model-availability-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[3fs.blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">l we can easily call to mind is reality, which distorts real probabilities...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8AwzQdRcDXs" title="73 – The Fallacy of the Anecdotal Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8AwzQdRcDXs" target="_blank" rel="noopener noreferrer">73 – The Fallacy of the Anecdotal Evidence</a></p><p class="youtube-embed-meta">Channel: ABC EastFlorida &middot; Views: 87 &middot; Uploaded: January 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8AwzQdRcDXs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8AwzQdRcDXs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H2gJXpOb2Vo" title="What is Anecdotal Evidence? (Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H2gJXpOb2Vo" target="_blank" rel="noopener noreferrer">What is Anecdotal Evidence? (Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 1.8K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H2gJXpOb2Vo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H2gJXpOb2Vo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -815,191 +815,191 @@ A story can show that an event occurred. It can make a problem feel real and hum
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Availability Heuristic  
-   Link: [https://www.sciencedirect.com/topics/computer-science/availability-heuristic](https://www.sciencedirect.com/topics/computer-science/availability-heuristic)  
+   Link: <a href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/availability-heuristic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic - an overview | ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027722001482](https://www.sciencedirect.com/science/article/pii/S0010027722001482)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectOn the generality and cognitive basis of base-rate neglectby E Stengård · 2022 · Cited by 40 — Base rate neglect refers to p...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027722001482" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027722001482</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On the generality and cognitive basis of base-rate neglectby E Stengård · 2022 · Cited by 40 — Base rate neglect refers to p...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management](https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management)  
+   Link: <a href="https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Risk and Availability Heuristic: The Role of...It is not obvious yet true that people heavily rely on availability heu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2212420922001960](https://www.sciencedirect.com/science/article/abs/pii/S2212420922001960)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2212420922001960" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2212420922001960</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public perception of flood hazards in the housing marketby KS Cheung · 2022 · Cited by 21 — This study argues that the affect heuristic a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/328709082_Stories_vs_Statistics_The_Impact_of_Anecdotal_Data_on_Managerial_Decision_Making](https://www.researchgate.net/publication/328709082_Stories_vs_Statistics_The_Impact_of_Anecdotal_Data_on_Managerial_Decision_Making)  
+   Link: <a href="https://www.researchgate.net/publication/328709082_Stories_vs_Statistics_The_Impact_of_Anecdotal_Data_on_Managerial_Decision_Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328709082_Stories_vs_Statistics_The_Impact_of_Anecdotal_Data_on_Managerial_Decision_Making</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Stories vs Statistics: The Impact of Anecdotal Data...Prior research suggests that decision-makers can be biased by an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/0001691880900463](https://www.sciencedirect.com/science/article/pii/0001691880900463)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/0001691880900463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0001691880900463</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The base-rate fallacy is people&#x27;s tendency to ignore base rates in favor of, e.g., individuating information (when such is available), ra...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe effects of base rate neglect on sequential belief updating...by BK Ashinoff · 2022 · Cited by 18 — Base-rate neglect is a pervasi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9831339/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of base rate neglect on sequential belief updating...by BK Ashinoff · 2022 · Cited by 18 — Base-rate neglect is a pervasi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/mental-model-availability-bias/](https://fs.blog/mental-model-availability-bias/)  
+   Link: <a href="https://fs.blog/mental-model-availability-bias/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/mental-model-availability-bias/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>l we can easily call to mind is reality, which distorts real probabilities...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: Risk Perception  
-   Link: [https://www.sciencedirect.com/topics/social-sciences/risk-perception](https://www.sciencedirect.com/topics/social-sciences/risk-perception)  
+   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/risk-perception" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/risk-perception</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewRisk perception, ie, how individuals think and feel about the risks they face, is an important determinant of protective behav...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/364692195_Base_rate_neglect_and_conservatism_in_probabilistic_reasoning_Insights_from_eliciting_full_distributions](https://www.researchgate.net/publication/364692195_Base_rate_neglect_and_conservatism_in_probabilistic_reasoning_Insights_from_eliciting_full_distributions)  
+   Link: <a href="https://www.researchgate.net/publication/364692195_Base_rate_neglect_and_conservatism_in_probabilistic_reasoning_Insights_from_eliciting_full_distributions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364692195_Base_rate_neglect_and_conservatism_in_probabilistic_reasoning_Insights_from_eliciting_full_distributions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(base rate neglect) and the likelihood (conservatism), although this varies by...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/378242433_Beyond_the_Odds_Framing_and_Taming_Base-Rate_Neglect_in_Organizational_and_Consumer_Decision-Making](https://www.researchgate.net/publication/378242433_Beyond_the_Odds_Framing_and_Taming_Base-Rate_Neglect_in_Organizational_and_Consumer_Decision-Making)  
+   Link: <a href="https://www.researchgate.net/publication/378242433_Beyond_the_Odds_Framing_and_Taming_Base-Rate_Neglect_in_Organizational_and_Consumer_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378242433_Beyond_the_Odds_Framing_and_Taming_Base-Rate_Neglect_in_Organizational_and_Consumer_Decision-Making</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Odds: Framing and Taming Base-Rate Neglect...16 Feb 2024 — This chapter offers an exploration of base-rate neglect in decisio...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/373897067_Research_on_Applications_of_Availability_Heuristics](https://www.researchgate.net/publication/373897067_Research_on_Applications_of_Availability_Heuristics)  
+   Link: <a href="https://www.researchgate.net/publication/373897067_Research_on_Applications_of_Availability_Heuristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373897067_Research_on_Applications_of_Availability_Heuristics</a>  
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391517150_The_Influence_of_Availability_Heuristic_on_Shaping_Decisions_and_Economic_Outcomes](https://www.researchgate.net/publication/391517150_The_Influence_of_Availability_Heuristic_on_Shaping_Decisions_and_Economic_Outcomes)  
+   Link: <a href="https://www.researchgate.net/publication/391517150_The_Influence_of_Availability_Heuristic_on_Shaping_Decisions_and_Economic_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391517150_The_Influence_of_Availability_Heuristic_on_Shaping_Decisions_and_Economic_Outcomes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ted domains: financial markets, consumer behavior, and public policy.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258500163_Base_Rates_Both_Neglected_and_Intuitive](https://www.researchgate.net/publication/258500163_Base_Rates_Both_Neglected_and_Intuitive)  
+   Link: <a href="https://www.researchgate.net/publication/258500163_Base_Rates_Both_Neglected_and_Intuitive" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258500163_Base_Rates_Both_Neglected_and_Intuitive</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Base rate fallacy  
-   Link: [https://en.wikipedia.org/wiki/Base_rate_fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Base_rate_fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate fallacyThe base rate fallacy, also called base rate neglect or base rate bias, is a type of fallacy in which people tend to...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: get-alfred.ai  
    Title: availability heuristic  
-   Link: [https://get-alfred.ai/blog/availability-heuristic](https://get-alfred.ai/blog/availability-heuristic)  
+   Link: <a href="https://get-alfred.ai/blog/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News coverage systematically over-represents dramatic, unusual, and extreme events (plane...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/08824099709388654](https://www.tandfonline.com/doi/abs/10.1080/08824099709388654)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/08824099709388654" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08824099709388654</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineComparing the persuasiveness of narrative and statistical...by M Allen · 1997 · Cited by 522 — This meta‐analysis...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Base Rate Fallacy  
-   Link: [https://thedecisionlab.com/biases/base-rate-fallacy](https://thedecisionlab.com/biases/base-rate-fallacy)  
+   Link: <a href="https://thedecisionlab.com/biases/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/base-rate-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Base Rate Fallacy - The Decision...Base Rate Fallacy is our tendency to give more weight to the event-specific information than we shoul...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english-chinese-traditional/availability](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/availability)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english-chinese-traditional/availability" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-chinese-traditional/availability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Traditional Chinese - Cambridge Dictionary5 days ago — the fact that something can be bought, used, or reached, or how much it can be...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: vaia.com  
    Title: base rate neglect  
-   Link: [https://www.vaia.com/en-us/explanations/psychology/cognitive-psychology/base-rate-neglect/](https://www.vaia.com/en-us/explanations/psychology/cognitive-psychology/base-rate-neglect/)  
+   Link: <a href="https://www.vaia.com/en-us/explanations/psychology/cognitive-psychology/base-rate-neglect/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaia.com/en-us/explanations/psychology/cognitive-psychology/base-rate-neglect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology &amp; Examples | VaiaNov 27, 2024 — This cognitive bias can lead to incorrect conclusions and poor decision-making, as seen in sce...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: simplypsychology.org  
    Title: availability heuristic  
-   Link: [https://www.simplypsychology.org/availability-heuristic.html](https://www.simplypsychology.org/availability-heuristic.html)  
+   Link: <a href="https://www.simplypsychology.org/availability-heuristic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/availability-heuristic.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Decision Making10 Jul 2023 — The availability heuristic is a mental shortcut where individuals judge the likelihood of an event based...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribbr.co.uk  
    Title: The Availability Heuristic | Example & Definition  
-   Link: [https://www.scribbr.co.uk/bias-in-research/availability-bias/](https://www.scribbr.co.uk/bias-in-research/availability-bias/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scribbr7 Dec 2022 — The availability heuristic occurs when we judge the likelihood of an event based on how easily we can recall similar...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/bias-in-research/availability-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/bias-in-research/availability-bias/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Dec 2022 — The availability heuristic occurs when we judge the likelihood of an event based on how easily we can recall similar...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cognitivebiaslab.com  
    Title: Availability Heuristic  
-   Link: [https://www.cognitivebiaslab.com/bias/bias-availability/](https://www.cognitivebiaslab.com/bias/bias-availability/)  
+   Link: <a href="https://www.cognitivebiaslab.com/bias/bias-availability/" target="_blank" rel="noopener noreferrer nofollow">https://www.cognitivebiaslab.com/bias/bias-availability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Examples, and How to...The availability heuristic is a mental shortcut where we judge how likely something is based on how e...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/base-rate-fallacy](https://www.ebsco.com/research-starters/psychology/base-rate-fallacy)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/base-rate-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate fallacy | Psychology | Research StartersThe base rate fallacy, also known as base rate neglect, is a cognitive error in which i...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/availability](https://www.merriam-webster.com/dictionary/availability)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/availability" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/availability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AVAILABILITY Definition &amp; Meaning8 days ago — 1. The quality or state of being available; trying to improve the availability of affordabl...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: trustedinstitute.com  
-   Link: [https://trustedinstitute.com/concept/pmi-rmp/risk-attitudes-biases/availability-heuristic-risk/](https://trustedinstitute.com/concept/pmi-rmp/risk-attitudes-biases/availability-heuristic-risk/)  
+   Link: <a href="https://trustedinstitute.com/concept/pmi-rmp/risk-attitudes-biases/availability-heuristic-risk/" target="_blank" rel="noopener noreferrer nofollow">https://trustedinstitute.com/concept/pmi-rmp/risk-attitudes-biases/availability-heuristic-risk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic in Risk Assessment testThe Availability Heuristic in Risk Assessment is a cognitive bias where individuals estimat...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: dalvoy.com  
-   Link: [https://www.dalvoy.com/en/upsc/mains/previous-years/2025/psychology-paper-i/availability-heuristic-examples](https://www.dalvoy.com/en/upsc/mains/previous-years/2025/psychology-paper-i/availability-heuristic-examples)  
+   Link: <a href="https://www.dalvoy.com/en/upsc/mains/previous-years/2025/psychology-paper-i/availability-heuristic-examples" target="_blank" rel="noopener noreferrer nofollow">https://www.dalvoy.com/en/upsc/mains/previous-years/2025/psychology-paper-i/availability-heuristic-examples</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic: Appropriate and Inappropriate UseUnderstanding the Availability Heuristic​​ It suggests that memories that are vi...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: db.arabpsychology.com  
-   Link: [https://db.arabpsychology.com/availability-heuristic-2/](https://db.arabpsychology.com/availability-heuristic-2/)  
+   Link: <a href="https://db.arabpsychology.com/availability-heuristic-2/" target="_blank" rel="noopener noreferrer nofollow">https://db.arabpsychology.com/availability-heuristic-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PsychoScales DatabaseAvailability Heuristic: Cognitive Bias ExplainedThe availability heuristic is a phenomenon (which can result in a co...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: buildingthemind.com  
-   Link: [https://buildingthemind.com/the-availability-heuristic-why-vivid-events-feel-more-probable-than-they-actually-are/](https://buildingthemind.com/the-availability-heuristic-why-vivid-events-feel-more-probable-than-they-actually-are/)  
+   Link: <a href="https://buildingthemind.com/the-availability-heuristic-why-vivid-events-feel-more-probable-than-they-actually-are/" target="_blank" rel="noopener noreferrer nofollow">https://buildingthemind.com/the-availability-heuristic-why-vivid-events-feel-more-probable-than-they-actually-are/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Vivid Events Feel More Probable Than They Actually AreApr 30, 2026 — The availability heuristic is one of the most pervasive and cons...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: deanfrancispress.com  
    Title: The Impact of the Availability Heuristic on Decision-Making  
-   Link: [https://www.deanfrancispress.com/index.php/hc/article/download/2210/HC004102.pdf/9032](https://www.deanfrancispress.com/index.php/hc/article/download/2210/HC004102.pdf/9032)  
+   Link: <a href="https://www.deanfrancispress.com/index.php/hc/article/download/2210/HC004102.pdf/9032" target="_blank" rel="noopener noreferrer nofollow">https://www.deanfrancispress.com/index.php/hc/article/download/2210/HC004102.pdf/9032</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: The present essay will consider the availability heuristic, a cognitive bias whereby individuals&#x27; judgment regarding the likeli...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: forbes.com  
    Title: availability heuristic what it is and how to overcome it  
-   Link: [https://www.forbes.com/sites/brycehoffman/2024/04/06/availability-heuristic-what-it-is-and-how-to-overcome-it/](https://www.forbes.com/sites/brycehoffman/2024/04/06/availability-heuristic-what-it-is-and-how-to-overcome-it/)  
+   Link: <a href="https://www.forbes.com/sites/brycehoffman/2024/04/06/availability-heuristic-what-it-is-and-how-to-overcome-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/brycehoffman/2024/04/06/availability-heuristic-what-it-is-and-how-to-overcome-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic: What It Is And How To Overcome ItApr 6, 2024 — The availability heuristic (or availability bias) refers to our te...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sathishsampath_availabilityheuristic-cognitivebias-riskperception-activity-7429531631138549760--83C](https://www.linkedin.com/posts/sathishsampath_availabilityheuristic-cognitivebias-riskperception-activity-7429531631138549760--83C)  
+   Link: <a href="https://www.linkedin.com/posts/sathishsampath_availabilityheuristic-cognitivebias-riskperception-activity-7429531631138549760--83C" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sathishsampath_availabilityheuristic-cognitivebias-riskperception-activity-7429531631138549760--83C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bility Heuristic is a cognitive bias where we estimate the...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thosenerdygirls/posts/what-is-availability-biasnote-this-post-was-first-published-on-may-18-2023tldr-a/1252857730195861/](https://www.facebook.com/thosenerdygirls/posts/what-is-availability-biasnote-this-post-was-first-published-on-may-18-2023tldr-a/1252857730195861/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability bias, also called availability heuristic, is a type...Remind yourself that [anecdotal evidence](&amp;#123;&amp;#123; &#x27;anecdotes/&#x27; | relative_url &amp;#125;&amp;#125;) is not statistically relevant...</p></details>
+   Link: <a href="https://www.facebook.com/thosenerdygirls/posts/what-is-availability-biasnote-this-post-was-first-published-on-may-18-2023tldr-a/1252857730195861/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thosenerdygirls/posts/what-is-availability-biasnote-this-post-was-first-published-on-may-18-2023tldr-a/1252857730195861/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability bias, also called availability heuristic, is a type...Remind yourself that anecdotal evidence is not statistically relevant...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/judgment-and-decision-making/article/base-rate-neglect-and-conservatism-in-probabilistic-reasoning-insights-from-eliciting-full-distributions/57619E3572DB3A6035101546DB147F7E](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/base-rate-neglect-and-conservatism-in-probabilistic-reasoning-insights-from-eliciting-full-distributions/57619E3572DB3A6035101546DB147F7E)  
+   Link: <a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/base-rate-neglect-and-conservatism-in-probabilistic-reasoning-insights-from-eliciting-full-distributions/57619E3572DB3A6035101546DB147F7E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/judgment-and-decision-making/article/base-rate-neglect-and-conservatism-in-probabilistic-reasoning-insights-from-eliciting-full-distributions/57619E3572DB3A6035101546DB147F7E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate neglect and conservatism in probabilistic...by PDL Howe · 2022 · Cited by 12 — Previous research suggests that people tend to...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_
 
 ## Introduction
 
-Public debates often treat policy success as obvious: a law is introduced, a statistic improves, and the policy receives the credit. This is a specific form of [post hoc reasoning]({{ 'false-cause/' | relative_url }}). Because the improvement happened after the policy, people assume the policy caused it. Yet social and economic outcomes are influenced by many forces at once. A falling crime rate, rising employment, improved health outcome, or stronger economy may reflect trends that were already under way, broader national changes, demographic shifts, seasonal patterns, or unrelated events occurring at the same time. The central question is not whether the outcome changed after the policy, but whether it changed because of the policy. Modern policy evaluation exists largely because simple before-and-after comparisons are often misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents1.worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents1.worldbank.org</span><span class="citation-popover-title">World Bank Impact Evaluation in Practice</span><span class="citation-popover-snippet">World BankImpact Evaluation in Practice - World Bank Documentby PJ Gertler · Cited by 2943 — Its main goal is to expand the evidence base...</span></span></span>
+Public debates often treat policy success as obvious: a law is introduced, a statistic improves, and the policy receives the credit. This is a specific form of [post hoc]({{ 'post-hoc/' | relative_url }}) reasoning. Because the improvement happened after the policy, people assume the policy caused it. Yet social and economic outcomes are influenced by many forces at once. A falling crime rate, rising employment, improved health outcome, or stronger economy may reflect trends that were already under way, broader national changes, demographic shifts, seasonal patterns, or unrelated events occurring at the same time. The central question is not whether the outcome changed after the policy, but whether it changed because of the policy. Modern policy evaluation exists largely because simple before-and-after comparisons are often misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents1.worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents1.worldbank.org</span><span class="citation-popover-title">World Bank Impact Evaluation in Practice</span><span class="citation-popover-snippet">World BankImpact Evaluation in Practice - World Bank Documentby PJ Gertler · Cited by 2943 — Its main goal is to expand the evidence base...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1-dark.svg" | relative_url }}" alt="Policy Timing illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -349,7 +349,7 @@ The same reasoning appears in debates about education reforms, public-health mea
 
 ## Better Ways to Judge Policy Effects
 
-Recognising the weakness of before-and-after comparisons does not mean policy effects are unknowable. Researchers have developed methods specifically designed to address the [post hoc]({{ 'post-hoc/' | relative_url }}) problem.
+Recognising the weakness of before-and-after comparisons does not mean policy effects are unknowable. Researchers have developed methods specifically designed to address the post hoc problem.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/anaICMRssm8" title="Impact Evaluation: Simplest Explanation Ever #impactevaluation #evaluation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=anaICMRssm8" target="_blank" rel="noopener noreferrer">Impact Evaluation: Simplest Explanation Ever #impactevaluation #evaluation</a></p><p class="youtube-embed-meta">Channel: M&amp;E Guru &middot; Views: 8.9K &middot; Uploaded: February 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=anaICMRssm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=anaICMRssm8">Open on YouTube</a></p></div></div></div>
@@ -358,7 +358,7 @@ Recognising the weakness of before-and-after comparisons does not mean policy ef
 
 One of the most common approaches is to compare areas affected by a policy with similar areas that were not affected.
 
-If employment rises where a programme was introduced but rises equally in comparable places without the programme, the policy may not deserve much credit. If the treated areas improve substantially more, the evidence becomes stronger. This logic underlies many quasi-experimental methods used in economics and public policy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dimewiki.worldbank.org/Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dimewiki.worldbank.org">[dimewiki.worldbank.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dimewiki.worldbank.org</span><span class="citation-popover-title">Difference-in-Differences | Dime Wiki</span><span class="citation-popover-snippet">World Bank7 Aug 2023 — Difference-in-differences combines these two methods to compare the before-and-after changes in outcomes for treat...</span></span></span>
+If employment rises where a programme was introduced but rises equally in comparable places without the programme, the policy may not deserve much credit. If the treated areas improve substantially more, the evidence becomes stronger. This logic underlies many quasi-experimental methods used in economics and public policy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dimewiki.worldbank.org/Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dimewiki.worldbank.org">[dimewiki.worldbank.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dimewiki.worldbank.org</span><span class="citation-popover-title">Difference-in-Differences &#124; Dime Wiki</span><span class="citation-popover-snippet">World Bank7 Aug 2023 — Difference-in-differences combines these two methods to compare the before-and-after changes in outcomes for treat...</span></span></span>
 
 ### Difference-in-Differences
 
@@ -380,7 +380,7 @@ Strong policy evaluation often combines several forms of evidence: <span class="
 * Tests for alternative explanations.
 * Evidence from different times and locations.
 
-The more a claimed effect survives these checks, the more confidence we can have that the policy genuinely contributed to the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-snippet">OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDApplying Evaluation Criteria ThoughtfullyThese guidelines provide a framework and advice to help evaluators consider interconnections...</span></span></span>
+The more a claimed effect survives these checks, the more confidence we can have that the policy genuinely contributed to the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-snippet">OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Applying Evaluation Criteria ThoughtfullyThese guidelines provide a framework and advice to help evaluators consider interconnections...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-3-dark.svg" | relative_url }}" alt="Policy Timing illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -821,197 +821,197 @@ These questions do not guarantee the right answer, but they shift the discussion
 1. <a id="endnote-1"></a>
    Source: documents1.worldbank.org  
    Title: World Bank Impact Evaluation in Practice  
-   Link: [https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf](https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World BankImpact Evaluation in Practice - World Bank Documentby PJ Gertler · Cited by 2943 — Its main goal is to expand the evidence base...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: legalinstruments.oecd.org  
-   Link: [https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478)  
+   Link: <a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: worldbank.org  
    Title: World Bank Impact Evaluation in Practice  
-   Link: [https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice)  
+   Link: <a href="https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact Evaluation in Practice - Second EditionJan 19, 2016 — The book incorporates real-world examples to present practical guidelines fo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: blogs.worldbank.org  
    Title: revisiting difference differences parallel trends assumption part i pre trend  
-   Link: [https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend](https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend)  
+   Link: <a href="https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsRevisiting the Difference-in-Differences Parallel Trends...Jan 21, 2020 — Difference-in-differences (DiD) analysis is on...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: blogs.worldbank.org  
    Title: when your difference differences has too many differences  
-   Link: [https://blogs.worldbank.org/en/impactevaluations/when-your-difference-differences-has-too-many-differences](https://blogs.worldbank.org/en/impactevaluations/when-your-difference-differences-has-too-many-differences)  
+   Link: <a href="https://blogs.worldbank.org/en/impactevaluations/when-your-difference-differences-has-too-many-differences" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/when-your-difference-differences-has-too-many-differences</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsWhen your difference-in-differences has too many differencesOct 14, 2020 — Recent papers have proposed methods to robusti...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html](https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDApplying Evaluation Criteria ThoughtfullyThese guidelines provide a framework and advice to help evaluators consider interconnections...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying Evaluation Criteria ThoughtfullyThese guidelines provide a framework and advice to help evaluators consider interconnections...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learned From CDC&#x27;s Prevention Research Centersby S Honeycutt · 2015 · Cited by 99 — Evaluating policy, systems, and environmental change...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dimewiki.worldbank.org  
    Title: Difference-in-Differences | Dime Wiki  
-   Link: [https://dimewiki.worldbank.org/Difference-in-Differences](https://dimewiki.worldbank.org/Difference-in-Differences)  
+   Link: <a href="https://dimewiki.worldbank.org/Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow">https://dimewiki.worldbank.org/Difference-in-Differences</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank7 Aug 2023 — Difference-in-differences combines these two methods to compare the before-and-after changes in outcomes for treat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: blogs.worldbank.org  
-   Link: [https://blogs.worldbank.org/en/impactevaluations/what-are-we-estimating-when-we-estimate-difference-differences](https://blogs.worldbank.org/en/impactevaluations/what-are-we-estimating-when-we-estimate-difference-differences)  
+   Link: <a href="https://blogs.worldbank.org/en/impactevaluations/what-are-we-estimating-when-we-estimate-difference-differences" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/what-are-we-estimating-when-we-estimate-difference-differences</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsWhat Are We Estimating When We Estimate Difference-in-...Sep 30, 2019 — In DD estimation, a researcher compares the chan...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11305929/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11305929/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAdvances in Difference-in-differences Methods for Policy...by G Wang · 2024 · Cited by 108 — Difference-in-differences (DiD) is a pow...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11305929/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11305929/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in Difference-in-differences Methods for Policy...by G Wang · 2024 · Cited by 108 — Difference-in-differences (DiD) is a pow...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
    Title: Public Policy Evaluation  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/02/implementation-toolkit-for-the-oecd-recommendation-on-public-policy-evaluation_f24516be/77faa4fe-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation ToolkitIt creates a robust framework of incentives, responsibilities and accountability of different government, encouragi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: legalinstruments.oecd.org  
-   Link: [https://legalinstruments.oecd.org/api/download/?name=policy-evaluation-comparative-study-highlights.pdf&uri=%2Fprivate%2Ftemp%2F7ecfe9af-5b05-4992-9a10-ebdc45a944a8.pdf](https://legalinstruments.oecd.org/api/download/?name=policy-evaluation-comparative-study-highlights.pdf&uri=%2Fprivate%2Ftemp%2F7ecfe9af-5b05-4992-9a10-ebdc45a944a8.pdf)  
+   Link: <a href="https://legalinstruments.oecd.org/api/download/?name=policy-evaluation-comparative-study-highlights.pdf&amp;uri=%2Fprivate%2Ftemp%2F7ecfe9af-5b05-4992-9a10-ebdc45a944a8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/api/download/?name=policy-evaluation-comparative-study-highlights.pdf&amp;uri=%2Fprivate%2Ftemp%2F7ecfe9af-5b05-4992-9a10-ebdc45a944a8.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It can help governments improve the design and implementation of public policies...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/about/projects/oecd-ec-project-on-policy-impact-evaluation-through-the-use-of-linked-administrative-and-survey-data.html](https://www.oecd.org/en/about/projects/oecd-ec-project-on-policy-impact-evaluation-through-the-use-of-linked-administrative-and-survey-data.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD-EC project on policy impact evaluation through the...These evaluations (especially counterfactual impact evaluations, CIEs) provide...</p></details>
+   Link: <a href="https://www.oecd.org/en/about/projects/oecd-ec-project-on-policy-impact-evaluation-through-the-use-of-linked-administrative-and-survey-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/about/projects/oecd-ec-project-on-policy-impact-evaluation-through-the-use-of-linked-administrative-and-survey-data.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EC project on policy impact evaluation through the...These evaluations (especially counterfactual impact evaluations, CIEs) provide...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: oecd.org  
    Title: ai in policy evaluation c88cc2fd  
-   Link: [https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html](https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/governing-with-artificial-intelligence_398fa287/full-report/ai-in-policy-evaluation_c88cc2fd.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in policy evaluation: Governing with Artificial Intelligence18 Sept 2025 — Some OECD countries have developed ways in which different...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: documents1.worldbank.org  
    Title: Impact evaluation in practice  
-   Link: [https://documents1.worldbank.org/curated/en/698441474029568469/pdf/Impact-evaluation-in-practice.pdf](https://documents1.worldbank.org/curated/en/698441474029568469/pdf/Impact-evaluation-in-practice.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/698441474029568469/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/698441474029568469/pdf/Impact-evaluation-in-practice.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation in Practice - World Bank Documentoutcome trends are different for the treatment and comparison groups, then the estimated trea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/entities/publication/dd5a1c37-56a7-5b90-a1f9-508e7a3a7632](https://openknowledge.worldbank.org/entities/publication/dd5a1c37-56a7-5b90-a1f9-508e7a3a7632)  
+   Link: <a href="https://openknowledge.worldbank.org/entities/publication/dd5a1c37-56a7-5b90-a1f9-508e7a3a7632" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/dd5a1c37-56a7-5b90-a1f9-508e7a3a7632</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Impact Evaluation in International Developmentby P Glewwe — The Impact Evaluation in Practice handbook is a com...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: blogs.worldbank.org  
    Title: can we trust shoestring evaluations  
-   Link: [https://blogs.worldbank.org/en/impactevaluations/can-we-trust-shoestring-evaluations](https://blogs.worldbank.org/en/impactevaluations/can-we-trust-shoestring-evaluations)  
+   Link: <a href="https://blogs.worldbank.org/en/impactevaluations/can-we-trust-shoestring-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/impactevaluations/can-we-trust-shoestring-evaluations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>we trust shoestring evaluations?Mar 7, 2012 — Probably the thing that practitioners would most like to avoid is the need for baseline dat...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/entities/publication/1b84ccc9-7f78-5398-8495-5daa1c85327c](https://openknowledge.worldbank.org/entities/publication/1b84ccc9-7f78-5398-8495-5daa1c85327c)  
+   Link: <a href="https://openknowledge.worldbank.org/entities/publication/1b84ccc9-7f78-5398-8495-5daa1c85327c" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/1b84ccc9-7f78-5398-8495-5daa1c85327c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Reconstructing Baseline Data for Impact...This note discusses the reasons why baseline studies are often not c...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/entities/publication/e9a20ecb-ad43-58ee-b66e-67ac6164c048](https://openknowledge.worldbank.org/entities/publication/e9a20ecb-ad43-58ee-b66e-67ac6164c048)  
+   Link: <a href="https://openknowledge.worldbank.org/entities/publication/e9a20ecb-ad43-58ee-b66e-67ac6164c048" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/e9a20ecb-ad43-58ee-b66e-67ac6164c048</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Behind the ScenesThis paper aims at filling this gap by describing and discussing experiences from four large i...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: worldbank.org  
    Title: impact evaluations  
-   Link: [https://www.worldbank.org/en/topic/education/publication/impact-evaluations](https://www.worldbank.org/en/topic/education/publication/impact-evaluations)  
+   Link: <a href="https://www.worldbank.org/en/topic/education/publication/impact-evaluations" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/topic/education/publication/impact-evaluations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for Education PolicyOct 10, 2024 — Covering early childhood to secondary education, this publication compiles a decade&#x27;s worth of educati...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ifs.org.uk  
-   Link: [https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt](https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt)  
+   Link: <a href="https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/sites/default/files/output_url_files/oxb08_pol_eval.ppt</a>  
 
 22. <a id="endnote-22"></a>
    Source: betterevaluation.org  
-   Link: [https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation](https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation)  
+   Link: <a href="https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/methods-approaches/themes/impact-evaluation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Better EvaluationImpact evaluationAn impact evaluation provides information about the observed changes or &#x27;impacts&#x27; produced by an interv...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: publications.jrc.ec.europa.eu  
-   Link: [https://publications.jrc.ec.europa.eu/repository/handle/JRC74778](https://publications.jrc.ec.europa.eu/repository/handle/JRC74778)  
+   Link: <a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC74778" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/handle/JRC74778</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsA note on the impact evaluation of public policiesby M LOI · Cited by 58 — This report describes concisely, and in an int...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: fsnnetwork.org  
    Title: world bank impact evaluation in practice  
-   Link: [https://fsnnetwork.org/sites/default/files/world_bank_-_impact_evaluation_in_practice.pdf](https://fsnnetwork.org/sites/default/files/world_bank_-_impact_evaluation_in_practice.pdf)  
+   Link: <a href="https://fsnnetwork.org/sites/default/files/world_bank_-_impact_evaluation_in_practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fsnnetwork.org/sites/default/files/world_bank_-_impact_evaluation_in_practice.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact Evaluation in Practiceby PJ Gertler · Cited by 2943 — It is also dependent on the availability of data with sufficient coverage of...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/World](https://en.wikipedia.org/wiki/World)  
+   Link: <a href="https://en.wikipedia.org/wiki/World" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WorldThe world or universe is commonly defined as &quot;the totality of all space and time; all that is, has been, and will be&quot;...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ieg.worldbankgroup.org  
-   Link: [https://ieg.worldbankgroup.org/sites/default/files/Data/reports/oed_impact_evaluation_methods.pdf](https://ieg.worldbankgroup.org/sites/default/files/Data/reports/oed_impact_evaluation_methods.pdf)  
+   Link: <a href="https://ieg.worldbankgroup.org/sites/default/files/Data/reports/oed_impact_evaluation_methods.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ieg.worldbankgroup.org/sites/default/files/Data/reports/oed_impact_evaluation_methods.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Impact Evaluation Methodologies Used By The...by AG Kapoor · Cited by 22 — This method is often used in situations where an intervent...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: betterevaluation.org  
-   Link: [https://www.betterevaluation.org/methods-approaches/methods/difference-difference](https://www.betterevaluation.org/methods-approaches/methods/difference-difference)  
+   Link: <a href="https://www.betterevaluation.org/methods-approaches/methods/difference-difference" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/methods-approaches/methods/difference-difference</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Difference-in-differenceDifference-in-difference involves comparing the before-and-after difference for the group receiving the intervent...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/25631/chapter/4](https://www.nationalacademies.org/read/25631/chapter/4)  
+   Link: <a href="https://www.nationalacademies.org/read/25631/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/25631/chapter/4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 3 Policy-Relevant Evidence for Population HealthRead chapter 3 Policy-Relevant Evidence for Population Health: Promise and Chall...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: dmeo.gov.in  
-   Link: [https://dmeo.gov.in/sites/default/files/2022-01/Difference%20in%20Differences.docx](https://dmeo.gov.in/sites/default/files/2022-01/Difference%20in%20Differences.docx)  
+   Link: <a href="https://dmeo.gov.in/sites/default/files/2022-01/Difference%20in%20Differences.docx" target="_blank" rel="noopener noreferrer nofollow">https://dmeo.gov.in/sites/default/files/2022-01/Difference%20in%20Differences.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Difference in Differences.docxA treatment group is enrolled in a program, and a comparison group is not enrolled. The before-and-after ou...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: goltc.org  
-   Link: [https://goltc.org/publications/difference-in-differences-approach/](https://goltc.org/publications/difference-in-differences-approach/)  
+   Link: <a href="https://goltc.org/publications/difference-in-differences-approach/" target="_blank" rel="noopener noreferrer nofollow">https://goltc.org/publications/difference-in-differences-approach/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Difference-in-Differences approachDifference-in-differences (DiD) is a quasi-experimental method used to estimate the effect of an interv...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/rausp/article/54/4/519/359801/Impact-evaluation-using-Difference-in-Differences](https://www.emerald.com/rausp/article/54/4/519/359801/Impact-evaluation-using-Difference-in-Differences)  
+   Link: <a href="https://www.emerald.com/rausp/article/54/4/519/359801/Impact-evaluation-using-Difference-in-Differences" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/rausp/article/54/4/519/359801/Impact-evaluation-using-Difference-in-Differences</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact evaluation using Difference-in-DifferencesThis double difference can be calculated whenever treatment and control group data on th...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: congreso.es  
-   Link: [https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_14/spl_52/pdfs/28.pdf](https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_14/spl_52/pdfs/28.pdf)  
+   Link: <a href="https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_14/spl_52/pdfs/28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.congreso.es/docu/docum/ddocum/dosieres/sleg/legislatura_14/spl_52/pdfs/28.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Governance with Policy EvaluationFailing to rise to the policy evaluation challenge may entail serious consequences for economi...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: scienceetbiencommun.pressbooks.pub  
-   Link: [https://scienceetbiencommun.pressbooks.pub/pubpolevaluation/chapter/difference-in-differences-method/](https://scienceetbiencommun.pressbooks.pub/pubpolevaluation/chapter/difference-in-differences-method/)  
+   Link: <a href="https://scienceetbiencommun.pressbooks.pub/pubpolevaluation/chapter/difference-in-differences-method/" target="_blank" rel="noopener noreferrer nofollow">https://scienceetbiencommun.pressbooks.pub/pubpolevaluation/chapter/difference-in-differences-method/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pressbooks.pubDifference-in-differences Method – Policy Evaluationby D Fougère · Cited by 5 — The difference-in-differences method is a q...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: americanprogress.org  
    Title: measuring the health outcomes of social economic and environmental policies  
-   Link: [https://www.americanprogress.org/article/measuring-the-health-outcomes-of-social-economic-and-environmental-policies/](https://www.americanprogress.org/article/measuring-the-health-outcomes-of-social-economic-and-environmental-policies/)  
+   Link: <a href="https://www.americanprogress.org/article/measuring-the-health-outcomes-of-social-economic-and-environmental-policies/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanprogress.org/article/measuring-the-health-outcomes-of-social-economic-and-environmental-policies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Health Outcomes of Social, Economic, and...18 Apr 2022 — A variety of analytic tools can clarify public health priorities...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/polaris/media/pdfs/2024/09/UsingEvaluationtoInformCDCsPolicyProcess.pdf](https://www.cdc.gov/polaris/media/pdfs/2024/09/UsingEvaluationtoInformCDCsPolicyProcess.pdf)  
+   Link: <a href="https://www.cdc.gov/polaris/media/pdfs/2024/09/UsingEvaluationtoInformCDCsPolicyProcess.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/polaris/media/pdfs/2024/09/UsingEvaluationtoInformCDCsPolicyProcess.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• Understand the importance of using evaluation findings to inform the...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: planapp.gov.pt  
-   Link: [https://www.planapp.gov.pt/wp-content/uploads/2023/01/OECD-PLANAPP-Evaluation-M2.pdf](https://www.planapp.gov.pt/wp-content/uploads/2023/01/OECD-PLANAPP-Evaluation-M2.pdf)  
+   Link: <a href="https://www.planapp.gov.pt/wp-content/uploads/2023/01/OECD-PLANAPP-Evaluation-M2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.planapp.gov.pt/wp-content/uploads/2023/01/OECD-PLANAPP-Evaluation-M2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A majority of countries have developed a legal framework that guides policy evaluation across...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: cdn.ymaws.com  
-   Link: [https://cdn.ymaws.com/www.safestates.org/resource/resmgr/evaluation_resources_webpage/CDC_Policy_Evaluation_Briefs.pdf](https://cdn.ymaws.com/www.safestates.org/resource/resmgr/evaluation_resources_webpage/CDC_Policy_Evaluation_Briefs.pdf)  
+   Link: <a href="https://cdn.ymaws.com/www.safestates.org/resource/resmgr/evaluation_resources_webpage/CDC_Policy_Evaluation_Briefs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.ymaws.com/www.safestates.org/resource/resmgr/evaluation_resources_webpage/CDC_Policy_Evaluation_Briefs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1: Overview of Policy EvaluationThis brief provides a definition of policy evaluation, including a description of the evaluation framewor...</p></details>

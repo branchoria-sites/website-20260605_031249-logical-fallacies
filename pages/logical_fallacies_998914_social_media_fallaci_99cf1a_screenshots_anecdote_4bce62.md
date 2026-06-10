@@ -272,13 +272,13 @@ A screenshot can be genuine and still support a false conclusion. A personal sto
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1-dark.svg" | relative_url }}" alt="Screenshots illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the wider world of social media fallacies and viral claims, screenshots and anecdotes are especially persuasive because they feel concrete. A cropped image appears to show exactly what happened. A first-person account sounds authentic because it comes from a real individual. Yet logical errors often arise not from fabricated evidence but from missing [context]({{ 'context/' | relative_url }}), missing scale, and unwarranted generalisation. Research on misinformation repeatedly shows that real photos, real posts, and real experiences can be repurposed or overinterpreted in ways that mislead audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">PBSOut-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
+Within the wider world of social media fallacies and viral claims, screenshots and anecdotes are especially persuasive because they feel concrete. A cropped image appears to show exactly what happened. A first-person account sounds authentic because it comes from a real individual. Yet logical errors often arise not from fabricated evidence but from missing [context]({{ 'context/' | relative_url }}), missing scale, and unwarranted generalisation. Research on misinformation repeatedly shows that real photos, real posts, and real experiences can be repurposed or overinterpreted in ways that mislead audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
 ## What Screenshots Leave Out
 
 A screenshot has one major advantage in online arguments: it looks like proof. Unlike a rumour or unsupported assertion, it appears to provide direct visual evidence. The problem is that screenshots capture only a selected moment.
 
-A cropped image may omit what came before or after a statement. A screenshot of a social media post may exclude replies that clarify the meaning. A photograph may be authentic but attached to a false description. Researchers studying misinformation have identified “out-of-context” content as one of the most effective forms of online deception because it uses genuine material while changing its interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">PBSOut-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
+A cropped image may omit what came before or after a statement. A screenshot of a social media post may exclude replies that clarify the meaning. A photograph may be authentic but attached to a false description. Researchers studying misinformation have identified “out-of-context” content as one of the most effective forms of online deception because it uses genuine material while changing its interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
 Consider a common viral pattern:
 
@@ -294,9 +294,9 @@ Consider a common viral pattern:
 
 The screenshot itself may be authentic. The conclusion may still be wrong.
 
-Fact-checking organisations repeatedly encounter cases where real images, videos, or screenshots are relabelled, misdated, or detached from their original setting. Reuters Fact Check regularly documents examples in which genuine visuals are presented with inaccurate descriptions, leading audiences to infer events that never occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">ReutersReuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
+Fact-checking organisations repeatedly encounter cases where real images, videos, or screenshots are relabelled, misdated, or detached from their original setting. Reuters Fact Check regularly documents examples in which genuine visuals are presented with inaccurate descriptions, leading audiences to infer events that never occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</span></span></span>
 
-Another limitation is that screenshots conceal verification clues. A shared image often removes links, timestamps, account histories, edits, and surrounding discussion. Once information becomes an image rather than a clickable post, independent checking becomes more difficult. Researchers examining misinformation spread through screenshots note that users frequently share screenshot content without verifying whether the original post was genuine or manipulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">why people still fall for fake screenshots</span><span class="citation-popover-snippet">PoynterWhy people still fall for fake screenshots13 Feb 2020 — The surge of misinformation accompanying the coronavirus outbreak has incl...</span></span></span>
+Another limitation is that screenshots conceal verification clues. A shared image often removes links, timestamps, account histories, edits, and surrounding discussion. Once information becomes an image rather than a clickable post, independent checking becomes more difficult. Researchers examining misinformation spread through screenshots note that users frequently share screenshot content without verifying whether the original post was genuine or manipulated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poynter.org">[Poynter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poynter.org</span><span class="citation-popover-title">why people still fall for fake screenshots</span><span class="citation-popover-snippet">Why people still fall for fake screenshots13 Feb 2020 — The surge of misinformation accompanying the coronavirus outbreak has incl...</span></span></span>
 
 ### Why “Digital Receipts” Feel More Convincing Than They Are
 
@@ -316,7 +316,7 @@ They do not automatically answer:
 
 </div>
 
-The logical mistake occurs when readers move from “this screenshot is real” to “therefore the broader claim is true”. The first proposition may be correct while the second remains unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">PBSOut-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
+The logical mistake occurs when readers move from “this screenshot is real” to “therefore the broader claim is true”. The first proposition may be correct while the second remains unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjISO-juArY" title="Anecdotal Fallacy: A Data Point of One Is Not Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer">Anecdotal Fallacy: A Data Point of One Is Not Evidence</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design &middot; Views: 36 &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjISO-juArY">Open on YouTube</a></p></div></div></div>
@@ -331,7 +331,7 @@ Suppose someone writes:
 
 That leap from one case to a broad conclusion is the classic hasty generalisation fallacy. Philosophers and critical-thinking scholars define anecdotal reasoning as problematic when it substitutes a limited sample for systematic evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAnecdotal Evidence. This is fallacious generalizing on the basis of some story that provides...</span></span></span>
 
-Online platforms amplify this tendency because stories are memorable. Research on scientific reasoning and misinformation suggests that [anecdotal evidence]({{ 'anecdotes/' | relative_url }}) can exert a powerful influence on judgement, even when stronger statistical evidence points elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central When and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
+Online platforms amplify this tendency because stories are memorable. Research on scientific reasoning and misinformation suggests that anecdotal evidence can exert a powerful influence on judgement, even when stronger statistical evidence points elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central When and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
 
 A viral post might say:
 
@@ -367,7 +367,7 @@ Anecdotes can be:
 
 For example, a single customer complaint may reveal a genuine problem. It does not automatically establish how common the problem is. Likewise, one success story may demonstrate that an outcome is possible without showing that it is likely.
 
-The logical question is not merely “Did this happen?” but “What does this example allow us to conclude?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">ScribbrThe hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</span></span></span>
+The logical question is not merely “Did this happen?” but “What does this example allow us to conclude?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gE9dFM4Bs0k" title="WATCH: How to spot misinformation online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gE9dFM4Bs0k" target="_blank" rel="noopener noreferrer">WATCH: How to spot misinformation online</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 37.7K &middot; Uploaded: July 2020 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gE9dFM4Bs0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gE9dFM4Bs0k">Open on YouTube</a></p></div></div></div>
@@ -437,7 +437,7 @@ The most misleading online evidence is often not fabricated evidence. It is evid
 
 A genuine screenshot can hide the context needed to understand an event. A truthful anecdote can hide the scale needed to judge a broader claim. In both cases, the fallacy emerges when readers treat a fragment as the whole picture.
 
-Recognising this distinction helps separate two different questions that social media often merges together: whether a piece of evidence is authentic, and whether it actually proves the conclusion being claimed. Those questions are not the same, and confusing them is one of the easiest ways for viral misinformation to acquire the appearance of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">PBSOut-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central When and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
+Recognising this distinction helps separate two different questions that social media often merges together: whether a piece of evidence is authentic, and whether it actually proves the conclusion being claimed. Those questions are not the same, and confusing them is one of the easiest ways for viral misinformation to acquire the appearance of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central When and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -861,103 +861,103 @@ Recognising this distinction helps separate two different questions that social 
 1. <a id="endnote-1"></a>
    Source: pbs.org  
    Title: out of context photos are a powerful low tech form of misinformation  
-   Link: [https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation](https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBSOut-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</p></details>
+   Link: <a href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/fact-check/](https://www.reuters.com/fact-check/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersReuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
+   Link: <a href="https://www.reuters.com/fact-check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reuters Fact CheckReuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartia...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: poynter.org  
    Title: why people still fall for fake screenshots  
-   Link: [https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/](https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PoynterWhy people still fall for fake screenshots13 Feb 2020 — The surge of misinformation accompanying the coronavirus outbreak has incl...</p></details>
+   Link: <a href="https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/" target="_blank" rel="noopener noreferrer nofollow">https://www.poynter.org/fact-checking/2020/why-people-still-fall-for-fake-screenshots/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why people still fall for fake screenshots13 Feb 2020 — The surge of misinformation accompanying the coronavirus outbreak has incl...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/](https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrThe hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</p></details>
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: [https://en.wikipedia.org/wiki/Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
 6. <a id="endnote-6"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
    Title: types sources and claims covid 19 misinformation  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types, sources, and claims of COVID-19 misinformation7 Apr 2020 — In this factsheet we identify some of the main types, sources, and clai...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Wikipedia%3AAIB](https://en.wikipedia.org/wiki/Wikipedia%3AAIB)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia:Requests for comment/AI imagesIllustrating a living person with an AI-generated image might misinform as to how that person...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AAIB" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AAIB</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Requests for comment/AI imagesIllustrating a living person with an AI-generated image might misinform as to how that person...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAnecdotal Evidence. This is fallacious generalizing on the basis of some story that provides...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central When and why do people act on flawed science?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/124043941594409/posts/761926247806172/](https://www.facebook.com/groups/124043941594409/posts/761926247806172/)  
+   Link: <a href="https://www.facebook.com/groups/124043941594409/posts/761926247806172/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/124043941594409/posts/761926247806172/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes vs Data in Decision MakingThe problem with using anecdotes to make decisions is that the effects of an intervention can only be...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/](https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: Anecdotal evidence is very much *valid* evidence.The trendy sentiment that any anecdotal evidence MUST be invalid and the only valid...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad](https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad)  
+   Link: <a href="https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40drmozellemartin/the-screenshot-fallacy-why-digital-receipts-often-mislead-5f15b72e66ad</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Screenshot Fallacy: Why Digital “Receipts” Often MisleadScreenshots feel like evidence, but without context, timing, and motive, they...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jjISO-juArY](https://www.youtube.com/watch?v=jjISO-juArY)  
+   Link: <a href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jjISO-juArY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal Fallacy: A Data Point of One Is Not EvidenceWhy does one vivid customer story outweigh months of research? This week on the Cog...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cris.maastrichtuniversity.nl  
    Title: Proceedings Dialnet SmartEthicsInTheDigitalWorld 969458  
-   Link: [https://cris.maastrichtuniversity.nl/files/187261304/Proceedings_Dialnet-SmartEthicsInTheDigitalWorld-969458.pdf](https://cris.maastrichtuniversity.nl/files/187261304/Proceedings_Dialnet-SmartEthicsInTheDigitalWorld-969458.pdf)  
+   Link: <a href="https://cris.maastrichtuniversity.nl/files/187261304/Proceedings_Dialnet-SmartEthicsInTheDigitalWorld-969458.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/files/187261304/Proceedings_Dialnet-SmartEthicsInTheDigitalWorld-969458.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>maastrichtuniversity.nl(Ref)using AI1 Jan 2024 — As the research has progressed, the context has shifted to online graduate students in c...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Sample-screenshots-of-the-top-of-an-article-about-a-true-left-and-false-right-claim_fig3_371348003](https://www.researchgate.net/figure/Sample-screenshots-of-the-top-of-an-article-about-a-true-left-and-false-right-claim_fig3_371348003)  
+   Link: <a href="https://www.researchgate.net/figure/Sample-screenshots-of-the-top-of-an-article-about-a-true-left-and-false-right-claim_fig3_371348003" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Sample-screenshots-of-the-top-of-an-article-about-a-true-left-and-false-right-claim_fig3_371348003</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval practice is one way to increase memory, thus multiple-choice...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/factcheckPH.assortedge/posts/manipulated-content-uses-real-factsbut-bends-them-just-enough-to-mislead-its-not/1108237698010220/](https://www.facebook.com/factcheckPH.assortedge/posts/manipulated-content-uses-real-factsbut-bends-them-just-enough-to-mislead-its-not/1108237698010220/)  
+   Link: <a href="https://www.facebook.com/factcheckPH.assortedge/posts/manipulated-content-uses-real-factsbut-bends-them-just-enough-to-mislead-its-not/1108237698010220/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/factcheckPH.assortedge/posts/manipulated-content-uses-real-factsbut-bends-them-just-enough-to-mislead-its-not/1108237698010220/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ctive visuals, or framing things to push a certain narrative.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: newsinitiative.withgoogle.com  
-   Link: [https://newsinitiative.withgoogle.com/resources/trainings/fact-check-explorer/](https://newsinitiative.withgoogle.com/resources/trainings/fact-check-explorer/)  
+   Link: <a href="https://newsinitiative.withgoogle.com/resources/trainings/fact-check-explorer/" target="_blank" rel="noopener noreferrer nofollow">https://newsinitiative.withgoogle.com/resources/trainings/fact-check-explorer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact check images on Fact Check ExplorerFact Check Explorer gives journalists and fact checkers a deeper way to learn about an image or t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: interaliaproject.com  
    Title: Social (Media) Inclusion  
-   Link: [https://interaliaproject.com/wp-content/uploads/2021/03/SMI-Toolkit.pdf](https://interaliaproject.com/wp-content/uploads/2021/03/SMI-Toolkit.pdf)  
+   Link: <a href="https://interaliaproject.com/wp-content/uploads/2021/03/SMI-Toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://interaliaproject.com/wp-content/uploads/2021/03/SMI-Toolkit.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inter AliaThis project rotates around the concept and perception of good and bad use of “social media” and the impact that this has on a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aclanthology.org  
    Title: 2026.eacl long.316  
-   Link: [https://aclanthology.org/2026.eacl-long.316.pdf](https://aclanthology.org/2026.eacl-long.316.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven [Emotional Framing](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) Impairs Human Fallacy...by Y Chen · 2026 · Cited by 1 — [Logical fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) are common in...</p></details>
+   Link: <a href="https://aclanthology.org/2026.eacl-long.316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2026.eacl-long.316.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven Emotional Framing Impairs Human Fallacy...by Y Chen · 2026 · Cited by 1 — [Logical fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) are common in public commu- nicati...</p></details>

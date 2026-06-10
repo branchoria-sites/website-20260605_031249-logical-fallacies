@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outra
 
 ## Introduction
 
-Moral outrage can be a healthy response to genuine wrongdoing. Anger at corruption, discrimination, abuse, or deception often motivates people to pay attention and demand accountability. The problem begins when the emotional force of outrage is treated as evidence. On [social media]({{ 'social-media/' | relative_url }}), posts that provoke anger or disgust frequently attract more engagement, making them more visible and more likely to be shared. As a result, misleading claims can spread not because they are well supported, but because they trigger strong moral reactions. Research increasingly suggests that outrage is not merely a response to misinformation; it can be one of the [mechanisms]({{ 'mechanisms/' | relative_url }}) that helps misinformation travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">Misinformation exploits outrage to spread online</span><span class="citation-popover-snippet">ScienceMisinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</span><span class="citation-popover-meta">Published: November 28, 2024</span></span></span>
+Moral outrage can be a healthy response to genuine wrongdoing. Anger at corruption, discrimination, abuse, or deception often motivates people to pay attention and demand accountability. The problem begins when the emotional force of outrage is treated as evidence. On [social media]({{ 'social-media/' | relative_url }}), posts that provoke anger or disgust frequently attract more engagement, making them more visible and more likely to be shared. As a result, misleading claims can spread not because they are well supported, but because they trigger strong moral reactions. Research increasingly suggests that outrage is not merely a response to misinformation; it can be one of the [mechanisms]({{ 'mechanisms/' | relative_url }}) that helps misinformation travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">Misinformation exploits outrage to spread online</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</span><span class="citation-popover-meta">Published: November 28, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-1-dark.svg" | relative_url }}" alt="Outrage illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,13 +286,13 @@ Social media platforms reward content that captures attention. Moral outrage is 
 
 Research on social networks has found that moral-emotional language increases sharing behaviour. One influential study examining political communication on Twitter found that moral and emotional expressions spread more readily through social networks than less emotionally charged messages. Later work has continued to find evidence of “moral contagion”, where moral-emotional content gains additional shares as it moves through online networks. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/41179848/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the effect size of moral contagion in online...by WJ Brady · 2025 · Cited by 23 — The estimate of moral contagion in the available popul...</span></span></span>
 
-Social reinforcement plays an important role. Users receive likes, reposts, supportive comments, and approval from their community when expressing outrage. Studies suggest that these feedback mechanisms can encourage people to express outrage more frequently over time, creating an environment in which anger becomes a socially rewarded communication style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralHow social learning amplifies moral outrage expression in...by WJ Brady · 2021 · Cited by 434 — Social reinforcement and n...</span></span></span>
+Social reinforcement plays an important role. Users receive likes, reposts, supportive comments, and approval from their community when expressing outrage. Studies suggest that these feedback mechanisms can encourage people to express outrage more frequently over time, creating an environment in which [anger]({{ 'anger/' | relative_url }}) becomes a socially rewarded communication style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralHow social learning amplifies moral outrage expression in...by WJ Brady · 2021 · Cited by 434 — Social reinforcement and n...</span></span></span>
 
 Importantly, this does not mean outrage is always artificial or insincere. People may be genuinely angry. The mechanism is that platforms often amplify engagement regardless of whether the underlying claim is accurate. If outrage attracts attention, both true information and false information can benefit from it.
 
 ## Why Misinformation and Outrage Fit Together So Easily
 
-Recent research has examined whether misinformation has a special relationship with outrage. A large study published in *Science* found that misinformation posts tended to evoke more moral outrage than trustworthy information and that this outrage helped drive sharing behaviour. Users were also more likely to share outrage-inducing misinformation without first examining it carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">Misinformation exploits outrage to spread online</span><span class="citation-popover-snippet">ScienceMisinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</span><span class="citation-popover-meta">Published: November 28, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencemediacentre.es">[2SMC España]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencemediacentre.es</span><span class="citation-popover-title">outrage facilitates spread misinformation social networks</span><span class="citation-popover-snippet">Outrage facilitates the spread of misinformation on social...28 Nov 2024 — According to a study, social media content containing misinfo...</span></span></span>
+Recent research has examined whether misinformation has a special relationship with outrage. A large study published in *Science* found that misinformation posts tended to evoke more moral outrage than trustworthy information and that this outrage helped drive sharing behaviour. Users were also more likely to share outrage-inducing misinformation without first examining it carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">Misinformation exploits outrage to spread online</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</span><span class="citation-popover-meta">Published: November 28, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencemediacentre.es">[2SMC España]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencemediacentre.es</span><span class="citation-popover-title">outrage facilitates spread misinformation social networks</span><span class="citation-popover-snippet">Outrage facilitates the spread of misinformation on social...28 Nov 2024 — According to a study, social media content containing misinfo...</span></span></span>
 
 One reason is that misinformation often presents events in morally simplified terms. Complex situations become stories with obvious villains and victims. Uncertainty disappears. Ambiguous evidence is reframed as undeniable proof. Such framing creates immediate emotional clarity, even when factual accuracy suffers.
 
@@ -312,7 +312,7 @@ Outrage does not create logical fallacies, but it can make them more convincing.
 
 ### Appeal to Emotion
 
-The most direct effect is the appeal to emotion. A post generates anger, disgust, or indignation and then relies on those feelings as support for its conclusion.
+The most direct effect is the appeal to [emotion]({{ 'emotion/' | relative_url }}). A post generates anger, disgust, or indignation and then relies on those feelings as support for its conclusion.
 
 The reasoning becomes:
 
@@ -358,7 +358,7 @@ Researchers studying misinformation and moral outrage found evidence that users 
 
 This helps explain why corrections often struggle to catch up. The original post may satisfy emotional and social needs. A later fact-check may address factual accuracy, but it does not necessarily provide the same emotional reward.
 
-Research on out-group hostility also suggests that content attacking perceived opponents generates particularly strong engagement. Posts that portray an opposing group as immoral or dangerous are therefore well positioned to trigger outrage-driven sharing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASEmotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1984 — JM Salerno, LC Peter-Hagene, The...</span></span></span>
+Research on out-group hostility also suggests that content attacking perceived opponents generates particularly strong engagement. Posts that portray an opposing group as immoral or dangerous are therefore well positioned to trigger outrage-driven sharing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1984 — JM Salerno, LC Peter-Hagene, The...</span></span></span>
 
 The result is a cycle:
 
@@ -786,7 +786,7 @@ The result is a cycle:
 </script>
 </section>
 
-2. Outrage increases engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASOut-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — We expected posts about the out-group to evo...</span></span></span>
+2. Outrage increases engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — We expected posts about the out-group to evo...</span></span></span>
 3. Engagement increases visibility.
 4. Increased visibility generates more outrage.
 5. The claim spreads further before verification catches up.
@@ -803,7 +803,7 @@ Several questions help:
 
 **What is the actual evidence?**
 
-Separate the facts from the [emotional framing]({{ 'fake-news/' | relative_url }}). Would the argument remain persuasive if the language were calmer?
+Separate the facts from the emotional framing. Would the argument remain persuasive if the language were calmer?
 
 **Does the conclusion exceed the evidence?**
 
@@ -825,7 +825,7 @@ Outrage often operates through group identity. Consistent standards help prevent
 
 The key logical lesson is simple: outrage can be justified, informative, and socially valuable, but it is not proof.
 
-A claim does not become true because it angers large numbers of people. Nor does widespread condemnation demonstrate that the reasoning behind a viral post is sound. Social media rewards attention, and outrage is one of the most powerful ways to attract it. Research increasingly indicates that misinformation can exploit this fact by provoking stronger moral reactions and encouraging rapid sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">Misinformation exploits outrage to spread online</span><span class="citation-popover-snippet">ScienceMisinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</span><span class="citation-popover-meta">Published: November 28, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/1065965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">EurekAlert!Moral outrage helps misinformation spread through social...Nov 28, 2024 — The researchers found that outrage-evoking posts fa...</span></span></span>
+A claim does not become true because it angers large numbers of people. Nor does widespread condemnation demonstrate that the reasoning behind a viral post is sound. Social media rewards attention, and outrage is one of the most powerful ways to attract it. Research increasingly indicates that misinformation can exploit this fact by provoking stronger moral reactions and encouraging rapid sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">Misinformation exploits outrage to spread online</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</span><span class="citation-popover-meta">Published: November 28, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/1065965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">EurekAlert!Moral outrage helps misinformation spread through social...Nov 28, 2024 — The researchers found that outrage-evoking posts fa...</span></span></span>
 
 Understanding this distinction helps readers preserve two important ideas at once: some issues genuinely deserve moral outrage, and even the most morally charged claim still requires evidence and valid reasoning.
 
@@ -834,153 +834,153 @@ Understanding this distinction helps readers preserve two important ideas at onc
 1. <a id="endnote-1"></a>
    Source: eurekalert.org  
    Title: news releases  
-   Link: [https://www.eurekalert.org/news-releases/1065965](https://www.eurekalert.org/news-releases/1065965)  
+   Link: <a href="https://www.eurekalert.org/news-releases/1065965" target="_blank" rel="noopener noreferrer nofollow">https://www.eurekalert.org/news-releases/1065965</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EurekAlert!Moral outrage helps misinformation spread through social...Nov 28, 2024 — The researchers found that outrage-evoking posts fa...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1618923114](https://www.pnas.org/doi/10.1073/pnas.1618923114)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASEmotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1984 — JM Salerno, LC Peter-Hagene, The...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1618923114" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1618923114</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1984 — JM Salerno, LC Peter-Hagene, The...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1186/s41235-020-00252-3](https://link.springer.com/article/10.1186/s41235-020-00252-3)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkReliance on [emotion](&amp;#123;&amp;#123; &#x27;emotion/&#x27; | relative_url &amp;#125;&amp;#125;) promotes belief in fake newsby C Martel · 2020 · Cited by 780 — In our current work, we assess th...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1186/s41235-020-00252-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s41235-020-00252-3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkReliance on emotion promotes belief in fake newsby C Martel · 2020 · Cited by 780 — In our current work, we assess th...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2024292118](https://www.pnas.org/doi/10.1073/pnas.2024292118)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASOut-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — We expected posts about the out-group to evo...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2024292118</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — We expected posts about the out-group to evo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-024-71263-z](https://www.nature.com/articles/s41598-024-71263-z)  
+   Link: <a href="https://www.nature.com/articles/s41598-024-71263-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-71263-z</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative online news articles are shared more to social...by J Watson · 2024 · Cited by 79 — Prior research demonstrates that news-relat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: science.org  
    Title: Misinformation exploits outrage to spread online  
-   Link: [https://www.science.org/doi/10.1126/science.adl2829](https://www.science.org/doi/10.1126/science.adl2829)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceMisinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</p></details>
    Published: November 28, 2024  
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41179848/](https://pubmed.ncbi.nlm.nih.gov/41179848/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41179848/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41179848/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the effect size of moral contagion in online...by WJ Brady · 2025 · Cited by 23 — The estimate of moral contagion in the available popul...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralHow social learning amplifies moral outrage expression in...by WJ Brady · 2021 · Cited by 434 — Social reinforcement and n...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencemediacentre.es  
    Title: outrage facilitates spread misinformation social networks  
-   Link: [https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks](https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks)  
+   Link: <a href="https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Outrage facilitates the spread of misinformation on social...28 Nov 2024 — According to a study, social media content containing misinfo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Reliance on emotion promotes belief in [fake news](&#123;&#123; 'fake-news/' | relative_url &#125;&#125;)  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralReliance on emotion promotes belief in fake news - PMC - NIHby C Martel · 2020 · Cited by 777 — More specifically within th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads](https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads)  
+   Link: <a href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — Psychological factors contribute significantly to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39607912/](https://pubmed.ncbi.nlm.nih.gov/39607912/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39607912/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39607912/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>exploits outrage to spread online - PubMedNovember 29, 2024 — We tested a hypothesis that misinformation exploits outrage to spread onlin...</p></details>
    Published: November 29, 2024  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anger](https://en.wikipedia.org/wiki/Anger)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anger" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anger</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Angeran intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28652356/](https://pubmed.ncbi.nlm.nih.gov/28652356/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28652356/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28652356/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shapes the diffusion of moralized content in social...by WJ Brady · 2017 · Cited by 1995 — We show that the expression of moral emotion...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: concepto.de  
-   Link: [https://concepto.de/moral/](https://concepto.de/moral/)  
+   Link: <a href="https://concepto.de/moral/" target="_blank" rel="noopener noreferrer nofollow">https://concepto.de/moral/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moral - Qué es, tipos, ejemplos y relación con la éticaLa moral es un conjunto de normas, costumbres, creencias y valores que forman part...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1566253524000782](https://www.sciencedirect.com/science/article/pii/S1566253524000782)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1566253524000782" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1566253524000782</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion detection for misinformation: A reviewby Z Liu · 2024 · Cited by 110 — This article comprehensively reviews emotion-based methods...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation exploits users&#x27; impulses to share moral outrage [52]. A combination of anger and disgust, moral outrage is typically exper...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451958825003082](https://www.sciencedirect.com/science/article/pii/S2451958825003082)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958825003082" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825003082</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anger, or anxiety—can increase sharing because they heighten user activation.... For misinformation interventions, this study offers a c...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: ssrc.org  
-   Link: [https://www.ssrc.org/grantees/investigating-digital-outrage-as-an-engine-of-disinformation/](https://www.ssrc.org/grantees/investigating-digital-outrage-as-an-engine-of-disinformation/)  
+   Link: <a href="https://www.ssrc.org/grantees/investigating-digital-outrage-as-an-engine-of-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssrc.org/grantees/investigating-digital-outrage-as-an-engine-of-disinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Science Research Council (SSRC)Investigating Digital Outrage as an Engine of DisinformationWe propose a psychological process mode...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: csh.ac.at  
-   Link: [https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/](https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/)  
+   Link: <a href="https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/" target="_blank" rel="noopener noreferrer nofollow">https://csh.ac.at/news/do-emotions-make-us-more-susceptible-to-misinformation-not-per-se-according-to-a-new-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Emotions Make Us More Susceptible to Misinformation...12 Mar 2025 — A new study out of the Complexity Science Hub challenges the beli...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: datasociety.net  
-   Link: [https://datasociety.net/library/re-experimental-evidence-of-massive-scale-emotional-contagion-through-social-networks/](https://datasociety.net/library/re-experimental-evidence-of-massive-scale-emotional-contagion-through-social-networks/)  
+   Link: <a href="https://datasociety.net/library/re-experimental-evidence-of-massive-scale-emotional-contagion-through-social-networks/" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/library/re-experimental-evidence-of-massive-scale-emotional-contagion-through-social-networks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Re: “Experimental evidence of massive-scale emotional...Jul 9, 2014 — Data &amp; Society community members wrote individually about “Experim...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: why does everything feel worse negative behavior spreads faster social media rew  
-   Link: [https://www.facebook.com/VICE/posts/why-does-everything-feel-worse-negative-behavior-spreads-faster-social-media-rew/1244941207498861/](https://www.facebook.com/VICE/posts/why-does-everything-feel-worse-negative-behavior-spreads-faster-social-media-rew/1244941207498861/)  
+   Link: <a href="https://www.facebook.com/VICE/posts/why-does-everything-feel-worse-negative-behavior-spreads-faster-social-media-rew/1244941207498861/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/why-does-everything-feel-worse-negative-behavior-spreads-faster-social-media-rew/1244941207498861/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does everything feel worse? Negative behavior...The numbers are frightening: A 2024 Yale study found that posts expressing moral out...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: csmapnyu.org  
    Title: emotion shapes the diffusion of moralized content in social networks  
-   Link: [https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks](https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks)  
+   Link: <a href="https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://csmapnyu.org/research/academic-research/emotion-shapes-the-diffusion-of-moralized-content-in-social-networks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Shapes the Diffusion of Moralized Content in...Jul 11, 2017 — We show that the expression of moral emotion is key for the spread...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3706598.3713909](https://dl.acm.org/doi/10.1145/3706598.3713909)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3706598.3713909" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3706598.3713909</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact-Checks Trigger Moral Outrage in Replies to...Particularly, users&#x27; reliance on emotions can promote their belief in misinformation [75]...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/0267257X.2025.2570739](https://www.tandfonline.com/doi/full/10.1080/0267257X.2025.2570739)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0267257X.2025.2570739" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0267257X.2025.2570739</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional contagion on social media: pathways, effects...by DCH Wilkie · 2025 · Cited by 3 — This study examines three discrete negativ...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: Social media posts containing misinformation evoke more moral  
-   Link: [https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/](https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/)  
+   Link: <a href="https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceMagazine/posts/social-media-posts-containing-misinformation-evoke-more-moral-outrage-than-posts/957029976288972/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 4, 2024 — Social media posts containing misinformation evoke more moral outrage than posts with trustworthy information, and tha...</p></details>
    Published: December 4, 2024  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
    Title: Emotion shapes the diffusion of moralized content in social  
-   Link: [https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks](https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks)  
+   Link: <a href="https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317947723_Emotion_shapes_the_diffusion_of_moralized_content_in_social_networks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies of online outrage highlight how moral-emotional expression can be preferentially amplified and rapidly escalated through sharing...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: news.yale.edu  
    Title: likes and shares teach people express more outrage online  
-   Link: [https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online](https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online)  
+   Link: <a href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow">https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>yale.edu&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAug 13, 2021 — Yale researchers looked at 12.7 million tweets fro...</p></details>

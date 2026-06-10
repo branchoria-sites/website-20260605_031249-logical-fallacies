@@ -538,7 +538,7 @@ Ad hominem reasoning shows the same boundary problem. “Do not trust her climat
 
 ## Evidence problems: when the support is real but too weak
 
-Informal fallacies are often not pure nonsense. They frequently contain a real observation, but the conclusion outruns it. Hasty generalisation is the everyday example: someone draws a broad conclusion from a sample that is too small, biased or unrepresentative. Scribbr defines it as drawing a conclusion from too few cases, while the Fallacy Files adds an important nuance: whether a sample is too small depends on the variability of the population being discussed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Hasty Generalization Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">Hasty Generalization Fallacy | Definition &amp; Examples</span></span></span>
+Informal fallacies are often not pure nonsense. They frequently contain a real observation, but the conclusion outruns it. Hasty generalisation is the everyday example: someone draws a broad conclusion from a sample that is too small, biased or unrepresentative. Scribbr defines it as drawing a conclusion from too few cases, while the Fallacy Files adds an important nuance: whether a sample is too small depends on the variability of the population being discussed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Hasty Generalization Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Hasty Generalization Fallacy &#124; Definition &amp; Examples</span></span></span>
 
 This matters because everyday evidence often arrives as stories. “My cousin took this remedy and felt better” is not worthless as a personal report, but it is too weak to establish that the remedy works generally. “The last two deliveries were late, so this company is unreliable” may be a reasonable warning if the deliveries were part of a wider pattern, but a weak generalisation if they were isolated [exceptions]({{ 'exceptions/' | relative_url }}) during a snowstorm. The fallacy is not using experience; it is pretending that limited experience settles a broader question.
 
@@ -922,236 +922,236 @@ That habit turns informal logic into a tool for proportion. It helps separate st
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/archives/fall2020/entries/logic-informal/](https://plato.stanford.edu/archives/fall2020/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2020/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>relevance and sufficiency, making the criteria for good argument acceptability, relevance and sufficiency (the “ARS” criteria). The premi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1708.01425](https://arxiv.org/abs/1708.01425)  
+   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
 5. <a id="endnote-5"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: scribbr.com  
    Title: Hasty Generalization Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.com/fallacies/hasty-generalization-fallacy/](https://www.scribbr.com/fallacies/hasty-generalization-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
 
 7. <a id="endnote-7"></a>
    Source: scribbr.com  
    Title: appeal to authority fallacy  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/](https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2212.07425](https://arxiv.org/abs/2212.07425)  
+   Link: <a href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.07425</a>  
 
 9. <a id="endnote-9"></a>
    Source: scribbr.com  
    Title: ad hominem fallacy  
-   Link: [https://www.scribbr.com/fallacies/ad-hominem-fallacy/](https://www.scribbr.com/fallacies/ad-hominem-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
 
 10. <a id="endnote-10"></a>
    Source: scribbr.com  
    Title: equivocation fallacy  
-   Link: [https://www.scribbr.com/fallacies/equivocation-fallacy/](https://www.scribbr.com/fallacies/equivocation-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/equivocation-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/equivocation-fallacy/</a>  
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall1997/entries/logic-informal/](https://plato.stanford.edu/archives/fall1997/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2021/entries/logic-informal/](https://plato.stanford.edu/archives/fall2021/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2003/entries/logic-informal/](https://plato.stanford.edu/archives/fall2003/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/win2004/entries/logic-informal/](https://plato.stanford.edu/archives/win2004/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
 
 16. <a id="endnote-16"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2013/entries/logic-informal/](https://plato.stanford.edu/archives/fall2013/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/logic-informal/</a>  
 
 17. <a id="endnote-17"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2008/entries/logic-informal/](https://plato.stanford.edu/archives/fall2008/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2008/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2008/entries/logic-informal/</a>  
 
 18. <a id="endnote-18"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2019/entries/logic-informal/](https://plato.stanford.edu/archives/fall2019/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
 
 19. <a id="endnote-19"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: [https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/](https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/)  
+   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
 
 20. <a id="endnote-20"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 21. <a id="endnote-21"></a>
    Source: informallogic.ca  
    Title: Informal Logic Godden and Walton 27.3  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/485/453](https://informallogic.ca/index.php/informal_logic/article/view/485/453)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/485/453" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/485/453</a>  
 
 22. <a id="endnote-22"></a>
    Source: informallogic.ca  
    Title: Informal Logic Selected Papers of J. Anthony Blair  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/4120/3214](https://informallogic.ca/index.php/informal_logic/article/view/4120/3214)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4120/3214" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4120/3214</a>  
 
 23. <a id="endnote-23"></a>
    Source: writingcenter.unc.edu  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Informal fallacy  
-   Link: [https://en.wikipedia.org/wiki/Informal_fallacy](https://en.wikipedia.org/wiki/Informal_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf](https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: amazon.com  
    Title: Argumentation Schemes  
-   Link: [https://www.amazon.com/Argumentation-Schemes-Douglas-Walton/dp/0521723744](https://www.amazon.com/Argumentation-Schemes-Douglas-Walton/dp/0521723744)  
+   Link: <a href="https://www.amazon.com/Argumentation-Schemes-Douglas-Walton/dp/0521723744" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Argumentation-Schemes-Douglas-Walton/dp/0521723744</a>  
 
 29. <a id="endnote-29"></a>
    Source: amazon.com  
    Title: Informal Logic: A Pragmatic Approach  
-   Link: [https://www.amazon.com/Informal-Logic-Pragmatic-Douglas-Walton/dp/0521886171](https://www.amazon.com/Informal-Logic-Pragmatic-Douglas-Walton/dp/0521886171)  
+   Link: <a href="https://www.amazon.com/Informal-Logic-Pragmatic-Douglas-Walton/dp/0521886171" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Informal-Logic-Pragmatic-Douglas-Walton/dp/0521886171</a>  
 
 30. <a id="endnote-30"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/7210/5372](https://informallogic.ca/index.php/informal_logic/article/view/7210/5372)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/7210/5372" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/7210/5372</a>  
 
 31. <a id="endnote-31"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2147/1591](https://informallogic.ca/index.php/informal_logic/article/view/2147/1591)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2147/1591" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2147/1591</a>  
 
 32. <a id="endnote-32"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2990/2442](https://informallogic.ca/index.php/informal_logic/article/view/2990/2442)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2990/2442</a>  
 
 33. <a id="endnote-33"></a>
    Source: erudit.org  
    Title: Informal Logic  
-   Link: [https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf](https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf)  
+   Link: <a href="https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/en/journals/informallogic/2023-v43-n1-informallogic07982/1099208ar.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/9780521713801](https://www.cambridge.org/9780521713801)  
+   Link: <a href="https://www.cambridge.org/9780521713801" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/9780521713801</a>  
 
 35. <a id="endnote-35"></a>
    Source: askphilosophers.org  
-   Link: [https://www.askphilosophers.org/question/26292](https://www.askphilosophers.org/question/26292)  
+   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
 
 36. <a id="endnote-36"></a>
    Source: academia.edu  
    Title: Informal logic and argumentation An Alta conversation  
-   Link: [https://www.academia.edu/10685404/Informal_logic_and_argumentation_An_Alta_conversation](https://www.academia.edu/10685404/Informal_logic_and_argumentation_An_Alta_conversation)  
+   Link: <a href="https://www.academia.edu/10685404/Informal_logic_and_argumentation_An_Alta_conversation" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10685404/Informal_logic_and_argumentation_An_Alta_conversation</a>  
 
 37. <a id="endnote-37"></a>
    Source: ndpr.nd.edu  
    Title: argumentation schemes  
-   Link: [https://ndpr.nd.edu/reviews/argumentation-schemes/](https://ndpr.nd.edu/reviews/argumentation-schemes/)  
+   Link: <a href="https://ndpr.nd.edu/reviews/argumentation-schemes/" target="_blank" rel="noopener noreferrer nofollow">https://ndpr.nd.edu/reviews/argumentation-schemes/</a>  
 
 38. <a id="endnote-38"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
 
 39. <a id="endnote-39"></a>
    Source: aladin.co.kr  
-   Link: [https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1696156&srsltid=AfmBOoozFzM7aBOdaH7QDfVO_8AK91HWvQ7Sj7zht_T5X37FQ3w5xtQa](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1696156&srsltid=AfmBOoozFzM7aBOdaH7QDfVO_8AK91HWvQ7Sj7zht_T5X37FQ3w5xtQa)  
+   Link: <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1696156&amp;srsltid=AfmBOoozFzM7aBOdaH7QDfVO_8AK91HWvQ7Sj7zht_T5X37FQ3w5xtQa" target="_blank" rel="noopener noreferrer nofollow">https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=1696156&amp;srsltid=AfmBOoozFzM7aBOdaH7QDfVO_8AK91HWvQ7Sj7zht_T5X37FQ3w5xtQa</a>  
 
 40. <a id="endnote-40"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
 41. <a id="endnote-41"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 ### Additional References
 
 42. <a id="endnote-42"></a>
    Source: philpapers.org  
    Title: Phil Papers Relevance, Acceptability, and Sufficiency Today  
-   Link: [https://philpapers.org/rec/BLARAA-4](https://philpapers.org/rec/BLARAA-4)  
+   Link: <a href="https://philpapers.org/rec/BLARAA-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/BLARAA-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blairby J Blair · 2007 · Cited by 39 — In Logical Self-Defense, Johnson and I introduced the criteria of acceptability, relevance and suf...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10730665/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10730665/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMeasuring university students&#x27; ability to recognize argument...by Y Berkle · 2023 · Cited by 9 — An informal argument is expressed in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10730665/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10730665/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring university students&#x27; ability to recognize argument...by Y Berkle · 2023 · Cited by 9 — An informal argument is expressed in...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Critical Reasoning  
-   Link: [https://www.youtube.com/watch?v=ZTyrLIjRcsw](https://www.youtube.com/watch?v=ZTyrLIjRcsw)  
+   Link: <a href="https://www.youtube.com/watch?v=ZTyrLIjRcsw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZTyrLIjRcsw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Ad Hominem [HD] - CRITICAL THINKING...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/106715108/Informal_Logic_and_Logic](https://www.academia.edu/106715108/Informal_Logic_and_Logic)  
+   Link: <a href="https://www.academia.edu/106715108/Informal_Logic_and_Logic" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/106715108/Informal_Logic_and_Logic</a>  
 
 46. <a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems](https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems)  
+   Link: <a href="https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems</a>  
 
 47. <a id="endnote-47"></a>
    Source: amazon.nl  
-   Link: [https://www.amazon.nl/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949](https://www.amazon.nl/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949)  
+   Link: <a href="https://www.amazon.nl/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949</a>  
 
 48. <a id="endnote-48"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/](https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/)  
+   Link: <a href="https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/</a>  
 
 49. <a id="endnote-49"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/groundwork-in-the-theory-of-argumentation-3bpwsq7jsj.pdf](https://scispace.com/pdf/groundwork-in-the-theory-of-argumentation-3bpwsq7jsj.pdf)  
+   Link: <a href="https://scispace.com/pdf/groundwork-in-the-theory-of-argumentation-3bpwsq7jsj.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/groundwork-in-the-theory-of-argumentation-3bpwsq7jsj.pdf</a>  
 
 50. <a id="endnote-50"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
 
 51. <a id="endnote-51"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/intro-logic-ch-3-doc/35795416](https://www.slideshare.net/slideshow/intro-logic-ch-3-doc/35795416)  
+   Link: <a href="https://www.slideshare.net/slideshow/intro-logic-ch-3-doc/35795416" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/intro-logic-ch-3-doc/35795416</a>  

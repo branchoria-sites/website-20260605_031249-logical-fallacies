@@ -566,7 +566,7 @@ The 737 MAX example also shows why “culture” language can cut both ways. A g
 
 ## A case pattern: Tesla safety statistics
 
-Tesla’s Full Self-Driving and Autopilot communications show a more statistical form of red herring. The company publishes a safety report built around vehicle telemetry, miles driven, road classifications and collision events. It also states that older Tesla vehicles without active safety features serve as a proxy for the average US vehicle because the average US vehicle is around 12 years old. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tesla.com">[Tesla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tesla.com</span><span class="citation-popover-title">Full Self-Driving (Supervised) Vehicle Safety Report | Tesla</span><span class="citation-popover-snippet">Full Self-Driving (Supervised) Vehicle Safety Report | Tesla</span></span></span>
+Tesla’s Full Self-Driving and Autopilot communications show a more statistical form of red herring. The company publishes a safety report built around vehicle telemetry, miles driven, road classifications and collision events. It also states that older Tesla vehicles without active safety features serve as a proxy for the average US vehicle because the average US vehicle is around 12 years old. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tesla.com">[Tesla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tesla.com</span><span class="citation-popover-title">Full Self-Driving (Supervised) Vehicle Safety Report &#124; Tesla</span><span class="citation-popover-snippet">Full Self-Driving (Supervised) Vehicle Safety Report &#124; Tesla</span></span></span>
 
 That kind of data presentation may look directly relevant because it uses safety metrics. The red herring risk lies in the comparison. Reuters reported in May 2026 that Tesla leaders had claimed Full Self-Driving was up to 10 times safer than human drivers, while researchers criticised the methodology as using invalid comparisons, including comparing Tesla airbag-deployment crashes with broader federal crash data. Reuters also reported that former Tesla data labelers said the system still struggled with basic tasks such as school buses, emergency vehicles and pedestrians. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1032,136 +1032,136 @@ This is where fallacy analysis becomes practical. Calling something a red herrin
 
 1. <a id="endnote-1"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities](https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities)  
+   Link: <a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities</a>  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/](https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/)  
+   Link: <a href="https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/</a>  
 
 3. <a id="endnote-3"></a>
    Source: tesla.com  
    Title: Full Self-Driving (Supervised) Vehicle Safety Report | Tesla  
-   Link: [https://www.tesla.com/fsd/safety](https://www.tesla.com/fsd/safety)  
+   Link: <a href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer nofollow">https://www.tesla.com/fsd/safety</a>  
 
 4. <a id="endnote-4"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation](https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation)  
+   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
 
 5. <a id="endnote-5"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: Peloton Recalls Treadmills After Dozens of Injuries and a Child Death  
-   Link: [https://www.wired.com/story/peloton-treadmill-recall](https://www.wired.com/story/peloton-treadmill-recall)  
+   Link: <a href="https://www.wired.com/story/peloton-treadmill-recall" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/peloton-treadmill-recall</a>  
 
 7. <a id="endnote-7"></a>
    Source: democrats-transportation.house.gov  
-   Link: [https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation](https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation)  
+   Link: <a href="https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation" target="_blank" rel="noopener noreferrer nofollow">https://democrats-transportation.house.gov/committee-activity/boeing-737-max-investigation</a>  
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-issues-revised-green-guides/greenguides.pdf](https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-issues-revised-green-guides/greenguides.pdf)  
+   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-issues-revised-green-guides/greenguides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-issues-revised-green-guides/greenguides.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Recalls](https://www.cpsc.gov/Recalls)  
+   Link: <a href="https://www.cpsc.gov/Recalls" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Recalls</a>  
 
 10. <a id="endnote-10"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/s3fs-public/8002.pdf](https://www.cpsc.gov/s3fs-public/8002.pdf)  
+   Link: <a href="https://www.cpsc.gov/s3fs-public/8002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/8002.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU](https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU)  
+   Link: <a href="https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/PelotonInteractiveIncProvSettlementAgreementandOrder23C0001p.pdf?VersionId=YuhGXkjUY2F3.hebomfETs04xZqiIRxU</a>  
 
 12. <a id="endnote-12"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-Repair-Approved-Protects-Consumers-from-Entrapment-Hazards-One-Child-Death-and-90-Injuries-Reported](https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-Repair-Approved-Protects-Consumers-from-Entrapment-Hazards-One-Child-Death-and-90-Injuries-Reported)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-Repair-Approved-Protects-Consumers-from-Entrapment-Hazards-One-Child-Death-and-90-Injuries-Reported" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-Repair-Approved-Protects-Consumers-from-Entrapment-Hazards-One-Child-Death-and-90-Injuries-Reported</a>  
 
 13. <a id="endnote-13"></a>
    Source: transportation.gov  
    Title: faa oversight boeings broken safety culture 0  
-   Link: [https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0](https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0)  
+   Link: <a href="https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/faa-oversight-boeings-broken-safety-culture-0</a>  
 
 14. <a id="endnote-14"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 15. <a id="endnote-15"></a>
    Source: environment.ec.europa.eu  
    Title: Environment Green claims  
-   Link: [https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en](https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en)  
+   Link: <a href="https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en" target="_blank" rel="noopener noreferrer nofollow">https://environment.ec.europa.eu/topics/circular-economy-topics/green-claims_en</a>  
 
 16. <a id="endnote-16"></a>
    Source: investor.onepeloton.com  
    Title: peloton refutes consumer product safety commission claims  
-   Link: [https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/](https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/)  
+   Link: <a href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow">https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/</a>  
 
 17. <a id="endnote-17"></a>
    Source: electrek.co  
-   Link: [https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/](https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/)  
+   Link: <a href="https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://electrek.co/2026/05/28/tesla-fsd-safety-stats-misleading-reuters-investigation/</a>  
 
 18. <a id="endnote-18"></a>
    Source: tracker.carbongap.org  
    Title: green claims  
-   Link: [https://tracker.carbongap.org/policy/green-claims/](https://tracker.carbongap.org/policy/green-claims/)  
+   Link: <a href="https://tracker.carbongap.org/policy/green-claims/" target="_blank" rel="noopener noreferrer nofollow">https://tracker.carbongap.org/policy/green-claims/</a>  
 
 19. <a id="endnote-19"></a>
    Source: autosafety.org  
-   Link: [https://www.autosafety.org/tesla-autopilot/](https://www.autosafety.org/tesla-autopilot/)  
+   Link: <a href="https://www.autosafety.org/tesla-autopilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.autosafety.org/tesla-autopilot/</a>  
 
 20. <a id="endnote-20"></a>
    Source: silicon.co.uk  
    Title: tesla ordered to provide nhtsa with autopilot recall data 563036  
-   Link: [https://www.silicon.co.uk/e-innovation/green-it/tesla-ordered-to-provide-nhtsa-with-autopilot-recall-data-563036](https://www.silicon.co.uk/e-innovation/green-it/tesla-ordered-to-provide-nhtsa-with-autopilot-recall-data-563036)  
+   Link: <a href="https://www.silicon.co.uk/e-innovation/green-it/tesla-ordered-to-provide-nhtsa-with-autopilot-recall-data-563036" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/e-innovation/green-it/tesla-ordered-to-provide-nhtsa-with-autopilot-recall-data-563036</a>  
 
 21. <a id="endnote-21"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/nation/tesla-recalls-nearly-all-u-s-vehicles-to-fix-system-that-monitors-drivers-using-autopilot-after-investigation-into-deadly-crashes](https://www.pbs.org/newshour/nation/tesla-recalls-nearly-all-u-s-vehicles-to-fix-system-that-monitors-drivers-using-autopilot-after-investigation-into-deadly-crashes)  
+   Link: <a href="https://www.pbs.org/newshour/nation/tesla-recalls-nearly-all-u-s-vehicles-to-fix-system-that-monitors-drivers-using-autopilot-after-investigation-into-deadly-crashes" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/nation/tesla-recalls-nearly-all-u-s-vehicles-to-fix-system-that-monitors-drivers-using-autopilot-after-investigation-into-deadly-crashes</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EbdpkAHcA48](https://www.youtube.com/watch?v=EbdpkAHcA48)  
+   Link: <a href="https://www.youtube.com/watch?v=EbdpkAHcA48" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EbdpkAHcA48</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendations for Navigating the Red Herring Fallacy...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Red Herring (Logical Fallacy)  
-   Link: [https://www.youtube.com/watch?v=ZggiwS7iv2A](https://www.youtube.com/watch?v=ZggiwS7iv2A)  
+   Link: <a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZggiwS7iv2A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring Fallacy Explained: Why Conversations Go Off Track (And How to Stay Focused)...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/312186976_Visuality_as_Greenwashing_The_Case_of_BP_and_Deepwater_Horizon](https://www.researchgate.net/publication/312186976_Visuality_as_Greenwashing_The_Case_of_BP_and_Deepwater_Horizon)  
+   Link: <a href="https://www.researchgate.net/publication/312186976_Visuality_as_Greenwashing_The_Case_of_BP_and_Deepwater_Horizon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/312186976_Visuality_as_Greenwashing_The_Case_of_BP_and_Deepwater_Horizon</a>  
 
 25. <a id="endnote-25"></a>
    Source: clutch.co  
-   Link: [https://clutch.co/resources/logical-fallacies-advertising](https://clutch.co/resources/logical-fallacies-advertising)  
+   Link: <a href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow">https://clutch.co/resources/logical-fallacies-advertising</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/evtopcars/posts/a-major-reuters-investigation-has-found-that-teslas-widely-promoted-full-selfdri/979154065038260/](https://www.facebook.com/evtopcars/posts/a-major-reuters-investigation-has-found-that-teslas-widely-promoted-full-selfdri/979154065038260/)  
+   Link: <a href="https://www.facebook.com/evtopcars/posts/a-major-reuters-investigation-has-found-that-teslas-widely-promoted-full-selfdri/979154065038260/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/evtopcars/posts/a-major-reuters-investigation-has-found-that-teslas-widely-promoted-full-selfdri/979154065038260/</a>  
 
 27. <a id="endnote-27"></a>
    Source: nelsonmullins.com  
-   Link: [https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf](https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf)  
+   Link: <a href="https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: climatepartner.com  
-   Link: [https://www.climatepartner.com/en/knowledge/glossary/green-claims-directive](https://www.climatepartner.com/en/knowledge/glossary/green-claims-directive)  
+   Link: <a href="https://www.climatepartner.com/en/knowledge/glossary/green-claims-directive" target="_blank" rel="noopener noreferrer nofollow">https://www.climatepartner.com/en/knowledge/glossary/green-claims-directive</a>  
 
 29. <a id="endnote-29"></a>
    Source: opexsociety.org  
-   Link: [https://opexsociety.org/founders-desk/effective-arguing-beware-of-logical-red-herrings/](https://opexsociety.org/founders-desk/effective-arguing-beware-of-logical-red-herrings/)  
+   Link: <a href="https://opexsociety.org/founders-desk/effective-arguing-beware-of-logical-red-herrings/" target="_blank" rel="noopener noreferrer nofollow">https://opexsociety.org/founders-desk/effective-arguing-beware-of-logical-red-herrings/</a>  
 
 30. <a id="endnote-30"></a>
    Source: ftcdefenselawyer.com  
-   Link: [https://ftcdefenselawyer.com/advertising-claim-substantiation/](https://ftcdefenselawyer.com/advertising-claim-substantiation/)  
+   Link: <a href="https://ftcdefenselawyer.com/advertising-claim-substantiation/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation/</a>  
 
 31. <a id="endnote-31"></a>
    Source: mankogold.com  
-   Link: [https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf](https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf)  
+   Link: <a href="https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf</a>  

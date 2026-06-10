@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:25:30'
 parent_title: Is New Always Better? | Fallacy Lab
 parent_permalink: /novelty/
 parent_nav_short_title: Novelty
@@ -265,7 +266,6 @@ next_link:
   permalink: /modern-claims/
   short_title: Modern Claims
   heading_title: When Modern Language Does the Persuading
-date: '2026-06-05 02:25:30 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_treatments_proof_9e7699-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_new_treatments_proof_9e7699-Illustration-1.webp
@@ -309,7 +309,7 @@ The key question is not whether the new treatment works in isolation. The key qu
 
 ### Why Direct Comparisons Matter
 
-A new therapy can outperform a placebo while still offering little advantage over established treatment. Conversely, it may provide similar effectiveness but fewer side effects, lower costs, or greater convenience. Without direct comparison, claims of superiority remain speculative. Regulatory and scientific guidance frequently treats active-comparator superiority trials as particularly strong evidence when the objective is to demonstrate that a new option improves on existing care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCClinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</span></span></span>
+A new therapy can outperform a placebo while still offering little advantage over established treatment. Conversely, it may provide similar effectiveness but fewer side effects, lower costs, or greater convenience. Without direct comparison, claims of superiority remain speculative. Regulatory and scientific guidance frequently treats active-comparator superiority trials as particularly strong evidence when the objective is to demonstrate that a new option improves on existing care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Clinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</span></span></span>
 
 This is where many new-is-better claims become vulnerable. Marketing language often highlights innovation, mechanism, or technological sophistication, while the more important comparative questions receive less attention.
 
@@ -317,7 +317,7 @@ This is where many new-is-better claims become vulnerable. Marketing language of
 
 Medicine also provides a cautionary record of interventions that initially appeared beneficial but later failed under stronger testing.
 
-Researchers use the term *medical reversal* for situations in which a widely adopted practice is later shown through better evidence to be ineffective or less beneficial than previously believed. Studies examining the medical literature have identified hundreds of such reversals across different areas of healthcare. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/sites/default/files/2022-09/WhitePaper-Bolder2.2019.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Introduction to a New...by H Bolder · 2019 · Cited by 1 — A “medical reversal” occurs when new evidence (usually from a high-quality RCT...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCClinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinicproceedings.org">[Mayo Clinic Proceedings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinicproceedings.org</span><span class="citation-popover-title">This investigation sheds light on low-value practices.Read more</span><span class="citation-popover-snippet">Mayo Clinic ProceedingsA Decade of Reversal: An Analysis of 146 Contradicted...by V Prasad · 2013 · Cited by 470 — The reversal of estab...</span></span></span>
+Researchers use the term *medical reversal* for situations in which a widely adopted practice is later shown through better evidence to be ineffective or less beneficial than previously believed. Studies examining the medical literature have identified hundreds of such reversals across different areas of healthcare. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nber.org/sites/default/files/2022-09/WhitePaper-Bolder2.2019.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Introduction to a New...by H Bolder · 2019 · Cited by 1 — A “medical reversal” occurs when new evidence (usually from a high-quality RCT...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Clinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinicproceedings.org">[Mayo Clinic Proceedings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinicproceedings.org</span><span class="citation-popover-title">This investigation sheds light on low-value practices.Read more</span><span class="citation-popover-snippet">Mayo Clinic ProceedingsA Decade of Reversal: An Analysis of 146 Contradicted...by V Prasad · 2013 · Cited by 470 — The reversal of estab...</span></span></span>
 
 The existence of medical reversals does not mean that medical progress is an illusion. In fact, reversals demonstrate science working as intended: claims are continuously tested against stronger evidence. The lesson for the appeal to novelty is different. Early enthusiasm is not proof. A promising mechanism, exciting preliminary result, or new technology can all fail when subjected to rigorous comparison. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinicproceedings.org">[Mayo Clinic Proceedings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinicproceedings.org</span><span class="citation-popover-title">This investigation sheds light on low-value practices.Read more</span><span class="citation-popover-snippet">Mayo Clinic ProceedingsA Decade of Reversal: An Analysis of 146 Contradicted...by V Prasad · 2013 · Cited by 470 — The reversal of estab...</span></span></span>
 
@@ -343,11 +343,11 @@ Did the treatment improve a laboratory value or imaging result, or did it improv
 
 **What was it compared against?**
 
-Was the treatment tested only against placebo, or against the current standard of care? A superiority claim requires an appropriate comparison. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCClinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</span></span></span>
+Was the treatment tested only against placebo, or against the current standard of care? A superiority claim requires an appropriate comparison. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Clinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</span></span></span>
 
 **How strong is the evidence?**
 
-Is the claim based on early observational findings, a small trial, or multiple large randomised studies? Evidence quality matters as much as the result itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCClinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</span></span></span>
+Is the claim based on early observational findings, a small trial, or multiple large randomised studies? Evidence quality matters as much as the result itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Clinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</span></span></span>
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/about-fda/oncology-center-excellence/project-confirm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[**Are confirmatory studies complete?**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationProject ConfirmAccelerated approval allows for earlier access to drugs and biologics based on initial ev...</span></span></span>
 
@@ -792,144 +792,144 @@ Within the appeal to novelty fallacy, the proof gap is the critical issue. Novel
 1. <a id="endnote-1"></a>
    Source: fda.gov  
    Title: table surrogate endpoints were basis drug approval or licensure  
-   Link: [https://www.fda.gov/drugs/development-resources/table-surrogate-endpoints-were-basis-drug-approval-or-licensure](https://www.fda.gov/drugs/development-resources/table-surrogate-endpoints-were-basis-drug-approval-or-licensure)  
+   Link: <a href="https://www.fda.gov/drugs/development-resources/table-surrogate-endpoints-were-basis-drug-approval-or-licensure" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/development-resources/table-surrogate-endpoints-were-basis-drug-approval-or-licensure</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Table of Surrogate Endpoints That Were the Basis of Drug...29 Apr 2026 — This surrogate endpoint table includes surrogate endpoints that...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCClinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11000139/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clinical Benefit and Regulatory Outcomes of Cancer Drugs...by ITT Liu · 2024 · Cited by 135 — The US Food and Drug Administration&#x27;s (...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/sites/default/files/2022-09/WhitePaper-Bolder2.2019.pdf](https://www.nber.org/sites/default/files/2022-09/WhitePaper-Bolder2.2019.pdf)  
+   Link: <a href="https://www.nber.org/sites/default/files/2022-09/WhitePaper-Bolder2.2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/sites/default/files/2022-09/WhitePaper-Bolder2.2019.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to a New...by H Bolder · 2019 · Cited by 1 — A “medical reversal” occurs when new evidence (usually from a high-quality RCT...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: fdli.org  
-   Link: [https://www.fdli.org/2023/10/the-accelerated-approval-program-desiderata-for-a-proper-solution-to-the-untimely-completion-of-confirmatory-trials/](https://www.fdli.org/2023/10/the-accelerated-approval-program-desiderata-for-a-proper-solution-to-the-untimely-completion-of-confirmatory-trials/)  
+   Link: <a href="https://www.fdli.org/2023/10/the-accelerated-approval-program-desiderata-for-a-proper-solution-to-the-untimely-completion-of-confirmatory-trials/" target="_blank" rel="noopener noreferrer nofollow">https://www.fdli.org/2023/10/the-accelerated-approval-program-desiderata-for-a-proper-solution-to-the-untimely-completion-of-confirmatory-trials/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug Law Institute (FDLI)The Accelerated Approval Program: Desiderata for a...by O Robles — Using a surrogate or intermediate c...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aacr.org  
-   Link: [https://www.aacr.org/about-the-aacr/newsroom/news-releases/fewer-than-half-of-accelerated-approval-drugs-showed-clinical-benefit-in-confirmatory-trials-after-five-years/](https://www.aacr.org/about-the-aacr/newsroom/news-releases/fewer-than-half-of-accelerated-approval-drugs-showed-clinical-benefit-in-confirmatory-trials-after-five-years/)  
+   Link: <a href="https://www.aacr.org/about-the-aacr/newsroom/news-releases/fewer-than-half-of-accelerated-approval-drugs-showed-clinical-benefit-in-confirmatory-trials-after-five-years/" target="_blank" rel="noopener noreferrer nofollow">https://www.aacr.org/about-the-aacr/newsroom/news-releases/fewer-than-half-of-accelerated-approval-drugs-showed-clinical-benefit-in-confirmatory-trials-after-five-years/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fewer Than Half of Accelerated Approval Drugs Showed...Apr 7, 2024 — 63% were converted to regular approval even though only 43% demonst...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fda.gov  
    Title: accelerated approval program  
-   Link: [https://www.fda.gov/drugs/nda-and-bla-approvals/accelerated-approval-program](https://www.fda.gov/drugs/nda-and-bla-approvals/accelerated-approval-program)  
+   Link: <a href="https://www.fda.gov/drugs/nda-and-bla-approvals/accelerated-approval-program" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/nda-and-bla-approvals/accelerated-approval-program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationAccelerated Approval Program15 May 2026 — To allow for earlier approval of drugs that treat serious cond...</p></details>
    Published: May 2026  
 
 7. <a id="endnote-7"></a>
    Source: fda.gov  
    Title: accelerated approval  
-   Link: [https://www.fda.gov/patients/fast-track-breakthrough-therapy-accelerated-approval-priority-review/accelerated-approval](https://www.fda.gov/patients/fast-track-breakthrough-therapy-accelerated-approval-priority-review/accelerated-approval)  
+   Link: <a href="https://www.fda.gov/patients/fast-track-breakthrough-therapy-accelerated-approval-priority-review/accelerated-approval" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/patients/fast-track-breakthrough-therapy-accelerated-approval-priority-review/accelerated-approval</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationAccelerated Approval24 Feb 2023 — These regulations allowed drugs for serious conditions that filled an...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/about-fda/oncology-center-excellence/project-confirm](https://www.fda.gov/about-fda/oncology-center-excellence/project-confirm)  
+   Link: <a href="https://www.fda.gov/about-fda/oncology-center-excellence/project-confirm" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/about-fda/oncology-center-excellence/project-confirm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationProject ConfirmAccelerated approval allows for earlier access to drugs and biologics based on initial ev...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: whitecase.com  
    Title: accelerated approval confirmatory trials requirement may further complicate life  
-   Link: [https://www.whitecase.com/insight-alert/accelerated-approval-confirmatory-trials-requirement-may-further-complicate-life](https://www.whitecase.com/insight-alert/accelerated-approval-confirmatory-trials-requirement-may-further-complicate-life)  
+   Link: <a href="https://www.whitecase.com/insight-alert/accelerated-approval-confirmatory-trials-requirement-may-further-complicate-life" target="_blank" rel="noopener noreferrer nofollow">https://www.whitecase.com/insight-alert/accelerated-approval-confirmatory-trials-requirement-may-further-complicate-life</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>White &amp; CaseAccelerated Approval confirmatory trials requirement may...14 Aug 2025 — Accelerated Approval allows the FDA to approve drug...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: center4research.org  
-   Link: [https://www.center4research.org/accelerated-approval-pathway-summary/](https://www.center4research.org/accelerated-approval-pathway-summary/)  
+   Link: <a href="https://www.center4research.org/accelerated-approval-pathway-summary/" target="_blank" rel="noopener noreferrer nofollow">https://www.center4research.org/accelerated-approval-pathway-summary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Center for Health ResearchFDA Accelerated Approval Pathway: Controversies and...Accelerated approval is usually based on change...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mayoclinicproceedings.org  
    Title: This investigation sheds light on low-value practices.Read more  
-   Link: [https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext](https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext)  
+   Link: <a href="https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinicproceedings.org/article/s0025-6196%2813%2900405-9/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo Clinic ProceedingsA Decade of Reversal: An Analysis of 146 Contradicted...by V Prasad · 2013 · Cited by 470 — The reversal of estab...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: elifesciences.org  
    Title: almost 400 medical practices found ineffective in analysis of 3 000 studies  
-   Link: [https://elifesciences.org/for-the-press/94d42de3/almost-400-medical-practices-found-ineffective-in-analysis-of-3-000-studies](https://elifesciences.org/for-the-press/94d42de3/almost-400-medical-practices-found-ineffective-in-analysis-of-3-000-studies)  
+   Link: <a href="https://elifesciences.org/for-the-press/94d42de3/almost-400-medical-practices-found-ineffective-in-analysis-of-3-000-studies" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/for-the-press/94d42de3/almost-400-medical-practices-found-ineffective-in-analysis-of-3-000-studies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Almost 400 medical practices found ineffective in analysis...11 Jun 2019 — Medical reversals are practices that have been found to be no...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: center4research.org  
    Title: nchr fda confirmatory trial underway comment draft guidance  
-   Link: [https://www.center4research.org/nchr-fda-confirmatory-trial-underway-comment-draft-guidance/](https://www.center4research.org/nchr-fda-confirmatory-trial-underway-comment-draft-guidance/)  
+   Link: <a href="https://www.center4research.org/nchr-fda-confirmatory-trial-underway-comment-draft-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.center4research.org/nchr-fda-confirmatory-trial-underway-comment-draft-guidance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Center for Health ResearchNational Center for Health ResearchMar 10, 2025 — The FDA should specify that confirmatory trials shou...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/bmjopen/14/12/e085210.full.pdf](https://bmjopen.bmj.com/content/bmjopen/14/12/e085210.full.pdf)  
+   Link: <a href="https://bmjopen.bmj.com/content/bmjopen/14/12/e085210.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/bmjopen/14/12/e085210.full.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elife 2019;8:e45183. 5 Yopes...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: center4research.org  
    Title: nchr comment accelerated approval draft guidance  
-   Link: [https://www.center4research.org/nchr-comment-accelerated-approval-draft-guidance/](https://www.center4research.org/nchr-comment-accelerated-approval-draft-guidance/)  
+   Link: <a href="https://www.center4research.org/nchr-comment-accelerated-approval-draft-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.center4research.org/nchr-comment-accelerated-approval-draft-guidance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expedited Program for Serious Conditions—Accelerated...4 Feb 2025 — The FDA draft guidance states that accelerated approval requires tha...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Medical reversal  
-   Link: [https://en.wikipedia.org/wiki/Medical_reversal](https://en.wikipedia.org/wiki/Medical_reversal)  
+   Link: <a href="https://en.wikipedia.org/wiki/Medical_reversal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Medical_reversal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical reversalMedical reversal refers to when a newer and methodologically superior clinical trial produces results that contradict...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400519843_Evidence_Supporting_EMA_Drug_Approvals_2020-2023_A_Cross-Sectional_Study_of_Trial_Design_and_Outcomes](https://www.researchgate.net/publication/400519843_Evidence_Supporting_EMA_Drug_Approvals_2020-2023_A_Cross-Sectional_Study_of_Trial_Design_and_Outcomes)  
+   Link: <a href="https://www.researchgate.net/publication/400519843_Evidence_Supporting_EMA_Drug_Approvals_2020-2023_A_Cross-Sectional_Study_of_Trial_Design_and_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400519843_Evidence_Supporting_EMA_Drug_Approvals_2020-2023_A_Cross-Sectional_Study_of_Trial_Design_and_Outcomes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>no evidence of superiority over active comparators, only 8%. demonstrated superiority in at least two such trials and clinical outcomes c...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/accelerated-approval-updated-guidances-four-implications-sponsors-czyve](https://www.linkedin.com/pulse/accelerated-approval-updated-guidances-four-implications-sponsors-czyve)  
+   Link: <a href="https://www.linkedin.com/pulse/accelerated-approval-updated-guidances-four-implications-sponsors-czyve" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/accelerated-approval-updated-guidances-four-implications-sponsors-czyve</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerated approval updated guidancesThis pathway aims to expedite patient access to drugs for serious or life-threatening conditions by...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: everylifefoundation.org  
-   Link: [https://everylifefoundation.org/wp-content/uploads/2022/05/IGT-AA-Policy-Brief.pdf](https://everylifefoundation.org/wp-content/uploads/2022/05/IGT-AA-Policy-Brief.pdf)  
+   Link: <a href="https://everylifefoundation.org/wp-content/uploads/2022/05/IGT-AA-Policy-Brief.pdf" target="_blank" rel="noopener noreferrer nofollow">https://everylifefoundation.org/wp-content/uploads/2022/05/IGT-AA-Policy-Brief.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA&#x27;s Accelerated Approval PathwayApproval by the FDA is based on clinical trials that study the drug or treatment&#x27;s effect on a surrogat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: courses.washington.edu  
-   Link: [https://courses.washington.edu/pharm309/FlemingArticle.pdf](https://courses.washington.edu/pharm309/FlemingArticle.pdf)  
+   Link: <a href="https://courses.washington.edu/pharm309/FlemingArticle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://courses.washington.edu/pharm309/FlemingArticle.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Endpoints And FDA&#x27;s Accelerated Approval...by TR Fleming · Cited by 341 — To use surro- gate endpoints and the accelerated-approval proc...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: parexel.com  
-   Link: [https://www.parexel.com/insights/blog/accelerated-approval-navigating-fdas-recent-guidance-and-confirmatory-trial-considerations](https://www.parexel.com/insights/blog/accelerated-approval-navigating-fdas-recent-guidance-and-confirmatory-trial-considerations)  
+   Link: <a href="https://www.parexel.com/insights/blog/accelerated-approval-navigating-fdas-recent-guidance-and-confirmatory-trial-considerations" target="_blank" rel="noopener noreferrer nofollow">https://www.parexel.com/insights/blog/accelerated-approval-navigating-fdas-recent-guidance-and-confirmatory-trial-considerations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerated approval: Navigating FDA&#x27;s recent guidance...6 Mar 2025 — This pathway aims to expedite the approval of drugs for serious or...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: kslaw.com  
-   Link: [https://www.kslaw.com/news-and-insights/fda-issues-draft-guidance-on-accelerated-approval-focused-on-how-the-agency-will-implement-new-authorities](https://www.kslaw.com/news-and-insights/fda-issues-draft-guidance-on-accelerated-approval-focused-on-how-the-agency-will-implement-new-authorities)  
+   Link: <a href="https://www.kslaw.com/news-and-insights/fda-issues-draft-guidance-on-accelerated-approval-focused-on-how-the-agency-will-implement-new-authorities" target="_blank" rel="noopener noreferrer nofollow">https://www.kslaw.com/news-and-insights/fda-issues-draft-guidance-on-accelerated-approval-focused-on-how-the-agency-will-implement-new-authorities</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Issues Draft Guidance on Accelerated Approval...6 Jan 2025 — The accelerated approval program helps get necessary therapies to patie...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: asgct.org  
-   Link: [https://www.asgct.org/advocacy/policy-statements/expedited-program-for-serious-conditions-accelerated-approval-of-drugs-and-biologics](https://www.asgct.org/advocacy/policy-statements/expedited-program-for-serious-conditions-accelerated-approval-of-drugs-and-biologics)  
+   Link: <a href="https://www.asgct.org/advocacy/policy-statements/expedited-program-for-serious-conditions-accelerated-approval-of-drugs-and-biologics" target="_blank" rel="noopener noreferrer nofollow">https://www.asgct.org/advocacy/policy-statements/expedited-program-for-serious-conditions-accelerated-approval-of-drugs-and-biologics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expedited Program for Serious Conditions — Accelerated…6 Mar 2025 — FDA recognizes that confirmatory trial enrollment may become challeng...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: advisory.avalerehealth.com  
    Title: understanding the history and use of the accelerated approval pathway  
-   Link: [https://advisory.avalerehealth.com/insights/understanding-the-history-and-use-of-the-accelerated-approval-pathway](https://advisory.avalerehealth.com/insights/understanding-the-history-and-use-of-the-accelerated-approval-pathway)  
+   Link: <a href="https://advisory.avalerehealth.com/insights/understanding-the-history-and-use-of-the-accelerated-approval-pathway" target="_blank" rel="noopener noreferrer nofollow">https://advisory.avalerehealth.com/insights/understanding-the-history-and-use-of-the-accelerated-approval-pathway</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the History and Use of the Accelerated...4 Jan 2022 — The Accelerated Approval Program was developed in 1992, largely in response to the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pharmaphorum.com  
    Title: fda accelerated approval path needs improvement says icer  
-   Link: [https://pharmaphorum.com/news/fda-accelerated-approval-path-needs-improvement-says-icer](https://pharmaphorum.com/news/fda-accelerated-approval-path-needs-improvement-says-icer)  
+   Link: <a href="https://pharmaphorum.com/news/fda-accelerated-approval-path-needs-improvement-says-icer" target="_blank" rel="noopener noreferrer nofollow">https://pharmaphorum.com/news/fda-accelerated-approval-path-needs-improvement-says-icer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA accelerated approval path needs improvement, says...16 Apr 2026 — Accelerated approval based on surrogate or intermediate endpoint i...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: intelacia.com  
    Title: 5 fda drug approvals that could shape biotech in 2026  
-   Link: [https://www.intelacia.com/2026/02/13/5-fda-drug-approvals-that-could-shape-biotech-in-2026/](https://www.intelacia.com/2026/02/13/5-fda-drug-approvals-that-could-shape-biotech-in-2026/)  
+   Link: <a href="https://www.intelacia.com/2026/02/13/5-fda-drug-approvals-that-could-shape-biotech-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.intelacia.com/2026/02/13/5-fda-drug-approvals-that-could-shape-biotech-in-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>superior weight loss at comparable doses. The company submitted its application for obesity in late 2025, and the U.S. Food and Drug...R...</p></details>

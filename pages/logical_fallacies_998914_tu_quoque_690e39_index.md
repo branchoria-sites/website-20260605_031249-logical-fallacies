@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-tu-quoque/
 description: Focused pages that expand on Tu Quoque.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_tu_quoque_690e39
 parent_title: Tu Quoque | Logical Fallacies

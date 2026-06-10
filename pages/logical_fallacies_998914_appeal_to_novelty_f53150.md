@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:28:23'
 parent_title: Fallacy Lab
 parent_permalink: /logical-fallacies/
 parent_nav_short_title: Fallacy Lab
@@ -492,7 +493,6 @@ next_link:
   permalink: /phones/
   short_title: Phones
   heading_title: Are Phone Rules Really All or Nothing?
-date: '2026-06-05 01:28:23 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-overview-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-overview.webp
@@ -531,7 +531,7 @@ The strongest response to a new-is-better claim is not cynicism. It is compariso
 
 In medicine, this distinction is unusually clear because a new treatment may be promising, but patient benefit depends on evidence. The Catalogue of Bias describes “novelty bias” in clinical research as the appearance that a new treatment is better because it is new, and notes that meta-analyses of medicine trials have found novelty can make an intervention appear between 2% and 27% better when it is novel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://catalogofbias.org/biases/novelty-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catalogofbias.org">[catalogofbias.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catalogofbias.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A separate review of randomised clinical trials identified 396 medical reversals, where later, stronger evidence contradicted established clinical practices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That does not mean older medicine is automatically better. It means “new” and “proved improvement” are different claims. A study of new versus established treatments found that new treatments were, on average, only very slightly more likely to have favourable results than established ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Reporting on German drug assessments, Chemistry World noted that among 216 new approvals in Germany between 2011 and 2017, only about a quarter conclusively showed a considerable or major added benefit over standard care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-title">Chemistry World Are new drugs better than existing ones? | Opinion</span><span class="citation-popover-snippet">Chemistry World Are new drugs better than existing ones? | Opinion</span></span></span>
+That does not mean older medicine is automatically better. It means “new” and “proved improvement” are different claims. A study of new versus established treatments found that new treatments were, on average, only very slightly more likely to have favourable results than established ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Reporting on German drug assessments, Chemistry World noted that among 216 new approvals in Germany between 2011 and 2017, only about a quarter conclusively showed a considerable or major added benefit over standard care. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-title">Chemistry World Are new drugs better than existing ones? &#124; Opinion</span><span class="citation-popover-snippet">Chemistry World Are new drugs better than existing ones? &#124; Opinion</span></span></span>
 
 The same discipline applies outside medicine. In technology, a new tool should be judged by outcomes: reliability, usability, security, maintainability, total cost, user learning curve and measurable benefit. Gartner’s Hype Cycle framework is used to think about how technologies evolve over time and how organisations can time deployment against business goals, not simply adopt whatever is newest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gartner.com/en/research/methodologies/gartner-hype-cycle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gartner.com">[Gartner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gartner.com</span><span class="citation-popover-snippet">Open source on gartner.com.</span></span></span> Research on online experiments also warns that early effects may be distorted by novelty: users may engage with a new feature at first because it is fresh, then behave differently after learning or habituation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.12893" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments</span><span class="citation-popover-snippet">arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments</span></span></span>
 
@@ -540,7 +540,7 @@ The same discipline applies outside medicine. In technology, a new tool should b
 
 ## Comparing old and new
 
-The appeal to novelty has an opposite fallacy: [appeal to tradition]({{ 'tradition/' | relative_url }}), where a claim is treated as correct because it is old or customary. Both make the same kind of mistake. One treats age as proof of quality; the other treats recency as proof of quality. A careful comparison rejects both shortcuts.
+The appeal to novelty has an opposite fallacy: appeal to [tradition]({{ 'tradition/' | relative_url }}), where a claim is treated as correct because it is old or customary. Both make the same kind of mistake. One treats age as proof of quality; the other treats recency as proof of quality. A careful comparison rejects both shortcuts.
 
 The better question is: what does each option preserve, improve, weaken or risk? Older systems can have advantages that are not glamorous: known failure modes, trained users, spare parts, tested procedures, institutional memory, legal clarity and predictable costs. Newer systems can have advantages too: better materials, more inclusive design, stronger data, improved safety standards or adaptation to present conditions. The age of the option is not the answer; it is one fact in the evaluation.
 
@@ -557,7 +557,7 @@ A practical comparison can ask:
 
 </div>
 
-The New Coke case shows why comparison must include more than surface preference. Coca-Cola introduced a reformulated drink in April 1985 after taste-testing and competitive pressure, but the public backlash became one of the most famous product failures in consumer-goods history; the company restored the original formula as Coca-Cola Classic within months. Coca-Cola’s own history describes the decision as a major risk that generated extraordinary consumer angst, while Britannica summarises the episode as a reformulation intended to revitalise the brand that quickly provoked a furour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coca-colacompany.com">[Coca-Cola Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coca-colacompany.com</span><span class="citation-popover-title">new coke the most memorable marketing blunder ever</span><span class="citation-popover-snippet">new coke the most memorable marketing blunder ever</span></span></span> The lesson is not that reformulation is always wrong. It is that “new taste” was not the same as “better brand [experience]({{ 'experience/' | relative_url }})” for loyal consumers.
+The [New Coke]({{ 'new-coke/' | relative_url }}) case shows why comparison must include more than surface preference. Coca-Cola introduced a reformulated drink in April 1985 after taste-testing and competitive pressure, but the public backlash became one of the most famous product failures in consumer-goods history; the company restored the original formula as Coca-Cola Classic within months. Coca-Cola’s own history describes the decision as a major risk that generated extraordinary consumer angst, while Britannica summarises the episode as a reformulation intended to revitalise the brand that quickly provoked a furour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coca-colacompany.com">[Coca-Cola Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coca-colacompany.com</span><span class="citation-popover-title">new coke the most memorable marketing blunder ever</span><span class="citation-popover-snippet">new coke the most memorable marketing blunder ever</span></span></span> The lesson is not that reformulation is always wrong. It is that “new taste” was not the same as “better brand [experience]({{ 'experience/' | relative_url }})” for loyal consumers.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-2-dark.svg" | relative_url }}" alt="Novelty illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -572,7 +572,7 @@ Technology hype makes this pattern visible. Gartner’s model is built around th
 Public policy has a similar problem. OECD work on innovation policy argues that innovations should not be treated as beneficial in themselves, but judged by their positive and negative social externalities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Innovation policy transformed? (EN</span><span class="citation-popover-snippet">Innovation policy transformed? (EN</span></span></span> That is exactly the reasoning discipline appeal to novelty tends to bypass. Innovation can help, but the word does not settle the argument.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YZMpnK4JA90" title="Chronological Snobbery Fallacy | Middle and High School Homeschooling Logic/Argument video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YZMpnK4JA90" target="_blank" rel="noopener noreferrer">Chronological Snobbery Fallacy | Middle and High School Homeschooling Logic/Argument video</a></p><p class="youtube-embed-meta">Channel: ClassicallyDad &middot; Views: 2.0K &middot; Uploaded: December 2020 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YZMpnK4JA90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YZMpnK4JA90">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KpOEr18m4vw" title="Critical Thinking: The Fallacy of Appeal to Novelty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KpOEr18m4vw" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal to Novelty</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 1.7K &middot; Uploaded: November 2014 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KpOEr18m4vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KpOEr18m4vw">Open on YouTube</a></p></div></div></div>
 
 ## How new-is-better claims show up in everyday arguments
 
@@ -597,7 +597,7 @@ A fair assessment should leave room for three possible outcomes. The new option 
 The goal is not to become anti-new. It is to make newness answerable to evidence. A strong case for change can say: “This is new, and here is the specific defect it fixes, the comparison showing improvement, the cost of transition, the risks we have tested, and the conditions under which we would reverse course.” That argument does not rely on novelty as a shortcut. It treats novelty as a claim to be examined.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KpOEr18m4vw" title="Critical Thinking: The Fallacy of Appeal to Novelty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KpOEr18m4vw" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal to Novelty</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 1.7K &middot; Uploaded: November 2014 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KpOEr18m4vw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KpOEr18m4vw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TqvTMPY8Q_8" title="New Coke: Coca-Cola&#x27;s 77-day product disaster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TqvTMPY8Q_8" target="_blank" rel="noopener noreferrer">New Coke: Coca-Cola&#x27;s 77-day product disaster</a></p><p class="youtube-embed-meta">Channel: CBS Evening News &middot; Views: 91.2K &middot; Uploaded: April 2015 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TqvTMPY8Q_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TqvTMPY8Q_8">Open on YouTube</a></p></div></div></div>
 
 ## The core lesson
 
@@ -1027,232 +1027,232 @@ The better habit is historical comparison. Ask what changed, why it changed, wha
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Formal fallacies](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) are those readily seen to be instances of...Read more...</p></details>
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Formal fallacies are those readily seen to be instances of...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Appeal to novelty  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_novelty](https://en.wikipedia.org/wiki/Appeal_to_novelty)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_novelty</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 23, 2026 — The appeal to novelty is a logical fallacy in which one prematurely claims that an idea or proposal is correct or superi...</p></details>
    Published: April 23, 2026  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406](https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0969698916300406</a>  
 
 4. <a id="endnote-4"></a>
    Source: catalogofbias.org  
-   Link: [https://catalogofbias.org/biases/novelty-bias/](https://catalogofbias.org/biases/novelty-bias/)  
+   Link: <a href="https://catalogofbias.org/biases/novelty-bias/" target="_blank" rel="noopener noreferrer nofollow">https://catalogofbias.org/biases/novelty-bias/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3490226/</a>  
 
 6. <a id="endnote-6"></a>
    Source: gartner.com  
-   Link: [https://www.gartner.com/en/research/methodologies/gartner-hype-cycle](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle)  
+   Link: <a href="https://www.gartner.com/en/research/methodologies/gartner-hype-cycle" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.com/en/research/methodologies/gartner-hype-cycle</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments  
-   Link: [https://arxiv.org/abs/2102.12893](https://arxiv.org/abs/2102.12893)  
+   Link: <a href="https://arxiv.org/abs/2102.12893" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.12893</a>  
 
 8. <a id="endnote-8"></a>
    Source: britannica.com  
    Title: New Coke  
-   Link: [https://www.britannica.com/topic/New-Coke](https://www.britannica.com/topic/New-Coke)  
+   Link: <a href="https://www.britannica.com/topic/New-Coke" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/New-Coke</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270](https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162516300270</a>  
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
    Title: Innovation policy transformed? (EN)  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/innovation-policy-transformed_a41c1db5/5ee60cb5-en.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666776224003144](https://www.sciencedirect.com/science/article/pii/S2666776224003144)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666776224003144" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666776224003144</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
-   Title: Appeal to [tradition](&#123;&#123; 'tradition/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_tradition](https://en.wikipedia.org/wiki/Appeal_to_tradition)  
+   Title: Appeal to tradition  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_tradition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_tradition</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: New Coke  
-   Link: [https://en.wikipedia.org/wiki/New_Coke](https://en.wikipedia.org/wiki/New_Coke)  
+   Link: <a href="https://en.wikipedia.org/wiki/New_Coke" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/New_Coke</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Gartner hype cycle  
-   Link: [https://en.wikipedia.org/wiki/Gartner_hype_cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gartner_hype_cycle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gartner_hype_cycle</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Informal fallacy  
-   Link: [https://en.wikipedia.org/wiki/Informal_fallacy](https://en.wikipedia.org/wiki/Informal_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
 
 17. <a id="endnote-17"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
 18. <a id="endnote-18"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall1997/entries/logic-informal/](https://plato.stanford.edu/archives/fall1997/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
 
 19. <a id="endnote-19"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
 20. <a id="endnote-20"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2021/entries/logic-informal/](https://plato.stanford.edu/archives/fall2021/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
 
 21. <a id="endnote-21"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/win2019/entries/logic-informal/](https://plato.stanford.edu/archives/win2019/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2019/entries/logic-informal/</a>  
 
 22. <a id="endnote-22"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2004/entries/logic-informal/](https://plato.stanford.edu/archives/sum2004/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2004/entries/logic-informal/</a>  
 
 23. <a id="endnote-23"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/04/making-innovation-policy-work_g1g24173/9789264185739-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/04/making-innovation-policy-work_g1g24173/9789264185739-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/04/making-innovation-policy-work_g1g24173/9789264185739-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/04/making-innovation-policy-work_g1g24173/9789264185739-en.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/broad-based-innovation-policy-for-all-regions-and-cities_1ce6985d/299731d2-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/broad-based-innovation-policy-for-all-regions-and-cities_1ce6985d/299731d2-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/broad-based-innovation-policy-for-all-regions-and-cities_1ce6985d/299731d2-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/10/broad-based-innovation-policy-for-all-regions-and-cities_1ce6985d/299731d2-en.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/innovation-policy-and-performance_9789264006737-en.html](https://www.oecd.org/en/publications/innovation-policy-and-performance_9789264006737-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/innovation-policy-and-performance_9789264006737-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/innovation-policy-and-performance_9789264006737-en.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: gartner.de  
    Title: hype cycle fuer neue technologien  
-   Link: [https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien](https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien)  
+   Link: <a href="https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien" target="_blank" rel="noopener noreferrer nofollow">https://www.gartner.de/de/artikel/hype-cycle-fuer-neue-technologien</a>  
 
 27. <a id="endnote-27"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to NoveltyClaiming that something that is new or modern is superior to the [status quo](&amp;#123;&amp;#123; &#x27;status-quo/&#x27; | relative_url &amp;#125;&amp;#125;), based exclusively on it...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: fda.gov  
    Title: U.S. Food and Drug Administration Breakthrough Devices Program  
-   Link: [https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program](https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program)  
+   Link: <a href="https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program</a>  
 
 29. <a id="endnote-29"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/files/guidance%20documents/published/Breakthrough-Devices-Program.pdf](https://www.fda.gov/files/guidance%20documents/published/Breakthrough-Devices-Program.pdf)  
+   Link: <a href="https://www.fda.gov/files/guidance%20documents/published/Breakthrough-Devices-Program.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/files/guidance%20documents/published/Breakthrough-Devices-Program.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: chemistryworld.com  
    Title: Chemistry World Are new drugs better than existing ones? | Opinion  
-   Link: [https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article](https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article)  
+   Link: <a href="https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/opinion/are-new-drugs-better-than-existing-ones/3010774.article</a>  
 
 31. <a id="endnote-31"></a>
    Source: coca-colacompany.com  
    Title: new coke the most memorable marketing blunder ever  
-   Link: [https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever](https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever)  
+   Link: <a href="https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever" target="_blank" rel="noopener noreferrer nofollow">https://www.coca-colacompany.com/about-us/history/new-coke-the-most-memorable-marketing-blunder-ever</a>  
 
 32. <a id="endnote-32"></a>
    Source: thebrandingjournal.com  
    Title: new coke  
-   Link: [https://www.thebrandingjournal.com/2025/02/new-coke/](https://www.thebrandingjournal.com/2025/02/new-coke/)  
+   Link: <a href="https://www.thebrandingjournal.com/2025/02/new-coke/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrandingjournal.com/2025/02/new-coke/</a>  
 
 33. <a id="endnote-33"></a>
    Source: logical-fallacy.com  
    Title: Appeal to Novelty  
-   Link: [https://www.logical-fallacy.com/articles/appeal-to-novelty/](https://www.logical-fallacy.com/articles/appeal-to-novelty/)  
+   Link: <a href="https://www.logical-fallacy.com/articles/appeal-to-novelty/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/appeal-to-novelty/</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Gartner Hype Cycles, Explained  
-   Link: [https://www.youtube.com/watch?v=jB1RDz9jaj0](https://www.youtube.com/watch?v=jB1RDz9jaj0)  
+   Link: <a href="https://www.youtube.com/watch?v=jB1RDz9jaj0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jB1RDz9jaj0</a>  
 
 35. <a id="endnote-35"></a>
    Source: ebsco.com  
    Title: new coke  
-   Link: [https://www.ebsco.com/research-starters/marketing/new-coke](https://www.ebsco.com/research-starters/marketing/new-coke)  
+   Link: <a href="https://www.ebsco.com/research-starters/marketing/new-coke" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/marketing/new-coke</a>  
 
 36. <a id="endnote-36"></a>
    Source: coca-colacompany.com  
-   Link: [https://www.coca-colacompany.com/about-us/history](https://www.coca-colacompany.com/about-us/history)  
+   Link: <a href="https://www.coca-colacompany.com/about-us/history" target="_blank" rel="noopener noreferrer nofollow">https://www.coca-colacompany.com/about-us/history</a>  
 
 37. <a id="endnote-37"></a>
    Source: bmc.com  
    Title: gartner hype cycle  
-   Link: [https://www.bmc.com/blogs/gartner-hype-cycle/](https://www.bmc.com/blogs/gartner-hype-cycle/)  
+   Link: <a href="https://www.bmc.com/blogs/gartner-hype-cycle/" target="_blank" rel="noopener noreferrer nofollow">https://www.bmc.com/blogs/gartner-hype-cycle/</a>  
 
 38. <a id="endnote-38"></a>
    Source: ideatovalue.com  
    Title: novelty bias  
-   Link: [https://www.ideatovalue.com/curi/nickskillicorn/2022/05/novelty-bias/](https://www.ideatovalue.com/curi/nickskillicorn/2022/05/novelty-bias/)  
+   Link: <a href="https://www.ideatovalue.com/curi/nickskillicorn/2022/05/novelty-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.ideatovalue.com/curi/nickskillicorn/2022/05/novelty-bias/</a>  
 
 39. <a id="endnote-39"></a>
    Source: delightability.com  
    Title: Appeal to Novelty  
-   Link: [https://www.delightability.com/free-stuff/appeal-novelty-logical-fallacy/](https://www.delightability.com/free-stuff/appeal-novelty-logical-fallacy/)  
+   Link: <a href="https://www.delightability.com/free-stuff/appeal-novelty-logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.delightability.com/free-stuff/appeal-novelty-logical-fallacy/</a>  
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesA formal fallacy can be detected by examining the logical form of the reasoning, whereas an i...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YZMpnK4JA90](https://www.youtube.com/watch?v=YZMpnK4JA90)  
+   Link: <a href="https://www.youtube.com/watch?v=YZMpnK4JA90" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YZMpnK4JA90</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronological Snobbery - a logical fallacy...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Critical Thinking: The Fallacy of Appeal to Novelty  
-   Link: [https://www.youtube.com/watch?v=KpOEr18m4vw](https://www.youtube.com/watch?v=KpOEr18m4vw)  
+   Link: <a href="https://www.youtube.com/watch?v=KpOEr18m4vw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KpOEr18m4vw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronological Snobbery Fallacy | Middle and High School Homeschooling Logic/Argument video...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: hutchdatascience.org  
-   Link: [https://hutchdatascience.org/AI_for_Decision_Makers/references.html](https://hutchdatascience.org/AI_for_Decision_Makers/references.html)  
+   Link: <a href="https://hutchdatascience.org/AI_for_Decision_Makers/references.html" target="_blank" rel="noopener noreferrer nofollow">https://hutchdatascience.org/AI_for_Decision_Makers/references.html</a>  
 
 44. <a id="endnote-44"></a>
    Source: businessatoecd.org  
-   Link: [https://www.businessatoecd.org/hubfs/website/documents/pdf/Innovation%20and%20Tech/Science%2C%20Technology%20and%20Innovation%20Policies%20for%20Society%20-%20April%202019.pdf](https://www.businessatoecd.org/hubfs/website/documents/pdf/Innovation%20and%20Tech/Science%2C%20Technology%20and%20Innovation%20Policies%20for%20Society%20-%20April%202019.pdf)  
+   Link: <a href="https://www.businessatoecd.org/hubfs/website/documents/pdf/Innovation%20and%20Tech/Science%2C%20Technology%20and%20Innovation%20Policies%20for%20Society%20-%20April%202019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.businessatoecd.org/hubfs/website/documents/pdf/Innovation%20and%20Tech/Science%2C%20Technology%20and%20Innovation%20Policies%20for%20Society%20-%20April%202019.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: Avoiding the Appeal to Novelty: When New Isn't Always Better  
-   Link: [https://www.youtube.com/watch?v=SJWvTZ3h18E](https://www.youtube.com/watch?v=SJWvTZ3h18E)  
+   Link: <a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SJWvTZ3h18E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking: The Fallacy of Appeal to Novelty...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/387297646_Cross-sectional_evaluation_of_medical_reversals_among_National_Institute_of_Health_guideline_practices_implemented_during_the_COVID-19_pandemic_how_often_did_experts_err_in_a_time_of_crisis](https://www.researchgate.net/publication/387297646_Cross-sectional_evaluation_of_medical_reversals_among_National_Institute_of_Health_guideline_practices_implemented_during_the_COVID-19_pandemic_how_often_did_experts_err_in_a_time_of_crisis)  
+   Link: <a href="https://www.researchgate.net/publication/387297646_Cross-sectional_evaluation_of_medical_reversals_among_National_Institute_of_Health_guideline_practices_implemented_during_the_COVID-19_pandemic_how_often_did_experts_err_in_a_time_of_crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387297646_Cross-sectional_evaluation_of_medical_reversals_among_National_Institute_of_Health_guideline_practices_implemented_during_the_COVID-19_pandemic_how_often_did_experts_err_in_a_time_of_crisis</a>  
 
 47. <a id="endnote-47"></a>
    Source: tvtropes.org  
-   Link: [https://tvtropes.org/pmwiki/pmwiki.php/Main/AppealToNovelty](https://tvtropes.org/pmwiki/pmwiki.php/Main/AppealToNovelty)  
+   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/AppealToNovelty" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Main/AppealToNovelty</a>  
 
 48. <a id="endnote-48"></a>
    Source: podiapaedia.org  
-   Link: [https://podiapaedia.org/wiki/research/pseudoscience/logical-fallacies/appeal-to-novelty-fallacy/](https://podiapaedia.org/wiki/research/pseudoscience/logical-fallacies/appeal-to-novelty-fallacy/)  
+   Link: <a href="https://podiapaedia.org/wiki/research/pseudoscience/logical-fallacies/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://podiapaedia.org/wiki/research/pseudoscience/logical-fallacies/appeal-to-novelty-fallacy/</a>  
 
 49. <a id="endnote-49"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-novelty](https://fallacyguide.com/fallacies/appeal-to-novelty)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-novelty" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-novelty</a>  

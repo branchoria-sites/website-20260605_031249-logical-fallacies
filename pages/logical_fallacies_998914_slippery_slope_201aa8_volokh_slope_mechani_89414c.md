@@ -783,110 +783,110 @@ The practical lesson is that the presence of a slope argument is not the end of 
 
 1. <a id="endnote-1"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slippery.pdf](https://www2.law.ucla.edu/Volokh/slippery.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reason.com  
-   Link: [https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/](https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/)  
+   Link: <a href="https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Thinking About...1 Jun 2022 — The Article aims to describe the real-world paths that the metaphors represent—to provide...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reason.com  
-   Link: [https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/](https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/)  
+   Link: <a href="https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cost-Lowering [Slippery Slopes](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) as Multi-Peaked...Jun 9, 2022 — Cost-lowering slippery slopes, it turns out, are a special case of a broad...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: law.nyu.edu  
    Title: Law PATERNALIST SLOPES  
-   Link: [https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf](https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf)  
+   Link: <a href="https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rizzoby DG Whitman · Cited by 102 — And as Eugene. Volokh has argued, slippery slopes are closely connected to phe- nomena such as “bound...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/VOLSSA](https://philpapers.org/rec/VOLSSA)  
+   Link: <a href="https://philpapers.org/rec/VOLSSA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/VOLSSA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene Volokh. In Hugh LaFollette, The International Encyclopedia of Ethics. Hoboken, NJ: Wiley-Blackwell (2013). @incollection...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: hls.harvard.edu  
    Title: eugene volokh of the volokh conspiracy discusses slippery slope arguments video  
-   Link: [https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/](https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/)  
+   Link: <a href="https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/" target="_blank" rel="noopener noreferrer nofollow">https://hls.harvard.edu/today/eugene-volokh-of-the-volokh-conspiracy-discusses-slippery-slope-arguments-video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Law SchoolEugene Volokh, of The Volokh Conspiracy, discusses slippery...4 Oct 2011 — Eugene Volokh, professor at UCLA School of...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf](https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyshorter.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(This is a condensed version of an article published at. 116 Harv. L. Rev. 1026 (2003)). THE MECHANISMS OF THE SLIPPERY SLOPE...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: [https://www.youtube.com/watch?v=yxylBjtzMNQ](https://www.youtube.com/watch?v=yxylBjtzMNQ)  
+   Link: <a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you outsmart the slippery slope fallacy? - Elizabeth Cox...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Slippery slope  
-   Link: [https://en.wikipedia.org/wiki/Slippery_slope](https://en.wikipedia.org/wiki/Slippery_slope)  
+   Link: <a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/EUGENEvideo](https://www.youtube.com/EUGENEvideo)  
+   Link: <a href="https://www.youtube.com/EUGENEvideo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/EUGENEvideo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EUGENESinger. Songwriter. Producer. Arranger. Loves electronics. Energetic. Releasing tracks on Wall Of Sound UK, Kronos Records and Disc...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: eugene-or.gov  
-   Link: [https://www.eugene-or.gov/](https://www.eugene-or.gov/)  
+   Link: <a href="https://www.eugene-or.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.eugene-or.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene, OR Website | Official WebsiteThe City of Eugene--a great city for the arts and outdoors. Eugene, Oregon is consistently ranked on...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&mirid=1&type=2](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&mirid=1&type=2)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>slope argumentsA helpful analysis of some of the causal mechanisms has been given by Volokh. An important factor is that in a group (e.g...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: uclalawreview.org  
-   Link: [https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf](https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf)  
+   Link: <a href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rules, Theories, and Slippery Slopesby MJ Rizzo · Cited by 113 — 4 Eugene Volokh has produced a wide- ranging study of various possible s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: fliphtml5.com  
-   Link: [https://fliphtml5.com/ywqx/ulur/THE_MECHANISMS_OF_THE_SLIPPERY_SLOPE_Eugene_Volokh/44/](https://fliphtml5.com/ywqx/ulur/THE_MECHANISMS_OF_THE_SLIPPERY_SLOPE_Eugene_Volokh/44/)  
+   Link: <a href="https://fliphtml5.com/ywqx/ulur/THE_MECHANISMS_OF_THE_SLIPPERY_SLOPE_Eugene_Volokh/44/" target="_blank" rel="noopener noreferrer nofollow">https://fliphtml5.com/ywqx/ulur/THE_MECHANISMS_OF_THE_SLIPPERY_SLOPE_Eugene_Volokh/44/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MECHANISMS OF THE SLIPPERY SLOPE Eugene VolokhLooking For THE MECHANISMS OF THE SLIPPERY SLOPE Eugene Volokh? Read THE MECHANISMS OF...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mason.gmu.edu  
-   Link: [https://mason.gmu.edu/~bbrown/courses/2004spring/puad700/SlipperySlope_LegalAffairsMar-Apr03.pdf](https://mason.gmu.edu/~bbrown/courses/2004spring/puad700/SlipperySlope_LegalAffairsMar-Apr03.pdf)  
+   Link: <a href="https://mason.gmu.edu/~bbrown/courses/2004spring/puad700/SlipperySlope_LegalAffairsMar-Apr03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mason.gmu.edu/~bbrown/courses/2004spring/puad700/SlipperySlope_LegalAffairsMar-Apr03.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This essay is adapted from his article &quot;The Mechanisms of the. Slippery Slope,&quot; recently published in the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
    Title: 228189621 The Mechanisms of the Slippery Slope  
-   Link: [https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope](https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope)  
+   Link: <a href="https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228189621_The_Mechanisms_of_the_Slippery_Slope</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 2000. Eugene Volokh. Volokh presents four cyberspace speech controversies that involve an interesting modern body of...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: stafforini.com  
    Title: volokh 2003 mechanisms slippery slope  
-   Link: [https://stafforini.com/works/volokh-2003-mechanisms-slippery-slope/](https://stafforini.com/works/volokh-2003-mechanisms-slippery-slope/)  
+   Link: <a href="https://stafforini.com/works/volokh-2003-mechanisms-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://stafforini.com/works/volokh-2003-mechanisms-slippery-slope/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The mechanisms of the slippery slopeThe mechanisms of the slippery slope. Eugene Volokh. Harvard Law Review, vol. 116, no. 4, 2003, pp. 1...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: freakonomics.com  
    Title: enough with the slippery slopes  
-   Link: [https://freakonomics.com/podcast/enough-with-the-slippery-slopes/](https://freakonomics.com/podcast/enough-with-the-slippery-slopes/)  
+   Link: <a href="https://freakonomics.com/podcast/enough-with-the-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow">https://freakonomics.com/podcast/enough-with-the-slippery-slopes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>!7 Jun 2023 — Eugene Volokh, at the University of California, Los Angeles, thinks that rushing to call every slippery-slope argument a fa...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID3138302 code2885242  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&mirid=1&type=2](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&mirid=1&type=2)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comInternet, freedom of speech and slippery slope argumentAbstract: Eugene Volokh, a renowned advocate of protection of [free speech](&amp;#123;&amp;#123; &#x27;free-speech/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Eugene (given name)  
-   Link: [https://en.wikipedia.org/wiki/Eugene_%28given_name%29](https://en.wikipedia.org/wiki/Eugene_%28given_name%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Eugene_%28given_name%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eugene_%28given_name%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene (given name)Eugene is a common masculine given name that comes from the Greek εὐγενής (eugenēs), &quot;noble&quot;, literally &quot;well-born&quot;...</p></details>

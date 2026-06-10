@@ -501,7 +501,7 @@ image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada-overvie
 
 ## Introduction
 
-“Team Logo Causation” is a useful name for a familiar sports superstition: a team changes, mistreats, hides, modernises, steps on, or stops wearing a logo, and fans then treat the next losing streak as proof that the logo caused it. The reasoning feels persuasive because the timing is easy to see. The new badge appeared; the defeats followed. But within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is usually a [post hoc]({{ 'post-hoc/' | relative_url }}) error: assuming that because one event came before another, it caused the later event. Chronology can raise a question, but it is not enough to prove cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Post Hoc Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">Post Hoc Fallacy | Definition &amp; Examples</span></span></span>
+“Team Logo Causation” is a useful name for a familiar sports superstition: a team changes, mistreats, hides, modernises, steps on, or stops wearing a logo, and fans then treat the next losing streak as proof that the logo caused it. The reasoning feels persuasive because the timing is easy to see. The new badge appeared; the defeats followed. But within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is usually a [post hoc]({{ 'post-hoc/' | relative_url }}) error: assuming that because one event came before another, it caused the later event. Chronology can raise a question, but it is not enough to prove cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Post Hoc Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Post Hoc Fallacy &#124; Definition &amp; Examples</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-overview.webp" | relative_url }}" alt="Overview image for Sports Cause" loading="eager" decoding="sync" fetchpriority="high">
@@ -1010,117 +1010,117 @@ The cleanest conclusion is modest: logo events can affect fan identity, mood and
 1. <a id="endnote-1"></a>
    Source: scribbr.com  
    Title: Post Hoc Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.com/fallacies/post-hoc-fallacy/](https://www.scribbr.com/fallacies/post-hoc-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/post-hoc-fallacy/</a>  
 
 2. <a id="endnote-2"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees](https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees)  
+   Link: <a href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees</a>  
 
 3. <a id="endnote-3"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals  
-   Link: [https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf](https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf)  
+   Link: <a href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: diehardsport.com  
-   Link: [https://www.diehardsport.com/nhl/justin-bieber-stands-blackhawks-logo-locker-room-photo/](https://www.diehardsport.com/nhl/justin-bieber-stands-blackhawks-logo-locker-room-photo/)  
+   Link: <a href="https://www.diehardsport.com/nhl/justin-bieber-stands-blackhawks-logo-locker-room-photo/" target="_blank" rel="noopener noreferrer nofollow">https://www.diehardsport.com/nhl/justin-bieber-stands-blackhawks-logo-locker-room-photo/</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1605.08753](https://arxiv.org/abs/1605.08753)  
+   Link: <a href="https://arxiv.org/abs/1605.08753" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1605.08753</a>  
 
 6. <a id="endnote-6"></a>
    Source: research.vu.nl  
    Title: Vrije Universiteit Amsterdam  
-   Link: [https://research.vu.nl/ws/portalfiles/portal/2177196/Schippers%20Journal%20of%20Applied%20Social%20Psychology%2036%202006%20u.pdf](https://research.vu.nl/ws/portalfiles/portal/2177196/Schippers%20Journal%20of%20Applied%20Social%20Psychology%2036%202006%20u.pdf)  
+   Link: <a href="https://research.vu.nl/ws/portalfiles/portal/2177196/Schippers%20Journal%20of%20Applied%20Social%20Psychology%2036%202006%20u.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/ws/portalfiles/portal/2177196/Schippers%20Journal%20of%20Applied%20Social%20Psychology%2036%202006%20u.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.03057v1](https://arxiv.org/html/2506.03057v1)  
+   Link: <a href="https://arxiv.org/html/2506.03057v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.03057v1</a>  
 
 8. <a id="endnote-8"></a>
    Source: creativebloq.com  
-   Link: [https://www.creativebloq.com/design/logos-icons/appeasing-fans-doesnt-mean-standing-still-inside-the-art-of-nfl-logos](https://www.creativebloq.com/design/logos-icons/appeasing-fans-doesnt-mean-standing-still-inside-the-art-of-nfl-logos)  
+   Link: <a href="https://www.creativebloq.com/design/logos-icons/appeasing-fans-doesnt-mean-standing-still-inside-the-art-of-nfl-logos" target="_blank" rel="noopener noreferrer nofollow">https://www.creativebloq.com/design/logos-icons/appeasing-fans-doesnt-mean-standing-still-inside-the-art-of-nfl-logos</a>  
 
 9. <a id="endnote-9"></a>
    Source: abs.gov.au  
-   Link: [https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation)  
+   Link: <a href="https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation" target="_blank" rel="noopener noreferrer nofollow">https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation</a>  
 
 10. <a id="endnote-10"></a>
    Source: twointhebox.com  
    Title: Two in the Box Tread lightly, logo etiquette in the locker room  
-   Link: [https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/](https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/)  
+   Link: <a href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow">https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/</a>  
 
 11. <a id="endnote-11"></a>
    Source: sportingnews.com  
    Title: Sporting News Why I don't step on the logo in NHL locker rooms  
-   Link: [https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw](https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw)  
+   Link: <a href="https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw" target="_blank" rel="noopener noreferrer nofollow">https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw</a>  
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/28446456/](https://pubmed.ncbi.nlm.nih.gov/28446456/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28446456/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28446456/</a>  
 
 13. <a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/20511389/](https://pubmed.ncbi.nlm.nih.gov/20511389/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20511389/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20511389/</a>  
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26839047/](https://pubmed.ncbi.nlm.nih.gov/26839047/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26839047/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26839047/</a>  
 
 15. <a id="endnote-15"></a>
    Source: scribbr.co.uk  
    Title: rrelation and causation  
-   Link: [https://www.scribbr.co.uk/research-methods/correlation-and-causation/](https://www.scribbr.co.uk/research-methods/correlation-and-causation/)  
+   Link: <a href="https://www.scribbr.co.uk/research-methods/correlation-and-causation/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/research-methods/correlation-and-causation/</a>  
 
 16. <a id="endnote-16"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/cause.html](https://philosophy.lander.edu/logic/cause.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/cause.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/cause.html</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QZ7_OX51JuM](https://www.youtube.com/watch?v=QZ7_OX51JuM)  
+   Link: <a href="https://www.youtube.com/watch?v=QZ7_OX51JuM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QZ7_OX51JuM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data fallacies/Statistical fallacies to avoid. Cherry picking, Simpson&#x27;s paradox, Gambler&#x27;s fallacy...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: 10 Sports Curses That Will Make You Believe in Fate  
-   Link: [https://www.youtube.com/watch?v=4DXd8qgDCY4](https://www.youtube.com/watch?v=4DXd8qgDCY4)  
+   Link: <a href="https://www.youtube.com/watch?v=4DXd8qgDCY4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4DXd8qgDCY4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sports superstitions psychology logical fallacies post hoc The Fallacy Of Moving The Goalpost Lernabit...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Ad hoc Fallacy vs. Post hoc Fallacy  
-   Link: [https://www.youtube.com/watch?v=fUJimOi0hio](https://www.youtube.com/watch?v=fUJimOi0hio)  
+   Link: <a href="https://www.youtube.com/watch?v=fUJimOi0hio" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fUJimOi0hio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lottery Trap: Why Your Brain Falls for the Illusion of Control | Psychology of Randomness...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zzJgn12le4Q](https://www.youtube.com/watch?v=zzJgn12le4Q)  
+   Link: <a href="https://www.youtube.com/watch?v=zzJgn12le4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zzJgn12le4Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Curses Of American Sports...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sportsblog.com  
-   Link: [https://www.sportsblog.com/jeffnixon/bills-beat-the-dolphins-to-end-the-streak-/](https://www.sportsblog.com/jeffnixon/bills-beat-the-dolphins-to-end-the-streak-/)  
+   Link: <a href="https://www.sportsblog.com/jeffnixon/bills-beat-the-dolphins-to-end-the-streak-/" target="_blank" rel="noopener noreferrer nofollow">https://www.sportsblog.com/jeffnixon/bills-beat-the-dolphins-to-end-the-streak-/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/853552931365745/posts/6922379167816394/](https://www.facebook.com/groups/853552931365745/posts/6922379167816394/)  
+   Link: <a href="https://www.facebook.com/groups/853552931365745/posts/6922379167816394/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/853552931365745/posts/6922379167816394/</a>  
 
 23. <a id="endnote-23"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Examining-the-superstitions-of-sport-fans%3A-types-of-End-Grieve/0ca81b5890a761999bdd06b3b36aa6cc87efbb52](https://www.semanticscholar.org/paper/Examining-the-superstitions-of-sport-fans%3A-types-of-End-Grieve/0ca81b5890a761999bdd06b3b36aa6cc87efbb52)  
+   Link: <a href="https://www.semanticscholar.org/paper/Examining-the-superstitions-of-sport-fans%3A-types-of-End-Grieve/0ca81b5890a761999bdd06b3b36aa6cc87efbb52" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Examining-the-superstitions-of-sport-fans%3A-types-of-End-Grieve/0ca81b5890a761999bdd06b3b36aa6cc87efbb52</a>  
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification](https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification)  
+   Link: <a href="https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/welcometojetsville/posts/1301255729932367/](https://www.facebook.com/groups/welcometojetsville/posts/1301255729932367/)  
+   Link: <a href="https://www.facebook.com/groups/welcometojetsville/posts/1301255729932367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/welcometojetsville/posts/1301255729932367/</a>  
 
 26. <a id="endnote-26"></a>
    Source: scitechnol.com  
-   Link: [https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281](https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281)  
+   Link: <a href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow">https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281</a>  

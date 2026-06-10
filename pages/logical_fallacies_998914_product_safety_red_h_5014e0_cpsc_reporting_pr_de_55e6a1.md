@@ -281,7 +281,7 @@ The structure of the law reflects a simple governance principle. Hazard informat
 
 The core reporting duty arises under Section 15(b) of the Consumer Product Safety Act. Manufacturers, importers, distributors, and retailers must notify the CPSC when they obtain information that reasonably supports the conclusion that a product violates a safety requirement, contains a defect that could create a substantial product hazard, or presents an unreasonable risk of serious injury or death. Reporting is required within 24 hours of obtaining reportable information. [U.S. Consumer Product Safety Commission+3U.S. Consumer Product Safety Commission+3eCFR]
 
-Importantly, the trigger is not a final determination that a product is definitely dangerous. The standard is lower. Information may come from injury reports, consumer complaints, quality-control findings, testing results, warranty claims, litigation, retailer feedback, or other evidence indicating a possible substantial hazard. Regulators intentionally set the threshold before complete certainty because waiting for definitive proof can delay protective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">eCFR16 CFR Part 1115 -- Substantial Product Hazard ReportsA subject firm must report when it obtains information indicating that a consum...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerproductslawblog.com/2014/12/timeliness-of-section-15b-reporting-continues-role-as-cpsc-enforcement-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerproductslawblog.com">[Consumer Products Law Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerproductslawblog.com</span><span class="citation-popover-title">timeliness of section 15b reporting continues role as cpsc enforcement tool</span><span class="citation-popover-snippet">Timeliness of Section 15(b) reporting continues role as...8 Dec 2014 — According to regulations implementing Section 15(b), immediate re...</span></span></span>
+Importantly, the trigger is not a final determination that a product is definitely dangerous. The standard is lower. Information may come from injury reports, consumer complaints, quality-control findings, testing results, warranty claims, litigation, retailer feedback, or other evidence indicating a possible substantial hazard. Regulators intentionally set the threshold before complete certainty because waiting for definitive proof can delay protective action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">16 CFR Part 1115 -- Substantial Product Hazard ReportsA subject firm must report when it obtains information indicating that a consum...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerproductslawblog.com/2014/12/timeliness-of-section-15b-reporting-continues-role-as-cpsc-enforcement-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerproductslawblog.com">[Consumer Products Law Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerproductslawblog.com</span><span class="citation-popover-title">timeliness of section 15b reporting continues role as cpsc enforcement tool</span><span class="citation-popover-snippet">Timeliness of Section 15(b) reporting continues role as...8 Dec 2014 — According to regulations implementing Section 15(b), immediate re...</span></span></span>
 
 This reporting structure directly counters a common red-herring move in safety controversies. A company may point to customer satisfaction, market success, or an absence of confirmed conclusions. Yet the legal question is often whether the available information reasonably suggested a reportable hazard. Positive brand narratives do not answer that question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blankrome.com/news-and-events/the-importance-of-timely-product-safety-reporting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blankrome.com">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blankrome.com</span><span class="citation-popover-snippet">ers, importers, distributors and retailers to notify CPSC immediately...Read more...</span></span></span>. Consumer Product Safety Commission
 
@@ -304,7 +304,7 @@ This distinction is important when evaluating public claims. “We are investiga
 
 The reporting system changes the accountability question from “Did the company eventually admit there was a problem?” to “What did the company know, and when did it know it?” That shift matters because many safety controversies revolve around timing rather than ultimate outcomes.
 
-When regulators evaluate potential reporting violations, they often focus on internal knowledge, complaint patterns, testing data, injury reports, and decision-making timelines. The central issue becomes whether available information reasonably supported a reportable conclusion before the company acted. A well-crafted public-relations campaign cannot change the underlying chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">eCFR16 CFR Part 1115 -- Substantial Product Hazard ReportsA subject firm must report when it obtains information indicating that a consum...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerproductslawblog.com/2014/12/timeliness-of-section-15b-reporting-continues-role-as-cpsc-enforcement-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerproductslawblog.com">[Consumer Products Law Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerproductslawblog.com</span><span class="citation-popover-title">timeliness of section 15b reporting continues role as cpsc enforcement tool</span><span class="citation-popover-snippet">Timeliness of Section 15(b) reporting continues role as...8 Dec 2014 — According to regulations implementing Section 15(b), immediate re...</span></span></span>
+When regulators evaluate potential reporting violations, they often focus on internal knowledge, complaint patterns, testing data, injury reports, and decision-making timelines. The central issue becomes whether available information reasonably supported a reportable conclusion before the company acted. A well-crafted public-relations campaign cannot change the underlying chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">16 CFR Part 1115 -- Substantial Product Hazard ReportsA subject firm must report when it obtains information indicating that a consum...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerproductslawblog.com/2014/12/timeliness-of-section-15b-reporting-continues-role-as-cpsc-enforcement-tool/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerproductslawblog.com">[Consumer Products Law Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerproductslawblog.com</span><span class="citation-popover-title">timeliness of section 15b reporting continues role as cpsc enforcement tool</span><span class="citation-popover-snippet">Timeliness of Section 15(b) reporting continues role as...8 Dec 2014 — According to regulations implementing Section 15(b), immediate re...</span></span></span>
 
 The CPSC's enforcement authority reinforces this focus. The agency can pursue civil penalties for knowing failures to comply with reporting obligations, and recent enforcement discussions have continued to emphasise late-reporting cases as a significant area of regulatory attention. The legal risk arises from delayed disclosure itself, not merely from the underlying defect. Arnold & Porter 3Morrison Foerster <span class="citation-chip-wrap"><a class="citation-chip" href="https://www" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: CPSC Webinar Improvements to Section 15b Reporting via https://www">[3U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">CPSC Webinar Improvements to Section 15b Reporting via https://www</span><span class="citation-popover-snippet">Consumer Product Safety CommissionDuty to Report to CPSC: Rights and Responsibilities of...A company must report to the Commission withi</span><span class="citation-popover-meta">Published: May 6, 2021</span></span></span>
 
@@ -746,70 +746,70 @@ As a result, when a product-safety controversy emerges, the most important quest
 1. <a id="endnote-1"></a>
    Source: cpsc.gov  
    Title: Duty to Report to CPSC Rights and Responsibilities of Businesses  
-   Link: [https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-CPSC-Rights-and-Responsibilities-of-Businesses](https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-CPSC-Rights-and-Responsibilities-of-Businesses)  
+   Link: <a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-CPSC-Rights-and-Responsibilities-of-Businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-CPSC-Rights-and-Responsibilities-of-Businesses</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionDuty to Report to CPSC: Rights and Responsibilities of...A company must report to the Commission withi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cpsc.gov  
    Title: Unregulated Products  
-   Link: [https://www.cpsc.gov/Regulations-Laws--Standards/Unregulated-Products](https://www.cpsc.gov/Regulations-Laws--Standards/Unregulated-Products)  
+   Link: <a href="https://www.cpsc.gov/Regulations-Laws--Standards/Unregulated-Products" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Regulations-Laws--Standards/Unregulated-Products</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionUnregulated ProductsManufacturers, importers, distributors, and retailers are required to report to CPS...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ecfr.gov  
    Title: part 1115  
-   Link: [https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115](https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eCFR16 CFR Part 1115 -- Substantial Product Hazard ReportsA subject firm must report when it obtains information indicating that a consum...</p></details>
+   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 1115 -- Substantial Product Hazard ReportsA subject firm must report when it obtains information indicating that a consum...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cpsc.gov  
    Title: Duty To Report Questions  
-   Link: [https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-To-Report-Questions](https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-To-Report-Questions)  
+   Link: <a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-To-Report-Questions" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-To-Report-Questions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionDuty To Report QuestionsA company must report to the Commission within 24 hours of obtaining reportable...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cpsc.gov  
    Title: Issues Regulations For Reporting Product Defects  
-   Link: [https://www.cpsc.gov/Newsroom/News-Releases/2012/CPSC-Issues-Regulations-For-Reporting-Product-Defects](https://www.cpsc.gov/Newsroom/News-Releases/2012/CPSC-Issues-Regulations-For-Reporting-Product-Defects)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2012/CPSC-Issues-Regulations-For-Reporting-Product-Defects" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2012/CPSC-Issues-Regulations-For-Reporting-Product-Defects</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionCPSC Issues Regulations For Reporting Product DefectsCPSC has issued final regulations requiring that m...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf](https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf)  
+   Link: <a href="https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/RecallHandbookFINAL9_2technicalrevision_3052025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionProduct Safety Planning, Reporting, and Recall HandbookThe CPSC encourages companies to report potentia...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/s3fs-public/8002.pdf](https://www.cpsc.gov/s3fs-public/8002.pdf)  
+   Link: <a href="https://www.cpsc.gov/s3fs-public/8002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/8002.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionRecall Handbook (revised)The Commission encourages companies to report potential substantial product ha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cpsc.gov  
    Title: Duty to Report to the CPSC Your Rights and Responsibilities  
-   Link: [https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities](https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities)  
+   Link: <a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionDuty to Report to CPSC: Rights and Responsibilities...The Commission encourages companies to report po...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cpsc.gov  
    Title: FY24 Annual Report 0  
-   Link: [https://www.cpsc.gov/s3fs-public/CPSC-FY24-Annual-Report_0.pdf](https://www.cpsc.gov/s3fs-public/CPSC-FY24-Annual-Report_0.pdf)  
+   Link: <a href="https://www.cpsc.gov/s3fs-public/CPSC-FY24-Annual-Report_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/s3fs-public/CPSC-FY24-Annual-Report_0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionAnnual ReportThe CPSC can seek civil penalties when companies knowingly fail to report to the. Commissi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cpsc.gov  
    Title: FAQs For Consumers  
-   Link: [https://www.cpsc.gov/About-CPSC/Division-of-Field-Operations/FAQs-For-Consumers](https://www.cpsc.gov/About-CPSC/Division-of-Field-Operations/FAQs-For-Consumers)  
+   Link: <a href="https://www.cpsc.gov/About-CPSC/Division-of-Field-Operations/FAQs-For-Consumers" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/About-CPSC/Division-of-Field-Operations/FAQs-For-Consumers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionFor consumers contacted by a CPSC investigatorThese reports are used by CPSC to: Begin new investigatio...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/How-to-Conduct-a-Recall/Filing-an-Online-Initial-Section-15b-Report](https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/How-to-Conduct-a-Recall/Filing-an-Online-Initial-Section-15b-Report)  
+   Link: <a href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/How-to-Conduct-a-Recall/Filing-an-Online-Initial-Section-15b-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/How-to-Conduct-a-Recall/Filing-an-Online-Initial-Section-15b-Report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Business button in the center of the menu.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cpsc.gov  
    Title: CPS C Business Education | Improvements to Section 15b  
-   Link: [https://www.cpsc.gov/Newsroom/Video/CPSC-Business-Education-Improvements-to-Section-15b-Reporting-via-SaferProducts-gov](https://www.cpsc.gov/Newsroom/Video/CPSC-Business-Education-Improvements-to-Section-15b-Reporting-via-SaferProducts-gov)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/Video/CPSC-Business-Education-Improvements-to-Section-15b-Reporting-via-SaferProducts-gov" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/Video/CPSC-Business-Education-Improvements-to-Section-15b-Reporting-via-SaferProducts-gov</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CPSC Business Education | Improvements to Section 15b...May 06, 2...</p></details>
 
 0
@@ -823,74 +823,74 @@ As a result, when a product-safety controversy emerges, the most important quest
 13. <a id="endnote-13"></a>
    Source: consumerproductslawblog.com  
    Title: timeliness of section 15b reporting continues role as cpsc enforcement tool  
-   Link: [https://www.consumerproductslawblog.com/2014/12/timeliness-of-section-15b-reporting-continues-role-as-cpsc-enforcement-tool/](https://www.consumerproductslawblog.com/2014/12/timeliness-of-section-15b-reporting-continues-role-as-cpsc-enforcement-tool/)  
+   Link: <a href="https://www.consumerproductslawblog.com/2014/12/timeliness-of-section-15b-reporting-continues-role-as-cpsc-enforcement-tool/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerproductslawblog.com/2014/12/timeliness-of-section-15b-reporting-continues-role-as-cpsc-enforcement-tool/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Timeliness of Section 15(b) reporting continues role as...8 Dec 2014 — According to regulations implementing Section 15(b), immediate re...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: jonesday.com  
-   Link: [https://www.jonesday.com/en/insights/2025/07/landmark-enforcement-under-us-cpsa-leads-to-sentencing-of-corporate-executives-for-failure-to-report-product-hazards](https://www.jonesday.com/en/insights/2025/07/landmark-enforcement-under-us-cpsa-leads-to-sentencing-of-corporate-executives-for-failure-to-report-product-hazards)  
+   Link: <a href="https://www.jonesday.com/en/insights/2025/07/landmark-enforcement-under-us-cpsa-leads-to-sentencing-of-corporate-executives-for-failure-to-report-product-hazards" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2025/07/landmark-enforcement-under-us-cpsa-leads-to-sentencing-of-corporate-executives-for-failure-to-report-product-hazards</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jones DayLandmark CPSA Enforcement Leads to Sentencing of...July 14, 2025 — Two former executives were each sentenced to more than three...</p></details>
    Published: July 14, 2025  
 
 15. <a id="endnote-15"></a>
    Source: tanenbaumlaw.com  
-   Link: [https://www.tanenbaumlaw.com/faq/u-s-consumer-product-safety-commission/](https://www.tanenbaumlaw.com/faq/u-s-consumer-product-safety-commission/)  
+   Link: <a href="https://www.tanenbaumlaw.com/faq/u-s-consumer-product-safety-commission/" target="_blank" rel="noopener noreferrer nofollow">https://www.tanenbaumlaw.com/faq/u-s-consumer-product-safety-commission/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hat you and other consumers provide is a valuable resource for the CPSC.Read more...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: cov.com  
-   Link: [https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf](https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf)  
+   Link: <a href="https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/-/media/files/corporate/publications/2016/06/internal_investigations_involving_product_safety_issues.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internal Investigations Involving Product Safety IssuesIn recent years, the CPSC and NHTSA have assessed record penalties against compani...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: michaelbest.com  
    Title: 19 065m 15 8m 11 5m and 16m what do these big time cpsc penalties all h 102itt0  
-   Link: [https://www.michaelbest.com/insights/19-065m-15-8m-11-5m-and-16m-what-do-these-big-time-cpsc-penalties-all-h-102itt0/](https://www.michaelbest.com/insights/19-065m-15-8m-11-5m-and-16m-what-do-these-big-time-cpsc-penalties-all-h-102itt0/)  
+   Link: <a href="https://www.michaelbest.com/insights/19-065m-15-8m-11-5m-and-16m-what-do-these-big-time-cpsc-penalties-all-h-102itt0/" target="_blank" rel="noopener noreferrer nofollow">https://www.michaelbest.com/insights/19-065m-15-8m-11-5m-and-16m-what-do-these-big-time-cpsc-penalties-all-h-102itt0/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>what do these big time CPSC penalties all have in common...4 Dec 2023 — Under the CPSC regulations, if a consumer product that is sold t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nelsonmullins.com  
-   Link: [https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf](https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf)  
+   Link: <a href="https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nelsonmullins.com/storage/GYEkSRfSXXR0pCh2uKKywCfpOikzxkaqgyfFm9YW.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety Commission (CPSC) recalls and the CPSC&#x27;s efforts to enhance product safety...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: stinson.com  
    Title: newsroom publications Consumer Product Recalls on the Rise  
-   Link: [https://www.stinson.com/newsroom-publications-Consumer-Product-Recalls-on-the-Rise](https://www.stinson.com/newsroom-publications-Consumer-Product-Recalls-on-the-Rise)  
+   Link: <a href="https://www.stinson.com/newsroom-publications-Consumer-Product-Recalls-on-the-Rise" target="_blank" rel="noopener noreferrer nofollow">https://www.stinson.com/newsroom-publications-Consumer-Product-Recalls-on-the-Rise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Recalls on the Rise8 Feb 2023 — After a section 15(b) report is submitted, the CPSC will typically assign a CPSC claim h...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: blankrome.com  
-   Link: [https://www.blankrome.com/news-and-events/the-importance-of-timely-product-safety-reporting/](https://www.blankrome.com/news-and-events/the-importance-of-timely-product-safety-reporting/)  
+   Link: <a href="https://www.blankrome.com/news-and-events/the-importance-of-timely-product-safety-reporting/" target="_blank" rel="noopener noreferrer nofollow">https://www.blankrome.com/news-and-events/the-importance-of-timely-product-safety-reporting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ers, importers, distributors and retailers to notify CPSC immediately...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: saferproducts.gov  
    Title: Frequently Asked Questions  
-   Link: [https://www.saferproducts.gov/FAQs/FrequentlyAskedQuestions8](https://www.saferproducts.gov/FAQs/FrequentlyAskedQuestions8)  
+   Link: <a href="https://www.saferproducts.gov/FAQs/FrequentlyAskedQuestions8" target="_blank" rel="noopener noreferrer nofollow">https://www.saferproducts.gov/FAQs/FrequentlyAskedQuestions8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Business - Self-Reporting...Manufacturers (which includes importers), distributors, and retailers are required to report to CPSC under S...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/reporting-hazards-consumer-product-safety-commission-cpsc-sarda-ypile](https://www.linkedin.com/pulse/reporting-hazards-consumer-product-safety-commission-cpsc-sarda-ypile)  
+   Link: <a href="https://www.linkedin.com/pulse/reporting-hazards-consumer-product-safety-commission-cpsc-sarda-ypile" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/reporting-hazards-consumer-product-safety-commission-cpsc-sarda-ypile</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orking days unless circumstances justify a longer period.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: s3.amazonaws.com  
    Title: Consumer Product Safety Commission FAQs  
-   Link: [https://s3.amazonaws.com/cdn.kelleydrye.com/content/uploads/attachments/Consumer-Product-Safety-Commission-FAQs.pdf](https://s3.amazonaws.com/cdn.kelleydrye.com/content/uploads/attachments/Consumer-Product-Safety-Commission-FAQs.pdf)  
+   Link: <a href="https://s3.amazonaws.com/cdn.kelleydrye.com/content/uploads/attachments/Consumer-Product-Safety-Commission-FAQs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.amazonaws.com/cdn.kelleydrye.com/content/uploads/attachments/Consumer-Product-Safety-Commission-FAQs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Nov 2007 — Companies that have concluded that a substantial product hazard may exist must file an Initial Report within 24 hours of rea...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: duanemorris.com  
    Title: guidelines avoiding cpsc penalties 0517  
-   Link: [https://www.duanemorris.com/articles/guidelines_avoiding_cpsc_penalties_0517.html](https://www.duanemorris.com/articles/guidelines_avoiding_cpsc_penalties_0517.html)  
+   Link: <a href="https://www.duanemorris.com/articles/guidelines_avoiding_cpsc_penalties_0517.html" target="_blank" rel="noopener noreferrer nofollow">https://www.duanemorris.com/articles/guidelines_avoiding_cpsc_penalties_0517.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Guidelines for Avoiding CPSC Penalties1 May 2017 — Federal law requires a manufacturer, importer, distributor or retailer to report wit...</p></details>
    Published: May 2017  
 
 25. <a id="endnote-25"></a>
    Source: productsafety.com  
-   Link: [https://www.productsafety.com/section_15_reporting.htm](https://www.productsafety.com/section_15_reporting.htm)  
+   Link: <a href="https://www.productsafety.com/section_15_reporting.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.productsafety.com/section_15_reporting.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 15 Reporting Rules under the CPSCSection 15 requires subject firms to report immediately, or within 24 hours of obtaining the rel...</p></details>

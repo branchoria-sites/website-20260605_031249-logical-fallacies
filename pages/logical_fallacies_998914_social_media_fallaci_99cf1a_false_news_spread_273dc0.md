@@ -278,17 +278,17 @@ False claims often outrun careful corrections because [social media]({{ 'social-
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1-dark.svg" | relative_url }}" alt="False News illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research consistently shows that false news does not merely spread as widely as true information—it often spreads more quickly and reaches larger audiences. The result is an environment where misleading claims can establish themselves in public discussion before [corrections]({{ 'corrections/' | relative_url }}) arrive, making later attempts at debunking less effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
+Research consistently shows that false news does not merely spread as widely as true information—it often spreads more quickly and reaches larger audiences. The result is an environment where misleading claims can establish themselves in public discussion before [corrections]({{ 'corrections/' | relative_url }}) arrive, making later attempts at debunking less effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
 
 ## What the Twitter diffusion study found
 
-The most influential dataset on this question comes from a 2018 study published in *Science* by Soroush Vosoughi, Deb Roy and Sinan Aral. The researchers analysed roughly 126,000 verified true and false news stories shared on Twitter between 2006 and 2017. These stories generated more than 4.5 million tweets from about three million users. Claims were classified using multiple independent fact-checking organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span>
+The most influential dataset on this question comes from a 2018 study published in *Science* by Soroush Vosoughi, Deb Roy and Sinan Aral. The researchers analysed roughly 126,000 verified true and false news stories shared on Twitter between 2006 and 2017. These stories generated more than 4.5 million tweets from about three million users. Claims were classified using multiple independent fact-checking organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span>
 
-The central finding was striking: false news spread farther, faster, deeper and more broadly than true news across almost every category studied. False stories were substantially more likely to reach large audiences, and the largest false [cascades]({{ 'cascades/' | relative_url }}) reached many more people than the largest true ones. Political misinformation showed especially strong effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed Equally important]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span>, the researchers found that automated accounts were not the main explanation. When bot activity was accounted for, false information still spread more effectively than truthful information. Human behaviour played the decisive role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</span></span></span> For discussions of logical fallacies, this finding is significant because many viral falsehoods succeed not through strong evidence but through persuasive narratives, emotional reactions or flawed reasoning that people find compelling enough to share.
+The central finding was striking: false news spread farther, faster, deeper and more broadly than true news across almost every category studied. False stories were substantially more likely to reach large audiences, and the largest false [cascades]({{ 'cascades/' | relative_url }}) reached many more people than the largest true ones. Political misinformation showed especially strong effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed Equally important]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span>, the researchers found that automated accounts were not the main explanation. When bot activity was accounted for, false information still spread more effectively than truthful information. Human behaviour played the decisive role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</span></span></span> For discussions of logical fallacies, this finding is significant because many viral falsehoods succeed not through strong evidence but through persuasive narratives, emotional reactions or flawed reasoning that people find compelling enough to share.
 
 ## Why novelty and simplicity help weak arguments spread
 
-The same study explored why false news enjoys this advantage. One explanation was [novelty]({{ 'novelty/' | relative_url }}). False stories often contain surprising, unusual or unexpected claims, making them more attractive to share. Truthful reporting frequently contains qualifications, uncertainty and complexity, while false claims can be packaged as dramatic revelations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
+The same study explored why false news enjoys this advantage. One explanation was [novelty]({{ 'novelty/' | relative_url }}). False stories often contain surprising, unusual or unexpected claims, making them more attractive to share. Truthful reporting frequently contains qualifications, uncertainty and complexity, while false claims can be packaged as dramatic revelations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
 This creates a natural advantage for arguments that rely on logical shortcuts:
 
@@ -304,7 +304,7 @@ This creates a natural advantage for arguments that rely on logical shortcuts:
 
 Such arguments are easier to communicate in a short post than a careful discussion of evidence and uncertainty.
 
-Social sharing also rewards content that makes the sharer appear informed, connected or ahead of others. Novel information can provide social value regardless of whether it is accurate. Researchers associated false news diffusion with these novelty effects, suggesting that people are often motivated by the appeal of sharing something surprising rather than something verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
+Social sharing also rewards content that makes the sharer appear informed, connected or ahead of others. Novel information can provide social value regardless of whether it is accurate. Researchers associated false news diffusion with these novelty effects, suggesting that people are often motivated by the appeal of sharing something surprising rather than something verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tliyKmxEsw8" title="A question of trust" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tliyKmxEsw8" target="_blank" rel="noopener noreferrer">A question of trust</a></p><p class="youtube-embed-meta">Channel: Massachusetts Institute of Technology (MIT) &middot; Views: 9.4K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tliyKmxEsw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tliyKmxEsw8">Open on YouTube</a></p></div></div></div>
@@ -313,7 +313,7 @@ Social sharing also rewards content that makes the sharer appear informed, conne
 
 Corrections face a structural disadvantage. A false claim can be published instantly, while a correction usually requires investigation, verification and evidence gathering. By the time a fact-check appears, the original claim may already have travelled through multiple networks and conversations.
 
-Recent research examining political fact-checking in real-world information ecosystems found limitations in coverage, speed and reach. Many misinformation narratives were never fact-checked at all, and among those that were, fact-checks often appeared days after the original claim had begun spreading. Even when corrections existed, they formed only a small fraction of overall discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.13280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivPolitical Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and ReachDecember 17, 2024...</span><span class="citation-popover-meta">Published: December 17, 2024</span></span></span>
+Recent research examining political fact-checking in real-world information ecosystems found limitations in coverage, speed and reach. Many misinformation narratives were never fact-checked at all, and among those that were, fact-checks often appeared days after the original claim had begun spreading. Even when corrections existed, they formed only a small fraction of overall discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.13280" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and ReachDecember 17, 2024...</span><span class="citation-popover-meta">Published: December 17, 2024</span></span></span>
 
 A correction is also inherently more complicated than the original rumour. Explaining why a claim is wrong often requires [context]({{ 'context/' | relative_url }}), evidence and nuance. The false claim might fit into a single sentence; the correction may require several paragraphs. This imbalance favours the simpler message.
 
@@ -327,7 +327,7 @@ The problem is not only that corrections arrive later. Psychological research sh
 
 When people first hear a claim, they often incorporate it into their mental understanding of an event. A later correction may remove the factual basis of the claim, but the original narrative can remain psychologically useful because it provides a coherent explanation.
 
-Researchers studying misinformation correction have repeatedly found that people can continue relying on corrected information when making judgements and drawing conclusions. In practice, this means that a correction does not always erase the influence of a viral falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</span></span></span>
+Researchers studying misinformation correction have repeatedly found that people can continue relying on corrected information when making judgements and drawing conclusions. In practice, this means that a correction does not always erase the influence of a viral falsehood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</span></span></span>
 
 Repetition adds another challenge. Studies on the "illusory truth effect" show that repeated exposure can increase the perceived credibility of a statement. The more often people encounter a claim, the more familiar it feels, and familiarity can be mistaken for truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span>
 
@@ -356,7 +356,7 @@ When encountering a viral claim:
 
 </div>
 
-The central lesson from the diffusion research is that false news succeeds partly because it fits the incentives of online sharing. Careful corrections require time, evidence and nuance. Social media often rewards the opposite. That mismatch helps explain why weak arguments can gain enormous visibility before their flaws become widely recognised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
+The central lesson from the diffusion research is that false news succeeds partly because it fits the incentives of online sharing. Careful corrections require time, evidence and nuance. Social media often rewards the opposite. That mismatch helps explain why weak arguments can gain enormous visibility before their flaws become widely recognised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-3-dark.svg" | relative_url }}" alt="False News illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -783,162 +783,162 @@ The central lesson from the diffusion research is that false news succeeds partl
 1. <a id="endnote-1"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/twitter-false-news-elections-scientific-study](https://www.wired.com/story/twitter-false-news-elections-scientific-study)  
+   Link: <a href="https://www.wired.com/story/twitter-false-news-elections-scientific-study" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/twitter-false-news-elections-scientific-study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, conducted by Sinan Aral and his colleagues at MIT, found that false news spreads more rapidly, broadly, and extensively tha...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2412.13280](https://arxiv.org/abs/2412.13280)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPolitical Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and ReachDecember 17, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2412.13280" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.13280</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Political Fact-Checking Efforts are Constrained by Deficiencies in Coverage, Speed, and ReachDecember 17, 2024...</p></details>
    Published: December 17, 2024  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan you believe it?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — In particular, we demonstrate that...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10636596/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformationby V Vellani · 2023 · Cited by 121 — In particular, we demonstrate that...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Familiarity backfire effects?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167811626000261](https://www.sciencedirect.com/science/article/pii/S0167811626000261)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167811626000261</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disentangling the competing...by IN Nibat · 2026 — Repetition reliably increases belief in misinformation (illusory truth effect), while...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9283209/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, we aimed to examine whether...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211368120300516](https://www.sciencedirect.com/science/article/pii/S2211368120300516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211368120300516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211368120300516</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the Backfire Effect: Measurement and Design...by B Swire-Thompson · 2020 · Cited by 416 — A backfire effect is when people...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.08048](https://arxiv.org/abs/2505.08048)  
+   Link: <a href="https://arxiv.org/abs/2505.08048" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08048</a>  
 
 10. <a id="endnote-10"></a>
    Source: ide.mit.edu  
-   Link: [https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf](https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf)  
+   Link: <a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — Falsehood diffused significantly farther, faster, deeper, and more broadly than the t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: [politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). media.mit.edu  
    Title: Vosoughi Science  
-   Link: [https://politics.media.mit.edu/papers/Vosoughi_Science.pdf](https://politics.media.mit.edu/papers/Vosoughi_Science.pdf)  
+   Link: <a href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://politics.media.mit.edu/papers/Vosoughi_Science.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · Cited by 13616 — This suggests that false news spreads farther, faster, deeper, and m...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0167923625001241](https://www.sciencedirect.com/science/article/pii/S0167923625001241)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167923625001241" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167923625001241</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of information updates on the effectiveness of corrections. JMIS, 42 (2025)...Read...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Misinformation and its correction: Continued  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking “fake news” on social media: Immediate and...by LM Berger · 2025 · Cited by 20 — Media literacy interventions as a means to fi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29590045/](https://pubmed.ncbi.nlm.nih.gov/29590045/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — We investigated the differential diffusion of all o...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26173286/](https://pubmed.ncbi.nlm.nih.gov/26173286/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We first examine the mechan...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26173286/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26173286/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We first examine the mechan...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: research-information.bris.ac.uk  
    Title: University of Bristol Ecker, UKH, Lewandowsky, S., & Chadwick, M  
-   Link: [https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf](https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/248823488/untitled.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2020). Canby UKH Ecker · 2020 · Cited by 205 — Misinformation often continues to influence inferential reasoning after clear and credibl...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/1529100612451018](https://journals.sagepub.com/doi/abs/10.1177/1529100612451018)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100612451018" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100612451018</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsMisinformation and Its Correction: Continued Influence and...by S Lewandowsky · 2012 · Cited by 4713 — We look at people&#x27;s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: faculty-directory.dartmouth.edu  
-   Link: [https://faculty-directory.dartmouth.edu/soroush-vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi)  
+   Link: <a href="https://faculty-directory.dartmouth.edu/soroush-vosoughi" target="_blank" rel="noopener noreferrer nofollow">https://faculty-directory.dartmouth.edu/soroush-vosoughi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vosoughi - Faculty Directory - DartmouthI lead the Minds, Machine, and Society group in Dartmouth&#x27;s Department of Computer Science...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447889/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MW Susmann · 2021 · Cited by 90 — Research examining the continued influence effect (CIE) of misinformation has reliably found that...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9188446/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2018) found that fake news can diffuse much faster and reach more people than the truth. They...Read more...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online](https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online)  
+   Link: <a href="https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36447785/The_spread_of_true_and_false_news_online</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The spread of true and false news onlineThis research examines the dynamics of true and false news dissemination on Twitter, focusi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: alivosoughi.com  
-   Link: [https://alivosoughi.com/](https://alivosoughi.com/)  
+   Link: <a href="https://alivosoughi.com/" target="_blank" rel="noopener noreferrer nofollow">https://alivosoughi.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ali Vosoughi – Ph.D. CandidateAli Vosoughi&#x27;s research centers on multimodal foundation models — spanning world models, agentic systems, a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2018/03/08/false-news-spreads-faster-1520537127](https://www.axios.com/2018/03/08/false-news-spreads-faster-1520537127)  
+   Link: <a href="https://www.axios.com/2018/03/08/false-news-spreads-faster-1520537127" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2018/03/08/false-news-spreads-faster-1520537127</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon is attributed to human behavior rather than bots, as people tend to prefer and share novel information, often false. Bren...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect](https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect)  
+   Link: <a href="https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343887042_Can_corrections_spread_misinformation_to_new_audiences_Testing_for_the_elusive_familiarity_backfire_effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can corrections spread misinformation to new audiences...Misinformation often continues to influence inferential reasoning after clear a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sinanaral.medium.com  
-   Link: [https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8](https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8)  
+   Link: <a href="https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8" target="_blank" rel="noopener noreferrer nofollow">https://sinanaral.medium.com/fake-news-about-our-fake-news-study-spread-faster-than-its-truth-just-as-we-predicted-77db6d9ca8c8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News about our Fake News Study Spread Faster than its...Our paper showed that the speed of false news is correlated with the fact that i...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/papers/the-spread-of-true-and-false-news-online-ouxpcbw2ek?citations_page=169](https://scispace.com/papers/the-spread-of-true-and-false-news-online-ouxpcbw2ek?citations_page=169)  
+   Link: <a href="https://scispace.com/papers/the-spread-of-true-and-false-news-online-ouxpcbw2ek?citations_page=169" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/the-spread-of-true-and-false-news-online-ouxpcbw2ek?citations_page=169</a>  
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/372075978_Examining_the_replicability_of_backfire_effects_after_standalone_corrections](https://www.researchgate.net/publication/372075978_Examining_the_replicability_of_backfire_effects_after_standalone_corrections)  
+   Link: <a href="https://www.researchgate.net/publication/372075978_Examining_the_replicability_of_backfire_effects_after_standalone_corrections" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372075978_Examining_the_replicability_of_backfire_effects_after_standalone_corrections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ented without initial misinformation exposure—can backfire and increase participants&#x27;...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/cliffs-questions/8675811](https://www.cliffsnotes.com/cliffs-questions/8675811)  
+   Link: <a href="https://www.cliffsnotes.com/cliffs-questions/8675811" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/cliffs-questions/8675811</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rther, deeper, and more broadly than true news; Human behavior (not bots)...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing](https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing)  
+   Link: <a href="https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258180567_Misinformation_and_Its_Correction_Continued_Influence_and_Successful_Debiasing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tions of misinformation are so ineffective in memory updating and why...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: abc.net.au  
    Title: who spreads false news on twitter bots and us study  
-   Link: [https://www.abc.net.au/news/science/2018-03-09/who-spreads-false-news-on-twitter-bots-and-us-study/9519402](https://www.abc.net.au/news/science/2018-03-09/who-spreads-false-news-on-twitter-bots-and-us-study/9519402)  
+   Link: <a href="https://www.abc.net.au/news/science/2018-03-09/who-spreads-false-news-on-twitter-bots-and-us-study/9519402" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/science/2018-03-09/who-spreads-false-news-on-twitter-bots-and-us-study/9519402</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Fake news&#x27; spreads faster online than the truth, finds...8 Mar 2018 — False news spread &quot;farther, faster, deeper, and more broadly&quot; tha...</p></details>

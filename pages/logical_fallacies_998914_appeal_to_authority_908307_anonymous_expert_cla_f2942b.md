@@ -272,11 +272,11 @@ Arguments that rely on unnamed experts occupy a difficult position in critical t
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_anonymous_expert_cla_f2942b-Illustration-1-dark.svg" | relative_url }}" alt="Unnamed Experts illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_anonymous_expert_cla_f2942b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_anonymous_expert_cla_f2942b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not automatically make every anonymous expert claim false. Instead, it weakens the argument because an essential part of the supporting evidence is hidden from scrutiny. The less a claim can be independently verified, the more cautiously it should be treated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</span></span></span>
+This does not automatically make every anonymous expert claim false. Instead, it weakens the argument because an essential part of the supporting evidence is hidden from scrutiny. The less a claim can be independently verified, the more cautiously it should be treated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</span></span></span>
 
 ## Why Unnamed Sources Weaken Expert Appeals
 
-An appeal to authority becomes stronger when readers can investigate the authority being cited. When names, qualifications, publications, or institutional affiliations are supplied, it becomes possible to assess expertise and compare the claim against other evidence. Anonymous authorities remove those opportunities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argumentation_scheme" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argumentation scheme</span><span class="citation-popover-snippet">Argumentation scheme</span></span></span>
+An [appeal to authority]({{ 'authority/' | relative_url }}) becomes stronger when readers can investigate the authority being cited. When names, qualifications, publications, or institutional affiliations are supplied, it becomes possible to assess expertise and compare the claim against other evidence. Anonymous authorities remove those opportunities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argumentation_scheme" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argumentation scheme</span><span class="citation-popover-snippet">Argumentation scheme</span></span></span>
 
 Consider the difference between these two statements:
 
@@ -300,7 +300,7 @@ A claim may rely on one specialist, a small group, or an overwhelming profession
 
 **What are their qualifications?**
 
-Expertise is domain-specific. A respected physician is not automatically an authority on economics, and a prominent engineer is not necessarily qualified to evaluate medical treatments. Identifying the source allows readers to judge whether the expertise matches the subject. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy refers to the use of an expert&#x27;s opi...</span></span></span>
+Expertise is domain-specific. A respected physician is not automatically an authority on economics, and a prominent engineer is not necessarily qualified to evaluate medical treatments. Identifying the source allows readers to judge whether the expertise matches the subject. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy refers to the use of an expert&#x27;s opi...</span></span></span>
 
 **What exactly did they say?**
 
@@ -366,7 +366,7 @@ These questions shift attention away from prestige and back toward evidence. If 
 
 The appeal to authority is not fundamentally about whether experts can be trusted. Modern societies depend on specialised knowledge, and relying on expert testimony is often rational. The key issue is whether the authority can be evaluated. Anonymous experts undermine that process by preventing readers from checking qualifications, reliability, consensus, and supporting evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is appeal to authorityAppeals to authority are not valid arguments, but nor is it reasonable to disregard the claims...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelogicofscience.com">[The Logic of Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelogicofscience.com</span><span class="citation-popover-title">The Logic of Science Appealing to Authority vs</span><span class="citation-popover-snippet">Deferring to Experts20 Mar 2015 — This is the fallacy that occurs when you base your claim on the people who agree with you rather than o...</span></span></span>
 
-For that reason, claims framed as “experts say” should be treated as invitations to investigate rather than as proof. The more important the claim, the more important it becomes to know who the experts are, what evidence they rely on, and whether their views can withstand independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAnonymous AuthorityAppeals to anonymous sources are more often than not, a way to fabricate, exaggerate, or misrepres...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</span></span></span>
+For that reason, claims framed as “experts say” should be treated as invitations to investigate rather than as proof. The more important the claim, the more important it becomes to know who the experts are, what evidence they rely on, and whether their views can withstand independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAnonymous AuthorityAppeals to anonymous sources are more often than not, a way to fabricate, exaggerate, or misrepres...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -789,157 +789,157 @@ For that reason, claims framed as “experts say” should be treated as invitat
 
 1. <a id="endnote-1"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/](https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</p></details>
+   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — Assessing appeals to authority...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: testimony episprob  
-   Link: [https://plato.stanford.edu/entries/testimony-episprob/](https://plato.stanford.edu/entries/testimony-episprob/)  
+   Link: <a href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/testimony-episprob/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, there is disagreement about where exactly...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Argumentation scheme  
-   Link: [https://en.wikipedia.org/wiki/Argumentation_scheme](https://en.wikipedia.org/wiki/Argumentation_scheme)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentation_scheme" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentation_scheme</a>  
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/300558854_Evaluating_Expert_Opinion_Evidence](https://www.researchgate.net/publication/300558854_Evaluating_Expert_Opinion_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/300558854_Evaluating_Expert_Opinion_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/300558854_Evaluating_Expert_Opinion_Evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Evaluating Expert Opinion EvidenceThis chapter offers solutions to key problems of how to apply argumentation tools to analyze and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/](https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy refers to the use of an expert&#x27;s opi...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy refers to the use of an expert&#x27;s opi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentally, the fallacy involves accepting as evidence for a...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/appeal-to-authority](https://yourlogicalfallacyis.com/appeal-to-authority)  
+   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is appeal to authorityAppeals to authority are not valid arguments, but nor is it reasonable to disregard the claims...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: stanford.edu  
-   Link: [https://www.stanford.edu/](https://www.stanford.edu/)  
+   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/authority/](https://plato.stanford.edu/entries/authority/)  
+   Link: <a href="https://plato.stanford.edu/entries/authority/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/authority/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby T Christiano · 2004 · Cited by 248 — This entry surveys the main frameworks that philosophers have...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
    Title: Appeal to Authority Sources and Experts  
-   Link: [https://www.researchgate.net/publication/353213337_Appeal_to_Authority_Sources_and_Experts_docx](https://www.researchgate.net/publication/353213337_Appeal_to_Authority_Sources_and_Experts_docx)  
+   Link: <a href="https://www.researchgate.net/publication/353213337_Appeal_to_Authority_Sources_and_Experts_docx" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353213337_Appeal_to_Authority_Sources_and_Experts_docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>docxAssessing appeals to authority, including the evaluation of sources of information and the evaluation of the opinions of experts, sho...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352368133_The_Overuse_and_Misuse_of_%27Appeal_to_Authority%27](https://www.researchgate.net/publication/352368133_The_Overuse_and_Misuse_of_%27Appeal_to_Authority%27)  
+   Link: <a href="https://www.researchgate.net/publication/352368133_The_Overuse_and_Misuse_of_%27Appeal_to_Authority%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352368133_The_Overuse_and_Misuse_of_%27Appeal_to_Authority%27</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ption of its misuse by logical fallacies to clarifying the correct way of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Argument from authority  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_authority](https://en.wikipedia.org/wiki/Argument_from_authority)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from authorityAn argument from authority is a form of argument in which the opinion of an authority figure (or figures) is us...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority](https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAnonymous AuthorityAppeals to anonymous sources are more often than not, a way to fabricate, exaggerate, or misrepres...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thelogicofscience.com  
    Title: The Logic of Science Appealing to Authority vs  
-   Link: [https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/](https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/)  
+   Link: <a href="https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/" target="_blank" rel="noopener noreferrer nofollow">https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deferring to Experts20 Mar 2015 — This is the fallacy that occurs when you base your claim on the people who agree with you rather than o...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-authority](https://fallacyguide.com/fallacies/appeal-to-authority)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideAppeal to Authority (Argument from Authority) FallacyAppeal to authority treats an expert&#x27;s word as proof without eviden...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: finmasters.com  
    Title: appeal to authority fallacy  
-   Link: [https://finmasters.com/appeal-to-authority-fallacy/](https://finmasters.com/appeal-to-authority-fallacy/)  
+   Link: <a href="https://finmasters.com/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/appeal-to-authority-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When and How Is It Wrong...23 May 2023 — The appeal to authority fallacy occurs when one misuses the testimonies of perceived authoritie...</p></details>
    Published: May 2023  
 
 18. <a id="endnote-18"></a>
    Source: scribbr.co.uk  
    Title: Appeal to Authority Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/](https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scribbr16 Jun 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an authority figure s...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jun 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an authority figure s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/05/16/sports/stanford-womens-hoops-program-accused-of-toxic-environment-in-shocking-allegations/](https://nypost.com/2026/05/16/sports/stanford-womens-hoops-program-accused-of-toxic-environment-in-shocking-allegations/)  
+   Link: <a href="https://nypost.com/2026/05/16/sports/stanford-womens-hoops-program-accused-of-toxic-environment-in-shocking-allegations/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/16/sports/stanford-womens-hoops-program-accused-of-toxic-environment-in-shocking-allegations/</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb](https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb)  
+   Link: <a href="https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority ought to include Expert ConsensusI&#x27;m going to argue that appealing to expert authority isn&#x27;t simply bad reasoning, bu...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/patterns-of-argument/argumentation-schemes/waltons-argumentation-schemes/](https://www.reasoninglab.com/patterns-of-argument/argumentation-schemes/waltons-argumentation-schemes/)  
+   Link: <a href="https://www.reasoninglab.com/patterns-of-argument/argumentation-schemes/waltons-argumentation-schemes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/patterns-of-argument/argumentation-schemes/waltons-argumentation-schemes/</a>  
 
 22. <a id="endnote-22"></a>
    Source: webspace.science.uu.nl  
-   Link: [https://webspace.science.uu.nl/~prakk101/pubs/wscases10.pdf](https://webspace.science.uu.nl/~prakk101/pubs/wscases10.pdf)  
+   Link: <a href="https://webspace.science.uu.nl/~prakk101/pubs/wscases10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webspace.science.uu.nl/~prakk101/pubs/wscases10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper reports on a case study in which the use of the Rationale software was investigated to analyse the argumentation structure of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/](https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “authority” isn&#x27;t an expert. This is probably the most...FALLACY OF THE DAY: APPEAL TO AUTHORITY DEFINITION AND EXPLANATION: The app...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: research.rug.nl  
    Title: logical criticism and argumentation schemes postprint  
-   Link: [https://research.rug.nl/files/11120931/logical_criticism_and_argumentation_schemes_postprint.pdf](https://research.rug.nl/files/11120931/logical_criticism_and_argumentation_schemes_postprint.pdf)  
+   Link: <a href="https://research.rug.nl/files/11120931/logical_criticism_and_argumentation_schemes_postprint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/files/11120931/logical_criticism_and_argumentation_schemes_postprint.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>from expert opinion as a case in point van Laar, JAby JA van Laar · 2012 · Cited by 2 — The current paper aims at developing a parallel a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: quicktakes.io  
-   Link: [https://quicktakes.io/learn/philosophy-and-greek-myths/questions/how-can-one-identify-an-anonymous-authority-fallacy-in-a-text](https://quicktakes.io/learn/philosophy-and-greek-myths/questions/how-can-one-identify-an-anonymous-authority-fallacy-in-a-text)  
+   Link: <a href="https://quicktakes.io/learn/philosophy-and-greek-myths/questions/how-can-one-identify-an-anonymous-authority-fallacy-in-a-text" target="_blank" rel="noopener noreferrer nofollow">https://quicktakes.io/learn/philosophy-and-greek-myths/questions/how-can-one-identify-an-anonymous-authority-fallacy-in-a-text</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing the specific experts or studies can indicate an anonymous authority fallacy...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: philosophy.stackexchange.com  
    Title: is one commiting the argument from authority fallacy and or the consensus fal  
-   Link: [https://philosophy.stackexchange.com/questions/36228/is-one-commiting-the-argument-from-authority-fallacy-and-or-the-consensus-fal](https://philosophy.stackexchange.com/questions/36228/is-one-commiting-the-argument-from-authority-fallacy-and-or-the-consensus-fal)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/36228/is-one-commiting-the-argument-from-authority-fallacy-and-or-the-consensus-fal" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/36228/is-one-commiting-the-argument-from-authority-fallacy-and-or-the-consensus-fal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alice holds view A regarding subject X. Bob holds view B regarding subject X. View A and view B are...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: philosophy.stackexchange.com  
    Title: In a scientific context, it would be a fallacious  
-   Link: [https://philosophy.stackexchange.com/questions/109884/differentiating-an-argument-from-authority-from-expert-testimony](https://philosophy.stackexchange.com/questions/109884/differentiating-an-argument-from-authority-from-expert-testimony)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/109884/differentiating-an-argument-from-authority-from-expert-testimony" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/109884/differentiating-an-argument-from-authority-from-expert-testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an argument from authority from expert...25 Feb 2024 — Consider the following argument: The mathematical theorem T is a true theorem, b...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: thoughtco.com  
    Title: logical fallacies appeal to authority 250336  
-   Link: [https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336](https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336)  
+   Link: <a href="https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: Appeal to Authority31 Mar 2021 — The Appeal to Anonymous Authority is, essentially, giving testimony or advice that re...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/](https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/)  
+   Link: <a href="https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ompatibilists only to be told that&#x27;s an appeal to authority. I think...</p></details>

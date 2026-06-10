@@ -278,7 +278,7 @@ Detail flooding as a smokescreen is a diversion tactic in which a speaker overwh
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_detail_flood_smokesc_406497-Illustration-1-dark.svg" | relative_url }}" alt="Detail Flood illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_detail_flood_smokesc_406497-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_detail_flood_smokesc_406497-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The tactic works because people often treat quantity as a signal of quality. A detailed response can feel more credible than a concise one, even when the details do not establish the claim at issue. Research on information overload shows that excessive information can reduce people's ability to process evidence effectively and can impair decision-making, making it easier for important questions to disappear beneath complexity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDealing with information overload: a comprehensive reviewby M Arnold · 2023 · Cited by 402 — The aim of this systematic literature rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2667096824000508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Causes, consequences, and strategies to deal with...by L Shahrzadi · 2024 · Cited by 132 — This article reviews the existing literature...</span></span></span>
+The tactic works because people often treat quantity as a signal of quality. A detailed response can feel more credible than a concise one, even when the details do not establish the claim at issue. Research on information overload shows that excessive information can reduce people's ability to process evidence effectively and can impair decision-making, making it easier for important questions to disappear beneath complexity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Dealing with information overload: a comprehensive reviewby M Arnold · 2023 · Cited by 402 — The aim of this systematic literature rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2667096824000508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Causes, consequences, and strategies to deal with...by L Shahrzadi · 2024 · Cited by 132 — This article reviews the existing literature...</span></span></span>
 
 ## Why Extra Detail Feels Persuasive
 
@@ -291,7 +291,7 @@ Several psychological factors help explain why this happens:
 * **Cognitive effort:** Evaluating a simple claim is easier than sorting through a large volume of information. When information becomes dense, people may stop tracking the original issue.
 * **Perceived expertise:** Technical vocabulary, statistics, and procedural descriptions can signal competence even when they do not provide relevant evidence.
 * **Attention displacement:** The audience's limited attention is redirected from the key claim to the surrounding details.
-* **Information overload:** Studies of information processing consistently find that excessive information can reduce comprehension and decision quality rather than improve them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9444816/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">do information overload and message fatigue reduce...by B Mao · 2022 · Cited by 65 — This study examined how such an information overabu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDealing with information overload: a comprehensive reviewby M Arnold · 2023 · Cited by 402 — The aim of this systematic literature rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0001691825010807" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This study aims to explore the...Read mo...</span></span></span>
+* **Information overload:** Studies of information processing consistently find that excessive information can reduce comprehension and decision quality rather than improve them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9444816/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">do information overload and message fatigue reduce...by B Mao · 2022 · Cited by 65 — This study examined how such an information overabu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Dealing with information overload: a comprehensive reviewby M Arnold · 2023 · Cited by 402 — The aim of this systematic literature rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0001691825010807" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This study aims to explore the...Read mo...</span></span></span>
 
 The result is a subtle form of persuasion. Instead of refuting an argument, the speaker makes the audience work so hard to locate the argument that many stop looking.
 
@@ -833,127 +833,127 @@ As a mechanism within red herrings and argument diversions, detail flooding succ
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDealing with information overload: a comprehensive reviewby M Arnold · 2023 · Cited by 402 — The aim of this systematic literature rev...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10322198/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dealing with information overload: a comprehensive reviewby M Arnold · 2023 · Cited by 402 — The aim of this systematic literature rev...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2667096824000508](https://www.sciencedirect.com/science/article/pii/S2667096824000508)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2667096824000508" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667096824000508</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Causes, consequences, and strategies to deal with...by L Shahrzadi · 2024 · Cited by 132 — This article reviews the existing literature...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Information overload  
-   Link: [https://en.wikipedia.org/wiki/Information_overload](https://en.wikipedia.org/wiki/Information_overload)  
+   Link: <a href="https://en.wikipedia.org/wiki/Information_overload" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Information_overload</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information overloadInformation overload, also known as infobesity, infoxication, or information anxiety, is the difficulty in underst...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9444816/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9444816/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9444816/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9444816/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>do information overload and message fatigue reduce...by B Mao · 2022 · Cited by 65 — This study examined how such an information overabu...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29](https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of proof (philosophy)February 16, 2010 — The burden of proof is the obligation on a party in a dispute to provide sufficient warra...</p></details>
    Published: February 16, 2010  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA red herring fallacy, one of the main subtypes of fallacies of relevance, is an error in logic where a proposition i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691825010807](https://www.sciencedirect.com/science/article/pii/S0001691825010807)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825010807" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825010807</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study aims to explore the...Read mo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844024076345](https://www.sciencedirect.com/science/article/pii/S2405844024076345)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024076345" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024076345</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How information and communication overload affect...by W Fan · 2024 · Cited by 27 — This study aims to investigate how negative factors...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: philosophy.stackexchange.com  
    Title: is the burden of proof a fallacy  
-   Link: [https://philosophy.stackexchange.com/questions/81921/is-the-burden-of-proof-a-fallacy](https://philosophy.stackexchange.com/questions/81921/is-the-burden-of-proof-a-fallacy)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/81921/is-the-burden-of-proof-a-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/81921/is-the-burden-of-proof-a-fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Stack ExchangeIs the burden of proof a fallacy?29 May 2021 — [https://en.wikipedia.org/wiki/Burden_of_proof_](https://en.wikipedia.org/wiki/Burden_of_proof_)(philosophy) When t...</p></details>
    Published: May 2021  
 
 10. <a id="endnote-10"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/author/dowden/page/3/](https://iep.utm.edu/author/dowden/page/3/)  
+   Link: <a href="https://iep.utm.edu/author/dowden/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/author/dowden/page/3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy is also called “Argument from [Ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;).” Example: Nobody has ever proved...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesArguing for a conclusion that is not relevant to the current issue. Also called Irrelevant Co...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Red-Herring](https://www.logicallyfallacious.com/logicalfallacies/Red-Herring)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Red-Herring</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red HerringThe red herring is a deliberate diversion of attention with the intention of trying to abandon the original argument.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: philosophybytheway.blogspot.com  
    Title: red herring  
-   Link: [https://philosophybytheway.blogspot.com/2022/09/red-herring.html](https://philosophybytheway.blogspot.com/2022/09/red-herring.html)  
+   Link: <a href="https://philosophybytheway.blogspot.com/2022/09/red-herring.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2022/09/red-herring.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Sept 2022 — It can also be intentionally put forward that way, for a red herring often serves as a way of distraction from the questio...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: wto.org  
-   Link: [https://www.wto.org/english/tratop_e/dispu_e/177r-178r_c_e.doc](https://www.wto.org/english/tratop_e/dispu_e/177r-178r_c_e.doc)  
+   Link: <a href="https://www.wto.org/english/tratop_e/dispu_e/177r-178r_c_e.doc" target="_blank" rel="noopener noreferrer nofollow">https://www.wto.org/english/tratop_e/dispu_e/177r-178r_c_e.doc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ANNEX 1-162.​ In this regard, the United States arguments on burden of proof are simply a smokescreen to cover the fact that the United S...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/rawfans/posts/24639774922365429/](https://www.facebook.com/groups/rawfans/posts/24639774922365429/)  
+   Link: <a href="https://www.facebook.com/groups/rawfans/posts/24639774922365429/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rawfans/posts/24639774922365429/</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/answers/comments/4f632x/what_is_the_logical_fallacy_for_requiring_too/](https://www.reddit.com/r/answers/comments/4f632x/what_is_the_logical_fallacy_for_requiring_too/)  
+   Link: <a href="https://www.reddit.com/r/answers/comments/4f632x/what_is_the_logical_fallacy_for_requiring_too/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/answers/comments/4f632x/what_is_the_logical_fallacy_for_requiring_too/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Too much&quot; is not something that can be logically defined, and waiting until more evidence is presented to make a...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 356207310 Information Overload Causes Symptoms Consequences and Solutions  
-   Link: [https://www.researchgate.net/publication/356207310_Information_Overload_Causes_Symptoms_Consequences_and_Solutions](https://www.researchgate.net/publication/356207310_Information_Overload_Causes_Symptoms_Consequences_and_Solutions)  
+   Link: <a href="https://www.researchgate.net/publication/356207310_Information_Overload_Causes_Symptoms_Consequences_and_Solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356207310_Information_Overload_Causes_Symptoms_Consequences_and_Solutions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Overload: Causes, Symptoms, Consequences...15 Nov 2021 — This paper looks at the concept of Information, over, load and info...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: research.manchester.ac.uk  
    Title: information overload a cross national investigation of influence  
-   Link: [https://research.manchester.ac.uk/en/publications/information-overload-a-cross-national-investigation-of-influence-](https://research.manchester.ac.uk/en/publications/information-overload-a-cross-national-investigation-of-influence-)  
+   Link: <a href="https://research.manchester.ac.uk/en/publications/information-overload-a-cross-national-investigation-of-influence-" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/information-overload-a-cross-national-investigation-of-influence-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cross-national investigation of influence factors and effectsby C Klausegger · 2007 · Cited by 183 — Purpose - The purpose of this paper...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thebrink.me  
    Title: when freedom overwhelms the dark psychology of too much choice  
-   Link: [https://www.thebrink.me/when-freedom-overwhelms-the-dark-psychology-of-too-much-choice/](https://www.thebrink.me/when-freedom-overwhelms-the-dark-psychology-of-too-much-choice/)  
+   Link: <a href="https://www.thebrink.me/when-freedom-overwhelms-the-dark-psychology-of-too-much-choice/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebrink.me/when-freedom-overwhelms-the-dark-psychology-of-too-much-choice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Psychology: Choice Overload &amp; Decision FatigueFeb 11, 2026 — Choice overload is a psychological phenomenon in which having too many...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/cognitive-overload-when-too-much-information-breaks-tushar-deshmukh-00zpc](https://www.linkedin.com/pulse/cognitive-overload-when-too-much-information-breaks-tushar-deshmukh-00zpc)  
+   Link: <a href="https://www.linkedin.com/pulse/cognitive-overload-when-too-much-information-breaks-tushar-deshmukh-00zpc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/cognitive-overload-when-too-much-information-breaks-tushar-deshmukh-00zpc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n exceeds working memory capacity, learning collapses.” The same...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: hbr.org  
    Title: reducing information overload in your organization  
-   Link: [https://hbr.org/2023/05/reducing-information-overload-in-your-organization](https://hbr.org/2023/05/reducing-information-overload-in-your-organization)  
+   Link: <a href="https://hbr.org/2023/05/reducing-information-overload-in-your-organization" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2023/05/reducing-information-overload-in-your-organization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 May 2023 — Information overload is the inevitable result of the modern organization&#x27;s always-on, more-is-better approach to communication...</p></details>
    Published: May 2023  
 
 22. <a id="endnote-22"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/jrim/article/19/5/749/1254143/The-impact-of-review-sentiment-complexity-on](https://www.emerald.com/jrim/article/19/5/749/1254143/The-impact-of-review-sentiment-complexity-on)  
+   Link: <a href="https://www.emerald.com/jrim/article/19/5/749/1254143/The-impact-of-review-sentiment-complexity-on" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jrim/article/19/5/749/1254143/The-impact-of-review-sentiment-complexity-on</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>perceived...6 Nov 2024 — Purpose. This study investigates how the complexity of sentiment in online reviews affects perceived helpfulness...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40webbercookn/the-cognitive-load-theory-why-too-much-information-breaks-focus-b29995d33f15](https://medium.com/%40webbercookn/the-cognitive-load-theory-why-too-much-information-breaks-focus-b29995d33f15)  
+   Link: <a href="https://medium.com/%40webbercookn/the-cognitive-load-theory-why-too-much-information-breaks-focus-b29995d33f15" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40webbercookn/the-cognitive-load-theory-why-too-much-information-breaks-focus-b29995d33f15</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>capacity, the system enters a state of overload. This...Read more...</p></details>

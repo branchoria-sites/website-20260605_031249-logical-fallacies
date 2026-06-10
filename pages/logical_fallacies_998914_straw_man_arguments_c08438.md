@@ -511,7 +511,7 @@ This page focuses on the mechanism of misrepresentation: how views get distorted
 
 A straw man begins with a shift in target. Person A advances a claim, qualification, objection or policy proposal. Person B replies to a nearby but different claim, then presents that reply as if it defeats Person A. The false target may be only slightly altered, which is what makes the fallacy hard to notice in live debate. “We should regulate this industry more tightly” becomes “You want the government to control everything.” “This evidence is not yet conclusive” becomes “You refuse to accept any evidence.” “This policy has costs” becomes “You do not care about the people it helps.”
 
-Argumentation theorist Douglas Walton analysed the straw man as a misrepresentation of someone’s commitments used to criticise or refute that person’s position. That “commitment” language matters: the issue is not merely that someone has been paraphrased imperfectly, but that a claim has been attributed to them in a way that changes what they are answerable for. Walton also stresses that alleged straw men have to be judged in the [context]({{ 'context/' | relative_url }}) of the conversation, because what a speaker is committed to depends on what they have actually said, implied, conceded or defended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">PhilPapersThe straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</span></span></span>
+Argumentation theorist Douglas Walton analysed the straw man as a misrepresentation of someone’s commitments used to criticise or refute that person’s position. That “commitment” language matters: the issue is not merely that someone has been paraphrased imperfectly, but that a claim has been attributed to them in a way that changes what they are answerable for. Walton also stresses that alleged straw men have to be judged in the [context]({{ 'context/' | relative_url }}) of the conversation, because what a speaker is committed to depends on what they have actually said, implied, conceded or defended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</span></span></span>
 
 The fallacy often works because debate audiences do not always have direct access to the original argument. If they hear only the distorted version and the confident refutation, they may feel that the issue has been settled. Robert Talisse and Scott Aikin’s work on the “selection” form of the straw man highlights this audience problem: an arguer can misrepresent the overall strength of an opposing side by choosing a weak representative, weak argument or fringe version and treating it as typical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">two forms of the straw man</span><span class="citation-popover-snippet">two forms of the straw man</span></span></span>
 
@@ -527,7 +527,7 @@ Not every straw man looks like a crude parody. Some are loud and obvious; others
 
 **Oversimplification** removes the structure of an argument. A multi-part claim with evidence, limits and conditions is reduced to a slogan that is easier to dismiss. This is common when a position depends on probabilities, competing risks or technical detail. A careful claim such as “this intervention may help in these circumstances, but not in all cases” becomes “this is a magic solution.”
 
-**Weak-manning** chooses the least capable defender of a view and treats that person as representative. Talisse and Aikin distinguish this from the classic version: the speaker may not distort one person’s words, but instead selects a poor argument from the opposition and lets the audience infer that the whole position has been defeated. Aikin and John Casey later developed the family further by discussing straw men, weak men and “hollow men”, where the alleged opponent or view may be so vague that it is barely traceable at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">PhilPapersThe straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</span></span></span>
+**Weak-manning** chooses the least capable defender of a view and treats that person as representative. Talisse and Aikin distinguish this from the classic version: the speaker may not distort one person’s words, but instead selects a poor argument from the opposition and lets the audience infer that the whole position has been defeated. Aikin and John Casey later developed the family further by discussing straw men, weak men and “hollow men”, where the alleged opponent or view may be so vague that it is barely traceable at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</span></span></span>
 
 **Hollow-manning** attacks a position attributed to “some people”, “critics”, “the media”, “experts” or “activists” without identifying who actually holds it. This can be legitimate if the view is genuinely widespread and fairly represented, but it becomes fallacious when the vagueness prevents verification. The audience cannot check whether the target exists, whether it is marginal, or whether it has been described fairly.
 
@@ -1023,205 +1023,205 @@ The deepest risk of the straw man fallacy is not just that one argument becomes 
 1. <a id="endnote-1"></a>
    Source: philpapers.org  
    Title: Phil Papers The straw man fallacy  
-   Link: [https://philpapers.org/rec/WALTSM-4](https://philpapers.org/rec/WALTSM-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersThe straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</p></details>
+   Link: <a href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTSM-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: philpapers.org  
    Title: TALTFO 3  
-   Link: [https://philpapers.org/rec/TALTFO-3](https://philpapers.org/rec/TALTFO-3)  
+   Link: <a href="https://philpapers.org/rec/TALTFO-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TALTFO-3</a>  
 
 3. <a id="endnote-3"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/AIKSMW](https://philpapers.org/rec/AIKSMW)  
+   Link: <a href="https://philpapers.org/rec/AIKSMW" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKSMW</a>  
 
 4. <a id="endnote-4"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/quotcont.html](https://www.fallacyfiles.org/quotcont.html)  
+   Link: <a href="https://www.fallacyfiles.org/quotcont.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/quotcont.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Contextomy: The art of quoting out of context  
-   Link: [https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context](https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context)  
+   Link: <a href="https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1703.03895](https://arxiv.org/abs/1703.03895)  
+   Link: <a href="https://arxiv.org/abs/1703.03895" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1703.03895</a>  
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10503-026-09706-2](https://link.springer.com/article/10.1007/s10503-026-09706-2)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10503-026-09706-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-026-09706-2</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227](https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 226541299 Straw Men Weak Men and Hollow Men  
-   Link: [https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men](https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men)  
+   Link: <a href="https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men</a>  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man](https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man)  
+   Link: <a href="https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225622376_Two_Forms_of_the_Straw_Man</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting](https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting)  
+   Link: <a href="https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323420410_Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394063662_The_Pragmatics_of_Straw_Man_Fallacies_An_Experimental_Approach](https://www.researchgate.net/publication/394063662_The_Pragmatics_of_Straw_Man_Fallacies_An_Experimental_Approach)  
+   Link: <a href="https://www.researchgate.net/publication/394063662_The_Pragmatics_of_Straw_Man_Fallacies_An_Experimental_Approach" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394063662_The_Pragmatics_of_Straw_Man_Fallacies_An_Experimental_Approach</a>  
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy](https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy)  
+   Link: <a href="https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy</a>  
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) in Social Media  
-   Link: [https://www.researchgate.net/publication/347364100_Logical_Fallacies_in_Social_Media_A_Discourse_Analysis_in_Political_Debate](https://www.researchgate.net/publication/347364100_Logical_Fallacies_in_Social_Media_A_Discourse_Analysis_in_Political_Debate)  
+   Link: <a href="https://www.researchgate.net/publication/347364100_Logical_Fallacies_in_Social_Media_A_Discourse_Analysis_in_Political_Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347364100_Logical_Fallacies_in_Social_Media_A_Discourse_Analysis_in_Political_Debate</a>  
 
 15. <a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3](https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3</a>  
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545](https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545</a>  
 
 17. <a id="endnote-17"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/strawman.html](https://www.fallacyfiles.org/strawman.html)  
+   Link: <a href="https://www.fallacyfiles.org/strawman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/strawman.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position an...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: communicationcache.com  
    Title: two forms of the straw man  
-   Link: [https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf](https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf)  
+   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/13684302211014582](https://journals.sagepub.com/doi/10.1177/13684302211014582)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/13684302211014582" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/13684302211014582</a>  
 
 21. <a id="endnote-21"></a>
    Source: scribbr.com  
    Title: straw man fallacy  
-   Link: [https://www.scribbr.com/fallacies/straw-man-fallacy/](https://www.scribbr.com/fallacies/straw-man-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: [https://en.wikipedia.org/wiki/Straw_man](https://en.wikipedia.org/wiki/Straw_man)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Quoting out of context  
-   Link: [https://en.wikipedia.org/wiki/Quoting_out_of_context](https://en.wikipedia.org/wiki/Quoting_out_of_context)  
+   Link: <a href="https://en.wikipedia.org/wiki/Quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quoting_out_of_context</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Principle](https://en.wikipedia.org/wiki/Principle)  
+   Link: <a href="https://en.wikipedia.org/wiki/Principle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Principle</a>  
 
 26. <a id="endnote-26"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/principle](https://dictionary.cambridge.org/dictionary/english/principle)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/principle" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/principle</a>  
 
 27. <a id="endnote-27"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html](https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
 
 28. <a id="endnote-28"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 29. <a id="endnote-29"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
 
 30. <a id="endnote-30"></a>
    Source: nlpnotes.com  
    Title: Quoting out of context  
-   Link: [https://nlpnotes.com/2014/03/23/quoting-out-of-context/](https://nlpnotes.com/2014/03/23/quoting-out-of-context/)  
+   Link: <a href="https://nlpnotes.com/2014/03/23/quoting-out-of-context/" target="_blank" rel="noopener noreferrer nofollow">https://nlpnotes.com/2014/03/23/quoting-out-of-context/</a>  
 
 31. <a id="endnote-31"></a>
    Source: yumpu.com  
    Title: The straw man fallacy  
-   Link: [https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons](https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons)  
+   Link: <a href="https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons</a>  
 
 32. <a id="endnote-32"></a>
    Source: gymglish.com  
-   Link: [https://www.gymglish.com/en/gymglish/english-translation/principle](https://www.gymglish.com/en/gymglish/english-translation/principle)  
+   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/principle" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/principle</a>  
 
 33. <a id="endnote-33"></a>
    Source: trinka.ai  
    Title: straw man fallacy  
-   Link: [https://www.trinka.ai/blog/straw-man-fallacy/](https://www.trinka.ai/blog/straw-man-fallacy/)  
+   Link: <a href="https://www.trinka.ai/blog/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.trinka.ai/blog/straw-man-fallacy/</a>  
 
 34. <a id="endnote-34"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html](https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html</a>  
 
 35. <a id="endnote-35"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
 36. <a id="endnote-36"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy/Verbal-fallacies](https://www.britannica.com/topic/fallacy/Verbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
 
 37. <a id="endnote-37"></a>
    Source: quillbot.com  
    Title: straw man fallacy  
-   Link: [https://quillbot.com/blog/reasoning/straw-man-fallacy/](https://quillbot.com/blog/reasoning/straw-man-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/straw-man-fallacy/</a>  
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue](https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue)  
+   Link: <a href="https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/28959334/Straw_Men_Iron_Men_and_Argumentative_Virtue</a>  
 
 39. <a id="endnote-39"></a>
    Source: ox.ac.uk  
-   Link: [https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report](https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report)  
+   Link: <a href="https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/news/2021-01-13-social-media-manipulation-political-actors-industrial-scale-problem-oxford-report</a>  
 
 40. <a id="endnote-40"></a>
    Source: markmanson.net  
-   Link: [https://markmanson.net/logical-fallacies](https://markmanson.net/logical-fallacies)  
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/](https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/)  
+   Link: <a href="https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chescaleigh/posts/a-straw-man-argument-is-a-logical-fallacy-where-someone-misrepresents-exaggerate/1414033030078701/</a>  
 
 42. <a id="endnote-42"></a>
    Source: natcen.ac.uk  
-   Link: [https://natcen.ac.uk/publications/bsa-42-[politics](https://natcen.ac.uk/publications/bsa-42-[politics)  
+   Link: <a href="https://natcen.ac.uk/publications/bsa-42-[politics" target="_blank" rel="noopener noreferrer nofollow">https://natcen.ac.uk/publications/bsa-42-[politics</a>  
 
 43. <a id="endnote-43"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Contextomy](https://www.logicallyfallacious.com/logicalfallacies/Contextomy)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Contextomy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Contextomy</a>  
 
 44. <a id="endnote-44"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/](https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/</a>  
 
 45. <a id="endnote-45"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting](https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting)  
+   Link: <a href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
 
 46. <a id="endnote-46"></a>
    Source: khanacademy.org  
-   Link: [https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/straw-man-fallacy](https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/straw-man-fallacy)  
+   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/straw-man-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/straw-man-fallacy</a>  
 
 47. <a id="endnote-47"></a>
    Source: amazon.it  
-   Link: [https://www.amazon.it/-/en/Frederic-P-Miller/dp/6130836058](https://www.amazon.it/-/en/Frederic-P-Miller/dp/6130836058)  
+   Link: <a href="https://www.amazon.it/-/en/Frederic-P-Miller/dp/6130836058" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.it/-/en/Frederic-P-Miller/dp/6130836058</a>  

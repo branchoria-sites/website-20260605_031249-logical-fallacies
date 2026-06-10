@@ -274,11 +274,11 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporif
 
 ## Introduction
 
-One of the most deceptive forms of [circular reasoning]({{ 'circularity/' | relative_url }}) occurs when an explanation sounds technical but merely restates the claim it was supposed to explain. Instead of providing a cause, mechanism, or independent reason, the explanation simply renames the phenomenon in different words. Because the language appears scientific or specialised, the weakness can be easy to miss.
+One of the most deceptive forms of circular reasoning occurs when an explanation sounds technical but merely restates the claim it was supposed to explain. Instead of providing a cause, mechanism, or independent reason, the explanation simply renames the phenomenon in different words. Because the language appears scientific or specialised, the weakness can be easy to miss.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1-dark.svg" | relative_url }}" alt="Rewording illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The classic example is the claim that opium causes sleep because it possesses a “soporific” or “dormitive” property. Since *soporific* means “sleep-inducing”, the explanation effectively says that opium causes sleep because it has the property of causing sleep. Nothing new has been learned. The conclusion has merely been translated into different vocabulary. Philosophers and logicians have long used this example as a model of explanatory failure and as a warning about circular reasoning hidden behind impressive terminology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[2media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">Oxford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
+The classic example is the claim that opium causes sleep because it possesses a “soporific” or “dormitive” property. Since *soporific* means “sleep-inducing”, the explanation effectively says that opium causes sleep because it has the property of causing sleep. Nothing new has been learned. The conclusion has merely been translated into different vocabulary. Philosophers and logicians have long used this example as a model of explanatory failure and as a warning about circular reasoning hidden behind impressive terminology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[2media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
 
 ## Why the Opium Example Is Circular
 
@@ -289,7 +289,7 @@ The structure of the reasoning is:
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
-* Question: Why does opium make people sleep? <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">Oxford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
+* Question: Why does opium make people sleep? <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
 * Answer: Because it has a sleep-causing property.
 
 </div>
@@ -380,7 +380,7 @@ Perhaps the simplest test is whether the explanation increases understanding or 
 
 People naturally seek causes, and language often rewards explanations that sound complete rather than explanations that genuinely add information. A concise label can create a powerful illusion of understanding. Once a phenomenon has been named, the mind may treat the naming itself as an explanation.
 
-Molière’s dormitive-virtue joke has endured for centuries because it captures this tendency perfectly. The example demonstrates that circular reasoning does not always appear as an obvious logical loop. Sometimes it hides behind sophisticated vocabulary, abstract traits, or scientific-sounding terminology. The conclusion returns disguised as an explanation, and the disguise is mistaken for evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[2media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">Oxford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
+Molière’s dormitive-virtue joke has endured for centuries because it captures this tendency perfectly. The example demonstrates that circular reasoning does not always appear as an obvious logical loop. Sometimes it hides behind sophisticated vocabulary, abstract traits, or scientific-sounding terminology. The conclusion returns disguised as an explanation, and the disguise is mistaken for evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[2media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
 
 Recognising reworded conclusions is therefore an important skill in evaluating arguments. Whenever an explanation seems impressive, it is worth asking whether it reveals a genuine mechanism or merely renames the claim it was meant to explain.
 
@@ -809,120 +809,120 @@ Recognising reworded conclusions is therefore an important skill in evaluating a
 
 1. <a id="endnote-1"></a>
    Source: media.podcasts.ox.ac.uk  
-   Link: [https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf](https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</p></details>
+   Link: <a href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Scientific Explanation  
-   Link: [https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/](https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyScientific Explanation - Stanford Encyclopedia of Philosophy9 May 2003 — Issues concerning scientific...</p></details>
    Published: May 2003  
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: science theory observation  
-   Link: [https://plato.stanford.edu/entries/science-theory-observation/](https://plato.stanford.edu/entries/science-theory-observation/)  
+   Link: <a href="https://plato.stanford.edu/entries/science-theory-observation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/science-theory-observation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyTheory and Observation in Scienceby NM Boyd · 2009 · Cited by 101 — The strict contrast between theory...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Circular reasoning  
-   Link: [https://en.wikipedia.org/wiki/Circular_reasoning](https://en.wikipedia.org/wiki/Circular_reasoning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circular_reasoning</a>  
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They include more than one inference. Descartes...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Moli%C3%A8re](https://en.wikipedia.org/wiki/Moli%C3%A8re)  
+   Link: <a href="https://en.wikipedia.org/wiki/Moli%C3%A8re" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moli%C3%A8re</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MolièreFrench playwright, actor, and poet, ing that is why your daughter is mute&quot; to mock an unsatisfactory explanation...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/analysis/s1.html](https://plato.stanford.edu/entries/analysis/s1.html)  
+   Link: <a href="https://plato.stanford.edu/entries/analysis/s1.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/analysis/s1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Descriptions of AnalysisThis supplement collects together various definitions and descriptions of analysis that have been offered in...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2019/entries/analysis/s1.html](https://plato.stanford.edu/archives/fall2019/entries/analysis/s1.html)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/analysis/s1.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/analysis/s1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Descriptions of AnalysisThis supplement collects together various definitions and descriptions of analysis that have been offered in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: causation law  
-   Link: [https://plato.stanford.edu/entries/causation-law/](https://plato.stanford.edu/entries/causation-law/)  
+   Link: <a href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-law/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Law - Stanford Encyclopedia of Philosophyby M Moore · 2019 · Cited by 92 — The basic questions concerning causation in the law are...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: mathematics explanation  
-   Link: [https://plato.stanford.edu/entries/mathematics-explanation/](https://plato.stanford.edu/entries/mathematics-explanation/)  
+   Link: <a href="https://plato.stanford.edu/entries/mathematics-explanation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/mathematics-explanation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanationby P Mancosu · 2008 · Cited by 88 — The philosophical analysis of mathematical explanation concerns itself with two different...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: elanortaylor.org  
-   Link: [https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf](https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf)  
+   Link: <a href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/biography/Moliere-French-dramatist](https://www.britannica.com/biography/Moliere-French-dramatist)  
+   Link: <a href="https://www.britannica.com/biography/Moliere-French-dramatist" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Moliere-French-dramatist</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Molière | Plays, Tartuffe, Dom Juan, Misanthrope, &amp; FactsIn his plays, on a double vision that holds together opposing ideas, such as wis...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/352181896150872/posts/1317544012947984/](https://www.facebook.com/groups/352181896150872/posts/1317544012947984/)  
+   Link: <a href="https://www.facebook.com/groups/352181896150872/posts/1317544012947984/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/352181896150872/posts/1317544012947984/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Molière&#x27;s Timeless Comedic Genius and SatireWhat people are saying. Commenters praise Moliere&#x27;s slapstick humor and satire, citing favori...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/291986502_Moliere_Reasoning_With_Fools](https://www.researchgate.net/publication/291986502_Moliere_Reasoning_With_Fools)  
+   Link: <a href="https://www.researchgate.net/publication/291986502_Moliere_Reasoning_With_Fools" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291986502_Moliere_Reasoning_With_Fools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Molière: Reasoning With FoolsThis book argues that new light can be shed on the words and actions of these characters, and on the tenor o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ndl.ethernet.edu.et  
-   Link: [https://ndl.ethernet.edu.et/bitstream/123456789/19524/1/13.pdf.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/19524/1/13.pdf.pdf)  
+   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/19524/1/13.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/19524/1/13.pdf.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Digital Library of EthiopiaRealism about causality in philosophy and social scienceby R Groff · Cited by 93 — This book is a uni...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/7/7f/Opium_and_the_opium-appetite_-_with_notices_of_alcoholic_beverages%2C_cannabis_indica%2C_tobacco_and_coca%2C_and_tea_and_coffee%2C_in_their_hygienic_aspects_and_pathologic_relations_%28IA_66640160R.nlm.nih.gov%29.pdf](https://upload.wikimedia.org/wikipedia/commons/7/7f/Opium_and_the_opium-appetite_-_with_notices_of_alcoholic_beverages%2C_cannabis_indica%2C_tobacco_and_coca%2C_and_tea_and_coffee%2C_in_their_hygienic_aspects_and_pathologic_relations_%28IA_66640160R.nlm.nih.gov%29.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/7/7f/Opium_and_the_opium-appetite_-_with_notices_of_alcoholic_beverages%2C_cannabis_indica%2C_tobacco_and_coca%2C_and_tea_and_coffee%2C_in_their_hygienic_aspects_and_pathologic_relations_%28IA_66640160R.nlm.nih.gov%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/7/7f/Opium_and_the_opium-appetite_-_with_notices_of_alcoholic_beverages%2C_cannabis_indica%2C_tobacco_and_coca%2C_and_tea_and_coffee%2C_in_their_hygienic_aspects_and_pathologic_relations_%28IA_66640160R.nlm.nih.gov%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and the opium-appetiteown person. Afterswallowing in succession several lozenges to the amount of 4 grains in all, he began to have an un...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/6knpt3/are_dormitive_virtues_fallacies/](https://www.reddit.com/r/askphilosophy/comments/6knpt3/are_dormitive_virtues_fallacies/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/6knpt3/are_dormitive_virtues_fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/6knpt3/are_dormitive_virtues_fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Dormitive Virtues fallacies?: r/askphilosophyMoliere&#x27;s famous criticism of abstract philosophy is his satire of a group of doctor&#x27;s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mastodon.online  
    Title: hosted on mastodon.online""Dormitive virtue" (or "virtus…"  
-   Link: [https://mastodon.online/%40tomstafford/111875480426003891](https://mastodon.online/%40tomstafford/111875480426003891)  
+   Link: <a href="https://mastodon.online/%40tomstafford/111875480426003891" target="_blank" rel="noopener noreferrer nofollow">https://mastodon.online/%40tomstafford/111875480426003891</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastodon hosted on mastodon.online&quot;&quot;Dormitive virtue&quot; (or &quot;virtus…&quot; - Tom Stafford4 Feb 2024 — &quot;Dormitive virtue&quot; (or &quot;virtus dormitiva&quot;)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: escholarship.org  
    Title: qt35n0642p noSplash e8fa9c0ce12eebc92b923d6f4b6a2d25  
-   Link: [https://escholarship.org/content/qt35n0642p/qt35n0642p_noSplash_e8fa9c0ce12eebc92b923d6f4b6a2d25.pdf](https://escholarship.org/content/qt35n0642p/qt35n0642p_noSplash_e8fa9c0ce12eebc92b923d6f4b6a2d25.pdf)  
+   Link: <a href="https://escholarship.org/content/qt35n0642p/qt35n0642p_noSplash_e8fa9c0ce12eebc92b923d6f4b6a2d25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt35n0642p/qt35n0642p_noSplash_e8fa9c0ce12eebc92b923d6f4b6a2d25.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Government of the Senses Aesthetic Subjectivity and...by JJ Weiner · 2015 · Cited by 1 — Locke gives the further example of painting...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/archive/LAWPTB.pdf](https://philpapers.org/archive/LAWPTB.pdf)  
+   Link: <a href="https://philpapers.org/archive/LAWPTB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/LAWPTB.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Permission to believe: - Descriptive and prescriptive beliefs...by CP Lawrence · 2020 — Molière&#x27;s jibe about opium putting you to sleep...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: fitelson.org  
-   Link: [https://fitelson.org/confirmation/hume_enquiry.pdf](https://fitelson.org/confirmation/hume_enquiry.pdf)  
+   Link: <a href="https://fitelson.org/confirmation/hume_enquiry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fitelson.org/confirmation/hume_enquiry.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Enquiry concerning Human Understandingby D HUME · Cited by 12965 — rhubarb always proved a purge, or opium a soporific* to every one...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/456860881/Moliere-Encyclopedia-Britannica](https://www.scribd.com/document/456860881/Moliere-Encyclopedia-Britannica)  
+   Link: <a href="https://www.scribd.com/document/456860881/Moliere-Encyclopedia-Britannica" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/456860881/Moliere-Encyclopedia-Britannica</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and beginnings in the theater, forming a troupe and touring...Read more...</p></details>

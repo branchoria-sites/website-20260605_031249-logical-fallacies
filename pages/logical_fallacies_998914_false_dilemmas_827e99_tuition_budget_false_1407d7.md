@@ -840,100 +840,100 @@ That expansion is the central lesson of false dilemmas in tuition and budget deb
 1. <a id="endnote-1"></a>
    Source: commonslibrary.parliament.uk  
    Title: cbp 10037  
-   Link: [https://commonslibrary.parliament.uk/research-briefings/cbp-10037/](https://commonslibrary.parliament.uk/research-briefings/cbp-10037/)  
+   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10037/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10037/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryHigher education finances and funding in England6 Jun 2025 — This briefing covers how higher education is funded...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ifs.org.uk  
-   Link: [https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming](https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming)  
+   Link: <a href="https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Fiscal StudiesHigher education finances: how have they fared, and what...by K Ogden · Cited by 13 — The next government fa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bipartisanpolicy.org  
    Title: state funding and college costs reviewing the evidence  
-   Link: [https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/](https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/)  
+   Link: <a href="https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bipartisan Policy CenterState Funding and College Costs: Reviewing the Evidence16 Dec 2024 — When confronted with reduced state funding...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: economicsobservatory.com  
    Title: uk higher education finance whats the problem and what can be done  
-   Link: [https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done](https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done)  
+   Link: <a href="https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done" target="_blank" rel="noopener noreferrer nofollow">https://www.economicsobservatory.com/uk-higher-education-finance-whats-the-problem-and-what-can-be-done</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK higher education finance: what&#x27;s the problem and what...29 Oct 2024 — England&#x27;s once world-leading higher education system has become...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hanoverresearch.com  
    Title: Hanover Research6 Alternative Budget Models for Colleges and Universities  
-   Link: [https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/](https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/)  
+   Link: <a href="https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/" target="_blank" rel="noopener noreferrer nofollow">https://www.hanoverresearch.com/insights-blog/higher-education/6-alternative-budget-models-for-colleges-and-universities/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 25, 2025 — 25 Nov 2025 — Carefully weigh these higher education budget models to promote both the financial and academic wellnes...</p></details>
    Published: November 25, 2025  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Higher](https://en.wikipedia.org/wiki/Higher)  
+   Link: <a href="https://en.wikipedia.org/wiki/Higher" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Higher</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HigherHigher may refer to: Contents. 1 Music. 1.1 Albums; 1.2 Songs. 2 Other uses; 3 See also. Music. edit · The Higher, a 2002–2012 A...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/higher](https://dictionary.cambridge.org/dictionary/english/higher)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge DictionaryHIGHER definition: 1. comparative of high 2. used to refer to an advanced level of education: 3...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/higher" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/higher</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryHIGHER definition: 1. comparative of high 2. used to refer to an advanced level of education: 3...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: en.wiktionary.org  
-   Link: [https://en.wiktionary.org/wiki/higher](https://en.wiktionary.org/wiki/higher)  
+   Link: <a href="https://en.wiktionary.org/wiki/higher" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/higher</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1-syllable words · English terms with audio pronunciation · English terms with homophones · Rhymes:English/aɪə(ɹ) · English non-lemma for...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: timeshighereducation.com  
    Title: further teaching grant cuts would undermine tuition fee rise  
-   Link: [https://www.timeshighereducation.com/news/further-teaching-grant-cuts-would-undermine-tuition-fee-rise](https://www.timeshighereducation.com/news/further-teaching-grant-cuts-would-undermine-tuition-fee-rise)  
+   Link: <a href="https://www.timeshighereducation.com/news/further-teaching-grant-cuts-would-undermine-tuition-fee-rise" target="_blank" rel="noopener noreferrer nofollow">https://www.timeshighereducation.com/news/further-teaching-grant-cuts-would-undermine-tuition-fee-rise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Further teaching grant cuts &#x27;would undermine tuition fee rise&#x27;12 May 2026 — Universities have warned the government against further reduc...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: sceptical.scot  
    Title: lets debate different models for student fees and grants  
-   Link: [https://sceptical.scot/2017/05/lets-debate-different-models-for-student-fees-and-grants/](https://sceptical.scot/2017/05/lets-debate-different-models-for-student-fees-and-grants/)  
+   Link: <a href="https://sceptical.scot/2017/05/lets-debate-different-models-for-student-fees-and-grants/" target="_blank" rel="noopener noreferrer nofollow">https://sceptical.scot/2017/05/lets-debate-different-models-for-student-fees-and-grants/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Let&#x27;s debate different models for student fees and grants15 May 2017 — It seems common to assume that we&#x27;re faced with a straight choice...</p></details>
    Published: May 2017  
 
 11. <a id="endnote-11"></a>
    Source: hepi.ac.uk  
    Title: HEPIwhy universities cannot survive on goodwill alone  
-   Link: [https://www.hepi.ac.uk/2026/01/24/weekend-reading-death-by-a-thousand-cuts-why-universities-cannot-survive-on-goodwill-alone/](https://www.hepi.ac.uk/2026/01/24/weekend-reading-death-by-a-thousand-cuts-why-universities-cannot-survive-on-goodwill-alone/)  
+   Link: <a href="https://www.hepi.ac.uk/2026/01/24/weekend-reading-death-by-a-thousand-cuts-why-universities-cannot-survive-on-goodwill-alone/" target="_blank" rel="noopener noreferrer nofollow">https://www.hepi.ac.uk/2026/01/24/weekend-reading-death-by-a-thousand-cuts-why-universities-cannot-survive-on-goodwill-alone/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>why universities cannot survive on goodwill alone - HEPI24 Jan 2026 — A key cause of underfunding is the historical stagnation of tuition...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchbriefings.files.parliament.uk  
-   Link: [https://researchbriefings.files.parliament.uk/documents/CBP-10155/CBP-10155.pdf](https://researchbriefings.files.parliament.uk/documents/CBP-10155/CBP-10155.pdf)  
+   Link: <a href="https://researchbriefings.files.parliament.uk/documents/CBP-10155/CBP-10155.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchbriefings.files.parliament.uk/documents/CBP-10155/CBP-10155.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fees in England: History, debates, and international...4 Nov 2024 — Universities UK argued cuts to teaching grants, the 2012 tuition fee...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hepi.ac.uk  
    Title: HEPI'Overstretched and under-resourced'?  
-   Link: [https://www.hepi.ac.uk/2025/05/03/overstretched-and-under-resourced-uk-higher-education-on-the-cusp-of-the-spending-review/](https://www.hepi.ac.uk/2025/05/03/overstretched-and-under-resourced-uk-higher-education-on-the-cusp-of-the-spending-review/)  
+   Link: <a href="https://www.hepi.ac.uk/2025/05/03/overstretched-and-under-resourced-uk-higher-education-on-the-cusp-of-the-spending-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.hepi.ac.uk/2025/05/03/overstretched-and-under-resourced-uk-higher-education-on-the-cusp-of-the-spending-review/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK higher education on...3 May 2025 — According to Mark Corver of DataHE, the maximum full-time undergraduate tuition fee, which was rai...</p></details>
    Published: May 2025  
 
 14. <a id="endnote-14"></a>
    Source: badgerherald.com  
-   Link: [https://badgerherald.com/features/2020/09/08/the-tuition-dilemma-students-universities-grapple-with-budget-cuts-increased-tuition/](https://badgerherald.com/features/2020/09/08/the-tuition-dilemma-students-universities-grapple-with-budget-cuts-increased-tuition/)  
+   Link: <a href="https://badgerherald.com/features/2020/09/08/the-tuition-dilemma-students-universities-grapple-with-budget-cuts-increased-tuition/" target="_blank" rel="noopener noreferrer nofollow">https://badgerherald.com/features/2020/09/08/the-tuition-dilemma-students-universities-grapple-with-budget-cuts-increased-tuition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tuition Dilemma: students, universities grapple with...8 Sept 2020 — The Tuition Dilemma: students, universities grapple with budget...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/heraldscotland/posts/the-question-isnt-whether-international-tuition-is-being-used-to-cover-gaps-in-u/936303161850342/](https://www.facebook.com/heraldscotland/posts/the-question-isnt-whether-international-tuition-is-being-used-to-cover-gaps-in-u/936303161850342/)  
+   Link: <a href="https://www.facebook.com/heraldscotland/posts/the-question-isnt-whether-international-tuition-is-being-used-to-cover-gaps-in-u/936303161850342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/heraldscotland/posts/the-question-isnt-whether-international-tuition-is-being-used-to-cover-gaps-in-u/936303161850342/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ps in university budgets. The question is how long it can...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: universitiesuk.ac.uk  
    Title: financial impact government policy  
-   Link: [https://www.universitiesuk.ac.uk/latest/insights-and-analysis/financial-impact-government-policy](https://www.universitiesuk.ac.uk/latest/insights-and-analysis/financial-impact-government-policy)  
+   Link: <a href="https://www.universitiesuk.ac.uk/latest/insights-and-analysis/financial-impact-government-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.universitiesuk.ac.uk/latest/insights-and-analysis/financial-impact-government-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The financial impact of government policy decisions on...25 Feb 2026 — Our analysis shows that government policy decisions lead to an es...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: arch.astate.edu  
    Title: As a result, budget cuts loom  
-   Link: [https://arch.astate.edu/cgi/viewcontent.cgi?article=1008&[context](https://arch.astate.edu/cgi/viewcontent.cgi?article=1008&[context)  
+   Link: <a href="https://arch.astate.edu/cgi/viewcontent.cgi?article=1008&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://arch.astate.edu/cgi/viewcontent.cgi?article=1008&amp;[context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trends in Higher Education that Have Significant...by WR Stripling · 2025 · Cited by 2 — Reducing financial resources has left many univ...</p></details>

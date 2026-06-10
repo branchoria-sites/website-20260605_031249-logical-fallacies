@@ -507,9 +507,9 @@ Political speech fallacies are errors or manipulations in reasoning that routine
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc-overview.webp" | relative_url }}" alt="Overview image for Politics" loading="eager" decoding="sync" fetchpriority="high">
 ## Campaign framing: Fallacies as persuasive devices
 
-Political speakers often face the dual pressures of persuading large audiences and competing for attention in media‑saturated environments. Studies of political discourse show that fallacies are not accidental lapses but can be **strategic elements of rhetorical framing**. For example, scholars analysing contemporary political language find that [informal fallacies]({{ 'informal-logic/' | relative_url }}) such as *ad hominem* and *[false dilemma]({{ 'false-dilemma/' | relative_url }})* are *tactically employed* to simplify complex topics and mobilise emotional reactions rather than engage with detailed evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.institutre.org">[journal.institutre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.institutre.org</span><span class="citation-popover-snippet">May 20, 2022...</span><span class="citation-popover-meta">Published: May 20, 2022</span></span></span>
+Political speakers often face the dual pressures of persuading large audiences and competing for attention in media‑saturated environments. Studies of political discourse show that fallacies are not accidental lapses but can be **strategic elements of rhetorical framing**. For example, scholars analysing contemporary political language find that informal fallacies such as *ad hominem* and *[false dilemma]({{ 'false-dilemma/' | relative_url }})* are *tactically employed* to simplify complex topics and mobilise emotional reactions rather than engage with detailed evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.institutre.org">[journal.institutre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.institutre.org</span><span class="citation-popover-snippet">May 20, 2022...</span><span class="citation-popover-meta">Published: May 20, 2022</span></span></span>
 
-In real campaigns, fallacies appear as devices to **amplify fear, identity cues or group loyalty** rather than facilitate analytical evaluation. A classic case is the *[appeal to emotion]({{ 'emotion/' | relative_url }})*: when a policy debate about healthcare turns into a narrative about “our children’s safety”, the argument shifts from empirical costs and benefits to an emotional anchor that is hard to dispute on the basis of reason alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">OboeCommon Logical Fallacies in Political Debates - Logical Fallacies in Political Debates - Logical Fallacies in Political Debates...</span></span></span>
+In real campaigns, fallacies appear as devices to **amplify fear, identity cues or group loyalty** rather than facilitate analytical evaluation. A classic case is the *appeal to [emotion]({{ 'emotion/' | relative_url }})*: when a policy debate about healthcare turns into a narrative about “our children’s safety”, the argument shifts from empirical costs and benefits to an emotional anchor that is hard to dispute on the basis of reason alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Common Logical Fallacies in Political Debates - Logical Fallacies in Political Debates - Logical Fallacies in Political Debates...</span></span></span>
 
 Importantly, research on actual parliamentary debate illustrates that such tactics are widespread across ideological divides. An analysis of investiture debates in Spain found numerous instances of *ad hominem*, *straw man* and *appeal to majority* fallacies, used to both discredit opponents and simplify complex legislative issues. These tactics did not just weaken argument quality; they shaped **how audiences understood the legitimacy and seriousness of the issues at stake**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistasinvestigacion.esic.edu">[revistasinvestigacion.esic.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistasinvestigacion.esic.edu</span><span class="citation-popover-snippet">November 29, 2024...</span><span class="citation-popover-meta">Published: November 29, 2024</span></span></span>
 
@@ -519,9 +519,9 @@ Importantly, research on actual parliamentary debate illustrates that such tacti
 
 Public debate is ideally about evidence and policy trade‑offs. But political fallacies commonly blur that axis by shifting [relevance]({{ 'relevance/' | relative_url }}) away from key facts. **Relevance fallacies** are those in which the connection between evidence and conclusion is weak or deceptive, even if the conclusion might incidentally be true.
 
-* **Red herrings and [false dilemmas]({{ 'false-dilemma/' | relative_url }})** narrow complex policy choices into oversimplified binaries, such as “either full deregulation or economic collapse”, ignoring nuanced positions supported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-title">The Fallacy Guide Fallacies in Politics – The Fallacy Guide | The Fallacy Guide</span><span class="citation-popover-snippet">The Fallacy Guide Fallacies in Politics – The Fallacy Guide | The Fallacy Guide</span></span></span>
-* **Appeal to popularity (ad populum)** treats widespread belief as proof of validity, sidestepping whether the belief is justified by data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistasinvestigacion.esic.edu">[revistasinvestigacion.esic.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistasinvestigacion.esic.edu</span><span class="citation-popover-snippet">políticos a examen: el uso de falacias en el discurso parlamentario español | aDResearch ESIC International Journal of Communication Rese...</span></span></span>
-* **Misplaced appeals to authority** occur when a supposed expert is cited on matters outside their expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-title">The Fallacy Guide Fallacies in Politics – The Fallacy Guide | The Fallacy Guide</span><span class="citation-popover-snippet">The Fallacy Guide Fallacies in Politics – The Fallacy Guide | The Fallacy Guide</span></span></span>
+* **Red herrings and [false dilemmas]({{ 'false-dilemma/' | relative_url }})** narrow complex policy choices into oversimplified binaries, such as “either full [deregulation]({{ 'deregulation/' | relative_url }}) or economic collapse”, ignoring nuanced positions supported by evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-title">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span><span class="citation-popover-snippet">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span></span></span>
+* **Appeal to popularity (ad populum)** treats widespread belief as proof of validity, sidestepping whether the belief is justified by data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistasinvestigacion.esic.edu">[revistasinvestigacion.esic.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistasinvestigacion.esic.edu</span><span class="citation-popover-snippet">políticos a examen: el uso de falacias en el discurso parlamentario español &#124; aDResearch ESIC International Journal of Communication Rese...</span></span></span>
+* **Misplaced appeals to authority** occur when a supposed expert is cited on matters outside their expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-title">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span><span class="citation-popover-snippet">The Fallacy Guide Fallacies in Politics – The Fallacy Guide &#124; The Fallacy Guide</span></span></span>
 
 These devices are powerful precisely because they *appear* to carry political relevance: they draw on voters’ values, group identity or fear of loss rather than reasoned evaluation of evidence. When fallacies are embedded in policy speech, they can lead publics and lawmakers alike to prioritise *feelings over facts*, impeding substantive debate on real policy effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinklawfully.com">[Think Lawfully]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinklawfully.com</span><span class="citation-popover-title">Think Lawfully What Logical Fallacies Look Like in Public Debates</span><span class="citation-popover-snippet">Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</span></span></span>
 
@@ -530,9 +530,9 @@ These devices are powerful precisely because they *appear* to carry political re
 
 ## Emotion and evidence: The interplay in public debate
 
-Political debates are rarely neutral spaces where only evidence matters. Instead, [emotion]({{ 'emotion/' | relative_url }}) and identity are central drivers of how arguments are constructed and received. This interplay makes certain fallacies especially effective and difficult to counter:
+Political debates are rarely neutral spaces where only evidence matters. Instead, emotion and identity are central drivers of how arguments are constructed and received. This interplay makes certain fallacies especially effective and difficult to counter:
 
-* **Straw man arguments** simplify an opponent’s policy position into a caricature and attack that simplified version, not the real proposal. This exploits cognitive shortcuts and emotional reactions to perceived threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Instead of addressi...</span></span></span>
+* **[Straw man arguments]({{ 'straw-man/' | relative_url }})** simplify an opponent’s policy position into a caricature and attack that simplified version, not the real proposal. This exploits cognitive shortcuts and emotional reactions to perceived threats. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Instead of addressi...</span></span></span>
 * **Slippery slope scenarios** depict moderate policy moves as inevitably leading to extreme, undesirable outcomes, playing on fear and uncertainty rather than causal evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oboe.com">[Oboe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oboe.com</span><span class="citation-popover-title">Common Logical Fallacies in Political Debates</span><span class="citation-popover-snippet">Logical Fallacies in Political Debates - Logical Fallacies in Political DebatesLOGICAL FALLACIES IN POLITICAL DEBATES [Button: Log in]Sig...</span></span></span>
 * **Appeal to emotion** foregrounds visceral reactions (fear, sympathy) over dispassionate evidence, making arguments feel persuasive even when logically weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinklawfully.com">[Think Lawfully]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinklawfully.com</span><span class="citation-popover-title">Think Lawfully What Logical Fallacies Look Like in Public Debates</span><span class="citation-popover-snippet">Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</span></span></span>
 
@@ -541,7 +541,7 @@ Research analysing political speech acts—including debates from election campa
 The consequence of these patterns is not merely that arguments are weak; it is that **public understanding of issues becomes skewed towards simplified narratives that resonate emotionally but lack evidential support**. This distorts democratic decision‑making and can entrench polarization by strengthening group‑aligned beliefs at the expense of cross‑group dialogue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.institutre.org">[journal.institutre.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.institutre.org</span><span class="citation-popover-snippet">May 20, 2022...</span><span class="citation-popover-meta">Published: May 20, 2022</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aF6EHTtyYqw" title="CRITICAL THINKING - Fallacies: Appeal to the People [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Appeal to the People [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 114.4K &middot; Uploaded: February 2015 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aF6EHTtyYqw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wMuyBOeSQVs" title="ULTIMATE DEBATE RHETORIC! Trump &amp; Clinton sparring, logos, ethos, &amp; pathos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wMuyBOeSQVs" target="_blank" rel="noopener noreferrer">ULTIMATE DEBATE RHETORIC! Trump &amp; Clinton sparring, logos, ethos, &amp; pathos</a></p><p class="youtube-embed-meta">Channel: Lauren Sergy &middot; Views: 69.8K &middot; Uploaded: October 2016 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wMuyBOeSQVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wMuyBOeSQVs">Open on YouTube</a></p></div></div></div>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc-Illustration-3-dark.svg" | relative_url }}" alt="Politics illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -987,132 +987,132 @@ Moreover, research underscores that fallacies are not confined to any single pol
 
 1. <a id="endnote-1"></a>
    Source: journal.institutre.org  
-   Link: [https://journal.institutre.org/index.php/jsid/article/view/227](https://journal.institutre.org/index.php/jsid/article/view/227)  
+   Link: <a href="https://journal.institutre.org/index.php/jsid/article/view/227" target="_blank" rel="noopener noreferrer nofollow">https://journal.institutre.org/index.php/jsid/article/view/227</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2022...</p></details>
    Published: May 20, 2022  
 
 2. <a id="endnote-2"></a>
    Source: oboe.com  
    Title: Common [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) in Political Debates  
-   Link: [https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1](https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OboeCommon Logical Fallacies in Political Debates - Logical Fallacies in Political Debates - Logical Fallacies in Political Debates...</p></details>
+   Link: <a href="https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/logical-fallacies-in-political-debates-18iwqlj/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Logical Fallacies in Political Debates - Logical Fallacies in Political Debates - Logical Fallacies in Political Debates...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: revistasinvestigacion.esic.edu  
-   Link: [https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1](https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1)  
+   Link: <a href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/download/291/624?inline=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 29, 2024...</p></details>
    Published: November 29, 2024  
 
 4. <a id="endnote-4"></a>
    Source: jlls.org  
-   Link: [https://www.jlls.org/index.php/jlls/article/view/3698](https://www.jlls.org/index.php/jlls/article/view/3698)  
+   Link: <a href="https://www.jlls.org/index.php/jlls/article/view/3698" target="_blank" rel="noopener noreferrer nofollow">https://www.jlls.org/index.php/jlls/article/view/3698</a>  
 
 5. <a id="endnote-5"></a>
    Source: revistasinvestigacion.esic.edu  
-   Link: [https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291](https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291)  
+   Link: <a href="https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291" target="_blank" rel="noopener noreferrer nofollow">https://revistasinvestigacion.esic.edu/adresearch/index.php/adresearch/article/view/291</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>políticos a examen: el uso de falacias en el discurso parlamentario español | aDResearch ESIC International Journal of Communication Rese...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: jlls.org  
-   Link: [https://www.jlls.org/index.php/jlls/article/view/4268](https://www.jlls.org/index.php/jlls/article/view/4268)  
+   Link: <a href="https://www.jlls.org/index.php/jlls/article/view/4268" target="_blank" rel="noopener noreferrer nofollow">https://www.jlls.org/index.php/jlls/article/view/4268</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARGUMENTATIVE TACTIC OF RHETORICAL FALLACIES IN POLITICAL DISCOURSE | Saleh Hamad | Journal of Language and Linguistic StudiesARGUMENTATI...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: oboe.com  
    Title: Common Logical Fallacies in Political Debates  
-   Link: [https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1](https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1)  
+   Link: <a href="https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/spotting-fallacies-in-political-debates-zsnv4v/common-logical-fallacies-in-political-debates-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead of addressi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: oboe.com  
    Title: Common Logical Fallacies in Political Debates  
-   Link: [https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1](https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1)  
+   Link: <a href="https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/logical-fallacies-in-political-debates-a9iftc/common-logical-fallacies-in-political-debates-logical-fallacies-in-political-debates-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies in Political Debates - Logical Fallacies in Political DebatesLOGICAL FALLACIES IN POLITICAL DEBATES [Button: Log in]Sig...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: oboe.com  
    Title: Common Logical Fallacies in Political Debates  
-   Link: [https://oboe.com/learn/detecting-logical-fallacies-in-politics-12vetxj/common-logical-fallacies-in-political-debates-1](https://oboe.com/learn/detecting-logical-fallacies-in-politics-12vetxj/common-logical-fallacies-in-political-debates-1)  
+   Link: <a href="https://oboe.com/learn/detecting-logical-fallacies-in-politics-12vetxj/common-logical-fallacies-in-political-debates-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/detecting-logical-fallacies-in-politics-12vetxj/common-logical-fallacies-in-political-debates-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Logical Fallacies in Politics - Detecting Logical Fallacies in PoliticsDETECTING LOGICAL FALLACIES IN POLITICS DETECTING LOGICA...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: oboe.com  
    Title: The straw man fallacy happens when someo  
-   Link: [https://oboe.com/learn/spotting-logical-fallacies-in-politics-1wzurbj/common-logical-fallacies-in-political-debates-spotting-logical-fallacies-in-politics-1](https://oboe.com/learn/spotting-logical-fallacies-in-politics-1wzurbj/common-logical-fallacies-in-political-debates-spotting-logical-fallacies-in-politics-1)  
+   Link: <a href="https://oboe.com/learn/spotting-logical-fallacies-in-politics-1wzurbj/common-logical-fallacies-in-political-debates-spotting-logical-fallacies-in-politics-1" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/spotting-logical-fallacies-in-politics-1wzurbj/common-logical-fallacies-in-political-debates-spotting-logical-fallacies-in-politics-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Logical Fallacies in Political Debates - Spotting Logical Fallacies in Politics - Spotting Logical Fallacies in PoliticsSPOTTING L...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oboe.com  
    Title: Case Studies of Logical Fallacies in Political Debates  
-   Link: [https://oboe.com/learn/spotting-fallacies-in-political-debates-1ray6bw/case-studies-of-logical-fallacies-in-political-debates-spotting-fallacies-in-political-debates-3](https://oboe.com/learn/spotting-fallacies-in-political-debates-1ray6bw/case-studies-of-logical-fallacies-in-political-debates-spotting-fallacies-in-political-debates-3)  
+   Link: <a href="https://oboe.com/learn/spotting-fallacies-in-political-debates-1ray6bw/case-studies-of-logical-fallacies-in-political-debates-spotting-fallacies-in-political-debates-3" target="_blank" rel="noopener noreferrer nofollow">https://oboe.com/learn/spotting-fallacies-in-political-debates-1ray6bw/case-studies-of-logical-fallacies-in-political-debates-spotting-fallacies-in-political-debates-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Fallacies in Political Debates - Spotting Fallacies in Political DebatesImage Image SPOTTING FALLACIES IN POLITICAL DEBATES SPOT...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thinklawfully.com  
    Title: Think Lawfully What Logical Fallacies Look Like in Public Debates  
-   Link: [https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/](https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/)  
+   Link: <a href="https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinklawfully.com/what-logical-fallacies-look-like-in-public-debates/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Think LawfullyWhat Logical Fallacies Look Like in Public Debates - Think Lawfully...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fallacyguide.com  
    Title: The Fallacy Guide Fallacies in Politics – The Fallacy Guide | The Fallacy Guide  
-   Link: [https://fallacyguide.com/fallacies/politics](https://fallacyguide.com/fallacies/politics)  
+   Link: <a href="https://fallacyguide.com/fallacies/politics" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/politics</a>  
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: ejournal.ukm.my  
-   Link: [https://ejournal.ukm.my/gema/article/view/54197](https://ejournal.ukm.my/gema/article/view/54197)  
+   Link: <a href="https://ejournal.ukm.my/gema/article/view/54197" target="_blank" rel="noopener noreferrer nofollow">https://ejournal.ukm.my/gema/article/view/54197</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Speech Act as a Performance of Fallacies in Nouri al-Maliki’s Political Speeches | Hamad | GEMA Online® Journal of Language StudiesCOMPLE...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: repository.unp.ac.id  
-   Link: [https://repository.unp.ac.id/id/eprint/8204/](https://repository.unp.ac.id/id/eprint/8204/)  
+   Link: <a href="https://repository.unp.ac.id/id/eprint/8204/" target="_blank" rel="noopener noreferrer nofollow">https://repository.unp.ac.id/id/eprint/8204/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Logical Fallacy in Argument of Campaign Team Debate of Joko Widodo and Prabowo Subianto - Repository Universitas Negeri Padan...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: macrothink.org  
-   Link: [https://www.macrothink.org/journal/index.php/jsss/article/view/7616](https://www.macrothink.org/journal/index.php/jsss/article/view/7616)  
+   Link: <a href="https://www.macrothink.org/journal/index.php/jsss/article/view/7616" target="_blank" rel="noopener noreferrer nofollow">https://www.macrothink.org/journal/index.php/jsss/article/view/7616</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>H. Al-Hindawi, Musaab A. Alkhazaali, Duaa Al-Awadi ABSTRACT Fallacy as a derailment of strategic maneuvering can be def...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: boa.unimib.it  
-   Link: [https://www.boa.unimib.it/handle/10281/50497](https://www.boa.unimib.it/handle/10281/50497)  
+   Link: <a href="https://www.boa.unimib.it/handle/10281/50497" target="_blank" rel="noopener noreferrer nofollow">https://www.boa.unimib.it/handle/10281/50497</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We propose an examination of the role of fallacies in political argumentation. In the first two sections w...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: spotfallacy.com  
-   Link: [https://spotfallacy.com/blog/logical-fallacy/logical-fallacies-political-leaders-use](https://spotfallacy.com/blog/logical-fallacy/logical-fallacies-political-leaders-use)  
+   Link: <a href="https://spotfallacy.com/blog/logical-fallacy/logical-fallacies-political-leaders-use" target="_blank" rel="noopener noreferrer nofollow">https://spotfallacy.com/blog/logical-fallacy/logical-fallacies-political-leaders-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>POLITICS IS IDENTITY-DRIVEN For many people, political beliefs connect to identity: religion, region...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: publicleadershipinstitute.org  
    Title: Five logical fallacies often used in political and policy debate  
-   Link: [https://publicleadershipinstitute.org/2018/08/15/five-logical-fallacies-often-used-political-policy-debate/](https://publicleadershipinstitute.org/2018/08/15/five-logical-fallacies-often-used-political-policy-debate/)  
+   Link: <a href="https://publicleadershipinstitute.org/2018/08/15/five-logical-fallacies-often-used-political-policy-debate/" target="_blank" rel="noopener noreferrer nofollow">https://publicleadershipinstitute.org/2018/08/15/five-logical-fallacies-often-used-political-policy-debate/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public leadership InstituteAugust 15, 2018 — IDEALOG FIVE LOGICAL FALLACIES OFTEN USED IN POLITICAL AND POLICY DEBATE 8/15/2018 Progressi...</p></details>
    Published: August 15, 2018  
 
 20. <a id="endnote-20"></a>
    Source: theodysseyonline.com  
    Title: The Most Common Logical Fallacies In Politics  
-   Link: [https://www.theodysseyonline.com/common-logical-fallacies-politics](https://www.theodysseyonline.com/common-logical-fallacies-politics)  
+   Link: <a href="https://www.theodysseyonline.com/common-logical-fallacies-politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theodysseyonline.com/common-logical-fallacies-politics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 12, 2016 — THE MOST COMMON LOGICAL FALLACIES IN POLITICS HOW POLITICIANS OFTEN TRY TO MISLEAD YOU Katie Hiegel Dec 12, 2016 2520...</p></details>
    Published: December 12, 2016  
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35990918/](https://pubmed.ncbi.nlm.nih.gov/35990918/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35990918/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35990918/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>schemes, fallacies, and evidence in politicians&#x27; argumentative tweets-A coded dataset - PubMedJuly 30, 2022 — FULL TEXT LINKS Elsevier Sc...</p></details>
    Published: July 30, 2022  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: [http://www.youtube.com/watch?v=aF6EHTtyYqw](http://www.youtube.com/watch?v=aF6EHTtyYqw)  
+   Link: <a href="http://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Political logical fallacies public debate rhetoric 15 Logical Fallacies from the 2020 U.S. Presidential Debates none...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: How to Spot Logical Fallacies (Featuring Joe Rogan and Ben Shapiro)  
-   Link: [http://www.youtube.com/watch?v=P3w6LTkRCZQ](http://www.youtube.com/watch?v=P3w6LTkRCZQ)  
+   Link: <a href="http://www.youtube.com/watch?v=P3w6LTkRCZQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P3w6LTkRCZQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ULTIMATE DEBATE RHETORIC! Trump &amp; Clinton sparring, logos, ethos, &amp; pathos...</p></details>

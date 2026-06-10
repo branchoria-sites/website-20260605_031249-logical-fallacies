@@ -310,7 +310,7 @@ For example:
 
 The warrant is: “If one event follows another, the earlier event is likely the cause.”
 
-Once stated, the weakness becomes obvious. Many other factors could explain the increase. The problem is not the crime statistics; it is the causal warrant connecting them to the mayor. This kind of gap often appears in [post hoc reasoning]({{ 'false-cause/' | relative_url }}) and other causal fallacies.
+Once stated, the weakness becomes obvious. Many other factors could explain the increase. The problem is not the crime statistics; it is the causal warrant connecting them to the mayor. This kind of gap often appears in [post hoc]({{ 'post-hoc/' | relative_url }}) reasoning and other causal fallacies.
 
 A practical test is to rewrite the argument in three parts:
 
@@ -797,7 +797,7 @@ For example:
 
 The warrant assumes that limited evidence justifies certainty. A better conclusion might be that the relationship is plausible or deserves further investigation.
 
-Recent research on evidence evaluation highlights this problem. Evidence may be relevant to a claim while still failing to warrant the claim's full strength, scope, certainty, or specificity. The mismatch occurs when conclusions exceed what the evidence can reasonably support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivRelevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</span><span class="citation-popover-meta">Published: May 27, 2026</span></span></span>
+Recent research on evidence evaluation highlights this problem. Evidence may be relevant to a claim while still failing to warrant the claim's full strength, scope, certainty, or specificity. The mismatch occurs when conclusions exceed what the evidence can reasonably support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Relevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</span><span class="citation-popover-meta">Published: May 27, 2026</span></span></span>
 
 ## When Evidence Supports a Nearby Claim Instead
 
@@ -826,7 +826,7 @@ Warrant testing reveals the shift. The hidden bridge often turns out to be:
 * Legality implies morality.
 * [Tradition]({{ 'tradition/' | relative_url }}) implies correctness.
 
-Each bridge requires separate justification. Without it, the argument commits a relevance error by moving from one type of claim to another without adequate support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurelearn.com">[FutureLearn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurelearn.com</span><span class="citation-popover-snippet">FutureLearnHow to Argue Against Common FallaciesThe common fallacies are usefully divided into three categories: Fallacies of Relevance...</span></span></span>
+Each bridge requires separate justification. Without it, the argument commits a relevance error by moving from one type of claim to another without adequate support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurelearn.com">[FutureLearn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurelearn.com</span><span class="citation-popover-snippet">How to Argue Against Common FallaciesThe common fallacies are usefully divided into three categories: Fallacies of Relevance...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-3-dark.svg" | relative_url }}" alt="Warrants illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_warrant_evidence_cla_1bfb7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -846,7 +846,7 @@ These warning signs do not automatically prove a fallacy. They indicate places w
 
 The most valuable feature of a warrant test is that it changes the question from “Is this evidence true?” to “Does this evidence justify this conclusion?” An argument may survive the first question and fail the second.
 
-Strong reasoning requires more than facts. It requires a defensible connection between facts and conclusions. Warrants supply that connection, and warrant tests expose whether the connection is genuine, overstated, or missing altogether. In the context of logical fallacies, this makes warrant analysis one of the most effective tools for detecting relevance failures that would otherwise remain hidden beneath persuasive evidence and confident claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivRelevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</span><span class="citation-popover-meta">Published: May 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=1BMnv2oleLo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[3Purdue OWL 3Purdue Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Claim, Evidence, Warrant | Essay Writing | The Nature of Writing</span><span class="citation-popover-snippet">Toulmin Model of Argumentation...</span></span></span> Success Center](#endnote-10 "Snippet: Purdue Global Success CenterThe Toulmin Model of Argument PodcastThe warrant is the assumption, or belief, the writer has in mind when fo...")
+Strong reasoning requires more than facts. It requires a defensible connection between facts and conclusions. Warrants supply that connection, and warrant tests expose whether the connection is genuine, overstated, or missing altogether. In the context of logical fallacies, this makes warrant analysis one of the most effective tools for detecting relevance failures that would otherwise remain hidden beneath persuasive evidence and confident claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Relevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</span><span class="citation-popover-meta">Published: May 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=1BMnv2oleLo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[3Purdue OWL 3Purdue Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Claim, Evidence, Warrant &#124; Essay Writing &#124; The Nature of Writing</span><span class="citation-popover-snippet">Toulmin Model of Argumentation...</span></span></span> Success Center](#endnote-10 "Snippet: Purdue Global Success CenterThe Toulmin Model of Argument PodcastThe warrant is the assumption, or belief, the writer has in mind when fo...")
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8g6R9dRtAww" title="Stephen Toulmin model of argumentation - how to construct the best argument" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8g6R9dRtAww" target="_blank" rel="noopener noreferrer">Stephen Toulmin model of argumentation - how to construct the best argument</a></p><p class="youtube-embed-meta">Channel: flixabout.com &middot; Views: 11.0K &middot; Uploaded: September 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8g6R9dRtAww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8g6R9dRtAww">Open on YouTube</a></p></div></div></div>
@@ -856,136 +856,136 @@ Strong reasoning requires more than facts. It requires a defensible connection b
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLToulmin Argument  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html](https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLToulmin Argument - Purdue OWLIn Toulmin&#x27;s method, every argument begins with three fundamental parts: the claim, the grounds, a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: informallogic.ca  
    Title: Understanding Fallacies on Toulmin's Layout of Argument  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/3900/3149](https://informallogic.ca/index.php/informal_logic/article/view/3900/3149)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/3900/3149" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3900/3149</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is because the warrant is the source of relevance between the data and the claim (ibid.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: futurelearn.com  
-   Link: [https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131](https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FutureLearnHow to Argue Against Common FallaciesThe common fallacies are usefully divided into three categories: Fallacies of Relevance...</p></details>
+   Link: <a href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131" target="_blank" rel="noopener noreferrer nofollow">https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Argue Against Common FallaciesThe common fallacies are usefully divided into three categories: Fallacies of Relevance...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lincoln.edu  
-   Link: [https://www.lincoln.edu/_files/_pdfs/Guide-to-Writing-and-Analyzing-an-Argument.pptx](https://www.lincoln.edu/_files/_pdfs/Guide-to-Writing-and-Analyzing-an-Argument.pptx)  
+   Link: <a href="https://www.lincoln.edu/_files/_pdfs/Guide-to-Writing-and-Analyzing-an-Argument.pptx" target="_blank" rel="noopener noreferrer nofollow">https://www.lincoln.edu/_files/_pdfs/Guide-to-Writing-and-Analyzing-an-Argument.pptx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lincoln UniversityClaim and Evidence WorkshopWarrant (also referred to as a bridge): Explanation of why or how the data supports the clai...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.28044](https://arxiv.org/abs/2605.28044)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRelevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.28044" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.28044</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relevant Is Not Warranted: Evidence-Force Calibration for Cited RAGMay 27, 2026...</p></details>
    Published: May 27, 2026  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence  
-   Link: [https://arxiv.org/abs/2408.12812](https://arxiv.org/abs/2408.12812)  
+   Link: <a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1708.01425](https://arxiv.org/abs/1708.01425)  
+   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
 
 8. <a id="endnote-8"></a>
    Source: owl.purdue.edu  
    Title: organizing your argument  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your Argument - Purdue OWLThe Toulmin Method is a formula that allows writers to build a sturdy logical foundation for their arguments. F...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.%20Two%20lines%20of%20text%2C%20no%20heading%20%3Cstrong%3Eformatting%3C/strong%3E%20apa%20Share%20Improve%20this%20question%20Follow%20asked%20Mar%2020%2C%202017%20at%201%3A44%20Mitch%20Talmadge%20123%204%20Add%20a%20comment%201%20Answer%20%E2%80%A6Make%20a%20claim.%20Provide%20the%20grounds%20%28evidence%29%20for%20the%20claim.%20Explain%20the%20warrant%20%28how%20the%20grounds%20support%20the%20claim%29%20Discuss%20possible%20rebuttals%20to%20the%20claim%2C%20identifying%20the%20limits%20of%20the%20argument%20and%20showing%20that%20you%20have%20considered%20alternative%20perspectives.%20The%20Toulmin%20model%20is%20a%20common%20approach%20in%20academic%20%3Cstrong%3Eessays%3C/strong%3E.For%20up-to-date%20guidance%2C%20see%20the%20ninth%20edition%20of%20the%20MLA%20Handbook.%20Set%20the%20margins%20of%20your%20document%20to%201%20inch%20on%20all%20sides.%20Indent%20the%20first%20line%20of%20each%20%3Cstrong%3Eparagraph%3C/strong%3E%20one%20half-inch%20from%20the%20left%20margin.General%20CMOS%20Guidelines.%20Text%20should%20be%20consistently%20double-spaced%2C%20except%20for%20block%20quotations%2C%20notes%2C%20bibliography%20entries%2C%20table%20titles%2C%20and%20figure%20captions.%20For%20block%20quotations%2C%20which%20are%20also%20called%20extracts%3A%20A%20prose%20quotation%20of%20five%20or%20more%20lines%2C%20or%20more%20than%20100%20words%2C%20should%20be%20blocked.html](https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.%20Two%20lines%20of%20text%2C%20no%20heading%20%3Cstrong%3Eformatting%3C/strong%3E%20apa%20Share%20Improve%20this%20question%20Follow%20asked%20Mar%2020%2C%202017%20at%201%3A44%20Mitch%20Talmadge%20123%204%20Add%20a%20comment%201%20Answer%20%E2%80%A6Make%20a%20claim.%20Provide%20the%20grounds%20%28evidence%29%20for%20the%20claim.%20Explain%20the%20warrant%20%28how%20the%20grounds%20support%20the%20claim%29%20Discuss%20possible%20rebuttals%20to%20the%20claim%2C%20identifying%20the%20limits%20of%20the%20argument%20and%20showing%20that%20you%20have%20considered%20alternative%20perspectives.%20The%20Toulmin%20model%20is%20a%20common%20approach%20in%20academic%20%3Cstrong%3Eessays%3C/strong%3E.For%20up-to-date%20guidance%2C%20see%20the%20ninth%20edition%20of%20the%20MLA%20Handbook.%20Set%20the%20margins%20of%20your%20document%20to%201%20inch%20on%20all%20sides.%20Indent%20the%20first%20line%20of%20each%20%3Cstrong%3Eparagraph%3C/strong%3E%20one%20half-inch%20from%20the%20left%20margin.General%20CMOS%20Guidelines.%20Text%20should%20be%20consistently%20double-spaced%2C%20except%20for%20block%20quotations%2C%20notes%2C%20bibliography%20entries%2C%20table%20titles%2C%20and%20figure%20captions.%20For%20block%20quotations%2C%20which%20are%20also%20called%20extracts%3A%20A%20prose%20quotation%20of%20five%20or%20more%20lines%2C%20or%20more%20than%20100%20words%2C%20should%20be%20blocked.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.%20Two%20lines%20of%20text%2C%20no%20heading%20%3Cstrong%3Eformatting%3C/strong%3E%20apa%20Share%20Improve%20this%20question%20Follow%20asked%20Mar%2020%2C%202017%20at%201%3A44%20Mitch%20Talmadge%20123%204%20Add%20a%20comment%201%20Answer%20%E2%80%A6Make%20a%20claim.%20Provide%20the%20grounds%20%28evidence%29%20for%20the%20claim.%20Explain%20the%20warrant%20%28how%20the%20grounds%20support%20the%20claim%29%20Discuss%20possible%20rebuttals%20to%20the%20claim%2C%20identifying%20the%20limits%20of%20the%20argument%20and%20showing%20that%20you%20have%20considered%20alternative%20perspectives.%20The%20Toulmin%20model%20is%20a%20common%20approach%20in%20academic%20%3Cstrong%3Eessays%3C/strong%3E.For%20up-to-date%20guidance%2C%20see%20the%20ninth%20edition%20of%20the%20MLA%20Handbook.%20Set%20the%20margins%20of%20your%20document%20to%201%20inch%20on%20all%20sides.%20Indent%20the%20first%20line%20of%20each%20%3Cstrong%3Eparagraph%3C/strong%3E%20one%20half-inch%20from%20the%20left%20margin.General%20CMOS%20Guidelines.%20Text%20should%20be%20consistently%20double-spaced%2C%20except%20for%20block%20quotations%2C%20notes%2C%20bibliography%20entries%2C%20table%20titles%2C%20and%20figure%20captions.%20For%20block%20quotations%2C%20which%20are%20also%20called%20extracts%3A%20A%20prose%20quotation%20of%20five%20or%20more%20lines%2C%20or%20more%20than%20100%20words%2C%20should%20be%20blocked.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.%20Two%20lines%20of%20text%2C%20no%20heading%20%3Cstrong%3Eformatting%3C/strong%3E%20apa%20Share%20Improve%20this%20question%20Follow%20asked%20Mar%2020%2C%202017%20at%201%3A44%20Mitch%20Talmadge%20123%204%20Add%20a%20comment%201%20Answer%20%E2%80%A6Make%20a%20claim.%20Provide%20the%20grounds%20%28evidence%29%20for%20the%20claim.%20Explain%20the%20warrant%20%28how%20the%20grounds%20support%20the%20claim%29%20Discuss%20possible%20rebuttals%20to%20the%20claim%2C%20identifying%20the%20limits%20of%20the%20argument%20and%20showing%20that%20you%20have%20considered%20alternative%20perspectives.%20The%20Toulmin%20model%20is%20a%20common%20approach%20in%20academic%20%3Cstrong%3Eessays%3C/strong%3E.For%20up-to-date%20guidance%2C%20see%20the%20ninth%20edition%20of%20the%20MLA%20Handbook.%20Set%20the%20margins%20of%20your%20document%20to%201%20inch%20on%20all%20sides.%20Indent%20the%20first%20line%20of%20each%20%3Cstrong%3Eparagraph%3C/strong%3E%20one%20half-inch%20from%20the%20left%20margin.General%20CMOS%20Guidelines.%20Text%20should%20be%20consistently%20double-spaced%2C%20except%20for%20block%20quotations%2C%20notes%2C%20bibliography%20entries%2C%20table%20titles%2C%20and%20figure%20captions.%20For%20block%20quotations%2C%20which%20are%20also%20called%20extracts%3A%20A%20prose%20quotation%20of%20five%20or%20more%20lines%2C%20or%20more%20than%20100%20words%2C%20should%20be%20blocked.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChoicesProvide the grounds (evidence) for the claim. Explain the warrant (how the grounds support the claim) Discuss possible rebuttals t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Claim, Evidence, Warrant | Essay Writing | The Nature of Writing  
-   Link: [https://www.youtube.com/watch?v=1BMnv2oleLo](https://www.youtube.com/watch?v=1BMnv2oleLo)  
+   Link: <a href="https://www.youtube.com/watch?v=1BMnv2oleLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1BMnv2oleLo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Model of Argumentation...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: miamioh.edu  
-   Link: [https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html](https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html)  
+   Link: <a href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow">https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Miami UniversitySupporting an ArgumentWarrant (&quot;the bridge&quot;): The belief, value, assumption, and/or [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) the writer hopes the audie...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-024-03151-w](https://www.nature.com/articles/s41599-024-03151-w)  
+   Link: <a href="https://www.nature.com/articles/s41599-024-03151-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-024-03151-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A backing...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sites.google.com  
-   Link: [https://sites.google.com/site/writingwithpete/warrants](https://sites.google.com/site/writingwithpete/warrants)  
+   Link: <a href="https://sites.google.com/site/writingwithpete/warrants" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/site/writingwithpete/warrants</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Art of Academic Writing - WarrantsThe two key types of claims you will make in writing are thesis statements and topic sentences. A thesi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical FallaciesFallacies are fake or deceptive arguments, &quot;junk cognition,&quot; that is, arguments that seem irrefutable but prove...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1BMnv2ojkLo](https://www.youtube.com/watch?v=1BMnv2ojkLo)  
+   Link: <a href="https://www.youtube.com/watch?v=1BMnv2ojkLo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1BMnv2ojkLo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim, Evidence, Warrant | Essay Writing | The Nature of WritingClaim, Evidence, Warrant | Essay Writing | The Nature of Writing 81K view...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: azhin.org  
-   Link: [https://azhin.org/cummings/argument](https://azhin.org/cummings/argument)  
+   Link: <a href="https://azhin.org/cummings/argument" target="_blank" rel="noopener noreferrer nofollow">https://azhin.org/cummings/argument</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing: Arguments: The Basics9 Mar 2026 — An argument makes a claim and uses evidence to back it up. Arguments all follow the same basic...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: statisticssolutions.com  
-   Link: [https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/](https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/)  
+   Link: <a href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/[Debate](https://www.reddit.com/r/[Debate)  
+   Link: <a href="https://www.reddit.com/r/[Debate" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/[Debate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Method: r/DebateThe tenets he includes are Claim, Ground, Warrant, Backing, Rebuttal, and Qualifier. Can anyone else confirm whe...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sjsu.edu  
-   Link: [https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf](https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf)  
+   Link: <a href="https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin&#x27;s Model of Argumentative WritingIt consists of six parts: three fundamental elements are the claim, grounds, and warrant; then, t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ciris.info  
-   Link: [https://www.ciris.info/learningcenter/toulmins-model/](https://www.ciris.info/learningcenter/toulmins-model/)  
+   Link: <a href="https://www.ciris.info/learningcenter/toulmins-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.ciris.info/learningcenter/toulmins-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin&#x27;s model of ArgumentationThe Toulmin model shows how reasoning moves from evidence (grounds) to a conclusion (claim), supported by...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: publications.coventry.ac.uk  
-   Link: [https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568](https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568)  
+   Link: <a href="https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568" target="_blank" rel="noopener noreferrer nofollow">https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Students How to Tame the Warrant with...This teaching practice paper deals with some practical ideas of teaching the concept of &#x27;warrant...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: mhcc.pressbooks.pub  
-   Link: [https://mhcc.pressbooks.pub/2ndwr122/chapter/8/](https://mhcc.pressbooks.pub/2ndwr122/chapter/8/)  
+   Link: <a href="https://mhcc.pressbooks.pub/2ndwr122/chapter/8/" target="_blank" rel="noopener noreferrer nofollow">https://mhcc.pressbooks.pub/2ndwr122/chapter/8/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis (Claims and Data)The Toulmin method is a style of argumentation that breaks arguments down into six component parts: claim, grou...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesA fallacy is a kind of error in reasoning. The list of fallacies below contains 231 names of...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: learn.academy4sc.org  
    Title: the toulmin model of argumentation claims data and warrants oh my  
-   Link: [https://learn.academy4sc.org/video/the-toulmin-model-of-argumentation-claims-data-and-warrants-oh-my/](https://learn.academy4sc.org/video/the-toulmin-model-of-argumentation-claims-data-and-warrants-oh-my/)  
+   Link: <a href="https://learn.academy4sc.org/video/the-toulmin-model-of-argumentation-claims-data-and-warrants-oh-my/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/the-toulmin-model-of-argumentation-claims-data-and-warrants-oh-my/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Model of Argumentation: Claims, Data, and...Toulmin identified six elements of an effective argument: claims, data, warrants, ba...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thequillguy.com  
-   Link: [https://www.thequillguy.com/developing-academic-argument-using-claims-reasons-evidence-and-warrants-using-turabians-manual-for-writers/](https://www.thequillguy.com/developing-academic-argument-using-claims-reasons-evidence-and-warrants-using-turabians-manual-for-writers/)  
+   Link: <a href="https://www.thequillguy.com/developing-academic-argument-using-claims-reasons-evidence-and-warrants-using-turabians-manual-for-writers/" target="_blank" rel="noopener noreferrer nofollow">https://www.thequillguy.com/developing-academic-argument-using-claims-reasons-evidence-and-warrants-using-turabians-manual-for-writers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Academic Argument Using Claims, Reasons...So a warrant tests the relevance of a reason to a claim: it is the bridge between them...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: files.eric.ed.gov  
-   Link: [https://files.eric.ed.gov/fulltext/ED028180.pdf](https://files.eric.ed.gov/fulltext/ED028180.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/ED028180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED028180.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ttern for both the evaluation and construction of argument...</p></details>

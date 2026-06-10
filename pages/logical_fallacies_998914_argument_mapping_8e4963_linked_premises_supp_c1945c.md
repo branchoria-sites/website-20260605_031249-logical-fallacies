@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_pr
 
 ## Introduction
 
-One of the most common mistakes in analysing arguments is treating every stated reason as if it independently supports the conclusion. In reality, many arguments depend on **linked premises**—claims that only provide support when they are combined. If those premises are separated and counted as independent reasons, the argument can appear much stronger than it really is. [Argument mapping]({{ 'argument-map/' | relative_url }}) helps reveal this problem by showing whether reasons stand alone or function as a single package. Researchers and argument-mapping guides commonly describe these connected claims as *co-premises* or *dependent premises*: neither premise does enough work on its own, but together they create the inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
+One of the most common mistakes in analysing arguments is treating every stated reason as if it independently supports the conclusion. In reality, many arguments depend on **linked premises**—claims that only provide support when they are combined. If those premises are separated and counted as independent reasons, the argument can appear much stronger than it really is. Argument mapping helps reveal this problem by showing whether reasons stand alone or function as a single package. Researchers and argument-mapping guides commonly describe these connected claims as *co-premises* or *dependent premises*: neither premise does enough work on its own, but together they create the inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1-dark.svg" | relative_url }}" alt="Linked Premises illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -309,7 +309,7 @@ Now compare:
 
 </div>
 
-Each reason retains some force even if the others are removed. The argument contains multiple independent lines of support rather than one linked chain. Argument-mapping literature often calls this a convergent structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> CliffsNotes The distinction is not merely technical. It changes how much evidence the argument actually contains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffsnotes.com">[cliffsnotes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffsnotes.com</span><span class="citation-popover-title">□ Independent premises: Use separate arrows to maintain</span><span class="citation-popover-snippet">CliffsNotesMastering Argument Mapping: A Guide to Analyzing ComplexArgument Mapping Rules: ○ Mapping Rules: □ Co-premises: Join together...</span></span></span>
+Each reason retains some force even if the others are removed. The argument contains multiple independent lines of support rather than one linked chain. Argument-mapping literature often calls this a convergent structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> CliffsNotes The distinction is not merely technical. It changes how much evidence the argument actually contains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cliffsnotes.com">[cliffsnotes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cliffsnotes.com</span><span class="citation-popover-title">□ Independent premises: Use separate arrows to maintain</span><span class="citation-popover-snippet">Mastering Argument Mapping: A Guide to Analyzing ComplexArgument Mapping Rules: ○ Mapping Rules: □ Co-premises: Join together...</span></span></span>
 
 ## Recognising Co-Premises
 
@@ -404,7 +404,7 @@ Arguments sometimes restate essentially the same idea in different words:
 If "experts" and "specialists" refer to the same group, the argument does not contain two independent reasons. It contains one reason repeated twice. Mapping helps expose this kind of duplication.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kGgLlip_lvc" title="Argument Mapping: Understanding and Making Arguments w/ Nate Otey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer">Argument Mapping: Understanding and Making Arguments w/ Nate Otey</a></p><p class="youtube-embed-meta">Channel: The Stoa &middot; Views: 3.5K &middot; Uploaded: April 2022 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kGgLlip_lvc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKplZwqFwVk" title="The U.S. National Blueprint for Transportation Decarbonization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer">The U.S. National Blueprint for Transportation Decarbonization</a></p><p class="youtube-embed-meta">Channel: U.S. Department of Energy &middot; Views: 2.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKplZwqFwVk">Open on YouTube</a></p></div></div></div>
 
 ## False Support Patterns and Why They Matter
 
@@ -441,7 +441,7 @@ Ask:
 If the inference collapses, the premises are probably linked. If meaningful support remains, they are probably independent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKplZwqFwVk" title="The U.S. National Blueprint for Transportation Decarbonization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer">The U.S. National Blueprint for Transportation Decarbonization</a></p><p class="youtube-embed-meta">Channel: U.S. Department of Energy &middot; Views: 2.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKplZwqFwVk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kGgLlip_lvc" title="Argument Mapping: Understanding and Making Arguments w/ Nate Otey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer">Argument Mapping: Understanding and Making Arguments w/ Nate Otey</a></p><p class="youtube-embed-meta">Channel: The Stoa &middot; Views: 3.5K &middot; Uploaded: April 2022 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kGgLlip_lvc">Open on YouTube</a></p></div></div></div>
 
 ### Look for a missing bridge
 
@@ -462,7 +462,7 @@ Together they support the claim that she witnessed the approval. Each premise co
 
 ## What Linked Premises Reveal About Fallacies
 
-Many [informal fallacies]({{ 'informal-logic/' | relative_url }}) become easier to diagnose once linked premises are identified correctly.
+Many informal fallacies become easier to diagnose once linked premises are identified correctly.
 
 A weak argument may seem persuasive because readers unconsciously count each co-premise as a separate piece of evidence. The problem is not always a named fallacy such as hasty generalisation or false cause. Sometimes the deeper issue is structural: the argument possesses only one fragile line of support disguised as several.
 
@@ -890,160 +890,160 @@ Argument maps expose this by showing where premises merge, where assumptions are
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: [Argument map](&#123;&#123; 'argument-map/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Argument_map](https://en.wikipedia.org/wiki/Argument_map)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
 
 2. <a id="endnote-2"></a>
    Source: philosophy.hku.hk  
-   Link: [https://philosophy.hku.hk/think/arg/complex.php?m=1](https://philosophy.hku.hk/think/arg/complex.php?m=1)  
+   Link: <a href="https://philosophy.hku.hk/think/arg/complex.php?m=1" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/arg/complex.php?m=1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[A10] Argument mappingNote that the two premises are connected together before linking to the conclusion. This merging of the links indic...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: jan.ucc.nau.edu  
-   Link: [https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/](https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/)  
+   Link: <a href="https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/" target="_blank" rel="noopener noreferrer nofollow">https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4: Independent and Linked PremisesIn contrast to independent premises, linked premises work together to reach a conclusion. Consider the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: web-archive.southampton.ac.uk  
-   Link: [https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf](https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf)  
+   Link: <a href="https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/3008/1/reasonpaper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>13. If the argument map is done properly, then all co-premises of a reason are necessary for the...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cliffsnotes.com  
    Title: □ Independent premises: Use separate arrows to maintain  
-   Link: [https://www.cliffsnotes.com/study-notes/33664324](https://www.cliffsnotes.com/study-notes/33664324)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CliffsNotesMastering Argument Mapping: A Guide to Analyzing ComplexArgument Mapping Rules: ○ Mapping Rules: □ Co-premises: Join together...</p></details>
+   Link: <a href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33664324</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Argument Mapping: A Guide to Analyzing ComplexArgument Mapping Rules: ○ Mapping Rules: □ Co-premises: Join together...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kGgLlip_lvc](https://www.youtube.com/watch?v=kGgLlip_lvc)  
+   Link: <a href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kGgLlip_lvc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping: Understanding and Making Arguments w...Nate Otey from ThinkerAnalytix visits The Stoa to discuss argument mappi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2408.08648](https://arxiv.org/abs/2408.08648)  
+   Link: <a href="https://arxiv.org/abs/2408.08648" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.08648</a>  
 
 8. <a id="endnote-8"></a>
    Source: philosophy.hku.hk  
-   Link: [https://philosophy.hku.hk/think/arg/complex.php](https://philosophy.hku.hk/think/arg/complex.php)  
+   Link: <a href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/arg/complex.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: quizlet.com  
    Title: Week 6  
-   Link: [https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/](https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/)  
+   Link: <a href="https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping FlashcardsIn argument maps, we depict co-premises by linking the arrows joining them to the conclusion using a &quot;Y&quot; shape...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: federation.edu.au  
-   Link: [https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/](https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/)  
+   Link: <a href="https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.federation.edu.au/students/study-skills/study-resources/hdr-thesis/write-your-thesis/mapping-an-argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federation UniversityMapping an argumentA good argument map will make all co-premises explicit. Doing so will allow... In these complex...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: critical-thinking.com.au  
    Title: what is argument mapping  
-   Link: [https://critical-thinking.com.au/thoughts/what-is-argument-mapping/](https://critical-thinking.com.au/thoughts/what-is-argument-mapping/)  
+   Link: <a href="https://critical-thinking.com.au/thoughts/what-is-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://critical-thinking.com.au/thoughts/what-is-argument-mapping/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a way to show which claims justify what and how.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/ca/670649555/lesson-6-argument-mapping-and-multi-layer-arguments-flash-cards/](https://quizlet.com/ca/670649555/lesson-6-argument-mapping-and-multi-layer-arguments-flash-cards/)  
+   Link: <a href="https://quizlet.com/ca/670649555/lesson-6-argument-mapping-and-multi-layer-arguments-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/ca/670649555/lesson-6-argument-mapping-and-multi-layer-arguments-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lesson 6: Argument Mapping and Multi-Layer ArgumentsArgument maps can indicate whether an argument has co-premises or independent premise...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reasons.io  
    Title: Independent and Codependent Premises  
-   Link: [https://reasons.io/learn/06](https://reasons.io/learn/06)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReasonsCodependent and independent premises can also be used together to form more complex arguments. Here, we can strength the inference...</p></details>
+   Link: <a href="https://reasons.io/learn/06" target="_blank" rel="noopener noreferrer nofollow">https://reasons.io/learn/06</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Codependent and independent premises can also be used together to form more complex arguments. Here, we can strength the inference...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=b7QMD8J1BEE](https://www.youtube.com/watch?v=b7QMD8J1BEE)  
+   Link: <a href="https://www.youtube.com/watch?v=b7QMD8J1BEE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b7QMD8J1BEE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Step 3.2: Independent PremisesComments &amp;middot; Step 3.3: Dependent premises &amp;middot; Step 1: Distinguishing Arguments From Other Forms o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Gemini said  
-   Link: [https://www.youtube.com/watch?v=NJxTGuIQFh0](https://www.youtube.com/watch?v=NJxTGuIQFh0)  
+   Link: <a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJxTGuIQFh0</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: You Tube  
-   Link: [https://www.youtube.com/watch](https://www.youtube.com/watch)  
+   Link: <a href="https://www.youtube.com/watch" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: You Tube  
-   Link: [https://www.youtube.com/watch?v=ol4uuxM8xSI](https://www.youtube.com/watch?v=ol4uuxM8xSI)  
+   Link: <a href="https://www.youtube.com/watch?v=ol4uuxM8xSI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ol4uuxM8xSI</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: You Tube  
-   Link: [https://www.youtube.com/watch?v=sTPjC-7EDkc](https://www.youtube.com/watch?v=sTPjC-7EDkc)  
+   Link: <a href="https://www.youtube.com/watch?v=sTPjC-7EDkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sTPjC-7EDkc</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: You Tube  
-   Link: [https://www.youtube.com/watch?v=RKplZwqFwVk](https://www.youtube.com/watch?v=RKplZwqFwVk)  
+   Link: <a href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RKplZwqFwVk</a>  
 
 20. <a id="endnote-20"></a>
    Source: reasoningforthedigitalage.com  
-   Link: [https://reasoningforthedigitalage.com/dependentlinked-premises/](https://reasoningforthedigitalage.com/dependentlinked-premises/)  
+   Link: <a href="https://reasoningforthedigitalage.com/dependentlinked-premises/" target="_blank" rel="noopener noreferrer nofollow">https://reasoningforthedigitalage.com/dependentlinked-premises/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning for the Digital AgeDependent/Linked PremisesDependent premises (sometimes called &#x27;linked&#x27; premises) logically require each othe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reasoningforthedigitalage.com  
    Title: Put the argument into standard form and make an argument diagram.Read more  
-   Link: [https://reasoningforthedigitalage.com/premise-indicators-serial-and-convergent-premises-argument-diagrams/](https://reasoningforthedigitalage.com/premise-indicators-serial-and-convergent-premises-argument-diagrams/)  
+   Link: <a href="https://reasoningforthedigitalage.com/premise-indicators-serial-and-convergent-premises-argument-diagrams/" target="_blank" rel="noopener noreferrer nofollow">https://reasoningforthedigitalage.com/premise-indicators-serial-and-convergent-premises-argument-diagrams/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Premise Indicators, Serial and Convergent...Construct or find TWO arguments that use either convergent or serial premises or both...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/245489403_Argument_Mapping_with_ReasonAble](https://www.researchgate.net/publication/245489403_Argument_Mapping_with_ReasonAble)  
+   Link: <a href="https://www.researchgate.net/publication/245489403_Argument_Mapping_with_ReasonAble" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/245489403_Argument_Mapping_with_ReasonAble</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Argument Mapping with Reason!AbleA series of classic arguments is a large part of our subject matter, and argumentation is our prim...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/steps/](https://www.reasoninglab.com/steps/)  
+   Link: <a href="https://www.reasoninglab.com/steps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/steps/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Critical Thinking StepsFor those who require higher levels of analysis, Rationale provides the analysis map format to show the relation...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jostwald.com  
-   Link: [https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf](https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf)  
+   Link: <a href="https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jostwald.com/ArgumentMapping/ArgMap6-Models.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 – Model Argument MapsA good argument has to be valid (i.e. the logical structure of the argument is such that if all the premises are t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: modeldiplomat.com  
-   Link: [https://modeldiplomat.com/learn/lessons/argument-mapping](https://modeldiplomat.com/learn/lessons/argument-mapping)  
+   Link: <a href="https://modeldiplomat.com/learn/lessons/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://modeldiplomat.com/learn/lessons/argument-mapping</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping — LessonAn argument map is a visual diagram that shows the structure of an argument: which statements are premises, whic...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf](https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf)  
+   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-ca/document/university-of-winnipeg/intro-to-philosophy/argument-map-notes/20895522](https://www.studocu.com/en-ca/document/university-of-winnipeg/intro-to-philosophy/argument-map-notes/20895522)  
+   Link: <a href="https://www.studocu.com/en-ca/document/university-of-winnipeg/intro-to-philosophy/argument-map-notes/20895522" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-ca/document/university-of-winnipeg/intro-to-philosophy/argument-map-notes/20895522</a>  
 
 28. <a id="endnote-28"></a>
    Source: reasoninglab.com  
    Title: Argument Mapping Start at the top and working down in levels  
-   Link: [https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf](https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf)  
+   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingStart at the top and working down in levels - add evidence to support (reasons – green) or oppose (objections – red) any...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/A-simple-argument-with-co-premises-leading-to-a-conclusion_fig2_5298009](https://www.researchgate.net/figure/A-simple-argument-with-co-premises-leading-to-a-conclusion_fig2_5298009)  
+   Link: <a href="https://www.researchgate.net/figure/A-simple-argument-with-co-premises-leading-to-a-conclusion_fig2_5298009" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-simple-argument-with-co-premises-leading-to-a-conclusion_fig2_5298009</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ional tool to assist learners at all levels of their education develop skills...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: studocu.com  
    Title: 5. What reasons are given for the premises in the main argument?Read more  
-   Link: [https://www.studocu.com/en-au/document/monash-university/critical-reasoning/week-6-ats2946notes/102446564](https://www.studocu.com/en-au/document/monash-university/critical-reasoning/week-6-ats2946notes/102446564)  
+   Link: <a href="https://www.studocu.com/en-au/document/monash-university/critical-reasoning/week-6-ats2946notes/102446564" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-au/document/monash-university/critical-reasoning/week-6-ats2946notes/102446564</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Week 6 ATS2946 Notes: Understanding Argument Maps &amp;...Draw an argument map for the main argument (Are the MAIN premises linked or indepe...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/](https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/)  
+   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, 1A-a is a premise, which is itself supported by a reason...</p></details>

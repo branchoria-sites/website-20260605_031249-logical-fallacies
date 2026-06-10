@@ -447,7 +447,7 @@ An argument normally has at least two parts: a claim, and one or more reasons of
 
 A simple example is: “This policy must be good because everyone I know supports it.” The claim might still be true, but the reason is weak. A small personal circle is not enough evidence for a broad conclusion. The fallacy lies in the leap from a narrow sample to a general judgement.
 
-The key point is that fallacies are about argumentative support, not just whether a statement is [emotionally charged]({{ 'charged-labels/' | relative_url }}), unpopular or badly phrased. An argument can be rude but logically relevant. Another can sound calm and polished while relying on a faulty inference. That is why fallacy-spotting works best when it focuses on the structure of the reasoning rather than the personality of the speaker.
+The key point is that fallacies are about argumentative support, not just whether a statement is emotionally charged, unpopular or badly phrased. An argument can be rude but logically relevant. Another can sound calm and polished while relying on a faulty inference. That is why fallacy-spotting works best when it focuses on the structure of the reasoning rather than the personality of the speaker.
 
 ## Formal and informal fallacies are different problems
 
@@ -455,7 +455,7 @@ Formal fallacies are errors in logical form. If the structure is invalid, the co
 
 Informal fallacies are more context-sensitive. The problem is not always the bare logical shape, but how language, evidence, [relevance]({{ 'relevance/' | relative_url }}) or assumptions are being used. For example, an appeal to expert opinion can be reasonable when the expert is genuinely qualified, the issue falls within their field and the claim is consistent with the evidence. It becomes fallacious when the supposed authority is irrelevant, misquoted, unreliable or treated as beyond question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2868/2408" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Open source on informallogic.ca.</span></span></span>
 
-This distinction matters because many everyday arguments are not formal proofs. They are practical, incomplete and defeasible: new evidence can weaken or overturn them. Modern informal logic studies these real-life arguments in public debate, education, law, medicine, journalism and personal exchange, where the aim is often not mathematical certainty but better-supported belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Formal fallacies are those readily seen to be instances of...Read more...</span></span></span> Encyclopedia of Philosophy
+This distinction matters because many everyday arguments are not formal proofs. They are practical, incomplete and defeasible: new evidence can weaken or overturn them. Modern [informal logic]({{ 'informal-logic/' | relative_url }}) studies these real-life arguments in public debate, education, law, medicine, journalism and personal exchange, where the aim is often not mathematical certainty but better-supported belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Formal fallacies are those readily seen to be instances of...Read more...</span></span></span> Encyclopedia of Philosophy
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914-Illustration-1-dark.svg" | relative_url }}" alt="Logical Fallacies illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -510,13 +510,13 @@ Example: “No one has proved this rumour false, so it must be true.” In some 
 
 Fallacy names are useful shortcuts, but they can also create a false sense of certainty. The Stanford Encyclopedia of Philosophy notes that fallacies are often understood either as false popular beliefs or as deceptively bad arguments, and academic work tends to prefer the argument-focused view. That difference matters because calling a belief “a fallacy” can blur the distinction between a false claim and a bad argument for a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Formal fallacies are those readily seen to be instances of...Read more...</span></span></span> Encyclopedia of Philosophy
 
-There is also a long-running scholarly concern about the “standard treatment” of fallacies: the idea that fallacies can be handled as a fixed list of bad argument types. C. L. Hamblin’s 1970 book *Fallacies* is widely treated as a turning point because it challenged older textbook approaches and helped revive fallacy theory within informal logic and argumentation studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.humanities.mcmaster.ca/~hitchckd/hamblin.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanities.mcmaster.ca">[humanities.mcmaster.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanities.mcmaster.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> ResearchGate The practical lesson is simple: do not stop at the label. Saying <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/267846350_The_Coherence_of_Hamblin%27s_Fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">267846350 The Coherence of Hamblin&#x27;s Fallacies</span><span class="citation-popover-snippet">267846350 The Coherence of Hamblin&#x27;s Fallacies</span></span></span>“that is a straw man” is only persuasive if the original argument and the distortion are clearly shown. Saying “appeal to authority” is not enough if the authority is genuinely relevant. Saying “slippery slope” is not enough if the speaker has credible evidence that one step really does make the next steps more likely.
+There is also a long-running scholarly concern about the “standard treatment” of fallacies: the idea that fallacies can be handled as a fixed list of bad argument types. C. L. Hamblin’s 1970 book *Fallacies* is widely treated as a turning point because it challenged older textbook approaches and helped revive fallacy theory within informal logic and argumentation studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.humanities.mcmaster.ca/~hitchckd/hamblin.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanities.mcmaster.ca">[humanities.mcmaster.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanities.mcmaster.ca</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> ResearchGate The practical lesson is simple: do not stop at the label. Saying <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/267846350_The_Coherence_of_Hamblin%27s_Fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">267846350 The Coherence of Hamblin&#x27;s Fallacies</span><span class="citation-popover-snippet">267846350 The Coherence of Hamblin&#x27;s Fallacies</span></span></span>“that is a straw man” is only persuasive if the original argument and the distortion are clearly shown. Saying “[appeal to authority]({{ 'authority/' | relative_url }})” is not enough if the authority is genuinely relevant. Saying “slippery slope” is not enough if the speaker has credible evidence that one step really does make the next steps more likely.
 
 ## Context decides many borderline cases
 
 Some argument patterns are weak in one context and reasonable in another. Expert testimony is a good example. It is not fallacious to rely on a cardiologist for a question about heart disease, a structural engineer for bridge safety or a climate scientist for climate modelling. It becomes fallacious when the source lacks relevant expertise, conflicts with stronger evidence, speaks outside their field or is used to shut down legitimate scrutiny. Walton’s work on argumentation schemes treats many everyday arguments as presumptive rather than conclusive: they can support a claim, but they remain open to critical questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndpr.nd.edu/reviews/argumentation-schemes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndpr.nd.edu">[Notre Dame Philosophical Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndpr.nd.edu</span><span class="citation-popover-title">Notre Dame Philosophical Reviews Argumentation Schemes</span><span class="citation-popover-snippet">Notre Dame Philosophical Reviews Argumentation Schemes</span></span></span>
 
-The same is true of arguments from [ignorance]({{ 'ignorance/' | relative_url }}). “No one has proved this chemical safe, therefore it is dangerous” may be too strong if no serious testing has been done. But “no trace of the accused was found after a thorough forensic search” may be relevant in a legal setting. What matters is the quality of the search, the burden of proof and the standard of evidence required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of fallacies</span><span class="citation-popover-snippet">List of fallacies</span></span></span>
+The same is true of arguments from ignorance. “No one has proved this chemical safe, therefore it is dangerous” may be too strong if no serious testing has been done. But “no trace of the accused was found after a thorough forensic search” may be relevant in a legal setting. What matters is the quality of the search, the burden of proof and the standard of evidence required. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of fallacies</span><span class="citation-popover-snippet">List of fallacies</span></span></span>
 
 This is why serious fallacy analysis often asks critical questions rather than merely applying labels. For expert opinion, those questions include whether the source is credible, whether the claim falls within the source’s field, whether other experts agree and whether the claim is backed by evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/468/437" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Walton biblio 27.1</span><span class="citation-popover-snippet">Walton biblio 27.1</span></span></span>
 
@@ -995,231 +995,231 @@ The deeper lesson is humility. Everyday arguments are often incomplete, emotiona
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Formal fallacies are those readily seen to be instances of...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2868/2408](https://informallogic.ca/index.php/informal_logic/article/view/2868/2408)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2868/2408" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2868/2408</a>  
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.06613](https://arxiv.org/abs/1802.06613)  
+   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Argumentation scheme  
-   Link: [https://en.wikipedia.org/wiki/Argumentation_scheme](https://en.wikipedia.org/wiki/Argumentation_scheme)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentation_scheme" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentation_scheme</a>  
 
 6. <a id="endnote-6"></a>
    Source: humanities.mcmaster.ca  
-   Link: [https://www.humanities.mcmaster.ca/~hitchckd/hamblin.htm](https://www.humanities.mcmaster.ca/~hitchckd/hamblin.htm)  
+   Link: <a href="https://www.humanities.mcmaster.ca/~hitchckd/hamblin.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.mcmaster.ca/~hitchckd/hamblin.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 267846350 The Coherence of Hamblin's Fallacies  
-   Link: [https://www.researchgate.net/publication/267846350_The_Coherence_of_Hamblin%27s_Fallacies](https://www.researchgate.net/publication/267846350_The_Coherence_of_Hamblin%27s_Fallacies)  
+   Link: <a href="https://www.researchgate.net/publication/267846350_The_Coherence_of_Hamblin%27s_Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267846350_The_Coherence_of_Hamblin%27s_Fallacies</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2410.03457](https://arxiv.org/abs/2410.03457)  
+   Link: <a href="https://arxiv.org/abs/2410.03457" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.03457</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence  
-   Link: [https://arxiv.org/abs/2408.12812](https://arxiv.org/abs/2408.12812)  
+   Link: <a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2410.03457v1](https://arxiv.org/html/2410.03457v1)  
+   Link: <a href="https://arxiv.org/html/2410.03457v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.03457v1</a>  
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall1997/entries/logic-informal/](https://plato.stanford.edu/archives/fall1997/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2003/entries/logic-informal/](https://plato.stanford.edu/archives/fall2003/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
 
 13. <a id="endnote-13"></a>
    Source: web.stanford.edu  
    Title: Logical Fallacies  
-   Link: [https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm](https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm)  
+   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2025/entries/logic-informal/](https://plato.stanford.edu/archives/fall2025/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/logic-informal/</a>  
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2022/entries/logic-informal/](https://plato.stanford.edu/archives/sum2022/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2022/entries/logic-informal/</a>  
 
 16. <a id="endnote-16"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html](https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2004/entries/logic-informal/](https://plato.stanford.edu/archives/sum2004/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2004/entries/logic-informal/</a>  
 
 18. <a id="endnote-18"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/win2004/entries/logic-informal/](https://plato.stanford.edu/archives/win2004/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 346649970 DIAGRAMMING ARGUMENTATION SCHEMES AND CRITICAL QUESTIONS  
-   Link: [https://www.researchgate.net/publication/346649970_DIAGRAMMING_ARGUMENTATION_SCHEMES_AND_CRITICAL_QUESTIONS](https://www.researchgate.net/publication/346649970_DIAGRAMMING_ARGUMENTATION_SCHEMES_AND_CRITICAL_QUESTIONS)  
+   Link: <a href="https://www.researchgate.net/publication/346649970_DIAGRAMMING_ARGUMENTATION_SCHEMES_AND_CRITICAL_QUESTIONS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346649970_DIAGRAMMING_ARGUMENTATION_SCHEMES_AND_CRITICAL_QUESTIONS</a>  
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394027488_Argumentation_Fallacies_and_Language](https://www.researchgate.net/publication/394027488_Argumentation_Fallacies_and_Language)  
+   Link: <a href="https://www.researchgate.net/publication/394027488_Argumentation_Fallacies_and_Language" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394027488_Argumentation_Fallacies_and_Language</a>  
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/372933530_Logical_Fallacy_Detection](https://www.researchgate.net/publication/372933530_Logical_Fallacy_Detection)  
+   Link: <a href="https://www.researchgate.net/publication/372933530_Logical_Fallacy_Detection" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372933530_Logical_Fallacy_Detection</a>  
 
 22. <a id="endnote-22"></a>
    Source: informallogic.ca  
    Title: Walton biblio 27.1  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/468/437](https://informallogic.ca/index.php/informal_logic/article/view/468/437)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/468/437" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/468/437</a>  
 
 23. <a id="endnote-23"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/download/3035/2419](https://informallogic.ca/index.php/informal_logic/article/download/3035/2419)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/download/3035/2419" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/download/3035/2419</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Informal fallacy  
-   Link: [https://en.wikipedia.org/wiki/Informal_fallacy](https://en.wikipedia.org/wiki/Informal_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
 27. <a id="endnote-27"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies)  
+   Link: <a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies</a>  
 
 28. <a id="endnote-28"></a>
    Source: philosophy.institute  
    Title: navigating informal fallacies logical discourse  
-   Link: [https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/](https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/)  
+   Link: <a href="https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/</a>  
 
 29. <a id="endnote-29"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: [https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/](https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/)  
+   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
 
 30. <a id="endnote-30"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe fallacies of argumentation can be classified as either formal or informal. A formal falla...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
 32. <a id="endnote-32"></a>
    Source: unr.edu  
-   Link: [https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies)  
+   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
 
 33. <a id="endnote-33"></a>
    Source: ndpr.nd.edu  
    Title: Notre Dame Philosophical Reviews Argumentation Schemes  
-   Link: [https://ndpr.nd.edu/reviews/argumentation-schemes/](https://ndpr.nd.edu/reviews/argumentation-schemes/)  
+   Link: <a href="https://ndpr.nd.edu/reviews/argumentation-schemes/" target="_blank" rel="noopener noreferrer nofollow">https://ndpr.nd.edu/reviews/argumentation-schemes/</a>  
 
 34. <a id="endnote-34"></a>
    Source: aclanthology.org  
    Title: 2024.emnlp main.39  
-   Link: [https://aclanthology.org/2024.emnlp-main.39/](https://aclanthology.org/2024.emnlp-main.39/)  
+   Link: <a href="https://aclanthology.org/2024.emnlp-main.39/" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2024.emnlp-main.39/</a>  
 
 35. <a id="endnote-35"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/fallacy](https://www.merriam-webster.com/dictionary/fallacy)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/fallacy</a>  
 
 36. <a id="endnote-36"></a>
    Source: windsor.scholarsportal.info  
-   Link: [https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/book/378](https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/book/378)  
+   Link: <a href="https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/book/378" target="_blank" rel="noopener noreferrer nofollow">https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/book/378</a>  
 
 37. <a id="endnote-37"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 38. <a id="endnote-38"></a>
    Source: libguides.usask.ca  
-   Link: [https://libguides.usask.ca/CriticalThinkingTutorial/HowReasoningFails/Fallacies](https://libguides.usask.ca/CriticalThinkingTutorial/HowReasoningFails/Fallacies)  
+   Link: <a href="https://libguides.usask.ca/CriticalThinkingTutorial/HowReasoningFails/Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://libguides.usask.ca/CriticalThinkingTutorial/HowReasoningFails/Fallacies</a>  
 
 39. <a id="endnote-39"></a>
    Source: owl.excelsior.edu  
    Title: logical fallacies  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/</a>  
 
 40. <a id="endnote-40"></a>
    Source: aclanthology.org  
    Title: 2025.hcinlp 1.16  
-   Link: [https://aclanthology.org/2025.hcinlp-1.16.pdf](https://aclanthology.org/2025.hcinlp-1.16.pdf)  
+   Link: <a href="https://aclanthology.org/2025.hcinlp-1.16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.hcinlp-1.16.pdf</a>  
 
 41. <a id="endnote-41"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
 ### Additional References
 
 42. <a id="endnote-42"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacie...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/82z6b2/cmv_some_logical_fallacies_are_not_always_wrong/](https://www.reddit.com/r/changemyview/comments/82z6b2/cmv_some_logical_fallacies_are_not_always_wrong/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/82z6b2/cmv_some_logical_fallacies_are_not_always_wrong/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/82z6b2/cmv_some_logical_fallacies_are_not_always_wrong/</a>  
 
 44. <a id="endnote-44"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/](https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wirelessphilosophy/videos/fallacies-formal-and-informal-fallacies/1479679832073484/](https://www.facebook.com/wirelessphilosophy/videos/fallacies-formal-and-informal-fallacies/1479679832073484/)  
+   Link: <a href="https://www.facebook.com/wirelessphilosophy/videos/fallacies-formal-and-informal-fallacies/1479679832073484/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wirelessphilosophy/videos/fallacies-formal-and-informal-fallacies/1479679832073484/</a>  
 
 46. <a id="endnote-46"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/](https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/)  
+   Link: <a href="https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/</a>  
 
 47. <a id="endnote-47"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
 
 48. <a id="endnote-48"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40chriskwok2407/logical-fallacies-part-1-50903537f9c6](https://medium.com/%40chriskwok2407/logical-fallacies-part-1-50903537f9c6)  
+   Link: <a href="https://medium.com/%40chriskwok2407/logical-fallacies-part-1-50903537f9c6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40chriskwok2407/logical-fallacies-part-1-50903537f9c6</a>  
 
 49. <a id="endnote-49"></a>
    Source: scilit.com  
-   Link: [https://www.scilit.com/publications/a302dfdbf87d04f6e9e39e929d2586f6](https://www.scilit.com/publications/a302dfdbf87d04f6e9e39e929d2586f6)  
+   Link: <a href="https://www.scilit.com/publications/a302dfdbf87d04f6e9e39e929d2586f6" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/a302dfdbf87d04f6e9e39e929d2586f6</a>  
 
 50. <a id="endnote-50"></a>
    Source: weteachnyc.org  
-   Link: [https://www.weteachnyc.org/resources/resource/logical-fallacies/](https://www.weteachnyc.org/resources/resource/logical-fallacies/)  
+   Link: <a href="https://www.weteachnyc.org/resources/resource/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://www.weteachnyc.org/resources/resource/logical-fallacies/</a>  
 
 51. <a id="endnote-51"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/](https://yourlogicalfallacyis.com/)  
+   Link: <a href="https://yourlogicalfallacyis.com/" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/</a>  

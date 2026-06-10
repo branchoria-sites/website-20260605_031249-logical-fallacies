@@ -505,7 +505,7 @@ Rumours can feel like evidence because they arrive already wrapped in social con
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-overview.webp" | relative_url }}" alt="Overview image for Rumours" loading="eager" decoding="sync" fetchpriority="high">
-This makes rumours a useful case study in [logical fallacies]({{ 'logical-fallacies/' | relative_url }}). They often rely on shortcuts that feel sensible in the moment: an [appeal to ignorance]({{ 'ignorance/' | relative_url }}), a bandwagon appeal, a hasty generalisation, a false cause, or an appeal to anonymous authority. Those shortcuts become especially persuasive during crises, breaking news, health scares and community conflict, when people want quick explanations before reliable evidence has caught up. Research on social media rumours describes them as claims whose truth is unverified at the time of posting, and distinguishes long-running rumours from fast-moving rumours that emerge during breaking events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detection and Resolution of Rumours in Social Media: A Survey</span><span class="citation-popover-snippet">arXivDetection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</span><span class="citation-popover-meta">Published: April 3, 2017</span></span></span>
+This makes rumours a useful case study in [logical fallacies]({{ 'logical-fallacies/' | relative_url }}). They often rely on shortcuts that feel sensible in the moment: an appeal to ignorance, a bandwagon appeal, a hasty generalisation, a false cause, or an appeal to anonymous authority. Those shortcuts become especially persuasive during crises, breaking news, health scares and community conflict, when people want quick explanations before reliable evidence has caught up. Research on [social media]({{ 'social-media/' | relative_url }}) rumours describes them as claims whose truth is unverified at the time of posting, and distinguishes long-running rumours from fast-moving rumours that emerge during breaking events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detection and Resolution of Rumours in Social Media: A Survey</span><span class="citation-popover-snippet">Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</span><span class="citation-popover-meta">Published: April 3, 2017</span></span></span>
 
 ## Why “No One Has Disproved It” Is Not Evidence
 
@@ -524,7 +524,7 @@ The careful alternative is to separate three states that rumours often blur toge
 
 </div>
 
-The third category is not a compromise verdict of “probably true”. It is a warning label. UNHCR’s information-integrity glossary defines a rumour as unverified information passed from person to person and notes that rumours can be true, partly true or false. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary additional terminology</span><span class="citation-popover-snippet">UNHCRGlossary of additional terminology23 Dec 2024 — Rumour is a piece unverified information that is transmitted from person to person...</span></span></span> That definition matters because it prevents the two opposite errors: dismissing every rumour automatically, or accepting every rumour because it has not been disproved.
+The third category is not a compromise verdict of “probably true”. It is a warning label. UNHCR’s information-integrity glossary defines a rumour as unverified information passed from person to person and notes that rumours can be true, partly true or false. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary additional terminology</span><span class="citation-popover-snippet">Glossary of additional terminology23 Dec 2024 — Rumour is a piece unverified information that is transmitted from person to person...</span></span></span> That definition matters because it prevents the two opposite errors: dismissing every rumour automatically, or accepting every rumour because it has not been disproved.
 
 A rumour may reasonably justify caution while evidence is pending. For example, if several residents report a possible local hazard, it may be sensible to check official updates or avoid the area briefly. The fallacy begins when caution hardens into certainty without evidence: “We do not know this is false” becomes “this is what really happened”.
 
@@ -1056,193 +1056,193 @@ That distinction matters because rumours often appear during exactly the moments
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Detection and Resolution of Rumours in Social Media: A Survey  
-   Link: [https://arxiv.org/abs/1704.00656](https://arxiv.org/abs/1704.00656)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDetection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</p></details>
+   Link: <a href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1704.00656</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</p></details>
    Published: April 3, 2017  
 
 2. <a id="endnote-2"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/ignorant.html](https://www.fallacyfiles.org/ignorant.html)  
+   Link: <a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: unhcr.org  
    Title: glossary additional terminology  
-   Link: [https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology](https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNHCRGlossary of additional terminology23 Dec 2024 — Rumour is a piece unverified information that is transmitted from person to person...</p></details>
+   Link: <a href="https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary of additional terminology23 Dec 2024 — Rumour is a piece unverified information that is transmitted from person to person...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: [politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). media.mit.edu  
    Title: Scalable Civic Action The spread of true and false news online  
-   Link: [https://politics.media.mit.edu/papers/Vosoughi_Science.pdf](https://politics.media.mit.edu/papers/Vosoughi_Science.pdf)  
+   Link: <a href="https://politics.media.mit.edu/papers/Vosoughi_Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://politics.media.mit.edu/papers/Vosoughi_Science.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scalable Civic ActionThe spread of true and false news onlineAugust 30, 2020 — by S Vosoughi · Cited by 14070 — We investigated the diffe...</p></details>
    Published: August 30, 2020  
 
 5. <a id="endnote-5"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe persuasive effects of social cues and source  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2207.07562](https://arxiv.org/abs/2207.07562)  
+   Link: <a href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.07562</a>  
 
 8. <a id="endnote-8"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: [https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/](https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social media, local media, and religious leaders, including megachurch pastor Jules Mulindwa and other pastors, played a key role in ampl...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: unhcr.org  
    Title: glossary terms  
-   Link: [https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms](https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms)  
+   Link: <a href="https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms</a>  
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReliance on emotion promotes belief in fake news  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
 13. <a id="endnote-13"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810](https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810)  
+   Link: <a href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810</a>  
 
 14. <a id="endnote-14"></a>
    Source: verificationhandbook.com  
-   Link: [https://verificationhandbook.com/](https://verificationhandbook.com/)  
+   Link: <a href="https://verificationhandbook.com/" target="_blank" rel="noopener noreferrer nofollow">https://verificationhandbook.com/</a>  
 
 15. <a id="endnote-15"></a>
    Source: unicef.org  
    Title: quick guide spotting misinformation  
-   Link: [https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation](https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation)  
+   Link: <a href="https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/eca/stories/quick-guide-spotting-misinformation</a>  
 
 16. <a id="endnote-16"></a>
    Source: bellingcat.com  
    Title: A Beginner's Guide to Social Media Verification  
-   Link: [https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)  
+   Link: <a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/</a>  
 
 17. <a id="endnote-17"></a>
    Source: bellingcat.com  
    Title: shadow geolocate geolocation locate image tool open source bellingcat measure  
-   Link: [https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/](https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/)  
+   Link: <a href="https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/</a>  
 
 18. <a id="endnote-18"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/tag/verification/](https://www.bellingcat.com/tag/verification/)  
+   Link: <a href="https://www.bellingcat.com/tag/verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/verification/</a>  
 
 19. <a id="endnote-19"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/tag/chronolocation/](https://www.bellingcat.com/tag/chronolocation/)  
+   Link: <a href="https://www.bellingcat.com/tag/chronolocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/chronolocation/</a>  
 
 20. <a id="endnote-20"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/](https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/)  
+   Link: <a href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/</a>  
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691824002221](https://www.sciencedirect.com/science/article/pii/S0001691824002221)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691824002221" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691824002221</a>  
 
 22. <a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844024104999](https://www.sciencedirect.com/science/article/pii/S2405844024104999)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024104999" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024104999</a>  
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211883724000091](https://www.sciencedirect.com/science/article/pii/S2211883724000091)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211883724000091" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211883724000091</a>  
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691824000921](https://www.sciencedirect.com/science/article/pii/S0001691824000921)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691824000921" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691824000921</a>  
 
 25. <a id="endnote-25"></a>
    Source: unhcr.org  
-   Link: [https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf](https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf)  
+   Link: <a href="https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/innovation/wp-content/uploads/2022/02/Using-Social-Media-in-CBP-Chapter-6-Rumours-and-Misinformation.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: help.unhcr.org  
-   Link: [https://help.unhcr.org/czech/safe-online/information/](https://help.unhcr.org/czech/safe-online/information/)  
+   Link: <a href="https://help.unhcr.org/czech/safe-online/information/" target="_blank" rel="noopener noreferrer nofollow">https://help.unhcr.org/czech/safe-online/information/</a>  
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters](https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters)  
+   Link: <a href="https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2024/sep/20/trump-tweets-false-label-credibility-supporters</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Misinformation](https://en.wikipedia.org/wiki/Misinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation</a>  
 
 29. <a id="endnote-29"></a>
    Source: science.org  
    Title: fake news spreads faster true news twitter thanks people not bots  
-   Link: [https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots](https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots)  
+   Link: <a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
 
 30. <a id="endnote-30"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
 
 31. <a id="endnote-31"></a>
    Source: scribd.com  
    Title: Bellingcat s Online Investigation Toolkit  
-   Link: [https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit](https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit)  
+   Link: <a href="https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit</a>  
 
 32. <a id="endnote-32"></a>
    Source: imedd.org  
-   Link: [https://www.imedd.org/events/bellingcat/](https://www.imedd.org/events/bellingcat/)  
+   Link: <a href="https://www.imedd.org/events/bellingcat/" target="_blank" rel="noopener noreferrer nofollow">https://www.imedd.org/events/bellingcat/</a>  
 
 33. <a id="endnote-33"></a>
    Source: bellingcat.gitbook.io  
    Title: io Geolocation  
-   Link: [https://bellingcat.gitbook.io/toolkit/categories/geolocation](https://bellingcat.gitbook.io/toolkit/categories/geolocation)  
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/categories/geolocation" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/categories/geolocation</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational](https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational)  
+   Link: <a href="https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational</a>  
 
 35. <a id="endnote-35"></a>
    Source: labxchange.org  
-   Link: [https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803](https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803)  
+   Link: <a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803</a>  
 
 36. <a id="endnote-36"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/377300923_Logical_Fallacies_How_They_Undermine_Critical_Thinking_and_How_to_Avoid_Them](https://www.researchgate.net/publication/377300923_Logical_Fallacies_How_They_Undermine_Critical_Thinking_and_How_to_Avoid_Them)  
+   Link: <a href="https://www.researchgate.net/publication/377300923_Logical_Fallacies_How_They_Undermine_Critical_Thinking_and_How_to_Avoid_Them" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377300923_Logical_Fallacies_How_They_Undermine_Critical_Thinking_and_How_to_Avoid_Them</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/](https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/)  
+   Link: <a href="https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/posts/not-all-information-you-find-on-social-media-is-true-some-use-it-to-spread-misle/1082224637270259/</a>  
 
 39. <a id="endnote-39"></a>
    Source: rtdna.org  
-   Link: [https://www.rtdna.org/preventing-the-spread-of-misinformation-and-disinformation](https://www.rtdna.org/preventing-the-spread-of-misinformation-and-disinformation)  
+   Link: <a href="https://www.rtdna.org/preventing-the-spread-of-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.rtdna.org/preventing-the-spread-of-misinformation-and-disinformation</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WHO/posts/sharing-unverified-health-information-during-the-covid-19-pandemic-can-be-confus/3286468124731881/](https://www.facebook.com/WHO/posts/sharing-unverified-health-information-during-the-covid-19-pandemic-can-be-confus/3286468124731881/)  
+   Link: <a href="https://www.facebook.com/WHO/posts/sharing-unverified-health-information-during-the-covid-19-pandemic-can-be-confus/3286468124731881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/posts/sharing-unverified-health-information-during-the-covid-19-pandemic-can-be-confus/3286468124731881/</a>  
 
 41. <a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Norbert-Schwarz-3/publication/347798577_When_Fake_News_Feels_True/links/5fe97fc4a6fdccdcb80cc213/When-Fake-News-Feels-True.pdf](https://www.researchgate.net/profile/Norbert-Schwarz-3/publication/347798577_When_Fake_News_Feels_True/links/5fe97fc4a6fdccdcb80cc213/When-Fake-News-Feels-True.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Norbert-Schwarz-3/publication/347798577_When_Fake_News_Feels_True/links/5fe97fc4a6fdccdcb80cc213/When-Fake-News-Feels-True.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Norbert-Schwarz-3/publication/347798577_When_Fake_News_Feels_True/links/5fe97fc4a6fdccdcb80cc213/When-Fake-News-Feels-True.pdf</a>  
 
 42. <a id="endnote-42"></a>
    Source: advances.in  
-   Link: [https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/](https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/)  
+   Link: <a href="https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://advances.in/psychology/10.56296/knowledge-hub/psychology-of-misinformation/</a>  
 
 43. <a id="endnote-43"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/scientific-social-[mechanisms](https://www.linkedin.com/pulse/scientific-social-[mechanisms)  
+   Link: <a href="https://www.linkedin.com/pulse/scientific-social-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/scientific-social-[mechanisms</a>  

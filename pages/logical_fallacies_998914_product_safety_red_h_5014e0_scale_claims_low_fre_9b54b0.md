@@ -339,7 +339,7 @@ A key weakness in scale-based arguments is that they often treat all users as eq
 
 Suppose ten million people use a product. If a hazard affects only infants, children, or a particular usage scenario, the true population at risk may be far smaller than ten million. Looking only at total sales can dilute attention away from the group that actually faces the danger.
 
-A more informative analysis asks: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1229473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">JSTORCorporate Risk Analysis: A Reckless Act?by WK Viscusi · 2000 · Cited by 286 — the internal Ford Pinto safety documents has been foll...</span></span></span>
+A more informative analysis asks: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/1229473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[jstor.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Corporate Risk Analysis: A Reckless Act?by WK Viscusi · 2000 · Cited by 286 — the internal Ford Pinto safety documents has been foll...</span></span></span>
 
 **Who experiences the incidents?**
 
@@ -821,126 +821,126 @@ In product safety debates, the decisive evidence usually concerns the exposed gr
 1. <a id="endnote-1"></a>
    Source: cedengineering.com  
    Title: www.cedengineering.com Ethics: An Alternative Account of the Ford Pinto Case  
-   Link: [https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf](https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf)  
+   Link: <a href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</p></details>
    Published: September 22, 2020  
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/](https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookStop Using the Peloton Tread+ Urgent Warning Comes...CPSC staff believes the Peloton Tread+ poses serious risks to children for...</p></details>
+   Link: <a href="https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Using the Peloton Tread+ Urgent Warning Comes...CPSC staff believes the Peloton Tread+ poses serious risks to children for...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills](https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionPeloton Agrees to Pay $19 Million Civil Penalty for Failure...5 Jan 2023 — The civil penalty also sett...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Recalls/2023/Fisher-Price-Reannounces-Recall-of-4-7-Million-Rock-n-Play-Sleepers-At-Least-Eight-Deaths-Occurred-After-Recall](https://www.cpsc.gov/Recalls/2023/Fisher-Price-Reannounces-Recall-of-4-7-Million-Rock-n-Play-Sleepers-At-Least-Eight-Deaths-Occurred-After-Recall)  
+   Link: <a href="https://www.cpsc.gov/Recalls/2023/Fisher-Price-Reannounces-Recall-of-4-7-Million-Rock-n-Play-Sleepers-At-Least-Eight-Deaths-Occurred-After-Recall" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Recalls/2023/Fisher-Price-Reannounces-Recall-of-4-7-Million-Rock-n-Play-Sleepers-At-Least-Eight-Deaths-Occurred-After-Recall</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionFisher-Price Reannounces Recall of 4.7 Million Rock &#x27;n...9 Jan 2023 — Hazard: Infant fatalities have o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: parents.com  
-   Link: [https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/](https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/)  
+   Link: <a href="https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/" target="_blank" rel="noopener noreferrer nofollow">https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These sleepers, initially popular for their ability to soothe babies to sleep, were found to pose significant risks, leading to suffocati...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thebhc.org  
-   Link: [https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf](https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf)  
+   Link: <a href="https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thebhc.org/sites/default/files/beh/BEHprint/v027n2/p0390-p0401.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ford Pinto Case and the Development of Auto Safety...by MT Lee · 1998 · Cited by 56 — The first cars were quite slow, so serious acc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: icymi fisher price is re announcing its recall of rock n play sleepers after 8 m  
-   Link: [https://www.facebook.com/WFSB3/posts/icymi-fisher-price-is-re-announcing-its-recall-of-rock-n-play-sleepers-after-8-m/554300060058694/](https://www.facebook.com/WFSB3/posts/icymi-fisher-price-is-re-announcing-its-recall-of-rock-n-play-sleepers-after-8-m/554300060058694/)  
+   Link: <a href="https://www.facebook.com/WFSB3/posts/icymi-fisher-price-is-re-announcing-its-recall-of-rock-n-play-sleepers-after-8-m/554300060058694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WFSB3/posts/icymi-fisher-price-is-re-announcing-its-recall-of-rock-n-play-sleepers-after-8-m/554300060058694/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>#ICYMI: Fisher Price is re-announcing its recall of Rock &#x27;n...[https://www.cpsc](https://www.cpsc). gov/Recalls/2013/fisher-price-recalls-to- inspect-rock-n...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/foxwesttexas/posts/the-cpsc-urged-consumers-to-stop-using-recalled-sperax-walking-pads-and-treadmil/1533001888825505/](https://www.facebook.com/foxwesttexas/posts/the-cpsc-urged-consumers-to-stop-using-recalled-sperax-walking-pads-and-treadmil/1533001888825505/)  
+   Link: <a href="https://www.facebook.com/foxwesttexas/posts/the-cpsc-urged-consumers-to-stop-using-recalled-sperax-walking-pads-and-treadmil/1533001888825505/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/foxwesttexas/posts/the-cpsc-urged-consumers-to-stop-using-recalled-sperax-walking-pads-and-treadmil/1533001888825505/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>lls as they pose fall, burn and fire hazards...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: consumerreports.org  
-   Link: [https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/](https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/)  
+   Link: <a href="https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fisher-Price Ignored Rock &#x27;n Play Risks While Babies Died7 Jun 2021 — Fisher-Price ignored warnings about its Rock &#x27;n Play Sleeper for ov...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Rock 'n Play  
-   Link: [https://en.wikipedia.org/wiki/Rock_%27n_Play](https://en.wikipedia.org/wiki/Rock_%27n_Play)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rock_%27n_Play" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rock_%27n_Play</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rock &#x27;n PlayThe Rock &#x27;n Play was a baby sleeper produced by Fisher-Price. The product launched in 2009 and sold 4.7 million units befo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: harrisbeachmurtha.com  
-   Link: [https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/](https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/)  
+   Link: <a href="https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/" target="_blank" rel="noopener noreferrer nofollow">https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2023, Peloton agreed to pay a $19065000 civil penalty, after recalling the Tread+ treadmill in May 2021...</p></details>
    Published: January 5, 2023  
 
 12. <a id="endnote-12"></a>
    Source: consumerreports.org  
-   Link: [https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/](https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/)  
+   Link: <a href="https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Urgent Safety Warning Issued for Peloton Tread+ Treadmill5 May 2021 — A CPSC spokesperson told CR that the Peloton Tread+ poses unique da...</p></details>
    Published: May 2021  
 
 13. <a id="endnote-13"></a>
    Source: consumernotice.org  
-   Link: [https://www.consumernotice.org/products/child-safety/fisher-price-rock-n-play/](https://www.consumernotice.org/products/child-safety/fisher-price-rock-n-play/)  
+   Link: <a href="https://www.consumernotice.org/products/child-safety/fisher-price-rock-n-play/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumernotice.org/products/child-safety/fisher-price-rock-n-play/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to sleep on their backs at roughly a 30-degree angle.Read more...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/law/court-finds-ford-ignored-pintos-safety-problems](https://www.ebsco.com/research-starters/law/court-finds-ford-ignored-pintos-safety-problems)  
+   Link: <a href="https://www.ebsco.com/research-starters/law/court-finds-ford-ignored-pintos-safety-problems" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/law/court-finds-ford-ignored-pintos-safety-problems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Court Finds That Ford Ignored Pinto&#x27;s Safety Problems | LawLegal proceedings revealed that Ford was aware of the Pinto&#x27;s unsafe crash-tes...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: autosafety.org  
-   Link: [https://www.autosafety.org/pinto-madness/](https://www.autosafety.org/pinto-madness/)  
+   Link: <a href="https://www.autosafety.org/pinto-madness/" target="_blank" rel="noopener noreferrer nofollow">https://www.autosafety.org/pinto-madness/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pinto MadnessFord engineers discovered in pre-production crash tests that rear-end collisions would rupture the Pinto&#x27;s fuel system extre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: onderlaw.com  
    Title: then vs now how the ford pinto case changed the legal landscape  
-   Link: [https://onderlaw.com/blog/then-vs-now-how-the-ford-pinto-case-changed-the-legal-landscape/](https://onderlaw.com/blog/then-vs-now-how-the-ford-pinto-case-changed-the-legal-landscape/)  
+   Link: <a href="https://onderlaw.com/blog/then-vs-now-how-the-ford-pinto-case-changed-the-legal-landscape/" target="_blank" rel="noopener noreferrer nofollow">https://onderlaw.com/blog/then-vs-now-how-the-ford-pinto-case-changed-the-legal-landscape/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ford Pinto Case: Legal Changes29 Jun 2023 — The Ford Pinto case raised public awareness about product safety and the importance of holdin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/1229473](https://www.jstor.org/stable/1229473)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORCorporate Risk Analysis: A Reckless Act?by WK Viscusi · 2000 · Cited by 286 — the internal Ford Pinto safety documents has been foll...</p></details>
+   Link: <a href="https://www.jstor.org/stable/1229473" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1229473</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Corporate Risk Analysis: A Reckless Act?by WK Viscusi · 2000 · Cited by 286 — the internal Ford Pinto safety documents has been foll...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: partnersforfamilyhealth.org  
    Title: aap urges recall of the fisher price rock n play sleeper  
-   Link: [https://partnersforfamilyhealth.org/aap-urges-recall-of-the-fisher-price-rock-n-play-sleeper/](https://partnersforfamilyhealth.org/aap-urges-recall-of-the-fisher-price-rock-n-play-sleeper/)  
+   Link: <a href="https://partnersforfamilyhealth.org/aap-urges-recall-of-the-fisher-price-rock-n-play-sleeper/" target="_blank" rel="noopener noreferrer nofollow">https://partnersforfamilyhealth.org/aap-urges-recall-of-the-fisher-price-rock-n-play-sleeper/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AAP Urges Recall of the Fisher-Price Rock &#x27;n Play Sleeper10 Apr 2019 — The American Academy of Pediatrics (AAP) calls on the US Consumer...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-leadership-nexus/business-law-the-ford-pinto-case-a-landmark-in-product-liability-and-corporate-ethics-1bcaeae7ab3c](https://medium.com/the-leadership-nexus/business-law-the-ford-pinto-case-a-landmark-in-product-liability-and-corporate-ethics-1bcaeae7ab3c)  
+   Link: <a href="https://medium.com/the-leadership-nexus/business-law-the-ford-pinto-case-a-landmark-in-product-liability-and-corporate-ethics-1bcaeae7ab3c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-leadership-nexus/business-law-the-ford-pinto-case-a-landmark-in-product-liability-and-corporate-ethics-1bcaeae7ab3c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orate ethics, revolving around Ford Motor Company&#x27;s decision...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/339823452/Cost-Benefit-Analysis-Case-Examples](https://www.scribd.com/document/339823452/Cost-Benefit-Analysis-Case-Examples)  
+   Link: <a href="https://www.scribd.com/document/339823452/Cost-Benefit-Analysis-Case-Examples" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/339823452/Cost-Benefit-Analysis-Case-Examples</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>el system design, which was prone to exploding in rear-end...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: wieandlaw.com  
    Title: peloton recalls tread and tread treadmills  
-   Link: [https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/](https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/)  
+   Link: <a href="https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/" target="_blank" rel="noopener noreferrer nofollow">https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Peloton Recalls Tread+ and Tread Treadmills22 Apr 2021 — In the warning, the CPSC stated that it believed that the treadmill posed a seri...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/study-notes/33157398](https://www.cliffsnotes.com/study-notes/33157398)  
+   Link: <a href="https://www.cliffsnotes.com/study-notes/33157398" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33157398</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ford Pinto Case Study: Lessons on Business EthicsPinto drivers in rear-end incidents now face an increased risk of harm or death because...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: law.harvard.edu  
    Title: Corporate Risk Analysis: A Reckless Act?  
-   Link: [https://www.law.harvard.edu/programs/olin_center/papers/pdf/304.pdf](https://www.law.harvard.edu/programs/olin_center/papers/pdf/304.pdf)  
+   Link: <a href="https://www.law.harvard.edu/programs/olin_center/papers/pdf/304.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.harvard.edu/programs/olin_center/papers/pdf/304.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>W. Kip Viscusiby WK Viscusi · Cited by 284 — The degree of concern for safety in turn sends signals to corporations in terms of the kinds...</p></details>

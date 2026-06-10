@@ -272,7 +272,7 @@ A common warning in discussions of [logical fallacies]({{ 'logical-fallacies/' |
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_silence_as_evidence_68ffe5-Illustration-1-dark.svg" | relative_url }}" alt="Silence Test illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_silence_as_evidence_68ffe5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_silence_as_evidence_68ffe5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because [appeal to ignorance]({{ 'ignorance/' | relative_url }}) becomes persuasive precisely when people fail to separate weak silence from meaningful silence.
+This distinction matters because appeal to [ignorance]({{ 'ignorance/' | relative_url }}) becomes persuasive precisely when people fail to separate weak silence from meaningful silence.
 
 ## Expected Traces and Fair Searches
 
@@ -287,11 +287,11 @@ The reasoning depends on two conditions:
 
 Only when both conditions are met does silence become informative.
 
-Philosophical analyses of arguments from [ignorance]({{ 'ignorance/' | relative_url }}) often describe this in terms of the completeness of the relevant evidence base. A conclusion drawn from missing evidence becomes stronger when investigators have good reason to believe that the available records, observations, or detection methods would have revealed the evidence if it existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic On Arguments from Ignorance</span><span class="citation-popover-snippet">Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span> PhilPapers This is why the same absence can mean very different things in different situations. No fossils from a particular period might be weak eviden <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/HINOAF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">PhilPapersMartin David Hinton, On Arguments from Ignoranceby MD Hinton · 2018 · Cited by 15 — The purpose of this paper is twofold: to gi...</span></span></span> ce if preservation conditions were poor, but much stronger evidence if the geological record is unusually complete and heavily studied. Research in philosophy of science has examined exactly this issue, asking when a missing trace should genuinely count against a hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/philosophy-of-science/article/when-should-absence-of-evidence-be-evidence-of-absence-a-case-study-from-paleogeology/D6C43B5292B649163DE577B634CCB1AE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen Should Absence of Evidence Be...by M Brewer — A common aphorism says that “absence of eviden...</span></span></span> University Press & Assessment
+Philosophical analyses of arguments from ignorance often describe this in terms of the completeness of the relevant evidence base. A conclusion drawn from missing evidence becomes stronger when investigators have good reason to believe that the available records, observations, or detection methods would have revealed the evidence if it existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic On Arguments from Ignorance</span><span class="citation-popover-snippet">Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span> PhilPapers This is why the same absence can mean very different things in different situations. No fossils from a particular period might be weak eviden <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/HINOAF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Martin David Hinton, On Arguments from Ignoranceby MD Hinton · 2018 · Cited by 15 — The purpose of this paper is twofold: to gi...</span></span></span> ce if preservation conditions were poor, but much stronger evidence if the geological record is unusually complete and heavily studied. Research in philosophy of science has examined exactly this issue, asking when a missing trace should genuinely count against a hypothesis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/philosophy-of-science/article/when-should-absence-of-evidence-be-evidence-of-absence-a-case-study-from-paleogeology/D6C43B5292B649163DE577B634CCB1AE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen Should Absence of Evidence Be...by M Brewer — A common aphorism says that “absence of eviden...</span></span></span> University Press & Assessment
 
 ## Why Some Silence Matters More Than Others
 
-Many discussions stop at the slogan that absence of evidence is not evidence of absence. Yet even advocates of that warning acknowledge an important qualification: failure to find evidence becomes significant when the evidence should have been detectable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10065758/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAbsence of evidence is not evidence of absence</span><span class="citation-popover-snippet">PMC - NIHby M FERES · 2023 · Cited by 35 — “Absence of Evidence is not Evidence of Absence” is a quote by Carl Sagan, an American astrono...</span></span></span>
+Many discussions stop at the slogan that absence of evidence is not evidence of absence. Yet even advocates of that warning acknowledge an important qualification: failure to find evidence becomes significant when the evidence should have been detectable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10065758/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAbsence of evidence is not evidence of absence</span><span class="citation-popover-snippet">NIHby M FERES · 2023 · Cited by 35 — “Absence of Evidence is not Evidence of Absence” is a quote by Carl Sagan, an American astrono...</span></span></span>
 
 Consider the difference between these situations:
 
@@ -302,7 +302,7 @@ Failure to find the animal in the first case tells us little. Failure to find it
 
 The difference is not the claim itself. The difference is the expected visibility of the evidence.
 
-This idea appears in scientific reasoning, legal reasoning, historical research, and everyday decision-making. The strength of the inference comes from the gap between what should be observable and what is actually observed. When that gap becomes large, silence gains evidential force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores On the Absence of Evidence</span><span class="citation-popover-snippet">Law ExploresOn the Absence of Evidence | - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</span></span></span>
+This idea appears in scientific reasoning, legal reasoning, historical research, and everyday decision-making. The strength of the inference comes from the gap between what should be observable and what is actually observed. When that gap becomes large, silence gains evidential force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores On the Absence of Evidence</span><span class="citation-popover-snippet">Law ExploresOn the Absence of Evidence &#124; - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/65e7ZVPlsPU" title="What is the Fallacy of Absence? (Logical Fallacies)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=65e7ZVPlsPU" target="_blank" rel="noopener noreferrer">What is the Fallacy of Absence? (Logical Fallacies)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 4.7K &middot; Uploaded: July 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=65e7ZVPlsPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=65e7ZVPlsPU">Open on YouTube</a></p></div></div></div>
@@ -328,7 +328,7 @@ Silence is weak evidence when:
 
 In these circumstances, the correct conclusion is often uncertainty rather than rejection.
 
-This is one reason scientists are cautious about interpreting [null results]({{ 'null-results/' | relative_url }}). A study that fails to detect an effect may simply lack the power or sensitivity required to find it. Researchers have repeatedly warned that non-significant findings do not automatically demonstrate the absence of an effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivReplication of &quot;null results&quot; -- Absence of evidence or evidence of absence?May 8, 2023...</span><span class="citation-popover-meta">Published: May 8, 2023</span></span></span>
+This is one reason scientists are cautious about interpreting [null results]({{ 'null-results/' | relative_url }}). A study that fails to detect an effect may simply lack the power or sensitivity required to find it. Researchers have repeatedly warned that non-significant findings do not automatically demonstrate the absence of an effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Replication of &quot;null results&quot; -- Absence of evidence or evidence of absence?May 8, 2023...</span><span class="citation-popover-meta">Published: May 8, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_silence_as_evidence_68ffe5-Illustration-2-dark.svg" | relative_url }}" alt="Silence Test illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_silence_as_evidence_68ffe5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_silence_as_evidence_68ffe5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -816,7 +816,7 @@ A useful way to evaluate claims is to ask four questions:
 
 The more confidently these questions can be answered, the more informative silence becomes.
 
-This approach avoids both extremes. It avoids the appeal to ignorance, which treats every lack of evidence as decisive. But it also avoids the opposite mistake of treating all missing evidence as irrelevant. Sometimes the world should leave footprints. When careful searching reveals none, that silence is not merely a gap in knowledge—it is part of the evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic On Arguments from Ignorance</span><span class="citation-popover-snippet">Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores On the Absence of Evidence</span><span class="citation-popover-snippet">Law ExploresOn the Absence of Evidence | - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</span></span></span>
+This approach avoids both extremes. It avoids the appeal to ignorance, which treats every lack of evidence as decisive. But it also avoids the opposite mistake of treating all missing evidence as irrelevant. Sometimes the world should leave footprints. When careful searching reveals none, that silence is not merely a gap in knowledge—it is part of the evidence itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Informal Logic On Arguments from Ignorance</span><span class="citation-popover-snippet">Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</span><span class="citation-popover-meta">Published: May 30, 2018</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores On the Absence of Evidence</span><span class="citation-popover-snippet">Law ExploresOn the Absence of Evidence &#124; - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MFBjCM0mZHg" title="Sagan Defended: Absence of Evidence is Not Evidence of Absence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MFBjCM0mZHg" target="_blank" rel="noopener noreferrer">Sagan Defended: Absence of Evidence is Not Evidence of Absence</a></p><p class="youtube-embed-meta">Channel: GoddardsJournal &middot; Views: 11.3K &middot; Uploaded: June 2014 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MFBjCM0mZHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MFBjCM0mZHg">Open on YouTube</a></p></div></div></div>
@@ -825,146 +825,146 @@ This approach avoids both extremes. It avoids the appeal to ignorance, which tre
 
 1. <a id="endnote-1"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/HINOAF](https://philpapers.org/rec/HINOAF)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersMartin David Hinton, On Arguments from Ignoranceby MD Hinton · 2018 · Cited by 15 — The purpose of this paper is twofold: to gi...</p></details>
+   Link: <a href="https://philpapers.org/rec/HINOAF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/HINOAF</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Martin David Hinton, On Arguments from Ignoranceby MD Hinton · 2018 · Cited by 15 — The purpose of this paper is twofold: to gi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/philosophy-of-science/article/when-should-absence-of-evidence-be-evidence-of-absence-a-case-study-from-paleogeology/D6C43B5292B649163DE577B634CCB1AE](https://www.cambridge.org/core/journals/philosophy-of-science/article/when-should-absence-of-evidence-be-evidence-of-absence-a-case-study-from-paleogeology/D6C43B5292B649163DE577B634CCB1AE)  
+   Link: <a href="https://www.cambridge.org/core/journals/philosophy-of-science/article/when-should-absence-of-evidence-be-evidence-of-absence-a-case-study-from-paleogeology/D6C43B5292B649163DE577B634CCB1AE" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/philosophy-of-science/article/when-should-absence-of-evidence-be-evidence-of-absence-a-case-study-from-paleogeology/D6C43B5292B649163DE577B634CCB1AE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentWhen Should Absence of Evidence Be...by M Brewer — A common aphorism says that “absence of eviden...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAbsence of evidence is not evidence of absence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10065758/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10065758/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby M FERES · 2023 · Cited by 35 — “Absence of Evidence is not Evidence of Absence” is a quote by Carl Sagan, an American astrono...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10065758/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10065758/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M FERES · 2023 · Cited by 35 — “Absence of Evidence is not Evidence of Absence” is a quote by Carl Sagan, an American astrono...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.04587](https://arxiv.org/abs/2305.04587)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivReplication of &quot;null results&quot; -- Absence of evidence or evidence of absence?May 8, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.04587</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Replication of &quot;null results&quot; -- Absence of evidence or evidence of absence?May 8, 2023...</p></details>
    Published: May 8, 2023  
 
 5. <a id="endnote-5"></a>
    Source: informallogic.ca  
    Title: [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) On Arguments from Ignorance  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/4697/4356](https://informallogic.ca/index.php/informal_logic/article/view/4697/4356)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4697/4356</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</p></details>
    Published: May 30, 2018  
 
 6. <a id="endnote-6"></a>
    Source: lawexplores.com  
    Title: Law Explores On the Absence of Evidence  
-   Link: [https://lawexplores.com/on-the-absence-of-evidence/](https://lawexplores.com/on-the-absence-of-evidence/)  
+   Link: <a href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://lawexplores.com/on-the-absence-of-evidence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law ExploresOn the Absence of Evidence | - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — Two competing conceptions of fallacies are that they are false but...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: knowledge how  
-   Link: [https://plato.stanford.edu/entries/knowledge-how/](https://plato.stanford.edu/entries/knowledge-how/)  
+   Link: <a href="https://plato.stanford.edu/entries/knowledge-how/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/knowledge-how/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How - Stanford Encyclopedia of Philosophyby C Pavese · 2021 · Cited by 144 — One possesses this knowledge when one can be truly described...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Evidence of absence  
-   Link: [https://en.wikipedia.org/wiki/Evidence_of_absence](https://en.wikipedia.org/wiki/Evidence_of_absence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Evidence_of_absence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Evidence_of_absence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of absenceEvidence of absence is evidence of any kind that suggests something is missing or that it does not exist...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: semanticscholar.org  
    Title: Informal Logic On Arguments from Ignorance Martin Hinton; Philosophy  
-   Link: [https://www.semanticscholar.org/paper/Informal-Logic-On-Arguments-from-Ignorance-Hinton/df9b4d3919e4d9e363f9692ac2b79467a66632db](https://www.semanticscholar.org/paper/Informal-Logic-On-Arguments-from-Ignorance-Hinton/df9b4d3919e4d9e363f9692ac2b79467a66632db)  
+   Link: <a href="https://www.semanticscholar.org/paper/Informal-Logic-On-Arguments-from-Ignorance-Hinton/df9b4d3919e4d9e363f9692ac2b79467a66632db" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Informal-Logic-On-Arguments-from-Ignorance-Hinton/df9b4d3919e4d9e363f9692ac2b79467a66632db</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The purpose of this paper is twofold: to give a good account of the argument from ignorance, with a presumptive argumentation scheme.Read...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/512490552/Evidence-Stanford-Encyclopedia-of-Philosophy](https://www.scribd.com/document/512490552/Evidence-Stanford-Encyclopedia-of-Philosophy)  
+   Link: <a href="https://www.scribd.com/document/512490552/Evidence-Stanford-Encyclopedia-of-Philosophy" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/512490552/Evidence-Stanford-Encyclopedia-of-Philosophy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence (Stanford Encyclopedia of Philosophy) | PDFAug 11, 2006 — evidence frequently depends upon one&#x27;s awareness that one thing is ind...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: quoteinvestigator.com  
-   Link: [https://quoteinvestigator.com/2019/09/17/absence/](https://quoteinvestigator.com/2019/09/17/absence/)  
+   Link: <a href="https://quoteinvestigator.com/2019/09/17/absence/" target="_blank" rel="noopener noreferrer nofollow">https://quoteinvestigator.com/2019/09/17/absence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quote Origin: Absence of Evidence Is Not...17 Sept 2019 — Absence of evidence is not evidence of absence. This saying has been attribute...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: revolutionmagik.wordpress.com  
    Title: the absence of evidence  
-   Link: [https://revolutionmagik.wordpress.com/2009/04/02/the-absence-of-evidence/](https://revolutionmagik.wordpress.com/2009/04/02/the-absence-of-evidence/)  
+   Link: <a href="https://revolutionmagik.wordpress.com/2009/04/02/the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://revolutionmagik.wordpress.com/2009/04/02/the-absence-of-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sagan Quotes… - The Revolution is Within2 Apr 2009 — “Absence of evidence is not evidence of absence”, if you look at it simply in terms...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: brainyquote.com  
    Title: Carl Sagan  
-   Link: [https://www.brainyquote.com/quotes/carl_sagan_589698](https://www.brainyquote.com/quotes/carl_sagan_589698)  
+   Link: <a href="https://www.brainyquote.com/quotes/carl_sagan_589698" target="_blank" rel="noopener noreferrer nofollow">https://www.brainyquote.com/quotes/carl_sagan_589698</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Absence of evidence is not evidence of...&quot;Absence of evidence is not evidence of absence.&quot; - Carl Sagan quotes from BrainyQuote.com...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/9435/6184](https://informallogic.ca/index.php/informal_logic/article/view/9435/6184)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/9435/6184" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/9435/6184</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two-Tier Fallacy Theory: A New Approach to Assessing...by M Hinton · 2025 — The two-tier procedure reflects our point of view that a fal...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/evidence/](https://iep.utm.edu/evidence/)  
+   Link: <a href="https://iep.utm.edu/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>epistemology, evidence is often taken to be relevant to justified belief, where the latter, in turn, is typically thought to be necessary...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: slideserve.com  
-   Link: [https://www.slideserve.com/pmcclure/on-arguments-from-ignorance-martin-hinton-university-of-d-philang-12-th-may-2017-powerpoint-ppt-presentation](https://www.slideserve.com/pmcclure/on-arguments-from-ignorance-martin-hinton-university-of-d-philang-12-th-may-2017-powerpoint-ppt-presentation)  
+   Link: <a href="https://www.slideserve.com/pmcclure/on-arguments-from-ignorance-martin-hinton-university-of-d-philang-12-th-may-2017-powerpoint-ppt-presentation" target="_blank" rel="noopener noreferrer nofollow">https://www.slideserve.com/pmcclure/on-arguments-from-ignorance-martin-hinton-university-of-d-philang-12-th-may-2017-powerpoint-ppt-presentation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments from Ignorance: Fallacies and PresumptionsExplore the various interpretations of the argument from ignorance, including deducti...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: azquotes.com  
-   Link: [https://www.azquotes.com/author/12883-Carl_Sagan/tag/evidence](https://www.azquotes.com/author/12883-Carl_Sagan/tag/evidence)  
+   Link: <a href="https://www.azquotes.com/author/12883-Carl_Sagan/tag/evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.azquotes.com/author/12883-Carl_Sagan/tag/evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Sagan Quotes About EvidenceMy view is that if there is no evidence for it, then forget about it. An agnostic is somebody who doesn&#x27;t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40mnemko/carl-sagan-albert-einstein-and-neil-degrasse-tyson-in-conversation-eed5504f5daa](https://medium.com/%40mnemko/carl-sagan-albert-einstein-and-neil-degrasse-tyson-in-conversation-eed5504f5daa)  
+   Link: <a href="https://medium.com/%40mnemko/carl-sagan-albert-einstein-and-neil-degrasse-tyson-in-conversation-eed5504f5daa" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mnemko/carl-sagan-albert-einstein-and-neil-degrasse-tyson-in-conversation-eed5504f5daa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Sagan, Albert Einstein, and Neil deGrasse Tyson in “...Sagan: Extraordinary claims require extraordinary evidence…Absence of eviden...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/paulcrick_absence-of-evidence-is-not-evidence-of-absence-activity-7337158953690099712-zuDJ](https://www.linkedin.com/posts/paulcrick_absence-of-evidence-is-not-evidence-of-absence-activity-7337158953690099712-zuDJ)  
+   Link: <a href="https://www.linkedin.com/posts/paulcrick_absence-of-evidence-is-not-evidence-of-absence-activity-7337158953690099712-zuDJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/paulcrick_absence-of-evidence-is-not-evidence-of-absence-activity-7337158953690099712-zuDJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Crick&#x27;s PostIt is evidence of absence only when the evidence, if present, would have been detected.” ~ Carl Sagan, The Demon-Haunted...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
    Title: absence of evidence is not evidence of absence carl sagan the dragons of eden 19  
-   Link: [https://www.facebook.com/TheUniverseofCarl/posts/absence-of-evidence-is-not-evidence-of-absence-carl-sagan-the-dragons-of-eden-19/1547102566362036/](https://www.facebook.com/TheUniverseofCarl/posts/absence-of-evidence-is-not-evidence-of-absence-carl-sagan-the-dragons-of-eden-19/1547102566362036/)  
+   Link: <a href="https://www.facebook.com/TheUniverseofCarl/posts/absence-of-evidence-is-not-evidence-of-absence-carl-sagan-the-dragons-of-eden-19/1547102566362036/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUniverseofCarl/posts/absence-of-evidence-is-not-evidence-of-absence-carl-sagan-the-dragons-of-eden-19/1547102566362036/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Sagan, The Dragons of Eden (1977)&quot;My view is that if there is no evidence for it, then forget about it. An agnostic is somebody who...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ora.ox.ac.uk  
    Title: ox.ac.uk Stanford Encyclopedia of Philosophy  
-   Link: [https://ora.ox.ac.uk/objects/uuid%3A81c457fb-231d-4836-8afd-7e0ce1cbc1d5/files/m1773d2e599b4517d74a3899f82626f2e](https://ora.ox.ac.uk/objects/uuid%3A81c457fb-231d-4836-8afd-7e0ce1cbc1d5/files/m1773d2e599b4517d74a3899f82626f2e)  
+   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3A81c457fb-231d-4836-8afd-7e0ce1cbc1d5/files/m1773d2e599b4517d74a3899f82626f2e" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A81c457fb-231d-4836-8afd-7e0ce1cbc1d5/files/m1773d2e599b4517d74a3899f82626f2e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of Philosophy - Conscienceby A Giubilini · 2016 · Cited by 109 — b) The “argument from ignorance”, which might be better lab...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: merriam-webster.com  
    Title: ABSENC E Definition & Meaning6 days ago — 1  
-   Link: [https://www.merriam-webster.com/dictionary/absence](https://www.merriam-webster.com/dictionary/absence)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/absence" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/absence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a state or condition in which something expected, wanted, or looked for is not present or does not exist: a state or condition in which...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: blog.blueprintprep.com  
    Title: flawctober the absence of evidence fallacy  
-   Link: [https://blog.blueprintprep.com/lsat/flawctober-the-absence-of-evidence-fallacy/](https://blog.blueprintprep.com/lsat/flawctober-the-absence-of-evidence-fallacy/)  
+   Link: <a href="https://blog.blueprintprep.com/lsat/flawctober-the-absence-of-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://blog.blueprintprep.com/lsat/flawctober-the-absence-of-evidence-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Sagan&#x27;s quote, “Absence of Evidence does not mean Evidence of Absence” can be simplified to mean that the lack of evidence for the e...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/win2011/entries/epistemology/](https://plato.stanford.edu/archives/win2011/entries/epistemology/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2011/entries/epistemology/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2011/entries/epistemology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyDec 14, 2005 — Defined narrowly, epistemology is the study of knowledge and justified belief...</p></details>

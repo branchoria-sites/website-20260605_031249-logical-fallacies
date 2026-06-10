@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:26:49'
 parent_title: Fallacy Lab
 parent_permalink: /logical-fallacies/
 parent_nav_short_title: Fallacy Lab
@@ -492,7 +493,6 @@ next_link:
   permalink: /novelty/
   short_title: Novelty
   heading_title: Is New Always Better?
-date: '2026-06-05 01:26:49 '
 header:
   og_image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-overview-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-overview.webp
@@ -501,7 +501,7 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-overview-
 
 ## Introduction
 
-No True Scotsman is the fallacy of protecting a general claim by moving the definition of the group after a counterexample appears. The pattern is simple: someone says “No member of this group does X”; a real member of the group is shown doing X; the speaker replies that the person is not a “true”, “real”, “genuine” or “proper” member after all. The problem is not that definitions can never be refined. The problem is that the refinement arrives just in time to save the claim, with no independent test for who counts. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters because it turns evidence into something the claim can always outrun. Instead of learning from counterexamples, the argument quietly changes the membership rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">ScribbrNo True Scotsman Fallacy | Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
+No True Scotsman is the fallacy of protecting a general claim by moving the definition of the group after a counterexample appears. The pattern is simple: someone says “No member of this group does X”; a real member of the group is shown doing X; the speaker replies that the person is not a “true”, “real”, “genuine” or “proper” member after all. The problem is not that definitions can never be refined. The problem is that the refinement arrives just in time to save the claim, with no independent test for who counts. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters because it turns evidence into something the claim can always outrun. Instead of learning from counterexamples, the argument quietly changes the membership rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-overview.webp" | relative_url }}" alt="Overview image for No True" loading="eager" decoding="sync" fetchpriority="high">
@@ -528,9 +528,9 @@ The key warning sign is timing. A definition offered before the dispute may be a
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-Illustration-1-dark.svg" | relative_url }}" alt="No True illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Counterexamples Become So Threatening
 
-A counterexample matters because many No True Scotsman arguments begin as universal or near-[universal claims]({{ 'existence-errors/' | relative_url }}). “No X does Y” can be defeated by one genuine X that does Y. In ordinary reasoning, that should prompt a more careful claim: “many Xs do not do Y”, “X discourages Y”, “Y conflicts with the official rules of X”, or “this person is a member but is acting against the group’s stated values”. Those revisions may be fair because they concede that the first claim was too broad.
+A counterexample matters because many No True Scotsman arguments begin as universal or near-universal claims. “No X does Y” can be defeated by one genuine X that does Y. In ordinary reasoning, that should prompt a more careful claim: “many Xs do not do Y”, “X discourages Y”, “Y conflicts with the official rules of X”, or “this person is a member but is acting against the group’s stated values”. Those revisions may be fair because they concede that the first claim was too broad.
 
-The fallacy appears when the speaker refuses that concession and instead makes the original claim unfalsifiable. If every counterexample can be dismissed as “not a true X”, then no evidence can count against the claim. The argument has shifted from an empirical statement about a group to a circular definition: true members are the ones who fit the claim, and anyone who does not fit the claim was never a true member. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">ScribbrNo True Scotsman Fallacy | Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
+The fallacy appears when the speaker refuses that concession and instead makes the original claim unfalsifiable. If every counterexample can be dismissed as “not a true X”, then no evidence can count against the claim. The argument has shifted from an empirical statement about a group to a circular definition: true members are the ones who fit the claim, and anyone who does not fit the claim was never a true member. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</span></span></span>
 
 This also explains why No True Scotsman overlaps with, but is not identical to, several neighbouring fallacies. It can resemble **equivocation**, because the meaning of a key term changes during the argument. Stanford’s discussion of fallacies describes equivocation as exploiting a term’s ambiguity across an argument, which is close to what happens when “Scotsman” quietly becomes “Scotsman who meets my preferred moral or behavioural test”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Encyclopedia of Philosophy Fallacies</span></span></span> Encyclopedia of Philosophy It can also resemble **moving the goalposts**, because the standard for acceptance is changed after the evidence arrives. But the distinctive feature of No True Scotsman is that the shifted standard concerns membership in a category: who counts as a real member, genuine case or authentic example.
 
@@ -1013,212 +1013,212 @@ The fairest [repair]({{ 'repair/' | relative_url }}) is often simple: separate *
 1. <a id="endnote-1"></a>
    Source: scribbr.com  
    Title: no true scotsman fallacy  
-   Link: [https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/](https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrNo True Scotsman Fallacy | Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy | Definition &amp; ExamplesJun 5, 2023 — The no true Scotsman fallacy is the attempt to defend a generalizati...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: No true Scotsman  
-   Link: [https://en.wikipedia.org/wiki/No_true_Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)  
+   Link: <a href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/No_true_Scotsman</a>  
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
 5. <a id="endnote-5"></a>
    Source: philpapers.org  
    Title: Phil Papers Persuasive definition  
-   Link: [https://philpapers.org/rec/ABEPD](https://philpapers.org/rec/ABEPD)  
+   Link: <a href="https://philpapers.org/rec/ABEPD" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/ABEPD</a>  
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
    Title: University Press & Assessment8  
-   Link: [https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A](https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A)  
+   Link: <a href="https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/media-argumentation/persuasive-definitions-and-public-policy-arguments/8294AFE9DA8F70FCC440CDE0D49DA45A</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Persuasive definition  
-   Link: [https://en.wikipedia.org/wiki/Persuasive_definition](https://en.wikipedia.org/wiki/Persuasive_definition)  
+   Link: <a href="https://en.wikipedia.org/wiki/Persuasive_definition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Persuasive_definition</a>  
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2021/entries/logic-informal/](https://plato.stanford.edu/archives/fall2021/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2003/entries/logic-informal/](https://plato.stanford.edu/archives/fall2003/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2014/entries/logic-informal/](https://plato.stanford.edu/archives/fall2014/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2014/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/logic-informal/</a>  
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2019/entries/logic-informal/](https://plato.stanford.edu/archives/fall2019/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/win2008/entries/logic-informal/](https://plato.stanford.edu/archives/win2008/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2008/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2008/entries/logic-informal/</a>  
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: roger bacon  
-   Link: [https://plato.stanford.edu/archives/fall2015/entries/roger-bacon/](https://plato.stanford.edu/archives/fall2015/entries/roger-bacon/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2015/entries/roger-bacon/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2015/entries/roger-bacon/</a>  
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
    Title: mill moral political  
-   Link: [https://plato.stanford.edu/archives/win2008/entries/mill-moral-political/](https://plato.stanford.edu/archives/win2008/entries/mill-moral-political/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2008/entries/mill-moral-political/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2008/entries/mill-moral-political/</a>  
 
 16. <a id="endnote-16"></a>
    Source: philpapers.org  
    Title: WALLAA 7  
-   Link: [https://philpapers.org/rec/WALLAA-7](https://philpapers.org/rec/WALLAA-7)  
+   Link: <a href="https://philpapers.org/rec/WALLAA-7" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALLAA-7</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: No True Scotsman  
-   Link: [https://www.youtube.com/watch?v=0_NCtdOKQ04](https://www.youtube.com/watch?v=0_NCtdOKQ04)  
+   Link: <a href="https://www.youtube.com/watch?v=0_NCtdOKQ04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_NCtdOKQ04</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Religion and the No True Scotsman Fallacy...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Religion and the No True Scotsman Fallacy  
-   Link: [https://www.youtube.com/watch?v=_g9pdWyAaDs](https://www.youtube.com/watch?v=_g9pdWyAaDs)  
+   Link: <a href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_g9pdWyAaDs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman | Logical Fallacies...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: No True Scotsman | Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=g4jkflsSuPE](https://www.youtube.com/watch?v=g4jkflsSuPE)  
+   Link: <a href="https://www.youtube.com/watch?v=g4jkflsSuPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g4jkflsSuPE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: No True Scotsman...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: logicallyfallacious.com  
    Title: how to spot the no true scotsman fallacy  
-   Link: [https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy](https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousHow to Spot the No True Scotsman Fallacy16 May 2026 — If you want to spot the No True Scotsman fallacy in arguments...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousNo True ScotsmanWhen a universal (“all”, “every”, etc.) claim is refuted, rather than conceding the point or meaningf...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 23. <a id="endnote-23"></a>
    Source: scribbr.co.uk  
    Title: No True Scotsman Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/no-true-scotsman/](https://www.scribbr.co.uk/fallacy/no-true-scotsman/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/no-true-scotsman/</a>  
 
 24. <a id="endnote-24"></a>
    Source: bachelorprint.com  
    Title: no true scotsman fallacy  
-   Link: [https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/](https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/)  
+   Link: <a href="https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/</a>  
 
 25. <a id="endnote-25"></a>
    Source: bachelorprint.com  
    Title: no true scotsman fallacy  
-   Link: [https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/](https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/)  
+   Link: <a href="https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/</a>  
 
 26. <a id="endnote-26"></a>
    Source: diplomacy.edu  
    Title: No true Scotsman  
-   Link: [https://www.diplomacy.edu/blog/no-true-scotsman/](https://www.diplomacy.edu/blog/no-true-scotsman/)  
+   Link: <a href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/no-true-scotsman/</a>  
 
 27. <a id="endnote-27"></a>
    Source: quillbot.com  
    Title: no true scotsman fallacy  
-   Link: [https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/](https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/</a>  
 
 28. <a id="endnote-28"></a>
    Source: ru.scribd.com  
    Title: No true Scotsman  
-   Link: [https://ru.scribd.com/document/734350253/No-true-Scotsman](https://ru.scribd.com/document/734350253/No-true-Scotsman)  
+   Link: <a href="https://ru.scribd.com/document/734350253/No-true-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/734350253/No-true-Scotsman</a>  
 
 29. <a id="endnote-29"></a>
    Source: torahmusings.com  
    Title: No true Scotsman  
-   Link: [https://www.torahmusings.com/wp-content/uploads/2006/08/No_true_Scotsman](https://www.torahmusings.com/wp-content/uploads/2006/08/No_true_Scotsman)  
+   Link: <a href="https://www.torahmusings.com/wp-content/uploads/2006/08/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.torahmusings.com/wp-content/uploads/2006/08/No_true_Scotsman</a>  
 
 30. <a id="endnote-30"></a>
    Source: paraphrasetool.com  
    Title: no true scotsman fallacy  
-   Link: [https://paraphrasetool.com/usage/no-true-scotsman-fallacy](https://paraphrasetool.com/usage/no-true-scotsman-fallacy)  
+   Link: <a href="https://paraphrasetool.com/usage/no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://paraphrasetool.com/usage/no-true-scotsman-fallacy</a>  
 
 31. <a id="endnote-31"></a>
    Source: logicalfallacies.org  
    Title: No True Scotsman  
-   Link: [https://www.logicalfallacies.org/no-true-scotsman.html](https://www.logicalfallacies.org/no-true-scotsman.html)  
+   Link: <a href="https://www.logicalfallacies.org/no-true-scotsman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/no-true-scotsman.html</a>  
 
 32. <a id="endnote-32"></a>
    Source: faithalone.org  
    Title: no true scotsman  
-   Link: [https://faithalone.org/blog/no-true-scotsman/](https://faithalone.org/blog/no-true-scotsman/)  
+   Link: <a href="https://faithalone.org/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://faithalone.org/blog/no-true-scotsman/</a>  
 
 33. <a id="endnote-33"></a>
    Source: logical-fallacy.com  
    Title: No True Scotsman  
-   Link: [https://www.logical-fallacy.com/articles/no-true-scotsman/](https://www.logical-fallacy.com/articles/no-true-scotsman/)  
+   Link: <a href="https://www.logical-fallacy.com/articles/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/no-true-scotsman/</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/scotsman.html](https://www.fallacyfiles.org/scotsman.html)  
+   Link: <a href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/scotsman.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy FilesThe No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or debat...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis](https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaIs Flew&#x27;s No True Scotsman Fallacy a...In this paper, I discuss ways where context can help to explain why the No True Scotsman...</p></details>
+   Link: <a href="https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Flew&#x27;s No True Scotsman Fallacy a...In this paper, I discuss ways where context can help to explain why the No True Scotsman...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/254406106_Persuasive_Definitions_and_Public_Policy_Arguments](https://www.researchgate.net/publication/254406106_Persuasive_Definitions_and_Public_Policy_Arguments)  
+   Link: <a href="https://www.researchgate.net/publication/254406106_Persuasive_Definitions_and_Public_Policy_Arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254406106_Persuasive_Definitions_and_Public_Policy_Arguments</a>  
 
 37. <a id="endnote-37"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/38741164/Praise_for_David_McRaneys_You_Are_Not_So_Smart](https://www.academia.edu/38741164/Praise_for_David_McRaneys_You_Are_Not_So_Smart)  
+   Link: <a href="https://www.academia.edu/38741164/Praise_for_David_McRaneys_You_Are_Not_So_Smart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38741164/Praise_for_David_McRaneys_You_Are_Not_So_Smart</a>  
 
 38. <a id="endnote-38"></a>
    Source: bsecs.org.uk  
-   Link: [https://www.bsecs.org.uk/wp-content/uploads/2019/06/Abstracts-A-D.pdf](https://www.bsecs.org.uk/wp-content/uploads/2019/06/Abstracts-A-D.pdf)  
+   Link: <a href="https://www.bsecs.org.uk/wp-content/uploads/2019/06/Abstracts-A-D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bsecs.org.uk/wp-content/uploads/2019/06/Abstracts-A-D.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: ccsenet.org  
-   Link: [https://www.ccsenet.org/journal/index.php/jpl/article/view/45932](https://www.ccsenet.org/journal/index.php/jpl/article/view/45932)  
+   Link: <a href="https://www.ccsenet.org/journal/index.php/jpl/article/view/45932" target="_blank" rel="noopener noreferrer nofollow">https://www.ccsenet.org/journal/index.php/jpl/article/view/45932</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/](https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/</a>  
 
 41. <a id="endnote-41"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fallacy/comments/l8yhxo/can_someone_explain_the_no_true_scotsman_fallacy/](https://www.reddit.com/r/fallacy/comments/l8yhxo/can_someone_explain_the_no_true_scotsman_fallacy/)  
+   Link: <a href="https://www.reddit.com/r/fallacy/comments/l8yhxo/can_someone_explain_the_no_true_scotsman_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/l8yhxo/can_someone_explain_the_no_true_scotsman_fallacy/</a>  
 
 42. <a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions](https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions)  
+   Link: <a href="https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions</a>  
 
 43. <a id="endnote-43"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/818962193/Ethics-and-Language-By-Charles-L-STevenson-New-Haven-Connecticut-1944-Yale-University-Press-1149051012-7ba2f2e43a859358b6489e6c3ca80](https://www.scribd.com/document/818962193/Ethics-and-Language-By-Charles-L-STevenson-New-Haven-Connecticut-1944-Yale-University-Press-1149051012-7ba2f2e43a859358b6489e6c3ca80)  
+   Link: <a href="https://www.scribd.com/document/818962193/Ethics-and-Language-By-Charles-L-STevenson-New-Haven-Connecticut-1944-Yale-University-Press-1149051012-7ba2f2e43a859358b6489e6c3ca80" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/818962193/Ethics-and-Language-By-Charles-L-STevenson-New-Haven-Connecticut-1944-Yale-University-Press-1149051012-7ba2f2e43a859358b6489e6c3ca80</a>  

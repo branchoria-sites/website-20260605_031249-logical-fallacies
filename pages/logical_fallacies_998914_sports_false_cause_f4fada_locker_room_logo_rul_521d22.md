@@ -358,7 +358,7 @@ A typical chain of reasoning looks like this:
 
 </div>
 
-This is a classic form of [post hoc reasoning]({{ 'false-cause/' | relative_url }}): assuming that because one event happened before another, it caused it. The emotional importance of the logo makes the story feel persuasive, but the evidence remains weak.
+This is a classic form of [post hoc]({{ 'post-hoc/' | relative_url }}) reasoning: assuming that because one event happened before another, it caused it. The emotional importance of the logo makes the story feel persuasive, but the evidence remains weak.
 
 A more careful interpretation recognises two separate possibilities:
 
@@ -817,87 +817,87 @@ From the perspective of logical fallacies, the important lesson is that a meanin
 1. <a id="endnote-1"></a>
    Source: twointhebox.com  
    Title: Two in the Box Tread lightly, logo etiquette in the locker room  
-   Link: [https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/](https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/)  
+   Link: <a href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow">https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</p></details>
    Published: July 11, 2013  
 
 2. <a id="endnote-2"></a>
    Source: theathleticbrandingco.com  
-   Link: [https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed](https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed)  
+   Link: <a href="https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed" target="_blank" rel="noopener noreferrer nofollow">https://www.theathleticbrandingco.com/insights/the-core-function-of-the-locker-room-has-officially-changed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Athletic Branding CompanyThe core function of the locker room has officially changed.February 6, 2023 — 6 Feb 2026 — Logos, bold colo...</p></details>
    Published: February 6, 2023  
 
 3. <a id="endnote-3"></a>
    Source: southeasternsportsnetwork.com  
-   Link: [https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/](https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/)  
+   Link: <a href="https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/" target="_blank" rel="noopener noreferrer nofollow">https://southeasternsportsnetwork.com/22088/news/the-significance-of-superstitions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Southeastern Sports NetworkThe Significance of Superstitions27 Dec 2025 — “Our biggest rule is no stepping on the logo in the locker room...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/](https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/)  
+   Link: <a href="https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It forces you to stop and think about why you are not stepping on the logo. It...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sportingnews.com  
-   Link: [https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw](https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw)  
+   Link: <a href="https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw" target="_blank" rel="noopener noreferrer nofollow">https://www.sportingnews.com/us/nhl/news/why-i-dont-step-on-the-logo-in-nhl-locker-rooms/o14bamzyud8w1apzwotmqk3zw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sporting NewsWhy I don&#x27;t step on the logo in NHL locker roomsApril 18, 2016 — 18 Apr 2016 — Fans will get angry because, for the most par...</p></details>
    Published: April 18, 2016  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: DO N'T STEP ON THE LOGO  
-   Link: [https://www.youtube.com/watch?v=aBTqigT35xc](https://www.youtube.com/watch?v=aBTqigT35xc)  
+   Link: <a href="https://www.youtube.com/watch?v=aBTqigT35xc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aBTqigT35xc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DON&#x27;T STEP ON THE LOGO - NHL Dressing Room ProtocolOne of the great unwritten rules of hockey is to &quot;Respect the Logo&quot;. So why do teams p...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: communityfirstigloo.com  
-   Link: [https://communityfirstigloo.com/hockey/culture/standards-of-excellence/locker-room-policy/](https://communityfirstigloo.com/hockey/culture/standards-of-excellence/locker-room-policy/)  
+   Link: <a href="https://communityfirstigloo.com/hockey/culture/standards-of-excellence/locker-room-policy/" target="_blank" rel="noopener noreferrer nofollow">https://communityfirstigloo.com/hockey/culture/standards-of-excellence/locker-room-policy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Locker Room PolicyNo player(s) are allowed to enter the locker room area for any reason unless a screened locker room monitor, coach or m...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: coachad.com  
-   Link: [https://coachad.com/articles/the-complete-guide-to-locker-room-graphics-motivating-athletes-strengthening-team-identity/](https://coachad.com/articles/the-complete-guide-to-locker-room-graphics-motivating-athletes-strengthening-team-identity/)  
+   Link: <a href="https://coachad.com/articles/the-complete-guide-to-locker-room-graphics-motivating-athletes-strengthening-team-identity/" target="_blank" rel="noopener noreferrer nofollow">https://coachad.com/articles/the-complete-guide-to-locker-room-graphics-motivating-athletes-strengthening-team-identity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coach and Athletic DirectorThe Complete Guide to Locker Room Graphics: Motivating...15 Jan 2026 — From bold team logos to motivational q...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: legacy20arenamiddleton.com  
-   Link: [https://www.legacy20arenamiddleton.com/player-resources/locker-room-policy/29111](https://www.legacy20arenamiddleton.com/player-resources/locker-room-policy/29111)  
+   Link: <a href="https://www.legacy20arenamiddleton.com/player-resources/locker-room-policy/29111" target="_blank" rel="noopener noreferrer nofollow">https://www.legacy20arenamiddleton.com/player-resources/locker-room-policy/29111</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEGACY20 | Locker Room PolicyAll members of the team must have this minimum attire before entering a co-ed locker room so that no player...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: amigraphics.com  
-   Link: [https://amigraphics.com/blog/locker-room-graphics](https://amigraphics.com/blog/locker-room-graphics)  
+   Link: <a href="https://amigraphics.com/blog/locker-room-graphics" target="_blank" rel="noopener noreferrer nofollow">https://amigraphics.com/blog/locker-room-graphics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Locker Room Graphics (Wall murals, floor graphics)Nothing grabs attention like a 3D logo proudly mounted on the locker room wall...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bleacherreport.com  
-   Link: [https://bleacherreport.com/articles/921526-new-york-rangers-victory-hat-and-other-interesting-nhl-locker-room-traditions](https://bleacherreport.com/articles/921526-new-york-rangers-victory-hat-and-other-interesting-nhl-locker-room-traditions)  
+   Link: <a href="https://bleacherreport.com/articles/921526-new-york-rangers-victory-hat-and-other-interesting-nhl-locker-room-traditions" target="_blank" rel="noopener noreferrer nofollow">https://bleacherreport.com/articles/921526-new-york-rangers-victory-hat-and-other-interesting-nhl-locker-room-traditions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alas, some people just don&#x27;t respect that locker room tradition. New York...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYlMQ1kBCWb/](https://www.instagram.com/reel/DYlMQ1kBCWb/)  
+   Link: <a href="https://www.instagram.com/reel/DYlMQ1kBCWb/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYlMQ1kBCWb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t&#x27;s on a rug in the tunnel, a mat on the touchline, or painted...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hawkslatest/posts/the-logo-is-gone-details-in-the-comments/122281370270034763/](https://www.facebook.com/hawkslatest/posts/the-logo-is-gone-details-in-the-comments/122281370270034763/)  
+   Link: <a href="https://www.facebook.com/hawkslatest/posts/the-logo-is-gone-details-in-the-comments/122281370270034763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hawkslatest/posts/the-logo-is-gone-details-in-the-comments/122281370270034763/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ooms. Now, it&#x27;ll be impossible to do so in Chicago...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wqP7d7lIgcw](https://www.youtube.com/watch?v=wqP7d7lIgcw)  
+   Link: <a href="https://www.youtube.com/watch?v=wqP7d7lIgcw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wqP7d7lIgcw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Justin Bieber Tarnishes Stanley Cup - The Daily Win...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nbclosangeles.com  
    Title: puckd reporter refuses to respect sanctity of penguins locker room  
-   Link: [https://www.nbclosangeles.com/news/sports/puckd-reporter-refuses-to-respect-sanctity-of-penguins-locker-room/1846731/](https://www.nbclosangeles.com/news/sports/puckd-reporter-refuses-to-respect-sanctity-of-penguins-locker-room/1846731/)  
+   Link: <a href="https://www.nbclosangeles.com/news/sports/puckd-reporter-refuses-to-respect-sanctity-of-penguins-locker-room/1846731/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbclosangeles.com/news/sports/puckd-reporter-refuses-to-respect-sanctity-of-penguins-locker-room/1846731/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frank from PensBurgh sums up the...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OhMyGoal.KeliNetwork/posts/ben-white-steps-on-atl%C3%A9ticos-logo-players-lose-their-cool-yesterday-during-the-c/1498599554954628/](https://www.facebook.com/OhMyGoal.KeliNetwork/posts/ben-white-steps-on-atl%C3%A9ticos-logo-players-lose-their-cool-yesterday-during-the-c/1498599554954628/)  
+   Link: <a href="https://www.facebook.com/OhMyGoal.KeliNetwork/posts/ben-white-steps-on-atl%C3%A9ticos-logo-players-lose-their-cool-yesterday-during-the-c/1498599554954628/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OhMyGoal.KeliNetwork/posts/ben-white-steps-on-atl%C3%A9ticos-logo-players-lose-their-cool-yesterday-during-the-c/1498599554954628/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t supposed to be stepped on.Read more...</p></details>

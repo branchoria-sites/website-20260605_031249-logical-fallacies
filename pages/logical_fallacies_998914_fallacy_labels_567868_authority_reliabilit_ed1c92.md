@@ -274,15 +274,15 @@ image: /assets/images/logical_fallacies_998914_fallacy_labels_567868_authority_r
 
 ## Introduction
 
-In discussions about [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), appeals to authority are often misunderstood. People sometimes assume that citing an expert is automatically fallacious, while others assume that a famous or credentialed person settles a question merely by expressing an opinion. Both positions are mistaken. Expert authority can be a valuable shortcut in a complex society where no one can personally verify every scientific, medical, legal, or technical claim. The key question is not whether an authority is being cited, but whether that authority deserves trust in the specific [context]({{ 'context/' | relative_url }}). When celebrity endorsements, media personalities, or high-profile professionals become the primary evidence for a claim, careful reliability checks become essential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise | Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an aut...</span></span></span>
+In discussions about [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), appeals to authority are often misunderstood. People sometimes assume that citing an expert is automatically fallacious, while others assume that a famous or credentialed person settles a question merely by expressing an opinion. Both positions are mistaken. Expert authority can be a valuable shortcut in a complex society where no one can personally verify every scientific, medical, legal, or technical claim. The key question is not whether an authority is being cited, but whether that authority deserves trust in the specific [context]({{ 'context/' | relative_url }}). When celebrity endorsements, media personalities, or high-profile professionals become the primary evidence for a claim, careful reliability checks become essential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise &#124; Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an aut...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_authority_reliabilit_ed1c92-Illustration-1-dark.svg" | relative_url }}" alt="Authority illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_authority_reliabilit_ed1c92-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_authority_reliabilit_ed1c92-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Authority Is Not Automatically a Fallacy
 
-Many arguments reasonably rely on expertise. Most people accept the advice of engineers about bridge safety, physicians about medical diagnosis, or climate scientists about climate models because specialised knowledge is distributed across society. Relying on qualified experts is often rational and unavoidable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise | Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ds-wordpress.haverford.edu">[2ds-wordpress.haverford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ds-wordpress.haverford.edu</span><span class="citation-popover-snippet">Expert Opinion/Appeal to Authority | Science ExposedNot all appeals to authority are fallacious; if the authority that is appealed to is...</span></span></span>
+Many arguments reasonably rely on expertise. Most people accept the advice of engineers about bridge safety, physicians about medical diagnosis, or climate scientists about climate models because specialised knowledge is distributed across society. Relying on qualified experts is often rational and unavoidable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise &#124; Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ds-wordpress.haverford.edu">[2ds-wordpress.haverford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ds-wordpress.haverford.edu</span><span class="citation-popover-snippet">Expert Opinion/Appeal to Authority &#124; Science ExposedNot all appeals to authority are fallacious; if the authority that is appealed to is...</span></span></span>
 
-An appeal to authority becomes problematic when the authority itself is treated as the evidence. If the reasoning takes the form “a famous person said it, therefore it is true,” the authority’s status replaces [independent support]({{ 'support-test/' | relative_url }}) for the claim. This is especially risky when the authority lacks expertise in the relevant field, when experts substantially disagree, or when the claim is presented without supporting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an aut...</span></span></span> ThoughtCo The distinction matters because rejecting every expert opinion would be impractical <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[thoughtco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">logical fallacies appeal to authority 250336</span><span class="citation-popover-snippet">Logical Fallacies: Appeal to AuthorityMar 31, 2021 — An appeal to authority becomes a fallacy when it relies on testimony, not facts. · A...</span></span></span>, yet accepting every expert statement uncritically would be equally irrational. The goal is not to avoid authority altogether but to determine whether the authority is relevant, competent, and supported by evidence.
+An [appeal to authority]({{ 'authority/' | relative_url }}) becomes problematic when the authority itself is treated as the evidence. If the reasoning takes the form “a famous person said it, therefore it is true,” the authority’s status replaces [independent support]({{ 'support-test/' | relative_url }}) for the claim. This is especially risky when the authority lacks expertise in the relevant field, when experts substantially disagree, or when the claim is presented without supporting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an aut...</span></span></span> ThoughtCo The distinction matters because rejecting every expert opinion would be impractical <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[thoughtco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">logical fallacies appeal to authority 250336</span><span class="citation-popover-snippet">Logical Fallacies: Appeal to AuthorityMar 31, 2021 — An appeal to authority becomes a fallacy when it relies on testimony, not facts. · A...</span></span></span>, yet accepting every expert statement uncritically would be equally irrational. The goal is not to avoid authority altogether but to determine whether the authority is relevant, competent, and supported by evidence.
 
 ## The Celebrity Doctor Supplement Example
 
@@ -340,7 +340,7 @@ Scientific and media organisations increasingly require experts to disclose pote
 
 In many technical fields, a lone expert can be mistaken. Consensus does not guarantee correctness, but broad agreement among qualified specialists is usually more reliable than the opinion of a single high-profile figure.
 
-This distinction helps explain why deferring to a scientific consensus differs from relying on a celebrity expert. The former rests on a wider body of evidence and scrutiny; the latter may rest largely on personal authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askphilosophy/comments/sard9s/is_trusting_what_the_scientific_community_has_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditIs trusting what the scientific community has to say about a...January 23, 2022 — Assuming you aren&#x27;t quoting what 1 person has to...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">a fallacy when a speaker claims, as their sole...Read more...</span></span></span>
+This distinction helps explain why deferring to a scientific consensus differs from relying on a celebrity expert. The former rests on a wider body of evidence and scrutiny; the latter may rest largely on personal authority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askphilosophy/comments/sard9s/is_trusting_what_the_scientific_community_has_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Is trusting what the scientific community has to say about a...January 23, 2022 — Assuming you aren&#x27;t quoting what 1 person has to...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">a fallacy when a speaker claims, as their sole...Read more...</span></span></span>
 
 ### Does the Claim Depend on Status Rather Than Reasons?
 
@@ -354,13 +354,13 @@ Celebrity authority works because people often use cognitive shortcuts. Assessin
 
 Research on trust in experts also suggests that perceived expertise and perceived conflicts of interest influence whether audiences accept claims. People frequently use these cues as proxies for evaluating information when they lack specialist knowledge themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sciencemediacentre.es/en/conflictos-de-interes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencemediacentre.es">[SMC España]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencemediacentre.es</span><span class="citation-popover-title">SMC España Important for scientific sources to declare conflicts of interest</span><span class="citation-popover-snippet">SMC EspañaImportant for scientific sources to declare conflicts of interestDecember 5, 2022 — 5 Dec 2022 — All researchers who collaborat...</span><span class="citation-popover-meta">Published: December 5, 2022</span></span></span>
 
-The result is a recurring challenge in public [debate]({{ 'debate/' | relative_url }}): a well-known figure may attract attention to a topic, but attention should not be confused with evidence.
+The result is a recurring challenge in public debate: a well-known figure may attract attention to a topic, but attention should not be confused with evidence.
 
 ## The Practical Lesson
 
 Within discussions of logical fallacies and the fallacy fallacy, celebrity authority claims illustrate an important middle position. It is incorrect to dismiss every appeal to expertise as fallacious. It is equally incorrect to assume that fame, credentials, or professional status make a claim true.
 
-A reliable appeal to authority requires more than authority. The authority must be relevant, competent, transparent about potential conflicts, and connected to evidence that can be independently examined. When those conditions are missing, the authority's reputation may explain why people believe the claim, but it does not establish that the claim is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicalfallacies.org/appeal-to-authority.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicalfallacies.org">[logicalfallacies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicalfallacies.org</span><span class="citation-popover-title">Appeal To Authority</span><span class="citation-popover-snippet">Definition &amp; Examples | LFWhile citing experts can be legitimate, the fallacy arises when the authority is treated as infallible, is not...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[3read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise | Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an aut...</span></span></span>
+A reliable appeal to authority requires more than authority. The authority must be relevant, competent, transparent about potential conflicts, and connected to evidence that can be independently examined. When those conditions are missing, the authority's reputation may explain why people believe the claim, but it does not establish that the claim is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicalfallacies.org/appeal-to-authority.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicalfallacies.org">[logicalfallacies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicalfallacies.org</span><span class="citation-popover-title">Appeal To Authority</span><span class="citation-popover-snippet">Definition &amp; Examples &#124; LFWhile citing experts can be legitimate, the fallacy arises when the authority is treated as infallible, is not...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[3read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise &#124; Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an aut...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ns305L-he40" title="Appeal to Authority (Misunderstood Fallacies)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ns305L-he40" target="_blank" rel="noopener noreferrer">Appeal to Authority (Misunderstood Fallacies)</a></p><p class="youtube-embed-meta">Channel: Thinking About Stuff &middot; Views: 13.2K &middot; Uploaded: December 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ns305L-he40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ns305L-he40">Open on YouTube</a></p></div></div></div>
@@ -788,224 +788,224 @@ A reliable appeal to authority requires more than authority. The authority must 
 1. <a id="endnote-1"></a>
    Source: read.aupress.ca  
    Title: Chapter 16  
-   Link: [https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753](https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753)  
+   Link: <a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of Expertise | Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: thoughtco.com  
    Title: logical fallacies appeal to authority 250336  
-   Link: [https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336](https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336)  
+   Link: <a href="https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: Appeal to AuthorityMar 31, 2021 — An appeal to authority becomes a fallacy when it relies on testimony, not facts. · A...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ds-wordpress.haverford.edu  
-   Link: [https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/](https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/)  
+   Link: <a href="https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/" target="_blank" rel="noopener noreferrer nofollow">https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/</a>  
 
 4. <a id="endnote-4"></a>
    Source: logicalfallacies.org  
    Title: Appeal To Authority  
-   Link: [https://www.logicalfallacies.org/appeal-to-authority.html](https://www.logicalfallacies.org/appeal-to-authority.html)  
+   Link: <a href="https://www.logicalfallacies.org/appeal-to-authority.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/appeal-to-authority.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LFWhile citing experts can be legitimate, the fallacy arises when the authority is treated as infallible, is not...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: asa.org.uk  
    Title: ASAHealth: Celebrities and health professionals  
-   Link: [https://www.asa.org.uk/advice-online/health-celebrities-and-health-professionals.html](https://www.asa.org.uk/advice-online/health-celebrities-and-health-professionals.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/health-celebrities-and-health-professionals.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/health-celebrities-and-health-professionals.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health: Celebrities and health professionals - ASA24 Mar 2026 — Endorsements by health professionals and celebrities could be viewed by t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/sard9s/is_trusting_what_the_scientific_community_has_to/](https://www.reddit.com/r/askphilosophy/comments/sard9s/is_trusting_what_the_scientific_community_has_to/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditIs trusting what the scientific community has to say about a...January 23, 2022 — Assuming you aren&#x27;t quoting what 1 person has to...</p></details>
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/sard9s/is_trusting_what_the_scientific_community_has_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/sard9s/is_trusting_what_the_scientific_community_has_to/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is trusting what the scientific community has to say about a...January 23, 2022 — Assuming you aren&#x27;t quoting what 1 person has to...</p></details>
    Published: January 23, 2022  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/](https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/)  
+   Link: <a href="https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a fallacy when a speaker claims, as their sole...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: vox.com  
    Title: health and wellness social media influencers pew report  
-   Link: [https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report](https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report)  
+   Link: <a href="https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report" target="_blank" rel="noopener noreferrer nofollow">https://www.vox.com/good-medicine-newsletter/487970/health-and-wellness-social-media-influencers-pew-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The influencer landscape is a mix of evidence-based professionals and uncredentialed individuals offering advice based on anecdotal exper...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: expert.it  
    Title: Benvenuto nel negozio online di Expert  
-   Link: [https://www.expert.it/it/it/exp/](https://www.expert.it/it/it/exp/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ExpertBenvenuto nel negozio online di Expert - Gli esperti siamo noi. Acquista ora il tuo Smartphone, TV, Elettrodomestico e molto altro...</p></details>
+   Link: <a href="https://www.expert.it/it/it/exp/" target="_blank" rel="noopener noreferrer nofollow">https://www.expert.it/it/it/exp/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benvenuto nel negozio online di Expert - Gli esperti siamo noi. Acquista ora il tuo Smartphone, TV, Elettrodomestico e molto altro...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/1fcymup/when_is_an_appeal_to_authority_not_a_logical/](https://www.reddit.com/r/askphilosophy/comments/1fcymup/when_is_an_appeal_to_authority_not_a_logical/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1fcymup/when_is_an_appeal_to_authority_not_a_logical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1fcymup/when_is_an_appeal_to_authority_not_a_logical/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Because sometimes I feel like appeal to authority...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sgtscholar.wordpress.com  
    Title: argument from authority  
-   Link: [https://sgtscholar.wordpress.com/2019/06/30/argument-from-authority/](https://sgtscholar.wordpress.com/2019/06/30/argument-from-authority/)  
+   Link: <a href="https://sgtscholar.wordpress.com/2019/06/30/argument-from-authority/" target="_blank" rel="noopener noreferrer nofollow">https://sgtscholar.wordpress.com/2019/06/30/argument-from-authority/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>from authority - Sgt Scholar - WordPress.comJun 30, 2019 — Generally, this fallacy/tactic misuses some aspect of expertise, power, or fam...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribbr.com  
    Title: appeal to authority fallacy  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/](https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an aut...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Logical Fallacies: The Appeal to Authority  
-   Link: [https://www.youtube.com/watch?v=O-XfLZSxZKA](https://www.youtube.com/watch?v=O-XfLZSxZKA)  
+   Link: <a href="https://www.youtube.com/watch?v=O-XfLZSxZKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O-XfLZSxZKA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy - YouTube...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Appeal to Authority Fallacy  
-   Link: [https://www.youtube.com/watch?v=f2JYd12TwGY](https://www.youtube.com/watch?v=f2JYd12TwGY)  
+   Link: <a href="https://www.youtube.com/watch?v=f2JYd12TwGY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f2JYd12TwGY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is The Appeal to Authority Fallacy? | Critical Thinking Basics - YouTube...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Appeal to Authority Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/](https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAppeal to Authority Fallacy | Definition &amp; Examples - Scribbr16 Jun 2023 — Appeal to authority fallacy is citing an authority figu...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; Examples - Scribbr16 Jun 2023 — Appeal to authority fallacy is citing an authority figu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencemediacentre.org  
-   Link: [https://www.sciencemediacentre.org/wp-content/uploads/2014/09/SMC-Strategic-Review-2014-FINAL.pdf](https://www.sciencemediacentre.org/wp-content/uploads/2014/09/SMC-Strategic-Review-2014-FINAL.pdf)  
+   Link: <a href="https://www.sciencemediacentre.org/wp-content/uploads/2014/09/SMC-Strategic-Review-2014-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencemediacentre.org/wp-content/uploads/2014/09/SMC-Strategic-Review-2014-FINAL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Media Centre Strategic Review ReportThe SMC considers an expert to be a person who has extensive knowledge and experience in a sc...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: supplysidesj.com  
    Title: Supply Side Supplement Journal FTC Cracks Down on Supplement Marketers Touting  
-   Link: [https://www.supplysidesj.com/supplement-regulations/ftc-cracks-down-on-supplement-marketers-touting-bogus-celebrity-endorsements](https://www.supplysidesj.com/supplement-regulations/ftc-cracks-down-on-supplement-marketers-touting-bogus-celebrity-endorsements)  
+   Link: <a href="https://www.supplysidesj.com/supplement-regulations/ftc-cracks-down-on-supplement-marketers-touting-bogus-celebrity-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.supplysidesj.com/supplement-regulations/ftc-cracks-down-on-supplement-marketers-touting-bogus-celebrity-endorsements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SupplySide Supplement JournalFTC Cracks Down on Supplement Marketers Touting...November 17, 2017 — Among the health claims quoted in FTC...</p></details>
    Published: November 17, 2017  
 
 18. <a id="endnote-18"></a>
    Source: thelogicofscience.com  
    Title: The Logic of Science Appealing to Authority vs  
-   Link: [https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/](https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/)  
+   Link: <a href="https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/" target="_blank" rel="noopener noreferrer nofollow">https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deferring to ExpertsMar 20, 2015 — A more common and insidious form of this fallacy occurs when you try to legitimatize a view by citing...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 20. <a id="endnote-20"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and [testimonials](&#123;&#123; 'testimonials/' | relative_url &#125;&#125;) in advertising  
-   Link: [https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising](https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising)  
+   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: consumer.ftc.gov  
    Title: Consumer Advice Did a celebrity really endorse THAT?  
-   Link: [https://consumer.ftc.gov/consumer-alerts/2024/04/did-celebrity-really-endorse-maybe-not](https://consumer.ftc.gov/consumer-alerts/2024/04/did-celebrity-really-endorse-maybe-not)  
+   Link: <a href="https://consumer.ftc.gov/consumer-alerts/2024/04/did-celebrity-really-endorse-maybe-not" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2024/04/did-celebrity-really-endorse-maybe-not</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maybe notApril 22, 2024 — 24 Apr 2024 — Scammers are using fake celebrity and influencer testimonials and endorsements — complete with do...</p></details>
    Published: April 22, 2024  
 
 22. <a id="endnote-22"></a>
    Source: logicallyfallacious.com  
    Title: how to spot the appeal to authority fallacy  
-   Link: [https://www.logicallyfallacious.com/blog/how-to-spot-the-appeal-to-authority-fallacy](https://www.logicallyfallacious.com/blog/how-to-spot-the-appeal-to-authority-fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-appeal-to-authority-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-appeal-to-authority-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The argument leans on the person&#x27;s title, fame, or reputation instead of facts. · The authority is...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to AuthorityInsisting that a claim is true simply because a valid authority or expert on the issue said it was...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sciencemediacentre.es  
    Title: SMC España Important for scientific sources to declare conflicts of interest  
-   Link: [https://sciencemediacentre.es/en/conflictos-de-interes](https://sciencemediacentre.es/en/conflictos-de-interes)  
+   Link: <a href="https://sciencemediacentre.es/en/conflictos-de-interes" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/conflictos-de-interes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SMC EspañaImportant for scientific sources to declare conflicts of interestDecember 5, 2022 — 5 Dec 2022 — All researchers who collaborat...</p></details>
    Published: December 5, 2022  
 
 25. <a id="endnote-25"></a>
    Source: sciencemediacentre.org  
-   Link: [https://www.sciencemediacentre.org/working-with-us/for-scientists/guidance-note-register-of-interests-policy/](https://www.sciencemediacentre.org/working-with-us/for-scientists/guidance-note-register-of-interests-policy/)  
+   Link: <a href="https://www.sciencemediacentre.org/working-with-us/for-scientists/guidance-note-register-of-interests-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencemediacentre.org/working-with-us/for-scientists/guidance-note-register-of-interests-policy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>register of interests policy: guidance note for scientistsThis guidance note explains the SMC&#x27;s register of interests policy, what type o...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: anmeldung.sciencemediacenter.de  
-   Link: [https://anmeldung.sciencemediacenter.de/en/smc-for-researchers/how-we-look-for-expertise/](https://anmeldung.sciencemediacenter.de/en/smc-for-researchers/how-we-look-for-expertise/)  
+   Link: <a href="https://anmeldung.sciencemediacenter.de/en/smc-for-researchers/how-we-look-for-expertise/" target="_blank" rel="noopener noreferrer nofollow">https://anmeldung.sciencemediacenter.de/en/smc-for-researchers/how-we-look-for-expertise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Media Center GermanyHow we look for ExpertiseExperts whom we ask for their expertise should disclose any relevant conflicts of in...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: klaus-tschira-stiftung.de  
-   Link: [https://klaus-tschira-stiftung.de/en/projekte/science-media-center/](https://klaus-tschira-stiftung.de/en/projekte/science-media-center/)  
+   Link: <a href="https://klaus-tschira-stiftung.de/en/projekte/science-media-center/" target="_blank" rel="noopener noreferrer nofollow">https://klaus-tschira-stiftung.de/en/projekte/science-media-center/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Media CenterThe Science Media Center Germany (SMC) supports journalists with freely accessible statements and background informat...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: quillbot.com  
    Title: appeal to authority fallacy  
-   Link: [https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/](https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Definition26 Jun 2024 — The appeal to authority fallacy (or argument from authority) is the mistake of relying on expert opini...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: sciencemediacentre.co.nz  
-   Link: [https://www.sciencemediacentre.co.nz/for-experts/providing-an-expert-reaction/](https://www.sciencemediacentre.co.nz/for-experts/providing-an-expert-reaction/)  
+   Link: <a href="https://www.sciencemediacentre.co.nz/for-experts/providing-an-expert-reaction/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencemediacentre.co.nz/for-experts/providing-an-expert-reaction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What we&#x27;re asking for is some brief feedback on a research paper...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/authority.html](https://philosophy.lander.edu/logic/authority.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/authority.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/authority.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Verecundiam (Argument from Authority) Explained with...The ad verecundian (appeal to authority) is described and analyzed in both its fa...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: samgoldstein.com  
-   Link: [https://samgoldstein.com/resources/articles/forensic-updates/forensic-update-beware-of-pseudoscience.aspx](https://samgoldstein.com/resources/articles/forensic-updates/forensic-update-beware-of-pseudoscience.aspx)  
+   Link: <a href="https://samgoldstein.com/resources/articles/forensic-updates/forensic-update-beware-of-pseudoscience.aspx" target="_blank" rel="noopener noreferrer nofollow">https://samgoldstein.com/resources/articles/forensic-updates/forensic-update-beware-of-pseudoscience.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware of PseudosciencePseudoscience often employs logical fallacies, misleading arguments that appear sound but lack logical validity. C...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/383486573_P46_Does_the_science_media_centre_promote_pro-corporate_views_of_science_an_analysis_of_SMC_expert_comments_on_science_in_the_news](https://www.researchgate.net/publication/383486573_P46_Does_the_science_media_centre_promote_pro-corporate_views_of_science_an_analysis_of_SMC_expert_comments_on_science_in_the_news)  
+   Link: <a href="https://www.researchgate.net/publication/383486573_P46_Does_the_science_media_centre_promote_pro-corporate_views_of_science_an_analysis_of_SMC_expert_comments_on_science_in_the_news" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383486573_P46_Does_the_science_media_centre_promote_pro-corporate_views_of_science_an_analysis_of_SMC_expert_comments_on_science_in_the_news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an analysis of SMC expert comments on science in the newsThe most well-known is the UK Science Media Centre (SMC) which is active in infl...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: citizen.org  
-   Link: [https://www.citizen.org/article/letter-to-ftc-investigate-casey-means-potential-violations-of-influencer-marketing-standards/](https://www.citizen.org/article/letter-to-ftc-investigate-casey-means-potential-violations-of-influencer-marketing-standards/)  
+   Link: <a href="https://www.citizen.org/article/letter-to-ftc-investigate-casey-means-potential-violations-of-influencer-marketing-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.citizen.org/article/letter-to-ftc-investigate-casey-means-potential-violations-of-influencer-marketing-standards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Letter to FTC: Investigate Casey Means&#x27; Potential...5 Feb 2026 — Casey Means has violated Federal Trade Commission (FTC) policy on undis...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/](https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/)  
+   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>E3. Has the expert properly attended to the question at hand? E4. Is the expert&#x27;s opinion backed by plausible arguments and evidence?Read...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: england.nhs.uk  
    Title: top doctor calls for ban on damaging and misleading celebrity social media ads  
-   Link: [https://www.england.nhs.uk/2019/02/top-doctor-calls-for-ban-on-damaging-and-misleading-celebrity-social-media-ads/](https://www.england.nhs.uk/2019/02/top-doctor-calls-for-ban-on-damaging-and-misleading-celebrity-social-media-ads/)  
+   Link: <a href="https://www.england.nhs.uk/2019/02/top-doctor-calls-for-ban-on-damaging-and-misleading-celebrity-social-media-ads/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/2019/02/top-doctor-calls-for-ban-on-damaging-and-misleading-celebrity-social-media-ads/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top doctor calls for ban on &#x27;damaging and misleading&#x27;...2 Feb 2019 — England&#x27;s top doctor has today called on social media companies to...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: businessinsider.com  
    Title: Business Insider Supplements are the new obsession, even as doctors stay wary  
-   Link: [https://www.businessinsider.com/thorne-supplement-factory-charleston-2026-2](https://www.businessinsider.com/thorne-supplement-factory-charleston-2026-2)  
+   Link: <a href="https://www.businessinsider.com/thorne-supplement-factory-charleston-2026-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/thorne-supplement-factory-charleston-2026-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I went inside one of the industry&#x27;s biggest factories.The article provides an in-depth look at the booming dietary supplement industry, f...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: mica-insurance.com  
    Title: considerations when promoting your practice through a social media influencer  
-   Link: [https://www.mica-insurance.com/blog/posts/considerations-when-promoting-your-practice-through-a-social-media-influencer/](https://www.mica-insurance.com/blog/posts/considerations-when-promoting-your-practice-through-a-social-media-influencer/)  
+   Link: <a href="https://www.mica-insurance.com/blog/posts/considerations-when-promoting-your-practice-through-a-social-media-influencer/" target="_blank" rel="noopener noreferrer nofollow">https://www.mica-insurance.com/blog/posts/considerations-when-promoting-your-practice-through-a-social-media-influencer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Considerations When Promoting Your Practice Through a...30 Jun 2025 — The FTC Act gives the FTC authority to regulate advertising, inclu...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: thinkingispower.com  
-   Link: [https://thinkingispower.com/logical-fallacies/](https://thinkingispower.com/logical-fallacies/)  
+   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The opinion of experts is only relevant within their area of expertise. For example, a heart surgeon is not an...Read more...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: rss.org.uk  
-   Link: [https://rss.org.uk/getmedia/c587736f-a351-4b3a-849d-ae919ea0f18b/Joining-the-SMC-expert-database.pdf.aspx](https://rss.org.uk/getmedia/c587736f-a351-4b3a-849d-ae919ea0f18b/Joining-the-SMC-expert-database.pdf.aspx)  
+   Link: <a href="https://rss.org.uk/getmedia/c587736f-a351-4b3a-849d-ae919ea0f18b/Joining-the-SMC-expert-database.pdf.aspx" target="_blank" rel="noopener noreferrer nofollow">https://rss.org.uk/getmedia/c587736f-a351-4b3a-849d-ae919ea0f18b/Joining-the-SMC-expert-database.pdf.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We would like to be able to contact you when your area of expertise becomes topical in the media. This could.Read more...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255)  
+   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reason to believe that the endorser continues to subscribe to the...</p></details>

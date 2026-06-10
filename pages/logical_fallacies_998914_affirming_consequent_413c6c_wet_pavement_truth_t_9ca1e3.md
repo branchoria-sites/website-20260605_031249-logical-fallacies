@@ -786,141 +786,141 @@ In this row, the pavement is wet and the conditional remains true, yet rain did 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Truth table  
-   Link: [https://en.wikipedia.org/wiki/Truth_table](https://en.wikipedia.org/wiki/Truth_table)  
+   Link: <a href="https://en.wikipedia.org/wiki/Truth_table" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Truth_table</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 26, 2001 — A truth table is a mathematical table used in logic—specifically in connection with Boolean algebra, Boolean functions, a...</p></details>
    Published: July 26, 2001  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Material conditional  
-   Link: [https://en.wikipedia.org/wiki/Material_conditional](https://en.wikipedia.org/wiki/Material_conditional)  
+   Link: <a href="https://en.wikipedia.org/wiki/Material_conditional" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Material_conditional</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 23, 2026 — The material conditional (also known as material implication) is a binary operation commonly used in logic.Read more...</p></details>
    Published: March 23, 2026  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: [https://en.wikipedia.org/wiki/Affirming_the_consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Logical_reasoning](https://en.wikipedia.org/wiki/Logical_reasoning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Logical_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Logical_reasoning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical reasoningA well-known formal fallacy is affirming the consequent. It has the following form: (1) q; (2) if p then q; (3) there...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Necessity_and_sufficiency](https://en.wikipedia.org/wiki/Necessity_and_sufficiency)  
+   Link: <a href="https://en.wikipedia.org/wiki/Necessity_and_sufficiency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Necessity_and_sufficiency</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Necessity and sufficiencyIn logic and mathematics, necessity and sufficiency are terms used to describe a conditional or implicational re...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Converse_%28logic%29](https://en.wikipedia.org/wiki/Converse_%28logic%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Converse_%28logic%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Converse_%28logic%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Converse (logic)In logic and mathematics, the converse of a categorical or implicational statement is the result of reversing its two...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Logical biconditional  
-   Link: [https://en.wikipedia.org/wiki/Logical_biconditional](https://en.wikipedia.org/wiki/Logical_biconditional)  
+   Link: <a href="https://en.wikipedia.org/wiki/Logical_biconditional" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Logical_biconditional</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2026 — Logical equality (also known as biconditional) is an operation on two logical values, typically the values of two propos...</p></details>
    Published: March 11, 2026  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Contraposition](https://en.wikipedia.org/wiki/Contraposition)  
+   Link: <a href="https://en.wikipedia.org/wiki/Contraposition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contraposition</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ContrapositionThe law of contraposition says that a conditional statement is true if, and only if, its contrapositive is true.... if...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Paradoxes of material implication  
-   Link: [https://en.wikipedia.org/wiki/Paradoxes_of_material_implication](https://en.wikipedia.org/wiki/Paradoxes_of_material_implication)  
+   Link: <a href="https://en.wikipedia.org/wiki/Paradoxes_of_material_implication" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paradoxes_of_material_implication</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paradoxes of material implication&quot;If it is not the case that P, then if P, then Q&quot;; a false proposition implies any other. For instanc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Modus tollens  
-   Link: [https://en.wikipedia.org/wiki/Modus_tollens](https://en.wikipedia.org/wiki/Modus_tollens)  
+   Link: <a href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Modus_tollens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modus tollensModus tollens is a mixed hypothetical syllogism that takes the form of &quot;If P, then Q. Not Q. Therefore, not P.&quot; It is an...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Modus ponens  
-   Link: [https://en.wikipedia.org/wiki/Modus_ponens](https://en.wikipedia.org/wiki/Modus_ponens)  
+   Link: <a href="https://en.wikipedia.org/wiki/Modus_ponens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Modus_ponens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modus ponensIt can be summarized as &quot;P implies Q. P is true. Therefore, Q must also be true.&quot; Modus ponens. Type. Deductive argument...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Hypothetical syllogism  
-   Link: [https://en.wikipedia.org/wiki/Hypothetical_syllogism](https://en.wikipedia.org/wiki/Hypothetical_syllogism)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hypothetical_syllogism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypothetical_syllogism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hypothetical syllogismIf P, then Q. · P. · ∴ Q.; If P, then Q. · If Q, then R. · ∴ If P, then R.; If I do not wake up, then I cannot...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Denying the antecedent  
-   Link: [https://en.wikipedia.org/wiki/Denying_the_antecedent](https://en.wikipedia.org/wiki/Denying_the_antecedent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Denying_the_antecedent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the antecedentIt is a type of mixed hypothetical syllogism that takes on the following form: If P, then Q. Not P. Therefore, n...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Affirming the Consequent | Truth Table Proof  
-   Link: [http://www.youtube.com/watch?v=SPE9BERMFIk](http://www.youtube.com/watch?v=SPE9BERMFIk)  
+   Link: <a href="http://www.youtube.com/watch?v=SPE9BERMFIk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SPE9BERMFIk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth Table to determine if an argument is valid...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sites.millersville.edu  
-   Link: [https://sites.millersville.edu/bikenaga/math-proof/truth-tables/truth-tables.html](https://sites.millersville.edu/bikenaga/math-proof/truth-tables/truth-tables.html)  
+   Link: <a href="https://sites.millersville.edu/bikenaga/math-proof/truth-tables/truth-tables.html" target="_blank" rel="noopener noreferrer nofollow">https://sites.millersville.edu/bikenaga/math-proof/truth-tables/truth-tables.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Millersville HostingTruth Tables, Tautologies, and Logical EquivalencesA truth table shows how the truth or falsity of a compound stateme...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: math.stackexchange.com  
-   Link: [https://math.stackexchange.com/questions/70736/in-classical-logic-why-is-p-rightarrow-q-true-if-p-is-false-and-q-is-tr](https://math.stackexchange.com/questions/70736/in-classical-logic-why-is-p-rightarrow-q-true-if-p-is-false-and-q-is-tr)  
+   Link: <a href="https://math.stackexchange.com/questions/70736/in-classical-logic-why-is-p-rightarrow-q-true-if-p-is-false-and-q-is-tr" target="_blank" rel="noopener noreferrer nofollow">https://math.stackexchange.com/questions/70736/in-classical-logic-why-is-p-rightarrow-q-true-if-p-is-false-and-q-is-tr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>classical logic, why is $(p\Rightarrow q)$ True if $p$ is...7 Oct 2011 — Provided we have this truth table where &quot;p⟹q&quot; means &quot;if p then...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VCEYeB3bRW0](https://www.youtube.com/watch?v=VCEYeB3bRW0)  
+   Link: <a href="https://www.youtube.com/watch?v=VCEYeB3bRW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VCEYeB3bRW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY if P then Q works how it does - • Understanding &quot;If P, t... Example 1 - Two propositions - • Truth...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Analyzing an argument for validity  
-   Link: [http://www.youtube.com/watch?v=ON7yAw6W9VY](http://www.youtube.com/watch?v=ON7yAw6W9VY)  
+   Link: <a href="http://www.youtube.com/watch?v=ON7yAw6W9VY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ON7yAw6W9VY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth table affirming the consequent logic Affirming the Consequent | Truth Table Proof 5 Minute Logic...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Valid and Invalid Arguments in Logic using truth tables part 2  
-   Link: [http://www.youtube.com/watch?v=vqHQZcgIKPA](http://www.youtube.com/watch?v=vqHQZcgIKPA)  
+   Link: <a href="http://www.youtube.com/watch?v=vqHQZcgIKPA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vqHQZcgIKPA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Truth Tables for Arguments Explained - Campbell...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Truth Table to determine if an argument is valid  
-   Link: [http://www.youtube.com/watch?v=EfsbN5YbcPQ](http://www.youtube.com/watch?v=EfsbN5YbcPQ)  
+   Link: <a href="http://www.youtube.com/watch?v=EfsbN5YbcPQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=EfsbN5YbcPQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Valid and Invalid Arguments in Logic using truth tables part 2...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/learnmath/comments/1dpiqf3/p_implies_q_is_true_when_p_is_false_and_q_is_true/](https://www.reddit.com/r/learnmath/comments/1dpiqf3/p_implies_q_is_true_when_p_is_false_and_q_is_true/)  
+   Link: <a href="https://www.reddit.com/r/learnmath/comments/1dpiqf3/p_implies_q_is_true_when_p_is_false_and_q_is_true/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/learnmath/comments/1dpiqf3/p_implies_q_is_true_when_p_is_false_and_q_is_true/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The truth value is true in that case. I think you misread the truth table.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: 4 Truth Tables for Arguments Explained  
-   Link: [http://www.youtube.com/watch?v=-R--2thR2sg](http://www.youtube.com/watch?v=-R--2thR2sg)  
+   Link: <a href="http://www.youtube.com/watch?v=-R--2thR2sg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=-R--2thR2sg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing an argument for validity...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cuny.manifoldapp.org  
-   Link: [https://cuny.manifoldapp.org/read/a-common-sense-introduction-to-logic/section/ea1ebd4a-89a6-4870-86f9-159caebf6e5a](https://cuny.manifoldapp.org/read/a-common-sense-introduction-to-logic/section/ea1ebd4a-89a6-4870-86f9-159caebf6e5a)  
+   Link: <a href="https://cuny.manifoldapp.org/read/a-common-sense-introduction-to-logic/section/ea1ebd4a-89a6-4870-86f9-159caebf6e5a" target="_blank" rel="noopener noreferrer nofollow">https://cuny.manifoldapp.org/read/a-common-sense-introduction-to-logic/section/ea1ebd4a-89a6-4870-86f9-159caebf6e5a</a>  
 
 24. <a id="endnote-24"></a>
    Source: discrete.openmathbooks.org  
    Title: sec propositional  
-   Link: [https://discrete.openmathbooks.org/dmoi3/sec_propositional.html](https://discrete.openmathbooks.org/dmoi3/sec_propositional.html)  
+   Link: <a href="https://discrete.openmathbooks.org/dmoi3/sec_propositional.html" target="_blank" rel="noopener noreferrer nofollow">https://discrete.openmathbooks.org/dmoi3/sec_propositional.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: math.hawaii.edu  
    Title: If Then  
-   Link: [https://math.hawaii.edu/~ramsey/Logic/IfThen.html](https://math.hawaii.edu/~ramsey/Logic/IfThen.html)  
+   Link: <a href="https://math.hawaii.edu/~ramsey/Logic/IfThen.html" target="_blank" rel="noopener noreferrer nofollow">https://math.hawaii.edu/~ramsey/Logic/IfThen.html</a>  

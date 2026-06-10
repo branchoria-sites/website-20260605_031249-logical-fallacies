@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_live_stra
 
 ## Introduction
 
-A straw man rebuttal is not primarily about naming a fallacy. In a live [debate]({{ 'debate/' | relative_url }}), its purpose is to restore the original claim before the audience accepts a distorted version of it. A straw man occurs when a speaker replaces an opponent’s actual position with a weaker, more extreme, or simplified version and then attacks that substitute instead of the real argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[2scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">straw man fallacy</span><span class="citation-popover-snippet">What Is Straw Man Fallacy? | Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</span></span></span>
+A straw man rebuttal is not primarily about naming a fallacy. In a live [debate]({{ 'debate/' | relative_url }}), its purpose is to restore the original claim before the audience accepts a distorted version of it. A straw man occurs when a speaker replaces an opponent’s actual position with a weaker, more extreme, or simplified version and then attacks that substitute instead of the real argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[2scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">straw man fallacy</span><span class="citation-popover-snippet">What Is Straw Man Fallacy? &#124; Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_live_straw_man_rebut_ae5863-Illustration-1-dark.svg" | relative_url }}" alt="Straw Men illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_live_straw_man_rebut_ae5863-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_live_straw_man_rebut_ae5863-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -331,7 +331,7 @@ This technique mirrors what argumentation scholars describe as addressing the ac
 
 ### Why Reconstruction Matters
 
-Research on [straw man arguments]({{ 'straw-man/' | relative_url }}) emphasises that the fallacy depends on presenting a more attackable version of a position. If the audience never hears the original position clearly restated, the distortion can continue to shape how the debate is understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15534510802598152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe persuasiveness of the straw man rhetorical techniqueby GY Bizer · 2009 · Cited by 55 — The straw man technique...</span></span></span>
+Research on [straw man arguments]({{ 'straw-man/' | relative_url }}) emphasises that the fallacy depends on presenting a more attackable version of a position. If the audience never hears the original position clearly restated, the distortion can continue to shape how the debate is understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15534510802598152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe persuasiveness of the straw man rhetorical techniqueby GY Bizer · 2009 · Cited by 55 — The straw man technique...</span></span></span>
 
 In practical terms, rebuilding the argument serves two purposes:
 
@@ -416,7 +416,7 @@ The most effective straw man rebuttals are surprisingly simple. They do not rely
 
 The opponent replaces the original claim with a weaker substitute. The rebuttal replaces that substitute with the real claim.
 
-When done well, the audience sees three things in rapid succession: the distortion, the accurate version, and the unresolved question that actually matters. At that point, the debate returns to the merits of the argument rather than the caricature that briefly took its place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanderbilt.edu">[Vanderbilt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanderbilt.edu</span><span class="citation-popover-title">straw man arguments in political debates</span><span class="citation-popover-snippet">Vanderbilt UniversityStraw Man Arguments in Political Debates6 Apr 2022 — Employing straw man arguments in political debates signals we a...</span></span></span>
+When done well, the audience sees three things in rapid succession: the distortion, the accurate version, and the unresolved question that actually matters. At that point, the debate returns to the merits of the argument rather than the caricature that briefly took its place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanderbilt.edu">[Vanderbilt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanderbilt.edu</span><span class="citation-popover-title">straw man arguments in political debates</span><span class="citation-popover-snippet">Vanderbilt UniversityStraw Man Arguments in Political Debates6 Apr 2022 — Employing straw man arguments in political debates signals we a...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -839,120 +839,120 @@ When done well, the audience sees three things in rapid succession: the distorti
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3](https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</p></details>
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — When an arguer misrepresents their opponent&#x27;s stance to create...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: straw man fallacy  
-   Link: [https://www.scribbr.com/fallacies/straw-man-fallacy/](https://www.scribbr.com/fallacies/straw-man-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Straw Man Fallacy? | Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect When and how do we deal with straw men?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227](https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A normative...by M Lewiński · 2013 · Cited by 86 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1907.11889](https://arxiv.org/abs/1907.11889)  
+   Link: <a href="https://arxiv.org/abs/1907.11889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.11889</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: [https://en.wikipedia.org/wiki/Straw_man](https://en.wikipedia.org/wiki/Straw_man)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
 
 6. <a id="endnote-6"></a>
    Source: dwc.knaw.nl  
-   Link: [https://dwc.knaw.nl/DL/publications/PU00010685.pdf](https://dwc.knaw.nl/DL/publications/PU00010685.pdf)  
+   Link: <a href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010685.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacyIn the straw man argument, by definition, the misrepresented position of an arguer is used to attack, to criticize o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect What makes a straw man acceptable?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545](https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216618304545</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three experiments...by J Schumann · 2019 · Cited by 57 — A straw man is a form of fallacious argument that involves the distortion of an...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: vanderbilt.edu  
    Title: straw man arguments in political debates  
-   Link: [https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/](https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/)  
+   Link: <a href="https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/" target="_blank" rel="noopener noreferrer nofollow">https://www.vanderbilt.edu/unity/2022/04/06/straw-man-arguments-in-political-debates/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanderbilt UniversityStraw Man Arguments in Political Debates6 Apr 2022 — Employing straw man arguments in political debates signals we a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Straw](https://en.wikipedia.org/wiki/Straw)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>StrawStraw is an agricultural byproduct consisting of the dry stalks of cereal plants after the grain and chaff have been removed. It...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/15534510802598152](https://www.tandfonline.com/doi/full/10.1080/15534510802598152)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15534510802598152" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15534510802598152</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe persuasiveness of the straw man rhetorical techniqueby GY Bizer · 2009 · Cited by 55 — The straw man technique...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribbr.co.uk  
    Title: What Is Straw Man Argument?  
-   Link: [https://www.scribbr.co.uk/fallacy/straw-man-argument/](https://www.scribbr.co.uk/fallacy/straw-man-argument/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Definition &amp; Examples - Scribbr12 Apr 2023 — Straw man argument is the distortion of someone else&#x27;s argument (instead of addressing the...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/straw-man-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/straw-man-argument/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples - Scribbr12 Apr 2023 — Straw man argument is the distortion of someone else&#x27;s argument (instead of addressing the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/uk/dictionary/english/straw](https://dictionary.cambridge.org/uk/dictionary/english/straw)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Значення в англійській мові - Cambridge Dictionarya thin tube made of plastic or waterproof paper that is used to suck liquid into the...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/uk/dictionary/english/straw" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/uk/dictionary/english/straw</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Значення в англійській мові - Cambridge Dictionarya thin tube made of plastic or waterproof paper that is used to suck liquid into the...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html](https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/the-straw-man-fallacy-definition-examples.html</a>  
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394025945_The_Straw_Man_Fallacy](https://www.researchgate.net/publication/394025945_The_Straw_Man_Fallacy)  
+   Link: <a href="https://www.researchgate.net/publication/394025945_The_Straw_Man_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394025945_The_Straw_Man_Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Straw Man FallacyThis chapter introduces the reader to the core topic of this book, namely the straw man fallacy. It aims to di...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/](https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eli5 what is a strawman argument?: r/explainlikeimfiveA strawman fallacy is twisting and distorting the points of your opponent into a m...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/straw](https://www.merriam-webster.com/dictionary/straw)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/straw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STRAW Definition &amp; MeaningThe meaning of STRAW is stalks of grain after threshing; broadly: dry stalky plant residue used like grain str...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: strawofficial.com  
-   Link: [https://strawofficial.com/](https://strawofficial.com/)  
+   Link: <a href="https://strawofficial.com/" target="_blank" rel="noopener noreferrer nofollow">https://strawofficial.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StrawStraw is a humble, young and ticking brand – striving to create and curate ethically made products that take you on an incredible jo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Strawman-Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strawman FallacyDescription: Substituting a person&#x27;s actual position or argument with a distorted, exaggerated, or misrepresented version...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/](https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: STRAW MAN DEFINITION...TODAY&#x27;S FALLACY: STRAW MAN DEFINITION AND EXPLANATION: A straw man argument misrepresents an opp...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/purple-theory/the-straw-man-fallacy-682ab87445c4](https://medium.com/purple-theory/the-straw-man-fallacy-682ab87445c4)  
+   Link: <a href="https://medium.com/purple-theory/the-straw-man-fallacy-682ab87445c4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/purple-theory/the-straw-man-fallacy-682ab87445c4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Straw Man FallacyStraw man arguments could be by exaggerating an opponent&#x27;s proposition (as in the case above), oversimplifying it, o...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/strawman](https://yourlogicalfallacyis.com/strawman)  
+   Link: <a href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/strawman</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy](https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy)  
+   Link: <a href="https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271473896_Pragmatics_cognitive_heuristics_and_the_straw_man_fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of their connection to cognitive heuristics.6 He does so by relying on the; concepts developed...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: folia.unifr.ch  
-   Link: [https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=](https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=)  
+   Link: <a href="https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=" target="_blank" rel="noopener noreferrer nofollow">https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fallacy denotes the misrepresentation of someone&#x27;s position in order to easily refute that.Read more...</p></details>

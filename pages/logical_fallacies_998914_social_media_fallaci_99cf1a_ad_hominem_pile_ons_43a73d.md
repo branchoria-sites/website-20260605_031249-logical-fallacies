@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_ad_ho
 
 ## Introduction
 
-On [social media]({{ 'social-media/' | relative_url }}), a personal attack can look like a decisive rebuttal. A post attracts hundreds of replies mocking a person's intelligence, motives, appearance, [politics]({{ 'politics/' | relative_url }}) or past behaviour, and observers may come away with the impression that the original claim has been disproved. Yet a crowd of insults does not answer a factual question, test evidence or expose a flaw in reasoning. This is the core problem with ad hominem pile-ons: they create the appearance of argument while redirecting attention away from the argument itself. In the context of viral claims, the social energy of the attack can become more visible than the evidence under discussion. The result is often a false sense that a debate has been settled when the central claim remains unexamined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicVan Eemeren and Grootendorst explain ad hominem as a violation of their first rule for &quot;...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — Ad hominem, type of argument or attack that...</span></span></span>
+On [social media]({{ 'social-media/' | relative_url }}), a personal attack can look like a decisive rebuttal. A post attracts hundreds of replies mocking a person's intelligence, motives, appearance, [politics]({{ 'politics/' | relative_url }}) or past behaviour, and observers may come away with the impression that the original claim has been disproved. Yet a crowd of insults does not answer a factual question, test evidence or expose a flaw in reasoning. This is the core problem with ad hominem pile-ons: they create the appearance of argument while redirecting attention away from the argument itself. In the context of viral claims, the social energy of the attack can become more visible than the evidence under discussion. The result is often a false sense that a debate has been settled when the central claim remains unexamined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicVan Eemeren and Grootendorst explain ad hominem as a violation of their first rule for &quot;...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem &#124; Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — Ad hominem, type of argument or attack that...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_ad_hominem_pile_ons_43a73d-Illustration-1-dark.svg" | relative_url }}" alt="Pile Ons illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_ad_hominem_pile_ons_43a73d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_ad_hominem_pile_ons_43a73d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ An ad hominem fallacy occurs when criticism is directed at the person making a c
 
 </div>
 
-None of these responses necessarily addresses the evidence supporting the claim. They may reveal something about the speaker, but they do not establish whether the argument is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad hominem fallacy</span><span class="citation-popover-snippet">ScribbrAd Hominem Fallacy | Definition &amp; Examples21 Apr 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkingispower.com">[Thinking Is Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkingispower.com</span><span class="citation-popover-title">Thinking Is Power Guide to the Most Common Logical Fallacies</span><span class="citation-popover-snippet">A journalist. Other names: Personal attack, name-calling. Definition and...</span></span></span>
+None of these responses necessarily addresses the evidence supporting the claim. They may reveal something about the speaker, but they do not establish whether the argument is correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad hominem fallacy</span><span class="citation-popover-snippet">Ad Hominem Fallacy &#124; Definition &amp; Examples21 Apr 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkingispower.com">[Thinking Is Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkingispower.com</span><span class="citation-popover-title">Thinking Is Power Guide to the Most Common Logical Fallacies</span><span class="citation-popover-snippet">A journalist. Other names: Personal attack, name-calling. Definition and...</span></span></span>
 
 The pile-on effect amplifies the fallacy. One insult becomes dozens, then hundreds. As the conversation shifts towards personal judgement, fewer participants discuss the original evidence. The social verdict begins to substitute for logical evaluation.
 
@@ -315,7 +315,7 @@ Several features make pile-ons persuasive:
 
 **Identity signalling.** Joining a pile-on can demonstrate loyalty to a group even when little attention is paid to the actual claim.
 
-Research on online argumentation has found that ad hominem attacks are common in digital discussions and can significantly shape how debates unfold. Studies of online forums and social media commentary suggest that personal attacks often emerge in contentious discussions and can function as [mechanisms]({{ 'mechanisms/' | relative_url }}) for suppressing or redirecting disagreement rather than resolving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivBefore Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
+Research on online argumentation has found that ad hominem attacks are common in digital discussions and can significantly shape how debates unfold. Studies of online forums and social media commentary suggest that personal attacks often emerge in contentious discussions and can function as [mechanisms]({{ 'mechanisms/' | relative_url }}) for suppressing or redirecting disagreement rather than resolving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_V5hKX-RRAk" title="Common misunderstandings of the ad hominem fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_V5hKX-RRAk" target="_blank" rel="noopener noreferrer">Common misunderstandings of the ad hominem fallacy</a></p><p class="youtube-embed-meta">Channel: The Counsel of Trent &middot; Views: 12.1K &middot; Uploaded: September 2021 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_V5hKX-RRAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_V5hKX-RRAk">Open on YouTube</a></p></div></div></div>
@@ -337,7 +337,7 @@ The first addresses a fact that directly affects evidential reliability. The sec
 
 A useful test is to ask whether the criticism would still matter if the evidence were independently verified. If the answer is no, the criticism may be functioning primarily as an ad hominem distraction.
 
-This distinction matters because social media often blurs it. Genuine scrutiny of expertise, incentives or reliability can quickly turn into broad attacks on personality, identity or reputation. What begins as source evaluation can become a mechanism for avoiding engagement with evidence altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">PhilPapersAudrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores Ad Hominem Fallacies and Epistemic Credibility</span><span class="citation-popover-snippet">Ad Hominem Fallacies and Epistemic Credibility | - Law ExplorerOct 26, 2015 — An ad hominem fallacy is an error in logical reasoning in w...</span></span></span>
+This distinction matters because social media often blurs it. Genuine scrutiny of expertise, incentives or reliability can quickly turn into broad attacks on personality, identity or reputation. What begins as source evaluation can become a mechanism for avoiding engagement with evidence altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores Ad Hominem Fallacies and Epistemic Credibility</span><span class="citation-popover-snippet">Ad Hominem Fallacies and Epistemic Credibility &#124; - Law ExplorerOct 26, 2015 — An ad hominem fallacy is an error in logical reasoning in w...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_ad_hominem_pile_ons_43a73d-Illustration-2-dark.svg" | relative_url }}" alt="Pile Ons illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_ad_hominem_pile_ons_43a73d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_ad_hominem_pile_ons_43a73d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,7 +361,7 @@ These questions may generate engagement, but they do not necessarily answer the 
 
 This shift is significant because evidence becomes harder to evaluate once attention moves elsewhere. Readers may remember the controversy surrounding a person while forgetting the actual argument. In extreme cases, the social conflict becomes the story.
 
-Research examining responses to abusive ad hominem attacks in online discussions has found that such attacks frequently derail argumentative exchange and transform discussions into cycles of hostility and counter-hostility. Rather than clarifying disputed claims, they often generate further personal conflict. ResearchGate <span class="citation-chip-wrap"><a class="citation-chip" href="https://dergipark.org.tr/en/pub/huefd/article/631015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dergipark.org.tr">[DergiPark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dergipark.org.tr</span><span class="citation-popover-snippet">DergiParkPatterns of Responses to Abusive Ad Hominem Attacksby Y Demir · Cited by 6 — One example of the aggressive exchanges is the use...</span></span></span>
+Research examining responses to abusive ad hominem attacks in online discussions has found that such attacks frequently derail argumentative exchange and transform discussions into cycles of hostility and counter-hostility. Rather than clarifying disputed claims, they often generate further personal conflict. ResearchGate <span class="citation-chip-wrap"><a class="citation-chip" href="https://dergipark.org.tr/en/pub/huefd/article/631015" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dergipark.org.tr">[DergiPark]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dergipark.org.tr</span><span class="citation-popover-snippet">Patterns of Responses to Abusive Ad Hominem Attacksby Y Demir · Cited by 6 — One example of the aggressive exchanges is the use...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RnMmXTVOjBY" title="Simpsons Logical Fallacies: Ad Hominem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RnMmXTVOjBY" target="_blank" rel="noopener noreferrer">Simpsons Logical Fallacies: Ad Hominem</a></p><p class="youtube-embed-meta">Channel: Colburn Classroom &middot; Views: 318.7K &middot; Uploaded: November 2019 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RnMmXTVOjBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RnMmXTVOjBY">Open on YouTube</a></p></div></div></div>
@@ -374,7 +374,7 @@ A pile-on often does something different: it damages the speaker's reputation.
 
 These are not equivalent outcomes.
 
-A person can be dishonest and still make a true claim. A respected expert can make a mistake. The truth value of a statement and the social standing of the speaker are related questions but not identical ones. Logical evaluation requires keeping them separate whenever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicVan Eemeren and Grootendorst explain ad hominem as a violation of their first rule for &quot;...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — Ad hominem, type of argument or attack that...</span></span></span>
+A person can be dishonest and still make a true claim. A respected expert can make a mistake. The truth value of a statement and the social standing of the speaker are related questions but not identical ones. Logical evaluation requires keeping them separate whenever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicVan Eemeren and Grootendorst explain ad hominem as a violation of their first rule for &quot;...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem &#124; Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — Ad hominem, type of argument or attack that...</span></span></span>
 
 This distinction becomes especially important during fast-moving online controversies. Viral audiences often encounter commentary about the speaker before they encounter the evidence. As a result, judgements about people can become shortcuts for judging claims.
 
@@ -820,194 +820,194 @@ In the ecosystem of viral claims, ad hominem pile-ons are powerful because they 
 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/ad-hominem](https://www.britannica.com/topic/ad-hominem)  
+   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scribbr.com  
    Title: ad hominem fallacy  
-   Link: [https://www.scribbr.com/fallacies/ad-hominem-fallacy/](https://www.scribbr.com/fallacies/ad-hominem-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAd Hominem Fallacy | Definition &amp; Examples21 Apr 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on th...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacy | Definition &amp; Examples21 Apr 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/sum2002/entries/logic-informal/](https://plato.stanford.edu/archives/sum2002/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal LogicVan Eemeren and Grootendorst explain ad hominem as a violation of their first rule for &quot;...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.06613](https://arxiv.org/abs/1802.06613)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivBefore Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</p></details>
    Published: February 19, 2018  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2209.02062](https://arxiv.org/abs/2209.02062)  
+   Link: <a href="https://arxiv.org/abs/2209.02062" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.02062</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Treated in thi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/YAPAHF](https://philpapers.org/rec/YAPAHF)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersAudrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</p></details>
+   Link: <a href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/YAPAHF</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352152031_Patterns_of_Responses_to_Abusive_Ad_Hominem_Attacks_The_Case_of_Facebook_News-commenting](https://www.researchgate.net/publication/352152031_Patterns_of_Responses_to_Abusive_Ad_Hominem_Attacks_The_Case_of_Facebook_News-commenting)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGatePatterns of Responses to Abusive Ad Hominem AttacksJun 5, 2021 — In this paper, I aim to reveal the patterns of responses giv...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/352152031_Patterns_of_Responses_to_Abusive_Ad_Hominem_Attacks_The_Case_of_Facebook_News-commenting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352152031_Patterns_of_Responses_to_Abusive_Ad_Hominem_Attacks_The_Case_of_Facebook_News-commenting</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patterns of Responses to Abusive Ad Hominem AttacksJun 5, 2021 — In this paper, I aim to reveal the patterns of responses giv...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394766187_Beyond_ad_hominem_attacks_A_typology_of_the_discursive_tactics_used_when_objecting_to_news_commentary_on_social_media](https://www.researchgate.net/publication/394766187_Beyond_ad_hominem_attacks_A_typology_of_the_discursive_tactics_used_when_objecting_to_news_commentary_on_social_media)  
+   Link: <a href="https://www.researchgate.net/publication/394766187_Beyond_ad_hominem_attacks_A_typology_of_the_discursive_tactics_used_when_objecting_to_news_commentary_on_social_media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394766187_Beyond_ad_hominem_attacks_A_typology_of_the_discursive_tactics_used_when_objecting_to_news_commentary_on_social_media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TrollBusters: Fighting Online Harassment of Women Journalists. Mediating Misogyny. Springer International Publishing.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse](https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse)  
+   Link: <a href="https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234742765_Use_of_Ad_Hominem_Argument_in_Political_Discourse</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A pamphlet was circulated telling of Andrew Jackson&#x27;s “youthful indiscretions”.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: feminism argumentation  
-   Link: [https://plato.stanford.edu/entries/feminism-argumentation/](https://plato.stanford.edu/entries/feminism-argumentation/)  
+   Link: <a href="https://plato.stanford.edu/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/feminism-argumentation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Argumentationby CE Hundleby · 2021 · Cited by 29 — Some feminists note a general [association](&amp;#123;&amp;#123; &#x27;association/&#x27; | relative_url &amp;#125;&amp;#125;) of arguing with aggression...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesAd hominem – attacking the arguer instead of the argument. · Appeal to authority (argument from authority, argumentum...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: [https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/](https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/)  
+   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Fallacies: Errors in Reasoning9 Dec 2025 — The argumentum ad hominem – Latin for “argument against the man” – is one of the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Ad Hominem Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/ad-hominem/](https://www.scribbr.co.uk/fallacy/ad-hominem/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/ad-hominem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacy | Definition &amp; Examples - Scribbr24 Apr 2023 — Ad hominem fallacy (or ad hominem) is an attempt to discredit someone&#x27;s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thinkingispower.com  
    Title: Thinking Is Power Guide to the Most Common [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: [https://thinkingispower.com/logical-fallacies/](https://thinkingispower.com/logical-fallacies/)  
+   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A journalist. Other names: Personal attack, name-calling. Definition and...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: lawexplores.com  
    Title: Law Explores Ad Hominem Fallacies and Epistemic Credibility  
-   Link: [https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/](https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/)  
+   Link: <a href="https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/" target="_blank" rel="noopener noreferrer nofollow">https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacies and Epistemic Credibility | - Law ExplorerOct 26, 2015 — An ad hominem fallacy is an error in logical reasoning in w...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dergipark.org.tr  
-   Link: [https://dergipark.org.tr/en/pub/huefd/article/631015](https://dergipark.org.tr/en/pub/huefd/article/631015)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DergiParkPatterns of Responses to Abusive Ad Hominem Attacksby Y Demir · Cited by 6 — One example of the aggressive exchanges is the use...</p></details>
+   Link: <a href="https://dergipark.org.tr/en/pub/huefd/article/631015" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/pub/huefd/article/631015</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patterns of Responses to Abusive Ad Hominem Attacksby Y Demir · Cited by 6 — One example of the aggressive exchanges is the use...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticized...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: rpmministries.org  
    Title: ad hominem attacks  
-   Link: [https://rpmministries.org/2025/07/ad-hominem-attacks/](https://rpmministries.org/2025/07/ad-hominem-attacks/)  
+   Link: <a href="https://rpmministries.org/2025/07/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://rpmministries.org/2025/07/ad-hominem-attacks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When Their Arguments Are Weak, People Attack People18 Jul 2025 — They seek to attack a person&#x27;s character, motives, or other attributes i...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sciencelearn.org.nz  
    Title: ad hominem attacks  
-   Link: [https://www.sciencelearn.org.nz/images/ad-hominem-attacks](https://www.sciencelearn.org.nz/images/ad-hominem-attacks)  
+   Link: <a href="https://www.sciencelearn.org.nz/images/ad-hominem-attacks" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencelearn.org.nz/images/ad-hominem-attacks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jun 2025 — Ad hominem attacks are when the person, group, organisation or business making an argument is attacked rather than their ar...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: quillbot.com  
    Title: ad hominem fallacy  
-   Link: [https://quillbot.com/blog/reasoning/ad-hominem-fallacy/](https://quillbot.com/blog/reasoning/ad-hominem-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/ad-hominem-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Definition26 Jun 2024 — Ad hominem is the fallacy of diverting attention from an argument by inappropriately criticizing the p...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/ad-hominem-fallacy/](https://effectiviology.com/ad-hominem-fallacy/)  
+   Link: <a href="https://effectiviology.com/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/ad-hominem-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem: When People Use Personal Attacks in ArgumentsAn ad hominem argument is a personal attack against the source of an argument, r...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1570868308000384](https://www.sciencedirect.com/science/article/pii/S1570868308000384)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1570868308000384" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1570868308000384</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Formalization of the ad hominem argumentation schemeIf the child is absolutely rejecting the parent&#x27;s argument as worthless, that would b...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: dare.uva.nl  
-   Link: [https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2](https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2)  
+   Link: <a href="https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2" target="_blank" rel="noopener noreferrer nofollow">https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UvA DAREThe disguised &#x27;abusive ad hominem&#x27; empirically investigatedIn this paper it is argued that this paradox can be explained by analy...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/ad-hominem](https://yourlogicalfallacyis.com/ad-hominem)  
+   Link: <a href="https://yourlogicalfallacyis.com/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/ad-hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is ad hominemAd hominem attacks can take the form of overtly attacking somebody, or more subtly casting doubt on the...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: elilyons.medium.com  
    Title: the cases when ad hominem arguments are not a fallacy c49e49316710  
-   Link: [https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710](https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710)  
+   Link: <a href="https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710" target="_blank" rel="noopener noreferrer nofollow">https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cases When Ad Hominem Arguments are Not a FallacyAd hominem arguments work when they represent a collection of events so complex, that al...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: stud.epsilon.slu.se  
-   Link: [https://stud.epsilon.slu.se/21685/1/teng-y-h-20250911.pdf](https://stud.epsilon.slu.se/21685/1/teng-y-h-20250911.pdf)  
+   Link: <a href="https://stud.epsilon.slu.se/21685/1/teng-y-h-20250911.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stud.epsilon.slu.se/21685/1/teng-y-h-20250911.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a Typology of Ad Hominem Arguments and...by YH Teng · 2025 — The rise of CMC platforms such as social media, online forums, messaging...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: fnl.mit.edu  
    Title: are ad hominem attacks legitimate academic freedom  
-   Link: [https://fnl.mit.edu/september-october-2025/are-ad-hominem-attacks-legitimate-academic-freedom/](https://fnl.mit.edu/september-october-2025/are-ad-hominem-attacks-legitimate-academic-freedom/)  
+   Link: <a href="https://fnl.mit.edu/september-october-2025/are-ad-hominem-attacks-legitimate-academic-freedom/" target="_blank" rel="noopener noreferrer nofollow">https://fnl.mit.edu/september-october-2025/are-ad-hominem-attacks-legitimate-academic-freedom/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Attacks Legitimate Academic Freedom?*For a professor to mount abusive ad hominem attacks on more junior members of the Institu...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40833941/](https://pubmed.ncbi.nlm.nih.gov/40833941/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40833941/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40833941/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ad hominem attacks: A typology of the discursive...by AL Shea · 2025 · Cited by 3 — In this paper, we explore the prevalence of ad homin...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: humanities.mcmaster.ca  
-   Link: [https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm](https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm)  
+   Link: <a href="https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The abusive ad hominem is pure abuse; it points...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: daily-ink.davidtruss.com  
    Title: ad hominem attacks on social media  
-   Link: [https://daily-ink.davidtruss.com/ad-hominem-attacks-on-social-media/](https://daily-ink.davidtruss.com/ad-hominem-attacks-on-social-media/)  
+   Link: <a href="https://daily-ink.davidtruss.com/ad-hominem-attacks-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://daily-ink.davidtruss.com/ad-hominem-attacks-on-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem Attacks on Social Media5 Feb 2020 — Ad hominem attacks are great for convincing people who are already agreeable, while angering...</p></details>

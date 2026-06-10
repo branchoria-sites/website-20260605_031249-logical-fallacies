@@ -509,7 +509,7 @@ The useful question is not “Is this advert emotional?” [Emotion]({{ 'emotion
 
 ## How weak claims become persuasive
 
-Advertising often works by compressing an argument into a cue: a star rating, a lab coat, a queue outside a shop, a smiling influencer, a “[clinically proven]({{ 'clinical-claims/' | relative_url }})” phrase, or a claim that “everyone is switching”. Each cue can be relevant in the right setting, but each can also become fallacy-like when it replaces evidence rather than pointing to it.
+Advertising often works by compressing an argument into a cue: a star rating, a lab coat, a queue outside a shop, a smiling influencer, a “clinically proven” phrase, or a claim that “everyone is switching”. Each cue can be relevant in the right setting, but each can also become fallacy-like when it replaces evidence rather than pointing to it.
 
 A fallacy in advertising is therefore usually an informal fallacy: its flaw depends on [context]({{ 'context/' | relative_url }}), wording, implication and audience interpretation. A statement such as “our most popular formula” may be harmless if it simply reports sales. It becomes misleading if the advert encourages consumers to infer that popularity proves superiority, safety or suitability without evidence. Likewise, an expert endorsement can help when the expert is genuinely qualified, independent and speaking within their field. It becomes weak reasoning when authority is borrowed for a claim the endorser cannot substantiate.
 
@@ -519,7 +519,7 @@ This is why advertising law and fallacy analysis overlap but are not identical. 
 
 Popularity is one of the most common advertising shortcuts because it feels like public proof. A product with thousands of reviews, a long queue, a “bestseller” badge or a line such as “the nation’s favourite” invites the consumer to think: if many people choose it, it must be good. That inference can be reasonable when popularity reflects repeated, informed satisfaction. It becomes a [bandwagon]({{ 'bandwagon/' | relative_url }})-style fallacy when the advert treats popularity as if it proves quality, value, safety or truth.
 
-Social advertising research shows why this cue is powerful. In large field experiments, ads that displayed peer affiliations with a brand increased responses, and influence effects were stronger when the social cue came from stronger social ties. The cue did not need to be a detailed recommendation; even a minimal sign that a peer was connected with the advertised entity could affect behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Social Influence in Social Advertising: Evidence from Field Experiments</span><span class="citation-popover-snippet">arXivSocial Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span>
+Social advertising research shows why this cue is powerful. In large field experiments, ads that displayed peer affiliations with a brand increased responses, and influence effects were stronger when the social cue came from stronger social ties. The cue did not need to be a detailed recommendation; even a minimal sign that a peer was connected with the advertised entity could affect behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Social Influence in Social Advertising: Evidence from Field Experiments</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span>
 
 The risk is that popularity information is easy to manipulate or over-read. “Trending” may mean heavily promoted. A five-star average may hide a small sample, cherry-picked reviews, suppressed negative feedback or incentivised ratings. A “most bought” label may say more about distribution, discounting or platform ranking than product merit. In logical terms, the advert is asking the consumer to move from “many people appeared to choose this” to “this is the better choice”. That conclusion needs more than popularity.
 
@@ -545,11 +545,11 @@ Authority cues persuade by transferring trust from a person, institution or symb
 
 Celebrity endorsement is a clear example. A performer, athlete or influencer may be admired, attractive, familiar or trusted, but that does not make them qualified to judge a skincare ingredient, financial product, health device or environmental claim. A meta-analysis of celebrity endorsements found that such endorsements can have persuasive effects, but their force depends on factors such as fit between the celebrity and the promoted object rather than mere fame alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate The effectiveness of celebrity endorsements: a meta-analysis</span><span class="citation-popover-snippet">Research Gate The effectiveness of celebrity endorsements: a meta-analysis</span></span></span> More recent influencer research similarly finds that perceived credibility and influencer type affect persuasion, with [social media]({{ 'social-media/' | relative_url }}) influencers often outperforming brand-only advertising. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051241269269" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The logical risk is an appeal to inappropriate authority. The advert encourages the audience to treat the endorser’s status as evidence for the product claim. That may be weak for three reasons. First, the endorser may not have relevant expertise. Second, the endorser may be paid or otherwise connected to the brand. Third, even a genuine [personal experience]({{ 'experience/' | relative_url }}) does not prove typical results for other consumers.
+The logical risk is an appeal to inappropriate authority. The advert encourages the audience to treat the endorser’s status as evidence for the product claim. That may be weak for three reasons. First, the endorser may not have relevant expertise. Second, the endorser may be paid or otherwise connected to the brand. Third, even a genuine personal [experience]({{ 'experience/' | relative_url }}) does not prove typical results for other consumers.
 
 Regulators focus heavily on this problem because hidden payment or incentive changes how an audience interprets praise. The FTC’s endorsement guidance says endorsements must be truthful and not misleading, and its FAQ stresses that disclosure depends on context, including whether a material connection would affect how consumers evaluate the endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span> The US electronic Code of Federal Regulations also states that the Endorsement Guides address how endorsement and testimonial practices relate to Section 5 of the FTC Act. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-UK rules take a similar approach. The ASA’s advice says testimonials and endorsements must be genuine, relate to the advertised product and be supported by documentary evidence; its substantiation guidance adds that testimonials alone are unlikely to be enough to prove objective claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/substantiation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Open source on asa.org.uk.</span></span></span> That matters because a consumer story can be persuasive without being representative.
+UK rules take a similar approach. The ASA’s advice says [testimonials]({{ 'testimonials/' | relative_url }}) and endorsements must be genuine, relate to the advertised product and be supported by documentary evidence; its substantiation guidance adds that testimonials alone are unlikely to be enough to prove objective claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/substantiation.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Open source on asa.org.uk.</span></span></span> That matters because a consumer story can be persuasive without being representative.
 
 A useful warning sign is a mismatch between the authority and the claim. A dentist discussing fluoride toothpaste is different from an actor praising a supplement. A mechanic explaining a tyre test is different from a lifestyle influencer saying a car “feels safer”. A university logo, laboratory image or “doctor recommended” line should prompt the reader to ask: which expert, what expertise, what test, what result, and who paid?
 
@@ -576,7 +576,7 @@ Common missing-evidence patterns include:
 
 Health and beauty advertising illustrates the problem especially clearly because consumers are often asked to infer efficacy from technical language. The FTC’s Health Products Compliance Guidance says claims about health-related products should be truthful, not misleading and supported by science; it also notes that the same principles apply broadly to health-related marketing beyond dietary supplements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</span></span></span> A study reported in Time found that, in a sample of 289 cosmetics adverts, only 18% of claims were rated generally trustworthy, with many claims judged vague, omissive or false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/3973031/cosmetic-ads/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">That Makeup Ad Is Probably Lying to You</span><span class="citation-popover-snippet">That Makeup Ad Is Probably Lying to You</span></span></span>
 
-Puffery sits at the edge of this issue. Advertising law has often tolerated vague, subjective praise such as “the ultimate experience” because it is thought not to be the kind of claim consumers can verify or rely on literally. But research on exaggerated [advertising claims]({{ 'ad-claims/' | relative_url }}) challenges the simple assumption that consumers never take puffery seriously. One study on processing exaggerated advertising claims notes that regulators often allow puffery because it is considered vague, fanciful or not meant to be treated as factual, while researchers continue to examine how consumers actually process such claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Puffery sits at the edge of this issue. Advertising law has often tolerated vague, subjective praise such as “the ultimate experience” because it is thought not to be the kind of claim consumers can verify or rely on literally. But research on exaggerated advertising claims challenges the simple assumption that consumers never take puffery seriously. One study on processing exaggerated advertising claims notes that regulators often allow puffery because it is considered vague, fanciful or not meant to be treated as factual, while researchers continue to examine how consumers actually process such claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fallacy risk is that vague praise can act like evidence without becoming evidence. “Premium”, “natural”, “trusted”, “smart”, “clean”, “professional-grade” and “scientifically inspired” may all be meaningful in some contexts, but each needs a concrete definition before it can support a consumer decision.
 
@@ -586,9 +586,9 @@ The fallacy risk is that vague praise can act like evidence without becoming evi
 
 Social media makes advertising fallacies harder to spot because persuasion often arrives as ordinary content. A product recommendation may appear inside a routine, tutorial, unboxing, review, travel diary or personal story. The ad-like claim is softened by intimacy: the audience feels that a person they follow is sharing a discovery rather than delivering a commercial message.
 
-Disclosure is supposed to restore context, but research suggests it often fails in practice. A large empirical study of affiliate marketing disclosures on YouTube and Pinterest examined more than 500,000 YouTube videos and 2.1 million Pinterest pins, then tested user understanding with 1,791 participants. It found that only about 10% of affiliate marketing content on both platforms contained any disclosure, and that users often failed to understand shorter, non-explanatory disclosures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Social Influence in Social Advertising: Evidence from Field Experiments</span><span class="citation-popover-snippet">arXivSocial Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span>
+Disclosure is supposed to restore context, but research suggests it often fails in practice. A large empirical study of affiliate marketing disclosures on YouTube and Pinterest examined more than 500,000 YouTube videos and 2.1 million Pinterest pins, then tested user understanding with 1,791 participants. It found that only about 10% of affiliate marketing content on both platforms contained any disclosure, and that users often failed to understand shorter, non-explanatory disclosures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Social Influence in Social Advertising: Evidence from Field Experiments</span><span class="citation-popover-snippet">Social Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</span><span class="citation-popover-meta">Published: June 19, 2012</span></span></span>
 
-This matters for logical fallacies because hidden sponsorship strengthens weak appeals. A popularity cue looks more organic when the audience does not realise it has been engineered. An authority cue looks more sincere when the commercial relationship is invisible. A testimonial looks more independent when incentives are not disclosed. The missing premise is: “this person may have a financial reason to present the product favourably.”
+This matters for [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) because hidden sponsorship strengthens weak appeals. A popularity cue looks more organic when the audience does not realise it has been engineered. An authority cue looks more sincere when the commercial relationship is invisible. A testimonial looks more independent when incentives are not disclosed. The missing premise is: “this person may have a financial reason to present the product favourably.”
 
 The problem is not that influencers can never make good recommendations. Many can, especially when they have relevant experience, test products carefully and disclose relationships clearly. The problem is that the platform format blurs three roles that used to be easier to separate: friend, reviewer and advertiser. Once those roles blend, consumers need to ask not only “Do I trust this person?” but also “What is this content doing commercially?”
 
@@ -623,7 +623,7 @@ This approach avoids cynicism. Some adverts are well-supported. Some endorsement
 
 Advertising fallacies matter because they shape decisions under uncertainty. Consumers cannot personally test every product, audit every claim or inspect every supply chain. They rely on signals. Advertising becomes risky when those signals imitate evidence while withholding the conditions that would make them reliable.
 
-The strongest consumer protection therefore comes from both sides: better rules for advertisers and better questions from audiences. Regulators can require substantiation, disclosure and honest presentation of reviews. The CMA’s 2025 fake-review guidance, the ASA’s rules on substantiation and testimonials, and the FTC’s endorsement and advertising substantiation guidance all reflect the same basic principle: persuasion should not depend on consumers mistaking weak cues for strong evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Online consumer reviews</span><span class="citation-popover-snippet">Online consumer reviews</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/type/non_broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">ASA03 Misleading advertisingSubjective claims must not mislead the consumer; marketing communications must not mislead by implying that e...</span></span></span>
+The strongest consumer protection therefore comes from both sides: better rules for advertisers and better questions from audiences. Regulators can require substantiation, disclosure and honest presentation of reviews. The CMA’s 2025 fake-review guidance, the ASA’s rules on substantiation and testimonials, and the FTC’s endorsement and advertising substantiation guidance all reflect the same basic principle: persuasion should not depend on consumers mistaking weak cues for strong evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Online consumer reviews</span><span class="citation-popover-snippet">Online consumer reviews</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/type/non_broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">03 Misleading advertisingSubjective claims must not mislead the consumer; marketing communications must not mislead by implying that e...</span></span></span>
 
 For the reader, the key habit is to notice the gap between a cue and a claim. A queue is not a test. A star is not a study. A celebrity is not a specialist. A testimonial is not a representative sample. A scientific phrase is not scientific evidence. Once that gap is visible, many advertising fallacies lose their force: the advert may still be appealing, but it no longer gets to borrow certainty it has not earned.
 
@@ -1052,188 +1052,188 @@ For the reader, the key habit is to notice the gap between a cue and a claim. A 
 
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/topics/truth-advertising](https://www.ftc.gov/news-events/topics/truth-advertising)  
+   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionTruth In AdvertisingFederal law says that ad must be truthful, not misleading, and, when appropriate, backed by s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ftc.gov  
    Title: The FTC looks at what the ad does not say  
-   Link: [https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business](https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertising FAQ&#x27;s: A Guide for Small BusinessUnder the law, advertisers must have proof to back up express and im...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation](https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation)  
+   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Policy Statement Regarding Advertising SubstantiationAdvertisers substantiate express and implied claims, how...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Social Influence in Social Advertising: Evidence from Field Experiments  
-   Link: [https://arxiv.org/abs/1206.4327](https://arxiv.org/abs/1206.4327)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSocial Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</p></details>
+   Link: <a href="https://arxiv.org/abs/1206.4327" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1206.4327</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence in Social Advertising: Evidence from Field ExperimentsJune 19, 2012...</p></details>
    Published: June 19, 2012  
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Online consumer reviews  
-   Link: [https://www.gov.uk/cma-cases/online-consumer-reviews](https://www.gov.uk/cma-cases/online-consumer-reviews)  
+   Link: <a href="https://www.gov.uk/cma-cases/online-consumer-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/online-consumer-reviews</a>  
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate The effectiveness of celebrity endorsements: a meta-analysis  
-   Link: [https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis](https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis)  
+   Link: <a href="https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309089731_The_effectiveness_of_celebrity_endorsements_a_meta-analysis</a>  
 
 7. <a id="endnote-7"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements](https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements)  
+   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
 
 9. <a id="endnote-9"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255)  
+   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
 
 10. <a id="endnote-10"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
 
 11. <a id="endnote-11"></a>
    Source: time.com  
    Title: That Makeup Ad Is Probably Lying to You  
-   Link: [https://time.com/3973031/cosmetic-ads/](https://time.com/3973031/cosmetic-ads/)  
+   Link: <a href="https://time.com/3973031/cosmetic-ads/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3973031/cosmetic-ads/</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257](https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0148296306000257</a>  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 393842851 The role of bandwagon effect and FoMo in viral marketing  
-   Link: [https://www.researchgate.net/publication/393842851_The_role_of_bandwagon_effect_and_FoMo_in_viral_marketing](https://www.researchgate.net/publication/393842851_The_role_of_bandwagon_effect_and_FoMo_in_viral_marketing)  
+   Link: <a href="https://www.researchgate.net/publication/393842851_The_role_of_bandwagon_effect_and_FoMo_in_viral_marketing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393842851_The_role_of_bandwagon_effect_and_FoMo_in_viral_marketing</a>  
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/280172517_When_Do_Consumers_Believe_Puffery_Claims_The_Moderating_Role_of_Brand_Familiarity_and_Repetition](https://www.researchgate.net/publication/280172517_When_Do_Consumers_Believe_Puffery_Claims_The_Moderating_Role_of_Brand_Familiarity_and_Repetition)  
+   Link: <a href="https://www.researchgate.net/publication/280172517_When_Do_Consumers_Believe_Puffery_Claims_The_Moderating_Role_of_Brand_Familiarity_and_Repetition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280172517_When_Do_Consumers_Believe_Puffery_Claims_The_Moderating_Role_of_Brand_Familiarity_and_Repetition</a>  
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/268284164_Aggregate_Bandwagon_Effects_of_Popularity_Information_on_Audiences%27_Movie_Selections](https://www.researchgate.net/publication/268284164_Aggregate_Bandwagon_Effects_of_Popularity_Information_on_Audiences%27_Movie_Selections)  
+   Link: <a href="https://www.researchgate.net/publication/268284164_Aggregate_Bandwagon_Effects_of_Popularity_Information_on_Audiences%27_Movie_Selections" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/268284164_Aggregate_Bandwagon_Effects_of_Popularity_Information_on_Audiences%27_Movie_Selections</a>  
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666784325000282](https://www.sciencedirect.com/science/article/pii/S2666784325000282)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666784325000282" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666784325000282</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844023043542](https://www.sciencedirect.com/science/article/pii/S2405844023043542)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844023043542" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844023043542</a>  
 
 19. <a id="endnote-19"></a>
    Source: accc.gov.au  
-   Link: [https://www.accc.gov.au/business/advertising-and-promotions/online-reviews-for-product-and-services](https://www.accc.gov.au/business/advertising-and-promotions/online-reviews-for-product-and-services)  
+   Link: <a href="https://www.accc.gov.au/business/advertising-and-promotions/online-reviews-for-product-and-services" target="_blank" rel="noopener noreferrer nofollow">https://www.accc.gov.au/business/advertising-and-promotions/online-reviews-for-product-and-services</a>  
 
 20. <a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf](https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TSLnCtbUcQk](https://www.youtube.com/watch?v=TSLnCtbUcQk)  
+   Link: <a href="https://www.youtube.com/watch?v=TSLnCtbUcQk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TSLnCtbUcQk</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: 5 Fallacies in Ads  
-   Link: [http://www.youtube.com/watch?v=ZNWCDh1XRN0](http://www.youtube.com/watch?v=ZNWCDh1XRN0)  
+   Link: <a href="http://www.youtube.com/watch?v=ZNWCDh1XRN0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=ZNWCDh1XRN0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies in Advertisement YouTube...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Logical Fallacies in Advertisement You Tube  
-   Link: [http://www.youtube.com/watch?v=DD3BQwY_qCs](http://www.youtube.com/watch?v=DD3BQwY_qCs)  
+   Link: <a href="http://www.youtube.com/watch?v=DD3BQwY_qCs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DD3BQwY_qCs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence &amp; Persuasion: Crash Course Media Literacy #6...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Influence & Persuasion: Crash Course Media Literacy #6  
-   Link: [http://www.youtube.com/watch?v=VXhLmkrN0-I](http://www.youtube.com/watch?v=VXhLmkrN0-I)  
+   Link: <a href="http://www.youtube.com/watch?v=VXhLmkrN0-I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=VXhLmkrN0-I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethos, Pathos, and Logos in Persuasion/Advertising/Writing...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Ethos, Pathos, and Logos in Persuasion/Advertising/Writing  
-   Link: [http://www.youtube.com/watch?v=rFcCFEeOEeg](http://www.youtube.com/watch?v=rFcCFEeOEeg)  
+   Link: <a href="http://www.youtube.com/watch?v=rFcCFEeOEeg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=rFcCFEeOEeg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty generalization - Logical Fallacy in advertisement...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Hasty generalization  
-   Link: [http://www.youtube.com/watch?v=WfuHuFx31rE](http://www.youtube.com/watch?v=WfuHuFx31rE)  
+   Link: <a href="http://www.youtube.com/watch?v=WfuHuFx31rE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WfuHuFx31rE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallacies in advertising Hasty generalization - Logical Fallacy in advertisement Radical Apathy...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/20563051241269269](https://journals.sagepub.com/doi/10.1177/20563051241269269)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/20563051241269269" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/20563051241269269</a>  
 
 28. <a id="endnote-28"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/advice-online/substantiation.html](https://www.asa.org.uk/advice-online/substantiation.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/substantiation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/substantiation.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: asa.org.uk  
    Title: testimonials and endorsements  
-   Link: [https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html](https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/type/non_broadcast/code_section/03.html](https://www.asa.org.uk/type/non_broadcast/code_section/03.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA03 Misleading advertisingSubjective claims must not mislead the consumer; marketing communications must not mislead by implying that e...</p></details>
+   Link: <a href="https://www.asa.org.uk/type/non_broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/type/non_broadcast/code_section/03.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>03 Misleading advertisingSubjective claims must not mislead the consumer; marketing communications must not mislead by implying that e...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: [https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising](https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising)  
+   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
 
 33. <a id="endnote-33"></a>
    Source: clutch.co  
-   Link: [https://clutch.co/resources/logical-fallacies-advertising](https://clutch.co/resources/logical-fallacies-advertising)  
+   Link: <a href="https://clutch.co/resources/logical-fallacies-advertising" target="_blank" rel="noopener noreferrer nofollow">https://clutch.co/resources/logical-fallacies-advertising</a>  
 
 34. <a id="endnote-34"></a>
    Source: academyofphysicalmedicine.co.uk  
-   Link: [https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf](https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf)  
+   Link: <a href="https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/type/broadcast/code_section/03.html](https://www.asa.org.uk/type/broadcast/code_section/03.html)  
+   Link: <a href="https://www.asa.org.uk/type/broadcast/code_section/03.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/type/broadcast/code_section/03.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: publisher-collective.com  
-   Link: [https://www.publisher-collective.com/blog/ads-with-fallacies](https://www.publisher-collective.com/blog/ads-with-fallacies)  
+   Link: <a href="https://www.publisher-collective.com/blog/ads-with-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.publisher-collective.com/blog/ads-with-fallacies</a>  
 
 37. <a id="endnote-37"></a>
    Source: procopywriters.co.uk  
-   Link: [https://www.procopywriters.co.uk/guidance/advertising-standards/](https://www.procopywriters.co.uk/guidance/advertising-standards/)  
+   Link: <a href="https://www.procopywriters.co.uk/guidance/advertising-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.procopywriters.co.uk/guidance/advertising-standards/</a>  
 
 38. <a id="endnote-38"></a>
    Source: kelleydrye.com  
-   Link: [https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards](https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards)  
+   Link: <a href="https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/advertising-and-privacy-law/advertising-and-marketing-standards</a>  
 
 39. <a id="endnote-39"></a>
    Source: bundeskartellamt.de  
-   Link: [https://www.bundeskartellamt.de/SharedDocs/Publikation/EN/Schriftenreihe_Digitales_VIII.pdf?__blob=publicationFile&v=2](https://www.bundeskartellamt.de/SharedDocs/Publikation/EN/Schriftenreihe_Digitales_VIII.pdf?__blob=publicationFile&v=2)  
+   Link: <a href="https://www.bundeskartellamt.de/SharedDocs/Publikation/EN/Schriftenreihe_Digitales_VIII.pdf?__blob=publicationFile&amp;v=2" target="_blank" rel="noopener noreferrer nofollow">https://www.bundeskartellamt.de/SharedDocs/Publikation/EN/Schriftenreihe_Digitales_VIII.pdf?__blob=publicationFile&amp;v=2</a>  
 
 40. <a id="endnote-40"></a>
    Source: ftcdefenselawyer.com  
-   Link: [https://ftcdefenselawyer.com/advertising-claim-substantiation/](https://ftcdefenselawyer.com/advertising-claim-substantiation/)  
+   Link: <a href="https://ftcdefenselawyer.com/advertising-claim-substantiation/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation/</a>  

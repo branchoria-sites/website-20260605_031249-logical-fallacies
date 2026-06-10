@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_
 
 ## Introduction
 
-A conditional statement such as “if P, then Q” makes a specific promise: whenever P is true, Q will also be true. What it does **not** automatically promise is the reverse. The reasoning pattern “Q is true, therefore P is true” commits the logical fallacy known as **affirming the consequent**. This mistake sits at the heart of many examples of flawed reasoning, including the familiar wet-pavement argument: “If it rains, the pavement gets wet. The pavement is wet. Therefore it rained.” The conclusion may be correct, but it does not logically follow from the premises because there may be other ways for the pavement to become wet. In [formal logic]({{ 'formal-logic/' | relative_url }}), this is a recognised invalid argument form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent | logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+A conditional statement such as “if P, then Q” makes a specific promise: whenever P is true, Q will also be true. What it does **not** automatically promise is the reverse. The reasoning pattern “Q is true, therefore P is true” commits the logical fallacy known as **affirming the consequent**. This mistake sits at the heart of many examples of flawed reasoning, including the familiar wet-pavement argument: “If it rains, the pavement gets wet. The pavement is wet. Therefore it rained.” The conclusion may be correct, but it does not logically follow from the premises because there may be other ways for the pavement to become wet. In [formal logic]({{ 'formal-logic/' | relative_url }}), this is a recognised invalid argument form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-1-dark.svg" | relative_url }}" alt="One Way Logic illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -303,7 +303,7 @@ The original conditional and its reversal are different statements.
 Compare:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8JYN1oOvkM" title="Logic 101 (#48): Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer">Logic 101 (#48): Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: William Spaniel &middot; Views: 12.0K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8JYN1oOvkM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OW2-CkZTUlQ" title="Affirming the consequent &amp; Denying the antecedent [#3.1 How to argue]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OW2-CkZTUlQ" target="_blank" rel="noopener noreferrer">Affirming the consequent &amp; Denying the antecedent [#3.1 How to argue]</a></p><p class="youtube-embed-meta">Channel: Komei&#x27;s Channel &middot; Views: 3.4K &middot; Uploaded: June 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OW2-CkZTUlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OW2-CkZTUlQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -618,10 +618,10 @@ The mistake occurs when someone starts with the first statement and then reasons
 * Q.
 * Therefore P.
 
-This pattern is formally invalid because the truth of Q does not eliminate alternative explanations for Q. Logic authorities identify this structure as the fallacy of affirming the consequent, sometimes called the **converse error** because it incorrectly treats the converse of a conditional as established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent | logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+This pattern is formally invalid because the truth of Q does not eliminate alternative explanations for Q. Logic authorities identify this structure as the fallacy of affirming the consequent, sometimes called the **converse error** because it incorrectly treats the converse of a conditional as established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OW2-CkZTUlQ" title="Affirming the consequent &amp; Denying the antecedent [#3.1 How to argue]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OW2-CkZTUlQ" target="_blank" rel="noopener noreferrer">Affirming the consequent &amp; Denying the antecedent [#3.1 How to argue]</a></p><p class="youtube-embed-meta">Channel: Komei&#x27;s Channel &middot; Views: 3.4K &middot; Uploaded: June 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OW2-CkZTUlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OW2-CkZTUlQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8JYN1oOvkM" title="Logic 101 (#48): Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer">Logic 101 (#48): Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: William Spaniel &middot; Views: 12.0K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8JYN1oOvkM">Open on YouTube</a></p></div></div></div>
 
 ## Why the Outcome Can Be True Without the Original Cause
 
@@ -682,10 +682,10 @@ Useful checks include:
 * **Try reversing the sentence explicitly.** Does “If Q, then P” actually follow from what was stated?
 * **Search for counterexamples.** Can you imagine a case where Q is true but P is false?
 
-If even one plausible counterexample exists, the move from Q to P has not been established. This reflects the basic requirement of deductive validity: the conclusion must follow necessarily from the premises, not merely seem plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent | logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span>
+If even one plausible counterexample exists, the move from Q to P has not been established. This reflects the basic requirement of deductive validity: the conclusion must follow necessarily from the premises, not merely seem plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_WDDVz-EWFw" title="Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer">Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 11.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_WDDVz-EWFw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_yflf6S2Cy8" title="17. Affirming the Consequent and Denying the Antecedent | Syllogistic Logic: Logic Made Accessible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_yflf6S2Cy8" target="_blank" rel="noopener noreferrer">17. Affirming the Consequent and Denying the Antecedent | Syllogistic Logic: Logic Made Accessible</a></p><p class="youtube-embed-meta">Channel: Logic Made Accessible &middot; Views: 1.5K &middot; Uploaded: July 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_yflf6S2Cy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_yflf6S2Cy8">Open on YouTube</a></p></div></div></div>
 
 ## Why the Error Feels So Persuasive
 
@@ -697,208 +697,208 @@ However, increased likelihood is not the same as logical proof. Philosophers and
 
 The distinction between “if P then Q” and “Q therefore P” is simple but fundamental. A conditional statement guarantees that P leads to Q. It does not automatically guarantee that Q can only come from P. When the outcome is treated as proof of the original condition, the reasoning has reversed the direction of the implication without justification.
 
-Remembering that conditional statements are normally one-way claims helps prevent a common logical mistake: confusing a possible cause with the only possible cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent | logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Formal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Formal fallacy</span><span class="citation-popover-snippet">Formal fallacy... formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, &quot;non seq...</span></span></span>
+Remembering that conditional statements are normally one-way claims helps prevent a common logical mistake: confusing a possible cause with the only possible cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Formal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Formal fallacy</span><span class="citation-popover-snippet">Formal fallacy... formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, &quot;non seq...</span></span></span>
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/affirmation-of-the-consequent](https://www.britannica.com/topic/affirmation-of-the-consequent)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAffirmation of the consequent | logicIn applied logic: [Formal fallacies](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) …B; not-A; therefore, not-B”) and affirmin...</p></details>
+   Link: <a href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/affirmation-of-the-consequent</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAffirmation of the consequent | logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: [https://en.wikipedia.org/wiki/Affirming_the_consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannicaformal and informal fallacy  
-   Link: [https://www.britannica.com/summary/fallacy](https://www.britannica.com/summary/fallacy)  
+   Link: <a href="https://www.britannica.com/summary/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/summary/fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>summaryFormal fallacies are types of deductive argument that instantiate an invalid inference pattern (see deduction; validity); an examp...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy The Logic of Conditionals  
-   Link: [https://plato.stanford.edu/entries/logic-conditionals/](https://plato.stanford.edu/entries/logic-conditionals/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-conditionals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-conditionals/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We review the problems of a two-valued analysis and examine logics based on...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/sitemap/a/137](https://www.britannica.com/sitemap/a/137)  
+   Link: <a href="https://www.britannica.com/sitemap/a/137" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/sitemap/a/137</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAlphabetical Browseapplied logic: Formal fallacies: Among the best known are denying the antecedent (“If A, then B...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Logical Consequence  
-   Link: [https://plato.stanford.edu/entries/logical-consequence/](https://plato.stanford.edu/entries/logical-consequence/)  
+   Link: <a href="https://plato.stanford.edu/entries/logical-consequence/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logical-consequence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyLogical Consequence - Stanford Encyclopedia of Philosophyby J Beall · 2005 · Cited by 93 — A good argu...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaFallacy | Logic, Definition &amp; ExamplesFeb 13, 2026 — Fallacy, in logic, erroneous reasoning that has the appearanc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Human Conditional Reasoning in Answer Set Programming  
-   Link: [https://arxiv.org/abs/2311.04412](https://arxiv.org/abs/2311.04412)  
+   Link: <a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 96 — They include f...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of secundum...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: logic classical  
-   Link: [https://plato.stanford.edu/entries/logic-classical/](https://plato.stanford.edu/entries/logic-classical/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-classical/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-classical/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby S Shapiro · 2000 · Cited by 195 — A logic consists of a formal or informal language togethe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/conditionals/](https://plato.stanford.edu/entries/conditionals/)  
+   Link: <a href="https://plato.stanford.edu/entries/conditionals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/conditionals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby D Edgington · 2001 · Cited by 148 — A theory of conditionals aims to give an account of the conditi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/thought/Expert-thinking-and-novice-thinking](https://www.britannica.com/topic/thought/Expert-thinking-and-novice-thinking)  
+   Link: <a href="https://www.britannica.com/topic/thought/Expert-thinking-and-novice-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/thought/Expert-thinking-and-novice-thinking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expert, Novice, ThinkingApr 2, 2026 — In one such fallacy, “affirming the consequent,” the categorical proposition affirms the consequent...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/thought/Algorithms-and-heuristics](https://www.britannica.com/topic/thought/Algorithms-and-heuristics)  
+   Link: <a href="https://www.britannica.com/topic/thought/Algorithms-and-heuristics" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/thought/Algorithms-and-heuristics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithms, Heuristics, Problem-SolvingApr 2, 2026 — In one such fallacy, “affirming the consequent,” the categorical proposition affirms...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy/Verbal-fallacies](https://www.britannica.com/topic/fallacy/Verbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;), Straw Man5 days ago — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved throu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/logic-of-questions](https://www.britannica.com/topic/logic-of-questions)  
+   Link: <a href="https://www.britannica.com/topic/logic-of-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/logic-of-questions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the following examples: Explore...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/affirming-the-consequent](https://www.britannica.com/topic/affirming-the-consequent)  
+   Link: <a href="https://www.britannica.com/topic/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/affirming-the-consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the consequent | logicIn thought: Deduction. In one such fallacy, “affirming the consequent,” the categorical proposition affir...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: britannica.com  
    Title: denial of the antecedent  
-   Link: [https://www.britannica.com/topic/denial-of-the-antecedent](https://www.britannica.com/topic/denial-of-the-antecedent)  
+   Link: <a href="https://www.britannica.com/topic/denial-of-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/denial-of-the-antecedent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>logicFeb 13, 2026 — Among the best known are denying the antecedent (“If A, then B; not-A; therefore, not-B”) and affirming the consequen...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/rationality](https://www.britannica.com/topic/rationality)  
+   Link: <a href="https://www.britannica.com/topic/rationality" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/rationality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; FactsMar 6, 2026 — A common departure from formal logic is the fallacy of affirming the consequent, or leaping from “p impli...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/applied-logic](https://www.britannica.com/topic/applied-logic)  
+   Link: <a href="https://www.britannica.com/topic/applied-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applied logic | Fallacies, Varieties, &amp; FactsAmong the best known are denying the antecedent (“If A, then B; not-A; therefore, not-B”) an...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: britannica.com  
    Title: Ritual | Religious, Cultural, & Social Practices  
-   Link: [https://www.britannica.com/topic/ritual](https://www.britannica.com/topic/ritual)  
+   Link: <a href="https://www.britannica.com/topic/ritual" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ritual</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>logical fallacy of affirming the consequent. To assert that the need is satisfied “if and only if” ritual is present is a tautology and a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Formal fallacy  
-   Link: [https://en.wikipedia.org/wiki/Formal_fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Formal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Formal_fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Formal fallacy... formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, &quot;non seq...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/logical](https://dictionary.cambridge.org/dictionary/english/logical)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary6 days ago — LOGICAL definition: 1. using reason: 2. using reason: 3. reasonable and based on goo...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/logical" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/logical</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — LOGICAL definition: 1. using reason: 2. using reason: 3. reasonable and based on goo...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;). (2) Accent, Amphiboly and Equivocation are examples...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: fallacies.online  
    Title: affirming the consequent  
-   Link: [https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent](https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent)  
+   Link: <a href="https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 23, 2025 — Formal logical fallacy, in which it is (falsely) assumed that a logical consequence can be the premise of a converse propo...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: fallacyfiles.org  
    Title: Affirming the Consequent  
-   Link: [https://www.fallacyfiles.org/afthecon.html](https://www.fallacyfiles.org/afthecon.html)  
+   Link: <a href="https://www.fallacyfiles.org/afthecon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/afthecon.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallacyJun 22, 2023 — This is easy to see: Suppose that an argument of the form of affirming the consequent―that is, an argument...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: quillbot.com  
    Title: affirming the consequent  
-   Link: [https://quillbot.com/blog/reasoning/affirming-the-consequent/](https://quillbot.com/blog/reasoning/affirming-the-consequent/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/affirming-the-consequent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Q. Therefore, P. Affirming the consequent fallacy... This means the argument is invalid and commits a formal logical fallacy.Read more...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/affirming](https://www.merriam-webster.com/dictionary/affirming)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/affirming" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/affirming</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AFFIRMING Definition &amp; MeaningThe meaning of AFFIRMING is providing affirmation: showing or expressing recognition of worthiness or vali...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/49831174/ch-3-flash-cards/](https://quizlet.com/49831174/ch-3-flash-cards/)  
+   Link: <a href="https://quizlet.com/49831174/ch-3-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/49831174/ch-3-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ch 3 FlashcardsAffirming the Consequent. An invalid argument form: If p, then q. q. Therefore, p. Antecedent. The first part of a conditi...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the ConsequentDescription: An error in formal logic where if the consequent is said to be true, the antecedent is said to be tr...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/rationale2.0/ib/exercises/tok/modus_ponens.htm](https://www.reasoninglab.com/rationale2.0/ib/exercises/tok/modus_ponens.htm)  
+   Link: <a href="https://www.reasoninglab.com/rationale2.0/ib/exercises/tok/modus_ponens.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/rationale2.0/ib/exercises/tok/modus_ponens.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modus ponensThe pattern of argument of the form &#x27;If P then Q; Q; therefore P&#x27; is known as affirming the consequent (meaning affirming wha...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/533648741/phil-120-chapter-3-section-flash-cards/](https://quizlet.com/533648741/phil-120-chapter-3-section-flash-cards/)  
+   Link: <a href="https://quizlet.com/533648741/phil-120-chapter-3-section-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/533648741/phil-120-chapter-3-section-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PHIL 120 Chapter 3 Section FlashcardsThe invalid argument form known as affirming the consequent has this pattern: If p, then q. q. There...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/](https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/</a>  
 
 36. <a id="endnote-36"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html](https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent Overview, Fallacy &amp; ExamplesThe fallacy of affirming the consequent is a formal fallacy in which a reasoner make...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: study.com  
-   Link: [https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html](https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html)  
+   Link: <a href="https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the Antecedent Fallacy | Overview &amp; ExamplesAffirming the antecedent and denying the consequent are two different but equally cor...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: philosophyalevel.com  
-   Link: [https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/](https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/)  
+   Link: <a href="https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 28, 2023 — Affirming the consequent is a logical fallacy that occurs when someone assumes that if the consequent of a conditional sta...</p></details>
    Published: May 28, 2023  

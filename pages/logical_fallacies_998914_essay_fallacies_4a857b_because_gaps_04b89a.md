@@ -892,133 +892,133 @@ Academic arguments become stronger not when writers add more facts, but when the
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLToulmin Argument  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html](https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLToulmin Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLOrganizing Your Argument  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOrganizing Your Argument - Purdue OWLWarrant (Bridge): In this section, you explain why or how your data supports the claim. As...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: owl.excelsior.edu  
    Title: OWLToulmin Argument  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/organizing-your-argument/organizing-your-argument-toulmin/](https://owl.excelsior.edu/argument-and-critical-thinking/organizing-your-argument/organizing-your-argument-toulmin/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/organizing-your-argument/organizing-your-argument-toulmin/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/organizing-your-argument/organizing-your-argument-toulmin/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLToulmin Argument - Excelsior OWLWarrant. The warrant is what links the grounds to the claim. This is what makes the audience...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: open.baypath.edu  
-   Link: [https://open.baypath.edu/eng124/chapter/__unknown__-2/](https://open.baypath.edu/eng124/chapter/__unknown__-2/)  
+   Link: <a href="https://open.baypath.edu/eng124/chapter/__unknown__-2/" target="_blank" rel="noopener noreferrer nofollow">https://open.baypath.edu/eng124/chapter/__unknown__-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what makes the audience understand how the grounds are connected to supporting the claim.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ncl.ac.uk  
-   Link: [https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/](https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/)  
+   Link: <a href="https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Evidence to Support your ArgumentTo check if you&#x27;re supporting your own points with evidence, imagine that the reader is asking you...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: owl.purdue.edu  
    Title: strong> In a work of persuasive writing, the writer presents  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.%20In%20this%20case%2C%20your%20paper%20will%20be%20completed%20by%20a%20standard%20author.%20It%20does%20not%20mean%20that%20your%20paper%20will%20be%20of%20poor%20quality.The%20%3Cstrong%3EToulmin%3C/strong%3E%20model%20can%20be%20used%20as%20a%20framework%20to%20test%20an%20argument%27s%20validity%20by%20identifying%20the%20%3Cstrong%3Eclaim%3C/strong%3E%2C%20evidence%2C%20%3Cstrong%3Ewarrants%3C/strong%3E%2C%20backing%2C%20counterarguments%2C%20and%20qualifiers.%20In%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20the%20%3Cstrong%3Ewarrant%3C/strong%3E%20and%20backing%20would%20be%20allotted%20the%20most%20in-depth%20discussion%20because%20these%20aspects%20are%20normally%20unstated%20and%20taken%20for%20granted%20in%20causal%20arguments.%203.%20Each%20is%20explained%20below.%20%3Cstrong%3EClaims%3C/strong%3E%20In%20a%20work%20of%20persuasive%20writing%2C%20the%20writer%20presents](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.%20In%20this%20case%2C%20your%20paper%20will%20be%20completed%20by%20a%20standard%20author.%20It%20does%20not%20mean%20that%20your%20paper%20will%20be%20of%20poor%20quality.The%20%3Cstrong%3EToulmin%3C/strong%3E%20model%20can%20be%20used%20as%20a%20framework%20to%20test%20an%20argument%27s%20validity%20by%20identifying%20the%20%3Cstrong%3Eclaim%3C/strong%3E%2C%20evidence%2C%20%3Cstrong%3Ewarrants%3C/strong%3E%2C%20backing%2C%20counterarguments%2C%20and%20qualifiers.%20In%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20the%20%3Cstrong%3Ewarrant%3C/strong%3E%20and%20backing%20would%20be%20allotted%20the%20most%20in-depth%20discussion%20because%20these%20aspects%20are%20normally%20unstated%20and%20taken%20for%20granted%20in%20causal%20arguments.%203.%20Each%20is%20explained%20below.%20%3Cstrong%3EClaims%3C/strong%3E%20In%20a%20work%20of%20persuasive%20writing%2C%20the%20writer%20presents)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.%20In%20this%20case%2C%20your%20paper%20will%20be%20completed%20by%20a%20standard%20author.%20It%20does%20not%20mean%20that%20your%20paper%20will%20be%20of%20poor%20quality.The%20%3Cstrong%3EToulmin%3C/strong%3E%20model%20can%20be%20used%20as%20a%20framework%20to%20test%20an%20argument%27s%20validity%20by%20identifying%20the%20%3Cstrong%3Eclaim%3C/strong%3E%2C%20evidence%2C%20%3Cstrong%3Ewarrants%3C/strong%3E%2C%20backing%2C%20counterarguments%2C%20and%20qualifiers.%20In%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20the%20%3Cstrong%3Ewarrant%3C/strong%3E%20and%20backing%20would%20be%20allotted%20the%20most%20in-depth%20discussion%20because%20these%20aspects%20are%20normally%20unstated%20and%20taken%20for%20granted%20in%20causal%20arguments.%203.%20Each%20is%20explained%20below.%20%3Cstrong%3EClaims%3C/strong%3E%20In%20a%20work%20of%20persuasive%20writing%2C%20the%20writer%20presents" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.%20In%20this%20case%2C%20your%20paper%20will%20be%20completed%20by%20a%20standard%20author.%20It%20does%20not%20mean%20that%20your%20paper%20will%20be%20of%20poor%20quality.The%20%3Cstrong%3EToulmin%3C/strong%3E%20model%20can%20be%20used%20as%20a%20framework%20to%20test%20an%20argument%27s%20validity%20by%20identifying%20the%20%3Cstrong%3Eclaim%3C/strong%3E%2C%20evidence%2C%20%3Cstrong%3Ewarrants%3C/strong%3E%2C%20backing%2C%20counterarguments%2C%20and%20qualifiers.%20In%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20the%20%3Cstrong%3Ewarrant%3C/strong%3E%20and%20backing%20would%20be%20allotted%20the%20most%20in-depth%20discussion%20because%20these%20aspects%20are%20normally%20unstated%20and%20taken%20for%20granted%20in%20causal%20arguments.%203.%20Each%20is%20explained%20below.%20%3Cstrong%3EClaims%3C/strong%3E%20In%20a%20work%20of%20persuasive%20writing%2C%20the%20writer%20presents</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChoicesThe &lt;strong&gt;Toulmin&lt;/strong&gt; model can be used as a framework to test an argument&#x27;s validity by identifying the &lt;strong&gt;claim&lt;/str...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: acikders.ankara.edu.tr  
-   Link: [https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922](https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922)  
+   Link: <a href="https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922" target="_blank" rel="noopener noreferrer nofollow">https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AND ANALYTICAL THINKINGIn academic writing, an argument is usually a main idea, often called a &quot;claim&quot; or &quot;thesis statement,&quot; backed up w...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: writingcenter.unc.edu  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/argument/](https://writingcenter.unc.edu/tips-and-tools/argument/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterArgument – The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: writingcenter.unc.edu  
-   Link: [https://writingcenter.unc.edu/wp-content/uploads/sites/346/2012/09/Evidence-The-Writing-Center.pdf](https://writingcenter.unc.edu/wp-content/uploads/sites/346/2012/09/Evidence-The-Writing-Center.pdf)  
+   Link: <a href="https://writingcenter.unc.edu/wp-content/uploads/sites/346/2012/09/Evidence-The-Writing-Center.pdf" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/wp-content/uploads/sites/346/2012/09/Evidence-The-Writing-Center.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterEvidenceWhat turns a fact or piece of information into evidence is the connection it has with a larger claim or argumen...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: academics.umw.edu  
    Title: Academics Toulmin Argument Model  
-   Link: [https://academics.umw.edu/speaking/resources/handouts/toulmin-argument-model/](https://academics.umw.edu/speaking/resources/handouts/toulmin-argument-model/)  
+   Link: <a href="https://academics.umw.edu/speaking/resources/handouts/toulmin-argument-model/" target="_blank" rel="noopener noreferrer nofollow">https://academics.umw.edu/speaking/resources/handouts/toulmin-argument-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Warrant: The reasoning that authorizes the inferential leap from the grounds to the claim. Backing:...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: writingcenter.unc.edu  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/evidence/](https://writingcenter.unc.edu/tips-and-tools/evidence/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterEvidence – The Writing CenterDoes evidence speak for itself? Absolutely not. After you introduce evidence into your wri...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/study-notes/19661738](https://www.cliffsnotes.com/study-notes/19661738)  
+   Link: <a href="https://www.cliffsnotes.com/study-notes/19661738" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/19661738</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>explain why you need one in most of your academic [essays](&amp;#123;&amp;#123; &#x27;essays/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: courses.lumenlearning.com  
    Title: text applying evidence  
-   Link: [https://courses.lumenlearning.com/suny-eng-101-college-writing-i/chapter/text-applying-evidence/](https://courses.lumenlearning.com/suny-eng-101-college-writing-i/chapter/text-applying-evidence/)  
+   Link: <a href="https://courses.lumenlearning.com/suny-eng-101-college-writing-i/chapter/text-applying-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-eng-101-college-writing-i/chapter/text-applying-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence | ENG 101 College Writing IThe “Evidence” handout from The Writing Center at UNC-Chapel Hill continues, offering guidance for ho...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: upresearch.lonestar.edu  
-   Link: [https://upresearch.lonestar.edu/rhetoric/toulmin](https://upresearch.lonestar.edu/rhetoric/toulmin)  
+   Link: <a href="https://upresearch.lonestar.edu/rhetoric/toulmin" target="_blank" rel="noopener noreferrer nofollow">https://upresearch.lonestar.edu/rhetoric/toulmin</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument: Toulmin Argument21 Jan 2026 — The parts of a Toulmin argument are: the claim, the grounds, warrant, backing, qualifier, and reb...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: studocu.com  
    Title: the writing center at unc fallacies  
-   Link: [https://www.studocu.com/en-us/document/lone-star-college-system/classical-philosophy/the-writing-center-at-unc-fallacies/21835008](https://www.studocu.com/en-us/document/lone-star-college-system/classical-philosophy/the-writing-center-at-unc-fallacies/21835008)  
+   Link: <a href="https://www.studocu.com/en-us/document/lone-star-college-system/classical-philosophy/the-writing-center-at-unc-fallacies/21835008" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/lone-star-college-system/classical-philosophy/the-writing-center-at-unc-fallacies/21835008</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Fallacies in Academic Writing: A Guide from UNCMost academic writing tasks require you to make an argument—that is, to pres...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: statisticssolutions.com  
-   Link: [https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/](https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/)  
+   Link: <a href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Expanding on the Basic Toulmin ModelThe Toulmin model of argumentation contains six elements: Claim, Grounds, Warrant, Qualifier, Backing...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ucc.ie  
-   Link: [https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf](https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf)  
+   Link: <a href="https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HOW TO BUILD AN ACADEMIC ARGUMENTWhat is an Argument? An argument involves establishing a claim and proving it with logical reasoning, ex...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: unemployedprofessors.com  
-   Link: [https://unemployedprofessors.com/How-To-Write-A-Toulmin-Essay](https://unemployedprofessors.com/How-To-Write-A-Toulmin-Essay)  
+   Link: <a href="https://unemployedprofessors.com/How-To-Write-A-Toulmin-Essay" target="_blank" rel="noopener noreferrer nofollow">https://unemployedprofessors.com/How-To-Write-A-Toulmin-Essay</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Write A Toulmin EssayMake sure that you have explicitly included a claim, grounds, a warrant, backing, the rebuttal, and the quali...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: blinn.edu  
-   Link: [https://www.blinn.edu/writing-centers/wide/toulmin-argument.html](https://www.blinn.edu/writing-centers/wide/toulmin-argument.html)  
+   Link: <a href="https://www.blinn.edu/writing-centers/wide/toulmin-argument.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blinn.edu/writing-centers/wide/toulmin-argument.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin ArgumentIdentify each argument&#x27;s claims, data, and [warrants](&amp;#123;&amp;#123; &#x27;warrants/&#x27; | relative_url &amp;#125;&amp;#125;). Look for qualifiers, rebuttals, and backing for the warrants. Compar...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sjsu.edu  
-   Link: [https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf](https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf)  
+   Link: <a href="https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sjsu.edu/writingcenter/docs/handouts/Toulmin%20Model%20of%20Argumentative%20Writing.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin&#x27;s Model of Argumentative WritingIt consists of six parts: three fundamental elements are the claim, grounds, and warrant; then, t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ciris.info  
-   Link: [https://www.ciris.info/learningcenter/toulmins-model/](https://www.ciris.info/learningcenter/toulmins-model/)  
+   Link: <a href="https://www.ciris.info/learningcenter/toulmins-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.ciris.info/learningcenter/toulmins-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin&#x27;s model of ArgumentationThe Toulmin model shows how reasoning moves from evidence (grounds) to a conclusion (claim), supported by...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: uscb.edu  
-   Link: [https://www.uscb.edu/campus-life/student-development/academic-support/tutoring-and-writing-center/pdfs/Understanding_Arguments.pdf](https://www.uscb.edu/campus-life/student-development/academic-support/tutoring-and-writing-center/pdfs/Understanding_Arguments.pdf)  
+   Link: <a href="https://www.uscb.edu/campus-life/student-development/academic-support/tutoring-and-writing-center/pdfs/Understanding_Arguments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uscb.edu/campus-life/student-development/academic-support/tutoring-and-writing-center/pdfs/Understanding_Arguments.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding ArgumentsSee this explanation at the Purdue OWL: “An argumentative paper makes a claim about a topic and justifies this cla...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: publications.coventry.ac.uk  
-   Link: [https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568](https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568)  
+   Link: <a href="https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568" target="_blank" rel="noopener noreferrer nofollow">https://publications.coventry.ac.uk/index.php/joaw/article/download/1154/1126/7568</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Students How to Tame the Warrant with...This teaching practice paper deals with some practical ideas of teaching the concept of &#x27;warrant...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: studypedia.au.dk  
-   Link: [https://studypedia.au.dk/en/academic-standards/argumentation](https://studypedia.au.dk/en/academic-standards/argumentation)  
+   Link: <a href="https://studypedia.au.dk/en/academic-standards/argumentation" target="_blank" rel="noopener noreferrer nofollow">https://studypedia.au.dk/en/academic-standards/argumentation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>argument is a claim that is justified. Toulmin&#x27;s model of argumentation is often used to understand and explain how arguments are connect...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: utsa.pressbooks.pub  
-   Link: [https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/](https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/)  
+   Link: <a href="https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/" target="_blank" rel="noopener noreferrer nofollow">https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pressbooks.pubClaims, Support, and Structure – From College to Careerby C Frasier — Evidence for an academic argument can be based on pri...</p></details>

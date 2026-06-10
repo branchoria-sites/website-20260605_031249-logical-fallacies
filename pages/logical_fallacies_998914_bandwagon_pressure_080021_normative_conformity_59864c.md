@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:33:04'
 parent_title: Are You Being Pressured to Join? | Fallacy Lab
 parent_permalink: /bandwagon/
 parent_nav_short_title: Bandwagon
@@ -265,7 +266,6 @@ next_link:
   permalink: /trending-loops/
   short_title: Trending Loops
   heading_title: How Trending Numbers Create More Trending
-date: '2026-06-05 02:33:04 '
 header:
   og_image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normative_conformity_59864c-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_normative_conformity_59864c-Illustration-1.webp
@@ -282,7 +282,7 @@ Normative conformity is the social mechanism that makes people publicly agree wi
 
 Normative conformity operates through belonging. Human beings are highly sensitive to acceptance and rejection within groups. In many situations, the immediate social consequences of dissent feel more tangible than the abstract value of being correct.
 
-The classic conformity experiments conducted by psychologist Solomon Asch demonstrated this dynamic. Participants were placed in groups where others intentionally gave obviously incorrect answers. Many participants followed the majority at least some of the time despite being able to see that the group was wrong. Later interpretations of these experiments emphasised normative influence: people often complied publicly to avoid standing out or appearing foolish in front of others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO The important distinction is between]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">asch conformity experiments</span><span class="citation-popover-snippet">History | Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</span></span></span>**public agreement** and **private belief**. Normative conformity frequently changes what people express rather than what they actually think. Someone may outwardly support a position, laugh at a joke they dislike, or remain silent during a discussion while internally remaining unconvinced. Social psychologists describe this as public compliance rather than genuine acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span>
+The classic conformity experiments conducted by psychologist Solomon Asch demonstrated this dynamic. Participants were placed in groups where others intentionally gave obviously incorrect answers. Many participants followed the majority at least some of the time despite being able to see that the group was wrong. Later interpretations of these experiments emphasised normative influence: people often complied publicly to avoid standing out or appearing foolish in front of others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO The important distinction is between]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">asch conformity experiments</span><span class="citation-popover-snippet">History &#124; Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</span></span></span>**public agreement** and **private belief**. Normative conformity frequently changes what people express rather than what they actually think. Someone may outwardly support a position, laugh at a joke they dislike, or remain silent during a discussion while internally remaining unconvinced. Social psychologists describe this as public compliance rather than genuine acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span>
 
 For logical reasoning, this distinction matters because visible agreement is often treated as evidence that a claim has been independently evaluated and accepted. In reality, some of that agreement may reflect social caution rather than conviction.
 
@@ -298,7 +298,7 @@ Third, they adjust their public behaviour. Some openly agree. Others soften obje
 
 The result is a distorted public picture. What appears to be unanimous support may actually include many people who privately disagree but see little benefit in speaking up. This is one reason [bandwagon]({{ 'bandwagon/' | relative_url }}) arguments can feel persuasive: the apparent size of the majority may partly be created by conformity itself.
 
-Research on the "spiral of silence" provides a useful framework. Developed by communication scholar Elisabeth Noelle-Neumann, the theory argues that people monitor the climate of opinion and become less willing to express views they believe are unpopular. Fear of social isolation encourages self-censorship, which makes the dominant view seem even more dominant. The silence of dissenters is then interpreted as agreement, reinforcing the cycle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpiral of silence | Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO In this way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">asch conformity experiments</span><span class="citation-popover-snippet">History | Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</span></span></span>, normative conformity does not merely respond to perceived consensus; it can help create the appearance of consensus.
+Research on the "spiral of silence" provides a useful framework. Developed by communication scholar Elisabeth Noelle-Neumann, the theory argues that people monitor the climate of opinion and become less willing to express views they believe are unpopular. Fear of social isolation encourages self-censorship, which makes the dominant view seem even more dominant. The silence of dissenters is then interpreted as agreement, reinforcing the cycle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpiral of silence &#124; Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO In this way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">asch conformity experiments</span><span class="citation-popover-snippet">History &#124; Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</span></span></span>, normative conformity does not merely respond to perceived consensus; it can help create the appearance of consensus.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uPyq46ct7C8" title="Spiral of Silence Theory: Definition &amp; Examples (Explained in 2 Minutes)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uPyq46ct7C8" target="_blank" rel="noopener noreferrer">Spiral of Silence Theory: Definition &amp; Examples (Explained in 2 Minutes)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 9.0K &middot; Uploaded: October 2024 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uPyq46ct7C8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uPyq46ct7C8">Open on YouTube</a></p></div></div></div>
@@ -327,7 +327,7 @@ Topics tied to identity often create strong conformity pressures. Individuals ma
 
 ### Online Communities
 
-Digital spaces can intensify normative pressure because approval and disapproval are publicly visible through replies, reactions, shares, and other engagement signals. Recent research examining online communities found that people who perceive themselves to be in the minority are substantially less likely to express their views publicly, helping visible opinion distributions diverge from private beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.00952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMapping the Spiral of Silence: Surveying Unspoken Opinions in Online CommunitiesFebruary 2, 2025...</span><span class="citation-popover-meta">Published: February 2, 2025</span></span></span>
+Digital spaces can intensify normative pressure because approval and disapproval are publicly visible through replies, reactions, shares, and other engagement signals. Recent research examining online communities found that people who perceive themselves to be in the minority are substantially less likely to express their views publicly, helping visible opinion distributions diverge from private beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2502.00952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mapping the Spiral of Silence: Surveying Unspoken Opinions in Online CommunitiesFebruary 2, 2025...</span><span class="citation-popover-meta">Published: February 2, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-x75l2QFTew" title="Asch: Conformity - Social influence [ A Level Psychology ]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-x75l2QFTew" target="_blank" rel="noopener noreferrer">Asch: Conformity - Social influence [ A Level Psychology ]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 91.5K &middot; Uploaded: April 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-x75l2QFTew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-x75l2QFTew">Open on YouTube</a></p></div></div></div>
@@ -362,10 +362,10 @@ Normative conformity helps explain why bandwagon reasoning can be so persuasive 
 
 However, apparent agreement can emerge from social dynamics rather than careful evaluation. If individuals stay silent because dissent feels risky, the visible majority may not accurately represent what people actually believe. The group then appears more unified than it truly is, making appeals to popularity seem more convincing.
 
-The practical lesson is not that majorities are usually wrong. Many majorities are correct. The lesson is that popularity and truth are different questions. When evaluating a claim, it is worth asking whether support reflects evidence, or whether some portion of the apparent consensus may have been shaped by the simple human reluctance to stand alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpiral of silence | Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</span></span></span>
+The practical lesson is not that majorities are usually wrong. Many majorities are correct. The lesson is that popularity and truth are different questions. When evaluating a claim, it is worth asking whether support reflects evidence, or whether some portion of the apparent consensus may have been shaped by the simple human reluctance to stand alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">the many varieties of conformity</span><span class="citation-popover-snippet">normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaSpiral of silence &#124; Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkK5eA_qhFk" title="Asch’s Conformity Experiment on Groupthink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer">Asch’s Conformity Experiment on Groupthink</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 363.1K &middot; Uploaded: July 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkK5eA_qhFk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UGxGDdQnC1Y" title="Social Influence: Crash Course Psychology #38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer">Social Influence: Crash Course Psychology #38</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 3.1M &middot; Uploaded: November 2014 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UGxGDdQnC1Y">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -758,146 +758,146 @@ The practical lesson is not that majorities are usually wrong. Many majorities a
 1. <a id="endnote-1"></a>
    Source: opentextbc.ca  
    Title: the many varieties of conformity  
-   Link: [https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/](https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/)  
+   Link: <a href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>normative social influence often represents public compliance rather than private acceptance. Public compliance is a superficial change i...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ebsco.com  
-   Title: [asch conformity](&#123;&#123; 'the-asch-conformity-experiments/' | relative_url &#125;&#125;) experiments  
-   Link: [https://www.ebsco.com/research-starters/history/asch-conformity-experiments](https://www.ebsco.com/research-starters/history/asch-conformity-experiments)  
+   Title: asch conformity experiments  
+   Link: <a href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/asch-conformity-experiments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>History | Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: psychology.town  
-   Link: [https://psychology.town/advanced-social/understanding-conformity-factors-experiments/](https://psychology.town/advanced-social/understanding-conformity-factors-experiments/)  
+   Link: <a href="https://psychology.town/advanced-social/understanding-conformity-factors-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/advanced-social/understanding-conformity-factors-experiments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Conformity: Factors and Experiments in...30 Oct 2025 — Normative social influence is the pressure to conform in order to f...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/spiral-of-silence](https://www.britannica.com/topic/spiral-of-silence)  
+   Link: <a href="https://www.britannica.com/topic/spiral-of-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/spiral-of-silence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaSpiral of silence | Social Psychology, Communication &amp;...According to the spiral of silence theory, most people h...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence](https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/spiral-silence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spiral of silence | Social Sciences and HumanitiesThe spiral of silence is a public opinion theory developed by German communications res...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Spiral of silence  
-   Link: [https://en.wikipedia.org/wiki/Spiral_of_silence](https://en.wikipedia.org/wiki/Spiral_of_silence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Spiral_of_silence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spiral_of_silence</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2502.00952](https://arxiv.org/abs/2502.00952)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMapping the Spiral of Silence: Surveying Unspoken Opinions in Online CommunitiesFebruary 2, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2502.00952" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.00952</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the Spiral of Silence: Surveying Unspoken Opinions in Online CommunitiesFebruary 2, 2025...</p></details>
    Published: February 2, 2025  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Asch conformity experiments  
-   Link: [https://en.wikipedia.org/wiki/Asch_conformity_experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments)  
+   Link: <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
 
 9. <a id="endnote-9"></a>
    Source: psychology.town  
    Title: asch conformity line length experiments  
-   Link: [https://psychology.town/social/asch-conformity-line-length-experiments/](https://psychology.town/social/asch-conformity-line-length-experiments/)  
+   Link: <a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Asch also found that group size had a ceiling effect on conformity. Conformity inc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Solomon Asch  
-   Link: [https://en.wikipedia.org/wiki/Solomon_Asch](https://en.wikipedia.org/wiki/Solomon_Asch)  
+   Link: <a href="https://en.wikipedia.org/wiki/Solomon_Asch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Solomon_Asch</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon AschSolomon Eliot Asch (September 14, 1907 – February 20, 1996) was a Polish-American Gestalt psychologist and pioneer in soci...</p></details>
    Published: September 14, 1907  
 
 11. <a id="endnote-11"></a>
    Source: psychology.town  
    Title: asch experiments conformity alternatives consequences  
-   Link: [https://psychology.town/social/asch-experiments-conformity-alternatives-consequences/](https://psychology.town/social/asch-experiments-conformity-alternatives-consequences/)  
+   Link: <a href="https://psychology.town/social/asch-experiments-conformity-alternatives-consequences/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-experiments-conformity-alternatives-consequences/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: psychology.town  
    Title: private responses. Understand social  
-   Link: [https://psychology.town/social/asch-conformity-experiments-variations-insights/](https://psychology.town/social/asch-conformity-experiments-variations-insights/)  
+   Link: <a href="https://psychology.town/social/asch-conformity-experiments-variations-insights/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-experiments-variations-insights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Variations in Conformity: Asch&#x27;s Experimental...17 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: group size, disse...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: noelle-neumann.de  
    Title: Spiral of Silence  
-   Link: [https://noelle-neumann.de/scientific-work/spiral-of-silence/](https://noelle-neumann.de/scientific-work/spiral-of-silence/)  
+   Link: <a href="https://noelle-neumann.de/scientific-work/spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://noelle-neumann.de/scientific-work/spiral-of-silence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elisabeth Noelle-NeumannThe theory explains how sways in public opinion may come about, especially in morally and emotionally laden debat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/asch-conformity.html](https://www.simplypsychology.org/asch-conformity.html)  
+   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyAsch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to whi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: psychstory.co.uk  
-   Link: [https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity](https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity)  
+   Link: <a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYHis findings suggested that conformity rates might be lower when individuals are not under direct gro...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: doctorspin.net  
    Title: The Spiral of Silence  
-   Link: [https://doctorspin.net/spiral-of-silence/](https://doctorspin.net/spiral-of-silence/)  
+   Link: <a href="https://doctorspin.net/spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://doctorspin.net/spiral-of-silence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doctor SpinElisabeth Noelle-Neumann&#x27;s well-documented theory on the spiral of silence (1974) explains why fear of isolation might serve t...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/557620371/Deutsch-Morton-Harold-B-Gerard-a-Study-of-Normative-and-Informational-Social-Influences-Upon-Individual-Judgment](https://www.scribd.com/document/557620371/Deutsch-Morton-Harold-B-Gerard-a-Study-of-Normative-and-Informational-Social-Influences-Upon-Individual-Judgment)  
+   Link: <a href="https://www.scribd.com/document/557620371/Deutsch-Morton-Harold-B-Gerard-a-Study-of-Normative-and-Informational-Social-Influences-Upon-Individual-Judgment" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/557620371/Deutsch-Morton-Harold-B-Gerard-a-Study-of-Normative-and-Informational-Social-Influences-Upon-Individual-Judgment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Normative vs Informational Influence Study | PDF | ConformityThis document outlines hypotheses about two types of social influence - norm...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/330279751_Spiral_of_Silence_A_Powerful_Perspective_of_Understanding_the_Public_Opinion](https://www.researchgate.net/publication/330279751_Spiral_of_Silence_A_Powerful_Perspective_of_Understanding_the_Public_Opinion)  
+   Link: <a href="https://www.researchgate.net/publication/330279751_Spiral_of_Silence_A_Powerful_Perspective_of_Understanding_the_Public_Opinion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330279751_Spiral_of_Silence_A_Powerful_Perspective_of_Understanding_the_Public_Opinion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Spiral of Silence: A Powerful Perspective of...10 Jan 2019 — The spiral of silence theory states that people with a minority point...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExamining the spiral of silence in offline and online  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12083012/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12083012/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby A Alkandari · 2025 · Cited by 1 — SOS is a theory that focuses on individuals&#x27; fear of being isolated if they express minority opin...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12083012/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12083012/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Alkandari · 2025 · Cited by 1 — SOS is a theory that focuses on individuals&#x27; fear of being isolated if they express minority opin...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/](https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/)  
+   Link: <a href="https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>f communication is the tendency of people not to speak up about policy issues in public.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227594074_The_Spiral_of_Silence_and_Fear_of_Isolation](https://www.researchgate.net/publication/227594074_The_Spiral_of_Silence_and_Fear_of_Isolation)  
+   Link: <a href="https://www.researchgate.net/publication/227594074_The_Spiral_of_Silence_and_Fear_of_Isolation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227594074_The_Spiral_of_Silence_and_Fear_of_Isolation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>view can induce fear of social isolation, which motivates conformity such...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: open.ncl.ac.uk  
    Title: ncl.ac.uk Social Influence Theory: A review  
-   Link: [https://open.ncl.ac.uk/theories/15/social-influence-theory/](https://open.ncl.ac.uk/theories/15/social-influence-theory/)  
+   Link: <a href="https://open.ncl.ac.uk/theories/15/social-influence-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/15/social-influence-theory/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence Theory: A review - TheoryHub7 Apr 2026 — Social Influence Theory explains the impact of social influence on individuals through...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: vaia.com  
-   Link: [https://www.vaia.com/en-us/textbooks/psychology/cultural-psychology-4-edition/chapter-8/problem-8-why-did-people-conform-so-often-in-the-asch-confor/](https://www.vaia.com/en-us/textbooks/psychology/cultural-psychology-4-edition/chapter-8/problem-8-why-did-people-conform-so-often-in-the-asch-confor/)  
+   Link: <a href="https://www.vaia.com/en-us/textbooks/psychology/cultural-psychology-4-edition/chapter-8/problem-8-why-did-people-conform-so-often-in-the-asch-confor/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaia.com/en-us/textbooks/psychology/cultural-psychology-4-edition/chapter-8/problem-8-why-did-people-conform-so-often-in-the-asch-confor/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why did people conform so often in the Asch conformity studies?Normative social influence: People tend to conform to a group&#x27;s norms to g...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: verywellmind.com  
    Title: [the asch conformity experiments](&#123;&#123; 'the-asch-conformity-experiments/' | relative_url &#125;&#125;) 2794996  
-   Link: [https://www.verywellmind.com/the-asch-conformity-experiments-2794996](https://www.verywellmind.com/the-asch-conformity-experiments-2794996)  
+   Link: <a href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/the-asch-conformity-experiments-2794996</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Asch Conformity Experiments26 Oct 2025 — During the 1950s, psychologist Solomon Asch conducted a series of experiments designed to de...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: opentext.uoregon.edu  
    Title: the many varieties of conformity  
-   Link: [https://opentext.uoregon.edu/socialpsychology/chapter/the-many-varieties-of-conformity/](https://opentext.uoregon.edu/socialpsychology/chapter/the-many-varieties-of-conformity/)  
+   Link: <a href="https://opentext.uoregon.edu/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://opentext.uoregon.edu/socialpsychology/chapter/the-many-varieties-of-conformity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Text Publishing6.1 The Many Varieties of Conformity – Principles of Social...by R Jhangiani · 2022 · Cited by 2 — Asch found that a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: osf.io  
    Title: Breaking the Spiral of Silence?  
-   Link: [https://osf.io/download/9hvgf](https://osf.io/download/9hvgf)  
+   Link: <a href="https://osf.io/download/9hvgf" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/9hvgf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Influence...by Z Lyua · 2025 — The spiral of silence theory typically considers that shifts in public opinion have bee...</p></details>

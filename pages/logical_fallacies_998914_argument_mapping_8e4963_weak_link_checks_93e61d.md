@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link
 
 ## Introduction
 
-Weak-link checks are the diagnostic stage of [argument mapping]({{ 'argument-map/' | relative_url }}). Once an argument has been broken into premises, conclusions, assumptions, objections and inference links, the next question is simple: which specific part fails? Rather than treating an argument as entirely sound or entirely flawed, a weak-link test examines each component separately. The method helps identify whether a problem lies in a doubtful premise, an unsupported inference, a hidden assumption, or an ineffective objection. This is one of the main advantages of argument mapping: it turns a vague sense that “something is wrong” into a precise diagnosis. Argument-mapping frameworks are designed to expose claims, support relationships, objections and implicit [warrants]({{ 'warrants/' | relative_url }}) so that each element can be evaluated independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">ReasoninglabArgument MappingWhat is argument mapping? Argument maps are box-and-line diagrams that lay out visually reasoning and evidenc...</span></span></span>
+Weak-link checks are the diagnostic stage of argument mapping. Once an argument has been broken into premises, conclusions, assumptions, objections and inference links, the next question is simple: which specific part fails? Rather than treating an argument as entirely sound or entirely flawed, a weak-link test examines each component separately. The method helps identify whether a problem lies in a doubtful premise, an unsupported inference, a hidden assumption, or an ineffective objection. This is one of the main advantages of argument mapping: it turns a vague sense that “something is wrong” into a precise diagnosis. Argument-mapping frameworks are designed to expose claims, support relationships, objections and implicit [warrants]({{ 'warrants/' | relative_url }}) so that each element can be evaluated independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">Argument MappingWhat is argument mapping? Argument maps are box-and-line diagrams that lay out visually reasoning and evidenc...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1-dark.svg" | relative_url }}" alt="Weak Link Checks illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -334,7 +334,7 @@ For example:
 
 The visible premise is about success elsewhere. The hidden premise is that the relevant conditions are sufficiently similar. If that assumption is weak, the argument's weakness lies there rather than in the explicit premise.
 
-Studies of argument comprehension and warrant reconstruction highlight that natural-language arguments often depend on implicit warrants—unstated propositions that explain why a premise supports a conclusion. Reconstructing these warrants is therefore a crucial weak-link test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
+Studies of argument comprehension and warrant reconstruction highlight that natural-language arguments often depend on implicit warrants—unstated propositions that explain why a premise supports a conclusion. Reconstructing these warrants is therefore a crucial weak-link test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
 
 ## Checking Inferences
 
@@ -352,18 +352,13 @@ For example:
 
 The premise may be accurate, but the conclusion exceeds what the evidence supports. The weakness lies in the leap from a limited sample to a universal claim.
 
-Many familiar [informal fallacies]({{ 'informal-logic/' | relative_url }}) emerge at this stage:
-
-
-<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+Many familiar informal fallacies emerge at this stage:
 
 * Hasty generalisation
 * Weak analogy
 * Non sequitur
 * False cause
-* Appeal to authority without adequate warrant
-
-</div>
+* [Appeal to authority]({{ 'authority/' | relative_url }}) without adequate warrant
 
 The advantage of weak-link testing is that the analyst need not begin with a fallacy label. The immediate question is simply whether the support relationship is strong enough.
 
@@ -899,124 +894,124 @@ Weak-link checks transform argument mapping from a descriptive exercise into a c
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Argument map  
-   Link: [https://en.wikipedia.org/wiki/Argument_map](https://en.wikipedia.org/wiki/Argument_map)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
 
 2. <a id="endnote-2"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/argument-mapping/](https://www.reasoninglab.com/argument-mapping/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReasoninglabArgument MappingWhat is argument mapping? Argument maps are box-and-line diagrams that lay out visually reasoning and evidenc...</p></details>
+   Link: <a href="https://www.reasoninglab.com/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/argument-mapping/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingWhat is argument mapping? Argument maps are box-and-line diagrams that lay out visually reasoning and evidenc...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf](https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf)  
+   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>its constituent claims, and use lines, boxes...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1708.01425](https://arxiv.org/abs/1708.01425)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</p></details>
+   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit WarrantsAugust 4, 2017...</p></details>
    Published: August 4, 2017  
 
 5. <a id="endnote-5"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/wp-content/uploads/2013/10/What-is-a-good-Argument-Map.pdf](https://www.reasoninglab.com/wp-content/uploads/2013/10/What-is-a-good-Argument-Map.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReasoninglabWhat is a good Argument Map?An inference objection is a rebuttal that shows that the objection above it, regardless of whethe...</p></details>
+   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/What-is-a-good-Argument-Map.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/What-is-a-good-Argument-Map.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a good Argument Map?An inference objection is a rebuttal that shows that the objection above it, regardless of whethe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Mapping-at-Work-2013.pdf](https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Mapping-at-Work-2013.pdf)  
+   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Mapping-at-Work-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Mapping-at-Work-2013.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping at WorkWhat is Argument Mapping? Argument mapping is a way of laying out visually reasoning and evidence for and against...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reasoninglab.com  
    Title: Argument Mapping Start at the top and working down in levels  
-   Link: [https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf](https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf)  
+   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/One-minute-mapper.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument MappingStart at the top and working down in levels - add evidence to support (reasons – green) or oppose (objections – red) any...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: psychologytoday.com  
    Title: improving critical thinking through argument mapping  
-   Link: [https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping](https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping)  
+   Link: <a href="https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/thoughts-thinking/201811/improving-critical-thinking-through-argument-mapping</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Nov 2018 — To clarify, an argument map is a visual representation of a logically structured network of reasoning, in which the argument...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: deakin.edu.au  
-   Link: [https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf](https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf)  
+   Link: <a href="https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.deakin.edu.au/__data/assets/pdf_file/0030/86772/Argument-mapping_Deakin-Study-Support.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deakin UniversityArgument mappingObjections to claims (or &#x27;counterarguments&#x27;) can be mapped, and so can rebuttals of those objections. Fi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: drcharlesmrusso.substack.com  
    Title: argument mapping  
-   Link: [https://drcharlesmrusso.substack.com/p/argument-mapping](https://drcharlesmrusso.substack.com/p/argument-mapping)  
+   Link: <a href="https://drcharlesmrusso.substack.com/p/argument-mapping" target="_blank" rel="noopener noreferrer nofollow">https://drcharlesmrusso.substack.com/p/argument-mapping</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping - by Dr. Charles M. Russo, PhDPre/post rubrics can track clarity, balance of support/objection, explicitness of assumptions, and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ddd.uab.cat  
    Title: cat Argument map  
-   Link: [https://ddd.uab.cat/pub/expbib/2009/34875/oratoria09/Argument_map](https://ddd.uab.cat/pub/expbib/2009/34875/oratoria09/Argument_map)  
+   Link: <a href="https://ddd.uab.cat/pub/expbib/2009/34875/oratoria09/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://ddd.uab.cat/pub/expbib/2009/34875/oratoria09/Argument_map</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>map - Wikipedia, the free encyclopedia5 Jul 2016 — Critical thinking concepts: In learning to argument map, students master such key crit...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: figma.com  
-   Link: [https://www.figma.com/templates/argument-mapping/](https://www.figma.com/templates/argument-mapping/)  
+   Link: <a href="https://www.figma.com/templates/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.figma.com/templates/argument-mapping/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping | Free Template | FigJamAn argument map is a box-and-line flowchart that helps you develop any argument. These maps star...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mindonmap.com  
    Title: argument mapping  
-   Link: [https://www.mindonmap.com/blog/argument-mapping/](https://www.mindonmap.com/blog/argument-mapping/)  
+   Link: <a href="https://www.mindonmap.com/blog/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindonmap.com/blog/argument-mapping/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, this map reveals the argument&#x27;s unseen composition, displaying how to lift the support claim.Read more...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: open.ac.uk  
-   Link: [https://www.open.ac.uk/blogs/rrimap/index.php/4-argument-map/](https://www.open.ac.uk/blogs/rrimap/index.php/4-argument-map/)  
+   Link: <a href="https://www.open.ac.uk/blogs/rrimap/index.php/4-argument-map/" target="_blank" rel="noopener noreferrer nofollow">https://www.open.ac.uk/blogs/rrimap/index.php/4-argument-map/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A4 argument map – Knowledge CartographyArgument mapping is a technique to develop evidence-based thinking using arguments and counterargu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228188551_Visualization_Tools_Argumentation_Schemes_and_Expert_Opinion_Evidence_in_Law](https://www.researchgate.net/publication/228188551_Visualization_Tools_Argumentation_Schemes_and_Expert_Opinion_Evidence_in_Law)  
+   Link: <a href="https://www.researchgate.net/publication/228188551_Visualization_Tools_Argumentation_Schemes_and_Expert_Opinion_Evidence_in_Law" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228188551_Visualization_Tools_Argumentation_Schemes_and_Expert_Opinion_Evidence_in_Law</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Visualization Tools, Argumentation Schemes and...9 Feb 2026 — The visualization of argumentation schemes is illustrated using a ne...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking](https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking)  
+   Link: <a href="https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument maps; An argument map is a two-dimensional representation of argument structure. It is. usually a box-and-...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=W91qk_3NiVE](https://www.youtube.com/watch?v=W91qk_3NiVE)  
+   Link: <a href="https://www.youtube.com/watch?v=W91qk_3NiVE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W91qk_3NiVE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments and Claims Mini LessonHere&#x27;s a quick video to help you how to break down an author&#x27;s argument and identify their claim. This vi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: oddrops.blog  
    Title: It is aimed largely at education and is intended to help teach  
-   Link: [https://oddrops.blog/2015/09/24/argument-mapping-with-rationale/](https://oddrops.blog/2015/09/24/argument-mapping-with-rationale/)  
+   Link: <a href="https://oddrops.blog/2015/09/24/argument-mapping-with-rationale/" target="_blank" rel="noopener noreferrer nofollow">https://oddrops.blog/2015/09/24/argument-mapping-with-rationale/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Mapping with Rationale | oddrops24 Sept 2015 — It is a web-based tool for diagramming the structure of an argument: building an...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/study-notes/33664324](https://www.cliffsnotes.com/study-notes/33664324)  
+   Link: <a href="https://www.cliffsnotes.com/study-notes/33664324" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/33664324</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>can be used to display objections to the logic of reasoning rather than the...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: gsis.scholasticahq.com  
    Title: 125995 argument mapping in intelligence analysis  
-   Link: [https://gsis.scholasticahq.com/article/125995-argument-mapping-in-intelligence-analysis.pdf](https://gsis.scholasticahq.com/article/125995-argument-mapping-in-intelligence-analysis.pdf)  
+   Link: <a href="https://gsis.scholasticahq.com/article/125995-argument-mapping-in-intelligence-analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gsis.scholasticahq.com/article/125995-argument-mapping-in-intelligence-analysis.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping in Intelligence Analysisby L Johansson — One way to systemize critical, logical thinking is by using a technique or method called...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/A-simple-Rationale-reasoning-map-illustrating-how-pre-attentive-processing-can-help_fig2_236017238](https://www.researchgate.net/figure/A-simple-Rationale-reasoning-map-illustrating-how-pre-attentive-processing-can-help_fig2_236017238)  
+   Link: <a href="https://www.researchgate.net/figure/A-simple-Rationale-reasoning-map-illustrating-how-pre-attentive-processing-can-help_fig2_236017238" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-simple-Rationale-reasoning-map-illustrating-how-pre-attentive-processing-can-help_fig2_236017238</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A simple Rationale reasoning map, illustrating how pre-...Software-supported argument mapping may be able to help lawyers reason and arg...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: open.edu  
-   Link: [https://www.open.edu/openlearn/mod/oucontent/view.php?id=95869&section=2.2](https://www.open.edu/openlearn/mod/oucontent/view.php?id=95869&section=2.2)  
+   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=95869&amp;section=2.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=95869&amp;section=2.2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital thinking tools for better decision making: Session 4This is a diagram that displays the claims you have collected so far and the...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: rationaleonline.com  
-   Link: [https://rationaleonline.com/docs/en/rationale-help/quick-start](https://rationaleonline.com/docs/en/rationale-help/quick-start)  
+   Link: <a href="https://rationaleonline.com/docs/en/rationale-help/quick-start" target="_blank" rel="noopener noreferrer nofollow">https://rationaleonline.com/docs/en/rationale-help/quick-start</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>xes); Show evaluation of claims through colour and icons (...</p></details>

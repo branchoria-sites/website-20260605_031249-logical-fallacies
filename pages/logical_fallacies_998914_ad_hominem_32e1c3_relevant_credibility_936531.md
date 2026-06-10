@@ -244,9 +244,9 @@ sibling_links:
   short_title: Science Effects
   heading_title: Can attacking a scientist change beliefs?
 - basename: logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14
-  title: Tu Quoque Hypocrisy | Ad Hominem
-  permalink: /tu-quoque-hypocrisy/
-  short_title: Tu Quoque Hypocrisy
+  title: Tu Quoque Hypocrisy 9 F6 A14 | Ad Hominem
+  permalink: /tu-quoque-hypocrisy-9-f6-a14/
+  short_title: Tu Quoque Hypocrisy 9 F6 A14
 up_link:
   basename: logical_fallacies_998914_ad_hominem_32e1c3
   title: Ad Hominem | Logical Fallacies
@@ -285,7 +285,7 @@ A courtroom provides a clear example. Legal systems routinely allow challenges t
 
 The same logic applies outside court. Suppose a journalist reports having seen a confidential document, or a researcher claims to have observed a rare phenomenon. If others discover a history of fabrication, that information is relevant because the claim depends substantially on trust in the source. Credibility evidence bears directly on the mechanism by which the audience acquires knowledge.
 
-Expert opinion creates a related but distinct case. When non-specialists evaluate a technical issue, they often rely on experts. Argumentation theorist Douglas Walton notes that appeals to expert opinion can be reasonable when the source genuinely possesses relevant expertise and when additional critical questions can be answered satisfactorily. Expertise therefore matters because it affects the likelihood that the source's judgement is reliable. Amazon <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaDouglas Walton, Appeal to Expert Opinion - Arguments...Walton identifies that appeals to authority are valid when experts are cr...</span></span></span> Relevant questions include:
+Expert opinion creates a related but distinct case. When non-specialists evaluate a technical issue, they often rely on experts. Argumentation theorist Douglas Walton notes that appeals to expert opinion can be reasonable when the source genuinely possesses relevant expertise and when additional critical questions can be answered satisfactorily. Expertise therefore matters because it affects the likelihood that the source's judgement is reliable. Amazon <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Douglas Walton, Appeal to Expert Opinion - Arguments...Walton identifies that appeals to authority are valid when experts are cr...</span></span></span> Relevant questions include:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -297,7 +297,7 @@ Expert opinion creates a related but distinct case. When non-specialists evaluat
 
 </div>
 
-These questions assess the quality of the source without assuming that authority automatically makes a claim true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaDouglas Walton, Appeal to Expert Opinion - Arguments...Walton identifies that appeals to authority are valid when experts are cr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Arguments from authority and expert opinion in...16 Jul 2018 — In this paper we show that an essential aspect of solving the probl...</span></span></span>
+These questions assess the quality of the source without assuming that authority automatically makes a claim true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Douglas Walton, Appeal to Expert Opinion - Arguments...Walton identifies that appeals to authority are valid when experts are cr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Arguments from authority and expert opinion in...16 Jul 2018 — In this paper we show that an essential aspect of solving the probl...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sABz9Q8wGUc" title="What is Federal Rules of Evidence Rule 608?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sABz9Q8wGUc" target="_blank" rel="noopener noreferrer">What is Federal Rules of Evidence Rule 608?</a></p><p class="youtube-embed-meta">Channel: Law Lite &middot; Views: 1.3K &middot; Uploaded: March 2023 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sABz9Q8wGUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sABz9Q8wGUc">Open on YouTube</a></p></div></div></div>
@@ -800,143 +800,143 @@ The practical lesson is simple: credibility evidence is strongest when it illumi
 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Treated in thi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016957](https://www.amazon.com/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016957)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AmazonAppeal to Expert Opinion: Arguments from AuthorityThe book identifies the requirements that make an appeal to expert opinion a reas...</p></details>
+   Link: <a href="https://www.amazon.com/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016957" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016957</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Expert Opinion: Arguments from AuthorityThe book identifies the requirements that make an appeal to expert opinion a reas...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority](https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaDouglas Walton, Appeal to Expert Opinion - Arguments...Walton identifies that appeals to authority are valid when experts are cr...</p></details>
+   Link: <a href="https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Walton, Appeal to Expert Opinion - Arguments...Walton identifies that appeals to authority are valid when experts are cr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems](https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems)  
+   Link: <a href="https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Arguments from authority and expert opinion in...16 Jul 2018 — In this paper we show that an essential aspect of solving the probl...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
    Title: feminism argumentation  
-   Link: [https://plato.stanford.edu/entries/feminism-argumentation/](https://plato.stanford.edu/entries/feminism-argumentation/)  
+   Link: <a href="https://plato.stanford.edu/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/feminism-argumentation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives on Argumentationby CE Hundleby · 2021 · Cited by 29 — Some feminists note a general [association](&amp;#123;&amp;#123; &#x27;association/&#x27; | relative_url &amp;#125;&amp;#125;) of arguing with aggression...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: amazon.de  
-   Link: [https://www.amazon.de/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949](https://www.amazon.de/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949)  
+   Link: <a href="https://www.amazon.de/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.de/-/en/Appeal-Expert-Opinion-Arguments-Authority/dp/0271016949</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Expert Opinion: Arguments from AuthorityWalton stresses that even in cases where expert opinion is divided, the effect of it ca...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/220539259_Douglas_Walton_Appeal_to_Expert_Opinion_-_Arguments_from_Authority](https://www.researchgate.net/publication/220539259_Douglas_Walton_Appeal_to_Expert_Opinion_-_Arguments_from_Authority)  
+   Link: <a href="https://www.researchgate.net/publication/220539259_Douglas_Walton_Appeal_to_Expert_Opinion_-_Arguments_from_Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220539259_Douglas_Walton_Appeal_to_Expert_Opinion_-_Arguments_from_Authority</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Walton, Appeal to Expert Opinion - Arguments...This paper opposes the logical approach, and defends a procedural approach to leg...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: law.cornell.edu  
    Title: Legal Information Institute Rule 608  
-   Link: [https://www.law.cornell.edu/rules/fre/rule_608](https://www.law.cornell.edu/rules/fre/rule_608)  
+   Link: <a href="https://www.law.cornell.edu/rules/fre/rule_608" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/rules/fre/rule_608</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Witness&#x27;s Character for Truthfulness or...A witness&#x27;s credibility may be attacked or supported by testimony about the witness&#x27;s reputa...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mass.gov  
    Title: achusetts Government Section 608  
-   Link: [https://www.mass.gov/guide-to-evidence/section-608-a-witnesss-character-for-truthfulness-or-untruthfulness](https://www.mass.gov/guide-to-evidence/section-608-a-witnesss-character-for-truthfulness-or-untruthfulness)  
+   Link: <a href="https://www.mass.gov/guide-to-evidence/section-608-a-witnesss-character-for-truthfulness-or-untruthfulness" target="_blank" rel="noopener noreferrer nofollow">https://www.mass.gov/guide-to-evidence/section-608-a-witnesss-character-for-truthfulness-or-untruthfulness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A witness&#x27;s character for truthfulness or...1 Feb 2026 — A witness&#x27;s credibility may be attacked or supported by testimony about the wit...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/ad-hominem](https://www.britannica.com/topic/ad-hominem)  
+   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>feelings or irrelevantly impugns another person&#x27;s character instead of addressing the facts...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: content.next.westlaw.com  
    Title: Full Text  
-   Link: [https://content.next.westlaw.com/Document/NE3754DB0E7D911E0B453835EEBAB0BCD/View/FullText.html?contextData=%28sc.Default%29&transitionType=Default](https://content.next.westlaw.com/Document/NE3754DB0E7D911E0B453835EEBAB0BCD/View/FullText.html?contextData=%28sc.Default%29&transitionType=Default)  
+   Link: <a href="https://content.next.westlaw.com/Document/NE3754DB0E7D911E0B453835EEBAB0BCD/View/FullText.html?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://content.next.westlaw.com/Document/NE3754DB0E7D911E0B453835EEBAB0BCD/View/FullText.html?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Witness&#x27;s Character for Truthfulness or... - WestlawBut evidence of truthful character is admissible only after the witness&#x27;s characte...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 17. <a id="endnote-17"></a>
    Source: scribbr.com  
    Title: ad hominem fallacy  
-   Link: [https://www.scribbr.com/fallacies/ad-hominem-fallacy/](https://www.scribbr.com/fallacies/ad-hominem-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples21 Apr 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on the person making an argument...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: ndcourts.gov  
-   Link: [https://www.ndcourts.gov/legal-resources/rules/ndrev/608](https://www.ndcourts.gov/legal-resources/rules/ndrev/608)  
+   Link: <a href="https://www.ndcourts.gov/legal-resources/rules/ndrev/608" target="_blank" rel="noopener noreferrer nofollow">https://www.ndcourts.gov/legal-resources/rules/ndrev/608</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RULE 608. A WITNESS&#x27;S CHARACTER FOR...But evidence of truthful character is admissible only after the witness&#x27;s character for truthfulne...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/argument](https://www.merriam-webster.com/dictionary/argument)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/argument" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/argument</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ARGUMENT Definition &amp; Meaning1. a: the act or process of arguing, reasoning, or discussing: argumentation b: a coherent series of reas...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: goldsteinhilley.com  
-   Link: [https://www.goldsteinhilley.com/our-passion/legal-resources/trial-evidence/evidence-of-character-and-conduct-of-witness/](https://www.goldsteinhilley.com/our-passion/legal-resources/trial-evidence/evidence-of-character-and-conduct-of-witness/)  
+   Link: <a href="https://www.goldsteinhilley.com/our-passion/legal-resources/trial-evidence/evidence-of-character-and-conduct-of-witness/" target="_blank" rel="noopener noreferrer nofollow">https://www.goldsteinhilley.com/our-passion/legal-resources/trial-evidence/evidence-of-character-and-conduct-of-witness/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EVIDENCE OF CHARACTER AND CONDUCT OF WITNESSEvidence of truthful character is admissible only after the character of the witness for trut...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: opencasebook.org  
-   Link: [https://opencasebook.org/casebooks/230-federal-rules-of-evidence/as-printable-html/3/](https://opencasebook.org/casebooks/230-federal-rules-of-evidence/as-printable-html/3/)  
+   Link: <a href="https://opencasebook.org/casebooks/230-federal-rules-of-evidence/as-printable-html/3/" target="_blank" rel="noopener noreferrer nofollow">https://opencasebook.org/casebooks/230-federal-rules-of-evidence/as-printable-html/3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Rules of Evidence: Impeachment and WitnessesThe second sentence of Rule 608(b) as submitted by the Court permitted specific insta...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/YAPAHF](https://philpapers.org/rec/YAPAHF)  
+   Link: <a href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/YAPAHF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevant personal...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/philosophy/comments/5zbror/the_ad_hominem_fallacy_fallacy/](https://www.reddit.com/r/philosophy/comments/5zbror/the_ad_hominem_fallacy_fallacy/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/5zbror/the_ad_hominem_fallacy_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/5zbror/the_ad_hominem_fallacy_fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ad Hominem Fallacy Fallacy: r/philosophyAd hominem... is a logical fallacy in which an argument is rebutted by attacking the charact...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: api.pageplace.de  
-   Link: [https://api.pageplace.de/preview/DT0400.9781316040607_A25932937/preview-9781316040607_A25932937.pdf](https://api.pageplace.de/preview/DT0400.9781316040607_A25932937/preview-9781316040607_A25932937.pdf)  
+   Link: <a href="https://api.pageplace.de/preview/DT0400.9781316040607_A25932937/preview-9781316040607_A25932937.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9781316040607_A25932937/preview-9781316040607_A25932937.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SchemesFor example, arguments based on expert opinion have long been categorized in logic textbooks under the heading of fallacious appea...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/papers/appeal-to-expert-opinion-arguments-from-authority-2oxftgop0g](https://scispace.com/papers/appeal-to-expert-opinion-arguments-from-authority-2oxftgop0g)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SciSpaceAppeal to Expert Opinion: Arguments from AuthorityWhen is an appeal to the opinion of an expert a reasonable type of argument to...</p></details>
+   Link: <a href="https://scispace.com/papers/appeal-to-expert-opinion-arguments-from-authority-2oxftgop0g" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/appeal-to-expert-opinion-arguments-from-authority-2oxftgop0g</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Expert Opinion: Arguments from AuthorityWhen is an appeal to the opinion of an expert a reasonable type of argument to...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: courts.nh.gov  
    Title: rule 608 witnesss character truthfulness or untruthfulness  
-   Link: [https://www.courts.nh.gov/rules-evidence/rule-608-witnesss-character-truthfulness-or-untruthfulness](https://www.courts.nh.gov/rules-evidence/rule-608-witnesss-character-truthfulness-or-untruthfulness)  
+   Link: <a href="https://www.courts.nh.gov/rules-evidence/rule-608-witnesss-character-truthfulness-or-untruthfulness" target="_blank" rel="noopener noreferrer nofollow">https://www.courts.nh.gov/rules-evidence/rule-608-witnesss-character-truthfulness-or-untruthfulness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Witness&#x27;s Character for Truthfulness or...A witness&#x27;s credibility may be attacked or supported by testimony about the witness&#x27;s reputa...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/](https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/)  
+   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>appeals to authority Douglas Walton recommends a similar list of critical questions (D...</p></details>

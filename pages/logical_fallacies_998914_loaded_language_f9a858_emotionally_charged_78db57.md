@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:03:48'
 parent_title: What Is the Wording Sneaking In? | Fallacy Lab
 parent_permalink: /loaded-words/
 parent_nav_short_title: Loaded Words
@@ -265,7 +266,6 @@ next_link:
   permalink: /hidden-assumptions/
   short_title: Hidden Assumptions
   heading_title: How to Detect the Premises No One Defends
-date: '2026-06-05 02:03:48 '
 header:
   og_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_emotionally_charged_78db57-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_emotionally_charged_78db57-Illustration-1.webp
@@ -278,7 +278,7 @@ Emotionally charged labels become a problem when they do argumentative work befo
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_emotionally_charged_78db57-Illustration-1-dark.svg" | relative_url }}" alt="Charged Labels illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_emotionally_charged_78db57-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_emotionally_charged_78db57-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean strong language is always wrong. Sometimes the evidence genuinely supports strong descriptions. The fallacy risk arises when the label arrives first and the proof arrives later—or never arrives at all. In that situation, the audience may be persuaded by the emotional force of the wording rather than by a demonstrated case. Research on persuasion and framing shows that emotionally [loaded language]({{ 'loaded-words/' | relative_url }}) can significantly influence judgement, while studies of framing demonstrate that the way information is presented can shape how people think, feel, and act. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Psychology of Framing: How Everyday Language...by SJ Flusberg · 2024 · Cited by 91 — Framing a discussion one way or an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPersuasion, Emotion, and Language: The Intent to...by MD Rocklage · 2018 · Cited by 175 — This work revealed that the intent to pe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/journals/psychological-science/0956797617744797/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Association for Psychological SciencePersuasion, Emotion, and Language: The Intent to...This research examined the possibility that peop...</span></span></span>
+This does not mean strong language is always wrong. Sometimes the evidence genuinely supports strong descriptions. The fallacy risk arises when the label arrives first and the proof arrives later—or never arrives at all. In that situation, the audience may be persuaded by the emotional force of the wording rather than by a demonstrated case. Research on persuasion and framing shows that emotionally loaded language can significantly influence judgement, while studies of framing demonstrate that the way information is presented can shape how people think, feel, and act. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Psychology of Framing: How Everyday Language...by SJ Flusberg · 2024 · Cited by 91 — Framing a discussion one way or an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Persuasion, Emotion, and Language: The Intent to...by MD Rocklage · 2018 · Cited by 175 — This work revealed that the intent to pe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/journals/psychological-science/0956797617744797/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Association for Psychological SciencePersuasion, Emotion, and Language: The Intent to...This research examined the possibility that peop...</span></span></span>
 
 ## Are the Labels Doing More Than the Evidence?
 
@@ -299,7 +299,7 @@ In each case, the first version contains an evaluative judgement embedded in the
 
 The mechanism is subtle because labels often appear to be factual descriptions. Yet many labels are actually conclusions. Calling an action “corrupt” is not merely reporting an event; it is asserting that improper conduct occurred. Calling a policy “humane” is not merely identifying its existence; it is asserting a moral evaluation. The label therefore smuggles part of the argument into the premise.
 
-Research on persuasion suggests that people naturally increase the emotional content of their language when trying to convince others. Experiments have found that the intention to persuade tends to make communicators use more emotionally charged words, even in situations where emotional appeals may not be the most effective strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPersuasion, Emotion, and Language: The Intent to...by MD Rocklage · 2018 · Cited by 175 — This work revealed that the intent to pe...</span></span></span>
+Research on persuasion suggests that people naturally increase the emotional content of their language when trying to convince others. Experiments have found that the intention to persuade tends to make communicators use more emotionally charged words, even in situations where emotional appeals may not be the most effective strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Persuasion, Emotion, and Language: The Intent to...by MD Rocklage · 2018 · Cited by 175 — This work revealed that the intent to pe...</span></span></span>
 
 ## Condemnation Before Proof
 
@@ -352,9 +352,9 @@ Each phrase encourages approval before the supporting case has been made.
 
 Calling a proposal “humane” suggests moral virtue. Calling a leader “visionary” implies unusual insight. Calling a policy “common-sense” implies that disagreement is unreasonable. The audience receives a recommendation disguised as a description.
 
-This matters because positive labels can discourage scrutiny. If a programme is repeatedly introduced as compassionate, critics may feel pressure to defend themselves against the implication that they oppose compassion rather than simply questioning effectiveness. The [emotional framing]({{ 'fake-news/' | relative_url }}) changes the burden of discussion.
+This matters because positive labels can discourage scrutiny. If a programme is repeatedly introduced as compassionate, critics may feel pressure to defend themselves against the implication that they oppose compassion rather than simply questioning effectiveness. The emotional framing changes the burden of discussion.
 
-The persuasive power of such framing is consistent with broader psychological research showing that linguistic framing affects judgement across domains including politics, health communication, journalism, business, and law. How a proposal is described can influence reactions independently of the underlying facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedPersuasion, Emotion, and Language: The Intent to...by MD Rocklage · 2018 · Cited by 175 — This work revealed that the intent to pe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reed.edu">[Reed College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reed.edu</span><span class="citation-popover-snippet">Reed CollegeHow Everyday Language Shapes the Way We Think, Feel...by SJ Flusberg · 2024 · Cited by 91 — Throughout the article, we emph...</span></span></span>
+The persuasive power of such framing is consistent with broader psychological research showing that linguistic framing affects judgement across domains including politics, health communication, journalism, business, and law. How a proposal is described can influence reactions independently of the underlying facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Persuasion, Emotion, and Language: The Intent to...by MD Rocklage · 2018 · Cited by 175 — This work revealed that the intent to pe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reed.edu">[Reed College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reed.edu</span><span class="citation-popover-snippet">Reed CollegeHow Everyday Language Shapes the Way We Think, Feel...by SJ Flusberg · 2024 · Cited by 91 — Throughout the article, we emph...</span></span></span>
 
 ## Why Labels Feel Like Evidence
 
@@ -383,7 +383,7 @@ This shortcut reduces the audience's need to analyse intermediate steps. Rather 
 
 Studies of framing emphasise that communicators must choose what to say and how to say it. These framing choices influence interpretation by highlighting some aspects of a situation while downplaying others. A charged label can therefore shape judgement before formal argument begins. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Psychology of Framing: How Everyday Language...by SJ Flusberg · 2024 · Cited by 91 — Framing a discussion one way or an...</span></span></span>
 
-The effect is not limited to politics. It appears in workplace evaluations, legal disputes, consumer advertising, [social media]({{ 'social-media/' | relative_url }}) discussions, and personal conflicts. Any context involving persuasion creates incentives to choose language that nudges judgement.
+The effect is not limited to politics. It appears in workplace evaluations, legal disputes, consumer [advertising]({{ 'advertising/' | relative_url }}), [social media]({{ 'social-media/' | relative_url }}) discussions, and personal conflicts. Any context involving persuasion creates incentives to choose language that nudges judgement.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BRflpIUqYiI" title="Complex Question (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BRflpIUqYiI" target="_blank" rel="noopener noreferrer">Complex Question (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 21.3K &middot; Uploaded: February 2014 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BRflpIUqYiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BRflpIUqYiI">Open on YouTube</a></p></div></div></div>
@@ -441,11 +441,11 @@ If the argument collapses once the label is removed, the label was probably carr
 This method resembles the broader critical-thinking practice of separating claims from framing. In discussions of [loaded questions]({{ 'loaded-questions/' | relative_url }}) and presuppositions, philosophers often recommend identifying the hidden assumption before addressing the claim itself. The same principle applies here: identify the judgement embedded in the label, then ask whether it has been independently established. [Philosophy Home Page+3Internet Encyclopedia of Philosophy+3Internet Encyclopedia of Philosophy]
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/voJszy317mk" title="Change My Mind: Loaded Language" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=voJszy317mk" target="_blank" rel="noopener noreferrer">Change My Mind: Loaded Language</a></p><p class="youtube-embed-meta">Channel: PBS Western Reserve &middot; Views: 20.1K &middot; Uploaded: February 2011 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=voJszy317mk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=voJszy317mk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E3BDJaMmKfc" title="Change My Mind: Appeal to Authority" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E3BDJaMmKfc" target="_blank" rel="noopener noreferrer">Change My Mind: Appeal to Authority</a></p><p class="youtube-embed-meta">Channel: PBS Western Reserve &middot; Views: 13.0K &middot; Uploaded: February 2011 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E3BDJaMmKfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E3BDJaMmKfc">Open on YouTube</a></p></div></div></div>
 
 ## The Real Risk
 
-The danger of emotionally charged labels is not emotion itself. Human communication inevitably contains emotion, values, and moral judgement. The risk is that a label can make a conclusion feel settled before the supporting case has been examined.
+The danger of emotionally charged labels is not [emotion]({{ 'emotion/' | relative_url }}) itself. Human communication inevitably contains emotion, values, and moral judgement. The risk is that a label can make a conclusion feel settled before the supporting case has been examined.
 
 When readers or listeners encounter words such as “corrupt”, “heroic”, “reckless”, “humane”, or “dangerous”, the most useful response is not immediate agreement or disagreement. It is a question:
 
@@ -874,104 +874,104 @@ If the evidence clearly supports it, the label may be accurate. If the label arr
 
 1. <a id="endnote-1"></a>
    Source: reed.edu  
-   Link: [https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf](https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf)  
+   Link: <a href="https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reed CollegeHow Everyday Language Shapes the Way We Think, Feel...by SJ Flusberg · 2024 · Cited by 91 — Throughout the article, we emph...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition)  
+   Link: <a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PresuppositionAccording to the presupposition thesis, both (2) and (3) presuppose (4). Hence, if (4) is false, then (2) and (3) must lack...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29543563/](https://pubmed.ncbi.nlm.nih.gov/29543563/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedPersuasion, Emotion, and Language: The Intent to...by MD Rocklage · 2018 · Cited by 175 — This work revealed that the intent to pe...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29543563/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Persuasion, Emotion, and Language: The Intent to...by MD Rocklage · 2018 · Cited by 175 — This work revealed that the intent to pe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: psychologicalscience.org  
-   Link: [https://www.psychologicalscience.org/journals/psychological-science/0956797617744797/](https://www.psychologicalscience.org/journals/psychological-science/0956797617744797/)  
+   Link: <a href="https://www.psychologicalscience.org/journals/psychological-science/0956797617744797/" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/journals/psychological-science/0956797617744797/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological SciencePersuasion, Emotion, and Language: The Intent to...This research examined the possibility that peop...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: That is, we must decide how to frame the message  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39704149/](https://pubmed.ncbi.nlm.nih.gov/39704149/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedHow Everyday Language Shapes the Way We Think, Feel...by SJ Flusberg · 2024 · Cited by 91 — When we use language to communicate, w...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39704149/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39704149/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Everyday Language Shapes the Way We Think, Feel...by SJ Flusberg · 2024 · Cited by 91 — When we use language to communicate, w...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/15291006241246966](https://journals.sagepub.com/doi/abs/10.1177/15291006241246966)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/15291006241246966</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Psychology of Framing: How Everyday Language...by SJ Flusberg · 2024 · Cited by 91 — Framing a discussion one way or an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Psychological Science in the Public Interest  
-   Link: [https://journals.sagepub.com/toc/psia/25/3](https://journals.sagepub.com/toc/psia/25/3)  
+   Link: <a href="https://journals.sagepub.com/toc/psia/25/3" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/toc/psia/25/3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When we use language to communicate, we must choose what to say, what not to say, and how to say it. That is, we must decide how...Read...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/15291006241246966](https://journals.sagepub.com/doi/10.1177/15291006241246966)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15291006241246966</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Psychology of Framing: How Everyday Language...20 Dec 2024 — Throughout the article, we emphasize the [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;) of fram...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; Examples13 Feb 2026 — An argument may be fallacious in three ways: in its material content, through a misstatement of...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Question FallacyDescription: A question that has a presupposition built in, which implies something but protects the one asking t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: rep.routledge.com  
-   Link: [https://www.rep.routledge.com/articles/thematic/questions/v-1](https://www.rep.routledge.com/articles/thematic/questions/v-1)  
+   Link: <a href="https://www.rep.routledge.com/articles/thematic/questions/v-1" target="_blank" rel="noopener noreferrer nofollow">https://www.rep.routledge.com/articles/thematic/questions/v-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Routledge Encyclopedia of PhilosophyQuestionsMost hold that each question has an assertive core or presupposition that is implied by each...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Complex Question is a form of Begging the Question. Composition. The Compositi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesYou use this fallacy when you frame a question so that some controversial presupposition is m...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/387275543_The_Psychology_of_Framing_How_Everyday_Language_Shapes_the_Way_We_Think_Feel_and_Act](https://www.researchgate.net/publication/387275543_The_Psychology_of_Framing_How_Everyday_Language_Shapes_the_Way_We_Think_Feel_and_Act)  
+   Link: <a href="https://www.researchgate.net/publication/387275543_The_Psychology_of_Framing_How_Everyday_Language_Shapes_the_Way_We_Think_Feel_and_Act" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387275543_The_Psychology_of_Framing_How_Everyday_Language_Shapes_the_Way_We_Think_Feel_and_Act</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2024) have crafted a comprehensive review examining the effects of linguistic framing on health, social, political, and interpersonal be...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: answers-in-reason.com  
    Title: Category Errors and Meaningless Propositions: Why Bricks Can't Be  
-   Link: [https://www.answers-in-reason.com/philosophy/epistemology/logic/fallacies/category-error/category-errors-and-meaningless-propositions-why-bricks-cant-be-happy/](https://www.answers-in-reason.com/philosophy/epistemology/logic/fallacies/category-error/category-errors-and-meaningless-propositions-why-bricks-cant-be-happy/)  
+   Link: <a href="https://www.answers-in-reason.com/philosophy/epistemology/logic/fallacies/category-error/category-errors-and-meaningless-propositions-why-bricks-cant-be-happy/" target="_blank" rel="noopener noreferrer nofollow">https://www.answers-in-reason.com/philosophy/epistemology/logic/fallacies/category-error/category-errors-and-meaningless-propositions-why-bricks-cant-be-happy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 11, 2024 — The intent behind loaded questions is typically to throw the respondent off guard, potentially making them reveal a se...</p></details>
    Published: October 11, 2024  
 
 16. <a id="endnote-16"></a>
    Source: kellogg.northwestern.edu  
    Title: persuasion emotion and language the intent to persuade transforms  
-   Link: [https://www.kellogg.northwestern.edu/academics-research/research/detail/2018/persuasion-emotion-and-language-the-intent-to-persuade-transforms/](https://www.kellogg.northwestern.edu/academics-research/research/detail/2018/persuasion-emotion-and-language-the-intent-to-persuade-transforms/)  
+   Link: <a href="https://www.kellogg.northwestern.edu/academics-research/research/detail/2018/persuasion-emotion-and-language-the-intent-to-persuade-transforms/" target="_blank" rel="noopener noreferrer nofollow">https://www.kellogg.northwestern.edu/academics-research/research/detail/2018/persuasion-emotion-and-language-the-intent-to-persuade-transforms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2018. Persuasion, Emotion, and Language: The Intent to Persuade Transforms Language via Emotionality. Psychological Science. (5)749-760.R...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/complex.html](https://philosophy.lander.edu/logic/complex.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageFallacy of Complex QuestionThe complex question fallacy is usually resolved by challenging the false or dubious presu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: psychologicalscience.org  
    Title: 25, No. 3) PDF & HTML (Available to the Public).Read more  
-   Link: [https://www.psychologicalscience.org/publications/pspi/pspi-archive](https://www.psychologicalscience.org/publications/pspi/pspi-archive)  
+   Link: <a href="https://www.psychologicalscience.org/publications/pspi/pspi-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/pspi/pspi-archive</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Science in the Public Interest ArchiveThe Psychology of Framing: How Everyday Language Shapes the Way We Think, Feel, and A...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 283236860 Effects of emotional expressions on persuasion  
-   Link: [https://www.researchgate.net/publication/283236860_Effects_of_emotional_expressions_on_persuasion](https://www.researchgate.net/publication/283236860_Effects_of_emotional_expressions_on_persuasion)  
+   Link: <a href="https://www.researchgate.net/publication/283236860_Effects_of_emotional_expressions_on_persuasion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/283236860_Effects_of_emotional_expressions_on_persuasion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of emotional expressions on persuasion29 Oct 2015 — Emotionally charged messages can distort truth perception, and recent r...</p></details>

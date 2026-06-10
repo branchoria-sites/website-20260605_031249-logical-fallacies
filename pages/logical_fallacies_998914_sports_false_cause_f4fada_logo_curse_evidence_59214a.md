@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:29:05'
 parent_title: Did the Logo Cause the Losing Streak? | Fallacy Lab
 parent_permalink: /sports-cause/
 parent_nav_short_title: Sports Cause
@@ -259,7 +260,6 @@ next_link:
   permalink: /fan-backlash/
   short_title: Fan Backlash
   heading_title: Why New Sports Logos Make Fans Angry
-date: '2026-06-05 02:29:05 '
 header:
   og_image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-1.webp
@@ -282,10 +282,10 @@ First, there must be a plausible pathway from the symbol to on-field performance
 
 Second, the effect should appear consistently rather than selectively. If a team wins repeatedly after a redesign, those matches must count as evidence too. One of the strongest warning signs of superstition is remembering the “hits” and forgetting the “misses”. Research on sports superstition shows that people often maintain beliefs because occasional successes reinforce them, even when failures occur just as often. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Demystifying Sport Superstition</span><span class="citation-popover-snippet">Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</span><span class="citation-popover-meta">Published: August 16, 2016</span></span></span>
 
-Third, the claim should survive comparison with similar teams. If dozens of clubs redesign logos and most [experience]({{ 'experience/' | relative_url }}) no unusual decline, that weakens the idea that redesigns typically cause competitive failure. Research on sport rebranding has found measurable effects on fan attitudes and merchandise intentions, but that is different from demonstrating a direct effect on wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">EmeraldSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</span></span></span> CoLab A useful test is to ask whether an analyst who knew nothing about the logo would still predict the team's decline from injuries <span class="citation-chip-wrap"><a class="citation-chip" href="https://colab.ws/articles/10.1108/ijsms-01-2021-0016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colab.ws">[colab.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colab.ws</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...28 Jun 2021 — The findings advance the current body of knowledge on sp...</span></span></span>, squad age, financial constraints or tactical issues alone. If the answer is yes, the logo adds little explanatory value.
+Third, the claim should survive comparison with similar teams. If dozens of clubs redesign logos and most [experience]({{ 'experience/' | relative_url }}) no unusual decline, that weakens the idea that redesigns typically cause competitive failure. Research on sport rebranding has found measurable effects on fan attitudes and merchandise intentions, but that is different from demonstrating a direct effect on wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</span></span></span> CoLab A useful test is to ask whether an analyst who knew nothing about the logo would still predict the team's decline from injuries <span class="citation-chip-wrap"><a class="citation-chip" href="https://colab.ws/articles/10.1108/ijsms-01-2021-0016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colab.ws">[colab.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colab.ws</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...28 Jun 2021 — The findings advance the current body of knowledge on sp...</span></span></span>, squad age, financial constraints or tactical issues alone. If the answer is yes, the logo adds little explanatory value.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5A7hSaoRv0g" title="CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 189.1K &middot; Uploaded: February 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5A7hSaoRv0g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GIR6x6AdyOg" title="The Last of the Sports Curses (HBO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GIR6x6AdyOg" target="_blank" rel="noopener noreferrer">The Last of the Sports Curses (HBO)</a></p><p class="youtube-embed-meta">Channel: Any Given Wednesday with Bill Simmons &middot; Views: 12.5K &middot; Uploaded: November 2016 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GIR6x6AdyOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GIR6x6AdyOg">Open on YouTube</a></p></div></div></div>
 
 ## Performance Variables to Check First
 
@@ -295,11 +295,11 @@ Before considering a curse explanation, several performance variables deserve at
 
 **Opponent quality.** A difficult run of fixtures can make a strong team look weak. A losing streak against elite opponents is not equivalent to a losing streak against struggling teams.
 
-**Underlying performance data.** Results can be misleading in [small samples]({{ 'small-samples/' | relative_url }}). Football analysts often examine shot quality, expected goals and related measures because they reveal performance patterns that raw wins and losses may hide. A team can play well and still lose several matches through variance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oec.uzh.ch">[OEC UZH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oec.uzh.ch</span><span class="citation-popover-snippet">OEC UZHLuck vs. skill – the role of sports data analyticsShots are positively correlated with goals and occur much more often. However, b...</span></span></span>
+**Underlying performance data.** Results can be misleading in [small samples]({{ 'small-samples/' | relative_url }}). Football analysts often examine shot quality, expected goals and related measures because they reveal performance patterns that raw wins and losses may hide. A team can play well and still lose several matches through variance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oec.uzh.ch">[OEC UZH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oec.uzh.ch</span><span class="citation-popover-snippet">Luck vs. skill – the role of sports data analyticsShots are positively correlated with goals and occur much more often. However, b...</span></span></span>
 
 **Tactical and coaching changes.** New systems frequently require adaptation. Short-term declines may reflect tactical transition rather than symbolic factors.
 
-**Luck and randomness.** Sporting outcomes contain substantial uncertainty. Research on luck in sport highlights how random variation can cluster, creating apparent patterns that observers mistake for meaningful causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scitechnol.com">[SciTechnol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scitechnol.com</span><span class="citation-popover-snippet">SciTechnolLuck Clustering in Sports: Applications and Implications for...This study concentrates on the application of luck clustering i...</span></span></span>
+**Luck and randomness.** Sporting outcomes contain substantial uncertainty. Research on luck in sport highlights how random variation can cluster, creating apparent patterns that observers mistake for meaningful causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scitechnol.com">[SciTechnol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scitechnol.com</span><span class="citation-popover-snippet">Luck Clustering in Sports: Applications and Implications for...This study concentrates on the application of luck clustering i...</span></span></span>
 
 These variables are not merely alternative explanations. They are explanations with established [mechanisms]({{ 'mechanisms/' | relative_url }}) linking them to results. A logo-curse theory must outperform them, not simply coexist with them.
 
@@ -307,7 +307,7 @@ These variables are not merely alternative explanations. They are explanations w
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Checks illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Fan Reactions Are Not the Same as Match Outcomes
 
-Supporters often react strongly to logo changes because logos are tied to identity, [tradition]({{ 'tradition/' | relative_url }}) and belonging. Studies of sport rebranding consistently find that redesigns can affect attitudes toward the team brand and willingness to purchase merchandise, particularly among highly identified fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">EmeraldSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</span></span></span> ResearchGate This matters because it explains why logo disputes feel important. Fans are not irrational for caring about symbols. The mistake occurs when <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</span></span></span> dissatisfaction with a redesign is automatically treated as evidence about competitive performance.
+Supporters often react strongly to logo changes because logos are tied to identity, [tradition]({{ 'tradition/' | relative_url }}) and belonging. Studies of sport rebranding consistently find that redesigns can affect attitudes toward the team brand and willingness to purchase merchandise, particularly among highly identified fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</span></span></span> ResearchGate This matters because it explains why logo disputes feel important. Fans are not irrational for caring about symbols. The mistake occurs when <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</span></span></span> dissatisfaction with a redesign is automatically treated as evidence about competitive performance.
 
 Research on fan identification and superstition also shows that stronger emotional attachment can be associated with greater superstition and ritual behaviour. Highly committed supporters are often more likely to perceive symbolic actions as consequential. ResearchGate <span class="citation-chip-wrap"><a class="citation-chip" href="https://go.gale.com/ps/i.do?id=GALE%7CA539213377&amp;issn=01627341&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: go.gale.com">[Gale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">go.gale.com</span><span class="citation-popover-snippet">Importance of Team Identification, Sport Fandom, and...by DL Wann · 2018 · Cited by 20 — Previous research had found that both team iden...</span></span></span>
 
@@ -324,7 +324,7 @@ This indirect pathway is more plausible because it uses recognised psychological
 However, even here the logo is usually acting as a signal rather than a magical force. The relevant causal story becomes:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GIR6x6AdyOg" title="The Last of the Sports Curses (HBO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GIR6x6AdyOg" target="_blank" rel="noopener noreferrer">The Last of the Sports Curses (HBO)</a></p><p class="youtube-embed-meta">Channel: Any Given Wednesday with Bill Simmons &middot; Views: 12.5K &middot; Uploaded: November 2016 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GIR6x6AdyOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GIR6x6AdyOg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5A7hSaoRv0g" title="CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 189.1K &middot; Uploaded: February 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5A7hSaoRv0g">Open on YouTube</a></p></div></div></div>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -338,7 +338,7 @@ However, even here the logo is usually acting as a signal rather than a magical 
 That is a very different claim from saying that a redesigned crest itself cursed the team.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c9TyRXd_S7U" title="Post Hoc Ergo Propter Hoc (Easiest 3-Minute Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c9TyRXd_S7U" target="_blank" rel="noopener noreferrer">Post Hoc Ergo Propter Hoc (Easiest 3-Minute Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 2.3K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c9TyRXd_S7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c9TyRXd_S7U">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UNuWpJODsYg" title="Post Hoc Ergo Propter Hoc Fallacy--Writing Notes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UNuWpJODsYg" target="_blank" rel="noopener noreferrer">Post Hoc Ergo Propter Hoc Fallacy--Writing Notes</a></p><p class="youtube-embed-meta">Channel: Writing Notes &middot; Views: 75 &middot; Uploaded: October 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UNuWpJODsYg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UNuWpJODsYg">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Evidence Checklist
 
@@ -781,144 +781,144 @@ If those questions cannot be answered convincingly, the logo-curse explanation i
 
 1. <a id="endnote-1"></a>
    Source: storage.e.jimdo.com  
-   Link: [https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf](https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf)  
+   Link: <a href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</p></details>
    Published: June 7, 2018  
 
 2. <a id="endnote-2"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees](https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EmeraldSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</p></details>
+   Link: <a href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: colab.ws  
-   Link: [https://colab.ws/articles/10.1108/ijsms-01-2021-0016](https://colab.ws/articles/10.1108/ijsms-01-2021-0016)  
+   Link: <a href="https://colab.ws/articles/10.1108/ijsms-01-2021-0016" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1108/ijsms-01-2021-0016</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport rebranding: the effect of different degrees of sport logo...28 Jun 2021 — The findings advance the current body of knowledge on sp...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League](https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League)  
+   Link: <a href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oec.uzh.ch  
-   Link: [https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html](https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OEC UZHLuck vs. skill – the role of sports data analyticsShots are positively correlated with goals and occur much more often. However, b...</p></details>
+   Link: <a href="https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oec.uzh.ch/en/current/magazine/luck-vs-skill-the-role-of-sport-data-analytics.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luck vs. skill – the role of sports data analyticsShots are positively correlated with goals and occur much more often. However, b...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scitechnol.com  
-   Link: [https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281](https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SciTechnolLuck Clustering in Sports: Applications and Implications for...This study concentrates on the application of luck clustering i...</p></details>
+   Link: <a href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow">https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luck Clustering in Sports: Applications and Implications for...This study concentrates on the application of luck clustering i...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise](https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise)  
+   Link: <a href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification](https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateExamining the superstitions of sport fans... Studies have shown that the more fans identify with their team, the more likely...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288259527_Examining_the_superstitions_of_sport_fans_Types_of_superstitions_perceptions_of_impact_and_relationship_with_team_identification</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the superstitions of sport fans... Studies have shown that the more fans identify with their team, the more likely...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: go.gale.com  
-   Link: [https://go.gale.com/ps/i.do?id=GALE%7CA539213377&issn=01627341&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1](https://go.gale.com/ps/i.do?id=GALE%7CA539213377&issn=01627341&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1)  
+   Link: <a href="https://go.gale.com/ps/i.do?id=GALE%7CA539213377&amp;issn=01627341&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1" target="_blank" rel="noopener noreferrer nofollow">https://go.gale.com/ps/i.do?id=GALE%7CA539213377&amp;issn=01627341&amp;it=r&amp;linkaccess=abs&amp;p=AONE&amp;sid=googleScholar&amp;sw=w&amp;v=2.1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Team Identification, Sport Fandom, and...by DL Wann · 2018 · Cited by 20 — Previous research had found that both team iden...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCJinx, Control, and the Necessity of Adjustment  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8526551/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govJinx, Control, and the Necessity of Adjustment - PMC - NIHby O Levental · 2021 · Cited by 26 — This paper aims to provide a qualit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention](https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention)  
+   Link: <a href="https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Demystifying Sport Superstition  
-   Link: [https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf](https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf)  
+   Link: <a href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</p></details>
    Published: August 16, 2016  
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994](https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02640414.2025.2532994</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineUnderstanding the use of superstitious rituals in sports...by B Morris · 2025 · Cited by 4 — Athletes may create...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Factors Influencing Fan Acceptance or Rejection of a Sport  
-   Link: [https://journals.sagepub.com/doi/10.32731/SMQ.322.062023.01](https://journals.sagepub.com/doi/10.32731/SMQ.322.062023.01)  
+   Link: <a href="https://journals.sagepub.com/doi/10.32731/SMQ.322.062023.01" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.32731/SMQ.322.062023.01</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>identification on attitude and purchase intention of team-logoed merchandise. Journal of Sport Management, 27(1), 11–23. Crossref · Googl...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12457826/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12457826/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby T Xie · 2025 · Cited by 2 — Causal inference of athletic injuries provides the critical foundations for the development of effectiv...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12457826/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12457826/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Xie · 2025 · Cited by 2 — Causal inference of athletic injuries provides the critical foundations for the development of effectiv...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833](https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/16184742.2025.2462643](https://www.tandfonline.com/doi/full/10.1080/16184742.2025.2462643)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/16184742.2025.2462643" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/16184742.2025.2462643</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineIt&#x27;s all about community: how new niche sports franchises...by J Boehmer · 2025 · Cited by 3 — This study investi...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2110.00001](https://arxiv.org/abs/2110.00001)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Relative Importance of Ability, Luck and Motivation in Team Sports: a Bayesian Model of Performance in the English Rugby Premier...</p></details>
+   Link: <a href="https://arxiv.org/abs/2110.00001" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.00001</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Relative Importance of Ability, Luck and Motivation in Team Sports: a Bayesian Model of Performance in the English Rugby Premier...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise](https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise)  
+   Link: <a href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: westga.edu  
-   Link: [https://www.westga.edu/share/documents/pubs/091175_869.pdf](https://www.westga.edu/share/documents/pubs/091175_869.pdf)  
+   Link: <a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: scienceon.kisti.re.kr  
    Title: kisti.re.kr[논문]Sport rebranding: the effect of different degrees  
-   Link: [https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART117712579](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART117712579)  
+   Link: <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART117712579" target="_blank" rel="noopener noreferrer nofollow">https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NART117712579</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>logo redesign and fan identification levels on brand attitude and purchase intention. Moreover, the current research has important implic...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: catapult.com  
    Title: It's a new approach that takes the guesswork out of coaching  
-   Link: [https://www.catapult.com/blog/what-is-sports-analytics](https://www.catapult.com/blog/what-is-sports-analytics)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CatapultSports Analytics: What is it &amp; How it Improves Performance?20 Mar 2024 — Sports analytics is about using data to help athletes an...</p></details>
+   Link: <a href="https://www.catapult.com/blog/what-is-sports-analytics" target="_blank" rel="noopener noreferrer nofollow">https://www.catapult.com/blog/what-is-sports-analytics</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sports Analytics: What is it &amp; How it Improves Performance?20 Mar 2024 — Sports analytics is about using data to help athletes an...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1464666821000357](https://www.sciencedirect.com/org/science/article/pii/S1464666821000357)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1464666821000357</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scirp.org  
-   Link: [https://www.scirp.org/journal/paperinformation?paperid=145316](https://www.scirp.org/journal/paperinformation?paperid=145316)  
+   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=145316" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=145316</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ics and the performance metrics in professional football using sport data analytics...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: econbiz.de  
-   Link: [https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473](https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473)  
+   Link: <a href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow">https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: spectrum.library.concordia.ca  
    Title: International Journal of Sports Marketing  
-   Link: [https://spectrum.library.concordia.ca/id/eprint/995226/](https://spectrum.library.concordia.ca/id/eprint/995226/)  
+   Link: <a href="https://spectrum.library.concordia.ca/id/eprint/995226/" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.library.concordia.ca/id/eprint/995226/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Effects of a Sports Team&#x27;s Rebranding on its...by J Wimez · 2025 — Sport rebranding: the effect of different degrees of sport logo r...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40nikhilpmarihal9/correlation-vs-causation-in-sports-why-your-favorite-player-isnt-always-the-mvp-8fdf79d0fa80](https://medium.com/%40nikhilpmarihal9/correlation-vs-causation-in-sports-why-your-favorite-player-isnt-always-the-mvp-8fdf79d0fa80)  
+   Link: <a href="https://medium.com/%40nikhilpmarihal9/correlation-vs-causation-in-sports-why-your-favorite-player-isnt-always-the-mvp-8fdf79d0fa80" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40nikhilpmarihal9/correlation-vs-causation-in-sports-why-your-favorite-player-isnt-always-the-mvp-8fdf79d0fa80</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>causes your team to win, that&#x27;s causation. The catch: not every...</p></details>

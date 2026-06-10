@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:21:55'
 parent_title: When Does Emotion Replace Evidence? | Fallacy Lab
 parent_permalink: /emotion/
 parent_nav_short_title: Emotion
@@ -259,7 +260,6 @@ prev_link:
   permalink: /pity-proof/
   short_title: Pity Proof
   heading_title: When Pity Starts Doing the Proving
-date: '2026-06-05 02:21:55 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-1.webp
@@ -278,7 +278,7 @@ Within the broader family of appeals to [emotion]({{ 'emotion/' | relative_url }
 
 Understanding ad baculum requires separating two kinds of reasons that are often confused.
 
-A **reason to believe** concerns whether a proposition is true. Evidence, observation, reliable testimony, and sound inference belong in this category. A **reason to act** concerns what consequences may follow from a decision. Fear of punishment can be a powerful reason to act in a certain way, even when it provides no information about truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/appeal-to-force-fear-250346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Appeal to Force/Fear</span><span class="citation-popover-snippet">ThoughtCoAppeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</span></span></span>
+A **reason to believe** concerns whether a proposition is true. Evidence, observation, reliable testimony, and sound inference belong in this category. A **reason to act** concerns what consequences may follow from a decision. Fear of punishment can be a powerful reason to act in a certain way, even when it provides no information about truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/appeal-to-force-fear-250346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Appeal to Force/Fear</span><span class="citation-popover-snippet">Appeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</span></span></span>
 
 Consider the statement:
 
@@ -292,7 +292,7 @@ Philosophers and argumentation theorists have long noted this distinction. An ap
 
 The persuasive power of ad baculum does not come from evidence. It comes from psychological pressure.
 
-When people face threats, attention often shifts from evaluating a claim to managing risk. The immediate concern becomes avoiding punishment rather than examining reasons. This can make weak arguments appear stronger than they are because the audience's mental resources are directed towards consequences instead of evidence. Researchers examining appeal-to-force arguments have argued that intimidation can impede recognition of missing premises or unsupported assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2226-471X/7/2/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2226 471X</span><span class="citation-popover-snippet">MDPIBeliefs, Commitments, and Ad Baculum Argumentsby J Casey · 2022 · Cited by 7 — The appeal to force fallacy usually accomplishes its p...</span></span></span>
+When people face threats, attention often shifts from evaluating a claim to managing risk. The immediate concern becomes avoiding punishment rather than examining reasons. This can make weak arguments appear stronger than they are because the audience's mental resources are directed towards consequences instead of evidence. Researchers examining appeal-to-force arguments have argued that intimidation can impede recognition of missing premises or unsupported assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2226-471X/7/2/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">2226 471X</span><span class="citation-popover-snippet">Beliefs, Commitments, and Ad Baculum Argumentsby J Casey · 2022 · Cited by 7 — The appeal to force fallacy usually accomplishes its p...</span></span></span>
 
 The mechanism typically follows a pattern:
 
@@ -357,7 +357,7 @@ A legitimate warning takes the form:
 
 > “If certain facts are true, these consequences may follow.”
 
-The first confuses coercion with proof. The second discusses consequences while still leaving the factual question to evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://db.arabpsychology.com/argumentum-ad-baculum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: db.arabpsychology.com">[Psych Scales Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">db.arabpsychology.com</span><span class="citation-popover-snippet">Psych Scales DatabaseArgumentum Ad Baculum: Appeal to Force FallacyWhile threats and consequences are common elements in human interactio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thoughtco.com/appeal-to-force-fear-250346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Appeal to Force/Fear</span><span class="citation-popover-snippet">ThoughtCoAppeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</span></span></span>
+The first confuses coercion with proof. The second discusses consequences while still leaving the factual question to evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://db.arabpsychology.com/argumentum-ad-baculum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: db.arabpsychology.com">[Psych Scales Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">db.arabpsychology.com</span><span class="citation-popover-snippet">Psych Scales DatabaseArgumentum Ad Baculum: Appeal to Force FallacyWhile threats and consequences are common elements in human interactio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thoughtco.com/appeal-to-force-fear-250346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Appeal to Force/Fear</span><span class="citation-popover-snippet">Appeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LShYAhqpwJ0" title="Appeal to Force (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LShYAhqpwJ0" target="_blank" rel="noopener noreferrer">Appeal to Force (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 16.4K &middot; Uploaded: February 2014 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LShYAhqpwJ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LShYAhqpwJ0">Open on YouTube</a></p></div></div></div>
@@ -389,7 +389,7 @@ Instead of debating the threatened consequence, ask questions such as:
 
 </div>
 
-These questions redirect attention to the logical issue. They expose the gap between coercion and justification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">So, for example.Read more...</span></span></span> Encyclopedia of Philosophy Logically It is also useful to recognise that a prudent response and a rational belief need not be the same. A person may decide to comply with a deman <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[logicallyfallacious.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to ForceWhen force, coercion, or even a threat of force is used in place of a reason in an attempt to justify...</span></span></span> d because the threatened consequences are severe while still recognising that the threat does not establish the truth of the accompanying claim. That distinction preserves clear thinking even under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/appeal-to-force-fear-250346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Appeal to Force/Fear</span><span class="citation-popover-snippet">ThoughtCoAppeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</span></span></span>
+These questions redirect attention to the logical issue. They expose the gap between coercion and justification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">So, for example.Read more...</span></span></span> Encyclopedia of Philosophy Logically It is also useful to recognise that a prudent response and a rational belief need not be the same. A person may decide to comply with a deman <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[logicallyfallacious.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to ForceWhen force, coercion, or even a threat of force is used in place of a reason in an attempt to justify...</span></span></span> d because the threatened consequences are severe while still recognising that the threat does not establish the truth of the accompanying claim. That distinction preserves clear thinking even under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/appeal-to-force-fear-250346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Appeal to Force/Fear</span><span class="citation-popover-snippet">Appeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-3-dark.svg" | relative_url }}" alt="Threats illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -819,186 +819,186 @@ The enduring lesson of ad baculum is simple: power and truth are different thing
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>So, for example.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: thoughtco.com  
    Title: Thought Co Appeal to Force/Fear  
-   Link: [https://www.thoughtco.com/appeal-to-force-fear-250346](https://www.thoughtco.com/appeal-to-force-fear-250346)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ThoughtCoAppeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</p></details>
+   Link: <a href="https://www.thoughtco.com/appeal-to-force-fear-250346" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/appeal-to-force-fear-250346</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/adbacula.html](https://www.fallacyfiles.org/adbacula.html)  
+   Link: <a href="https://www.fallacyfiles.org/adbacula.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/adbacula.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Appeal to ForceAttempts to change people&#x27;s minds by threats of punishment are appeals... When force or the threat of fo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: uwindsor.scholaris.ca  
-   Link: [https://uwindsor.scholaris.ca/bitstreams/983e088b-3f28-48bd-abb2-3ebb46696ba8/download](https://uwindsor.scholaris.ca/bitstreams/983e088b-3f28-48bd-abb2-3ebb46696ba8/download)  
+   Link: <a href="https://uwindsor.scholaris.ca/bitstreams/983e088b-3f28-48bd-abb2-3ebb46696ba8/download" target="_blank" rel="noopener noreferrer nofollow">https://uwindsor.scholaris.ca/bitstreams/983e088b-3f28-48bd-abb2-3ebb46696ba8/download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: Ad...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mdpi.com  
    Title: 2226 471X  
-   Link: [https://www.mdpi.com/2226-471X/7/2/107](https://www.mdpi.com/2226-471X/7/2/107)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIBeliefs, Commitments, and Ad Baculum Argumentsby J Casey · 2022 · Cited by 7 — The appeal to force fallacy usually accomplishes its p...</p></details>
+   Link: <a href="https://www.mdpi.com/2226-471X/7/2/107" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-471X/7/2/107</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beliefs, Commitments, and Ad Baculum Argumentsby J Casey · 2022 · Cited by 7 — The appeal to force fallacy usually accomplishes its p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: logical-fallacy.com  
    Title: Logical Fallacy Argumentum Ad Baculum  
-   Link: [https://www.logical-fallacy.com/articles/argumentum-ad-baculum/](https://www.logical-fallacy.com/articles/argumentum-ad-baculum/)  
+   Link: <a href="https://www.logical-fallacy.com/articles/argumentum-ad-baculum/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/argumentum-ad-baculum/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>appeal to the force” symbolizing the use of force or threat. This... ad baculum fallacy by threatening to end the relationship unless...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Argumentum ad baculum  
-   Link: [https://en.wikipedia.org/wiki/Argumentum_ad_baculum](https://en.wikipedia.org/wiki/Argumentum_ad_baculum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentum_ad_baculum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_baculum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 19, 2025 —... argument may not always be fallacious, and cite instances where appealing to force or threat or fear could be rea...</p></details>
    Published: November 19, 2025  
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different [informal logics](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) support this aim by providing va...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/notes.html](https://plato.stanford.edu/entries/fallacies/notes.html)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/notes.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&gt; Notes (Stanford Encyclopedia of Philosophy)The scheme that Walton prefers is much more complicated (2010, 168) but the present abbrevia...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2025/entries/logic-informal/](https://plato.stanford.edu/archives/fall2025/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fallacy ad baculum. Walton 2007 accommodates the different goals associated with real life arguments by distinguishing between different...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2022/entries/argument/](https://plato.stanford.edu/archives/fall2022/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2022/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2022/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and ArgumentationJul 16, 2021 — The ad hominem fallacy, which involves bringing negative aspects of an arguer, or their situation, to arg...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: [Tu quoque](&#123;&#123; 'tu-quoque/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Tu_quoque](https://en.wikipedia.org/wiki/Tu_quoque)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemTu quoque · A makes a claim a. · B attacks the character of A by claiming they hold negative property x. · A defends themsel...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thoughtco.com  
    Title: appeal to force fallacy 1689121  
-   Link: [https://www.thoughtco.com/appeal-to-force-fallacy-1689121](https://www.thoughtco.com/appeal-to-force-fallacy-1689121)  
+   Link: <a href="https://www.thoughtco.com/appeal-to-force-fallacy-1689121" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/appeal-to-force-fallacy-1689121</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Appeal to Force Fallacy4 May 2019 — The appeal to force fallacy is a rhetorical fallacy that relies on force or intimid...</p></details>
    Published: May 2019  
 
 16. <a id="endnote-16"></a>
    Source: global.oup.com  
-   Link: [https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/](https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/)  
+   Link: <a href="https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/" target="_blank" rel="noopener noreferrer nofollow">https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oup.comSupplement: A Summary of the FallaciesAppeal to force (argumentum ad baculum, literally “argument from the stick”) A... force or...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to ForceWhen force, coercion, or even a threat of force is used in place of a reason in an attempt to justify...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: db.arabpsychology.com  
-   Link: [https://db.arabpsychology.com/argumentum-ad-baculum/](https://db.arabpsychology.com/argumentum-ad-baculum/)  
+   Link: <a href="https://db.arabpsychology.com/argumentum-ad-baculum/" target="_blank" rel="noopener noreferrer nofollow">https://db.arabpsychology.com/argumentum-ad-baculum/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psych Scales DatabaseArgumentum Ad Baculum: Appeal to Force FallacyWhile threats and consequences are common elements in human interactio...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: philosophy.lander.edu  
    Title: force ex  
-   Link: [https://philosophy.lander.edu/logic/force_ex.html](https://philosophy.lander.edu/logic/force_ex.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/force_ex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/force_ex.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Baculum - Argument from ForceThe fallacy of ad baculum occurs. The threat to investigators was a defensive, reflexive, but empty threat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/force.html](https://philosophy.lander.edu/logic/force.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/force.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/force.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Others restrict the fallacy to cases where the threat is made ineffectively or vacuously. E.g., John Woods, “Threats and Intimidation,”...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticized...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reasoning contains this fallacy if you make an irrelevant attack on the person arguing and suggest that this attack undermines the argume...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ently with the claims of the argument.Read more...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/WALSTA-23](https://philpapers.org/rec/WALSTA-23)  
+   Link: <a href="https://philpapers.org/rec/WALSTA-23" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALSTA-23</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scare Tactics: Arguments That Appeal to Fear and Threats.Such arguments come under the heading of the argumentum ad baculum, the `argumen...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: rephrasely.com  
-   Link: [https://rephrasely.com/usage/argumentum-ad-baculum-fallacy](https://rephrasely.com/usage/argumentum-ad-baculum-fallacy)  
+   Link: <a href="https://rephrasely.com/usage/argumentum-ad-baculum-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://rephrasely.com/usage/argumentum-ad-baculum-fallacy</a>  
 
 26. <a id="endnote-26"></a>
    Source: elearning.newgateuniversityminna.edu.ng  
    Title: newgateuniversityminna.edu.ng KNO W THE ELEMENTARY RULES OF REASONING | NUEL1  
-   Link: [https://elearning.newgateuniversityminna.edu.ng/mod/book/tool/print/index.php?id=2633](https://elearning.newgateuniversityminna.edu.ng/mod/book/tool/print/index.php?id=2633)  
+   Link: <a href="https://elearning.newgateuniversityminna.edu.ng/mod/book/tool/print/index.php?id=2633" target="_blank" rel="noopener noreferrer nofollow">https://elearning.newgateuniversityminna.edu.ng/mod/book/tool/print/index.php?id=2633</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad baculum, is a logical fallacy that occurs when someone uses a threat of force or negative consequences to persuade others t...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
    Title: 226349867 The Nature of the Argumentum ad baculum  
-   Link: [https://www.researchgate.net/publication/226349867_The_Nature_of_the_Argumentum_ad_baculum](https://www.researchgate.net/publication/226349867_The_Nature_of_the_Argumentum_ad_baculum)  
+   Link: <a href="https://www.researchgate.net/publication/226349867_The_Nature_of_the_Argumentum_ad_baculum" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226349867_The_Nature_of_the_Argumentum_ad_baculum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All the examples involve threats. But in (a)... Instances of the ad baculum argument (also known as the threat appeal argument...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/appeal-to-force-fallacy-definition-examples.html](https://study.com/academy/lesson/appeal-to-force-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/appeal-to-force-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/appeal-to-force-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>because it uses force or the threat of force to coerce others to accept an...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: biblicalunitarian.com  
    Title: Believe What I Say or Else!  
-   Link: [https://www.biblicalunitarian.com/articles/logic/believe-what-i-say-or-else-argumentum-ad-baculum](https://www.biblicalunitarian.com/articles/logic/believe-what-i-say-or-else-argumentum-ad-baculum)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>– Argumentum ad BaculumThis fallacy is usually committed by those who have failed to persuade others by any other means and who finally r...</p></details>
+   Link: <a href="https://www.biblicalunitarian.com/articles/logic/believe-what-i-say-or-else-argumentum-ad-baculum" target="_blank" rel="noopener noreferrer nofollow">https://www.biblicalunitarian.com/articles/logic/believe-what-i-say-or-else-argumentum-ad-baculum</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad BaculumThis fallacy is usually committed by those who have failed to persuade others by any other means and who finally r...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: siue.edu  
    Title: SIU Edwardsville Fallacies  
-   Link: [https://www.siue.edu/~wlarkin/teaching/PHIL106/fallacies.html](https://www.siue.edu/~wlarkin/teaching/PHIL106/fallacies.html)  
+   Link: <a href="https://www.siue.edu/~wlarkin/teaching/PHIL106/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.siue.edu/~wlarkin/teaching/PHIL106/fallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies - PHIL 106: Critical ThinkingAppeal to Force. 1. Fallacious: One tries to get someone to accept a conclusion not by providing r...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: de.scribd.com  
    Title: Appeal to Force Examples Google Search  
-   Link: [https://de.scribd.com/document/629412504/Appeal-to-Force-Examples-Google-Search](https://de.scribd.com/document/629412504/Appeal-to-Force-Examples-Google-Search)  
+   Link: <a href="https://de.scribd.com/document/629412504/Appeal-to-Force-Examples-Google-Search" target="_blank" rel="noopener noreferrer nofollow">https://de.scribd.com/document/629412504/Appeal-to-Force-Examples-Google-Search</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Appeal to Force Fallacy | PDFAn appeal to force is categorized as a logical fallacy because it replaces logical reasoning with coercio...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: STAR TREK Logical Thinking #8  
-   Link: [https://www.youtube.com/watch?v=vVQvmy1rx4c](https://www.youtube.com/watch?v=vVQvmy1rx4c)  
+   Link: <a href="https://www.youtube.com/watch?v=vVQvmy1rx4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vVQvmy1rx4c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking: The Fallacy of Appeal to Fear...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: finmasters.com  
    Title: Tu Quoque Fallacy  
-   Link: [https://finmasters.com/tu-quoque-fallacy/](https://finmasters.com/tu-quoque-fallacy/)  
+   Link: <a href="https://finmasters.com/tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/tu-quoque-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid because it is incon...</p></details>

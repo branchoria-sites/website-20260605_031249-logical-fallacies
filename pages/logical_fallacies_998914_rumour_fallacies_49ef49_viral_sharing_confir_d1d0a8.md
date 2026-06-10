@@ -288,7 +288,7 @@ This distinction is especially important online because platforms make duplicati
 
 Social media platforms display engagement cues such as likes, shares, repost counts, views, reactions, and comments. These signals were not designed as evidence, but people frequently interpret them as indicators of credibility.
 
-Studies show that social engagement metrics influence how users interact with content. Seeing that many others have engaged with a post can increase attention and willingness to share it. Researchers have also found that exposure to engagement metrics can increase vulnerability to misinformation under some conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow many others have shared this? Experimentally investigating the effects of social cues on engagement, misinformation, and unpredi...</span></span></span>
+Studies show that social engagement metrics influence how users interact with content. Seeing that many others have engaged with a post can increase attention and willingness to share it. Researchers have also found that exposure to engagement metrics can increase vulnerability to misinformation under some conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How many others have shared this? Experimentally investigating the effects of social cues on engagement, misinformation, and unpredi...</span></span></span>
 
 The psychological effect is understandable. Large numbers imply collective judgement. A post with 100,000 shares appears socially validated, even when those shares reveal nothing about whether the claim is true.
 
@@ -299,7 +299,7 @@ Several factors amplify this tendency:
 * **Reduced scrutiny:** [Social proof]({{ 'social-proof/' | relative_url }}) can lower the motivation to investigate further.
 * **Attention effects:** High-engagement content receives more visibility, creating additional opportunities for repetition.
 
-Research on misinformation and platform design suggests that engagement-based systems can create feedback loops in which visibility generates more engagement, which in turn generates more visibility. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRanking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Boosting sharing-based engag...</span></span></span>
+Research on misinformation and platform design suggests that engagement-based systems can create feedback loops in which visibility generates more engagement, which in turn generates more visibility. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Boosting sharing-based engag...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 2.6M &middot; Uploaded: August 2015 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
@@ -744,7 +744,7 @@ The result is a misleading form of apparent consensus. What looks like corrobora
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-dark.svg" | relative_url }}" alt="Viral Proof illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Illusion of Truth Through Repetition
 
-Another reason viral [rumours]({{ 'rumours/' | relative_url }}) feel convincing is that repeated exposure can increase perceived truthfulness. Psychologists refer to this tendency as the illusory truth effect: information often feels more believable simply because it has been encountered before. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateThe illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</span></span></span>, familiarity is not the same as verification.
+Another reason viral [rumours]({{ 'rumours/' | relative_url }}) feel convincing is that repeated exposure can increase perceived truthfulness. Psychologists refer to this tendency as the illusory truth effect: information often feels more believable simply because it has been encountered before. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</span></span></span>, familiarity is not the same as verification.
 
 A person may encounter a claim:
 
@@ -773,7 +773,7 @@ The appearance of confirmation is strengthened by the kinds of stories that tend
 
 These qualities affect transmission, not accuracy.
 
-In practice, users frequently share content for reasons unrelated to belief. Some share to discuss it, joke about it, criticise it, or signal group identity. Research suggests that sharing behaviour and accuracy judgements can diverge; people do not always treat truthfulness as the primary factor when deciding what to circulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureShifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</span></span></span>
+In practice, users frequently share content for reasons unrelated to belief. Some share to discuss it, joke about it, criticise it, or signal group identity. Research suggests that sharing behaviour and accuracy judgements can diverge; people do not always treat truthfulness as the primary factor when deciding what to circulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</span></span></span>
 
 As a result, a large volume of sharing can reflect attention rather than confirmation.
 
@@ -812,152 +812,152 @@ In the [context]({{ 'context/' | relative_url }}) of rumours and unverified clai
 1. <a id="endnote-1"></a>
    Source: news.mit.edu  
    Title: study twitter false news travels faster true stories 0308  
-   Link: [https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308](https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308)  
+   Link: <a href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2207.07562](https://arxiv.org/abs/2207.07562)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow many others have shared this? Experimentally investigating the effects of social cues on engagement, misinformation, and unpredi...</p></details>
+   Link: <a href="https://arxiv.org/abs/2207.07562" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2207.07562</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How many others have shared this? Experimentally investigating the effects of social cues on engagement, misinformation, and unpredi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2005.04682](https://arxiv.org/abs/2005.04682)  
+   Link: <a href="https://arxiv.org/abs/2005.04682" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2005.04682</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSocial Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 304 — Algorithmic mechanisms on digital media...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 304 — Algorithmic mechanisms on digital media...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0047272726000253](https://www.sciencedirect.com/science/article/pii/S0047272726000253)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRanking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Boosting sharing-based engag...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Boosting sharing-based engag...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation](https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateThe illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-021-03344-2](https://www.nature.com/articles/s41586-021-03344-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureShifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: guides.lib.uchicago.edu  
    Title: Library Guides The SIFT Method  
-   Link: [https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)  
+   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UChicago Library GuidesThe SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy d...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: libguides.mnsu.edu  
-   Link: [https://libguides.mnsu.edu/sourcecredibility/lateralreading](https://libguides.mnsu.edu/sourcecredibility/lateralreading)  
+   Link: <a href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow">https://libguides.mnsu.edu/sourcecredibility/lateralreading</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — Lateral reading provides a more complete picture of the credibility of a sou...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ide.mit.edu  
    Title: 2017 IDE Research Brief False News  
-   Link: [https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf](https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf)  
+   Link: <a href="https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ide.mit.edu/wp-content/uploads/2018/12/2017-IDE-Research-Brief-False-News.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPREAD OF TRUE AND FALSE NEWS ONLINEby S Vosoughi — With this research in hand, we can consider the implications of false news on hotly d...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: wittenberg.libguides.com  
-   Link: [https://wittenberg.libguides.com/c.php?g=1484462&p=11070234](https://wittenberg.libguides.com/c.php?g=1484462&p=11070234)  
+   Link: <a href="https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234" target="_blank" rel="noopener noreferrer nofollow">https://wittenberg.libguides.com/c.php?g=1484462&amp;p=11070234</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading / SIFT Method - Communication &amp; Digital...When evaluating web sources, &quot;lateral reading&quot; (&quot;lateral&quot; meaning &quot;side-to-side&quot;) refe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: How false news can spread  
-   Link: [https://www.youtube.com/watch?v=cSKGa_7XJkg](https://www.youtube.com/watch?v=cSKGa_7XJkg)  
+   Link: <a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cSKGa_7XJkg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusory Truth Effect...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Illusory Truth Effect  
-   Link: [https://www.youtube.com/watch?v=cXFxRkjZNiw](https://www.youtube.com/watch?v=cXFxRkjZNiw)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How does misleading and [emotionally charged](&amp;#123;&amp;#123; &#x27;charged-labels/&#x27; | relative_url &amp;#125;&amp;#125;) content spread faster than facts?...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cXFxRkjZNiw</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How does misleading and emotionally charged content spread faster than facts?...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>used a data set of rumor [cascades](&amp;#123;&amp;#123; &#x27;cascades/&#x27; | relative_url &amp;#125;&amp;#125;) on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/23794607261423714](https://journals.sagepub.com/doi/10.1177/23794607261423714)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/23794607261423714</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29590045/](https://pubmed.ncbi.nlm.nih.gov/29590045/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29590045/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29590045/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14070 — We investigated the differential diffusion of all of the veri...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: libguides.clackamas.edu  
-   Link: [https://libguides.clackamas.edu/research-help/sift](https://libguides.clackamas.edu/research-help/sift)  
+   Link: <a href="https://libguides.clackamas.edu/research-help/sift" target="_blank" rel="noopener noreferrer nofollow">https://libguides.clackamas.edu/research-help/sift</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research help18 May 2026 — SIFT is a set of four fact-checking strategies that guide you through quickly making a decision about whether...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: library.nwacc.edu  
-   Link: [https://library.nwacc.edu/lateralreading/sift](https://library.nwacc.edu/lateralreading/sift)  
+   Link: <a href="https://library.nwacc.edu/lateralreading/sift" target="_blank" rel="noopener noreferrer nofollow">https://library.nwacc.edu/lateralreading/sift</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nwacc.eduLibGuides: Lateral Reading: SIFT It8 Apr 2026 — Lateral Reading: SIFT It. An introduction to lateral reading skills and techniqu...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: saskoer.ca  
-   Link: [https://www.saskoer.ca/disinformation/chapter/5-6-lateral-reading/](https://www.saskoer.ca/disinformation/chapter/5-6-lateral-reading/)  
+   Link: <a href="https://www.saskoer.ca/disinformation/chapter/5-6-lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.saskoer.ca/disinformation/chapter/5-6-lateral-reading/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5.6 Lateral Reading – DisinformationLateral reading is a popular method for verifying information. It works like this: when someone searc...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/](https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/)  
+   Link: <a href="https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmericanPsychologicalAssociation/posts/you-keep-seeing-the-same-claim-made-over-and-over-onlineso-it-must-be-true-right/1290086699819665/</a>  
 
 21. <a id="endnote-21"></a>
    Source: pbs.org  
    Title: false news travels 6 times faster on twitter than truthful news  
-   Link: [https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news](https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news)  
+   Link: <a href="https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/false-news-travels-6-times-faster-on-twitter-than-truthful-news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2018 — False news -- inaccurate information presented as truth or opinion presented as fact -- is 70 percent more likely to be retw...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: guides.lib.byu.edu  
-   Link: [https://guides.lib.byu.edu/c.php?g=216428&p=10146879](https://guides.lib.byu.edu/c.php?g=216428&p=10146879)  
+   Link: <a href="https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.byu.edu/c.php?g=216428&amp;p=10146879</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Management: Source Evaluation (SIFT)6 May 2026 — The SIFT method helps analyze information, especially news or other online media...</p></details>
    Published: May 2026  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Illusion of Truth: Why Your Brain Believes Familiar Lies  
-   Link: [https://www.youtube.com/watch?v=AbsgLRfqsiA](https://www.youtube.com/watch?v=AbsgLRfqsiA)  
+   Link: <a href="https://www.youtube.com/watch?v=AbsgLRfqsiA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AbsgLRfqsiA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This curated selection of videos directly addresses the concept of viral sharing mistaken for independent confirmation by exploring the p...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: insights.som.yale.edu  
    Title: how social media rewards misinformation  
-   Link: [https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation](https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation)  
+   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — A majority of false stories are spread by a small numbe...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pirg.org  
    Title: misinformation on social media  
-   Link: [https://pirg.org/edfund/articles/misinformation-on-social-media/](https://pirg.org/edfund/articles/misinformation-on-social-media/)  
+   Link: <a href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://pirg.org/edfund/articles/misinformation-on-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: libguides.calstatela.edu  
-   Link: [https://libguides.calstatela.edu/c.php?g=1450827&p=10783864](https://libguides.calstatela.edu/c.php?g=1450827&p=10783864)  
+   Link: <a href="https://libguides.calstatela.edu/c.php?g=1450827&amp;p=10783864" target="_blank" rel="noopener noreferrer nofollow">https://libguides.calstatela.edu/c.php?g=1450827&amp;p=10783864</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and Fact-Checking - LibGuides - Cal State LA14 Oct 2025 — Lateral reading is: a powerful digital literacy strategy used by fact-c...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: pausing reduce false news  
-   Link: [https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/](https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/pausing-reduce-false-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to consider why a headline is true or false can...by L Fazio · 2020 · Cited by 281 — In an online experiment, participants who paused to...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mediahelpingmedia.org  
    Title: sift for fact checking  
-   Link: [https://mediahelpingmedia.org/basics/sift-for-fact-checking/](https://mediahelpingmedia.org/basics/sift-for-fact-checking/)  
+   Link: <a href="https://mediahelpingmedia.org/basics/sift-for-fact-checking/" target="_blank" rel="noopener noreferrer nofollow">https://mediahelpingmedia.org/basics/sift-for-fact-checking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFT for fact-checking30 Mar 2025 — SIFT teaches students how to critically evaluate information online through four steps: Stop, Investi...</p></details>

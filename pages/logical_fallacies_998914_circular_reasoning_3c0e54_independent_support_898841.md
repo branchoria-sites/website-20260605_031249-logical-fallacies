@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_indepen
 
 ## Introduction
 
-A quick way to detect [circular reasoning]({{ 'circularity/' | relative_url }}) is to ask a simple question: **would the premises give a reasonable sceptic any new reason to accept the conclusion?** If the answer is no, the argument may be relying on the conclusion itself rather than offering independent support for it. Philosophers and argumentation theorists often treat the absence of independent support as the central defect in circular arguments and question-begging reasoning. An argument may be logically valid in form, yet still fail as persuasion because anyone who doubts the conclusion will have equal reason to doubt the premises that supposedly establish it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies... circular reasoning in which a conclusion is derived from premises that presuppose the con...</span></span></span>
+A quick way to detect circular reasoning is to ask a simple question: **would the premises give a reasonable sceptic any new reason to accept the conclusion?** If the answer is no, the argument may be relying on the conclusion itself rather than offering independent support for it. Philosophers and argumentation theorists often treat the absence of independent support as the central defect in circular arguments and question-begging reasoning. An argument may be logically valid in form, yet still fail as persuasion because anyone who doubts the conclusion will have equal reason to doubt the premises that supposedly establish it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies... circular reasoning in which a conclusion is derived from premises that presuppose the con...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-1-dark.svg" | relative_url }}" alt="Support Test illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -326,7 +326,7 @@ Compare that with:
 Here, “trustworthy testimony” simply restates reliability in different language. The argument offers no independent basis for the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PagePetitio Principii, Circular Argument, Begging the QuestionPetitio principii is a logical fallacy where the conclusion...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The major premise can be deduced from other universal premises...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qSWCi_-qIME" title="Fallacies: Begging the Question (narrow sense)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer">Fallacies: Begging the Question (narrow sense)</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 51.8K &middot; Uploaded: January 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qSWCi_-qIME">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VXoSHv1GP4I" title="Begging The Question Fallacy (Definition &amp; Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VXoSHv1GP4I" target="_blank" rel="noopener noreferrer">Begging The Question Fallacy (Definition &amp; Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 3.1K &middot; Uploaded: May 2025 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VXoSHv1GP4I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VXoSHv1GP4I">Open on YouTube</a></p></div></div></div>
 
 ## Hidden Circularity: When the Test Matters Most
 
@@ -372,7 +372,7 @@ Use:
 The revised premise provides information that can be evaluated separately from the conclusion.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VXoSHv1GP4I" title="Begging The Question Fallacy (Definition &amp; Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VXoSHv1GP4I" target="_blank" rel="noopener noreferrer">Begging The Question Fallacy (Definition &amp; Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 3.1K &middot; Uploaded: May 2025 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VXoSHv1GP4I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VXoSHv1GP4I">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qSWCi_-qIME" title="Fallacies: Begging the Question (narrow sense)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer">Fallacies: Begging the Question (narrow sense)</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 51.8K &middot; Uploaded: January 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qSWCi_-qIME">Open on YouTube</a></p></div></div></div>
 
 ### Identify Hidden Assumptions
 
@@ -425,7 +425,7 @@ A “yes” to the first three questions and a “no” to the last two usually 
 The independent-support test focuses on what arguments are supposed to accomplish: provide reasons that move a discussion forward. Good arguments create a bridge from accepted premises to a disputed conclusion. Circular arguments merely walk in a loop. As several philosophical accounts of fallacies emphasise, the central failure is not simply repetition but the absence of new grounds for belief. An argument that cannot persuade a reasonable sceptic has not yet supplied the independent support that rational persuasion requires.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0P79dctCEZU" title="Critical Thinking: The Fallacy of Circular Argument" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0P79dctCEZU" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Circular Argument</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 16.7K &middot; Uploaded: August 2015 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0P79dctCEZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0P79dctCEZU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lGNgsmGwJ6E" title="What is The Circular Reasoning Fallacy? | Critical Thinking Basics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lGNgsmGwJ6E" target="_blank" rel="noopener noreferrer">What is The Circular Reasoning Fallacy? | Critical Thinking Basics</a></p><p class="youtube-embed-meta">Channel: Lucia Grosaru • Psychology Corner &middot; Views: 760 &middot; Uploaded: January 2024 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lGNgsmGwJ6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lGNgsmGwJ6E">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -850,76 +850,76 @@ The independent-support test focuses on what arguments are supposed to accomplis
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Circular reasoning  
-   Link: [https://en.wikipedia.org/wiki/Circular_reasoning](https://en.wikipedia.org/wiki/Circular_reasoning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circular_reasoning</a>  
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The major premise can be deduced from other universal premises...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
    Title: circular argument  
-   Link: [https://www.britannica.com/topic/circular-argument](https://www.britannica.com/topic/circular-argument)  
+   Link: <a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaCircular argument | Definition, History, Examples, &amp; Facts1 Apr 2026 — A circular argument&#x27;s premise explicitly or...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Begging the question  
-   Link: [https://en.wikipedia.org/wiki/Begging_the_question](https://en.wikipedia.org/wiki/Begging_the_question)  
+   Link: <a href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Begging_the_question</a>  
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 104 — Argumentation can be defined as t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallacies... circular reasoning in which a conclusion is derived from premises that presuppose the con...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/circular.html](https://philosophy.lander.edu/logic/circular.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/circular.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PagePetitio Principii, Circular Argument, Begging the QuestionPetitio principii is a logical fallacy where the conclusion...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/ldb0x2/are_all_deductively_valid_arguments/](https://www.reddit.com/r/askphilosophy/comments/ldb0x2/are_all_deductively_valid_arguments/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAre all deductively valid arguments circular/question...TIL that &quot;begs the question&quot; doesn&#x27;t mean &#x27;asks the question&#x27;, and instead...</p></details>
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/ldb0x2/are_all_deductively_valid_arguments/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/ldb0x2/are_all_deductively_valid_arguments/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are all deductively valid arguments circular/question...TIL that &quot;begs the question&quot; doesn&#x27;t mean &#x27;asks the question&#x27;, and instead...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: What is The Circular Reasoning Fallacy? | Critical Thinking Basics  
-   Link: [https://www.youtube.com/watch?v=lGNgsmGwJ6E](https://www.youtube.com/watch?v=lGNgsmGwJ6E)  
+   Link: <a href="https://www.youtube.com/watch?v=lGNgsmGwJ6E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lGNgsmGwJ6E</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking: The Fallacy of Circular Argument...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Begging The Question Fallacy (Definition & Easiest Explanation)  
-   Link: [https://www.youtube.com/watch?v=VXoSHv1GP4I](https://www.youtube.com/watch?v=VXoSHv1GP4I)  
+   Link: <a href="https://www.youtube.com/watch?v=VXoSHv1GP4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VXoSHv1GP4I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Circular Reasoning? - Law School Prep Hub...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Critical Thinking: The Fallacy of Circular Argument  
-   Link: [https://www.youtube.com/watch?v=0P79dctCEZU](https://www.youtube.com/watch?v=0P79dctCEZU)  
+   Link: <a href="https://www.youtube.com/watch?v=0P79dctCEZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0P79dctCEZU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Begging The Question Fallacy (Definition &amp; Easiest Explanation)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Fallacies: Begging the Question (narrow sense)  
-   Link: [https://www.youtube.com/watch?v=qSWCi_-qIME](https://www.youtube.com/watch?v=qSWCi_-qIME)  
+   Link: <a href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qSWCi_-qIME</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is The Circular Reasoning Fallacy? | Critical Thinking Basics...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question](https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Begging-the-Question</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: What Is Circular Reasoning?  
-   Link: [https://www.youtube.com/watch?v=w8Yk3qb6qbs](https://www.youtube.com/watch?v=w8Yk3qb6qbs)  
+   Link: <a href="https://www.youtube.com/watch?v=w8Yk3qb6qbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w8Yk3qb6qbs</a>  

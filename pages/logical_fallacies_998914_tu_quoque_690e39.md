@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:18:07'
 parent_title: Fallacy Lab
 parent_permalink: /logical-fallacies/
 parent_nav_short_title: Fallacy Lab
@@ -492,7 +493,6 @@ next_link:
   permalink: /wet-pavement/
   short_title: Wet Pavement
   heading_title: Why One Explanation Is Not Enough
-date: '2026-06-05 01:18:07 '
 header:
   og_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39-overview-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39-overview.webp
@@ -1040,124 +1040,124 @@ That difference matters in everyday disagreement. Without it, fallacy-spotting b
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies (Stanford Encyclopedia of Philosophy)...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/543/506](https://informallogic.ca/index.php/informal_logic/article/view/543/506)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/whataboutism](https://www.britannica.com/topic/whataboutism)  
+   Link: <a href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/whataboutism</a>  
 
 4. <a id="endnote-4"></a>
    Source: informallogic.ca  
    Title: Title of the Paper [16 point font]  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/7304/5501](https://informallogic.ca/index.php/informal_logic/article/view/7304/5501)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/7304/5501" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/7304/5501</a>  
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: [https://plato.stanford.edu/entries/category-mistakes/](https://plato.stanford.edu/entries/category-mistakes/)  
+   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html](https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
 8. <a id="endnote-8"></a>
    Source: informallogic.ca  
    Title: Woods Correct Paper  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/467/436](https://informallogic.ca/index.php/informal_logic/article/view/467/436)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/467/436" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/467/436</a>  
 
 9. <a id="endnote-9"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/4796/4005](https://informallogic.ca/index.php/informal_logic/article/view/4796/4005)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4796/4005" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4796/4005</a>  
 
 10. <a id="endnote-10"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 11. <a id="endnote-11"></a>
    Source: scholarlypublications.universiteitleiden.nl  
-   Link: [https://scholarlypublications.universiteitleiden.nl/handle/1887/4107771](https://scholarlypublications.universiteitleiden.nl/handle/1887/4107771)  
+   Link: <a href="https://scholarlypublications.universiteitleiden.nl/handle/1887/4107771" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/handle/1887/4107771</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: [https://en.wikipedia.org/wiki/Tu_quoque](https://en.wikipedia.org/wiki/Tu_quoque)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Whataboutism](https://en.wikipedia.org/wiki/Whataboutism)  
+   Link: <a href="https://en.wikipedia.org/wiki/Whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Whataboutism</a>  
 
 15. <a id="endnote-15"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 17. <a id="endnote-17"></a>
    Source: thoughtco.com  
    Title: Tu Quoque  
-   Link: [https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335](https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335)  
+   Link: <a href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Tu Quoque Explained with "The Simpsons" | [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) in TV Shows  
-   Link: [https://www.youtube.com/watch?v=UoSPTrQLHQo](https://www.youtube.com/watch?v=UoSPTrQLHQo)  
+   Link: <a href="https://www.youtube.com/watch?v=UoSPTrQLHQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UoSPTrQLHQo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STAR TREK Logical Thinking #48 - Whataboutism (Tu Quoque)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Fallacies in the Workplace: Ad Hominem & Tu Quoque Fallacies  
-   Link: [https://www.youtube.com/watch?v=tg-NFbRy0dw](https://www.youtube.com/watch?v=tg-NFbRy0dw)  
+   Link: <a href="https://www.youtube.com/watch?v=tg-NFbRy0dw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tg-NFbRy0dw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Tu quoque: You Too?!?  
-   Link: [https://www.youtube.com/watch?v=36-Xv16NZ_c](https://www.youtube.com/watch?v=36-Xv16NZ_c)  
+   Link: <a href="https://www.youtube.com/watch?v=36-Xv16NZ_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=36-Xv16NZ_c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: The Tu Quoque Fallacy...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227141322_The_ad_Hominem_argument_as_an_informal_fallacy](https://www.researchgate.net/publication/227141322_The_ad_Hominem_argument_as_an_informal_fallacy)  
+   Link: <a href="https://www.researchgate.net/publication/227141322_The_ad_Hominem_argument_as_an_informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227141322_The_ad_Hominem_argument_as_an_informal_fallacy</a>  
 
 22. <a id="endnote-22"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
 
 23. <a id="endnote-23"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/14905882/Ad_Hominem_Arguments](https://www.academia.edu/14905882/Ad_Hominem_Arguments)  
+   Link: <a href="https://www.academia.edu/14905882/Ad_Hominem_Arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/14905882/Ad_Hominem_Arguments</a>  
 
 24. <a id="endnote-24"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/en/book/show/3112641-ad-hominem-arguments](https://www.goodreads.com/en/book/show/3112641-ad-hominem-arguments)  
+   Link: <a href="https://www.goodreads.com/en/book/show/3112641-ad-hominem-arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/3112641-ad-hominem-arguments</a>  
 
 25. <a id="endnote-25"></a>
    Source: libraryofagartha.com  
-   Link: [https://libraryofagartha.com/Mind/Argumentation/D%20N%20WALTON/Ad%20Hominem%20Arguments%20%28%20PDFDrive.com%20%29.pdf](https://libraryofagartha.com/Mind/Argumentation/D%20N%20WALTON/Ad%20Hominem%20Arguments%20%28%20PDFDrive.com%20%29.pdf)  
+   Link: <a href="https://libraryofagartha.com/Mind/Argumentation/D%20N%20WALTON/Ad%20Hominem%20Arguments%20%28%20PDFDrive.com%20%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://libraryofagartha.com/Mind/Argumentation/D%20N%20WALTON/Ad%20Hominem%20Arguments%20%28%20PDFDrive.com%20%29.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/8697me/cmv_tu_quoque_is_okay_in_some_cases/](https://www.reddit.com/r/changemyview/comments/8697me/cmv_tu_quoque_is_okay_in_some_cases/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/8697me/cmv_tu_quoque_is_okay_in_some_cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/8697me/cmv_tu_quoque_is_okay_in_some_cases/</a>  
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/perkinsfirm_lets-discuss-tu-quoque-which-is-a-type-activity-7323770524050849792-BYOV](https://www.linkedin.com/posts/perkinsfirm_lets-discuss-tu-quoque-which-is-a-type-activity-7323770524050849792-BYOV)  
+   Link: <a href="https://www.linkedin.com/posts/perkinsfirm_lets-discuss-tu-quoque-which-is-a-type-activity-7323770524050849792-BYOV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/perkinsfirm_lets-discuss-tu-quoque-which-is-a-type-activity-7323770524050849792-BYOV</a>  

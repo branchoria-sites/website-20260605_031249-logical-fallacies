@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popul
 
 ## Introduction
 
-Popularity bias in recommender systems is a modern form of [appeal to popularity]({{ 'popularity/' | relative_url }}). Instead of a person explicitly arguing that something is true because many people believe it, a digital platform can make popular items appear more frequently, creating the impression that widespread attention is evidence of value, quality, [relevance]({{ 'relevance/' | relative_url }}), or correctness. Trending lists, recommendation feeds, bestseller rankings, view counts, likes, and engagement metrics can all contribute to this effect.
+Popularity bias in recommender systems is a modern form of appeal to popularity. Instead of a person explicitly arguing that something is true because many people believe it, a digital platform can make popular items appear more frequently, creating the impression that widespread attention is evidence of value, quality, [relevance]({{ 'relevance/' | relative_url }}), or correctness. Trending lists, recommendation feeds, bestseller rankings, view counts, likes, and engagement metrics can all contribute to this effect.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1-dark.svg" | relative_url }}" alt="Popularity Bias illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ The key issue is not that popular content is necessarily bad. Many popular items
 
 ## How Popularity Bias Changes What Users See
 
-Most recommendation systems learn from user behaviour. They observe clicks, views, purchases, listening habits, watch time, ratings, and other signals. Because popular items generate more [interactions]({{ 'interactions/' | relative_url }}), they produce more data. Algorithms often treat this larger amount of data as a stronger indication that the item is worth recommending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milvus.io">[Milvus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milvus.io</span><span class="citation-popover-snippet">MilvusWhat is popularity bias and how can it be mitigated in...Popularity bias occurs when recommendation systems disproportionately sug...</span></span></span>
+Most recommendation systems learn from user behaviour. They observe clicks, views, purchases, listening habits, watch time, ratings, and other signals. Because popular items generate more [interactions]({{ 'interactions/' | relative_url }}), they produce more data. Algorithms often treat this larger amount of data as a stronger indication that the item is worth recommending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milvus.io">[Milvus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milvus.io</span><span class="citation-popover-snippet">What is popularity bias and how can it be mitigated in...Popularity bias occurs when recommendation systems disproportionately sug...</span></span></span>
 
 This creates a sequence that is deceptively simple:
 
@@ -298,7 +298,7 @@ This creates a sequence that is deceptively simple:
 
 </div>
 
-Researchers studying recommendation systems have repeatedly identified this cycle as a feedback loop that can amplify popularity over time. Simulations of user–algorithm interactions show that repeated recommendation cycles can increase popularity concentration while reducing diversity in what users encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">arXivFeedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3340531.3412152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryFeedback Loop and Bias Amplification in Recommender...19 Oct 2020 — In this paper, we propose a method for simulating...</span></span></span>
+Researchers studying recommendation systems have repeatedly identified this cycle as a feedback loop that can amplify popularity over time. Simulations of user–algorithm interactions show that repeated recommendation cycles can increase popularity concentration while reducing diversity in what users encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3340531.3412152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryFeedback Loop and Bias Amplification in Recommender...19 Oct 2020 — In this paper, we propose a method for simulating...</span></span></span>
 
 From the user's perspective, the resulting feed may look like a neutral reflection of collective judgement. In reality, it is partly the product of a system that continuously converts existing attention into future attention.
 
@@ -329,7 +329,7 @@ Popularity bias encourages a subtle but important assumption: <span class="citat
 
 **Frequently recommended = widely chosen = probably best.**
 
-Each step may contain some truth, but the chain is not logically guaranteed. A recommendation system can increase exposure independently of quality. Once exposure changes, user behaviour changes as well. Researchers studying digital platforms note that recommendation systems do not merely observe preferences; they can also influence what users encounter and ultimately choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAlgorithmic Influence on Social Media Content and User...Social media platforms increasingly rely on algorithmic systems to curate...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumPersonalization Algorithms and the Hidden Feedback Loop...Empirical research suggests that recommender systems can influence user...</span></span></span>
+Each step may contain some truth, but the chain is not logically guaranteed. A recommendation system can increase exposure independently of quality. Once exposure changes, user behaviour changes as well. Researchers studying digital platforms note that recommendation systems do not merely observe preferences; they can also influence what users encounter and ultimately choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Algorithmic Influence on Social Media Content and User...Social media platforms increasingly rely on algorithmic systems to curate...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Personalization Algorithms and the Hidden Feedback Loop...Empirical research suggests that recommender systems can influence user...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-2-dark.svg" | relative_url }}" alt="Popularity Bias illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,7 +337,7 @@ Each step may contain some truth, but the chain is not logically guaranteed. A r
 
 One consequence of popularity bias is the underrepresentation of "long-tail" content—the vast number of items that receive relatively little attention individually.
 
-Research in music, film, and other recommendation domains has consistently found that less popular items appear less frequently in recommendations than highly popular ones. As a result, niche creators, specialised products, and minority interests can struggle to gain visibility even when they may be highly relevant to particular users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2020 · Cited by 234 — Research has shown that recommender syste...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">arXivFeedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span>
+Research in music, film, and other recommendation domains has consistently found that less popular items appear less frequently in recommendations than highly popular ones. As a result, niche creators, specialised products, and minority interests can struggle to gain visibility even when they may be highly relevant to particular users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2020 · Cited by 234 — Research has shown that recommender syste...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span>
 
 This creates several effects:
 
@@ -351,7 +351,7 @@ This creates several effects:
 
 </div>
 
-Studies of recommendation feedback loops have found that popularity amplification can reduce aggregate diversity and make user experiences more similar over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">arXivFeedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span>
+Studies of recommendation feedback loops have found that popularity amplification can reduce aggregate diversity and make user experiences more similar over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span>
 
 From the perspective of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters because the system increasingly presents consensus as evidence. The more visible an item becomes, the more users interpret its visibility as confirmation that it deserves attention.
 
@@ -838,190 +838,190 @@ As a result, users may encounter a world in which what is already popular become
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11257-024-09406-0](https://link.springer.com/article/10.1007/s11257-024-09406-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11257-024-09406-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2020 · Cited by 234 — Research has shown that recommender syste...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2020 · Cited by 234 — Research has shown that recommender syste...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: milvus.io  
-   Link: [https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations](https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MilvusWhat is popularity bias and how can it be mitigated in...Popularity bias occurs when recommendation systems disproportionately sug...</p></details>
+   Link: <a href="https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations" target="_blank" rel="noopener noreferrer nofollow">https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is popularity bias and how can it be mitigated in...Popularity bias occurs when recommendation systems disproportionately sug...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Feedback Loop and Bias Amplification in Recommender  
-   Link: [https://arxiv.org/abs/2007.13019](https://arxiv.org/abs/2007.13019)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivFeedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</p></details>
+   Link: <a href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2007.13019</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</p></details>
    Published: July 25, 2020  
 
 5. <a id="endnote-5"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/10.1145/3340531.3412152](https://dl.acm.org/doi/10.1145/3340531.3412152)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3340531.3412152" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3340531.3412152</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryFeedback Loop and Bias Amplification in Recommender...19 Oct 2020 — In this paper, we propose a method for simulating...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior](https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAlgorithmic Influence on [Social Media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) Content and User...Social media platforms increasingly rely on algorithmic systems to curate...</p></details>
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Influence on [Social Media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) Content and User...Social media platforms increasingly rely on algorithmic systems to curate...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
-   Link: [https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca](https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumPersonalization Algorithms and the Hidden Feedback Loop...Empirical research suggests that recommender systems can influence user...</p></details>
+   Link: <a href="https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Personalization Algorithms and the Hidden Feedback Loop...Empirical research suggests that recommender systems can influence user...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drivers and Algorithmic Mechanisms on Digital Mediaby H Metzler · 2023 · Cited by 240 — Algorithmic mechanisms on digital media are power...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11373151/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drivers and Algorithmic [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) on Digital Mediaby H Metzler · 2023 · Cited by 240 — Algorithmic mechanisms on digital media are power...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1912.04696](https://arxiv.org/abs/1912.04696)  
+   Link: <a href="https://arxiv.org/abs/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.04696</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2019 · Cited by 234 — Research has shown that recommender systems...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0047272726000253](https://www.sciencedirect.com/science/article/pii/S0047272726000253)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRanking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 11 — This paper investigates the...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 11 — This paper investigates the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ojs.weizenbaum-institut.de  
-   Link: [https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132](https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132)  
+   Link: <a href="https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132" target="_blank" rel="noopener noreferrer nofollow">https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_2_4/132</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Readers click on news articles selected by a recommender system and, in doing so...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1548367326000062](https://www.sciencedirect.com/org/science/article/pii/S1548367326000062)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1548367326000062" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1548367326000062</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating user behavior, content...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353](https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353)  
+   Link: <a href="https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kamalmeet/popularity-bias-in-recommendation-engines-2542d1cdb353</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularity Bias in Recommendation EnginesPopularity bias refers to a recommender system&#x27;s tendency to over-recommend items that are alrea...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40emreeyukseel/challenges-in-recommender-systems-understanding-implicit-feedback-negative-sampling-and-00fc3c9c34e4](https://medium.com/%40emreeyukseel/challenges-in-recommender-systems-understanding-implicit-feedback-negative-sampling-and-00fc3c9c34e4)  
+   Link: <a href="https://medium.com/%40emreeyukseel/challenges-in-recommender-systems-understanding-implicit-feedback-negative-sampling-and-00fc3c9c34e4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40emreeyukseel/challenges-in-recommender-systems-understanding-implicit-feedback-negative-sampling-and-00fc3c9c34e4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tes a popularity bias which is a common problem that must...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/1912.04696](https://arxiv.org/pdf/1912.04696)  
+   Link: <a href="https://arxiv.org/pdf/1912.04696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1912.04696</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research has shown that recommender systems are typically biased towards popular items, which leads to less popular items being un...Rea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2208.09517](https://arxiv.org/pdf/2208.09517)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv:2208.09517v1 [cs.IR] 19 Aug 2022by DR Turnbull · 2022 · Cited by 14 — In this paper, we attempt to measure popularity bias both in...</p></details>
+   Link: <a href="https://arxiv.org/pdf/2208.09517" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2208.09517</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2208.09517v1 [cs.IR] 19 Aug 2022by DR Turnbull · 2022 · Cited by 14 — In this paper, we attempt to measure popularity bias both in...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2308.01118](https://arxiv.org/abs/2308.01118)  
+   Link: <a href="https://arxiv.org/abs/2308.01118" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.01118</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey on Popularity Bias in Recommender Systemsby A Klimashevskaia · 2023 · Cited by 156 — In this paper, we discuss the potential rea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10844-026-01025-y](https://link.springer.com/article/10.1007/s10844-026-01025-y)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10844-026-01025-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10844-026-01025-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fairness, popularity bias, and user group disparitiesby Y Zoralioglu · 2026 — In this study, we evaluate how users are differently affect...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/book/10.1007/978-3-642-13287-2](https://link.springer.com/book/10.1007/978-3-642-13287-2)  
+   Link: <a href="https://link.springer.com/book/10.1007/978-3-642-13287-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/book/10.1007/978-3-642-13287-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Long Tail, Long Fail, and Long Play in the Digital Music Space... Order, [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) and popularity bias in next-song...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0306457323003436](https://www.sciencedirect.com/science/article/abs/pii/S0306457323003436)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457323003436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457323003436</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flexibly manipulating popularity bias for tackling trade-offs...by H Okamura · 2024 · Cited by 8 — We can effectively and flexibly manip...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0306457321001436](https://www.sciencedirect.com/science/article/abs/pii/S0306457321001436)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457321001436" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457321001436</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the impact of recommender systems on user-...by M Elahi · 2021 · Cited by 81 — In this paper, we study the impact of diffe...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Popularity Bias In Recommender Systems  
-   Link: [https://www.youtube.com/watch?v=D4Us--bvFQo](https://www.youtube.com/watch?v=D4Us--bvFQo)  
+   Link: <a href="https://www.youtube.com/watch?v=D4Us--bvFQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D4Us--bvFQo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Biases for a Better Recommender System: How Tech-Titans Combat...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: knightcolumbia.org  
-   Link: [https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content](https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content)  
+   Link: <a href="https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteA Public Service Media Perspective on the Algorithmic...24 Jul 2024 — Recommender systems play an import...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: knightcolumbia.org  
-   Link: [https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms](https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms)  
+   Link: <a href="https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knight First Amendment InstituteUnderstanding Social Media Recommendation AlgorithmsMar 9, 2023 — The algorithms driving social media are...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Recommender system  
-   Link: [https://en.wikipedia.org/wiki/Recommender_system](https://en.wikipedia.org/wiki/Recommender_system)  
+   Link: <a href="https://en.wikipedia.org/wiki/Recommender_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recommender_system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommender systemA recommender system, also called a recommendation algorithm, recommendation engine, or recommendation platform, is...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: iss.nus.edu.sg  
    Title: nus.edu.sg Recommender Systems  
-   Link: [https://www.iss.nus.edu.sg/executive-education/course/detail/recommender--systems/data-science](https://www.iss.nus.edu.sg/executive-education/course/detail/recommender--systems/data-science)  
+   Link: <a href="https://www.iss.nus.edu.sg/executive-education/course/detail/recommender--systems/data-science" target="_blank" rel="noopener noreferrer nofollow">https://www.iss.nus.edu.sg/executive-education/course/detail/recommender--systems/data-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Systems - SingaporeLearn to design AI-driven recommender systems using machine learning and Python. This NUS-ISS course covers collaborat...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services](https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services)  
+   Link: <a href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Exploring Popularity Bias in Music Recommendation...19 Aug 2022 — Research has shown that recommender systems are typically biased...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: blogs.biomedcentral.com  
-   Link: [https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/](https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/)  
+   Link: <a href="https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.biomedcentral.com/on-physicalsciences/2021/04/13/algorithm-generated-music-recommendations-low-accuracy-for-fans-of-beyond-mainstream-music/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy for Fans of Beyond-Mainstream Music13 Apr 2021 — However, it is a widely-known problem that recommender systems are prone to pop...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ftp.informatik.rwth-aachen.de  
-   Link: [https://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-633/wom2010_paper10.pdf](https://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-633/wom2010_paper10.pdf)  
+   Link: <a href="https://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-633/wom2010_paper10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendation and the Long Tailby M Levy · Cited by 85 — In this paper we present an empirical study of the rec- ommendations actually m...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review)  
+   Link: <a href="https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption/the-impact-of-algorithmically-driven-recommendation-systems-on-music-consumption-and-production-a-literature-review</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of algorithmically driven recommendation...by D Hesmondhalgh · Cited by 58 — Their discussion of the sources of popularity bias i...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: christophtrattner.com  
-   Link: [https://www.christophtrattner.com/pubs/PopBias2024.pdf](https://www.christophtrattner.com/pubs/PopBias2024.pdf)  
+   Link: <a href="https://www.christophtrattner.com/pubs/PopBias2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.christophtrattner.com/pubs/PopBias2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Survey on Popularity Bias in Recommender Systemsby A Klimashevskaia · Cited by 179 — In this paper, we discuss the potential reasons fo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
    Title: 343253269 Feedback Loop and Bias Amplification in Recommender Systems  
-   Link: [https://www.researchgate.net/publication/343253269_Feedback_Loop_and_Bias_Amplification_in_Recommender_Systems](https://www.researchgate.net/publication/343253269_Feedback_Loop_and_Bias_Amplification_in_Recommender_Systems)  
+   Link: <a href="https://www.researchgate.net/publication/343253269_Feedback_Loop_and_Bias_Amplification_in_Recommender_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343253269_Feedback_Loop_and_Bias_Amplification_in_Recommender_Systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loop and Bias Amplification in Recommender...31 Jul 2020 — In this paper, we propose a method for simulating the users interact...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: orfonline.org  
    Title: from clicks to chaos how social media algorithms amplify extremism  
-   Link: [https://www.orfonline.org/expert-speak/from-clicks-to-chaos-how-social-media-algorithms-amplify-extremism](https://www.orfonline.org/expert-speak/from-clicks-to-chaos-how-social-media-algorithms-amplify-extremism)  
+   Link: <a href="https://www.orfonline.org/expert-speak/from-clicks-to-chaos-how-social-media-algorithms-amplify-extremism" target="_blank" rel="noopener noreferrer nofollow">https://www.orfonline.org/expert-speak/from-clicks-to-chaos-how-social-media-algorithms-amplify-extremism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From clicks to chaos: How social media algorithms amplify...Feb 13, 2025 — This article explores the mechanisms behind algorithmic ampli...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: ceur-ws.org  
-   Link: [https://ceur-ws.org/Vol-633/wom2010_paper10.pdf](https://ceur-ws.org/Vol-633/wom2010_paper10.pdf)  
+   Link: <a href="https://ceur-ws.org/Vol-633/wom2010_paper10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ceur-ws.org/Vol-633/wom2010_paper10.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ally made by the widely-used Last.fm music recommender system, in particular via its...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: liner.com  
    Title: feedback loop and bias amplification in recommender systems  
-   Link: [https://liner.com/review/feedback-loop-and-bias-amplification-in-recommender-systems](https://liner.com/review/feedback-loop-and-bias-amplification-in-recommender-systems)  
+   Link: <a href="https://liner.com/review/feedback-loop-and-bias-amplification-in-recommender-systems" target="_blank" rel="noopener noreferrer nofollow">https://liner.com/review/feedback-loop-and-bias-amplification-in-recommender-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loop and Bias Amplification in Recommender...Jul 25, 2020 — Regarding this CIKM 2020 paper, this review summarizes how feedback...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/papers/feedback-loop-and-bias-amplification-in-recommender-systems-43dh6ke8pd](https://scispace.com/papers/feedback-loop-and-bias-amplification-in-recommender-systems-43dh6ke8pd)  
+   Link: <a href="https://scispace.com/papers/feedback-loop-and-bias-amplification-in-recommender-systems-43dh6ke8pd" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/feedback-loop-and-bias-amplification-in-recommender-systems-43dh6ke8pd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ecommenders in an offline setting and study the impact of feedback loop on the...Read more...</p></details>

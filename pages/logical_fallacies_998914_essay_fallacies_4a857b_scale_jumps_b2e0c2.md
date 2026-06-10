@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jump
 
 ## Introduction
 
-A hasty generalisation from one classroom example occurs when a writer treats a single observation, anecdote or lesson [experience]({{ 'experience/' | relative_url }}) as proof of a broad claim. In academic writing, the problem is not that the example is false. The problem is that the conclusion extends far beyond what the evidence can support. A classroom incident may illustrate a point vividly, but it cannot by itself demonstrate what is true of all students, all schools, an entire generation or a whole educational system. Logic and writing guides consistently describe hasty generalisation as drawing a conclusion from evidence that is too limited, too small or insufficiently representative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">hasty generalization fallacy</span><span class="citation-popover-snippet">ScribbrHasty Generalization Fallacy | Definition &amp; ExamplesApr 26, 2023 — A hasty generalization fallacy occurs when people draw a conclu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLHasty Generalization: This is a conclusion based on insufficient or biased evidence. In other wor...</span></span></span>
+A hasty generalisation from one classroom example occurs when a writer treats a single observation, anecdote or lesson [experience]({{ 'experience/' | relative_url }}) as proof of a broad claim. In academic writing, the problem is not that the example is false. The problem is that the conclusion extends far beyond what the evidence can support. A classroom incident may illustrate a point vividly, but it cannot by itself demonstrate what is true of all students, all schools, an entire generation or a whole educational system. Logic and writing guides consistently describe hasty generalisation as drawing a conclusion from evidence that is too limited, too small or insufficiently representative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">hasty generalization fallacy</span><span class="citation-popover-snippet">Hasty Generalization Fallacy &#124; Definition &amp; ExamplesApr 26, 2023 — A hasty generalization fallacy occurs when people draw a conclu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLHasty Generalization: This is a conclusion based on insufficient or biased evidence. In other wor...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-1-dark.svg" | relative_url }}" alt="Scale Jumps illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Consider the following example:
 
 > In my history class, several students admitted they never read assigned chapters. Therefore, students today are no longer interested in reading.
 
-The observation may be accurate. The conclusion is not justified. A handful of students in one classroom cannot establish a pattern for all students. The argument moves from a local event to a sweeping statement without showing that the observed group is representative. This is a classic form of hasty generalisation, in which a small sample is treated as evidence for a much broader conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">logical fallacy</span><span class="citation-popover-snippet">Logical Fallacies | Definition, Types, List &amp; ExamplesApr 20, 2023 — The hasty generalization fallacy (or jumping to conclusions) occurs...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">A hasty generalization...Read more...</span></span></span>
+The observation may be accurate. The conclusion is not justified. A handful of students in one classroom cannot establish a pattern for all students. The argument moves from a local event to a sweeping statement without showing that the observed group is representative. This is a classic form of hasty generalisation, in which a small sample is treated as evidence for a much broader conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">logical fallacy</span><span class="citation-popover-snippet">Logical Fallacies &#124; Definition, Types, List &amp; ExamplesApr 20, 2023 — The hasty generalization fallacy (or jumping to conclusions) occurs...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">A hasty generalization...Read more...</span></span></span>
 
 The same pattern appears in many essay topics:
 
@@ -325,7 +325,7 @@ The missing step is proof that the class resembles the wider population being di
 
 Another temptation comes from assuming that a local setting automatically reflects broader trends. A class of twenty or thirty students can feel like a meaningful sample. However, a classroom is shaped by specific factors such as age group, subject area, teacher expectations, school culture and location.
 
-Even a larger sample can produce misleading conclusions if it is not representative of the broader group being discussed. Evidence must be typical, not merely numerous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/hasty-generalization-fallacy-1690919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-snippet">ThoughtCoHasty Generalizations: Definition and Examples12 May 2025 — Hasty generalizations occur when conclusions are made with not enoug...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Even a larger sample can produce misleading conclusions if it is not representative of the broader group being discussed. Evidence must be typical, not merely numerous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/hasty-generalization-fallacy-1690919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-snippet">Hasty Generalizations: Definition and Examples12 May 2025 — Hasty generalizations occur when conclusions are made with not enoug...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## How Qualifiers Keep Evidence and Conclusion in Proportion
 
@@ -351,11 +351,11 @@ Useful qualifiers include:
 * “Some students”
 * “In this particular lesson”
 * “This example suggests”
-* “This case may indicate” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/226932408_Rethinking_the_Fallacy_of_Hasty_Generalization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Rethinking the Fallacy of Hasty GeneralizationPDF | This paper makes a case for a refined look at the so- called fallacy of hasty g...</span></span></span>
+* “This case may indicate” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/226932408_Rethinking_the_Fallacy_of_Hasty_Generalization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Rethinking the Fallacy of Hasty GeneralizationPDF &#124; This paper makes a case for a refined look at the so- called fallacy of hasty g...</span></span></span>
 
 </div>
 
-These phrases signal that the writer understands the limits of the evidence. Academic argument often becomes stronger, not weaker, when claims are carefully limited to what the evidence actually supports. Argumentation research and writing guidance both emphasise that conclusions should be proportionate to the premises supporting them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.13495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessing the Sufficiency of Arguments through Conclusion Generation</span><span class="citation-popover-snippet">arXivAssessing the Sufficiency of Arguments through Conclusion GenerationOctober 26, 2021...</span><span class="citation-popover-meta">Published: October 26, 2021</span></span></span>
+These phrases signal that the writer understands the limits of the evidence. Academic argument often becomes stronger, not weaker, when claims are carefully limited to what the evidence actually supports. Argumentation research and writing guidance both emphasise that conclusions should be proportionate to the premises supporting them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.13495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessing the Sufficiency of Arguments through Conclusion Generation</span><span class="citation-popover-snippet">Assessing the Sufficiency of Arguments through Conclusion GenerationOctober 26, 2021...</span><span class="citation-popover-meta">Published: October 26, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-2-dark.svg" | relative_url }}" alt="Scale Jumps illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -421,7 +421,7 @@ Stronger support might include:
 
 </div>
 
-A classroom anecdote can still be valuable. It can introduce a topic, humanise a discussion or illustrate a larger pattern. The mistake occurs only when the anecdote is treated as sufficient proof by itself. Writing guides frequently distinguish between illustrative examples and evidence capable of supporting general conclusions. A single anecdote may demonstrate that something can happen; it rarely demonstrates how common it is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">ScribbrThe hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">A hasty generalization...Read more...</span></span></span>
+A classroom anecdote can still be valuable. It can introduce a topic, humanise a discussion or illustrate a larger pattern. The mistake occurs only when the anecdote is treated as sufficient proof by itself. Writing guides frequently distinguish between illustrative examples and evidence capable of supporting general conclusions. A single anecdote may demonstrate that something can happen; it rarely demonstrates how common it is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">A hasty generalization...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b_UqIfw7Zmw" title="Hasty Generalization (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b_UqIfw7Zmw" target="_blank" rel="noopener noreferrer">Hasty Generalization (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 59.6K &middot; Uploaded: February 2014 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b_UqIfw7Zmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b_UqIfw7Zmw">Open on YouTube</a></p></div></div></div>
@@ -872,140 +872,140 @@ When the conclusion grows much larger than the evidence beneath it, the argument
 1. <a id="endnote-1"></a>
    Source: scribbr.com  
    Title: hasty generalization fallacy  
-   Link: [https://www.scribbr.com/fallacies/hasty-generalization-fallacy/](https://www.scribbr.com/fallacies/hasty-generalization-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrHasty Generalization Fallacy | Definition &amp; ExamplesApr 26, 2023 — A hasty generalization fallacy occurs when people draw a conclu...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalization Fallacy | Definition &amp; ExamplesApr 26, 2023 — A hasty generalization fallacy occurs when people draw a conclu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLHasty Generalization: This is a conclusion based on insufficient or biased evidence. In other wor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/](https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A hasty generalization...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scribbr.com  
    Title: logical fallacy  
-   Link: [https://www.scribbr.com/fallacies/logical-fallacy/](https://www.scribbr.com/fallacies/logical-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/logical-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) | Definition, Types, List &amp; ExamplesApr 20, 2023 — The hasty generalization fallacy (or jumping to conclusions) occurs...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/](https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Support an Argument and Avoid Logical FallaciesAnecdotal fallacy, also called a hasty generalization or jumping to conclusions, is...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thoughtco.com  
-   Link: [https://www.thoughtco.com/hasty-generalization-fallacy-1690919](https://www.thoughtco.com/hasty-generalization-fallacy-1690919)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ThoughtCoHasty Generalizations: Definition and Examples12 May 2025 — Hasty generalizations occur when conclusions are made with not enoug...</p></details>
+   Link: <a href="https://www.thoughtco.com/hasty-generalization-fallacy-1690919" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/hasty-generalization-fallacy-1690919</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalizations: Definition and Examples12 May 2025 — Hasty generalizations occur when conclusions are made with not enoug...</p></details>
    Published: May 2025  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Assessing the Sufficiency of Arguments through Conclusion Generation  
-   Link: [https://arxiv.org/abs/2110.13495](https://arxiv.org/abs/2110.13495)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAssessing the Sufficiency of Arguments through Conclusion GenerationOctober 26, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2110.13495" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.13495</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the Sufficiency of Arguments through Conclusion GenerationOctober 26, 2021...</p></details>
    Published: October 26, 2021  
 
 8. <a id="endnote-8"></a>
    Source: owl.purdue.edu  
    Title: OWLLogic in Argumentative Writing  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogic in Argumentative Writing - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacie...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/](https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrThe hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the [anecdotal evidence](&amp;#123;&amp;#123; &#x27;anecdotes/&#x27; | relative_url &amp;#125;&amp;#125;) fallacy are simi...</p></details>
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scribbr.com  
    Title: Articles about Fallacies  
-   Link: [https://www.scribbr.com/category/fallacies/page/2/](https://www.scribbr.com/category/fallacies/page/2/)  
+   Link: <a href="https://www.scribbr.com/category/fallacies/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/category/fallacies/page/2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>page 2A hasty generalization fallacy is a claim made on the basis of insufficient evidence. Instead of looking into examples and evidence...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribbr.com  
    Title: fallacy of composition  
-   Link: [https://www.scribbr.com/fallacies/fallacy-of-composition/](https://www.scribbr.com/fallacies/fallacy-of-composition/)  
+   Link: <a href="https://www.scribbr.com/fallacies/fallacy-of-composition/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/fallacy-of-composition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples10 May 2023 — The hasty generalization fallacy involves drawing an inference about a population or class of things o...</p></details>
    Published: May 2023  
 
 12. <a id="endnote-12"></a>
    Source: owl.excelsior.edu  
    Title: OWLHasty Generalization Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLHasty Generalization Fallacy - Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribbr.co.uk  
-   Link: [https://www.scribbr.co.uk/faqs/what-is-the-difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/](https://www.scribbr.co.uk/faqs/what-is-the-difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/)  
+   Link: <a href="https://www.scribbr.co.uk/faqs/what-is-the-difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/faqs/what-is-the-difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the difference between the hasty generalization fallacy...The hasty generalization fallacy and the anecdotal evidence fallacy ar...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scribbr.co.uk  
    Title: Hasty Generalization Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/hasty-generalization/](https://www.scribbr.co.uk/fallacy/hasty-generalization/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/hasty-generalization/</a>  
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/226932408_Rethinking_the_Fallacy_of_Hasty_Generalization](https://www.researchgate.net/publication/226932408_Rethinking_the_Fallacy_of_Hasty_Generalization)  
+   Link: <a href="https://www.researchgate.net/publication/226932408_Rethinking_the_Fallacy_of_Hasty_Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226932408_Rethinking_the_Fallacy_of_Hasty_Generalization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Rethinking the Fallacy of Hasty GeneralizationPDF | This paper makes a case for a refined look at the so- called fallacy of hasty g...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/ph/document/caraga-state-university/social-psychology/scribbr-logical-fallacy-list/82598163](https://www.studocu.com/ph/document/caraga-state-university/social-psychology/scribbr-logical-fallacy-list/82598163)  
+   Link: <a href="https://www.studocu.com/ph/document/caraga-state-university/social-psychology/scribbr-logical-fallacy-list/82598163" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/ph/document/caraga-state-university/social-psychology/scribbr-logical-fallacy-list/82598163</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: csun.edu  
-   Link: [https://www.csun.edu/~hceng028/English/fall.html](https://www.csun.edu/~hceng028/English/fall.html)  
+   Link: <a href="https://www.csun.edu/~hceng028/English/fall.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csun.edu/~hceng028/English/fall.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesHasty Generalization: Drawing conclusion on the basis of insufficient evidence. A prejudice is literally a judgement mad...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Biased-Sample-Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Biased-Sample-Fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Biased-Sample-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Biased-Sample-Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biased Sample FallacyThis differs from the hasty generalization fallacy, where the biased sample is specifically chosen from a select gro...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/](https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MOST COMMON FALLACIES: #10 HASTY GENERALIZATION...The hasty generalization fallacy occurs when we use limited evidence (i.e. a small sam...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tomorrow.bio  
-   Link: [https://www.tomorrow.bio/post/unquestioned-assumptions-spotting-hasty-generalization-fallacies-before-they-fool-you-2023-06-4669959500-rationality](https://www.tomorrow.bio/post/unquestioned-assumptions-spotting-hasty-generalization-fallacies-before-they-fool-you-2023-06-4669959500-rationality)  
+   Link: <a href="https://www.tomorrow.bio/post/unquestioned-assumptions-spotting-hasty-generalization-fallacies-before-they-fool-you-2023-06-4669959500-rationality" target="_blank" rel="noopener noreferrer nofollow">https://www.tomorrow.bio/post/unquestioned-assumptions-spotting-hasty-generalization-fallacies-before-they-fool-you-2023-06-4669959500-rationality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Hasty Generalization Fallacies Before They Fool...23 Jun 2023 — These fallacies involve making broad generalizations based on l...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
 
 22. <a id="endnote-22"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/104819729/logical-fallacies-purdue-owl-flash-cards/](https://quizlet.com/104819729/logical-fallacies-purdue-owl-flash-cards/)  
+   Link: <a href="https://quizlet.com/104819729/logical-fallacies-purdue-owl-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/104819729/logical-fallacies-purdue-owl-flash-cards/</a>  
 
 23. <a id="endnote-23"></a>
    Source: coursehero.com  
-   Link: [https://www.coursehero.com/tutors-problems/Writing/38034148-Identify-the-logical-fallacy-in-each-scenario-AND-explain-your/](https://www.coursehero.com/tutors-problems/Writing/38034148-Identify-the-logical-fallacy-in-each-scenario-AND-explain-your/)  
+   Link: <a href="https://www.coursehero.com/tutors-problems/Writing/38034148-Identify-the-logical-fallacy-in-each-scenario-AND-explain-your/" target="_blank" rel="noopener noreferrer nofollow">https://www.coursehero.com/tutors-problems/Writing/38034148-Identify-the-logical-fallacy-in-each-scenario-AND-explain-your/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identify the logical fallacy in each scenario AND explain...Feb 18, 2022 — Identify the logical fallacy in each scenario AND explain you...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tckpublishing.com  
-   Link: [https://www.tckpublishing.com/hasty-generalization/](https://www.tckpublishing.com/hasty-generalization/)  
+   Link: <a href="https://www.tckpublishing.com/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.tckpublishing.com/hasty-generalization/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ches a conclusion that is not justified logically by objective or sufficient...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: deanramser.com  
-   Link: [https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf](https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf)  
+   Link: <a href="https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to the Purdue OWL Logic in Argumentative WritingHasty Generalization: This is a conclusion based on insufficient or biased evidence...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186](https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186)  
+   Link: <a href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Logical Fallacies - Purdue OWL® ResourcesHasty Generalization: Drawing a conclusion based on insufficient evidence or a sma...</p></details>

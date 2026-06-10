@@ -558,7 +558,7 @@ The weakness is not merely technical. It changes what people do next. If a busin
 
 ## Why the fallacy feels so convincing
 
-Post hoc reasoning works on ordinary human habits of attention. People naturally look for causes, especially after surprising, costly or [emotionally charged]({{ 'charged-labels/' | relative_url }}) events. Psychological research on illusions of causality shows that people can perceive causal links between unrelated events, particularly when the events occur close together or when the outcome is important to them. In one review, Helena Matute and colleagues describe illusions of causality as beliefs that two events are causally connected when they are actually unrelated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Post hoc reasoning works on ordinary human habits of attention. People naturally look for causes, especially after surprising, costly or emotionally charged events. Psychological research on illusions of causality shows that people can perceive causal links between unrelated events, particularly when the events occur close together or when the outcome is important to them. In one review, Helena Matute and colleagues describe illusions of causality as beliefs that two events are causally connected when they are actually unrelated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 Superstition shows the mechanism in a familiar form. A football fan wears a particular shirt and the team wins. The next time, the shirt feels lucky. The evidence is thin, but the sequence is vivid, personal and easy to remember. Research on illusory control similarly suggests that people may overestimate their influence over outcomes governed by chance; one study found that people who endorsed more superstitious beliefs showed stronger illusory control in a task where pressing a button had no objective effect on whether a light appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1068,197 +1068,197 @@ The safest habit is to treat sequence as an invitation to investigate. Ask what 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: vaers.hhs.gov  
    Title: Guide to Interpreting VAERS Data  
-   Link: [https://vaers.hhs.gov/data/dataguide.html](https://vaers.hhs.gov/data/dataguide.html)  
+   Link: <a href="https://vaers.hhs.gov/data/dataguide.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data/dataguide.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HHS.gov8 May 2025 — A report to VAERS generally does not prove that the identified vaccine(s) caused the adverse event described. It only...</p></details>
    Published: May 2025  
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: causation counterfactual  
-   Link: [https://plato.stanford.edu/entries/causation-counterfactual/](https://plato.stanford.edu/entries/causation-counterfactual/)  
+   Link: <a href="https://plato.stanford.edu/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-counterfactual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCounterfactual Theories of Causationby P Menzies · 2001 · Cited by 611 — The basic idea of counterfact...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy [Counterfactuals](&#123;&#123; 'counterfactuals/' | relative_url &#125;&#125;)  
-   Link: [https://plato.stanford.edu/entries/counterfactuals/](https://plato.stanford.edu/entries/counterfactuals/)  
+   Link: <a href="https://plato.stanford.edu/entries/counterfactuals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/counterfactuals/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4488611/</a>  
 
 7. <a id="endnote-7"></a>
    Source: euresis.org  
    Title: EJv7id1 Buehner  
-   Link: [https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf](https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf)  
+   Link: <a href="https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf" target="_blank" rel="noopener noreferrer nofollow">https://euresis.org/wp-content/uploads/2019/06/EJv7id1_Buehner.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/vaccine-safety-systems/vaers/index.html](https://www.cdc.gov/vaccine-safety-systems/vaers/index.html)  
+   Link: <a href="https://www.cdc.gov/vaccine-safety-systems/vaers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/vaccine-safety-systems/vaers/index.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08)  
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08</a>  
 
 10. <a id="endnote-10"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-24](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-24)  
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-24" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-24</a>  
 
 11. <a id="endnote-11"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies)  
+   Link: <a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies</a>  
 
 12. <a id="endnote-12"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/mmwr/preview/mmwrhtml/ss5201a1.htm](https://www.cdc.gov/mmwr/preview/mmwrhtml/ss5201a1.htm)  
+   Link: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/ss5201a1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/ss5201a1.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: causation metaphysics  
-   Link: [https://plato.stanford.edu/entries/causation-metaphysics/](https://plato.stanford.edu/entries/causation-metaphysics/)  
+   Link: <a href="https://plato.stanford.edu/entries/causation-metaphysics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-metaphysics/</a>  
 
 14. <a id="endnote-14"></a>
    Source: methods.cochrane.org  
-   Link: [https://methods.cochrane.org/defining-and-determining-which-quantitative-study-designs-include-your-systematic-review-effects](https://methods.cochrane.org/defining-and-determining-which-quantitative-study-designs-include-your-systematic-review-effects)  
+   Link: <a href="https://methods.cochrane.org/defining-and-determining-which-quantitative-study-designs-include-your-systematic-review-effects" target="_blank" rel="noopener noreferrer nofollow">https://methods.cochrane.org/defining-and-determining-which-quantitative-study-designs-include-your-systematic-review-effects</a>  
 
 15. <a id="endnote-15"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23)  
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf](https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf)  
+   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: vaers.hhs.gov  
-   Link: [https://vaers.hhs.gov/data.html](https://vaers.hhs.gov/data.html)  
+   Link: <a href="https://vaers.hhs.gov/data.html" target="_blank" rel="noopener noreferrer nofollow">https://vaers.hhs.gov/data.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterPost hoc (also called false cause). This fallacy gets its name from the Latin phrase “pos...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ora.ox.ac.uk  
-   Link: [https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c](https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c)  
+   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A460038d5-1e53-47c2-941b-52dce3ef8a03/files/m23402a193143a1e3912d3d6b10934f9c</a>  
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12850993/](https://pubmed.ncbi.nlm.nih.gov/12850993/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12850993/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12850993/</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Post hoc ergo propter hoc  
-   Link: [https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)  
+   Link: <a href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
 23. <a id="endnote-23"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/false](https://dictionary.cambridge.org/dictionary/english/false)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/false</a>  
 
 24. <a id="endnote-24"></a>
    Source: tureng.com  
-   Link: [https://tureng.com/en/turkish-english/false](https://tureng.com/en/turkish-english/false)  
+   Link: <a href="https://tureng.com/en/turkish-english/false" target="_blank" rel="noopener noreferrer nofollow">https://tureng.com/en/turkish-english/false</a>  
 
 25. <a id="endnote-25"></a>
    Source: quillbot.com  
    Title: post hoc fallacy  
-   Link: [https://quillbot.com/blog/reasoning/post-hoc-fallacy/](https://quillbot.com/blog/reasoning/post-hoc-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/post-hoc-fallacy/</a>  
 
 26. <a id="endnote-26"></a>
    Source: scribbr.co.uk  
    Title: Post Hoc Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-post-hoc-fallacy/](https://www.scribbr.co.uk/fallacy/the-post-hoc-fallacy/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-post-hoc-fallacy/</a>  
 
 27. <a id="endnote-27"></a>
    Source: legal-resources.uslegalforms.com  
    Title: post hoc ergo propter hoc  
-   Link: [https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc](https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc)  
+   Link: <a href="https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/p/post-hoc-ergo-propter-hoc</a>  
 
 28. <a id="endnote-28"></a>
    Source: explorable.com  
    Title: Post Hoc Reasoning  
-   Link: [https://explorable.com/post-hoc-reasoning](https://explorable.com/post-hoc-reasoning)  
+   Link: <a href="https://explorable.com/post-hoc-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://explorable.com/post-hoc-reasoning</a>  
 
 29. <a id="endnote-29"></a>
    Source: philpapers.org  
    Title: Counterfactual theories of causation  
-   Link: [https://philpapers.org/rec/MENCTO](https://philpapers.org/rec/MENCTO)  
+   Link: <a href="https://philpapers.org/rec/MENCTO" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/MENCTO</a>  
 
 30. <a id="endnote-30"></a>
    Source: study.com  
    Title: Post Hoc Fallacy | Definition & Examples  
-   Link: [https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html](https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html)  
+   Link: <a href="https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/video/post-hoc-fallacy-overview-examples.html</a>  
 
 31. <a id="endnote-31"></a>
    Source: study.com  
    Title: Post Hoc Fallacy | Definition & Examples  
-   Link: [https://study.com/learn/lesson/post-hoc-fallacy-overview-examples.html](https://study.com/learn/lesson/post-hoc-fallacy-overview-examples.html)  
+   Link: <a href="https://study.com/learn/lesson/post-hoc-fallacy-overview-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/post-hoc-fallacy-overview-examples.html</a>  
 
 32. <a id="endnote-32"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 33. <a id="endnote-33"></a>
    Source: afterall.net  
    Title: post hoc  
-   Link: [https://afterall.net/illogic/causal/post-hoc/](https://afterall.net/illogic/causal/post-hoc/)  
+   Link: <a href="https://afterall.net/illogic/causal/post-hoc/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/causal/post-hoc/</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIts four principal kinds are the Post Hoc Fallacy, the Fallacy of Cum Hoc... This label is L...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: Can you outsmart the fallacy that fooled a generation of doctors?  
-   Link: [https://www.youtube.com/watch?v=8HLtFv_KqoE](https://www.youtube.com/watch?v=8HLtFv_KqoE)  
+   Link: <a href="https://www.youtube.com/watch?v=8HLtFv_KqoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8HLtFv_KqoE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is The Post Hoc Fallacy? | Critical Thinking Basics...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/327223124_Superstition_predicts_perception_of_illusory_control](https://www.researchgate.net/publication/327223124_Superstition_predicts_perception_of_illusory_control)  
+   Link: <a href="https://www.researchgate.net/publication/327223124_Superstition_predicts_perception_of_illusory_control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327223124_Superstition_predicts_perception_of_illusory_control</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/47642331_Temporal_Predictability_Facilitates_Causal_Learning](https://www.researchgate.net/publication/47642331_Temporal_Predictability_Facilitates_Causal_Learning)  
+   Link: <a href="https://www.researchgate.net/publication/47642331_Temporal_Predictability_Facilitates_Causal_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/47642331_Temporal_Predictability_Facilitates_Causal_Learning</a>  
 
 38. <a id="endnote-38"></a>
    Source: helpfulprofessor.com  
-   Link: [https://helpfulprofessor.com/false-cause-fallacy-examples/](https://helpfulprofessor.com/false-cause-fallacy-examples/)  
+   Link: <a href="https://helpfulprofessor.com/false-cause-fallacy-examples/" target="_blank" rel="noopener noreferrer nofollow">https://helpfulprofessor.com/false-cause-fallacy-examples/</a>  
 
 39. <a id="endnote-39"></a>
    Source: juliankingnz.substack.com  
-   Link: [https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to](https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to)  
+   Link: <a href="https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to" target="_blank" rel="noopener noreferrer nofollow">https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to</a>  
 
 40. <a id="endnote-40"></a>
    Source: usablebuildings.co.uk  
-   Link: [https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf](https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf)  
+   Link: <a href="https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf</a>  
 
 41. <a id="endnote-41"></a>
    Source: 1000wordphilosophy.com  
-   Link: [https://1000wordphilosophy.com/2025/12/20/causation/](https://1000wordphilosophy.com/2025/12/20/causation/)  
+   Link: <a href="https://1000wordphilosophy.com/2025/12/20/causation/" target="_blank" rel="noopener noreferrer nofollow">https://1000wordphilosophy.com/2025/12/20/causation/</a>  
 
 42. <a id="endnote-42"></a>
    Source: alisongopnik.com  
-   Link: [https://alisongopnik.com/Papers_Alison/Kushnir%20DevPsych.pdf](https://alisongopnik.com/Papers_Alison/Kushnir%20DevPsych.pdf)  
+   Link: <a href="https://alisongopnik.com/Papers_Alison/Kushnir%20DevPsych.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alisongopnik.com/Papers_Alison/Kushnir%20DevPsych.pdf</a>  
 
 43. <a id="endnote-43"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/](https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/</a>  

@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_tone_vs_logic_601e34_polite_weak_
 
 ## Introduction
 
-Politenely expressed arguments often receive more credit than they deserve. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), people sometimes assume that calm, measured language signals careful reasoning. Yet an argument can sound balanced, respectful and thoughtful while offering little actual support for its conclusion. The key question is not whether a speaker sounds reasonable but whether the reasons given genuinely justify what is being claimed. Argumentation research consistently distinguishes between the style of an argument and its logical strength: arguments require claims supported by reasons and evidence, not merely a persuasive presentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.comm.pitt.edu/argument-basics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comm.pitt.edu">[comm.pitt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comm.pitt.edu</span><span class="citation-popover-snippet">Argument: The Basics | Department of CommunicationArguments are claims backed by reasons that are supported by evidence. There are five h...</span></span></span>
+Politenely expressed arguments often receive more credit than they deserve. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), people sometimes assume that calm, measured language signals careful reasoning. Yet an argument can sound balanced, respectful and thoughtful while offering little actual support for its conclusion. The key question is not whether a speaker sounds reasonable but whether the reasons given genuinely justify what is being claimed. Argumentation research consistently distinguishes between the style of an argument and its logical strength: arguments require claims supported by reasons and evidence, not merely a persuasive presentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.comm.pitt.edu/argument-basics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comm.pitt.edu">[comm.pitt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comm.pitt.edu</span><span class="citation-popover-snippet">Argument: The Basics &#124; Department of CommunicationArguments are claims backed by reasons that are supported by evidence. There are five h...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_polite_weak_argument_ed6bee-Illustration-1-dark.svg" | relative_url }}" alt="Polite Weakness illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_polite_weak_argument_ed6bee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_polite_weak_argument_ed6bee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -321,7 +321,7 @@ One common form replaces evidence with references to respected figures or instit
 
 > “Experts generally believe this approach is best.”
 
-Expert opinion can be relevant, but only when the expertise is genuine, relevant to the question, and connected to supporting evidence. Merely invoking experts without explaining their reasoning or evidence risks becoming an appeal to authority. Critical-thinking literature repeatedly emphasises that authority alone does not prove a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[QuillBot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Examples &amp; Definition26 Jun 2024 — The appeal to authority fallacy (or argument from authority) is the mistake of relying on expert opini...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argumentation_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Argumentation theoryArgumentation theory is the interdisciplinary study of how conclusions can be supported or undermined by premises...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[3read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise | Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because an...</span></span></span>
+Expert opinion can be relevant, but only when the expertise is genuine, relevant to the question, and connected to supporting evidence. Merely invoking experts without explaining their reasoning or evidence risks becoming an [appeal to authority]({{ 'authority/' | relative_url }}). Critical-thinking literature repeatedly emphasises that authority alone does not prove a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[QuillBot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Examples &amp; Definition26 Jun 2024 — The appeal to authority fallacy (or argument from authority) is the mistake of relying on expert opini...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argumentation_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Argumentation theoryArgumentation theory is the interdisciplinary study of how conclusions can be supported or undermined by premises...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[3read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise &#124; Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because an...</span></span></span>
 
 The weakness is often disguised by courteous wording:
 
@@ -407,7 +407,7 @@ Once stripped down, the need for further support becomes obvious.
 
 Within the study of logical fallacies, politeness is neither evidence nor proof. Respectful language can improve discussion, reduce conflict and encourage cooperation. Those are genuine virtues. However, they do not strengthen a conclusion unless they are accompanied by relevant reasons and evidence.
 
-The danger of polite weak arguments is precisely that they imitate the surface features of rational inquiry. They sound measured, careful and fair-minded while relying on vague authority, implied consensus, reassuring moderation or courteous dismissal instead of substantive support. Evaluating arguments therefore requires looking past the style of reasonableness to the actual structure of the reasoning beneath it. Arguments stand or fall on their support, not on how politely that support is presented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.comm.pitt.edu/argument-basics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comm.pitt.edu">[comm.pitt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comm.pitt.edu</span><span class="citation-popover-snippet">Argument: The Basics | Department of CommunicationArguments are claims backed by reasons that are supported by evidence. There are five h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from authority</span><span class="citation-popover-snippet">Argument from authority</span></span></span>
+The danger of polite weak arguments is precisely that they imitate the surface features of rational inquiry. They sound measured, careful and fair-minded while relying on vague authority, implied consensus, reassuring moderation or courteous dismissal instead of substantive support. Evaluating arguments therefore requires looking past the style of reasonableness to the actual structure of the reasoning beneath it. Arguments stand or fall on their support, not on how politely that support is presented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.comm.pitt.edu/argument-basics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: comm.pitt.edu">[comm.pitt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">comm.pitt.edu</span><span class="citation-popover-snippet">Argument: The Basics &#124; Department of CommunicationArguments are claims backed by reasons that are supported by evidence. There are five h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from authority</span><span class="citation-popover-snippet">Argument from authority</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -707,114 +707,114 @@ The danger of polite weak arguments is precisely that they imitate the surface f
 
 1. <a id="endnote-1"></a>
    Source: comm.pitt.edu  
-   Link: [https://www.comm.pitt.edu/argument-basics](https://www.comm.pitt.edu/argument-basics)  
+   Link: <a href="https://www.comm.pitt.edu/argument-basics" target="_blank" rel="noopener noreferrer nofollow">https://www.comm.pitt.edu/argument-basics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument: The Basics | Department of CommunicationArguments are claims backed by reasons that are supported by evidence. There are five h...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Argumentation_theory](https://en.wikipedia.org/wiki/Argumentation_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentation_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentation_theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentation theoryArgumentation theory is the interdisciplinary study of how conclusions can be supported or undermined by premises...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: owl.purdue.edu  
    Title: OWLUsing Rhetorical Strategies for Persuasion  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLUsing Rhetorical Strategies for Persuasion - Purdue OWLThere are three types of rhetorical appeals, or persuasive strategies, u...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dwc.knaw.nl  
-   Link: [https://dwc.knaw.nl/DL/publications/PU00010682.pdf](https://dwc.knaw.nl/DL/publications/PU00010682.pdf)  
+   Link: <a href="https://dwc.knaw.nl/DL/publications/PU00010682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010682.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies and heuristicsNovember 18, 2010 — by S Jackson · Cited by 89 — In this paper, an explanation is proposed for the persuasiveness...</p></details>
    Published: November 18, 2010  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Argument from authority  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_authority](https://en.wikipedia.org/wiki/Argument_from_authority)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
 
 6. <a id="endnote-6"></a>
    Source: read.aupress.ca  
    Title: Chapter 16  
-   Link: [https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753](https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753)  
+   Link: <a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of Expertise | Critical Thinking, Logic...The appeal to authority is a fallacy where we take something as fact just because an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/](https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/)  
+   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>E3. Has the expert properly attended to the question at hand? E4. Is the expert&#x27;s opinion backed by plausible arguments and evidence?Read...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: quillbot.com  
    Title: appeal to authority fallacy  
-   Link: [https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/](https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/appeal-to-authority-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Definition26 Jun 2024 — The appeal to authority fallacy (or argument from authority) is the mistake of relying on expert opini...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pressbooks.ulib.csuohio.edu  
-   Link: [https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/rhetorical-strategies-building-compelling-arguments/](https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/rhetorical-strategies-building-compelling-arguments/)  
+   Link: <a href="https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/rhetorical-strategies-building-compelling-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.ulib.csuohio.edu/csu-fyw-rhetoric/chapter/rhetorical-strategies-building-compelling-arguments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pressbooks@MSL6.4 Rhetorical Appeals: Logos, Pathos, and Ethos DefinedEthical appeals have two facets: audience values and authorial cred...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scholarlypublications.universiteitleiden.nl  
    Title: Scholarly Publications Argumentation: What It Is & How to Do It  
-   Link: [https://scholarlypublications.universiteitleiden.nl/access/item%3A4107796/view](https://scholarlypublications.universiteitleiden.nl/access/item%3A4107796/view)  
+   Link: <a href="https://scholarlypublications.universiteitleiden.nl/access/item%3A4107796/view" target="_blank" rel="noopener noreferrer nofollow">https://scholarlypublications.universiteitleiden.nl/access/item%3A4107796/view</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholarly PublicationsArgumentation: What It Is &amp; How to Do ItABSTRACT: Starting form a review of three theories of argumentation (the di...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribbr.com  
    Title: appeal to authority fallacy  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/](https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples15 Jun 2023 — Appeal to authority fallacy occurs when we accept a claim merely because someone tells us that an auth...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems](https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems)  
+   Link: <a href="https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Arguments from authority and expert opinion in...16 Jul 2018 — In this paper we show that an essential aspect of solving the probl...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to AuthorityInsisting that a claim is true simply because a valid authority or expert on the issue said it was true, without any o...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: miamioh.edu  
-   Link: [https://miamioh.edu/howe-center/hwc/writing-resources/handouts/types-of-writing/rhetorical-analyses.html](https://miamioh.edu/howe-center/hwc/writing-resources/handouts/types-of-writing/rhetorical-analyses.html)  
+   Link: <a href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/types-of-writing/rhetorical-analyses.html" target="_blank" rel="noopener noreferrer nofollow">https://miamioh.edu/howe-center/hwc/writing-resources/handouts/types-of-writing/rhetorical-analyses.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Types-of-argument-and-types-of-reasoning_fig1_300562431](https://www.researchgate.net/figure/Types-of-argument-and-types-of-reasoning_fig1_300562431)  
+   Link: <a href="https://www.researchgate.net/figure/Types-of-argument-and-types-of-reasoning_fig1_300562431" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Types-of-argument-and-types-of-reasoning_fig1_300562431</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of argument and types of reasoningAim: The aim of this chapter is to theoretically substantiate the relationship between argumentat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/appeal-to-authority](https://yourlogicalfallacyis.com/appeal-to-authority)  
+   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is appeal to authorityAppeals to authority are not valid arguments, but nor is it reasonable to disregard the claims...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/philosophy/ethos-pathos-and-logos](https://thedecisionlab.com/reference-guide/philosophy/ethos-pathos-and-logos)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/philosophy/ethos-pathos-and-logos" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/ethos-pathos-and-logos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethos, Pathos and LogosEthos, pathos and logos are three methods of persuasion: rhetorical appeals that influence decision-making. Ethos...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pub.uni-bielefeld.de  
    Title: ELumer Ph DThesis Linguistic Perspectives On Politenessin HRI  
-   Link: [https://pub.uni-bielefeld.de/download/3005058/3005071/ELumer_PhDThesis_LinguisticPerspectivesOnPolitenessinHRI.pdf](https://pub.uni-bielefeld.de/download/3005058/3005071/ELumer_PhDThesis_LinguisticPerspectivesOnPolitenessinHRI.pdf)  
+   Link: <a href="https://pub.uni-bielefeld.de/download/3005058/3005071/ELumer_PhDThesis_LinguisticPerspectivesOnPolitenessinHRI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pub.uni-bielefeld.de/download/3005058/3005071/ELumer_PhDThesis_LinguisticPerspectivesOnPolitenessinHRI.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>perspectives on politeness in human–robot interactionby E Lumer · 2025 — This interdisciplinary work combines theoretical and methodologi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/309722309_Argument_Strength_and_the_Persuasiveness_of_Stories](https://www.researchgate.net/publication/309722309_Argument_Strength_and_the_Persuasiveness_of_Stories)  
+   Link: <a href="https://www.researchgate.net/publication/309722309_Argument_Strength_and_the_Persuasiveness_of_Stories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309722309_Argument_Strength_and_the_Persuasiveness_of_Stories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This main effect was qualified by a two-way interaction with baseline...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ses.edu  
    Title: The fallacy occurs when someone claims a certain conclusion is true.Read more  
-   Link: [https://ses.edu/logical-fallacies-101-appeal-to-authority-ad-verecundiam/](https://ses.edu/logical-fallacies-101-appeal-to-authority-ad-verecundiam/)  
+   Link: <a href="https://ses.edu/logical-fallacies-101-appeal-to-authority-ad-verecundiam/" target="_blank" rel="noopener noreferrer nofollow">https://ses.edu/logical-fallacies-101-appeal-to-authority-ad-verecundiam/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies 101: Appeal to Authority | Ad Verecundiam3 Apr 2017 — The fallacy ad verecundiam is an appeal to an unqualified authority...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/316975875_The_fluency_principle_Why_foreign_accent_strength_negatively_biases_language_attitudes](https://www.researchgate.net/publication/316975875_The_fluency_principle_Why_foreign_accent_strength_negatively_biases_language_attitudes)  
+   Link: <a href="https://www.researchgate.net/publication/316975875_The_fluency_principle_Why_foreign_accent_strength_negatively_biases_language_attitudes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316975875_The_fluency_principle_Why_foreign_accent_strength_negatively_biases_language_attitudes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e evaluated more negatively than mild foreign-accented speakers.Read more...</p></details>

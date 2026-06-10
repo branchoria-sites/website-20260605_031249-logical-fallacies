@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:24:02'
 parent_title: Fallacy Lab
 parent_permalink: /logical-fallacies/
 parent_nav_short_title: Fallacy Lab
@@ -492,7 +493,6 @@ next_link:
   permalink: /no-true/
   short_title: No True
   heading_title: Are Definitions Moving to Escape Evidence?
-date: '2026-06-05 01:24:02 '
 header:
   og_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858-overview-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858-overview.webp
@@ -501,7 +501,7 @@ image: /assets/images/logical_fallacies_998914_loaded_language_f9a858-overview-s
 
 ## Introduction
 
-Loaded language and hidden assumptions are fallacy [mechanisms]({{ 'mechanisms/' | relative_url }}) that work before an argument has been properly examined. Instead of proving a point, they tilt the reader’s judgement through [emotionally charged]({{ 'charged-labels/' | relative_url }}) wording, flattering or hostile labels, or questions that quietly treat a disputed claim as already settled. The problem is not that emotion, vivid language or assumptions are always illegitimate. Ordinary communication depends on framing, emphasis and shared background. The fallacy appears when wording does argumentative work that evidence has not earned.
+Loaded language and hidden assumptions are fallacy [mechanisms]({{ 'mechanisms/' | relative_url }}) that work before an argument has been properly examined. Instead of proving a point, they tilt the reader’s judgement through emotionally charged wording, flattering or hostile labels, or questions that quietly treat a disputed claim as already settled. The problem is not that [emotion]({{ 'emotion/' | relative_url }}), vivid language or assumptions are always illegitimate. Ordinary communication depends on framing, emphasis and shared background. The fallacy appears when wording does argumentative work that evidence has not earned.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858-overview.webp" | relative_url }}" alt="Overview image for Loaded Words" loading="eager" decoding="sync" fetchpriority="high">
@@ -511,7 +511,7 @@ In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters 
 
 Loaded language uses words with strong emotional or evaluative force to make a claim feel more acceptable, outrageous, dangerous or virtuous than the evidence alone would show. Calling a tax “investment in the future” frames it differently from calling it a “raid on workers’ pay packets”. Calling a protest “public resistance” differs from calling it “mob disruption”. The facts may still need discussion, but the wording has already told the audience what emotional stance to take.
 
-That is why loaded language belongs within informal fallacies rather than formal logic. The problem is not usually an invalid syllogism. It is a pressure on judgement created by word choice, framing and implied evaluation. Purdue OWL’s general account of fallacies is useful here: fallacies undermine an argument’s logic and are often marked by a lack of evidence supporting the claim. Loaded wording becomes fallacious when it substitutes mood, stigma or approval for the missing support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Purdue OWL® - Purdue University...</span></span></span>
+That is why loaded language belongs within informal fallacies rather than [formal logic]({{ 'formal-logic/' | relative_url }}). The problem is not usually an invalid syllogism. It is a pressure on judgement created by word choice, framing and implied evaluation. Purdue OWL’s general account of fallacies is useful here: fallacies undermine an argument’s logic and are often marked by a lack of evidence supporting the claim. Loaded wording becomes fallacious when it substitutes mood, stigma or approval for the missing support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Purdue OWL® - Purdue University...</span></span></span>
 
 Psychology research helps explain why this works. A 2018 study in *Psychological Science* found that when people intend to persuade, they spontaneously use more emotionally loaded words, and may keep doing so even when emotional appeals could backfire. This does not mean emotional language is automatically manipulative; it does show that persuasion and emotional wording are closely linked in ordinary communication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -552,7 +552,7 @@ That smoothness is exactly what makes hidden assumptions powerful in fallacious 
 
 Loaded assumptions are especially damaging when the format limits the respondent’s ability to object. In a debate, the speaker may be able to say, “I reject the premise.” In a multiple-choice survey, courtroom question or rapid interview, the design may force an answer that appears to concede the hidden claim.
 
-Survey researchers treat this as a measurement problem as well as a reasoning problem. Pew Research Center warns that even accurate sampling is wasted if the questions are ambiguous or biased, because the wording of questions is part of what determines whether a survey measures real opinions, experiences and behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/writing-survey-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Writing Survey Questions | Pew Research Center</span><span class="citation-popover-snippet">Pew Research Center Writing Survey Questions | Pew Research Center</span></span></span> SurveyMonkey gives the practical version: injecting an opinion or assumption into a survey question produces biased responses, and a loaded question can force respondents to answer about something they may not have experienced or accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surveymonkey.com">[SurveyMonkey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surveymonkey.com</span><span class="citation-popover-title">Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions</span><span class="citation-popover-snippet">Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions</span></span></span>
+Survey researchers treat this as a measurement problem as well as a reasoning problem. Pew Research Center warns that even accurate sampling is wasted if the questions are ambiguous or biased, because the wording of questions is part of what determines whether a survey measures real opinions, experiences and behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/writing-survey-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Writing Survey Questions &#124; Pew Research Center</span><span class="citation-popover-snippet">Pew Research Center Writing Survey Questions &#124; Pew Research Center</span></span></span> SurveyMonkey gives the practical version: injecting an opinion or assumption into a survey question produces biased responses, and a loaded question can force respondents to answer about something they may not have experienced or accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surveymonkey.com">[SurveyMonkey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surveymonkey.com</span><span class="citation-popover-title">Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions</span><span class="citation-popover-snippet">Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions</span></span></span>
 
 A simple example is:
 
@@ -590,7 +590,7 @@ A good way to distinguish fair assumptions from fallacious ones is to ask four q
 
 If the speaker can show evidence of exploitation, waste or corruption, the wording may be forceful but not necessarily fallacious. If not, the label is doing more work than the proof.
 
-This is why loaded language often overlaps with begging the question. Begging the question occurs when reasoning depends on a premise that already assumes the conclusion. The IEP describes it as [circular reasoning]({{ 'circularity/' | relative_url }}) in which the conclusion is derived from premises that presuppose the conclusion, and notes that the issue is whether a key premise has been adopted blindly or can be independently defended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is why loaded language often overlaps with begging the question. Begging the question occurs when reasoning depends on a premise that already assumes the conclusion. The IEP describes it as circular reasoning in which the conclusion is derived from premises that presuppose the conclusion, and notes that the issue is whether a key premise has been adopted blindly or can be independently defended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858-Illustration-2-dark.svg" | relative_url }}" alt="Loaded Words illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -635,7 +635,7 @@ The strongest critical response is usually calm and specific: identify the loade
 
 Loaded language and hidden assumptions are easy to miss because they exploit normal habits of understanding. Readers do not process every word as a formal premise. They follow context, infer background, respond to tone and make quick judgements about what kind of situation they are in. Framing research suggests that these effects are not rare distortions but part of how language guides mental models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-They are also easy to miss because the wording may match the audience’s existing beliefs. A hostile label aimed at an opponent feels like accuracy; the same technique aimed at one’s own side feels unfair. That asymmetry is one reason this fallacy is common in [political speech]({{ 'politics/' | relative_url }}), advertising, activism, management language and social media disputes. The more familiar the emotional frame feels, the less visible it becomes as a frame.
+They are also easy to miss because the wording may match the audience’s existing beliefs. A hostile label aimed at an opponent feels like accuracy; the same technique aimed at one’s own side feels unfair. That asymmetry is one reason this fallacy is common in political speech, advertising, activism, management language and [social media]({{ 'social-media/' | relative_url }}) disputes. The more familiar the emotional frame feels, the less visible it becomes as a frame.
 
 The remedy is not suspicion of all rhetoric. It is disciplined translation. Strip the sentence back to its claim, expose the implied premise, and ask whether the evidence supports both. When a claim remains persuasive after that process, it is stronger. When it collapses, the wording was doing the reasoning’s job.
 
@@ -1064,138 +1064,138 @@ The remedy is not suspicion of all rhetoric. It is disciplined translation. Stri
 
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL® - Purdue University...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy  
-   Link: [https://plato.stanford.edu/archives/fall2014/entries/presupposition/](https://plato.stanford.edu/archives/fall2014/entries/presupposition/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2014/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/presupposition/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Presupposition (Stanford Encyclopedia of Philosophy/Fall 2014 Edition)...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: surveymonkey.com  
    Title: Survey Monkey How To Avoid Asking Leading Questions And Loaded Questions  
-   Link: [https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/](https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/)  
+   Link: <a href="https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/</a>  
 
 4. <a id="endnote-4"></a>
    Source: owl.purdue.edu  
    Title: using paper checkers responsibly  
-   Link: [https://owl.purdue.edu/owl/research_and_citation/using_paper_checkers_responsibly.html](https://owl.purdue.edu/owl/research_and_citation/using_paper_checkers_responsibly.html)  
+   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/using_paper_checkers_responsibly.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_paper_checkers_responsibly.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/win2025/entries/fallacies/](https://plato.stanford.edu/archives/win2025/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2025/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2025/entries/fallacies/</a>  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Change My Mind: Loaded Language  
-   Link: [https://www.youtube.com/watch?v=voJszy317mk](https://www.youtube.com/watch?v=voJszy317mk)  
+   Link: <a href="https://www.youtube.com/watch?v=voJszy317mk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=voJszy317mk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Loaded Question...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=HjAhROTY7YA](https://www.youtube.com/watch?v=HjAhROTY7YA)  
+   Link: <a href="https://www.youtube.com/watch?v=HjAhROTY7YA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HjAhROTY7YA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Question (Logical Fallacy)...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29543563/](https://pubmed.ncbi.nlm.nih.gov/29543563/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29543563/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29543563/</a>  
 
 10. <a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/15291006241246966](https://journals.sagepub.com/doi/abs/10.1177/15291006241246966)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/15291006241246966" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/15291006241246966</a>  
 
 11. <a id="endnote-11"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Writing Survey Questions | Pew Research Center  
-   Link: [https://www.pewresearch.org/writing-survey-questions/](https://www.pewresearch.org/writing-survey-questions/)  
+   Link: <a href="https://www.pewresearch.org/writing-survey-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/writing-survey-questions/</a>  
 
 12. <a id="endnote-12"></a>
    Source: simplypsychology.org  
    Title: loftus palmer  
-   Link: [https://www.simplypsychology.org/loftus-palmer.html](https://www.simplypsychology.org/loftus-palmer.html)  
+   Link: <a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Loaded question  
-   Link: [https://en.wikipedia.org/wiki/Loaded_question](https://en.wikipedia.org/wiki/Loaded_question)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loaded_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_question</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Loaded language  
-   Link: [https://en.wikipedia.org/wiki/Loaded_language](https://en.wikipedia.org/wiki/Loaded_language)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loaded_language" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_language</a>  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/20363901/](https://pubmed.ncbi.nlm.nih.gov/20363901/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20363901/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20363901/</a>  
 
 16. <a id="endnote-16"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/scireas/question.html](https://philosophy.lander.edu/scireas/question.html)  
+   Link: <a href="https://philosophy.lander.edu/scireas/question.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/question.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/complex.html](https://philosophy.lander.edu/logic/complex.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: resource.download.wjec.co.uk  
    Title: loftus and palmer  
-   Link: [https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf](https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf)  
+   Link: <a href="https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resource.download.wjec.co.uk/vtc/2020-21/el20-21_25-4a/wjec/loftus_and_palmer.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: study.com  
    Title: Loaded Question | Definition & Examples  
-   Link: [https://study.com/academy/lesson/loaded-question-definition-examples.html](https://study.com/academy/lesson/loaded-question-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/loaded-question-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/loaded-question-definition-examples.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: prezi.com  
    Title: Loaded Question  
-   Link: [https://prezi.com/rsk6zn05txep/loaded-question/](https://prezi.com/rsk6zn05txep/loaded-question/)  
+   Link: <a href="https://prezi.com/rsk6zn05txep/loaded-question/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/rsk6zn05txep/loaded-question/</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/264409817_Emotion_Motivation_and_the_Persuasive_Effects_of_Message_Framing](https://www.researchgate.net/publication/264409817_Emotion_Motivation_and_the_Persuasive_Effects_of_Message_Framing)  
+   Link: <a href="https://www.researchgate.net/publication/264409817_Emotion_Motivation_and_the_Persuasive_Effects_of_Message_Framing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264409817_Emotion_Motivation_and_the_Persuasive_Effects_of_Message_Framing</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/226490402_The_Fallacy_of_Many_Questions_On_the_Notions_of_Complexity_Loadedness_and_Unfair_Entrapment_in_Interrogative_Theory](https://www.researchgate.net/publication/226490402_The_Fallacy_of_Many_Questions_On_the_Notions_of_Complexity_Loadedness_and_Unfair_Entrapment_in_Interrogative_Theory)  
+   Link: <a href="https://www.researchgate.net/publication/226490402_The_Fallacy_of_Many_Questions_On_the_Notions_of_Complexity_Loadedness_and_Unfair_Entrapment_in_Interrogative_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226490402_The_Fallacy_of_Many_Questions_On_the_Notions_of_Complexity_Loadedness_and_Unfair_Entrapment_in_Interrogative_Theory</a>  
 
 23. <a id="endnote-23"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/vbmyct/eli5_what_is_a_loaded_question/](https://www.reddit.com/r/explainlikeimfive/comments/vbmyct/eli5_what_is_a_loaded_question/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/vbmyct/eli5_what_is_a_loaded_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/vbmyct/eli5_what_is_a_loaded_question/</a>  
 
 25. <a id="endnote-25"></a>
    Source: reed.edu  
-   Link: [https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf](https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf)  
+   Link: <a href="https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reed.edu/psychology/thought-lab/assets/publications/Flusberg%2C-Holmes%2C-Thibodeau%2C-Nabi%2C-Matlock-2024---Psychological-Science-in-the-Public-Interest.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/325856391_Framing_and_Bias_A_Literature_Review_of_Recent_Findings](https://www.researchgate.net/publication/325856391_Framing_and_Bias_A_Literature_Review_of_Recent_Findings)  
+   Link: <a href="https://www.researchgate.net/publication/325856391_Framing_and_Bias_A_Literature_Review_of_Recent_Findings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325856391_Framing_and_Bias_A_Literature_Review_of_Recent_Findings</a>  
 
 27. <a id="endnote-27"></a>
    Source: calenda.org  
-   Link: [https://calenda.org/788308](https://calenda.org/788308)  
+   Link: <a href="https://calenda.org/788308" target="_blank" rel="noopener noreferrer nofollow">https://calenda.org/788308</a>  
 
 28. <a id="endnote-28"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/loaded-question](https://fallacyguide.com/fallacies/loaded-question)  
+   Link: <a href="https://fallacyguide.com/fallacies/loaded-question" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/loaded-question</a>  
 
 29. <a id="endnote-29"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/loaded-question/](https://effectiviology.com/loaded-question/)  
+   Link: <a href="https://effectiviology.com/loaded-question/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/loaded-question/</a>  
 
 30. <a id="endnote-30"></a>
    Source: sourcesofinsight.com  
-   Link: [https://sourcesofinsight.com/logical-fallacies/](https://sourcesofinsight.com/logical-fallacies/)  
+   Link: <a href="https://sourcesofinsight.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://sourcesofinsight.com/logical-fallacies/</a>  

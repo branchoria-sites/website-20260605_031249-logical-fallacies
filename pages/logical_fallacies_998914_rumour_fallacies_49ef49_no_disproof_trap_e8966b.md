@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_dispro
 
 ## Introduction
 
-A rumour does not become more credible simply because nobody has disproved it. One of the most persistent traps in [rumours]({{ 'rumours/' | relative_url }}) and unverified claims is the assumption that the absence of disproof counts as evidence. In logic, this is usually known as an [appeal to ignorance]({{ 'ignorance/' | relative_url }}): treating a lack of contrary evidence as proof that a claim is true. The result is a subtle shift from “we do not know” to “it must be true”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAn appeal to ignorance is an argument for a conclusion based on a lack of evidence. There are two for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</span></span></span> This trap matters because rumours often thrive in situations where evidence is incomplete, records are inaccessible, or events are difficult to verify. Under those conditions, uncertainty itself can be mistaken for support. The rumour gains strength not from proof, but from the inability of others to eliminate every possible version of it.
+A rumour does not become more credible simply because nobody has disproved it. One of the most persistent traps in [rumours]({{ 'rumours/' | relative_url }}) and unverified claims is the assumption that the absence of disproof counts as evidence. In logic, this is usually known as an appeal to [ignorance]({{ 'ignorance/' | relative_url }}): treating a lack of contrary evidence as proof that a claim is true. The result is a subtle shift from “we do not know” to “it must be true”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAn appeal to ignorance is an argument for a conclusion based on a lack of evidence. There are two for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</span></span></span> This trap matters because rumours often thrive in situations where evidence is incomplete, records are inaccessible, or events are difficult to verify. Under those conditions, uncertainty itself can be mistaken for support. The rumour gains strength not from proof, but from the inability of others to eliminate every possible version of it.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-1-dark.svg" | relative_url }}" alt="No Disproof illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -293,7 +293,7 @@ Both forms treat missing evidence as if it were positive support. Yet a lack of 
 
 A reliable claim normally carries its own supporting evidence. A rumour trap reverses this expectation.
 
-Instead of providing documentation, witnesses, records, or other verification, the rumour's advocate may argue that sceptics must prove the claim wrong. This is a burden-of-proof shift. The responsibility moves from the person making the assertion to everyone questioning it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[QuillBot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">Quill Bot What Is the Burden of Proof Fallacy?</span><span class="citation-popover-snippet">| Definition &amp; ExamplesJune 24, 2024 — 24 Jun 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposi...</span><span class="citation-popover-meta">Published: June 24, 2024</span></span></span>
+Instead of providing documentation, witnesses, records, or other verification, the rumour's advocate may argue that sceptics must prove the claim wrong. This is a burden-of-proof shift. The responsibility moves from the person making the assertion to everyone questioning it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[QuillBot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">Quill Bot What Is the Burden of Proof Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesJune 24, 2024 — 24 Jun 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposi...</span><span class="citation-popover-meta">Published: June 24, 2024</span></span></span>
 
 The pattern often sounds like this:
 
@@ -308,7 +308,7 @@ The pattern often sounds like this:
 
 These statements create the impression that unanswered questions are evidence. In reality, unanswered questions are simply unanswered questions.
 
-Logical guides consistently note that the burden of proof normally rests with the person advancing the claim. Failure to refute a statement does not automatically validate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAn appeal to ignorance is an argument for a conclusion based on a lack of evidence. There are two for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[QuillBot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">Quill Bot What Is the Burden of Proof Fallacy?</span><span class="citation-popover-snippet">| Definition &amp; ExamplesJune 24, 2024 — 24 Jun 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposi...</span><span class="citation-popover-meta">Published: June 24, 2024</span></span></span>
+Logical guides consistently note that the burden of proof normally rests with the person advancing the claim. Failure to refute a statement does not automatically validate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAn appeal to ignorance is an argument for a conclusion based on a lack of evidence. There are two for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[QuillBot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">Quill Bot What Is the Burden of Proof Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesJune 24, 2024 — 24 Jun 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposi...</span><span class="citation-popover-meta">Published: June 24, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L9rkQJ91VOE" title="Can you outsmart the fallacy that started a witch hunt? - Elizabeth Cox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L9rkQJ91VOE" target="_blank" rel="noopener noreferrer">Can you outsmart the fallacy that started a witch hunt? - Elizabeth Cox</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.4M &middot; Uploaded: October 2020 &middot; Length: 4 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L9rkQJ91VOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L9rkQJ91VOE">Open on YouTube</a></p></div></div></div>
@@ -340,7 +340,7 @@ The inability to conclusively disprove a flexible claim is often a sign of poor 
 
 Human reasoning is uncomfortable with unresolved questions. During crises, scandals, emergencies, or breaking news events, people often prefer a tentative explanation to admitting that the facts are still unknown.
 
-Rumours exploit that discomfort. A claim that cannot be disproved can feel plausible because it appears to fill an information gap. Psychological research on misinformation and fallacious reasoning shows that people can find arguments convincing even when the logical support is weak, especially when [emotion]({{ 'emotion/' | relative_url }}) or uncertainty is involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEmotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
+Rumours exploit that discomfort. A claim that cannot be disproved can feel plausible because it appears to fill an information gap. Psychological research on misinformation and fallacious reasoning shows that people can find arguments convincing even when the logical support is weak, especially when [emotion]({{ 'emotion/' | relative_url }}) or uncertainty is involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
 
 The emotional appeal often follows a familiar pattern:
 
@@ -378,7 +378,7 @@ A claim is disconfirmed when reliable evidence shows it is false, misleading, fa
 
 A claim is unverified when available information does not yet justify either conclusion.
 
-This third category is where many rumours belong. Importantly, unverified does not mean “probably true”. It also does not mean “definitely false”. It means that the evidence is currently insufficient for a confident judgement. Information-integrity frameworks commonly treat rumours as unverified information that may later prove true, false, or partly true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary terms</span><span class="citation-popover-snippet">UNHCRGlossary of terms | UNHCR Information Integrity Toolkit16 Dec 2024 — Glossary of terms · Information Integrity · Risks to Informatio...</span></span></span>
+This third category is where many rumours belong. Importantly, unverified does not mean “probably true”. It also does not mean “definitely false”. It means that the evidence is currently insufficient for a confident judgement. Information-integrity frameworks commonly treat rumours as unverified information that may later prove true, false, or partly true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary terms</span><span class="citation-popover-snippet">Glossary of terms &#124; UNHCR Information Integrity Toolkit16 Dec 2024 — Glossary of terms · Information Integrity · Risks to Informatio...</span></span></span>
 
 Maintaining that distinction prevents uncertainty from being mistaken for proof.
 
@@ -815,97 +815,97 @@ The absence of disproof may justify continued investigation. It does not justify
 
 1. <a id="endnote-1"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/ignorant.html](https://www.fallacyfiles.org/ignorant.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Appeal to IgnoranceAn appeal to [ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;) is an argument for a conclusion based on a lack of evidence. There are two for...</p></details>
+   Link: <a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Appeal to IgnoranceAn appeal to ignorance is an argument for a conclusion based on a lack of evidence. There are two for...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Argument from ignorance  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: quillbot.com  
    Title: Quill Bot What Is the Burden of Proof Fallacy?  
-   Link: [https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/](https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Definition &amp; ExamplesJune 24, 2024 — 24 Jun 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposi...</p></details>
+   Link: <a href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesJune 24, 2024 — 24 Jun 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposi...</p></details>
    Published: June 24, 2024  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2510.09695](https://arxiv.org/abs/2510.09695)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEmotionally Charged, Logically Blurred: AI-driven [Emotional Framing](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) Impairs Human Fallacy DetectionOctober 9, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.09695</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</p></details>
    Published: October 9, 2025  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence  
-   Link: [https://arxiv.org/abs/2408.12812](https://arxiv.org/abs/2408.12812)  
+   Link: <a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
 
 6. <a id="endnote-6"></a>
    Source: unhcr.org  
    Title: glossary terms  
-   Link: [https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms](https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNHCRGlossary of terms | UNHCR Information Integrity Toolkit16 Dec 2024 — Glossary of terms · Information Integrity · Risks to Informatio...</p></details>
+   Link: <a href="https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary of terms | UNHCR Information Integrity Toolkit16 Dec 2024 — Glossary of terms · Information Integrity · Risks to Informatio...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: unhcr.org  
-   Link: [https://www.unhcr.org/glossary](https://www.unhcr.org/glossary)  
+   Link: <a href="https://www.unhcr.org/glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.unhcr.org/glossary</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNHCR master glossary of termsUNHCR&#x27;s glossary offers definitions and descriptions related to the work of serving and protecting displace...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: emergency.unhcr.org  
-   Link: [https://emergency.unhcr.org/sites/default/files/UNHCR%2C%20Handbook%20and%20Guidelines%20on%20Procedures%20and%20Criteria%20for%20Determining%20Refugee%20Status%20under%20the%201951%20Convention%20and%20the%201967%20Protocol%20Relating%20to%20the%20Status%20of%20Refugees_0_0_0_0_0_0.pdf](https://emergency.unhcr.org/sites/default/files/UNHCR%2C%20Handbook%20and%20Guidelines%20on%20Procedures%20and%20Criteria%20for%20Determining%20Refugee%20Status%20under%20the%201951%20Convention%20and%20the%201967%20Protocol%20Relating%20to%20the%20Status%20of%20Refugees_0_0_0_0_0_0.pdf)  
+   Link: <a href="https://emergency.unhcr.org/sites/default/files/UNHCR%2C%20Handbook%20and%20Guidelines%20on%20Procedures%20and%20Criteria%20for%20Determining%20Refugee%20Status%20under%20the%201951%20Convention%20and%20the%201967%20Protocol%20Relating%20to%20the%20Status%20of%20Refugees_0_0_0_0_0_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://emergency.unhcr.org/sites/default/files/UNHCR%2C%20Handbook%20and%20Guidelines%20on%20Procedures%20and%20Criteria%20for%20Determining%20Refugee%20Status%20under%20the%201951%20Convention%20and%20the%201967%20Protocol%20Relating%20to%20the%20Status%20of%20Refugees_0_0_0_0_0_0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>unhcr.orgUNHCR, Handbook and Guidelines on Procedures and...The 1951 Convention relating to the status of Refugees and its 1967 Protocol...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/457861264635578/posts/1662066907548335/](https://www.facebook.com/groups/457861264635578/posts/1662066907548335/)  
+   Link: <a href="https://www.facebook.com/groups/457861264635578/posts/1662066907548335/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/457861264635578/posts/1662066907548335/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to ignorance fallacy examplesThe Fallacy of Appeal to Ignorance occurs when you argue that your conclusion must be true, because t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: asyl.net  
-   Link: [https://www.asyl.net/fileadmin/user_upload/publikationen/Studien/2013_06_UNHCR_Beyond_Proof_Credibility_Assessment.pdf](https://www.asyl.net/fileadmin/user_upload/publikationen/Studien/2013_06_UNHCR_Beyond_Proof_Credibility_Assessment.pdf)  
+   Link: <a href="https://www.asyl.net/fileadmin/user_upload/publikationen/Studien/2013_06_UNHCR_Beyond_Proof_Credibility_Assessment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asyl.net/fileadmin/user_upload/publikationen/Studien/2013_06_UNHCR_Beyond_Proof_Credibility_Assessment.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Credibility Assessment in EU Asylum SystemsAppreciation is extended to those government officials, judges, representatives from non-gover...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d](https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d)  
+   Link: <a href="https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d</a>  
 
 12. <a id="endnote-12"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/burden-of-proof](https://yourlogicalfallacyis.com/burden-of-proof)  
+   Link: <a href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/burden-of-proof</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: refworld.org  
-   Link: [https://www.refworld.org/policy/legalguidance/unhcr/1998/23696](https://www.refworld.org/policy/legalguidance/unhcr/1998/23696)  
+   Link: <a href="https://www.refworld.org/policy/legalguidance/unhcr/1998/23696" target="_blank" rel="noopener noreferrer nofollow">https://www.refworld.org/policy/legalguidance/unhcr/1998/23696</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Note on Burden and Standard of Proof in Refugee ClaimsNote on Burden and Standard of Proof in Refugee Claims · Document...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: echr.coe.int  
-   Link: [https://www.echr.coe.int/documents/d/echr/Speech_20170127_Ravarani_JY_ENG](https://www.echr.coe.int/documents/d/echr/Speech_20170127_Ravarani_JY_ENG)  
+   Link: <a href="https://www.echr.coe.int/documents/d/echr/Speech_20170127_Ravarani_JY_ENG" target="_blank" rel="noopener noreferrer nofollow">https://www.echr.coe.int/documents/d/echr/Speech_20170127_Ravarani_JY_ENG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the credibility of asylum-seekers: the burden of...The assessment of credibility and the burden of proof are core issues in asylum cases...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/unhcr-innovation-service/refugee-advisory-board-fights-misinformation-online-445d21b1f35a](https://medium.com/unhcr-innovation-service/refugee-advisory-board-fights-misinformation-online-445d21b1f35a)  
+   Link: <a href="https://medium.com/unhcr-innovation-service/refugee-advisory-board-fights-misinformation-online-445d21b1f35a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/unhcr-innovation-service/refugee-advisory-board-fights-misinformation-online-445d21b1f35a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eyman says. “We try to find the source of any rumors and...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/is-appeal-to-ignorance-a-logical-fallacy/](https://www.scribbr.com/frequently-asked-questions/is-appeal-to-ignorance-a-logical-fallacy/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/is-appeal-to-ignorance-a-logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/is-appeal-to-ignorance-a-logical-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It asserts that something must be true because it hasn&#x27;t...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: euaa.europa.eu  
-   Link: [https://www.euaa.europa.eu/sites/default/files/eca-ceas-cj_en.pdf](https://www.euaa.europa.eu/sites/default/files/eca-ceas-cj_en.pdf)  
+   Link: <a href="https://www.euaa.europa.eu/sites/default/files/eca-ceas-cj_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.euaa.europa.eu/sites/default/files/eca-ceas-cj_en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of proof concerning (un)authen ticity of a...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: grammarly.com  
    Title: appeal to ignorance fallacy  
-   Link: [https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/](https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/)  
+   Link: <a href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples30 Dec 2022 — The appeal to ignorance fallacy is the logical fallacy of claiming that a statement must be true bec...</p></details>

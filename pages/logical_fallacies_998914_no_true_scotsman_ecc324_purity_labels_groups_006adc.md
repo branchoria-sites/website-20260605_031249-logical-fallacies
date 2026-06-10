@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:19:44'
 parent_title: Are Definitions Moving to Escape Evidence? | Fallacy Lab
 parent_permalink: /no-true/
 parent_nav_short_title: No True
@@ -259,7 +260,6 @@ prev_link:
   permalink: /porridge-case/
   short_title: Porridge Case
   heading_title: Why the Porridge Example Still Works
-date: '2026-06-05 02:19:44 '
 header:
   og_image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_la
 
 ## Introduction
 
-Purity labels such as “real”, “true”, “genuine”, “proper”, or “authentic” often appear when a group faces criticism or an awkward counterexample. Within the broader [No True Scotsman]({{ 'no-true/' | relative_url }}) fallacy, these labels can be used to protect an identity rather than examine evidence. Instead of asking whether a criticism is accurate, the discussion shifts to who counts as a legitimate member. A politician becomes “not a real conservative”, a dissenter becomes “not a true believer”, or a fan becomes “not a genuine supporter”. The result is that evidence loses its force because inconvenient cases are reclassified rather than addressed. This pattern is commonly described as an appeal to purity: the category is narrowed after the challenge appears, allowing the original claim to survive unchanged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[Diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span> Scribbr Purity labels are especially powerful in politics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects counterexamples by claiming that...</span></span></span>, religion, and fandoms because these communities are not merely collections of opinions. They are identities that provide belonging, meaning, and social status. When membership itself becomes the focus of debate, counterexamples can feel like [threats]({{ 'threats/' | relative_url }}) to the group rather than useful evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious How to Spot the No True Scotsman Fallacy</span><span class="citation-popover-snippet">Logically FallaciousHow to Spot the No True Scotsman FallacyMay 16, 2026 — 16 May 2026 — The No True Scotsman fallacy happens when someon...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
+Purity labels such as “real”, “true”, “genuine”, “proper”, or “authentic” often appear when a group faces criticism or an awkward counterexample. Within the broader [No True]({{ 'no-true/' | relative_url }}) Scotsman fallacy, these labels can be used to protect an identity rather than examine evidence. Instead of asking whether a criticism is accurate, the discussion shifts to who counts as a legitimate member. A politician becomes “not a real conservative”, a dissenter becomes “not a true believer”, or a fan becomes “not a genuine supporter”. The result is that evidence loses its force because inconvenient cases are reclassified rather than addressed. This pattern is commonly described as an appeal to purity: the category is narrowed after the challenge appears, allowing the original claim to survive unchanged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[Diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span> Scribbr Purity labels are especially powerful in politics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects counterexamples by claiming that...</span></span></span>, religion, and fandoms because these communities are not merely collections of opinions. They are identities that provide belonging, meaning, and social status. When membership itself becomes the focus of debate, counterexamples can feel like [threats]({{ 'threats/' | relative_url }}) to the group rather than useful evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious How to Spot the No True Scotsman Fallacy</span><span class="citation-popover-snippet">Logically FallaciousHow to Spot the No True Scotsman FallacyMay 16, 2026 — 16 May 2026 — The No True Scotsman fallacy happens when someon...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-1-dark.svg" | relative_url }}" alt="Purity Labels illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,7 +297,7 @@ Purity language can also intensify factional conflict. Once opponents are declar
 
 Religious communities often define themselves through shared beliefs and practices, making questions of membership especially sensitive.
 
-A common pattern appears when someone who belongs to a religion commits a harmful act. Critics may argue that the act reflects a problem within the community, while defenders respond that “[no true]({{ 'no-true/' | relative_url }}) believer would behave that way”. Sometimes this response may reflect sincere moral conviction. However, if the person was previously accepted as a member and is excluded only after becoming inconvenient, the argument resembles the No True Scotsman pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[Diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span>
+A common pattern appears when someone who belongs to a religion commits a harmful act. Critics may argue that the act reflects a problem within the community, while defenders respond that “no true believer would behave that way”. Sometimes this response may reflect sincere moral conviction. However, if the person was previously accepted as a member and is excluded only after becoming inconvenient, the argument resembles the No True Scotsman pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[Diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span>
 
 The same dynamic can appear when individuals leave a faith or publicly express doubts. Rather than examining their reasons, some responses focus on redefining them as people who “never really believed”. Such claims may be impossible to test because the standard of genuine belief keeps shifting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Religion and the No True Scotsman FallacyAnother form of the “No True Scotsman” fallacy is often used when someone leaves a religi...</span></span></span>
 
@@ -310,7 +310,7 @@ Religious traditions legitimately maintain doctrines and membership requirements
 
 Fandoms provide some of the clearest modern examples of purity labels because participation is voluntary and identity-driven.
 
-Many fans have encountered challenges such as “name five songs”, “quote the original episode”, or “prove you actually follow the team”. These tests are often framed as ways of identifying “real fans”. Researchers studying fandom have noted that gatekeeping frequently relies on distinctions between authentic and fake fans, creating barriers to participation and excluding certain groups from communities they enjoy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/380904526_Gatekeeping_the_Gatekeepers_An_Exploratory_Study_of_Transformative_Games_Fandom_TikTok_Algorithms_Article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">While the types of fans</span><span class="citation-popover-snippet">ResearchGateAn Exploratory Study of Transformative Games Fandom &amp;...April 9, 2024 — 27 May 2024 — Within fandoms, gatekeeping practices...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
+Many fans have encountered challenges such as “name five songs”, “quote the original episode”, or “prove you actually follow the team”. These tests are often framed as ways of identifying “real fans”. Researchers studying fandom have noted that gatekeeping frequently relies on distinctions between authentic and fake fans, creating barriers to participation and excluding certain groups from communities they enjoy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/380904526_Gatekeeping_the_Gatekeepers_An_Exploratory_Study_of_Transformative_Games_Fandom_TikTok_Algorithms_Article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">While the types of fans</span><span class="citation-popover-snippet">An Exploratory Study of Transformative Games Fandom &amp;...April 9, 2024 — 27 May 2024 — Within fandoms, gatekeeping practices...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span>
 
 Popular examples include women being challenged to prove their knowledge of bands, sports teams, comics, games, or anime in ways that male fans are not. Commentators have described these [interactions]({{ 'interactions/' | relative_url }}) as attempts to police who belongs in the community rather than genuine conversations about shared interests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oxfordstudent.com/2025/11/27/authenticity-gatekeeping-and-the-unwritten-rules-of-being-a-real-fan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxfordstudent.com">[The Oxford Student]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxfordstudent.com</span><span class="citation-popover-title">The Oxford Student Authenticity, gatekeeping, and the unwritten rules of being</span><span class="citation-popover-snippet">The Oxford StudentAuthenticity, gatekeeping, and the unwritten rules of being...November 27, 2025 — 27 Nov 2025 — Ava Doherty reflects o...</span><span class="citation-popover-meta">Published: November 27, 2025</span></span></span>
 
@@ -327,7 +327,7 @@ The logic often mirrors No True Scotsman reasoning: <span class="citation-chip-w
 
 The criterion appears only after the counterexample emerges. Someone who clearly participates in the fandom is excluded because they do not match a preferred image of fandom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oxfordstudent.com/2025/11/27/authenticity-gatekeeping-and-the-unwritten-rules-of-being-a-real-fan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxfordstudent.com">[The Oxford Student]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxfordstudent.com</span><span class="citation-popover-title">The Oxford Student Authenticity, gatekeeping, and the unwritten rules of being</span><span class="citation-popover-snippet">The Oxford StudentAuthenticity, gatekeeping, and the unwritten rules of being...November 27, 2025 — 27 Nov 2025 — Ava Doherty reflects o...</span><span class="citation-popover-meta">Published: November 27, 2025</span></span></span>
 
-Studies of fandom gatekeeping have also highlighted how these authenticity tests can disproportionately affect women, newcomers, LGBTQ+ participants, and other groups whose presence challenges traditional assumptions about who belongs in a fan community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/380904526_Gatekeeping_the_Gatekeepers_An_Exploratory_Study_of_Transformative_Games_Fandom_TikTok_Algorithms_Article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">While the types of fans</span><span class="citation-popover-snippet">ResearchGateAn Exploratory Study of Transformative Games Fandom &amp;...April 9, 2024 — 27 May 2024 — Within fandoms, gatekeeping practices...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/megan-thee-stallion-and-anime-or-the-male-gatekeeping-of-fandom-spaces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue Megan Thee Stallion and Anime</span><span class="citation-popover-snippet">Critics accused her of faking her interest in anime for attention. Stitch argues this reaction is rooted in male gatekeeping within fando...</span></span></span>
+Studies of fandom gatekeeping have also highlighted how these authenticity tests can disproportionately affect women, newcomers, LGBTQ+ participants, and other groups whose presence challenges traditional assumptions about who belongs in a fan community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/380904526_Gatekeeping_the_Gatekeepers_An_Exploratory_Study_of_Transformative_Games_Fandom_TikTok_Algorithms_Article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">While the types of fans</span><span class="citation-popover-snippet">An Exploratory Study of Transformative Games Fandom &amp;...April 9, 2024 — 27 May 2024 — Within fandoms, gatekeeping practices...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/megan-thee-stallion-and-anime-or-the-male-gatekeeping-of-fandom-spaces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue Megan Thee Stallion and Anime</span><span class="citation-popover-snippet">Critics accused her of faking her interest in anime for attention. Stitch argues this reaction is rooted in male gatekeeping within fando...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-2-dark.svg" | relative_url }}" alt="Purity Labels illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -799,172 +799,172 @@ Groups are rarely as uniform as their members imagine. Political movements conta
 1. <a id="endnote-1"></a>
    Source: diplomacy.edu  
    Title: no true scotsman  
-   Link: [https://www.diplomacy.edu/blog/no-true-scotsman/](https://www.diplomacy.edu/blog/no-true-scotsman/)  
+   Link: <a href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/no-true-scotsman/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: no true scotsman fallacy  
-   Link: [https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/](https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects counterexamples by claiming that...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/](https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>oup from a counterexample by shifting the definition of the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/no-true-scotsman](https://yourlogicalfallacyis.com/no-true-scotsman)  
+   Link: <a href="https://yourlogicalfallacyis.com/no-true-scotsman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/no-true-scotsman</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>criticisms or flaws of your argument.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
    Title: Are you a true patriot?  
-   Link: [https://www.facebook.com/philosophyminis/videos/are-you-a-true-patriot-are-you-a-good-muslim-are-you-a-proper-music-fan-well-fir/614801851172916/](https://www.facebook.com/philosophyminis/videos/are-you-a-true-patriot-are-you-a-good-muslim-are-you-a-proper-music-fan-well-fir/614801851172916/)  
+   Link: <a href="https://www.facebook.com/philosophyminis/videos/are-you-a-true-patriot-are-you-a-good-muslim-are-you-a-proper-music-fan-well-fir/614801851172916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/philosophyminis/videos/are-you-a-true-patriot-are-you-a-good-muslim-are-you-a-proper-music-fan-well-fir/614801851172916/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are you a good Muslim? Are you a...This fallacy, known as &#x27;the appeal to purity,&#x27; works in two ways. First, it assumes that there is an...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_g9pdWyAaDs](https://www.youtube.com/watch?v=_g9pdWyAaDs)  
+   Link: <a href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_g9pdWyAaDs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Religion and the No True Scotsman FallacyAnother form of the “No True Scotsman” fallacy is often used when someone leaves a religi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: While the types of fans  
-   Link: [https://www.researchgate.net/publication/380904526_Gatekeeping_the_Gatekeepers_An_Exploratory_Study_of_Transformative_Games_Fandom_TikTok_Algorithms_Article](https://www.researchgate.net/publication/380904526_Gatekeeping_the_Gatekeepers_An_Exploratory_Study_of_Transformative_Games_Fandom_TikTok_Algorithms_Article)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateAn Exploratory Study of Transformative Games Fandom &amp;...April 9, 2024 — 27 May 2024 — Within fandoms, gatekeeping practices...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/380904526_Gatekeeping_the_Gatekeepers_An_Exploratory_Study_of_Transformative_Games_Fandom_TikTok_Algorithms_Article" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380904526_Gatekeeping_the_Gatekeepers_An_Exploratory_Study_of_Transformative_Games_Fandom_TikTok_Algorithms_Article</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Exploratory Study of Transformative Games Fandom &amp;...April 9, 2024 — 27 May 2024 — Within fandoms, gatekeeping practices...</p></details>
    Published: April 9, 2024  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_u3_0pKC8Wg](https://www.youtube.com/watch?v=_u3_0pKC8Wg)  
+   Link: <a href="https://www.youtube.com/watch?v=_u3_0pKC8Wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_u3_0pKC8Wg</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SgtScholar/posts/our-halloween-themed-look-at-logical-fallacies-continues-next-up-is-the-no-true-/896814465880010/](https://www.facebook.com/SgtScholar/posts/our-halloween-themed-look-at-logical-fallacies-continues-next-up-is-the-no-true-/896814465880010/)  
+   Link: <a href="https://www.facebook.com/SgtScholar/posts/our-halloween-themed-look-at-logical-fallacies-continues-next-up-is-the-no-true-/896814465880010/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SgtScholar/posts/our-halloween-themed-look-at-logical-fallacies-continues-next-up-is-the-no-true-/896814465880010/</a>  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7mSojbknXE4](https://www.youtube.com/watch?v=7mSojbknXE4)  
+   Link: <a href="https://www.youtube.com/watch?v=7mSojbknXE4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7mSojbknXE4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;No True Scotsman&quot; Fallacy | Idea Channel | PBS Digital Studios...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The "No True Scotsman" Fallacy | Idea Channel | PBS Digital Studios  
-   Link: [https://www.youtube.com/watch?v=5zzSqL--d_I](https://www.youtube.com/watch?v=5zzSqL--d_I)  
+   Link: <a href="https://www.youtube.com/watch?v=5zzSqL--d_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5zzSqL--d_I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman - Trump example - Fallacious Trump e48...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: No True Scotsman  
-   Link: [https://www.youtube.com/watch?v=gjFkKx9bq1k](https://www.youtube.com/watch?v=gjFkKx9bq1k)  
+   Link: <a href="https://www.youtube.com/watch?v=gjFkKx9bq1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gjFkKx9bq1k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abusing The No True Scotsman Fallacy...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Abusing The No True Scotsman Fallacy  
-   Link: [https://www.youtube.com/watch?v=4RyXTcqPFv8](https://www.youtube.com/watch?v=4RyXTcqPFv8)  
+   Link: <a href="https://www.youtube.com/watch?v=4RyXTcqPFv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4RyXTcqPFv8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you outsmart this logical fallacy? - Alex Gendler...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Can you outsmart this logical fallacy?  
-   Link: [https://www.youtube.com/watch?v=Ghbkv0MKV-w](https://www.youtube.com/watch?v=Ghbkv0MKV-w)  
+   Link: <a href="https://www.youtube.com/watch?v=Ghbkv0MKV-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ghbkv0MKV-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman fallacy politics religion fandom Logical Fallacy EXPOSED 💣 Daily Dose Of Wisdom...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: logicallyfallacious.com  
    Title: Logically Fallacious How to Spot the No True Scotsman Fallacy  
-   Link: [https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy](https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousHow to Spot the No True Scotsman FallacyMay 16, 2026 — 16 May 2026 — The No True Scotsman fallacy happens when someon...</p></details>
    Published: May 16, 2026  
 
 16. <a id="endnote-16"></a>
    Source: bachelorprint.com  
    Title: no true scotsman fallacy  
-   Link: [https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/](https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/)  
+   Link: <a href="https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>~ Definition &amp; Examples17 Jul 2024 — The no true Scotsman fallacy, also known as the “appeal to purity fallacy,” is an informal logical f...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No True ScotsmanVariations: The more generic appeal to purity can be seen when the claim is that someone &quot;does not have enough of&quot; someth...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: journals.uni-marburg.de  
    Title: Fandom | Cultures | Research  
-   Link: [https://journals.uni-marburg.de/fcr](https://journals.uni-marburg.de/fcr)  
+   Link: <a href="https://journals.uni-marburg.de/fcr" target="_blank" rel="noopener noreferrer nofollow">https://journals.uni-marburg.de/fcr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Universität MarburgFandom | Cultures | Research is the first international journal based in Germany for scholarship in the fields of Fan...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: oxfordstudent.com  
    Title: The Oxford Student Authenticity, gatekeeping, and the unwritten rules of being  
-   Link: [https://www.oxfordstudent.com/2025/11/27/authenticity-gatekeeping-and-the-unwritten-rules-of-being-a-real-fan/](https://www.oxfordstudent.com/2025/11/27/authenticity-gatekeeping-and-the-unwritten-rules-of-being-a-real-fan/)  
+   Link: <a href="https://www.oxfordstudent.com/2025/11/27/authenticity-gatekeeping-and-the-unwritten-rules-of-being-a-real-fan/" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordstudent.com/2025/11/27/authenticity-gatekeeping-and-the-unwritten-rules-of-being-a-real-fan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Oxford StudentAuthenticity, gatekeeping, and the unwritten rules of being...November 27, 2025 — 27 Nov 2025 — Ava Doherty reflects o...</p></details>
    Published: November 27, 2025  
 
 20. <a id="endnote-20"></a>
    Source: teenvogue.com  
    Title: Teen Vogue Megan Thee Stallion and Anime  
-   Link: [https://www.teenvogue.com/story/megan-thee-stallion-and-anime-or-the-male-gatekeeping-of-fandom-spaces](https://www.teenvogue.com/story/megan-thee-stallion-and-anime-or-the-male-gatekeeping-of-fandom-spaces)  
+   Link: <a href="https://www.teenvogue.com/story/megan-thee-stallion-and-anime-or-the-male-gatekeeping-of-fandom-spaces" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/megan-thee-stallion-and-anime-or-the-male-gatekeeping-of-fandom-spaces</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critics accused her of faking her interest in anime for attention. Stitch argues this reaction is rooted in male gatekeeping within fando...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: quillbot.com  
    Title: no true scotsman fallacy  
-   Link: [https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/](https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cite this...Read more...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/TrueUnpopularOpinion/comments/1ighhuy/fandom_gatekeeping_is_actually_a_good_thing/](https://www.reddit.com/r/TrueUnpopularOpinion/comments/1ighhuy/fandom_gatekeeping_is_actually_a_good_thing/)  
+   Link: <a href="https://www.reddit.com/r/TrueUnpopularOpinion/comments/1ighhuy/fandom_gatekeeping_is_actually_a_good_thing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TrueUnpopularOpinion/comments/1ighhuy/fandom_gatekeeping_is_actually_a_good_thing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fandom Gatekeeping is actually a good thingFandom gatekeeping isn&#x27;t this toxic thing that needs to be abolished—it&#x27;s actually a way to pr...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: uni-koeln.de  
-   Link: [https://uni-koeln.de/phil-fak/nordisch/fanhistoryinitiative/researchers.html](https://uni-koeln.de/phil-fak/nordisch/fanhistoryinitiative/researchers.html)  
+   Link: <a href="https://uni-koeln.de/phil-fak/nordisch/fanhistoryinitiative/researchers.html" target="_blank" rel="noopener noreferrer nofollow">https://uni-koeln.de/phil-fak/nordisch/fanhistoryinitiative/researchers.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History of Fandom: ResearchersResearchers. The ›Fan History Initiative‹ consists of a group of scholars who strive to facilitate research...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/CharacterRant/comments/t26e9d/no_true_scotsman_a_frequently_misused_term/](https://www.reddit.com/r/CharacterRant/comments/t26e9d/no_true_scotsman_a_frequently_misused_term/)  
+   Link: <a href="https://www.reddit.com/r/CharacterRant/comments/t26e9d/no_true_scotsman_a_frequently_misused_term/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CharacterRant/comments/t26e9d/no_true_scotsman_a_frequently_misused_term/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman: a frequently misused termNo true Scotsman, or appeal to purity, is an informal fallacy in which one attempts to protect...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/No_true_Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)  
+   Link: <a href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/No_true_Scotsman</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No true ScotsmanNo true Scotsman or appeal to purity is an informal fallacy in which one modifies a prior claim in response to a count...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: verywellmind.com  
-   Link: [https://www.verywellmind.com/what-is-toxic-fandom-5214499](https://www.verywellmind.com/what-is-toxic-fandom-5214499)  
+   Link: <a href="https://www.verywellmind.com/what-is-toxic-fandom-5214499" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-toxic-fandom-5214499</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While fandoms offer community and belonging, their passionate investment can sometimes foster entitlement or defensiveness when the fan o...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/](https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is No True Scotsman a fallacy?: r/askphilosophyA No True Scotsman is when one retroactively modifies an initial claim in order to pr...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603](https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603)  
+   Link: <a href="https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603</a>  
 
 29. <a id="endnote-29"></a>
    Source: xanister.medium.com  
    Title: Examining Fandoms: Gatekeeping & Labeling  
-   Link: [https://xanister.medium.com/examining-fandoms-gatekeeping-labeling-db7b28488f92](https://xanister.medium.com/examining-fandoms-gatekeeping-labeling-db7b28488f92)  
+   Link: <a href="https://xanister.medium.com/examining-fandoms-gatekeeping-labeling-db7b28488f92" target="_blank" rel="noopener noreferrer nofollow">https://xanister.medium.com/examining-fandoms-gatekeeping-labeling-db7b28488f92</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fandoms: Gatekeeping &amp; Labeling - Katrina GriffithsYou may not have the internalized gatekeeping that causes you to believe you&#x27;re not a...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: x.com  
-   Link: [https://x.com/DeliaMary/status/2046556858979066322?lang=en](https://x.com/DeliaMary/status/2046556858979066322?lang=en)  
+   Link: <a href="https://x.com/DeliaMary/status/2046556858979066322?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/DeliaMary/status/2046556858979066322?lang=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ds who comment &quot;well they&#x27;re not REAL army! No real army would...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: xanister.wordpress.com  
    Title: examining fandoms gatekeeping labeling  
-   Link: [https://xanister.wordpress.com/2018/11/24/examining-fandoms-gatekeeping-labeling/](https://xanister.wordpress.com/2018/11/24/examining-fandoms-gatekeeping-labeling/)  
+   Link: <a href="https://xanister.wordpress.com/2018/11/24/examining-fandoms-gatekeeping-labeling/" target="_blank" rel="noopener noreferrer nofollow">https://xanister.wordpress.com/2018/11/24/examining-fandoms-gatekeeping-labeling/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s actively trying to keep people away from the thing you love (that they also love) that you share...</p></details>

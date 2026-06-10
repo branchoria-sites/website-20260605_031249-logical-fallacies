@@ -552,7 +552,7 @@ Good counterargument writing does not mean giving equal space to every objection
 
 Fallacy names can be helpful when they point to a specific revision. They are less helpful when used as accusations. In essays, the goal is not to label the writer as illogical, but to identify where the draft needs narrower claims, better evidence or clearer reasoning.
 
-**Hasty generalisation:** The writer draws a broad conclusion from too little evidence. This is common in essays that rely heavily on [personal experience]({{ 'experience/' | relative_url }}), one case study or a small set of examples. The fix is to narrow the claim, add representative evidence or acknowledge limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Hasty generalisation:** The writer draws a broad conclusion from too little evidence. This is common in essays that rely heavily on personal [experience]({{ 'experience/' | relative_url }}), one case study or a small set of examples. The fix is to narrow the claim, add representative evidence or acknowledge limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **False dilemma:** The essay presents two options as if they are the only possibilities. A paragraph might claim that schools must either ban phones completely or accept constant distraction. Academic writing usually needs a more precise range of options: restricted use, device-free periods, teacher discretion, accessibility exceptions or different rules by age group. UNC’s fallacies guide treats false dilemmas as a common reasoning error because they oversimplify choices that may have more than two sides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</span></span></span>
 
@@ -1027,189 +1027,189 @@ Essay fallacies are not just mistakes in logic terminology. They are signs that 
 1. <a id="endnote-1"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Argument  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/argument/](https://writingcenter.unc.edu/tips-and-tools/argument/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLFallacies are common errors in reasoning that will undermine the logic of your argument. Fallacie...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterThis handout discusses common logical fallacies that you may encounter in your own writin...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: owl.excelsior.edu  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabTo avoid straw man fallacies, it&#x27;s important to practice active listening sk...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: owl.purdue.edu  
    Title: OWLToulmin Argument  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html](https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: assignmenthelpaustralia.io  
    Title: build an argument in academic writing  
-   Link: [https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing](https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing)  
+   Link: <a href="https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow">https://assignmenthelpaustralia.io/blog/build-an-argument-in-academic-writing</a>  
 
 7. <a id="endnote-7"></a>
    Source: haverford.edu  
-   Link: [https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf](https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf)  
+   Link: <a href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: writingcenter.fas.harvard.edu  
-   Link: [https://writingcenter.fas.harvard.edu/counterargument](https://writingcenter.fas.harvard.edu/counterargument)  
+   Link: <a href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.fas.harvard.edu/counterargument</a>  
 
 9. <a id="endnote-9"></a>
    Source: j-psp.com  
-   Link: [https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446](https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446)  
+   Link: <a href="https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446" target="_blank" rel="noopener noreferrer nofollow">https://www.j-psp.com/article/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446</a>  
 
 10. <a id="endnote-10"></a>
    Source: j-psp.com  
-   Link: [https://www.j-psp.com/download/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446.pdf](https://www.j-psp.com/download/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446.pdf)  
+   Link: <a href="https://www.j-psp.com/download/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.j-psp.com/download/using-of-claim-evidence-and-reasoning-strategy-in-scientific-explanation-and-argumentative-writing-16446.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: unc.edu  
-   Link: [https://www.unc.edu/](https://www.unc.edu/)  
+   Link: <a href="https://www.unc.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.unc.edu/</a>  
 
 12. <a id="endnote-12"></a>
    Source: unc.edu  
    Title: Before the crowd, these Tar Heels celebrated together  
-   Link: [https://www.unc.edu/posts/2026/05/09/before-the-crowd-these-tar-heels-celebrated-together/](https://www.unc.edu/posts/2026/05/09/before-the-crowd-these-tar-heels-celebrated-together/)  
+   Link: <a href="https://www.unc.edu/posts/2026/05/09/before-the-crowd-these-tar-heels-celebrated-together/" target="_blank" rel="noopener noreferrer nofollow">https://www.unc.edu/posts/2026/05/09/before-the-crowd-these-tar-heels-celebrated-together/</a>  
 
 13. <a id="endnote-13"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants](https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/claims-supports-[warrants</a>  
 
 14. <a id="endnote-14"></a>
    Source: pressbooks.pub  
-   Link: [https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/](https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/)  
+   Link: <a href="https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/</a>  
 
 15. <a id="endnote-15"></a>
    Source: utsa.pressbooks.pub  
-   Link: [https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/](https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/)  
+   Link: <a href="https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/" target="_blank" rel="noopener noreferrer nofollow">https://utsa.pressbooks.pub/fromcollegetocareer/chapter/core-101-academic-argument-essay/</a>  
 
 16. <a id="endnote-16"></a>
    Source: owl.excelsior.edu  
    Title: logical fallacies  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/</a>  
 
 17. <a id="endnote-17"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Hasty Generalization Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/hasty-generalization/](https://www.scribbr.co.uk/fallacy/hasty-generalization/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrHasty Generalization Fallacy | Definition &amp; Examples - Scribbr26 Apr 2023 — A hasty generalization fallacy occurs when people draw...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/hasty-generalization/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalization Fallacy | Definition &amp; Examples - Scribbr26 Apr 2023 — A hasty generalization fallacy occurs when people draw...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ncl.ac.uk  
-   Link: [https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/](https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/)  
+   Link: <a href="https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/</a>  
 
 19. <a id="endnote-19"></a>
    Source: miamioh.edu  
-   Link: [https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html](https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html)  
+   Link: <a href="https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html" target="_blank" rel="noopener noreferrer nofollow">https://miamioh.edu/howe-center/hwc/writing-resources/handouts/writing-process/supporting-an-argument.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: writingcenter.gmu.edu  
    Title: The Writing Center All About Counterarguments | General  
-   Link: [https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments](https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments)  
+   Link: <a href="https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments</a>  
 
 21. <a id="endnote-21"></a>
    Source: wisc.pb.unizin.org  
-   Link: [https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/](https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/)  
+   Link: <a href="https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/" target="_blank" rel="noopener noreferrer nofollow">https://wisc.pb.unizin.org/esl117/chapter/faulty-logic-introduction/</a>  
 
 22. <a id="endnote-22"></a>
    Source: writingcenter.tamu.edu  
    Title: University Writing Center Fallacies  
-   Link: [https://writingcenter.tamu.edu/guides/resources/fallacies.html](https://writingcenter.tamu.edu/guides/resources/fallacies.html)  
+   Link: <a href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.tamu.edu/guides/resources/fallacies.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/University](https://en.wikipedia.org/wiki/University)  
+   Link: <a href="https://en.wikipedia.org/wiki/University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/University</a>  
 
 24. <a id="endnote-24"></a>
    Source: unr.edu  
-   Link: [https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies)  
+   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
 
 25. <a id="endnote-25"></a>
    Source: unr.edu  
-   Link: [https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments)  
+   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments</a>  
 
 26. <a id="endnote-26"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Academic Argument  
-   Link: [https://www.youtube.com/watch?v=BXhosYuw4jU](https://www.youtube.com/watch?v=BXhosYuw4jU)  
+   Link: <a href="https://www.youtube.com/watch?v=BXhosYuw4jU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BXhosYuw4jU</a>  
 
 28. <a id="endnote-28"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/slang/unc](https://www.merriam-webster.com/slang/unc)  
+   Link: <a href="https://www.merriam-webster.com/slang/unc" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/slang/unc</a>  
 
 29. <a id="endnote-29"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 30. <a id="endnote-30"></a>
    Source: mvmlearning.wordpress.com  
-   Link: [https://mvmlearning.wordpress.com/2017/03/04/argument/](https://mvmlearning.wordpress.com/2017/03/04/argument/)  
+   Link: <a href="https://mvmlearning.wordpress.com/2017/03/04/argument/" target="_blank" rel="noopener noreferrer nofollow">https://mvmlearning.wordpress.com/2017/03/04/argument/</a>  
 
 31. <a id="endnote-31"></a>
    Source: pressbooks.cuny.edu  
    Title: logical fallacies  
-   Link: [https://pressbooks.cuny.edu/qcenglish110writingguides/chapter/logical-fallacies/](https://pressbooks.cuny.edu/qcenglish110writingguides/chapter/logical-fallacies/)  
+   Link: <a href="https://pressbooks.cuny.edu/qcenglish110writingguides/chapter/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.cuny.edu/qcenglish110writingguides/chapter/logical-fallacies/</a>  
 
 32. <a id="endnote-32"></a>
    Source: walton.uark.edu  
    Title: logical fallacies  
-   Link: [https://walton.uark.edu/business-communication-lab/resources/business-writing-resources/logical-fallacies.php](https://walton.uark.edu/business-communication-lab/resources/business-writing-resources/logical-fallacies.php)  
+   Link: <a href="https://walton.uark.edu/business-communication-lab/resources/business-writing-resources/logical-fallacies.php" target="_blank" rel="noopener noreferrer nofollow">https://walton.uark.edu/business-communication-lab/resources/business-writing-resources/logical-fallacies.php</a>  
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1708.01425](https://arxiv.org/abs/1708.01425)  
+   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: 10 Common Logical Fallacies and How to Spot Them  
-   Link: [https://www.youtube.com/watch?v=0LlSphkniJQ](https://www.youtube.com/watch?v=0LlSphkniJQ)  
+   Link: <a href="https://www.youtube.com/watch?v=0LlSphkniJQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0LlSphkniJQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies Part 2: Most Commonly Used Fallacies...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61558331019289/posts/%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B4%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-in-academic-essay-writing-harvard-college-writing-center-just-of/122201665172277700/](https://www.facebook.com/61558331019289/posts/%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B4%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-in-academic-essay-writing-harvard-college-writing-center-just-of/122201665172277700/)  
+   Link: <a href="https://www.facebook.com/61558331019289/posts/%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B4%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-in-academic-essay-writing-harvard-college-writing-center-just-of/122201665172277700/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61558331019289/posts/%F0%9D%97%96%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B4%F0%9D%98%82%F0%9D%97%BA%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81-in-academic-essay-writing-harvard-college-writing-center-just-of/122201665172277700/</a>  
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392825153_Using_of_claim_evidence_and_reasoning_strategy_in_scientific_explanation_and_argumentative_writing_skills_of_grade_nine_chemistry_students](https://www.researchgate.net/publication/392825153_Using_of_claim_evidence_and_reasoning_strategy_in_scientific_explanation_and_argumentative_writing_skills_of_grade_nine_chemistry_students)  
+   Link: <a href="https://www.researchgate.net/publication/392825153_Using_of_claim_evidence_and_reasoning_strategy_in_scientific_explanation_and_argumentative_writing_skills_of_grade_nine_chemistry_students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392825153_Using_of_claim_evidence_and_reasoning_strategy_in_scientific_explanation_and_argumentative_writing_skills_of_grade_nine_chemistry_students</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/A-link-between-claim-grounds-and-warrant_fig2_321725631](https://www.researchgate.net/figure/A-link-between-claim-grounds-and-warrant_fig2_321725631)  
+   Link: <a href="https://www.researchgate.net/figure/A-link-between-claim-grounds-and-warrant_fig2_321725631" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/A-link-between-claim-grounds-and-warrant_fig2_321725631</a>  
 
 38. <a id="endnote-38"></a>
    Source: ucd.ie  
-   Link: [https://www.ucd.ie/writingcentre/t4media/Academic%20Style%20-%20Common%20Mistakes_SoRh.pdf](https://www.ucd.ie/writingcentre/t4media/Academic%20Style%20-%20Common%20Mistakes_SoRh.pdf)  
+   Link: <a href="https://www.ucd.ie/writingcentre/t4media/Academic%20Style%20-%20Common%20Mistakes_SoRh.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucd.ie/writingcentre/t4media/Academic%20Style%20-%20Common%20Mistakes_SoRh.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: study.com  
-   Link: [https://study.com/learn/lesson/supporting-claims-with-evidence-reasoning.html](https://study.com/learn/lesson/supporting-claims-with-evidence-reasoning.html)  
+   Link: <a href="https://study.com/learn/lesson/supporting-claims-with-evidence-reasoning.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/supporting-claims-with-evidence-reasoning.html</a>  
 
 40. <a id="endnote-40"></a>
    Source: itslitteaching.com  
-   Link: [https://itslitteaching.com/cerwriting/](https://itslitteaching.com/cerwriting/)  
+   Link: <a href="https://itslitteaching.com/cerwriting/" target="_blank" rel="noopener noreferrer nofollow">https://itslitteaching.com/cerwriting/</a>  
 
 41. <a id="endnote-41"></a>
    Source: luc.edu  
-   Link: [https://www.luc.edu/literacy/tutoring/commonwritingproblemshowtofixthem/](https://www.luc.edu/literacy/tutoring/commonwritingproblemshowtofixthem/)  
+   Link: <a href="https://www.luc.edu/literacy/tutoring/commonwritingproblemshowtofixthem/" target="_blank" rel="noopener noreferrer nofollow">https://www.luc.edu/literacy/tutoring/commonwritingproblemshowtofixthem/</a>  
 
 42. <a id="endnote-42"></a>
    Source: epic-essay.com  
-   Link: [https://www.epic-essay.com/blogs/counterarguments-in-academic-writing-how-to-address-opposing-views-effectively/](https://www.epic-essay.com/blogs/counterarguments-in-academic-writing-how-to-address-opposing-views-effectively/)  
+   Link: <a href="https://www.epic-essay.com/blogs/counterarguments-in-academic-writing-how-to-address-opposing-views-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.epic-essay.com/blogs/counterarguments-in-academic-writing-how-to-address-opposing-views-effectively/</a>  

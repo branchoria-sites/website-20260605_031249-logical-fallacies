@@ -274,11 +274,11 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_pic
 
 ## Introduction
 
-Cherry-picking is one of the most common evidence-related fallacies in student [essays]({{ 'essays/' | relative_url }}). It occurs when a writer highlights sources, quotations, statistics, or examples that support a thesis while ignoring significant evidence that points in another direction. The result is not necessarily a false argument; the selected evidence may be accurate. The problem is that readers are shown only part of the relevant picture. Academic argument depends not only on presenting supporting evidence but also on engaging with reasonable objections and competing evidence. When an essay omits the strongest contrary material, informed readers often conclude that the writer has not fully understood the topic or has deliberately avoided inconvenient facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">BachelorPrintCherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
+Cherry-picking is one of the most common evidence-related fallacies in student [essays]({{ 'essays/' | relative_url }}). It occurs when a writer highlights sources, quotations, statistics, or examples that support a thesis while ignoring significant evidence that points in another direction. The result is not necessarily a false argument; the selected evidence may be accurate. The problem is that readers are shown only part of the relevant picture. Academic argument depends not only on presenting supporting evidence but also on engaging with reasonable objections and competing evidence. When an essay omits the strongest contrary material, informed readers often conclude that the writer has not fully understood the topic or has deliberately avoided inconvenient facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1-dark.svg" | relative_url }}" alt="Cherry Picking illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader category of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and academic writing problems, cherry-picking is especially damaging because it can hide behind extensive research. An essay may contain many citations and still be selective if it consistently excludes evidence that complicates its conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">BachelorPrintCherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Cherry Picking Fallacy?</span><span class="citation-popover-snippet">| Definition &amp; Examples24 Jun 2024 — The cherry picking fallacy occurs when an argument highlights evidence that supports its conclusion...</span></span></span>
+Within the broader category of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and academic writing problems, cherry-picking is especially damaging because it can hide behind extensive research. An essay may contain many citations and still be selective if it consistently excludes evidence that complicates its conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Cherry Picking Fallacy?</span><span class="citation-popover-snippet">Definition &amp; Examples24 Jun 2024 — The cherry picking fallacy occurs when an argument highlights evidence that supports its conclusion...</span></span></span>
 
 ## How Selective Evidence Damages Credibility
 
@@ -359,7 +359,7 @@ The revised claim can accommodate evidence that does not fit the original sweepi
 
 ### Address the strongest objection directly
 
-Many writing guides recommend presenting a counterargument fairly before responding to it. This demonstrates awareness of competing evidence and strengthens reader trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unr.edu">[University of Nevada, Reno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unr.edu</span><span class="citation-popover-title">Learn how to employ them</span><span class="citation-popover-snippet">University of Nevada, RenoCounterarguments | University Writing &amp; Speaking CenterA counterargument involves acknowledging standpoints tha...</span></span></span>
+Many writing guides recommend presenting a counterargument fairly before responding to it. This demonstrates awareness of competing evidence and strengthens reader trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unr.edu">[University of Nevada, Reno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unr.edu</span><span class="citation-popover-title">Learn how to employ them</span><span class="citation-popover-snippet">University of Nevada, RenoCounterarguments &#124; University Writing &amp; Speaking CenterA counterargument involves acknowledging standpoints tha...</span></span></span>
 
 A useful structure is:
 
@@ -830,157 +830,157 @@ An essay becomes more persuasive when it demonstrates command of the strongest e
 1. <a id="endnote-1"></a>
    Source: bachelorprint.com  
    Title: cherry picking fallacy  
-   Link: [https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/](https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BachelorPrintCherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</p></details>
+   Link: <a href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLArgumentative Essays  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html](https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLArgumentative Essays - Purdue OWLThe argumentative essay requires well-researched, accurate, detailed, and current information...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: quillbot.com  
    Title: What Is Cherry Picking Fallacy?  
-   Link: [https://quillbot.com/blog/reasoning/cherry-picking-fallacy/](https://quillbot.com/blog/reasoning/cherry-picking-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Definition &amp; Examples24 Jun 2024 — The cherry picking fallacy occurs when an argument highlights evidence that supports its conclusion...</p></details>
+   Link: <a href="https://quillbot.com/blog/reasoning/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/cherry-picking-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples24 Jun 2024 — The cherry picking fallacy occurs when an argument highlights evidence that supports its conclusion...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: owl.purdue.edu  
    Title: OWLOrganizing Your Argument  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOrganizing Your Argument - Purdue OWLIf you respond to counterclaims, you appear unbiased (and, therefore, you earn the respect...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument...Counterargument%20When%20you%20write%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20you%20make%20an%20argument%3A%20you%20propose%20a%20thesis%20and%20offer%20some%20reasoning%2C%20using%20evidence%2C%20that%20suggests%20why%20the%20thesis%20is%20true.%20When%20you%20%3Cstrong%3Ecounter%3C/strong%3E-argue%2C%20you%20consider%20a%20possible%20argument%20against%20your%20thesis%20or%20some%20aspect%20of%20your%20reasoning.The%20biggest%20absurdity%20is%20that%20a%20four-year%20%3Cstrong%3Ecollege%3C/strong%3E%20degree%20has%20become%20the%20only%20gateway%20into%20the%20American%20middle%20class.%20But%20%3Cstrong%3Enot%3C/strong%3E%20every%20young%20person%20is%20suited%20to%20four%20years%20of%20%3Cstrong%3Ecollege%3C/strong%3E.%3Ca%20href%3D](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument...Counterargument%20When%20you%20write%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20you%20make%20an%20argument%3A%20you%20propose%20a%20thesis%20and%20offer%20some%20reasoning%2C%20using%20evidence%2C%20that%20suggests%20why%20the%20thesis%20is%20true.%20When%20you%20%3Cstrong%3Ecounter%3C/strong%3E-argue%2C%20you%20consider%20a%20possible%20argument%20against%20your%20thesis%20or%20some%20aspect%20of%20your%20reasoning.The%20biggest%20absurdity%20is%20that%20a%20four-year%20%3Cstrong%3Ecollege%3C/strong%3E%20degree%20has%20become%20the%20only%20gateway%20into%20the%20American%20middle%20class.%20But%20%3Cstrong%3Enot%3C/strong%3E%20every%20young%20person%20is%20suited%20to%20four%20years%20of%20%3Cstrong%3Ecollege%3C/strong%3E.%3Ca%20href%3D)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument...Counterargument%20When%20you%20write%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20you%20make%20an%20argument%3A%20you%20propose%20a%20thesis%20and%20offer%20some%20reasoning%2C%20using%20evidence%2C%20that%20suggests%20why%20the%20thesis%20is%20true.%20When%20you%20%3Cstrong%3Ecounter%3C/strong%3E-argue%2C%20you%20consider%20a%20possible%20argument%20against%20your%20thesis%20or%20some%20aspect%20of%20your%20reasoning.The%20biggest%20absurdity%20is%20that%20a%20four-year%20%3Cstrong%3Ecollege%3C/strong%3E%20degree%20has%20become%20the%20only%20gateway%20into%20the%20American%20middle%20class.%20But%20%3Cstrong%3Enot%3C/strong%3E%20every%20young%20person%20is%20suited%20to%20four%20years%20of%20%3Cstrong%3Ecollege%3C/strong%3E.%3Ca%20href%3D" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument...Counterargument%20When%20you%20write%20an%20academic%20%3Cstrong%3Eessay%3C/strong%3E%2C%20you%20make%20an%20argument%3A%20you%20propose%20a%20thesis%20and%20offer%20some%20reasoning%2C%20using%20evidence%2C%20that%20suggests%20why%20the%20thesis%20is%20true.%20When%20you%20%3Cstrong%3Ecounter%3C/strong%3E-argue%2C%20you%20consider%20a%20possible%20argument%20against%20your%20thesis%20or%20some%20aspect%20of%20your%20reasoning.The%20biggest%20absurdity%20is%20that%20a%20four-year%20%3Cstrong%3Ecollege%3C/strong%3E%20degree%20has%20become%20the%20only%20gateway%20into%20the%20American%20middle%20class.%20But%20%3Cstrong%3Enot%3C/strong%3E%20every%20young%20person%20is%20suited%20to%20four%20years%20of%20%3Cstrong%3Ecollege%3C/strong%3E.%3Ca%20href%3D</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLMultiple ChoicesWhen you &lt;strong&gt;counter&lt;/strong&gt;-argue, you consider a possible argument against your thesis or some aspect of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: owl.purdue.edu  
    Title: OWLArguments in an Essay on Literature  
-   Link: [https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/building_an_argument.html](https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/building_an_argument.html)  
+   Link: <a href="https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/building_an_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/subject_specific_writing/writing_in_literature/writing_in_literature_detailed_discussion/building_an_argument.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remember: If an...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Cherry picking  
-   Link: [https://en.wikipedia.org/wiki/Cherry_picking](https://en.wikipedia.org/wiki/Cherry_picking)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cherry_picking</a>  
 
 8. <a id="endnote-8"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strong Thesis Statements - Purdue OWLThe thesis statement or main claim must be debatable. An argumentative or persuasive piece of writin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: owl.purdue.edu  
    Title: new organizing your argument 09042025  
-   Link: [https://owl.purdue.edu/owl/resources/teaching_resources/documents/new-organizing-your-argument_-09042025.pdf](https://owl.purdue.edu/owl/resources/teaching_resources/documents/new-organizing-your-argument_-09042025.pdf)  
+   Link: <a href="https://owl.purdue.edu/owl/resources/teaching_resources/documents/new-organizing-your-argument_-09042025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/resources/teaching_resources/documents/new-organizing-your-argument_-09042025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your ArgumentThe thesis statement should guide your reader through your argument. It is generally located in the introduction of the pape...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: owl.purdue.edu  
    Title: rebuttal sections  
-   Link: [https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/rebuttal_sections.html](https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/rebuttal_sections.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/rebuttal_sections.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/rebuttal_sections.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sections - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an ac...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: owl.purdue.edu  
    Title: thesis statement tips  
-   Link: [https://owl.purdue.edu/owl/general_writing/the_writing_process/thesis_statement_tips.html](https://owl.purdue.edu/owl/general_writing/the_writing_process/thesis_statement_tips.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/the_writing_process/thesis_statement_tips.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/the_writing_process/thesis_statement_tips.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The claim could be an opinion, a policy proposal, an...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: owl.purdue.edu  
    Title: toulmin argument  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html](https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts: claim, grounds...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking](https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Cherry-Picking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousCherry PickingWhen only select evidence is presented in order to persuade the audience to accept a position, and evid...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: unr.edu  
    Title: Learn how to employ them  
-   Link: [https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments)  
+   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Nevada, RenoCounterarguments | University Writing &amp; Speaking CenterA counterargument involves acknowledging standpoints tha...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ncte.org  
    Title: cherry picking literary analysis  
-   Link: [https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/](https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/)  
+   Link: <a href="https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Council of Teachers of EnglishWhat Does Cherry Picking Have to Do With Literary...18 Apr 2017 — The cherrypicking fallacy is th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: writingcenter.unc.edu  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/evidence/](https://writingcenter.unc.edu/tips-and-tools/evidence/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNC Writing CenterThis handout will provide a broad overview of gathering and using evidence. It will help you decide what counts as evid...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LKXkemYldmw](https://www.youtube.com/watch?v=LKXkemYldmw)  
+   Link: <a href="https://www.youtube.com/watch?v=LKXkemYldmw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LKXkemYldmw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL: Thesis StatementsA thesis statement is a sentence or a few sentences usually near the beginning of a piece of writing in whic...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nlpnotes.com  
    Title: Cherry picking  
-   Link: [https://nlpnotes.com/2014/03/23/cherry-picking/](https://nlpnotes.com/2014/03/23/cherry-picking/)  
+   Link: <a href="https://nlpnotes.com/2014/03/23/cherry-picking/" target="_blank" rel="noopener noreferrer nofollow">https://nlpnotes.com/2014/03/23/cherry-picking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NLP Notes23 Mar 2014 — Cherry picking, suppressing evidence, or the fallacy of incomplete evidence is the act of pointing to individual c...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: pressbooks.pub  
-   Link: [https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/](https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/)  
+   Link: <a href="https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.pub/oregonwrites/chapter/constructing-the-thesis-and-argument-from-the-ground-up/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Constructing the Thesis and Argument from the Ground UpThe Writing Center at the University of North Carolina at Chapel Hill offers an ex...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ucc.ie  
-   Link: [https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf](https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf)  
+   Link: <a href="https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ucc.ie/en/media/support/skillscentre/pdfx27sampbookmarks/HowToBuildAnAcademicArgument.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HOW TO BUILD AN ACADEMIC ARGUMENT- Make sure that you offer a clear explanation for each argued point. - This will demonstrate your credi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: louisville.edu  
-   Link: [https://louisville.edu/writingcenter/writing-resources/resources-teaching-writing/helping-students-write-effective-thesis-statements](https://louisville.edu/writingcenter/writing-resources/resources-teaching-writing/helping-students-write-effective-thesis-statements)  
+   Link: <a href="https://louisville.edu/writingcenter/writing-resources/resources-teaching-writing/helping-students-write-effective-thesis-statements" target="_blank" rel="noopener noreferrer nofollow">https://louisville.edu/writingcenter/writing-resources/resources-teaching-writing/helping-students-write-effective-thesis-statements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Helping Students Write Effective Thesis StatementsTo help writers make this distinction, we often ask them to consider whether their thes...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThis is another name for the Fallacy of Avoiding the Question. Cherry-Picking. Cherry-Picking...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-cherry-pickingdefinition-and-explanation-the-cherry-picking-falla/1171316154993080/](https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-cherry-pickingdefinition-and-explanation-the-cherry-picking-falla/1171316154993080/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-cherry-pickingdefinition-and-explanation-the-cherry-picking-falla/1171316154993080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-cherry-pickingdefinition-and-explanation-the-cherry-picking-falla/1171316154993080/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: CHERRY PICKING DEFINITION...Cherry Picking (also known as: suppressed evidence, fallacy of incomplete evidence, argumen...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: writingcenter.uagc.edu  
-   Link: [https://writingcenter.uagc.edu/counterargument](https://writingcenter.uagc.edu/counterargument)  
+   Link: <a href="https://writingcenter.uagc.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.uagc.edu/counterargument</a>  
 
 26. <a id="endnote-26"></a>
    Source: acikders.ankara.edu.tr  
-   Link: [https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922](https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922)  
+   Link: <a href="https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922" target="_blank" rel="noopener noreferrer nofollow">https://acikders.ankara.edu.tr/mod/resource/view.php?id=135922</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AND ANALYTICAL THINKINGIn academic writing, an argument is usually a main idea, often called a &quot;claim&quot; or &quot;thesis statement,&quot; backed up w...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: studenttoolkit.douglasstreetcampus.ie  
-   Link: [https://studenttoolkit.douglasstreetcampus.ie/wp-content/uploads/2022/11/studentcopy_buildinganargument.pdf](https://studenttoolkit.douglasstreetcampus.ie/wp-content/uploads/2022/11/studentcopy_buildinganargument.pdf)  
+   Link: <a href="https://studenttoolkit.douglasstreetcampus.ie/wp-content/uploads/2022/11/studentcopy_buildinganargument.pdf" target="_blank" rel="noopener noreferrer nofollow">https://studenttoolkit.douglasstreetcampus.ie/wp-content/uploads/2022/11/studentcopy_buildinganargument.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>copy Building an ArgumentConsider 1-2 counter-arguments in depth. Avoid a list of many different counter-arguments. A counter-argument sh...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: ncbar.org  
-   Link: [https://www.ncbar.org/nc-lawyer/2026-02/giving-the-other-side-its-due-how-to-weave-counterarguments-into-a-brief-effectively/](https://www.ncbar.org/nc-lawyer/2026-02/giving-the-other-side-its-due-how-to-weave-counterarguments-into-a-brief-effectively/)  
+   Link: <a href="https://www.ncbar.org/nc-lawyer/2026-02/giving-the-other-side-its-due-how-to-weave-counterarguments-into-a-brief-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbar.org/nc-lawyer/2026-02/giving-the-other-side-its-due-how-to-weave-counterarguments-into-a-brief-effectively/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing That WorksFeb 18, 2026 — 3. Structuring a Counterargument Clearly · State the counterargument fairly (one clean sentence). · Iden...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Q_25qcV-lPM](https://www.youtube.com/watch?v=Q_25qcV-lPM)  
+   Link: <a href="https://www.youtube.com/watch?v=Q_25qcV-lPM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q_25qcV-lPM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Essay Basics With FallaciesAn academic argument is one that is well thought out well planned supported with evidence uh very str...</p></details>

@@ -278,7 +278,7 @@ The attraction of logo-causation claims is not irrational; it is rooted in how p
 
 A logo change often arrives as a clear, memorable event. Fans can point to a specific launch date, compare old and new designs, and connect the redesign to debates about [tradition]({{ 'tradition/' | relative_url }}), ownership, or club identity. When disappointing results follow, the timeline appears neat and compelling. The human mind is generally more comfortable with a simple story than with a complex mix of injuries, recruitment decisions, tactical adjustments, luck, and opponent quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Post hoc ergo propter hoc</span><span class="citation-popover-snippet">Post hoc ergo propter hoc</span></span></span>
 
-Sports branding research helps explain why logo changes attract such attention. Studies of team logo redesigns consistently find that supporters can react strongly to rebranding efforts, particularly when identification with the club is high. Changes influence attitudes toward the brand, merchandise, and perceptions of the organisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
+Sports branding research helps explain why logo changes attract such attention. Studies of team logo redesigns consistently find that supporters can react strongly to rebranding efforts, particularly when identification with the club is high. Changes influence attitudes toward the brand, merchandise, and perceptions of the organisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
 
 That emotional significance, however, does not automatically translate into competitive consequences. A fan may dislike a crest and still be watching the same players, coach, and tactical system.
 
@@ -312,9 +312,9 @@ Importantly, the post hoc mistake can occur even when supporters identify a real
 
 Avoiding the post hoc fallacy does not require claiming that branding can never influence performance.
 
-A redesign could theoretically have indirect effects if it becomes part of a wider organisational conflict. For example, a deeply unpopular rebrand might damage trust between supporters and club leadership, create negative media attention, or contribute to a sense of instability. Research on sport rebranding shows that fan attitudes toward rebranding can influence loyalty and brand perceptions, particularly among highly identified supporters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>, this is a much stronger and more demanding claim than "the team started losing after the logo changed." To establish such a connection, evidence would be needed showing a plausible mechanism linking the branding decision to morale, behaviour, or organisational effectiveness. Timing alone is insufficient.
+A redesign could theoretically have indirect effects if it becomes part of a wider organisational conflict. For example, a deeply unpopular rebrand might damage trust between supporters and club leadership, create negative media attention, or contribute to a sense of instability. Research on sport rebranding shows that fan attitudes toward rebranding can influence loyalty and brand perceptions, particularly among highly identified supporters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>, this is a much stronger and more demanding claim than "the team started losing after the logo changed." To establish such a connection, evidence would be needed showing a plausible mechanism linking the branding decision to morale, behaviour, or organisational effectiveness. Timing alone is insufficient.
 
-The distinction matters because [post hoc reasoning]({{ 'false-cause/' | relative_url }}) skips over the mechanism. It jumps directly from sequence to causation without demonstrating how the supposed cause produced the outcome.
+The distinction matters because post hoc reasoning skips over the mechanism. It jumps directly from sequence to causation without demonstrating how the supposed cause produced the outcome.
 
 ## Why Losing Streaks Strengthen the Belief
 
@@ -769,7 +769,7 @@ A credible causal claim should explain how the redesign influenced players, coac
 Logo redesigns often occur alongside ownership changes, commercial strategies, coaching transitions, or squad rebuilding projects. Any of these factors may be more relevant to results than the badge itself.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5A7hSaoRv0g" title="CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 189.1K &middot; Uploaded: February 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5A7hSaoRv0g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B98XzmOA7eg" title="Regression to the Mean - Don&#x27;t Get Fooled by Randomness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B98XzmOA7eg" target="_blank" rel="noopener noreferrer">Regression to the Mean - Don&#x27;t Get Fooled by Randomness</a></p><p class="youtube-embed-meta">Channel: Trevor Ragan &middot; Views: 16.2K &middot; Uploaded: January 2014 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B98XzmOA7eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B98XzmOA7eg">Open on YouTube</a></p></div></div></div>
 
 ### Would the same argument be accepted after a winning streak?
 
@@ -783,7 +783,7 @@ The strongest causal claims require more than chronology. They need evidence tha
 
 ## The Better Interpretation
 
-A logo change followed by poor results may be emotionally satisfying as an explanation, but it is rarely persuasive as evidence. Sports branding research shows that redesigns can affect fan attitudes, loyalty, and perceptions of club identity. What it does not show is that a badge automatically determines wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateSport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
+A logo change followed by poor results may be emotionally satisfying as an explanation, but it is rarely persuasive as evidence. Sports branding research shows that redesigns can affect fan attitudes, loyalty, and perceptions of club identity. What it does not show is that a badge automatically determines wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
 
 The post hoc mistake arises when supporters treat sequence as proof. The crest appeared first, the defeats came later, therefore the crest caused the defeats. In reality, chronology identifies a coincidence that may deserve investigation. It does not, by itself, establish a cause-and-effect relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
@@ -792,113 +792,113 @@ The post hoc mistake arises when supporters treat sequence as proof. The crest a
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Post hoc ergo propter hoc  
-   Link: [https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)  
+   Link: <a href="https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc</a>  
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: post hoc fallacy  
-   Link: [https://www.scribbr.com/fallacies/post-hoc-fallacy/](https://www.scribbr.com/fallacies/post-hoc-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/post-hoc-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</p></details>
    Published: May 2023  
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise](https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation](https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation)  
+   Link: <a href="https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Through an experimental approach, the results...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention](https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention)  
+   Link: <a href="https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – logo rede...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees](https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees)  
+   Link: <a href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: jmp.com  
-   Link: [https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation](https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation)  
+   Link: <a href="https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation" target="_blank" rel="noopener noreferrer nofollow">https://www.jmp.com/en/statistics-knowledge-portal/linear-models/what-is-correlation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to StatisticsCorrelation is a statistical measure that expresses the extent to which two variables change together at a cons...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Correlation](https://en.wikipedia.org/wiki/Correlation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Correlation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Correlation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CorrelationIn statistics, correlation is a type of statistical relationship between two random variables or bivariate data. It usually...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/322235137_How_Do_Fans_React_When_Sports_Teams_Are_Named_After_Corporations](https://www.researchgate.net/publication/322235137_How_Do_Fans_React_When_Sports_Teams_Are_Named_After_Corporations)  
+   Link: <a href="https://www.researchgate.net/publication/322235137_How_Do_Fans_React_When_Sports_Teams_Are_Named_After_Corporations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322235137_How_Do_Fans_React_When_Sports_Teams_Are_Named_After_Corporations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Fans React When Sports Teams Are Named After...PDF | The reaction to Red Bull naming its soccer teams after the corporation and p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/324019016_A_model_of_fans%27_reaction_to_resurrected_brands_of_sport_organizations](https://www.researchgate.net/publication/324019016_A_model_of_fans%27_reaction_to_resurrected_brands_of_sport_organizations)  
+   Link: <a href="https://www.researchgate.net/publication/324019016_A_model_of_fans%27_reaction_to_resurrected_brands_of_sport_organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324019016_A_model_of_fans%27_reaction_to_resurrected_brands_of_sport_organizations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>te or hinder a favorable reaction of fans to the resurrection of sport club...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribbr.co.uk  
    Title: rrelation Coefficient | Types, Formulas & Examples  
-   Link: [https://www.scribbr.co.uk/stats/correlation-coefficient-meaning/](https://www.scribbr.co.uk/stats/correlation-coefficient-meaning/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Coefficient | Types, Formulas &amp; Examples - Scribbr17 Dec 2023 — A correlation coefficient is a number between -1 and 1 that t...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/stats/correlation-coefficient-meaning/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/stats/correlation-coefficient-meaning/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>rrelation Coefficient | Types, Formulas &amp; Examples - Scribbr17 Dec 2023 — A correlation coefficient is a number between -1 and 1 that t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/cause.html](https://philosophy.lander.edu/logic/cause.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/cause.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/cause.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Non Causa Pro Causa) with Many ExamplesCum hoc ergo propter hoc is an erroneous argument concluding one state of affairs causes another...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise](https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise)  
+   Link: <a href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-[regression](https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-[regression)  
+   Link: <a href="https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-[regression" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/11-correlation-and-[regression</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11. Correlation and regressionWe use correlation to denote association between two quantitative variables. We also assume that the associ...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: peachytutors.com  
-   Link: [https://peachytutors.com/the-logical-fallacy-in-sports-examining-the-post-hoc-ergo-propter-hoc-fallacy/](https://peachytutors.com/the-logical-fallacy-in-sports-examining-the-post-hoc-ergo-propter-hoc-fallacy/)  
+   Link: <a href="https://peachytutors.com/the-logical-fallacy-in-sports-examining-the-post-hoc-ergo-propter-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://peachytutors.com/the-logical-fallacy-in-sports-examining-the-post-hoc-ergo-propter-hoc-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the &quot;Post Hoc Ergo Propter Hoc&quot; FallacyThe Latin phrase “Post Hoc Ergo Propter Hoc” translates to “After this, therefore becaus...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thilokunkel.com  
-   Link: [https://www.thilokunkel.com/sport-team-brands/](https://www.thilokunkel.com/sport-team-brands/)  
+   Link: <a href="https://www.thilokunkel.com/sport-team-brands/" target="_blank" rel="noopener noreferrer nofollow">https://www.thilokunkel.com/sport-team-brands/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Team BrandsBrand image refers to the perceptions about a brand as reflected by the brand associations held in consumer memory. Bran...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: behance.net  
-   Link: [https://www.behance.net/search/projects/sports%20logo%20redesign](https://www.behance.net/search/projects/sports%20logo%20redesign)  
+   Link: <a href="https://www.behance.net/search/projects/sports%20logo%20redesign" target="_blank" rel="noopener noreferrer nofollow">https://www.behance.net/search/projects/sports%20logo%20redesign</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sports Logo Redesign ProjectsBehance is the world&#x27;s largest creative network for showcasing and discovering creative sports logo redesign...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/post-hoc/](https://effectiviology.com/post-hoc/)  
+   Link: <a href="https://effectiviology.com/post-hoc/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/post-hoc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Post Hoc Ergo Propter Hoc FallacyThis is based on the false premise that if one event happens before another, then the first event mu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medium.com  
-   Link: [https://medium.com/higher-neurons/the-post-hoc-ergo-propter-hoc-fallacy-5c8d4ceb568a](https://medium.com/higher-neurons/the-post-hoc-ergo-propter-hoc-fallacy-5c8d4ceb568a)  
+   Link: <a href="https://medium.com/higher-neurons/the-post-hoc-ergo-propter-hoc-fallacy-5c8d4ceb568a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/higher-neurons/the-post-hoc-ergo-propter-hoc-fallacy-5c8d4ceb568a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Post Hoc Ergo Propter Hoc Fallacy | by Myk EffThe “post hoc ergo propter hoc” fallacy is a common logical error that people commit wh...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40noorfatimaafzalbutt/understanding-correlation-a-comprehensive-guide-b254be461b5c](https://medium.com/%40noorfatimaafzalbutt/understanding-correlation-a-comprehensive-guide-b254be461b5c)  
+   Link: <a href="https://medium.com/%40noorfatimaafzalbutt/understanding-correlation-a-comprehensive-guide-b254be461b5c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40noorfatimaafzalbutt/understanding-correlation-a-comprehensive-guide-b254be461b5c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Correlation: A Comprehensive GuideCorrelation is a statistical measure that describes the extent to which two variables cha...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: s-space.snu.ac.kr  
-   Link: [https://s-space.snu.ac.kr/handle/10371/215619](https://s-space.snu.ac.kr/handle/10371/215619)  
+   Link: <a href="https://s-space.snu.ac.kr/handle/10371/215619" target="_blank" rel="noopener noreferrer nofollow">https://s-space.snu.ac.kr/handle/10371/215619</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fans&#x27; Resistance Towards a Sports Team Rebranding...This study explores the impact of the rebranding of SK Wyverns to SSG Landers on fan...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: westga.edu  
-   Link: [https://www.westga.edu/share/documents/pubs/091175_869.pdf](https://www.westga.edu/share/documents/pubs/091175_869.pdf)  
+   Link: <a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>  

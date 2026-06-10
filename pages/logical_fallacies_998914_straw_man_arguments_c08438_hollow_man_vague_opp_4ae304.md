@@ -354,7 +354,7 @@ A vague reference can be reasonable when:
 
 For example, discussing a recurring misconception found across many survey responses or [social media]({{ 'social-media/' | relative_url }}) posts may require speaking about a trend rather than a specific person.
 
-The argument becomes suspect when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://thenonsequitur.com/?p=1072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenonsequitur.com">[thenonsequitur.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenonsequitur.com</span><span class="citation-popover-snippet">The Non SequiturThe hollow man | The Non Sequitur7 Dec 2008 — One commits the straw man fallacy in a situation of criticism–when one chal...</span></span></span>
+The argument becomes suspect when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://thenonsequitur.com/?p=1072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenonsequitur.com">[thenonsequitur.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenonsequitur.com</span><span class="citation-popover-snippet">The Non SequiturThe hollow man &#124; The Non Sequitur7 Dec 2008 — One commits the straw man fallacy in a situation of criticism–when one chal...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
@@ -413,7 +413,7 @@ One individual holding an eccentric opinion does not prove that a wider group en
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-3-dark.svg" | relative_url }}" alt="Hollow Men illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Could a reasonable defender recognise the description?
 
-A useful test is the principle of charitable interpretation. Would people who hold the criticised view recognise the summary as fair? If not, the argument may be attacking a hollow construction rather than a real position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thenonsequitur.com/?p=1072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenonsequitur.com">[The Non Sequitur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenonsequitur.com</span><span class="citation-popover-snippet">The Non SequiturThe hollow man | The Non Sequitur7 Dec 2008 — One commits the straw man fallacy in a situation of criticism–when one chal...</span></span></span>
+A useful test is the principle of charitable interpretation. Would people who hold the criticised view recognise the summary as fair? If not, the argument may be attacking a hollow construction rather than a real position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thenonsequitur.com/?p=1072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenonsequitur.com">[The Non Sequitur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenonsequitur.com</span><span class="citation-popover-snippet">The Non SequiturThe hollow man &#124; The Non Sequitur7 Dec 2008 — One commits the straw man fallacy in a situation of criticism–when one chal...</span></span></span>
 
 ## Recognising Hollow Men in Public Debate
 
@@ -845,109 +845,109 @@ The central lesson is straightforward: before evaluating an argument, first esta
 1. <a id="endnote-1"></a>
    Source: philpapers.org  
    Title: Phil Papers Scott F  
-   Link: [https://philpapers.org/rec/AIKSMW](https://philpapers.org/rec/AIKSMW)  
+   Link: <a href="https://philpapers.org/rec/AIKSMW" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKSMW</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aikin &amp; John Casey, Straw Men, Weak Men, and...by SF Aikin · 2011 · Cited by 101 — Three forms of the straw man fallacy are posed: the s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
    Title: Straw Men Weak Men and Hollow Men  
-   Link: [https://www.academia.edu/2609857/Straw_Men_Weak_Men_and_Hollow_Men](https://www.academia.edu/2609857/Straw_Men_Weak_Men_and_Hollow_Men)  
+   Link: <a href="https://www.academia.edu/2609857/Straw_Men_Weak_Men_and_Hollow_Men" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2609857/Straw_Men_Weak_Men_and_Hollow_Men</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Straw Men, Weak Men, and Hollow Men7 Oct 2010 — The hollow man involves fabricating both the opponent and their argument, l...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: philpapers.org  
    Title: Phil Papers The straw man fallacy  
-   Link: [https://philpapers.org/rec/WALTSM-4](https://philpapers.org/rec/WALTSM-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersThe straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</p></details>
+   Link: <a href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTSM-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting](https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting)  
+   Link: <a href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>view that the speaker attributes to his adversary, but that does not correspond...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html](https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html)  
+   Link: <a href="https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n about but from our reasoning about each other&#x27;s reasoning.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065017-9781350065024-1350065005-t-5539493.html](https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065017-9781350065024-1350065005-t-5539493.html)  
+   Link: <a href="https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065017-9781350065024-1350065005-t-5539493.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065017-9781350065024-1350065005-t-5539493.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n opponent, attributing them to the opponent and then criticizing them.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thenonsequitur.com  
-   Link: [https://thenonsequitur.com/?p=1072](https://thenonsequitur.com/?p=1072)  
+   Link: <a href="https://thenonsequitur.com/?p=1072" target="_blank" rel="noopener noreferrer nofollow">https://thenonsequitur.com/?p=1072</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Non SequiturThe hollow man | The Non Sequitur7 Dec 2008 — One commits the straw man fallacy in a situation of criticism–when one chal...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: [https://en.wikipedia.org/wiki/Straw_man](https://en.wikipedia.org/wiki/Straw_man)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw man... man, the third form is called the hollow man. A hollow man argument is one that is a complete fabrication, where both the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3](https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — Seen this way the straw man includes a distortion of the content uttered b...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: yumpu.com  
    Title: The straw man fallacy  
-   Link: [https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons](https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons)  
+   Link: <a href="https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Walton&#x27;s7 Apr 2014 — But in the variant that relates to the ad verecundiam, as exemplified in case4 above, the proponent misrepre...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: dwc.knaw.nl  
-   Link: [https://dwc.knaw.nl/DL/publications/PU00010685.pdf](https://dwc.knaw.nl/DL/publications/PU00010685.pdf)  
+   Link: <a href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010685.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>straw man fallacyIn this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in order to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men](https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateStraw Men, Weak Men, and Hollow Men | Request PDFRequest PDF | Straw Men, Weak Men, and Hollow Men | Three forms of the straw...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226541299_Straw_Men_Weak_Men_and_Hollow_Men</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw Men, Weak Men, and Hollow Men | Request PDFRequest PDF | Straw Men, Weak Men, and Hollow Men | Three forms of the straw...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arg.tech  
-   Link: [https://arg.tech/people/chris/publications/2017/eca2017-strawman.pdf](https://arg.tech/people/chris/publications/2017/eca2017-strawman.pdf)  
+   Link: <a href="https://arg.tech/people/chris/publications/2017/eca2017-strawman.pdf" target="_blank" rel="noopener noreferrer nofollow">https://arg.tech/people/chris/publications/2017/eca2017-strawman.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw man as misuse of rephraseOur characterisation of straw man as an infelicitous use of the rephrase relation is based on Inference An...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/632968638827837/](https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/632968638827837/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/632968638827837/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/632968638827837/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: STRAW MAN DEFINITION...TODAY’S FALLACY: STRAW MAN DEFINITION AND EXPLANATION: A straw man argument misrepresents an opp...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scottaikin.com  
-   Link: [https://www.scottaikin.com/[essays](https://www.scottaikin.com/[essays)  
+   Link: <a href="https://www.scottaikin.com/[essays" target="_blank" rel="noopener noreferrer nofollow">https://www.scottaikin.com/[essays</a>  
 
 16. <a id="endnote-16"></a>
    Source: philarchive.org  
    Title: Phil Archive Interpreting Straw Man Argumentation  
-   Link: [https://philarchive.org/rec/MACISM](https://philarchive.org/rec/MACISM)  
+   Link: <a href="https://philarchive.org/rec/MACISM" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/rec/MACISM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Waltonby F Macagno · 2017 · Cited by 63 — This book shows how research in linguistic pragmatics, philosophy of language, and rhet...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40alitii/understanding-the-straw-man-argument-spot-respond-and-stay-on-track-0a2cf26ef96e](https://medium.com/%40alitii/understanding-the-straw-man-argument-spot-respond-and-stay-on-track-0a2cf26ef96e)  
+   Link: <a href="https://medium.com/%40alitii/understanding-the-straw-man-argument-spot-respond-and-stay-on-track-0a2cf26ef96e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40alitii/understanding-the-straw-man-argument-spot-respond-and-stay-on-track-0a2cf26ef96e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t of attacking a hollow figure instead of a real opponent has...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Second Exodus Is Here and Pressure Is the Birth Canal  
-   Link: [https://www.youtube.com/watch?v=jO88Bbaujac](https://www.youtube.com/watch?v=jO88Bbaujac)  
+   Link: <a href="https://www.youtube.com/watch?v=jO88Bbaujac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jO88Bbaujac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video provides an expert breakdown of the hollow man fallacy alongside traditional straw man variations to show how speakers invent...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
    Title: When and how do we deal with straw men?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227](https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A normative...by M Lewiński · 2013 · Cited by 91 — We propose to treat [informal fallacies](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) in a comprehensive pragmatic account which inv...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A normative...by M Lewiński · 2013 · Cited by 91 — We propose to treat informal fallacies in a comprehensive pragmatic account which inv...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: communicationcache.com  
    Title: two forms of the straw man  
-   Link: [https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf](https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf)  
+   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by R TALISSE · 2006 · Cited by 132 — According to a widely accepted characterization, one commits the straw man fallacy when one misrepre...</p></details>

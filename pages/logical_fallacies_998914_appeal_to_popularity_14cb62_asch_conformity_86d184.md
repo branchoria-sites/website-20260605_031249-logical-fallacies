@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_asch_
 
 ## Introduction
 
-The Asch conformity experiments are among the clearest demonstrations that public agreement is not the same thing as reliable evidence. Conducted by psychologist Solomon Asch in the 1950s, the studies showed that ordinary people sometimes gave obviously incorrect answers simply because a unanimous group had already done so. The importance of these experiments for understanding [appeal to popularity]({{ 'popularity/' | relative_url }}) is straightforward: if people can be pushed toward denying what they can plainly see, then widespread agreement may reflect social pressure as much as independent judgement. The studies do not prove that majorities are usually wrong. Instead, they show that the existence of a majority can influence what people say, and sometimes even what they think, regardless of the evidence in front of them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experiments</span></span></span>
+The Asch conformity experiments are among the clearest demonstrations that public agreement is not the same thing as reliable evidence. Conducted by psychologist Solomon Asch in the 1950s, the studies showed that ordinary people sometimes gave obviously incorrect answers simply because a unanimous group had already done so. The importance of these experiments for understanding appeal to popularity is straightforward: if people can be pushed toward denying what they can plainly see, then widespread agreement may reflect social pressure as much as independent judgement. The studies do not prove that majorities are usually wrong. Instead, they show that the existence of a majority can influence what people say, and sometimes even what they think, regardless of the evidence in front of them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experiments</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_asch_conformity_86d184-Illustration-1-dark.svg" | relative_url }}" alt="The Asch Conformity Experiments illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_asch_conformity_86d184-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_asch_conformity_86d184-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ The question was not whether people could perceive the correct line. The questio
 
 * About one-third of responses on critical trials matched the group's incorrect answer.
 * Roughly three-quarters of participants conformed at least once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/lw/m9/aschs_conformity_experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[lesswrong.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-title">aschs conformity experiment</span><span class="citation-popover-snippet">Asch&#x27;s Conformity ExperimentDec 25, 2007 — Three-quarters of the subjects in Asch&#x27;s experiment gave a “conforming” answer at least once...</span></span></span>
-* A minority resisted throughout, demonstrating that conformity pressure was powerful but far from irresistible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">Simply Psychology Asch Conformity Line Experiment</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line ExperimentMay 15, 2025 — On average, about one third (32%) of the participants who were placed in t...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6204883/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying compliance and acceptance through public</span><span class="citation-popover-snippet">PMCby S Sowden · 2018 · Cited by 71 — Most measures of social conformity conflate compliance and acceptance. Compliance occurs when indiv...</span></span></span> The experiment is memorable because the task involved direct observation rather than complex reasoning. Participants were not evaluating political claims, scientific theories, or uncertain evidence. They were comparing visible line lengths. When conformity occurred, it happened despite strong perceptual evidence pointing in the opposite direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experiments</span></span></span>
+* A minority resisted throughout, demonstrating that conformity pressure was powerful but far from irresistible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">Simply Psychology Asch Conformity Line Experiment</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line ExperimentMay 15, 2025 — On average, about one third (32%) of the participants who were placed in t...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6204883/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying compliance and acceptance through public</span><span class="citation-popover-snippet">by S Sowden · 2018 · Cited by 71 — Most measures of social conformity conflate compliance and acceptance. Compliance occurs when indiv...</span></span></span> The experiment is memorable because the task involved direct observation rather than complex reasoning. Participants were not evaluating political claims, scientific theories, or uncertain evidence. They were comparing visible line lengths. When conformity occurred, it happened despite strong perceptual evidence pointing in the opposite direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experiments</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FnT2FcuZaYI" title="Asch Conformity Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FnT2FcuZaYI" target="_blank" rel="noopener noreferrer">Asch Conformity Experiment</a></p><p class="youtube-embed-meta">Channel: pumpitoutdotcom &middot; Views: 160.6K &middot; Uploaded: March 2011 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FnT2FcuZaYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FnT2FcuZaYI">Open on YouTube</a></p></div></div></div>
@@ -332,14 +332,14 @@ First, the experiments measured behaviour in a controlled laboratory setting usi
 
 Second, many participants resisted the majority. Asch himself emphasised that independence remained common. In the original studies, most responses were still correct, and a substantial minority consistently refused to conform. Later commentators have argued that textbook summaries sometimes exaggerate the dominance of conformity while overlooking the persistence of independent judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experiments</span></span></span>
 
-Third, popularity is not always irrelevant. In some situations, the fact that many people believe something can serve as a useful clue. Large groups may possess dispersed information that individuals lack. The lesson of Asch is therefore not that majorities are unreliable, but that majority agreement is not self-validating. Additional evidence is still required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.07946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivPopularity Bias Is Not Always Evil: Disentangling Benign and Harmful Bias for RecommendationSeptember 16, 2021...</span><span class="citation-popover-meta">Published: September 16, 2021</span></span></span>
+Third, popularity is not always irrelevant. In some situations, the fact that many people believe something can serve as a useful clue. Large groups may possess dispersed information that individuals lack. The lesson of Asch is therefore not that majorities are unreliable, but that majority agreement is not self-validating. Additional evidence is still required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2109.07946" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Popularity Bias Is Not Always Evil: Disentangling Benign and Harmful Bias for RecommendationSeptember 16, 2021...</span><span class="citation-popover-meta">Published: September 16, 2021</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkK5eA_qhFk" title="Asch’s Conformity Experiment on Groupthink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer">Asch’s Conformity Experiment on Groupthink</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 363.1K &middot; Uploaded: July 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkK5eA_qhFk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_IUlV5KI5B0" title="Solomon Asch - Conformity Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_IUlV5KI5B0" target="_blank" rel="noopener noreferrer">Solomon Asch - Conformity Experiment</a></p><p class="youtube-embed-meta">Channel: Vafa Saboori &middot; Views: 4.7K &middot; Uploaded: March 2023 &middot; Length: 3 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_IUlV5KI5B0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_IUlV5KI5B0">Open on YouTube</a></p></div></div></div>
 
 ## Why Obvious Answers Can Bend Under Pressure
 
-The enduring significance of the Asch conformity experiments lies in their simplicity. Participants faced a question with an answer visible before their eyes, yet many still moved toward the majority position. The studies reveal how social pressure can shape public agreement and why consensus should not automatically be treated as evidence of truth. Within discussions of appeal to popularity, Asch's work provides a concrete reminder that widespread belief may reflect conformity as well as accuracy, making independent evidence essential whenever truth claims are at stake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">Simply Psychology Asch Conformity Line Experiment</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line ExperimentMay 15, 2025 — On average, about one third (32%) of the participants who were placed in t...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6204883/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying compliance and acceptance through public</span><span class="citation-popover-snippet">PMCby S Sowden · 2018 · Cited by 71 — Most measures of social conformity conflate compliance and acceptance. Compliance occurs when indiv...</span></span></span>
+The enduring significance of the Asch conformity experiments lies in their simplicity. Participants faced a question with an answer visible before their eyes, yet many still moved toward the majority position. The studies reveal how social pressure can shape public agreement and why consensus should not automatically be treated as evidence of truth. Within discussions of appeal to popularity, Asch's work provides a concrete reminder that widespread belief may reflect conformity as well as accuracy, making independent evidence essential whenever truth claims are at stake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">Simply Psychology Asch Conformity Line Experiment</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line ExperimentMay 15, 2025 — On average, about one third (32%) of the participants who were placed in t...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6204883/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying compliance and acceptance through public</span><span class="citation-popover-snippet">by S Sowden · 2018 · Cited by 71 — Most measures of social conformity conflate compliance and acceptance. Compliance occurs when indiv...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -763,117 +763,117 @@ The enduring significance of the Asch conformity experiments lies in their simpl
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Asch conformity experiments  
-   Link: [https://en.wikipedia.org/wiki/Asch_conformity_experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments)  
+   Link: <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>power of social influence: A replication and extension of...by A Franzen · 2023 · Cited by 62 — We find an error rate of 33% for the sta...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCQuantifying compliance and acceptance through public  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6204883/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6204883/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Sowden · 2018 · Cited by 71 — Most measures of social conformity conflate compliance and acceptance. Compliance occurs when indiv...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6204883/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6204883/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Sowden · 2018 · Cited by 71 — Most measures of social conformity conflate compliance and acceptance. Compliance occurs when indiv...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: psychology.town  
    Title: asch conformity line length experiments  
-   Link: [https://psychology.town/social/asch-conformity-line-length-experiments/](https://psychology.town/social/asch-conformity-line-length-experiments/)  
+   Link: <a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: social influence, group pressure, a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2109.07946](https://arxiv.org/abs/2109.07946)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPopularity Bias Is Not Always Evil: Disentangling Benign and Harmful Bias for RecommendationSeptember 16, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2109.07946" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2109.07946</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularity Bias Is Not Always Evil: Disentangling Benign and Harmful Bias for RecommendationSeptember 16, 2021...</p></details>
    Published: September 16, 2021  
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Asch Conformity Experiment  
-   Link: [https://www.youtube.com/watch?v=FnT2FcuZaYI](https://www.youtube.com/watch?v=FnT2FcuZaYI)  
+   Link: <a href="https://www.youtube.com/watch?v=FnT2FcuZaYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FnT2FcuZaYI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solomon Asch - Conformity Experiment...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Solomon Asch  
-   Link: [https://www.youtube.com/watch?v=_IUlV5KI5B0](https://www.youtube.com/watch?v=_IUlV5KI5B0)  
+   Link: <a href="https://www.youtube.com/watch?v=_IUlV5KI5B0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_IUlV5KI5B0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch&#x27;s Conformity...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: simplypsychology.org  
    Title: Simply Psychology Asch Conformity Line Experiment  
-   Link: [https://www.simplypsychology.org/asch-conformity.html](https://www.simplypsychology.org/asch-conformity.html)  
+   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyAsch Conformity Line ExperimentMay 15, 2025 — On average, about one third (32%) of the participants who were placed in t...</p></details>
    Published: May 15, 2025  
 
 9. <a id="endnote-9"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/history/asch-conformity-experiments](https://www.ebsco.com/research-starters/history/asch-conformity-experiments)  
+   Link: <a href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/asch-conformity-experiments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch conformity experiments | History | Research StartersRemarkably, about 36.8% of the actual participants conformed to the incorrect gr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tutor2u.net  
-   Link: [https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOoqvGSIBDpMF7FGw6zyBmAlxP31Xqah-23fKRnA6Dred_4CWiGyU](https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOoqvGSIBDpMF7FGw6zyBmAlxP31Xqah-23fKRnA6Dred_4CWiGyU)  
+   Link: <a href="https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOoqvGSIBDpMF7FGw6zyBmAlxP31Xqah-23fKRnA6Dred_4CWiGyU" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOoqvGSIBDpMF7FGw6zyBmAlxP31Xqah-23fKRnA6Dred_4CWiGyU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch (1951) | Reference Library | Psychology3 Dec 2025 — Participants gave a wrong answer 37% of the time · On average, the real particip...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/gb/598898115/conformity-aschs-research-flash-cards/](https://quizlet.com/gb/598898115/conformity-aschs-research-flash-cards/)  
+   Link: <a href="https://quizlet.com/gb/598898115/conformity-aschs-research-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/598898115/conformity-aschs-research-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch&#x27;s research FlashcardsAsch had criticised Sherif&#x27;s study for being ambiguous. Thus he designed an experiment to see whether people wo...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: psychstory.co.uk  
-   Link: [https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity](https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity)  
+   Link: <a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYInstead of the public-response method used by Asch, Crutchfield employed a more private, anonymous re...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/489772786704436/posts/1175864018095306/](https://www.facebook.com/groups/489772786704436/posts/1175864018095306/)  
+   Link: <a href="https://www.facebook.com/groups/489772786704436/posts/1175864018095306/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/489772786704436/posts/1175864018095306/</a>  
 
 14. <a id="endnote-14"></a>
    Source: madeofmillions.com  
-   Link: [https://www.madeofmillions.com/articles/the-asch-conformity-study](https://www.madeofmillions.com/articles/the-asch-conformity-study)  
+   Link: <a href="https://www.madeofmillions.com/articles/the-asch-conformity-study" target="_blank" rel="noopener noreferrer nofollow">https://www.madeofmillions.com/articles/the-asch-conformity-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Asch Conformity StudyThe Asch Conformity Study Results. It was found that one-third of the true subjects matched incorrect lines. How...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: studymind.co.uk  
-   Link: [https://studymind.co.uk/notes/aschs-research/](https://studymind.co.uk/notes/aschs-research/)  
+   Link: <a href="https://studymind.co.uk/notes/aschs-research/" target="_blank" rel="noopener noreferrer nofollow">https://studymind.co.uk/notes/aschs-research/</a>  
 
 16. <a id="endnote-16"></a>
    Source: bps.org.uk  
    Title: aschs conformity study without confederates  
-   Link: [https://www.bps.org.uk/research-digest/aschs-conformity-study-without-confederates](https://www.bps.org.uk/research-digest/aschs-conformity-study-without-confederates)  
+   Link: <a href="https://www.bps.org.uk/research-digest/aschs-conformity-study-without-confederates" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/aschs-conformity-study-without-confederates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch&#x27;s &quot;conformity study&quot; without the confederates | BPS22 Oct 2010 — In the 1950s Solomon Asch found that when it came to making public...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: verywellmind.com  
    Title: the asch conformity experiments 2794996  
-   Link: [https://www.verywellmind.com/the-asch-conformity-experiments-2794996](https://www.verywellmind.com/the-asch-conformity-experiments-2794996)  
+   Link: <a href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/the-asch-conformity-experiments-2794996</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Asch Conformity Experiments26 Oct 2025 — After combining the trials, the results indicated that participants conformed to the incorre...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scribd.com  
    Title: 02 Asch s Research Autosaved pptx  
-   Link: [https://www.scribd.com/presentation/643965156/02-Asch-s-Research-Autosaved-pptx](https://www.scribd.com/presentation/643965156/02-Asch-s-Research-Autosaved-pptx)  
+   Link: <a href="https://www.scribd.com/presentation/643965156/02-Asch-s-Research-Autosaved-pptx" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/643965156/02-Asch-s-Research-Autosaved-pptx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch&#x27;s 1951 Conformity Experiment Insights | PDFAsch&#x27;s classic conformity experiment from the 1950s found that about one-third of partici...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: worldsupporter.org  
    Title: what aschs line experiment 100823  
-   Link: [https://www.worldsupporter.org/en/summary/what-aschs-line-experiment-100823](https://www.worldsupporter.org/en/summary/what-aschs-line-experiment-100823)  
+   Link: <a href="https://www.worldsupporter.org/en/summary/what-aschs-line-experiment-100823" target="_blank" rel="noopener noreferrer nofollow">https://www.worldsupporter.org/en/summary/what-aschs-line-experiment-100823</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Asch&#x27;s line experiment?Asch&#x27;s line experiment, conducted by Solomon Asch in the 1950s, is a classic study in social psychology th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: lesswrong.com  
    Title: aschs conformity experiment  
-   Link: [https://www.lesswrong.com/lw/m9/aschs_conformity_experiment](https://www.lesswrong.com/lw/m9/aschs_conformity_experiment)  
+   Link: <a href="https://www.lesswrong.com/lw/m9/aschs_conformity_experiment" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/lw/m9/aschs_conformity_experiment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch&#x27;s Conformity ExperimentDec 25, 2007 — Three-quarters of the subjects in Asch&#x27;s experiment gave a “conforming” answer at least once...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: structural-learning.com  
    Title: solomon asch theory  
-   Link: [https://www.structural-learning.com/post/solomon-asch-theory](https://www.structural-learning.com/post/solomon-asch-theory)  
+   Link: <a href="https://www.structural-learning.com/post/solomon-asch-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/solomon-asch-theory</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch Conformity Experiment: What Teachers Should Know30 Nov 2023 — Solomon Asch&#x27;s conformity experiments demonstrated that individuals of...</p></details>

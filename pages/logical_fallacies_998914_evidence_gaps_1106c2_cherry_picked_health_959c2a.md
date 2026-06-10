@@ -284,7 +284,7 @@ Health decisions are particularly vulnerable to this fallacy because people may 
 
 A single study can appear highly persuasive. It may report a statistically significant result, be published in a respected journal, or involve a striking improvement in patients. Yet one study rarely settles a health question on its own.
 
-Medical research often produces mixed findings. Small trials may show benefits that disappear in larger studies. Early observations may not survive replication. Different populations may respond differently to the same intervention. When communicators present only the favourable studies, they create the impression that the science is settled when it may actually be uncertain or divided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">Chapter 1</span><span class="citation-popover-snippet">CochraneChapter 1: IntroductionSystematic reviews aim to minimize bias by using explicit, systematic methods documented in advance with a...</span></span></span>
+Medical research often produces mixed findings. Small trials may show benefits that disappear in larger studies. Early observations may not survive replication. Different populations may respond differently to the same intervention. When communicators present only the favourable studies, they create the impression that the science is settled when it may actually be uncertain or divided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">Chapter 1</span><span class="citation-popover-snippet">Chapter 1: IntroductionSystematic reviews aim to minimize bias by using explicit, systematic methods documented in advance with a...</span></span></span>
 
 This can happen in several ways:
 
@@ -378,7 +378,7 @@ Honest summaries acknowledge disagreement and uncertainty.
 Small studies are often more vulnerable to chance findings and exaggerated effects.
 5. **Were the outcomes pre-specified?**
 
-Transparent reporting reduces the risk that only favourable results were selected for publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/389/bmj-2024-081123" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-title">bmj 2024 081123</span><span class="citation-popover-snippet">BMJCONSORT 2025 statement: updated guideline for reporting...by S Hopewell · 2025 · Cited by 1511 — The CONSORT 2025 statement consists...</span></span></span>
+Transparent reporting reduces the risk that only favourable results were selected for publication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/389/bmj-2024-081123" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-title">bmj 2024 081123</span><span class="citation-popover-snippet">CONSORT 2025 statement: updated guideline for reporting...by S Hopewell · 2025 · Cited by 1511 — The CONSORT 2025 statement consists...</span></span></span>
 6. **Who benefits from the claim?**
 
 Commercial incentives do not automatically invalidate evidence, but they increase the importance of examining the complete research record.
@@ -819,91 +819,91 @@ The logical fallacy emerges when a conclusion is presented as evidence-based eve
 1. <a id="endnote-1"></a>
    Source: cochrane.org  
    Title: Chapter 1  
-   Link: [https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CochraneChapter 1: IntroductionSystematic reviews aim to minimize bias by using explicit, systematic methods documented in advance with a...</p></details>
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 1: IntroductionSystematic reviews aim to minimize bias by using explicit, systematic methods documented in advance with a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-07](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-07)  
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-07" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-07</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>eview, covering both biases in the results of included studies and biases in the...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cochrane.org  
-   Link: [https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-13](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-13)  
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-13" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-13</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-analyses are at risk of bias due to missing evidence when results of some...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1468](https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1468)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1468" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1468</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryInvestigating and dealing with publication bias and other...by MJ Page · 2021 · Cited by 296 — In this article, we s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFalse and misleading health-related claims in food  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Muela-Molina · 2021 · Cited by 36 — The aim of this research is to analyse the presence of false and misleading claims in food su...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11082796/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Muela-Molina · 2021 · Cited by 36 — The aim of this research is to analyse the presence of false and misleading claims in food su...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13668-013-0057-z](https://link.springer.com/article/10.1007/s13668-013-0057-z)  
+   Link: <a href="https://link.springer.com/article/10.1007/s13668-013-0057-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13668-013-0057-z</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing of Dietary Supplements: A Canadian Perspectiveby NJ Temple · 2013 · Cited by 29 — This paper presents an overview of commonly-u...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCToo Little, Too Late: Ineffective Regulation of Dietary  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby RR Starr · 2015 · Cited by 261 — Moreover, they have applied a higher standard for demonstrating that a claim is misleading, arguin...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4330859/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by RR Starr · 2015 · Cited by 261 — Moreover, they have applied a higher standard for demonstrating that a claim is misleading, arguin...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAssessment of publication bias and outcome reporting  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6992172/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6992172/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby AA Ayorinde · 2020 · Cited by 128 — We found that 43% (n = 85) of the reviews mentioned publication bias and 10% (n = 19) formally...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6992172/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6992172/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AA Ayorinde · 2020 · Cited by 128 — We found that 43% (n = 85) of the reviews mentioned publication bias and 10% (n = 19) formally...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10683727/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10683727/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10683727/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10683727/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/9/9/e031138](https://bmjopen.bmj.com/content/9/9/e031138)  
+   Link: <a href="https://bmjopen.bmj.com/content/9/9/e031138" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/9/9/e031138</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ OpenSelective reporting bias in randomised controlled trials...by EKC Wong · 2019 · Cited by 32 — The most common discrepancy was no...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bmj.com  
    Title: bmj 2024 081123  
-   Link: [https://www.bmj.com/content/389/bmj-2024-081123](https://www.bmj.com/content/389/bmj-2024-081123)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJCONSORT 2025 statement: updated guideline for reporting...by S Hopewell · 2025 · Cited by 1511 — The CONSORT 2025 statement consists...</p></details>
+   Link: <a href="https://www.bmj.com/content/389/bmj-2024-081123" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/389/bmj-2024-081123</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2025 statement: updated guideline for reporting...by S Hopewell · 2025 · Cited by 1511 — The CONSORT 2025 statement consists...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: health.com  
    Title: Study: Majority of Fish Oil Supplements Make Unfounded Health Claims  
-   Link: [https://www.health.com/fish-oil-supplements-for-heart-health-7852475](https://www.health.com/fish-oil-supplements-for-heart-health-7852475)  
+   Link: <a href="https://www.health.com/fish-oil-supplements-for-heart-health-7852475" target="_blank" rel="noopener noreferrer nofollow">https://www.health.com/fish-oil-supplements-for-heart-health-7852475</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>make health claims not supported by scientific evidence, particularly regarding heart health. Conducted by researchers from UT Southweste...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: methods.cochrane.org  
    Title: 2010 SMG training cardiff day2 session3 dwan altman  
-   Link: [https://methods.cochrane.org/statistics/sites/methods.cochrane.org.statistics/files/uploads/SMG_training_course_cardiff/2010_SMG_training_cardiff_day2_session3_dwan_altman.pdf](https://methods.cochrane.org/statistics/sites/methods.cochrane.org.statistics/files/uploads/SMG_training_course_cardiff/2010_SMG_training_cardiff_day2_session3_dwan_altman.pdf)  
+   Link: <a href="https://methods.cochrane.org/statistics/sites/methods.cochrane.org.statistics/files/uploads/SMG_training_course_cardiff/2010_SMG_training_cardiff_day2_session3_dwan_altman.pdf" target="_blank" rel="noopener noreferrer nofollow">https://methods.cochrane.org/statistics/sites/methods.cochrane.org.statistics/files/uploads/SMG_training_course_cardiff/2010_SMG_training_cardiff_day2_session3_dwan_altman.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome Reporting(iii) Better reporting - CONSORT statement, submission of protocol with manuscript... Outcome reporting bias in randomi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: en.testingtreatments.org  
-   Link: [https://en.testingtreatments.org/book/8-assessing-relevant-reliable-evidence/reducing-biases-in-systematic-reviews/](https://en.testingtreatments.org/book/8-assessing-relevant-reliable-evidence/reducing-biases-in-systematic-reviews/)  
+   Link: <a href="https://en.testingtreatments.org/book/8-assessing-relevant-reliable-evidence/reducing-biases-in-systematic-reviews/" target="_blank" rel="noopener noreferrer nofollow">https://en.testingtreatments.org/book/8-assessing-relevant-reliable-evidence/reducing-biases-in-systematic-reviews/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EN Testing Treatments interactiveReducing biases in systematic reviewsFor example, researchers can simply &#x27;cherry pick&#x27; those studies whi...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission Health Products Compliance Guidance  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance GuidanceDecember 20, 2022 — 20 Dec 2022 — This document provides guidance from FTC sta...</p></details>
    Published: December 20, 2022  
 
 16. <a id="endnote-16"></a>
    Source: washingtonpost.com  
    Title: The Washington Post RFK Jr  
-   Link: [https://www.washingtonpost.com/health/2026/02/17/keto-diet-schizophrenia-rfk-jr/](https://www.washingtonpost.com/health/2026/02/17/keto-diet-schizophrenia-rfk-jr/)  
+   Link: <a href="https://www.washingtonpost.com/health/2026/02/17/keto-diet-schizophrenia-rfk-jr/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/health/2026/02/17/keto-diet-schizophrenia-rfk-jr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>claimed that keto diets cured schizophrenia. Here&#x27;s what science says.February 17, 2026 — Health Secretary Robert F. Kennedy Jr. has clai...</p></details>
    Published: February 17, 2026  
 
@@ -911,50 +911,50 @@ The logical fallacy emerges when a conclusion is presented as evidence-based eve
 
 17. <a id="endnote-17"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/214582/1/Selective%20outcome%20reporting%20in%20trials%20of%20behavioural%20health%20interventions%20in%20health%20psychology%20and%20behavioural%20medicine%20journals%20%20a%20review.pdf](https://eprints.whiterose.ac.uk/id/eprint/214582/1/Selective%20outcome%20reporting%20in%20trials%20of%20behavioural%20health%20interventions%20in%20health%20psychology%20and%20behavioural%20medicine%20journals%20%20a%20review.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/214582/1/Selective%20outcome%20reporting%20in%20trials%20of%20behavioural%20health%20interventions%20in%20health%20psychology%20and%20behavioural%20medicine%20journals%20%20a%20review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/214582/1/Selective%20outcome%20reporting%20in%20trials%20of%20behavioural%20health%20interventions%20in%20health%20psychology%20and%20behavioural%20medicine%20journals%20%20a%20review.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>outcome reporting in trials of behavioural health...by K Matvienko-Sikar · 2024 · Cited by 7 — While all reviewed journals instruct auth...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cov.com  
-   Link: [https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide](https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide)  
+   Link: <a href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — The new guidance broadly applies to all health-related claims, as opp...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/272891129_Influence_of_%27soft%27_versus_%27scientific%27_health_information_framing_and_contradictory_information_on_consumers%27_health_inferences_and_attitudes_towards_a_food_supplement](https://www.researchgate.net/publication/272891129_Influence_of_%27soft%27_versus_%27scientific%27_health_information_framing_and_contradictory_information_on_consumers%27_health_inferences_and_attitudes_towards_a_food_supplement)  
+   Link: <a href="https://www.researchgate.net/publication/272891129_Influence_of_%27soft%27_versus_%27scientific%27_health_information_framing_and_contradictory_information_on_consumers%27_health_inferences_and_attitudes_towards_a_food_supplement" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272891129_Influence_of_%27soft%27_versus_%27scientific%27_health_information_framing_and_contradictory_information_on_consumers%27_health_inferences_and_attitudes_towards_a_food_supplement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e effects for these claims on consumers&#x27; preferences and purchase behavior [9][10] [...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pearl.plymouth.ac.uk  
-   Link: [https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1348&context=pds-research](https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1348&context=pds-research)  
+   Link: <a href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1348&amp;context=pds-research" target="_blank" rel="noopener noreferrer nofollow">https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1348&amp;context=pds-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of bias, publication bias, and reasons for rating up certaintyby G Guyatt · 2025 · Cited by 52 — To decide whether to rate down certainty...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/lDojKdX4/](https://ouci.dntb.gov.ua/en/works/lDojKdX4/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/lDojKdX4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/lDojKdX4/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the results of previous studies have been contradictory regarding...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: equator-network.org  
-   Link: [https://www.equator-network.org/library/reporting-guidelines-under-development/reporting-guidelines-under-development-for-clinical-trials/](https://www.equator-network.org/library/reporting-guidelines-under-development/reporting-guidelines-under-development-for-clinical-trials/)  
+   Link: <a href="https://www.equator-network.org/library/reporting-guidelines-under-development/reporting-guidelines-under-development-for-clinical-trials/" target="_blank" rel="noopener noreferrer nofollow">https://www.equator-network.org/library/reporting-guidelines-under-development/reporting-guidelines-under-development-for-clinical-trials/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting guidelines under development for clinical trialsThe 2022 CONSORT update will provide guidance for reporting all randomized, con...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: journals.stfm.org  
-   Link: [https://journals.stfm.org/primer/2025/venkatesh-2024-0129/](https://journals.stfm.org/primer/2025/venkatesh-2024-0129/)  
+   Link: <a href="https://journals.stfm.org/primer/2025/venkatesh-2024-0129/" target="_blank" rel="noopener noreferrer nofollow">https://journals.stfm.org/primer/2025/venkatesh-2024-0129/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Food Packaging Health Claims Depict Healthiness or...by S Venkatesh · 2025 — In our sample, packaging health claims did not consistently...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cebm.ox.ac.uk  
-   Link: [https://www.cebm.ox.ac.uk/news/views/outcome-reporting-bias-if-you-say-youre-going-to-do-something-do-it](https://www.cebm.ox.ac.uk/news/views/outcome-reporting-bias-if-you-say-youre-going-to-do-something-do-it)  
+   Link: <a href="https://www.cebm.ox.ac.uk/news/views/outcome-reporting-bias-if-you-say-youre-going-to-do-something-do-it" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.ox.ac.uk/news/views/outcome-reporting-bias-if-you-say-youre-going-to-do-something-do-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Outcome reporting bias: if you say you&#x27;re going to do...21 Dec 2015 — However, although many journals endorse the CONSORT statement, not...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405457726000422](https://www.sciencedirect.com/science/article/pii/S2405457726000422)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405457726000422" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405457726000422</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring nutritional myths and [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;): Impact and...by M Capocasa · 2026 · Cited by 4 — Misleading dietary claims can influence peop...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2367613](https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2367613)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2367613" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2367613</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Selective outcome reporting in trials of behavioural health...by K Matvienko-Sikar · 2024 · Cited by 7 — Accuracy in detecting inadequat...</p></details>

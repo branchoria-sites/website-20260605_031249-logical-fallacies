@@ -1058,189 +1058,189 @@ The best antidote to the false dilemma is a more exact question: “Which rule, 
 1. <a id="endnote-1"></a>
    Source: owl.excelsior.edu  
    Title: OWLFalse Dilemma Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLFalse Dilemma Fallacy - Excelsior OWLA false dilemma is a logical fallacy that presents only two options or sides to an issu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: mobile phones in schools  
-   Link: [https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools](https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools)  
+   Link: <a href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: creating a mobile phone free environment school case studies  
-   Link: [https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies](https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies)  
+   Link: <a href="https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies</a>  
 
 4. <a id="endnote-4"></a>
    Source: educationinspection.blog.gov.uk  
-   Link: [https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/](https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/)  
+   Link: <a href="https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/" target="_blank" rel="noopener noreferrer nofollow">https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/</a>  
 
 5. <a id="endnote-5"></a>
    Source: unesco.org  
    Title: smartphones school only when they clearly support learning  
-   Link: [https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning](https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning)  
+   Link: <a href="https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning</a>  
 
 6. <a id="endnote-6"></a>
    Source: lpbeland.com  
    Title: LP Beland  
-   Link: [https://www.lpbeland.com/uploads/7/8/7/5/7875420/lpblabour_1-s2.0-s0927537116300136-main.pdf](https://www.lpbeland.com/uploads/7/8/7/5/7875420/lpblabour_1-s2.0-s0927537116300136-main.pdf)  
+   Link: <a href="https://www.lpbeland.com/uploads/7/8/7/5/7875420/lpblabour_1-s2.0-s0927537116300136-main.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lpbeland.com/uploads/7/8/7/5/7875420/lpblabour_1-s2.0-s0927537116300136-main.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate Evidence for and against banning mobile phones in schools  
-   Link: [https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review](https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review)  
+   Link: <a href="https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12911762/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12911762/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12911762/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12911762/</a>  
 
 9. <a id="endnote-9"></a>
    Source: bmjgroup.com  
-   Link: [https://bmjgroup.com/school-restrictive-smartphone-policies-may-save-a-small-amount-of-money-by-reducing-staff-costs/](https://bmjgroup.com/school-restrictive-smartphone-policies-may-save-a-small-amount-of-money-by-reducing-staff-costs/)  
+   Link: <a href="https://bmjgroup.com/school-restrictive-smartphone-policies-may-save-a-small-amount-of-money-by-reducing-staff-costs/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/school-restrictive-smartphone-policies-may-save-a-small-amount-of-money-by-reducing-staff-costs/</a>  
 
 10. <a id="endnote-10"></a>
    Source: unesco.org  
    Title: phone bans schools are spreading worldwide policy debate rages  
-   Link: [https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages](https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages)  
+   Link: <a href="https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages</a>  
 
 11. <a id="endnote-11"></a>
    Source: gem-report-2023.unesco.org  
    Title: technology in education  
-   Link: [https://gem-report-2023.unesco.org/technology-in-education/](https://gem-report-2023.unesco.org/technology-in-education/)  
+   Link: <a href="https://gem-report-2023.unesco.org/technology-in-education/" target="_blank" rel="noopener noreferrer nofollow">https://gem-report-2023.unesco.org/technology-in-education/</a>  
 
 12. <a id="endnote-12"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/gem-report/en/publication/technology](https://www.unesco.org/gem-report/en/publication/technology)  
+   Link: <a href="https://www.unesco.org/gem-report/en/publication/technology" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/gem-report/en/publication/technology</a>  
 
 13. <a id="endnote-13"></a>
    Source: gem-report-2023.unesco.org  
-   Link: [https://gem-report-2023.unesco.org/](https://gem-report-2023.unesco.org/)  
+   Link: <a href="https://gem-report-2023.unesco.org/" target="_blank" rel="noopener noreferrer nofollow">https://gem-report-2023.unesco.org/</a>  
 
 14. <a id="endnote-14"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/390/bmj.r1729](https://www.bmj.com/content/390/bmj.r1729)  
+   Link: <a href="https://www.bmj.com/content/390/bmj.r1729" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/390/bmj.r1729</a>  
 
 15. <a id="endnote-15"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/13/7/e075832](https://bmjopen.bmj.com/content/13/7/e075832)  
+   Link: <a href="https://bmjopen.bmj.com/content/13/7/e075832" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/13/7/e075832</a>  
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391399909_To_Ban_or_Not_to_Ban_A_Rapid_Review_on_the_Impact_of_Smartphone_Bans_in_Schools_on_Social_Well-Being_and_Academic_Performance](https://www.researchgate.net/publication/391399909_To_Ban_or_Not_to_Ban_A_Rapid_Review_on_the_Impact_of_Smartphone_Bans_in_Schools_on_Social_Well-Being_and_Academic_Performance)  
+   Link: <a href="https://www.researchgate.net/publication/391399909_To_Ban_or_Not_to_Ban_A_Rapid_Review_on_the_Impact_of_Smartphone_Bans_in_Schools_on_Social_Well-Being_and_Academic_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391399909_To_Ban_or_Not_to_Ban_A_Rapid_Review_on_the_Impact_of_Smartphone_Bans_in_Schools_on_Social_Well-Being_and_Academic_Performance</a>  
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 400592169 Mobile phone bans in schools across the EU ENESET Analytical report  
-   Link: [https://www.researchgate.net/publication/400592169_Mobile_phone_bans_in_schools_across_the_EU_ENESET_Analytical_report](https://www.researchgate.net/publication/400592169_Mobile_phone_bans_in_schools_across_the_EU_ENESET_Analytical_report)  
+   Link: <a href="https://www.researchgate.net/publication/400592169_Mobile_phone_bans_in_schools_across_the_EU_ENESET_Analytical_report" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400592169_Mobile_phone_bans_in_schools_across_the_EU_ENESET_Analytical_report</a>  
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400639084_Health_economics_analysis_of_restrictive_school_smartphone_policies_in_secondary_schools_in_England_SMART_Schools](https://www.researchgate.net/publication/400639084_Health_economics_analysis_of_restrictive_school_smartphone_policies_in_secondary_schools_in_England_SMART_Schools)  
+   Link: <a href="https://www.researchgate.net/publication/400639084_Health_economics_analysis_of_restrictive_school_smartphone_policies_in_secondary_schools_in_England_SMART_Schools" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400639084_Health_economics_analysis_of_restrictive_school_smartphone_policies_in_secondary_schools_in_England_SMART_Schools</a>  
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 301353144 Ill Communication Technology distraction student performance  
-   Link: [https://www.researchgate.net/publication/301353144_Ill_Communication_Technology_distraction_student_performance](https://www.researchgate.net/publication/301353144_Ill_Communication_Technology_distraction_student_performance)  
+   Link: <a href="https://www.researchgate.net/publication/301353144_Ill_Communication_Technology_distraction_student_performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301353144_Ill_Communication_Technology_distraction_student_performance</a>  
 
 20. <a id="endnote-20"></a>
    Source: cheshire-pcc.gov.uk  
-   Link: [https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/](https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/)  
+   Link: <a href="https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/</a>  
 
 21. <a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/20556365241270394](https://journals.sagepub.com/doi/abs/10.1177/20556365241270394)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/20556365241270394" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/20556365241270394</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When debating the consequences of...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: eurydice.eacea.ec.europa.eu  
    Title: netherlands ban mobile phones classroom  
-   Link: [https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom](https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom)  
+   Link: <a href="https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom" target="_blank" rel="noopener noreferrer nofollow">https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom</a>  
 
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england](https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england)  
+   Link: <a href="https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2024/feb/19/ministers-confirm-plan-to-ban-use-of-mobile-phones-in-schools-in-england</a>  
 
 24. <a id="endnote-24"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext</a>  
 
 25. <a id="endnote-25"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/](https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/)  
+   Link: <a href="https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially, schools saw a rise in disciplinary actions and a dip in student well-being, likely tied to resistance against new rules and in...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/[politics](https://www.theguardian.com/[politics)  
+   Link: <a href="https://www.theguardian.com/[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/[politics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite these results, the study’s authors caution against abandoning phone bans altogether, arguing that reductions in phone use could l...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: theguardian.com  
    Title: The Guardian School phone policies in England a 'huge drain' on staff resources  
-   Link: [https://www.theguardian.com/education/2026/feb/10/school-phone-policies-drain-resources-england-study](https://www.theguardian.com/education/2026/feb/10/school-phone-policies-drain-resources-england-study)  
+   Link: <a href="https://www.theguardian.com/education/2026/feb/10/school-phone-policies-drain-resources-england-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2026/feb/10/school-phone-policies-drain-resources-england-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK government recently issued guidance advocating for phone-free schools, and the teaching union NASUWT is calling for a statutory ma...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: False dilemma  
-   Link: [https://en.wikipedia.org/wiki/False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_dilemma</a>  
 
 29. <a id="endnote-29"></a>
    Source: teachermagazine.com  
    Title: unesco calls for smartphone ban in schools  
-   Link: [https://www.teachermagazine.com/au_en/articles/unesco-calls-for-smartphone-ban-in-schools](https://www.teachermagazine.com/au_en/articles/unesco-calls-for-smartphone-ban-in-schools)  
+   Link: <a href="https://www.teachermagazine.com/au_en/articles/unesco-calls-for-smartphone-ban-in-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.teachermagazine.com/au_en/articles/unesco-calls-for-smartphone-ban-in-schools</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: UK to Ban Phones in Schools: Will It Really Work? | Connecting The Dots  
-   Link: [https://www.youtube.com/watch?v=nCye78Gy2OQ](https://www.youtube.com/watch?v=nCye78Gy2OQ)  
+   Link: <a href="https://www.youtube.com/watch?v=nCye78Gy2OQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nCye78Gy2OQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video explores the complex data, behavioral trade-offs, and nuanced policy implementation details behind locking away student device...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: digital-futures-for-children.net  
    Title: Smartphone policies in schools  
-   Link: [https://www.digital-futures-for-children.net/our-work/smartphone-policies](https://www.digital-futures-for-children.net/our-work/smartphone-policies)  
+   Link: <a href="https://www.digital-futures-for-children.net/our-work/smartphone-policies" target="_blank" rel="noopener noreferrer nofollow">https://www.digital-futures-for-children.net/our-work/smartphone-policies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LSESeveral studies show benefits for students&#x27; academic performance when smartphone use is restricted, especially for less advantaged chi...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Debating Matters: 'Smartphones should be banned in the classroom'  
-   Link: [https://www.youtube.com/watch?v=XKSZqb21Ysc](https://www.youtube.com/watch?v=XKSZqb21Ysc)  
+   Link: <a href="https://www.youtube.com/watch?v=XKSZqb21Ysc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XKSZqb21Ysc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happens When Schools Lock Away Phones? Justin Wolfers Explains...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Should Mobile Phones Be Banned in UK Schools? 20 Arguments For & Against  
-   Link: [https://www.youtube.com/watch?v=vcSWFQYzzT8](https://www.youtube.com/watch?v=vcSWFQYzzT8)  
+   Link: <a href="https://www.youtube.com/watch?v=vcSWFQYzzT8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vcSWFQYzzT8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK to Ban Phones in Schools: Will It Really Work? | Connecting The Dots...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: What Really Happens When Schools Lock Away Phones? Justin Wolfers Explains  
-   Link: [https://www.youtube.com/watch?v=-RFSbAJmVkY](https://www.youtube.com/watch?v=-RFSbAJmVkY)  
+   Link: <a href="https://www.youtube.com/watch?v=-RFSbAJmVkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-RFSbAJmVkY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Devices in the classroom? The debate over phones in school...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en.html](https://www.oecd.org/en.html)  
+   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Devices in the classroom? The debate over phones in school  
-   Link: [https://www.youtube.com/watch?v=ICEkzpavdlU](https://www.youtube.com/watch?v=ICEkzpavdlU)  
+   Link: <a href="https://www.youtube.com/watch?v=ICEkzpavdlU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ICEkzpavdlU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Should Mobile Phones Be Banned in UK Schools? 20 Arguments For &amp; Against...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: world-education-blog.org  
-   Link: [https://world-education-blog.org/2025/12/15/are-phone-bans-working/](https://world-education-blog.org/2025/12/15/are-phone-bans-working/)  
+   Link: <a href="https://world-education-blog.org/2025/12/15/are-phone-bans-working/" target="_blank" rel="noopener noreferrer nofollow">https://world-education-blog.org/2025/12/15/are-phone-bans-working/</a>  
 
 38. <a id="endnote-38"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Banning-mobile-phones-in-schools%3A-evidence-from-in-Beneito-Vicente-Chirivella/163514815cc34fa7806a02dc694a998fa2da8e21](https://www.semanticscholar.org/paper/Banning-mobile-phones-in-schools%3A-evidence-from-in-Beneito-Vicente-Chirivella/163514815cc34fa7806a02dc694a998fa2da8e21)  
+   Link: <a href="https://www.semanticscholar.org/paper/Banning-mobile-phones-in-schools%3A-evidence-from-in-Beneito-Vicente-Chirivella/163514815cc34fa7806a02dc694a998fa2da8e21" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Banning-mobile-phones-in-schools%3A-evidence-from-in-Beneito-Vicente-Chirivella/163514815cc34fa7806a02dc694a998fa2da8e21</a>  
 
 39. <a id="endnote-39"></a>
    Source: pastpaperhero.com  
-   Link: [https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy](https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy)  
+   Link: <a href="https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy</a>  

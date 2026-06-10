@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-formal/
 description: Focused pages that expand on Formal Logic.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_formal_fallacies_6c776a
 parent_title: Formal Logic | Logical Fallacies

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-false/
 description: Focused pages that expand on False Dilemma.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_false_dilemmas_827e99
 parent_title: False Dilemma | Logical Fallacies

@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:37:21'
 parent_title: Fallacy Lab
 parent_permalink: /logical-fallacies/
 parent_nav_short_title: Fallacy Lab
@@ -492,7 +493,6 @@ next_link:
   permalink: /debate/
   short_title: Debate
   heading_title: How to Spot Fallacies in Debate
-date: '2026-06-05 01:37:21 '
 header:
   og_image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-overview-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-overview.webp
@@ -1116,183 +1116,183 @@ A deadline does not stop being a deadline because an exception exists. It stops 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — The fallacy of the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slippery.pdf](https://www2.law.ucla.edu/Volokh/slippery.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe [Mechanisms](&amp;#123;&amp;#123; &#x27;mechanisms/&#x27; | relative_url &amp;#125;&amp;#125;) of the Slippery SlopeNovember 26, 2012 — by E Volokh — erally Eric Lode, Slippery Slope Arguments and Le...</p></details>
    Published: November 26, 2012  
 
 3. <a id="endnote-3"></a>
    Source: law.virginia.edu  
    Title: frederick schauer  
-   Link: [https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271](https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271)  
+   Link: <a href="https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271" target="_blank" rel="noopener noreferrer nofollow">https://www.law.virginia.edu/scholarship/publication/frederick-schauer/651271</a>  
 
 4. <a id="endnote-4"></a>
    Source: secretariat.leeds.ac.uk  
    Title: Requesting Consideration for Mitigating Circumstances  
-   Link: [https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf](https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf)  
+   Link: <a href="https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2021/entries/logic-informal/](https://plato.stanford.edu/archives/fall2021/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2021/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2021/entries/logic-informal/</a>  
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall1997/entries/logic-informal/](https://plato.stanford.edu/archives/fall1997/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
 
 8. <a id="endnote-8"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slipperyfar.pdf](https://www2.law.ucla.edu/Volokh/slipperyfar.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperyfar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyfar.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Can you outsmart the slippery slope fallacy?  
-   Link: [https://www.youtube.com/watch?v=Qt4f7QrfRRc](https://www.youtube.com/watch?v=Qt4f7QrfRRc)  
+   Link: <a href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qt4f7QrfRRc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: [https://www.youtube.com/watch?v=yxylBjtzMNQ](https://www.youtube.com/watch?v=yxylBjtzMNQ)  
+   Link: <a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterSlippery slope. Definition: The arguer claims that a sort of chain reaction, usually endi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uclalawreview.org  
-   Link: [https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/](https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/)  
+   Link: <a href="https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/</a>  
 
 13. <a id="endnote-13"></a>
    Source: brighton.ac.uk  
-   Link: [https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx](https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx)  
+   Link: <a href="https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.brighton.ac.uk/brighton-students/your-learning/problems-with-your-course/difficulties-with-assessments.aspx</a>  
 
 14. <a id="endnote-14"></a>
    Source: citystgeorges.ac.uk  
    Title: City St George's, University of London Extensions and Late Submissions Policy  
-   Link: [https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf](https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf)  
+   Link: <a href="https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.citystgeorges.ac.uk/__data/assets/pdf_file/0004/893020/Extensions-and-Late-Submissions-Policy.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: uos.ac.uk  
    Title: University of Suffolk Additional Time due to Extenuating Circumstances Policy  
-   Link: [https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf](https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf)  
+   Link: <a href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: bath.ac.uk  
-   Link: [https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/](https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/)  
+   Link: <a href="https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/" target="_blank" rel="noopener noreferrer nofollow">https://www.bath.ac.uk/guides/reasons-and-evidence-for-requesting-a-coursework-extension-or-imc/</a>  
 
 17. <a id="endnote-17"></a>
    Source: intranet.birmingham.ac.uk  
-   Link: [https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx](https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx)  
+   Link: <a href="https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx" target="_blank" rel="noopener noreferrer nofollow">https://intranet.birmingham.ac.uk/student/academic-support/guidance-on-coursework-extensions-for-ug-and-pgt-students.aspx</a>  
 
 18. <a id="endnote-18"></a>
    Source: reading.ac.uk  
-   Link: [https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs](https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs)  
+   Link: <a href="https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.ac.uk/essentials/The-Important-Stuff/Rules-and-regulations/EC-Self-Cert-FAQs</a>  
 
 19. <a id="endnote-19"></a>
    Source: bathspa.ac.uk  
-   Link: [https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/](https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/)  
+   Link: <a href="https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/" target="_blank" rel="noopener noreferrer nofollow">https://www.bathspa.ac.uk/about-us/governance/policies/exceptional-circumstances/</a>  
 
 20. <a id="endnote-20"></a>
    Source: scribbr.com  
    Title: slippery slope fallacy  
-   Link: [https://www.scribbr.com/fallacies/slippery-slope-fallacy/](https://www.scribbr.com/fallacies/slippery-slope-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/slippery-slope-fallacy/</a>  
 
 21. <a id="endnote-21"></a>
    Source: scribbr.co.uk  
    Title: Slippery Slope Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/](https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/</a>  
 
 22. <a id="endnote-22"></a>
    Source: uclalawreview.org  
-   Link: [https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf](https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf)  
+   Link: <a href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Slippery slope  
-   Link: [https://en.wikipedia.org/wiki/Slippery_slope](https://en.wikipedia.org/wiki/Slippery_slope)  
+   Link: <a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
 25. <a id="endnote-25"></a>
    Source: registryservices.ed.ac.uk  
    Title: coursework extensions  
-   Link: [https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions](https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions)  
+   Link: <a href="https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions" target="_blank" rel="noopener noreferrer nofollow">https://registryservices.ed.ac.uk/exceptional-circumstances/coursework-extensions</a>  
 
 26. <a id="endnote-26"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: le.ac.uk  
-   Link: [https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification](https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification)  
+   Link: <a href="https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification" target="_blank" rel="noopener noreferrer nofollow">https://le.ac.uk/policies/regulations/mitigating-circumstances/self-certification</a>  
 
 28. <a id="endnote-28"></a>
    Source: study.com  
    Title: Slippery Slope Fallacy | Meaning & Examples  
-   Link: [https://study.com/academy/lesson/video/slippery-slope-fallacy-definition-examples.html](https://study.com/academy/lesson/video/slippery-slope-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/video/slippery-slope-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/slippery-slope-fallacy-definition-examples.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: csjn.gov.ar  
-   Link: [https://www.csjn.gov.ar/pubextrs/verIndice?fascic=2003-51-02&nm=397&tm=PP](https://www.csjn.gov.ar/pubextrs/verIndice?fascic=2003-51-02&nm=397&tm=PP)  
+   Link: <a href="https://www.csjn.gov.ar/pubextrs/verIndice?fascic=2003-51-02&amp;nm=397&amp;tm=PP" target="_blank" rel="noopener noreferrer nofollow">https://www.csjn.gov.ar/pubextrs/verIndice?fascic=2003-51-02&amp;nm=397&amp;tm=PP</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Slippery Slope Fallacy is an informal fallacy that has the following form: Step 1 often l...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Slippery Slope Fallacy (Definition & Easiest Explanation)  
-   Link: [https://www.youtube.com/watch?v=6nhA_i4r_-Q](https://www.youtube.com/watch?v=6nhA_i4r_-Q)  
+   Link: <a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6nhA_i4r_-Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
    Title: Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change  
-   Link: [https://www.youtube.com/watch?v=ar39s8NQXUM](https://www.youtube.com/watch?v=ar39s8NQXUM)  
+   Link: <a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ar39s8NQXUM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Logic: Conquer the Slippery Slope Fallacy...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: bppassets.s3.eu-west-1.amazonaws.com  
-   Link: [https://bppassets.s3.eu-west-1.amazonaws.com/public/assets/pdf/governance-finance/upp/20.%2BExtensions%2Band%2BExtenuating%2BCircumstances%2BPolicy.pdf](https://bppassets.s3.eu-west-1.amazonaws.com/public/assets/pdf/governance-finance/upp/20.%2BExtensions%2Band%2BExtenuating%2BCircumstances%2BPolicy.pdf)  
+   Link: <a href="https://bppassets.s3.eu-west-1.amazonaws.com/public/assets/pdf/governance-finance/upp/20.%2BExtensions%2Band%2BExtenuating%2BCircumstances%2BPolicy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bppassets.s3.eu-west-1.amazonaws.com/public/assets/pdf/governance-finance/upp/20.%2BExtensions%2Band%2BExtenuating%2BCircumstances%2BPolicy.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: mmu.ac.uk  
-   Link: [https://www.mmu.ac.uk/legal/policies/assessment-extensions-procedure-24-25](https://www.mmu.ac.uk/legal/policies/assessment-extensions-procedure-24-25)  
+   Link: <a href="https://www.mmu.ac.uk/legal/policies/assessment-extensions-procedure-24-25" target="_blank" rel="noopener noreferrer nofollow">https://www.mmu.ac.uk/legal/policies/assessment-extensions-procedure-24-25</a>  
 
 35. <a id="endnote-35"></a>
    Source: bath.ac.uk  
-   Link: [https://www.bath.ac.uk/guides/coursework-extensions/](https://www.bath.ac.uk/guides/coursework-extensions/)  
+   Link: <a href="https://www.bath.ac.uk/guides/coursework-extensions/" target="_blank" rel="noopener noreferrer nofollow">https://www.bath.ac.uk/guides/coursework-extensions/</a>  
 
 36. <a id="endnote-36"></a>
    Source: yorksj.ac.uk  
-   Link: [https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf](https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf)  
+   Link: <a href="https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: yorksu.org  
-   Link: [https://yorksu.org/advice-support/support-a-z/exceptional-circumstances](https://yorksu.org/advice-support/support-a-z/exceptional-circumstances)  
+   Link: <a href="https://yorksu.org/advice-support/support-a-z/exceptional-circumstances" target="_blank" rel="noopener noreferrer nofollow">https://yorksu.org/advice-support/support-a-z/exceptional-circumstances</a>  
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/NeutralPolitics/comments/1fatu5/is_the_slippery_slope_argument_a_fallacy_or_is_it/](https://www.reddit.com/r/NeutralPolitics/comments/1fatu5/is_the_slippery_slope_argument_a_fallacy_or_is_it/)  
+   Link: <a href="https://www.reddit.com/r/NeutralPolitics/comments/1fatu5/is_the_slippery_slope_argument_a_fallacy_or_is_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/NeutralPolitics/comments/1fatu5/is_the_slippery_slope_argument_a_fallacy_or_is_it/</a>  
 
 39. <a id="endnote-39"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf](https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf)  
+   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  

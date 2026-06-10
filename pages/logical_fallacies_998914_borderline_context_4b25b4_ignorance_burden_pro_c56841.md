@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignoran
 
 ## Introduction
 
-An [appeal to ignorance]({{ 'ignorance/' | relative_url }}) normally argues that a claim is true because it has not been proven false, or false because it has not been proven true. In most contexts, that is weak reasoning. A lack of evidence does not automatically establish a conclusion. However, legal systems create an important exception that often confuses discussions of this fallacy: when one side carries the burden of proof, failure to provide sufficient evidence can be decisive. The key point is that courts do not conclude that the opposite claim has been proven true; they conclude that the party with the burden of proof has failed to justify its claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (law</span><span class="citation-popover-snippet">Burden of proof (law</span></span></span>
+An appeal to [ignorance]({{ 'ignorance/' | relative_url }}) normally argues that a claim is true because it has not been proven false, or false because it has not been proven true. In most contexts, that is weak reasoning. A lack of evidence does not automatically establish a conclusion. However, legal systems create an important exception that often confuses discussions of this fallacy: when one side carries the burden of proof, failure to provide sufficient evidence can be decisive. The key point is that courts do not conclude that the opposite claim has been proven true; they conclude that the party with the burden of proof has failed to justify its claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignorance</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (law</span><span class="citation-popover-snippet">Burden of proof (law</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-1-dark.svg" | relative_url }}" alt="No Proof illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_ignorance_burden_pro_c56841-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ This distinction makes legal reasoning a classic borderline case in [informal lo
 
 ## Absence of Disproof Versus Failed Proof
 
-The ordinary appeal to [ignorance]({{ 'ignorance/' | relative_url }}) follows a pattern such as: “Nobody has proved this claim false, therefore it is true.” Logic texts generally classify this as a fallacy because the absence of contrary evidence may simply reflect limited investigation, unavailable information, or unresolved uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Presumption of innocence</span><span class="citation-popover-snippet">Presumption of innocence</span></span></span>
+The ordinary appeal to ignorance follows a pattern such as: “Nobody has proved this claim false, therefore it is true.” Logic texts generally classify this as a fallacy because the absence of contrary evidence may simply reflect limited investigation, unavailable information, or unresolved uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Presumption of innocence</span><span class="citation-popover-snippet">Presumption of innocence</span></span></span>
 
 Legal disputes operate differently because they assign responsibility for proof. A criminal prosecutor must prove guilt; a civil claimant must prove the elements of a claim. If that burden is not met, the decision goes against the party carrying it. The outcome follows from procedural rules about proof, not from a logical inference that the opposite proposition has been established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ag.gov.au">[Attorney-General&#x27;s Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ag.gov.au</span><span class="citation-popover-snippet">If a law imposes a burden of proof on the...Read more...</span></span></span>
 
@@ -336,7 +336,7 @@ A fallacious appeal to ignorance would be:
 
 > “There is no evidence proving the accused did not commit the crime, so the accused probably did.”
 
-That argument asks the defendant to disprove guilt and reverses the burden of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is the Burden of Proof Fallacy?</span><span class="citation-popover-snippet">| Definition &amp; ExamplesJun 24, 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposite lacks eviden...</span></span></span>
+That argument asks the defendant to disprove guilt and reverses the burden of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is the Burden of Proof Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesJun 24, 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposite lacks eviden...</span></span></span>
 
 A legally proper argument would be:
 
@@ -366,7 +366,7 @@ Appeal to ignorance becomes a borderline fallacy when a recognised burden of pro
 The crucial question is not whether evidence is missing, but who was required to provide it and what standard had to be met. When a court acquits because guilt was not proven, it is not treating ignorance as evidence. It is enforcing a procedural safeguard that allocates the risk of uncertainty according to legal and moral priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ks.echr.coe.int">[ECHR-KS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ks.echr.coe.int</span><span class="citation-popover-title">ECHR-KSArticle 6 (criminal) Presumption of innocence</span><span class="citation-popover-snippet">ECHR-KS31 Aug 2025 — Burden of proof: The principle of presumption of innocence requires, inter alia, that it is for the prosecution to i...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WnKNcbYTlPo" title="Logical Fallacies - Shifting the burden of proof" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer">Logical Fallacies - Shifting the burden of proof</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 7.7K &middot; Uploaded: March 2015 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WnKNcbYTlPo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdKiP41L0Ec" title="Unit 8.1: Fallacies of Weak Induction, Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdKiP41L0Ec" target="_blank" rel="noopener noreferrer">Unit 8.1: Fallacies of Weak Induction, Part 1</a></p><p class="youtube-embed-meta">Channel: Michael FitzGerald &middot; Views: 3.8K &middot; Uploaded: November 2018 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdKiP41L0Ec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdKiP41L0Ec">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -791,151 +791,151 @@ The crucial question is not whether evidence is missing, but who was required to
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Argument from ignorance  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Burden of proof (law)  
-   Link: [https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29](https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28law%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Presumption of innocence  
-   Link: [https://en.wikipedia.org/wiki/Presumption_of_innocence](https://en.wikipedia.org/wiki/Presumption_of_innocence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presumption_of_innocence</a>  
 
 4. <a id="endnote-4"></a>
    Source: ks.echr.coe.int  
    Title: ECHR-KSArticle 6 (criminal) Presumption of innocence  
-   Link: [https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence](https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence)  
+   Link: <a href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow">https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECHR-KS31 Aug 2025 — Burden of proof: The principle of presumption of innocence requires, inter alia, that it is for the prosecution to i...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/ignorant.html](https://www.fallacyfiles.org/ignorant.html)  
+   Link: <a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: quillbot.com  
    Title: What Is the Burden of Proof Fallacy?  
-   Link: [https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/](https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Definition &amp; ExamplesJun 24, 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposite lacks eviden...</p></details>
+   Link: <a href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesJun 24, 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposite lacks eviden...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Burden of proof (philosophy)  
-   Link: [https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29](https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of proof (philosophy)This is analogous to the legal principle of presumption of innocence, in which a suspect or defendant is a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/United_Kingdom](https://en.wikipedia.org/wiki/United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Stanford University  
-   Link: [https://en.wikipedia.org/wiki/Stanford_University](https://en.wikipedia.org/wiki/Stanford_University)  
+   Link: <a href="https://en.wikipedia.org/wiki/Stanford_University" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stanford_University</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Universitya private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Le...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Ad Ignorantium (Appeal to Ignorance)  
-   Link: [https://www.youtube.com/watch?v=hOM0K37pzEU](https://www.youtube.com/watch?v=hOM0K37pzEU)  
+   Link: <a href="https://www.youtube.com/watch?v=hOM0K37pzEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hOM0K37pzEU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of Proof | Criminal Evidence...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Burden of Proof | Criminal Evidence  
-   Link: [https://www.youtube.com/watch?v=WaXNjyxKYkg](https://www.youtube.com/watch?v=WaXNjyxKYkg)  
+   Link: <a href="https://www.youtube.com/watch?v=WaXNjyxKYkg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WaXNjyxKYkg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unit 8.1: Fallacies of Weak Induction, Part 1...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fairtrials.org  
-   Link: [https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/](https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/)  
+   Link: <a href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow">https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fair TrialsThe Presumption of Innocence... doubt and cleared because the state&#x27;s &#x27;burden of proof&#x27; has not been met. Everyone charged wit...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ag.gov.au  
-   Link: [https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence](https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence)  
+   Link: <a href="https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence" target="_blank" rel="noopener noreferrer nofollow">https://www.ag.gov.au/rights-and-protections/human-rights-and-anti-discrimination/human-rights-scrutiny/public-sector-guidance-sheets/presumption-innocence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If a law imposes a burden of proof on the...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Informal logic (“IL”) is the study of reasoning and infere...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: law.cornell.edu  
    Title: edupresumption of innocence | Wex  
-   Link: [https://www.law.cornell.edu/wex/presumption_of_innocence](https://www.law.cornell.edu/wex/presumption_of_innocence)  
+   Link: <a href="https://www.law.cornell.edu/wex/presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/presumption_of_innocence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of innocence | Wex - Law.Cornell.EduA presumption of innocence means that any defendant in a criminal trial is assumed to be innocent unt...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: encyclopedia.pub  
-   Link: [https://encyclopedia.pub/entry/36589](https://encyclopedia.pub/entry/36589)  
+   Link: <a href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/36589</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of Proof | Encyclopedia MDPI25 Nov 2022 — One way in which one would attempt to shift the burden of proof is by committing a logic...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: qcc.cuny.edu  
    Title: Burden of Proof  
-   Link: [https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm](https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm)  
+   Link: <a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting the burden of proof, a special case of argumentum ad ignorantium, is the fallacy of putting the burden of proof on the person wh...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cps.gov.uk  
-   Link: [https://www.cps.gov.uk/about-cps/how-a-criminal-case-works](https://www.cps.gov.uk/about-cps/how-a-criminal-case-works)  
+   Link: <a href="https://www.cps.gov.uk/about-cps/how-a-criminal-case-works" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/about-cps/how-a-criminal-case-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How a criminal case worksLearn about the Crown Prosecution Service, what we do, how we work, our senior leaders and where we sit in the c...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thecommonwealth.org  
-   Link: [https://thecommonwealth.org/our-member-countries/united-kingdom](https://thecommonwealth.org/our-member-countries/united-kingdom)  
+   Link: <a href="https://thecommonwealth.org/our-member-countries/united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/united-kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | CommonwealthThe United Kingdom of Great Britain and Northern Ireland (UK) is an island country that sits north-west of m...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: stanford.edu  
-   Link: [https://www.stanford.edu/](https://www.stanford.edu/)  
+   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/](https://www.gov.uk/)  
+   Link: <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/DebateAnAtheist/comments/16ug4vc/actual_burden_of_proof/](https://www.reddit.com/r/DebateAnAtheist/comments/16ug4vc/actual_burden_of_proof/)  
+   Link: <a href="https://www.reddit.com/r/DebateAnAtheist/comments/16ug4vc/actual_burden_of_proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateAnAtheist/comments/16ug4vc/actual_burden_of_proof/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Actual Burden Of Proof: r/DebateAnAtheistIt is a presumption plagued by unfalsifiability and argument from ignorance fallacy, making it...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates](https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates)  
+   Link: <a href="https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK borrowing costs hit new highs as City traders brace for Burnham, and pound heads for worst week since 2024 – business live...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nji-inm.ca  
-   Link: [https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/general-principles/presumption-of-innocence-burden-of-proof-and-reasonable-doubt/?langSwitch=en](https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/general-principles/presumption-of-innocence-burden-of-proof-and-reasonable-doubt/?langSwitch=en)  
+   Link: <a href="https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/general-principles/presumption-of-innocence-burden-of-proof-and-reasonable-doubt/?langSwitch=en" target="_blank" rel="noopener noreferrer nofollow">https://www.nji-inm.ca/index.cfm/publications/model-jury-instructions/final-instructions/general-principles/presumption-of-innocence-burden-of-proof-and-reasonable-doubt/?langSwitch=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One is that the Crown bears the burden of proving guilt. The other is that guilt must be proved beyond a...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: legal-resources.uslegalforms.com  
    Title: Presumption of innocence in criminal law protects against wrongful assumptions  
-   Link: [https://legal-resources.uslegalforms.com/a/argumentum-ad-ignorantiam](https://legal-resources.uslegalforms.com/a/argumentum-ad-ignorantiam)  
+   Link: <a href="https://legal-resources.uslegalforms.com/a/argumentum-ad-ignorantiam" target="_blank" rel="noopener noreferrer nofollow">https://legal-resources.uslegalforms.com/a/argumentum-ad-ignorantiam</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Ignorantiam: Understanding This Legal FallacyArgumentum ad ignorantiam, or an argument from ignorance, is a logical fallacy...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: scholarship.law.columbia.edu  
-   Link: [https://scholarship.law.columbia.edu/faculty_scholarship/242/](https://scholarship.law.columbia.edu/faculty_scholarship/242/)  
+   Link: <a href="https://scholarship.law.columbia.edu/faculty_scholarship/242/" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.columbia.edu/faculty_scholarship/242/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kinds of Legal Rules: A Comparative Study of Burden-...by GP Fletcher · 1968 · Cited by 264 — Two Kinds of Legal Rules: A Comparative St...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:23:44'
 parent_title: When Does Emotion Replace Evidence? | Fallacy Lab
 parent_permalink: /emotion/
 parent_nav_short_title: Emotion
@@ -265,7 +266,6 @@ next_link:
   permalink: /pity-proof/
   short_title: Pity Proof
   heading_title: When Pity Starts Doing the Proving
-date: '2026-06-05 02:23:44 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fear_appeals_warn_no_ae375c-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fear_appeals_warn_no_ae375c-Illustration-1.webp
@@ -278,7 +278,7 @@ Fear appeals occupy an awkward position in reasoning. On one hand, warnings abou
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fear_appeals_warn_no_ae375c-Illustration-1-dark.svg" | relative_url }}" alt="Fear Appeals illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fear_appeals_warn_no_ae375c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fear_appeals_warn_no_ae375c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key distinction is simple but important. A legitimate warning says, “Here is evidence that a danger exists.” A fallacious fear appeal says, “The danger sounds terrible, therefore you should accept my claim.” The emotional force may be real, but the reasoning is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/emotiona.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Emotional AppealAn appeal to emotion is a type of argument or rhetorical technique that attempts to arouse the emotions...</span></span></span>
+The key distinction is simple but important. A legitimate warning says, “Here is evidence that a danger exists.” A fallacious fear appeal says, “The danger sounds terrible, therefore you should accept my claim.” The emotional force may be real, but the reasoning is incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy &#124; Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/emotiona.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Emotional AppealAn appeal to emotion is a type of argument or rhetorical technique that attempts to arouse the emotions...</span></span></span>
 
 ## Legitimate Warnings Versus Fear-Based Proof
 
@@ -359,7 +359,7 @@ Fear appeals become especially misleading when they omit key information such as
 
 </div>
 
-By removing these details, a communicator can make a speculative danger feel like an established fact. The audience is left reacting to fear rather than assessing evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span>
+By removing these details, a communicator can make a speculative danger feel like an established fact. The audience is left reacting to fear rather than assessing evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy &#124; Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fear_appeals_warn_no_ae375c-Illustration-2-dark.svg" | relative_url }}" alt="Fear Appeals illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fear_appeals_warn_no_ae375c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fear_appeals_warn_no_ae375c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -371,7 +371,7 @@ Research on fear appeals has found that fear-based messages can influence attitu
 
 The Extended Parallel Process Model (EPPM), a major theory of fear appeals, argues that people respond constructively when they believe both that a threat is serious and that they can effectively reduce it. If people feel threatened but powerless, they may instead deny, ignore, or avoid the message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communicationcache.com">[Communication Cache]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communicationcache.com</span><span class="citation-popover-title">putting the fear back into fear appeals the extended parallel process model</span><span class="citation-popover-snippet">Extended Parallel Process Model (EPPM), expands on previous approaches in three ways: (a) by explaining why fear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.orau.gov/hsc/theorypicker/eppm.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orau.gov">[2orau.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orau.gov</span><span class="citation-popover-snippet">hey take the appropriate steps.Read more...</span></span></span>
 
-This distinction helps explain why some anti-smoking, road-safety, and disease-prevention campaigns succeed while others fail. The successful campaigns typically provide evidence and actionable guidance. The weaker ones rely mainly on frightening imagery without adequately supporting the claims or explaining effective responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/322628576.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">COREThe Use of Fear Appeals to Communicate Public Health...April 30, 2020 — by K Sweeney · Cited by 3 — The findings from this research...</span><span class="citation-popover-meta">Published: April 30, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5789790</span><span class="citation-popover-snippet">PMCA Meta-Analysis of Fear Appeal Effectiveness and Theoriesby MB Tannenbaum · 2015 · Cited by 1661 — Overall, we conclude that (a) fear...</span></span></span>
+This distinction helps explain why some anti-smoking, road-safety, and disease-prevention campaigns succeed while others fail. The successful campaigns typically provide evidence and actionable guidance. The weaker ones rely mainly on frightening imagery without adequately supporting the claims or explaining effective responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/322628576.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">The Use of Fear Appeals to Communicate Public Health...April 30, 2020 — by K Sweeney · Cited by 3 — The findings from this research...</span><span class="citation-popover-meta">Published: April 30, 2020</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5789790</span><span class="citation-popover-snippet">PMCA Meta-Analysis of Fear Appeal Effectiveness and Theoriesby MB Tannenbaum · 2015 · Cited by 1661 — Overall, we conclude that (a) fear...</span></span></span>
 
 From a logical perspective, even a highly effective fear-based campaign does not escape the need for evidence. Persuasion and proof are different things. A message can change behaviour and still contain flawed reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
 
@@ -411,7 +411,7 @@ Ask:
 * Would the argument still work if the frightening language were removed?
 * Is the speaker proving that the danger exists, or merely describing it vividly?
 * Are probabilities, uncertainties, and alternatives being discussed?
-* Is fear being used to direct attention toward evidence, or to replace evidence? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-appeal-to-fear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLAppeal to Fear Fallacy</span><span class="citation-popover-snippet">Excelsior OWLAppeal to Fear Fallacy - Excelsior OWLAn appeal to fear fallacy occurs when someone uses fear to drive an illogical response...</span></span></span>
+* Is fear being used to direct attention toward evidence, or to replace evidence? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy &#124; Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-appeal-to-fear/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLAppeal to Fear Fallacy</span><span class="citation-popover-snippet">Excelsior OWLAppeal to Fear Fallacy - Excelsior OWLAn appeal to fear fallacy occurs when someone uses fear to drive an illogical response...</span></span></span>
 
 If removing the emotional material leaves little or no supporting evidence, the argument is likely relying on fear as proof rather than fear as a warning.
 
@@ -845,200 +845,200 @@ A frightening outcome may provide a reason to investigate, prepare, or take prec
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: owl.excelsior.edu  
    Title: OWLAppeal to Fear Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-appeal-to-fear/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-appeal-to-fear/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-appeal-to-fear/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-appeal-to-fear/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLAppeal to Fear Fallacy - Excelsior OWLAn appeal to fear fallacy occurs when someone uses fear to drive an illogical response...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribbr.com  
-   Title: [appeal to emotion](&#123;&#123; 'emotion/' | relative_url &#125;&#125;)  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-emotion/](https://www.scribbr.com/fallacies/appeal-to-emotion/)  
+   Title: appeal to emotion  
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-emotion/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/emotiona.html](https://www.fallacyfiles.org/emotiona.html)  
+   Link: <a href="https://www.fallacyfiles.org/emotiona.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/emotiona.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Appeal to fear  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_fear](https://en.wikipedia.org/wiki/Appeal_to_fear)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_fear" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_fear</a>  
 
 6. <a id="endnote-6"></a>
    Source: contensis.uwaterloo.ca  
-   Link: [https://contensis.uwaterloo.ca/sites/courses-archive/1185/PHS-617/lecture-content/module-5/5c.aspx/1000](https://contensis.uwaterloo.ca/sites/courses-archive/1185/PHS-617/lecture-content/module-5/5c.aspx/1000)  
+   Link: <a href="https://contensis.uwaterloo.ca/sites/courses-archive/1185/PHS-617/lecture-content/module-5/5c.aspx/1000" target="_blank" rel="noopener noreferrer nofollow">https://contensis.uwaterloo.ca/sites/courses-archive/1185/PHS-617/lecture-content/module-5/5c.aspx/1000</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>5c. Fear Appeals in Health Communication CampaignsA fear appeal is a persuasive message that attempts to arouse fear in order to direct b...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: orau.gov  
-   Link: [https://www.orau.gov/hsc/theorypicker/eppm.html](https://www.orau.gov/hsc/theorypicker/eppm.html)  
+   Link: <a href="https://www.orau.gov/hsc/theorypicker/eppm.html" target="_blank" rel="noopener noreferrer nofollow">https://www.orau.gov/hsc/theorypicker/eppm.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hey take the appropriate steps.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: socialsci.libretexts.org  
    Title: Social Sci Libre Texts5.1: Fear Appeals- The Extended Parallel Process Model  
-   Link: [https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Persuasion_Theory_in_Action_%28Worthington%29/05%3A_Emotional_Appeals/5.01%3A_Fear_Appeals-_The_Extended_Parallel_Process_Model](https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Persuasion_Theory_in_Action_%28Worthington%29/05%3A_Emotional_Appeals/5.01%3A_Fear_Appeals-_The_Extended_Parallel_Process_Model)  
+   Link: <a href="https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Persuasion_Theory_in_Action_%28Worthington%29/05%3A_Emotional_Appeals/5.01%3A_Fear_Appeals-_The_Extended_Parallel_Process_Model" target="_blank" rel="noopener noreferrer nofollow">https://socialsci.libretexts.org/Bookshelves/Communication/Argument_and_Debate/Persuasion_Theory_in_Action_%28Worthington%29/05%3A_Emotional_Appeals/5.01%3A_Fear_Appeals-_The_Extended_Parallel_Process_Model</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Sci LibreTexts5.1: Fear Appeals- The Extended Parallel Process ModelMay 10, 2023 — The Extended Parallel Process Models notes that...</p></details>
    Published: May 10, 2023  
 
 9. <a id="endnote-9"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/322628576.pdf](https://core.ac.uk/download/pdf/322628576.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>COREThe Use of Fear Appeals to Communicate Public Health...April 30, 2020 — by K Sweeney · Cited by 3 — The findings from this research...</p></details>
+   Link: <a href="https://core.ac.uk/download/pdf/322628576.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/322628576.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Use of Fear Appeals to Communicate Public Health...April 30, 2020 — by K Sweeney · Cited by 3 — The findings from this research...</p></details>
    Published: April 30, 2020  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Appeal to emotion  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_emotion](https://en.wikipedia.org/wiki/Appeal_to_emotion)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_emotion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to emotionan informal fallacy characterized by the manipulation of the recipient&#x27;s emotions in order to win an argument, especi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Argumentum ad baculum  
-   Link: [https://en.wikipedia.org/wiki/Argumentum_ad_baculum](https://en.wikipedia.org/wiki/Argumentum_ad_baculum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentum_ad_baculum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_baculum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad baculumArgumentum ad baculum is a type of argument made when one attempts to appeal to force to bring about the acceptan...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Extended parallel process model  
-   Link: [https://en.wikipedia.org/wiki/Extended_parallel_process_model](https://en.wikipedia.org/wiki/Extended_parallel_process_model)  
+   Link: <a href="https://en.wikipedia.org/wiki/Extended_parallel_process_model" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extended_parallel_process_model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Extended parallel process modelThis is also the first fear appeal model that outlines the relationship between threat and efficacy in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 96 — [Informal logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) (“IL”) is the study of reasoning and infere...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2022/entries/logic-informal/](https://plato.stanford.edu/archives/sum2022/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2022/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of PhilosophyJul 16, 2021 — It defines logic as the “art and science of reasoning,” stipulating that “to re...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: web.stanford.edu  
    Title: Logical Fallacies  
-   Link: [https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm](https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm)  
+   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesAppeal to Force: the reader is persuaded to agree by force · Appeal to Pity: the reader is persuaded to agree by sympathy · Cons...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: prevention.org  
-   Link: [https://www.prevention.org/Resources/07b67e95-5702-459b-b874-e9d39c156519/IneffectivenessofFearAppealsinYouthATODPrevention-FINAL.pdf](https://www.prevention.org/Resources/07b67e95-5702-459b-b874-e9d39c156519/IneffectivenessofFearAppealsinYouthATODPrevention-FINAL.pdf)  
+   Link: <a href="https://www.prevention.org/Resources/07b67e95-5702-459b-b874-e9d39c156519/IneffectivenessofFearAppealsinYouthATODPrevention-FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.prevention.org/Resources/07b67e95-5702-459b-b874-e9d39c156519/IneffectivenessofFearAppealsinYouthATODPrevention-FINAL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>be ineffective, mainly because audiences will ignore or minimize the importance of...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Critical Thinking: The Fallacy of Appeal to Fear  
-   Link: [https://www.youtube.com/watch?v=HAsmwRMOcCs](https://www.youtube.com/watch?v=HAsmwRMOcCs)  
+   Link: <a href="https://www.youtube.com/watch?v=HAsmwRMOcCs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HAsmwRMOcCs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Emotion | Logical Fallacies...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Appeal to Emotion | Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=JkB3hhtLx4M](https://www.youtube.com/watch?v=JkB3hhtLx4M)  
+   Link: <a href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JkB3hhtLx4M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Force (Argumentum Ad Baculum)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: apa.org  
    Title: fear based appeals  
-   Link: [https://www.apa.org/news/press/releases/2015/10/fear-based-appeals](https://www.apa.org/news/press/releases/2015/10/fear-based-appeals)  
+   Link: <a href="https://www.apa.org/news/press/releases/2015/10/fear-based-appeals" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/press/releases/2015/10/fear-based-appeals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationFear-based appeals effective at changing attitudes...22 Oct 2015 — Fear appeals are persuasive message...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: communicationcache.com  
    Title: putting the fear back into fear appeals the extended parallel process model  
-   Link: [https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf](https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf)  
+   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/putting_the_fear_back_into_fear_appeals-_the_extended_parallel_process_model.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Extended Parallel Process Model (EPPM), expands on previous approaches in three ways: (a) by explaining why fear...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/public](https://dictionary.cambridge.org/dictionary/english/public)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/public" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/public</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Something done in public is done where anyone can see or hear it: He was afraid to be seen in public for some time after the incident.Rea...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/force.html](https://philosophy.lander.edu/logic/force.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/force.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/force.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ad Baculum: The Appeal to ForceThe argumentum ad baculum is based upon the appeal to threat or force in order to bring about the acceptan...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reasoning contains this fallacy if you make an irrelevant attack on the person arguing and suggest that this attack undermines the argume...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: psychology-in-perspective.com  
    Title: fear appeal  
-   Link: [https://psychology-in-perspective.com/fear-appeal/](https://psychology-in-perspective.com/fear-appeal/)  
+   Link: <a href="https://psychology-in-perspective.com/fear-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://psychology-in-perspective.com/fear-appeal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But, scaring people may backlash and result in defensive behaviour, avoidance, reactance and increased...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: db.arabpsychology.com  
    Title: appeal to fear  
-   Link: [https://db.arabpsychology.com/appeal-to-fear/](https://db.arabpsychology.com/appeal-to-fear/)  
+   Link: <a href="https://db.arabpsychology.com/appeal-to-fear/" target="_blank" rel="noopener noreferrer nofollow">https://db.arabpsychology.com/appeal-to-fear/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Fear: Fallacy, Definition &amp; ExamplesAn appeal to fear (also called argumentum ad metum or argumentum in terrorem) is a fallacy in whic...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to EmotionAppeal to Emotion · Description: This is the general category of many fallacies that use emotion in place of reason in o...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Fear</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to FearDescription: When fear, not based on evidence or reason, is being used as the primary motivator to get others to accept an...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-emotion](https://fallacyguide.com/fallacies/appeal-to-emotion)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· Impact: Appeal to Emotion distorts reasoning by Feelings alone cannot establish...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/229955782_Fear_Appeals_and_Persuasion_A_Review_and_Update_of_the_Extended_Parallel_Process_Model](https://www.researchgate.net/publication/229955782_Fear_Appeals_and_Persuasion_A_Review_and_Update_of_the_Extended_Parallel_Process_Model)  
+   Link: <a href="https://www.researchgate.net/publication/229955782_Fear_Appeals_and_Persuasion_A_Review_and_Update_of_the_Extended_Parallel_Process_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229955782_Fear_Appeals_and_Persuasion_A_Review_and_Update_of_the_Extended_Parallel_Process_Model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ges are effective only when individuals perceive a highly severe threat and...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/319940664_Appeal_to_fear_in_health_care_Appropriate_or_inappropriate](https://www.researchgate.net/publication/319940664_Appeal_to_fear_in_health_care_Appropriate_or_inappropriate)  
+   Link: <a href="https://www.researchgate.net/publication/319940664_Appeal_to_fear_in_health_care_Appropriate_or_inappropriate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319940664_Appeal_to_fear_in_health_care_Appropriate_or_inappropriate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, its negative characteristics, its appropriate as well as its fallacious use.Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/appeal-to-emotion](https://yourlogicalfallacyis.com/appeal-to-emotion)  
+   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-emotion" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-emotion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to emotion include appeals to fear, envy, hatred, pity...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: ua.pressbooks.pub  
    Title: fear appeals the extended parallel process model  
-   Link: [https://ua.pressbooks.pub/persuasiontheoryinaction/chapter/fear-appeals-the-extended-parallel-process-model/](https://ua.pressbooks.pub/persuasiontheoryinaction/chapter/fear-appeals-the-extended-parallel-process-model/)  
+   Link: <a href="https://ua.pressbooks.pub/persuasiontheoryinaction/chapter/fear-appeals-the-extended-parallel-process-model/" target="_blank" rel="noopener noreferrer nofollow">https://ua.pressbooks.pub/persuasiontheoryinaction/chapter/fear-appeals-the-extended-parallel-process-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals: The Extended Parallel Process Modelby AK Worthington · 2021 · Cited by 5 — The Extended Parallel Process Model describes when a...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
    Title: 345737608 Extended Parallel Process Model  
-   Link: [https://www.researchgate.net/publication/345737608_Extended_Parallel_Process_Model](https://www.researchgate.net/publication/345737608_Extended_Parallel_Process_Model)  
+   Link: <a href="https://www.researchgate.net/publication/345737608_Extended_Parallel_Process_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345737608_Extended_Parallel_Process_Model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Extended Parallel Process ModelThe model was developed by Witte (1992) to explain the factors of fear appeal messages that cause individu...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35984337/](https://pubmed.ncbi.nlm.nih.gov/35984337/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35984337/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35984337/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>empirical comparison of the Extended Parallel Process...by DM Hunt · 2022 · Cited by 3 — However, for fear appeals that utilized the thr...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/26305152/](https://pubmed.ncbi.nlm.nih.gov/26305152/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26305152/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26305152/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of fear appeal message repetition on perceived...by JJ Shi · 2016 · Cited by 167 — This study examined the effect of moderately...</p></details>

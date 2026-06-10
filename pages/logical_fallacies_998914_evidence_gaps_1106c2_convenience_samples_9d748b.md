@@ -278,11 +278,11 @@ A convenience sample is a group of people chosen because they are easy to reach:
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-1-dark.svg" | relative_url }}" alt="Bad Samples illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a common evidence gap. The evidence may be real, but the claim stretches beyond what the evidence can support. Five conversations, a viral comment thread, or a quick online poll can show that some people hold a view. They cannot automatically show what most people think. Researchers distinguish between convenience samples and representative samples precisely because the route by which people enter a sample affects how safely conclusions can be generalised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Inconvenient Truth About Convenience and Purposive...by C Andrade · 2020 · Cited by 3081 — This sample, however, may not be repre...</span></span></span>
+Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a common evidence gap. The evidence may be real, but the claim stretches beyond what the evidence can support. Five conversations, a viral comment thread, or a quick online poll can show that some people hold a view. They cannot automatically show what most people think. Researchers distinguish between convenience samples and representative samples precisely because the route by which people enter a sample affects how safely conclusions can be generalised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Inconvenient Truth About Convenience and Purposive...by C Andrade · 2020 · Cited by 3081 — This sample, however, may not be repre...</span></span></span>
 
 ## What Convenience Samples Can and Cannot Prove
 
-Convenience sampling selects participants based on availability rather than a process that gives members of the target population a known chance of selection. Because of this, the sample may differ systematically from the population it is supposed to represent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe Inconvenient Truth About Convenience and Purposive...by C Andrade · 2020 · Cited by 3081 — This sample, however, may not be repre...</span></span></span>
+Convenience sampling selects participants based on availability rather than a process that gives members of the target population a known chance of selection. Because of this, the sample may differ systematically from the population it is supposed to represent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Inconvenient Truth About Convenience and Purposive...by C Andrade · 2020 · Cited by 3081 — This sample, however, may not be repre...</span></span></span>
 
 What a convenience sample can often show:
 
@@ -348,7 +348,7 @@ The crucial question is not simply how many people were surveyed but how they we
 
 A common misunderstanding is that a large sample automatically solves the problem. It does not. A huge sample drawn in a biased way can still produce misleading conclusions.
 
-The classic example is the 1936 [Literary Digest]({{ 'digest-poll/' | relative_url }}) presidential poll in the United States. The magazine mailed millions of ballots and received roughly 2.4 million responses, an enormous number for the period. Yet the poll incorrectly predicted a decisive victory for Alf Landon. Later analysis found that both the sampling method and response patterns were biased, producing a sample that did not represent the electorate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/poq/article-abstract/52/1/125/1878544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicWHY THE 1936 LITERARY DIGEST POLL FAILEDby P SQUIRE · 1988 · Cited by 314 — Despite its importance, no empirical research has...</span></span></span>
+The classic example is the 1936 Literary Digest presidential poll in the United States. The magazine mailed millions of ballots and received roughly 2.4 million responses, an enormous number for the period. Yet the poll incorrectly predicted a decisive victory for Alf Landon. Later analysis found that both the sampling method and response patterns were biased, producing a sample that did not represent the electorate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/poq/article-abstract/52/1/125/1878544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicWHY THE 1936 LITERARY DIGEST POLL FAILEDby P SQUIRE · 1988 · Cited by 314 — Despite its importance, no empirical research has...</span></span></span>
 
 The lesson was striking: millions of responses did not compensate for a flawed sample. Meanwhile, scientific polling methods using far smaller but more carefully selected samples produced much better estimates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathcenter.oxford.emory.edu">[mathcenter.oxford.emory.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathcenter.oxford.emory.edu</span><span class="citation-popover-title">historical Blunders</span><span class="citation-popover-snippet">Famous Statistical Blunders in HistoryIn 1936, Literary Digest, a national magazine of the time, sent out 10 million &quot;straw&quot; ballots aski...</span></span></span>
 
@@ -849,178 +849,178 @@ The central evidence gap is straightforward: convenience samples can reveal that
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe Inconvenient Truth About Convenience and Purposive...by C Andrade · 2020 · Cited by 3081 — This sample, however, may not be repre...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Inconvenient Truth About Convenience and Purposive...by C Andrade · 2020 · Cited by 3081 — This sample, however, may not be repre...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/poq/article-abstract/52/1/125/1878544](https://academic.oup.com/poq/article-abstract/52/1/125/1878544)  
+   Link: <a href="https://academic.oup.com/poq/article-abstract/52/1/125/1878544" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/poq/article-abstract/52/1/125/1878544</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicWHY THE 1936 LITERARY [DIGEST POLL](&amp;#123;&amp;#123; &#x27;digest-poll/&#x27; | relative_url &amp;#125;&amp;#125;) FAILEDby P SQUIRE · 1988 · Cited by 314 — Despite its importance, no empirical research has...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/poq/article/52/1/125/1878544](https://academic.oup.com/poq/article/52/1/125/1878544)  
+   Link: <a href="https://academic.oup.com/poq/article/52/1/125/1878544" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/poq/article/52/1/125/1878544</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Literary Digest poll of 1936 holds an infamous place in the history of survey research. Despite its importance, no empirical research...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mathcenter.oxford.emory.edu  
    Title: historical Blunders  
-   Link: [https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/](https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/)  
+   Link: <a href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow">https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Statistical Blunders in HistoryIn 1936, Literary Digest, a national magazine of the time, sent out 10 million &quot;straw&quot; ballots aski...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11343077/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11343077/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11343077/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11343077/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of combined probability and nonprobability samplesby W Xi · 2022 · Cited by 7 — In scientific studies with low-prevalence outcomes, proba...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jssam/article/8/1/4/5699631](https://academic.oup.com/jssam/article/8/1/4/5699631)  
+   Link: <a href="https://academic.oup.com/jssam/article/8/1/4/5699631" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jssam/article/8/1/4/5699631</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead, most...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/poq/article-pdf/52/1/125/5310718/52-1-125.pdf](https://academic.oup.com/poq/article-pdf/52/1/125/5310718/52-1-125.pdf)  
+   Link: <a href="https://academic.oup.com/poq/article-pdf/52/1/125/5310718/52-1-125.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/poq/article-pdf/52/1/125/5310718/52-1-125.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Literary Digest poll gained an infamous place in the history of survey research. Almost every book on presidential elections or survey me...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pewresearch.org  
    Title: what are nonprobability surveys  
-   Link: [https://www.pewresearch.org/short-reads/2018/08/06/what-are-nonprobability-surveys/](https://www.pewresearch.org/short-reads/2018/08/06/what-are-nonprobability-surveys/)  
+   Link: <a href="https://www.pewresearch.org/short-reads/2018/08/06/what-are-nonprobability-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2018/08/06/what-are-nonprobability-surveys/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These polls are generally easier and cheaper for polling organizations to conduct.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Nonprobability Surveys  
-   Link: [https://www.pewresearch.org/topic/methodological-research/survey-methods/online-surveys/nonprobability-surveys/](https://www.pewresearch.org/topic/methodological-research/survey-methods/online-surveys/nonprobability-surveys/)  
+   Link: <a href="https://www.pewresearch.org/topic/methodological-research/survey-methods/online-surveys/nonprobability-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/topic/methodological-research/survey-methods/online-surveys/nonprobability-surveys/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterNonprobability Surveys - Research and data from Pew...Many online surveys are conducted using “nonprobability” or “op...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Methods 101: Random Sampling  
-   Link: [https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/](https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/)  
+   Link: <a href="https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterMethods 101: Random SamplingMay 12, 2017 — The first video in Pew Research Center&#x27;s Methods 101 series helps explain r...</p></details>
    Published: May 12, 2017  
 
 11. <a id="endnote-11"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/u-s-survey-methodology/](https://www.pewresearch.org/u-s-survey-methodology/)  
+   Link: <a href="https://www.pewresearch.org/u-s-survey-methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/u-s-survey-methodology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterU.S. Survey MethodologyPew Research Center has conducted surveys online in the United States using our American Trends...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pewresearch.org  
    Title: building pew research centers american trends panel  
-   Link: [https://www.pewresearch.org/methods/2015/04/08/building-pew-research-centers-american-trends-panel/](https://www.pewresearch.org/methods/2015/04/08/building-pew-research-centers-american-trends-panel/)  
+   Link: <a href="https://www.pewresearch.org/methods/2015/04/08/building-pew-research-centers-american-trends-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2015/04/08/building-pew-research-centers-american-trends-panel/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterBuilding Pew Research Center&#x27;s American Trends PanelApr 8, 2015 — Panels recruited through non-probability methods or...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pewresearch.org  
    Title: Evaluating Online Nonprobability Surveys  
-   Link: [https://www.pewresearch.org/methods/2016/05/02/evaluating-online-nonprobability-surveys/](https://www.pewresearch.org/methods/2016/05/02/evaluating-online-nonprobability-surveys/)  
+   Link: <a href="https://www.pewresearch.org/methods/2016/05/02/evaluating-online-nonprobability-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2016/05/02/evaluating-online-nonprobability-surveys/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2016 — Pew Research Center conducted a study in which an identical 56-item questionnaire was administered to nine samples supplied...</p></details>
    Published: May 2, 2016  
 
 14. <a id="endnote-14"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/](https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/)  
+   Link: <a href="https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>m traditional probability-based polls...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pewresearch.org  
    Title: race lgbtq in schools methodology  
-   Link: [https://www.pewresearch.org/social-trends/2024/02/22/race-lgbtq-in-schools-methodology/](https://www.pewresearch.org/social-trends/2024/02/22/race-lgbtq-in-schools-methodology/)  
+   Link: <a href="https://www.pewresearch.org/social-trends/2024/02/22/race-lgbtq-in-schools-methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/social-trends/2024/02/22/race-lgbtq-in-schools-methodology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MethodologyFeb 22, 2024 — The margin of sampling error for the full sample of 2,531 teachers is plus or minus 2.4 percentage points. The...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pewresearch.org  
    Title: assessing the accuracy of online nonprobability surveys  
-   Link: [https://www.pewresearch.org/methods/2016/05/02/assessing-the-accuracy-of-online-nonprobability-surveys/](https://www.pewresearch.org/methods/2016/05/02/assessing-the-accuracy-of-online-nonprobability-surveys/)  
+   Link: <a href="https://www.pewresearch.org/methods/2016/05/02/assessing-the-accuracy-of-online-nonprobability-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2016/05/02/assessing-the-accuracy-of-online-nonprobability-surveys/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2016 — Well-designed surveys using either probability or nonprobability samples can provide accurate measures of political prefere...</p></details>
    Published: May 2, 2016  
 
 17. <a id="endnote-17"></a>
    Source: pewresearch.org  
    Title: Here's how it works  
-   Link: [https://www.pewresearch.org/methods/2017/05/12/video-explainer-understanding-random-sampling-for-public-opinion-surveys/](https://www.pewresearch.org/methods/2017/05/12/video-explainer-understanding-random-sampling-for-public-opinion-surveys/)  
+   Link: <a href="https://www.pewresearch.org/methods/2017/05/12/video-explainer-understanding-random-sampling-for-public-opinion-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2017/05/12/video-explainer-understanding-random-sampling-for-public-opinion-surveys/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Explainer: Understanding random sampling for public...The first video in our “Methods 101” series is about random sampling, a conc...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pewresearch.org  
    Title: privacy and information sharing methodology  
-   Link: [https://www.pewresearch.org/internet/2016/01/14/privacy-and-information-sharing-methodology/](https://www.pewresearch.org/internet/2016/01/14/privacy-and-information-sharing-methodology/)  
+   Link: <a href="https://www.pewresearch.org/internet/2016/01/14/privacy-and-information-sharing-methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2016/01/14/privacy-and-information-sharing-methodology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Methodology14 Jan 2016 — Sampling errors and statistical tests of significance take into account the effect of weighting at each of these...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pewresearch.org  
    Title: methodology koerber 2025  
-   Link: [https://www.pewresearch.org/global/2025/11/24/methodology-koerber-2025/](https://www.pewresearch.org/global/2025/11/24/methodology-koerber-2025/)  
+   Link: <a href="https://www.pewresearch.org/global/2025/11/24/methodology-koerber-2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/global/2025/11/24/methodology-koerber-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MethodologyNov 24, 2025 — Panel members are randomly selected so that survey results can properly represent the U.S. population with a me...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pewresearch.org  
    Title: methodology 100 2  
-   Link: [https://www.pewresearch.org/internet/2008/02/13/methodology-100-2/](https://www.pewresearch.org/internet/2008/02/13/methodology-100-2/)  
+   Link: <a href="https://www.pewresearch.org/internet/2008/02/13/methodology-100-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2008/02/13/methodology-100-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MethodologyFeb 13, 2008 — For results based on the total sample, one can say with 95% confidence that the error attributable to sampling...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pewresearch.org  
    Title: comparing two types of online survey samples  
-   Link: [https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/](https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/)  
+   Link: <a href="https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 7, 2023 — Pew Research Center designed this study to assess the current state of online survey sampling methods – both probability-ba...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: uca.edu  
-   Link: [https://uca.edu/psychology/files/2013/08/Ch7-Sampling-Techniques.pdf](https://uca.edu/psychology/files/2013/08/Ch7-Sampling-Techniques.pdf)  
+   Link: <a href="https://uca.edu/psychology/files/2013/08/Ch7-Sampling-Techniques.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uca.edu/psychology/files/2013/08/Ch7-Sampling-Techniques.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7. Sampling TechniquesBefore a sample is taken, we must first define the population to which we want to generalize our results. T...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: saylordotorg.github.io  
-   Link: [https://saylordotorg.github.io/text_principles-of-sociological-inquiry-qualitative-and-quantitative-methods/s10-sampling.html](https://saylordotorg.github.io/text_principles-of-sociological-inquiry-qualitative-and-quantitative-methods/s10-sampling.html)  
+   Link: <a href="https://saylordotorg.github.io/text_principles-of-sociological-inquiry-qualitative-and-quantitative-methods/s10-sampling.html" target="_blank" rel="noopener noreferrer nofollow">https://saylordotorg.github.io/text_principles-of-sociological-inquiry-qualitative-and-quantitative-methods/s10-sampling.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7: SamplingSampling has to do with selecting some subset of one&#x27;s group of interest (in this case, babies) and drawing conclusion...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pressbooks.openeducationalberta.ca  
-   Link: [https://pressbooks.openeducationalberta.ca/communicationsresearchmethods/chapter/6-sampling/](https://pressbooks.openeducationalberta.ca/communicationsresearchmethods/chapter/6-sampling/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>– Navigating Communication ResearchA representative sample is one that resembles the population from which it was drawn in all the ways t...</p></details>
+   Link: <a href="https://pressbooks.openeducationalberta.ca/communicationsresearchmethods/chapter/6-sampling/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.openeducationalberta.ca/communicationsresearchmethods/chapter/6-sampling/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Communication ResearchA representative sample is one that resembles the population from which it was drawn in all the ways t...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 315940924 Roosevelt Predicted to Win Revisiting the 1936 Literary Digest Poll  
-   Link: [https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll](https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll)  
+   Link: <a href="https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315940924_Roosevelt_Predicted_to_Win_Revisiting_the_1936_Literary_Digest_Poll</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roosevelt Predicted to Win: Revisiting the 1936 Literary...The Literary Digest poll of 1936, which incorrectly predicted that Landon wou...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pivotalresearch.ca  
    Title: the poll that changed polling selection bias and the 1936 us election  
-   Link: [https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/](https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/)  
+   Link: <a href="https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/" target="_blank" rel="noopener noreferrer nofollow">https://www.pivotalresearch.ca/2024/07/03/the-poll-that-changed-polling-selection-bias-and-the-1936-us-election/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Poll that Changed Polling (Selection bias and the 1936...Jul 3, 2024 — In advance of the 1936 presidential election, the Literary Di...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ozanozbey.medium.com  
    Title: two lessons of sampling bias from 1936 us election e4e96bd42be  
-   Link: [https://ozanozbey.medium.com/two-lessons-of-sampling-bias-from-1936-us-election-e4e96bd42be](https://ozanozbey.medium.com/two-lessons-of-sampling-bias-from-1936-us-election-e4e96bd42be)  
+   Link: <a href="https://ozanozbey.medium.com/two-lessons-of-sampling-bias-from-1936-us-election-e4e96bd42be" target="_blank" rel="noopener noreferrer nofollow">https://ozanozbey.medium.com/two-lessons-of-sampling-bias-from-1936-us-election-e4e96bd42be</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons of Sampling Bias from 1936 US Elections | by OÖ“Literary Digest Poll is on!” announced confidently the editors of Literary Digest...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mrisimmons.com  
    Title: demographics, such samples often fail to be nationally representative.Read more  
-   Link: [https://www.mrisimmons.com/2020/08/24/the-inconvenience-of-online-non-probability-surveys/](https://www.mrisimmons.com/2020/08/24/the-inconvenience-of-online-non-probability-surveys/)  
+   Link: <a href="https://www.mrisimmons.com/2020/08/24/the-inconvenience-of-online-non-probability-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.mrisimmons.com/2020/08/24/the-inconvenience-of-online-non-probability-surveys/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Inconvenience of Online Non-probability SurveysAug 24, 2020 — While responses from these panelists are typically weighted to match U.S...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1](https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1)  
+   Link: <a href="https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/nonresponse-bias-how-the-silent-majority-decided-an-election-and-sunk-a-beloved-publisher-90a40e73d3a1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oosevelt in tomorrow&#x27;s voting…” There was only one caveat: the...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ecampusontario.pressbooks.pub  
    Title: pub6.3: Non-probability sampling –  
-   Link: [https://ecampusontario.pressbooks.pub/introductiontomarketresearch/chapter/non-probability-sampling/](https://ecampusontario.pressbooks.pub/introductiontomarketresearch/chapter/non-probability-sampling/)  
+   Link: <a href="https://ecampusontario.pressbooks.pub/introductiontomarketresearch/chapter/non-probability-sampling/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/introductiontomarketresearch/chapter/non-probability-sampling/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pressbooks.pub6.3: Non-probability sampling – Introduction to Market...One challenge with a convenience sample is selection bias, as the...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C](https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C)  
+   Link: <a href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disastrous prediction of an Alf Landon victo...</p></details>

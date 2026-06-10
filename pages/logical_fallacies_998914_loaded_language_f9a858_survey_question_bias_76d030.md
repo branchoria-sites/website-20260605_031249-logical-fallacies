@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:09:58'
 parent_title: What Is the Wording Sneaking In? | Fallacy Lab
 parent_permalink: /loaded-words/
 parent_nav_short_title: Loaded Words
@@ -259,7 +260,6 @@ next_link:
   permalink: /charged-labels/
   short_title: Charged Labels
   heading_title: Are the Labels Doing More Than the Evidence?
-date: '2026-06-05 02:09:58 '
 header:
   og_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_question_bias_76d030-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_question_bias_76d030-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_que
 
 ## Introduction
 
-Survey results can be distorted long before any data analysis begins. One of the most common causes is the wording of the questions themselves. A survey question may appear neutral while quietly steering respondents towards a preferred answer, assuming a disputed fact, or limiting the range of acceptable responses. In the context of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is closely connected to [loaded language]({{ 'loaded-words/' | relative_url }}) and hidden assumptions: the wording does argumentative work that evidence has not yet justified.
+Survey results can be distorted long before any data analysis begins. One of the most common causes is the wording of the questions themselves. A survey question may appear neutral while quietly steering respondents towards a preferred answer, assuming a disputed fact, or limiting the range of acceptable responses. In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is closely connected to loaded language and hidden assumptions: the wording does argumentative work that evidence has not yet justified.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_question_bias_76d030-Illustration-1-dark.svg" | relative_url }}" alt="Biased Surveys illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_question_bias_76d030-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_question_bias_76d030-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -310,7 +310,7 @@ A leading question provides cues about which answer is considered reasonable, de
 
 </div>
 
-The first question signals the preferred position. The second presents the issue without directing respondents. Survey methodology experts consistently warn that wording which offers reasons for only one side of a [debate]({{ 'debate/' | relative_url }}) can influence measured opinion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yougov.com/articles/45308-how-leading-questions-and-acquiescence-bias-can-im" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yougov.com">[YouGov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yougov.com</span><span class="citation-popover-title">45308 how leading questions and acquiescence bias can im</span><span class="citation-popover-snippet">YouGovHow leading questions and acquiescence bias can impact...28 Feb 2023 — Leading respondents to a particular answer by offering the...</span></span></span>
+The first question signals the preferred position. The second presents the issue without directing respondents. Survey methodology experts consistently warn that wording which offers reasons for only one side of a [debate]({{ 'debate/' | relative_url }}) can influence measured opinion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yougov.com/articles/45308-how-leading-questions-and-acquiescence-bias-can-im" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yougov.com">[YouGov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yougov.com</span><span class="citation-popover-title">45308 how leading questions and acquiescence bias can im</span><span class="citation-popover-snippet">How leading questions and acquiescence bias can impact...28 Feb 2023 — Leading respondents to a particular answer by offering the...</span></span></span>
 
 Emotional language can have a similar effect. Compare these examples:
 
@@ -331,7 +331,7 @@ When respondents encounter a survey question, they must interpret what is being 
 
 Survey experiments frequently test alternative phrasings to determine whether wording changes alter responses. If opinions shift significantly when words change, researchers gain evidence that the original wording may have introduced bias or ambiguity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/writing-survey-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-snippet">Pew Research CenterWriting Survey QuestionsLastly, because slight modifications in question wording can affect responses, identical quest...</span></span></span>
 
-The effect is not necessarily deliberate manipulation. Poorly designed questions can unintentionally influence respondents. However, the practical consequence is the same: the measured result no longer cleanly reflects underlying attitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blitzllama.com/blog/a-guide-to-detect-and-correct-leading-loaded-survey-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blitzllama.com">[Blitzllama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blitzllama.com</span><span class="citation-popover-title">a guide to detect and correct leading loaded survey questions</span><span class="citation-popover-snippet">BlitzllamaA Guide to Detect and Correct Leading &amp; Loaded Survey...20-Feb-2025 — This guide will show you how to spot, correct, and preve...</span></span></span>
+The effect is not necessarily deliberate manipulation. Poorly designed questions can unintentionally influence respondents. However, the practical consequence is the same: the measured result no longer cleanly reflects underlying attitudes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blitzllama.com/blog/a-guide-to-detect-and-correct-leading-loaded-survey-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blitzllama.com">[Blitzllama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blitzllama.com</span><span class="citation-popover-title">a guide to detect and correct leading loaded survey questions</span><span class="citation-popover-snippet">A Guide to Detect and Correct Leading &amp; Loaded Survey...20-Feb-2025 — This guide will show you how to spot, correct, and preve...</span></span></span>
 
 ## Consequences for Public Opinion Data
 
@@ -344,7 +344,7 @@ The consequences include:
 * **Misleading policy debates:** Politicians and commentators may cite results that partly reflect survey design choices rather than public opinion.
 * **Faulty organisational decisions:** Companies can make strategic mistakes if customer surveys contain leading questions.
 * **Artificial trends over time:** Apparent changes in opinion may result from altered wording rather than changing beliefs.
-* **Reduced trust in polling:** Contradictory survey findings can emerge when different organisations ask similar questions in different ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aapor.org/standards-and-ethics/best-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aapor.org">[AAPOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aapor.org</span><span class="citation-popover-snippet">AAPORBest Practices for Survey ResearchChanges in question-wording and even the context of other questions before it can influence how re...</span></span></span> SmartSurvey The problem is especially serious when surveys address controversial topics involving identity <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smartsurvey.co.uk/blog/what-are-loaded-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smartsurvey.co.uk">[smartsurvey.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smartsurvey.co.uk</span><span class="citation-popover-title">what are loaded questions</span><span class="citation-popover-snippet">SmartSurveyWhat Are Loaded Questions?24-Jan-2023 — When we refer to loaded questions, we&#x27;re essentially talking about a question that inc...</span></span></span>, morality or [politics]({{ 'politics/' | relative_url }}), where subtle framing effects can be amplified by existing emotional commitments.
+* **Reduced trust in polling:** Contradictory survey findings can emerge when different organisations ask similar questions in different ways. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aapor.org/standards-and-ethics/best-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aapor.org">[AAPOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aapor.org</span><span class="citation-popover-snippet">Best Practices for Survey ResearchChanges in question-wording and even the context of other questions before it can influence how re...</span></span></span> SmartSurvey The problem is especially serious when surveys address controversial topics involving identity <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smartsurvey.co.uk/blog/what-are-loaded-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smartsurvey.co.uk">[smartsurvey.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smartsurvey.co.uk</span><span class="citation-popover-title">what are loaded questions</span><span class="citation-popover-snippet">What Are Loaded Questions?24-Jan-2023 — When we refer to loaded questions, we&#x27;re essentially talking about a question that inc...</span></span></span>, morality or [politics]({{ 'politics/' | relative_url }}), where subtle framing effects can be amplified by existing emotional commitments.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G0ZZJXw4MTA" title="Leading Questions - Yes Prime Minister" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G0ZZJXw4MTA" target="_blank" rel="noopener noreferrer">Leading Questions - Yes Prime Minister</a></p><p class="youtube-embed-meta">Channel: LimeXd &middot; Views: 1.6M &middot; Uploaded: January 2012 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G0ZZJXw4MTA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G0ZZJXw4MTA">Open on YouTube</a></p></div></div></div>
@@ -355,11 +355,11 @@ Readers can often identify potentially biased survey questions by looking for cl
 
 Ask the following questions:
 
-1. **Does the question assume something that has not been established?**
-2. **Does it contain [emotionally charged]({{ 'charged-labels/' | relative_url }}) words?**
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
+1. **Does the question assume something that has not been established?**
+2. **Does it contain emotionally charged words?**
 3. **Does it present reasons for only one side of an issue?**
 4. **Could a respondent reasonably disagree with an embedded premise?**
 5. **Would replacing evaluative terms with neutral language change the apparent meaning?**
@@ -368,7 +368,7 @@ Ask the following questions:
 
 For example, “How much damage has this failed policy caused?” already labels the policy a failure. A more neutral version would ask respondents to evaluate the policy's effects rather than assume them.
 
-Survey designers often reduce bias by using balanced wording, avoiding emotionally loaded terms, pre-testing questionnaires and comparing alternative versions of questions before collecting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/research-methods/questionnaire-design/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">ScribbrQuestionnaire Design | Methods, Question Types &amp; Examples6 May 2022 — Use a mix of both positive and negative frames to avoid bias...</span><span class="citation-popover-meta">Published: May 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/advice/1/how-do-you-avoid-leading-loaded-questions-influence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">how do you avoid leading loaded questions influence</span><span class="citation-popover-snippet">3 How to avoid leading or loaded questions?16 Apr 2023 — To avoid leading or loaded questions, use neutral, clear, and concise language...</span></span></span>
+Survey designers often reduce bias by using balanced wording, avoiding emotionally loaded terms, pre-testing questionnaires and comparing alternative versions of questions before collecting data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/research-methods/questionnaire-design/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Questionnaire Design &#124; Methods, Question Types &amp; Examples6 May 2022 — Use a mix of both positive and negative frames to avoid bias...</span><span class="citation-popover-meta">Published: May 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/advice/1/how-do-you-avoid-leading-loaded-questions-influence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">how do you avoid leading loaded questions influence</span><span class="citation-popover-snippet">3 How to avoid leading or loaded questions?16 Apr 2023 — To avoid leading or loaded questions, use neutral, clear, and concise language...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_question_bias_76d030-Illustration-3-dark.svg" | relative_url }}" alt="Biased Surveys illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_question_bias_76d030-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_survey_question_bias_76d030-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -378,10 +378,10 @@ Biased survey questions illustrate how hidden assumptions can shape reasoning wi
 
 The danger is not merely methodological. Survey results produced by biased questions can then be cited as evidence in public arguments, giving an appearance of objective measurement to conclusions that were partly built into the questionnaire from the start.
 
-For that reason, evaluating survey questions requires the same critical habit used when analysing logical fallacies: separating the claim being measured from the assumptions hidden in the language used to measure it. A survey can only reveal what people think if its questions allow respondents to express their views without first accepting someone else's conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.formassembly.com/blog/leading-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: formassembly.com">[FormAssembly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">formassembly.com</span><span class="citation-popover-title">Form Assembly What is a Loaded Question?</span><span class="citation-popover-snippet">Leading vs....08-Feb-2023 — A loaded question is a question that contains a built-in assumption about the respondent (e.g., “When did yo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smartsurvey.co.uk/blog/what-are-loaded-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smartsurvey.co.uk">[SmartSurvey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smartsurvey.co.uk</span><span class="citation-popover-title">what are loaded questions</span><span class="citation-popover-snippet">SmartSurveyWhat Are Loaded Questions?24-Jan-2023 — When we refer to loaded questions, we&#x27;re essentially talking about a question that inc...</span></span></span>
+For that reason, evaluating survey questions requires the same critical habit used when analysing logical fallacies: separating the claim being measured from the assumptions hidden in the language used to measure it. A survey can only reveal what people think if its questions allow respondents to express their views without first accepting someone else's conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.formassembly.com/blog/leading-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: formassembly.com">[FormAssembly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">formassembly.com</span><span class="citation-popover-title">Form Assembly What is a Loaded Question?</span><span class="citation-popover-snippet">Leading vs....08-Feb-2023 — A loaded question is a question that contains a built-in assumption about the respondent (e.g., “When did yo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smartsurvey.co.uk/blog/what-are-loaded-questions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smartsurvey.co.uk">[SmartSurvey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smartsurvey.co.uk</span><span class="citation-popover-title">what are loaded questions</span><span class="citation-popover-snippet">What Are Loaded Questions?24-Jan-2023 — When we refer to loaded questions, we&#x27;re essentially talking about a question that inc...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eFzGdQrr2K8" title="Methods 101: Question Wording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eFzGdQrr2K8" target="_blank" rel="noopener noreferrer">Methods 101: Question Wording</a></p><p class="youtube-embed-meta">Channel: Pew Research Center &middot; Views: 179.8K &middot; Uploaded: March 2018 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eFzGdQrr2K8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eFzGdQrr2K8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/An2IV3n9AoM" title="Episode 72: Avoid Leading and Loaded Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=An2IV3n9AoM" target="_blank" rel="noopener noreferrer">Episode 72: Avoid Leading and Loaded Questions</a></p><p class="youtube-embed-meta">Channel: Fun with Research! &middot; Views: 4.3K &middot; Uploaded: August 2021 &middot; Length: 4 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=An2IV3n9AoM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=An2IV3n9AoM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -805,195 +805,195 @@ For that reason, evaluating survey questions requires the same critical habit us
 
 1. <a id="endnote-1"></a>
    Source: aapor.org  
-   Link: [https://aapor.org/standards-and-ethics/best-practices/](https://aapor.org/standards-and-ethics/best-practices/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAPORBest Practices for Survey ResearchChanges in question-wording and even the [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) of other questions before it can influence how re...</p></details>
+   Link: <a href="https://aapor.org/standards-and-ethics/best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://aapor.org/standards-and-ethics/best-practices/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices for Survey ResearchChanges in question-wording and even the context of other questions before it can influence how re...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: formassembly.com  
    Title: Form Assembly What is a Loaded Question?  
-   Link: [https://www.formassembly.com/blog/leading-loaded-questions/](https://www.formassembly.com/blog/leading-loaded-questions/)  
+   Link: <a href="https://www.formassembly.com/blog/leading-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.formassembly.com/blog/leading-loaded-questions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading vs....08-Feb-2023 — A loaded question is a question that contains a built-in assumption about the respondent (e.g., “When did yo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: siena.cx  
    Title: biased questions examples  
-   Link: [https://www.siena.cx/blog/biased-questions-examples](https://www.siena.cx/blog/biased-questions-examples)  
+   Link: <a href="https://www.siena.cx/blog/biased-questions-examples" target="_blank" rel="noopener noreferrer nofollow">https://www.siena.cx/blog/biased-questions-examples</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Siena AI8 Types of Biased Survey Questions (+ How to Fix Them)09-Dec-2025 — Loaded question example: How satisfied were you with our fast...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lyssna.com  
    Title: what is a leading question  
-   Link: [https://www.lyssna.com/blog/what-is-a-leading-question/](https://www.lyssna.com/blog/what-is-a-leading-question/)  
+   Link: <a href="https://www.lyssna.com/blog/what-is-a-leading-question/" target="_blank" rel="noopener noreferrer nofollow">https://www.lyssna.com/blog/what-is-a-leading-question/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>?18-Sept-2025 — The key distinction: Leading questions guide toward an answer, while [loaded questions](&amp;#123;&amp;#123; &#x27;loaded-questions/&#x27; | relative_url &amp;#125;&amp;#125;) trap participants with built-in ass...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: yougov.com  
    Title: 45308 how leading questions and acquiescence bias can im  
-   Link: [https://yougov.com/articles/45308-how-leading-questions-and-acquiescence-bias-can-im](https://yougov.com/articles/45308-how-leading-questions-and-acquiescence-bias-can-im)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YouGovHow leading questions and acquiescence bias can impact...28 Feb 2023 — Leading respondents to a particular answer by offering the...</p></details>
+   Link: <a href="https://yougov.com/articles/45308-how-leading-questions-and-acquiescence-bias-can-im" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/articles/45308-how-leading-questions-and-acquiescence-bias-can-im</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How leading questions and acquiescence bias can impact...28 Feb 2023 — Leading respondents to a particular answer by offering the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: yougov.com  
-   Link: [https://yougov.com/en-us/articles/46070-poll-methodology-question-affect-survey-response](https://yougov.com/en-us/articles/46070-poll-methodology-question-affect-survey-response)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YouGovHow question style can influence survey responsesSep 17, 2023 — How we ask these questions can affect how survey takers respond...</p></details>
+   Link: <a href="https://yougov.com/en-us/articles/46070-poll-methodology-question-affect-survey-response" target="_blank" rel="noopener noreferrer nofollow">https://yougov.com/en-us/articles/46070-poll-methodology-question-affect-survey-response</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How question style can influence survey responsesSep 17, 2023 — How we ask these questions can affect how survey takers respond...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: blitzllama.com  
    Title: a guide to detect and correct leading loaded survey questions  
-   Link: [https://www.blitzllama.com/blog/a-guide-to-detect-and-correct-leading-loaded-survey-questions](https://www.blitzllama.com/blog/a-guide-to-detect-and-correct-leading-loaded-survey-questions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BlitzllamaA Guide to Detect and Correct Leading &amp; Loaded Survey...20-Feb-2025 — This guide will show you how to spot, correct, and preve...</p></details>
+   Link: <a href="https://www.blitzllama.com/blog/a-guide-to-detect-and-correct-leading-loaded-survey-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.blitzllama.com/blog/a-guide-to-detect-and-correct-leading-loaded-survey-questions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Detect and Correct Leading &amp; Loaded Survey...20-Feb-2025 — This guide will show you how to spot, correct, and preve...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: linkedin.com  
    Title: how do you avoid leading loaded questions influence  
-   Link: [https://www.linkedin.com/advice/1/how-do-you-avoid-leading-loaded-questions-influence](https://www.linkedin.com/advice/1/how-do-you-avoid-leading-loaded-questions-influence)  
+   Link: <a href="https://www.linkedin.com/advice/1/how-do-you-avoid-leading-loaded-questions-influence" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/advice/1/how-do-you-avoid-leading-loaded-questions-influence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 How to avoid leading or loaded questions?16 Apr 2023 — To avoid leading or loaded questions, use neutral, clear, and concise language...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Episode 72: Avoid Leading and Loaded Questions  
-   Link: [https://www.youtube.com/watch?v=An2IV3n9AoM](https://www.youtube.com/watch?v=An2IV3n9AoM)  
+   Link: <a href="https://www.youtube.com/watch?v=An2IV3n9AoM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=An2IV3n9AoM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading Questions - Yes Prime Minister...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Leading Questions  
-   Link: [https://www.youtube.com/watch?v=G0ZZJXw4MTA](https://www.youtube.com/watch?v=G0ZZJXw4MTA)  
+   Link: <a href="https://www.youtube.com/watch?v=G0ZZJXw4MTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G0ZZJXw4MTA</a>  
 
 11. <a id="endnote-11"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/writing-survey-questions/](https://www.pewresearch.org/writing-survey-questions/)  
+   Link: <a href="https://www.pewresearch.org/writing-survey-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/writing-survey-questions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterWriting Survey QuestionsLastly, because slight modifications in question wording can affect responses, identical quest...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: surveylab.com  
    Title: loaded question  
-   Link: [https://www.surveylab.com/blog/loaded-question/](https://www.surveylab.com/blog/loaded-question/)  
+   Link: <a href="https://www.surveylab.com/blog/loaded-question/" target="_blank" rel="noopener noreferrer nofollow">https://www.surveylab.com/blog/loaded-question/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a Loaded Question and Where to Use It?17-May-2024 — A loaded question presupposes a truth that has not been confirmed. It compels...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: smartsurvey.co.uk  
    Title: what are loaded questions  
-   Link: [https://www.smartsurvey.co.uk/blog/what-are-loaded-questions](https://www.smartsurvey.co.uk/blog/what-are-loaded-questions)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SmartSurveyWhat Are Loaded Questions?24-Jan-2023 — When we refer to loaded questions, we&#x27;re essentially talking about a question that inc...</p></details>
+   Link: <a href="https://www.smartsurvey.co.uk/blog/what-are-loaded-questions" target="_blank" rel="noopener noreferrer nofollow">https://www.smartsurvey.co.uk/blog/what-are-loaded-questions</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Loaded Questions?24-Jan-2023 — When we refer to loaded questions, we&#x27;re essentially talking about a question that inc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: driveresearch.com  
    Title: Drive Research What is a Loaded Question in Surveys?  
-   Link: [https://www.driveresearch.com/market-research-company-blog/what-is-a-loaded-question-in-market-research/](https://www.driveresearch.com/market-research-company-blog/what-is-a-loaded-question-in-market-research/)  
+   Link: <a href="https://www.driveresearch.com/market-research-company-blog/what-is-a-loaded-question-in-market-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.driveresearch.com/market-research-company-blog/what-is-a-loaded-question-in-market-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[+ Examples]3 May 2023 — A loaded question is a question written by a survey designer aimed to push the respondent to a specific answer...</p></details>
    Published: May 2023  
 
 15. <a id="endnote-15"></a>
    Source: pewresearch.org  
    Title: how do you write survey questions that accurately measure public opinion  
-   Link: [https://www.pewresearch.org/short-reads/2018/03/21/how-do-you-write-survey-questions-that-accurately-measure-public-opinion/](https://www.pewresearch.org/short-reads/2018/03/21/how-do-you-write-survey-questions-that-accurately-measure-public-opinion/)  
+   Link: <a href="https://www.pewresearch.org/short-reads/2018/03/21/how-do-you-write-survey-questions-that-accurately-measure-public-opinion/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2018/03/21/how-do-you-write-survey-questions-that-accurately-measure-public-opinion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterHow do you write survey questions that accurately...Mar 21, 2018 — In the second video from our Methods 101 series, w...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/short-reads/2019/01/29/good-jobs-vs-jobs-survey-experiments-can-measure-the-effects-of-question-wording-and-more/](https://www.pewresearch.org/short-reads/2019/01/29/good-jobs-vs-jobs-survey-experiments-can-measure-the-effects-of-question-wording-and-more/)  
+   Link: <a href="https://www.pewresearch.org/short-reads/2019/01/29/good-jobs-vs-jobs-survey-experiments-can-measure-the-effects-of-question-wording-and-more/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/short-reads/2019/01/29/good-jobs-vs-jobs-survey-experiments-can-measure-the-effects-of-question-wording-and-more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterSurvey experiments can measure the effects of question...Jan 29, 2019 — Second, they can help researchers design bett...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: smartsurvey.co.uk  
    Title: leading questions in surveys  
-   Link: [https://www.smartsurvey.co.uk/blog/leading-questions-in-surveys](https://www.smartsurvey.co.uk/blog/leading-questions-in-surveys)  
+   Link: <a href="https://www.smartsurvey.co.uk/blog/leading-questions-in-surveys" target="_blank" rel="noopener noreferrer nofollow">https://www.smartsurvey.co.uk/blog/leading-questions-in-surveys</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>01-Feb-2022 — An assumption-based leading question communicates a preconceived notion and is therefore framed as such. In other words, th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/questionnaire-design-and-translation/](https://www.pewresearch.org/questionnaire-design-and-translation/)  
+   Link: <a href="https://www.pewresearch.org/questionnaire-design-and-translation/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/questionnaire-design-and-translation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research CenterQuestionnaire Design and TranslationIn both cases, Center staff carefully consider question wording, when to ask open...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scribbr.co.uk  
-   Link: [https://www.scribbr.co.uk/research-methods/questionnaire-design/](https://www.scribbr.co.uk/research-methods/questionnaire-design/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrQuestionnaire Design | Methods, Question Types &amp; Examples6 May 2022 — Use a mix of both positive and negative frames to avoid bias...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/research-methods/questionnaire-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/research-methods/questionnaire-design/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Questionnaire Design | Methods, Question Types &amp; Examples6 May 2022 — Use a mix of both positive and negative frames to avoid bias...</p></details>
    Published: May 2022  
 
 20. <a id="endnote-20"></a>
    Source: pewresearch.org  
    Title: methods 101 video question wording  
-   Link: [https://www.pewresearch.org/methods/2018/03/21/methods-101-video-question-wording/](https://www.pewresearch.org/methods/2018/03/21/methods-101-video-question-wording/)  
+   Link: <a href="https://www.pewresearch.org/methods/2018/03/21/methods-101-video-question-wording/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/03/21/methods-101-video-question-wording/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Methods 101: Survey Question WordingMar 21, 2018 — It helps us avoid the trap of poorly worded or leading questions, which can skew surve...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/methods/2018/03/21/video-explainer-understanding-survey-question-wording/embed/](https://www.pewresearch.org/methods/2018/03/21/video-explainer-understanding-survey-question-wording/embed/)  
+   Link: <a href="https://www.pewresearch.org/methods/2018/03/21/video-explainer-understanding-survey-question-wording/embed/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/03/21/video-explainer-understanding-survey-question-wording/embed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Explainer: Understanding survey question wordingThe second video in Pew Research Center&#x27;s “Methods 101” series helps explain questi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pewresearch.org  
    Title: Comparing Forced-Choice and Select-All Online Survey  
-   Link: [https://www.pewresearch.org/methods/2019/05/09/when-online-survey-respondents-only-select-some-that-apply/](https://www.pewresearch.org/methods/2019/05/09/when-online-survey-respondents-only-select-some-that-apply/)  
+   Link: <a href="https://www.pewresearch.org/methods/2019/05/09/when-online-survey-respondents-only-select-some-that-apply/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2019/05/09/when-online-survey-respondents-only-select-some-that-apply/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2019 — The new study found compelling evidence that forced-choice questions yield more accurate results than select-all-that-apply...</p></details>
    Published: May 9, 2019  
 
 23. <a id="endnote-23"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/methods/2018/03/21/video-explainer-understanding-survey-question-wording/](https://www.pewresearch.org/methods/2018/03/21/video-explainer-understanding-survey-question-wording/)  
+   Link: <a href="https://www.pewresearch.org/methods/2018/03/21/video-explainer-understanding-survey-question-wording/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/03/21/video-explainer-understanding-survey-question-wording/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video Explainer: Understanding survey question wordingThe second video in Pew Research Center&#x27;s “Methods 101” series helps explain questi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: resonio.com  
    Title: leading questions in surveys  
-   Link: [https://www.resonio.com/blog/leading-questions-in-surveys/](https://www.resonio.com/blog/leading-questions-in-surveys/)  
+   Link: <a href="https://www.resonio.com/blog/leading-questions-in-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.resonio.com/blog/leading-questions-in-surveys/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples, Risks, and Better...05-Mar-2025 — Leading questions skew survey results. Learn how to identify them, avoid them, and ask neutr...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/pew-research-center-decoded/all?topic=surveys](https://medium.com/pew-research-center-decoded/all?topic=surveys)  
+   Link: <a href="https://medium.com/pew-research-center-decoded/all?topic=surveys" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/pew-research-center-decoded/all?topic=surveys</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Research Center: DecodedAs with any survey question, the wording of an “ask” can affect how it is perceived and understood by the res...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: online225.psych.wisc.edu  
-   Link: [https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-11/Pew_SurveyDesign_NoDate.pdf](https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-11/Pew_SurveyDesign_NoDate.pdf)  
+   Link: <a href="https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-11/Pew_SurveyDesign_NoDate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://online225.psych.wisc.edu/wp-content/uploads/225-Master/225-UnitPages/Unit-11/Pew_SurveyDesign_NoDate.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PSY 225: Research MethodsQuestionnaire designLastly, because slight modifications in question wording can affect responses, identical que...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: sogolytics.com  
-   Link: [https://www.sogolytics.com/blog/whats-in-a-word-the-importance-of-survey-wording/](https://www.sogolytics.com/blog/whats-in-a-word-the-importance-of-survey-wording/)  
+   Link: <a href="https://www.sogolytics.com/blog/whats-in-a-word-the-importance-of-survey-wording/" target="_blank" rel="noopener noreferrer nofollow">https://www.sogolytics.com/blog/whats-in-a-word-the-importance-of-survey-wording/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s in a Word? The Importance of Survey WordingWord choice is one way of demonstrating to your respondents that you know them, which h...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eFzGdQrr2K8](https://www.youtube.com/watch?v=eFzGdQrr2K8)  
+   Link: <a href="https://www.youtube.com/watch?v=eFzGdQrr2K8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eFzGdQrr2K8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Methods 101: Question WordingThe second video in Pew Research Center&#x27;s &quot;Methods 101&quot; series helps explain question wording – a concept at...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eRK_dXay5HY](https://www.youtube.com/watch?v=eRK_dXay5HY)  
+   Link: <a href="https://www.youtube.com/watch?v=eRK_dXay5HY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eRK_dXay5HY</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/pewresearch/videos/how-do-you-write-survey-questions-that-accurately-measure-public-opinion/10155218573376356/](https://www.facebook.com/pewresearch/videos/how-do-you-write-survey-questions-that-accurately-measure-public-opinion/10155218573376356/)  
+   Link: <a href="https://www.facebook.com/pewresearch/videos/how-do-you-write-survey-questions-that-accurately-measure-public-opinion/10155218573376356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pewresearch/videos/how-do-you-write-survey-questions-that-accurately-measure-public-opinion/10155218573376356/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y questions can go wrong, and the steps you can take to avoid these pitfalls...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: uk.surveymonkey.com  
-   Link: [https://uk.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/](https://uk.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/)  
+   Link: <a href="https://uk.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow">https://uk.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn about both question biases and get tips on how to avoid them when...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: surveymonkey.com  
-   Link: [https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/](https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/)  
+   Link: <a href="https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.surveymonkey.com/curiosity/how-to-avoid-asking-leading-and-loaded-questions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn about both question biases and get tips for avoiding them on your...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: delighted.com  
-   Link: [https://delighted.com/blog/biased-questions-examples-bad-survey-questions](https://delighted.com/blog/biased-questions-examples-bad-survey-questions)  
+   Link: <a href="https://delighted.com/blog/biased-questions-examples-bad-survey-questions" target="_blank" rel="noopener noreferrer nofollow">https://delighted.com/blog/biased-questions-examples-bad-survey-questions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>can avoid inaccurate results due to poor question phrasing...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: delighted.com  
-   Link: [https://delighted.com/blog/leading-questions](https://delighted.com/blog/leading-questions)  
+   Link: <a href="https://delighted.com/blog/leading-questions" target="_blank" rel="noopener noreferrer nofollow">https://delighted.com/blog/leading-questions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading questions: Definition, examples, and why you...Leading questions are survey questions that encourage or guide the respondent tow...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: proprofssurvey.com  
    Title: leading and loaded questions  
-   Link: [https://www.proprofssurvey.com/blog/leading-and-loaded-questions/](https://www.proprofssurvey.com/blog/leading-and-loaded-questions/)  
+   Link: <a href="https://www.proprofssurvey.com/blog/leading-and-loaded-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.proprofssurvey.com/blog/leading-and-loaded-questions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ProProfs Survey MakerTips to Avoid Leading and Loaded Questions12-Aug-2024 — Leading and loaded questions in a survey are biased question...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-equivocation/
 description: Focused pages that expand on Equivocation.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_equivocation_cdc9d3
 parent_title: Equivocation | Logical Fallacies

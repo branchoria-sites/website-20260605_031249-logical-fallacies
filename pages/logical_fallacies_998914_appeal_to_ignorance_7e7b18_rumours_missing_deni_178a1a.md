@@ -274,15 +274,15 @@ image: /assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_rumour
 
 ## Introduction
 
-[Rumours]({{ 'rumours/' | relative_url }}) often gain credibility not because strong evidence supports them, but because nobody has publicly denied them. A delayed response, a refusal to comment, or complete silence can create the impression that “there must be something to hide”. This is a specific form of the [appeal to ignorance]({{ 'ignorance/' | relative_url }}) fallacy: treating the absence of a denial as proof that a claim is true. In reality, silence is ambiguous. It may reflect legal advice, lack of information, organisational delays, privacy concerns, strategic communication choices, or simple inattention. Converting that silence into confirmation is a reasoning error because the missing denial does not establish the truth of the rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppeal to Ignorance</span><span class="citation-popover-snippet">PMC - NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oercollective.caul.edu.au">[2oercollective.caul.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oercollective.caul.edu.au</span><span class="citation-popover-title">The Burden of Proof and Arguments from Ignorance This is an appeal to ignorance</span><span class="citation-popover-snippet">The fact that no one has produced evidence that the claim is false is not enough reason to believe it&#x27;s true. There are lots...</span></span></span>
+[Rumours]({{ 'rumours/' | relative_url }}) often gain credibility not because strong evidence supports them, but because nobody has publicly denied them. A delayed response, a refusal to comment, or complete silence can create the impression that “there must be something to hide”. This is a specific form of the appeal to [ignorance]({{ 'ignorance/' | relative_url }}) fallacy: treating the absence of a denial as proof that a claim is true. In reality, silence is ambiguous. It may reflect legal advice, lack of information, organisational delays, privacy concerns, strategic communication choices, or simple inattention. Converting that silence into confirmation is a reasoning error because the missing denial does not establish the truth of the rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppeal to Ignorance</span><span class="citation-popover-snippet">NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oercollective.caul.edu.au">[2oercollective.caul.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oercollective.caul.edu.au</span><span class="citation-popover-title">The Burden of Proof and Arguments from Ignorance This is an appeal to ignorance</span><span class="citation-popover-snippet">The fact that no one has produced evidence that the claim is false is not enough reason to believe it&#x27;s true. There are lots...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_rumours_missing_deni_178a1a-Illustration-1-dark.svg" | relative_url }}" alt="Rumour Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_rumours_missing_deni_178a1a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_rumours_missing_deni_178a1a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This mistake matters because rumours thrive in conditions of uncertainty. When people are searching for explanations, unanswered questions can feel more persuasive than they really are. The result is a powerful illusion: a gap in public information starts to look like evidence of a hidden reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">EBSCORumor and Gossip | Social Sciences and HumanitiesRumors typically involve the transmission of unverified information about significa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSharing or Not: Psychological Motivations of Brand Rumors...by X Zhang · 2022 · Cited by 18 — DiFonzo and Bordia (2002) found t...</span></span></span>
+This mistake matters because rumours thrive in conditions of uncertainty. When people are searching for explanations, unanswered questions can feel more persuasive than they really are. The result is a powerful illusion: a gap in public information starts to look like evidence of a hidden reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Rumor and Gossip &#124; Social Sciences and HumanitiesRumors typically involve the transmission of unverified information about significa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSharing or Not: Psychological Motivations of Brand Rumors...by X Zhang · 2022 · Cited by 18 — DiFonzo and Bordia (2002) found t...</span></span></span>
 
 ## Why Silence Makes Rumours Feel True
 
-The human mind is uncomfortable with uncertainty. When information is incomplete, people naturally try to fill gaps and construct a coherent story. Rumours often provide a simple explanation, while silence leaves a vacuum. That vacuum can make the rumour feel increasingly plausible even when no new evidence has appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">EBSCORumor and Gossip | Social Sciences and HumanitiesRumors typically involve the transmission of unverified information about significa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSharing or Not: Psychological Motivations of Brand Rumors...by X Zhang · 2022 · Cited by 18 — DiFonzo and Bordia (2002) found t...</span></span></span>
+The human mind is uncomfortable with uncertainty. When information is incomplete, people naturally try to fill gaps and construct a coherent story. Rumours often provide a simple explanation, while silence leaves a vacuum. That vacuum can make the rumour feel increasingly plausible even when no new evidence has appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Rumor and Gossip &#124; Social Sciences and HumanitiesRumors typically involve the transmission of unverified information about significa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSharing or Not: Psychological Motivations of Brand Rumors...by X Zhang · 2022 · Cited by 18 — DiFonzo and Bordia (2002) found t...</span></span></span>
 
 A common pattern looks like this:
 
@@ -297,7 +297,7 @@ A common pattern looks like this:
 
 </div>
 
-The flaw occurs in step four. The reasoning jumps from “we have not heard a denial” to “the allegation must be true”. That leap mirrors the broader appeal to [ignorance]({{ 'ignorance/' | relative_url }}): a conclusion is drawn from missing evidence rather than positive proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppeal to Ignorance</span><span class="citation-popover-snippet">PMC - NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</span></span></span> Wikipedia Psychological research on misinformation suggests that people often form beliefs before they carefully evaluate evidence. Once a claim feels <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</span></span></span> familiar or intuitively plausible, the absence of contradiction can strengthen acceptance even when objective support remains weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</span></span></span>
+The flaw occurs in step four. The reasoning jumps from “we have not heard a denial” to “the allegation must be true”. That leap mirrors the broader appeal to ignorance: a conclusion is drawn from missing evidence rather than positive proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppeal to Ignorance</span><span class="citation-popover-snippet">NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</span></span></span> Wikipedia Psychological research on misinformation suggests that people often form beliefs before they carefully evaluate evidence. Once a claim feels <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</span></span></span> familiar or intuitively plausible, the absence of contradiction can strengthen acceptance even when objective support remains weak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</span></span></span>
 
 ## How Rumours Turn Gaps into Confirmation
 
@@ -324,7 +324,7 @@ In these cases, silence is not evidence of guilt or confirmation. It may simply 
 
 As a rumour spreads, each hour or day without a response may be reinterpreted as additional evidence. Yet nothing new has actually been learned. The same absence is repeatedly counted as though it were fresh proof.
 
-This creates an illusion of accumulating evidence when, in reality, the argument still rests on a single informational gap. The rumour grows stronger socially without becoming stronger evidentially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">EBSCORumor and Gossip | Social Sciences and HumanitiesRumors typically involve the transmission of unverified information about significa...</span></span></span>
+This creates an illusion of accumulating evidence when, in reality, the argument still rests on a single informational gap. The rumour grows stronger socially without becoming stronger evidentially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Rumor and Gossip &#124; Social Sciences and HumanitiesRumors typically involve the transmission of unverified information about significa...</span></span></span>
 
 ## Reasons Institutions May Not Answer Quickly
 
@@ -332,7 +332,7 @@ One of the easiest ways to avoid this fallacy is to recognise how many explanati
 
 ### Verification Takes Time
 
-Organisations often need to investigate before speaking publicly. Internal fact-finding, legal review, consultation with experts, or coordination across departments can delay responses. A slow response may reflect caution rather than concealment. Research on rumour management repeatedly highlights the role of information uncertainty and response timing in public communication. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppeal to Ignorance</span><span class="citation-popover-snippet">PMC - NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</span></span></span>
+Organisations often need to investigate before speaking publicly. Internal fact-finding, legal review, consultation with experts, or coordination across departments can delay responses. A slow response may reflect caution rather than concealment. Research on rumour management repeatedly highlights the role of information uncertainty and response timing in public communication. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppeal to Ignorance</span><span class="citation-popover-snippet">NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</span></span></span>
 
 ### Privacy and Confidentiality
 
@@ -354,7 +354,7 @@ Some rumours fade when ignored. Others grow when challenged. Communication profe
 
 ### Genuine Lack of Information
 
-An institution may not yet know whether a claim is true or false. In rapidly developing situations, the absence of a statement can simply reflect incomplete knowledge rather than a hidden admission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0377221721005919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectInterplay of rumor propagation and clarification on social...by P Agarwal · 2022 · Cited by 81 — Results from this study in...</span></span></span>
+An institution may not yet know whether a claim is true or false. In rapidly developing situations, the absence of a statement can simply reflect incomplete knowledge rather than a hidden admission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0377221721005919" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Interplay of rumor propagation and clarification on social...by P Agarwal · 2022 · Cited by 81 — Results from this study in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8M6I8R3d4wQ" title="Appeal to Ignorance | Logical Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8M6I8R3d4wQ" target="_blank" rel="noopener noreferrer">Appeal to Ignorance | Logical Fallacy</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 7.2K &middot; Uploaded: March 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8M6I8R3d4wQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8M6I8R3d4wQ">Open on YouTube</a></p></div></div></div>
@@ -365,14 +365,14 @@ Not every inference from silence is irrational. Sometimes the absence of an expe
 
 The key question is whether a response would strongly be expected if the rumour were false.
 
-For example, if an organisation routinely issues rapid [corrections]({{ 'corrections/' | relative_url }}), possesses the relevant information, faces little legal risk, and has a strong incentive to protect its reputation, prolonged silence may legitimately raise questions. Even then, silence is not proof. It is merely one factor among many. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores On the Absence of Evidence</span><span class="citation-popover-snippet">Law ExploresOn the Absence of Evidence | - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</span></span></span>
+For example, if an organisation routinely issues rapid [corrections]({{ 'corrections/' | relative_url }}), possesses the relevant information, faces little legal risk, and has a strong incentive to protect its reputation, prolonged silence may legitimately raise questions. Even then, silence is not proof. It is merely one factor among many. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores On the Absence of Evidence</span><span class="citation-popover-snippet">Law ExploresOn the Absence of Evidence &#124; - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</span></span></span>
 
 Good reasoning distinguishes between:
 
 * **Silence as a clue** that may deserve investigation.
 * **Silence as proof** that supposedly settles the matter.
 
-The first can be reasonable. The second is usually an appeal to ignorance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores On the Absence of Evidence</span><span class="citation-popover-snippet">Law ExploresOn the Absence of Evidence | - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</span></span></span>
+The first can be reasonable. The second is usually an appeal to ignorance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawexplores.com">[Law Explores]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawexplores.com</span><span class="citation-popover-title">Law Explores On the Absence of Evidence</span><span class="citation-popover-snippet">Law ExploresOn the Absence of Evidence &#124; - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_rumours_missing_deni_178a1a-Illustration-3-dark.svg" | relative_url }}" alt="Rumour Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_rumours_missing_deni_178a1a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_rumours_missing_deni_178a1a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -411,7 +411,7 @@ If so, non-response may be a deliberate communication strategy rather than an ad
 
 Rumours built on missing denials exploit a simple but powerful mistake: confusing unanswered claims with confirmed claims. Silence can be interesting, and in some circumstances it can justify further scrutiny. What it cannot do on its own is establish that a rumour is true.
 
-Within the broader family of appeal-to-ignorance fallacies, this pattern is especially persuasive because it feels intuitive. People expect innocence to speak immediately and guilt to remain silent. Real institutions and real people, however, often stay silent for many reasons unrelated to the truth of a rumour. The safer rule is to look for positive evidence rather than treating the absence of a denial as evidence in itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppeal to Ignorance</span><span class="citation-popover-snippet">PMC - NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</span></span></span>
+Within the broader family of appeal-to-ignorance fallacies, this pattern is especially persuasive because it feels intuitive. People expect innocence to speak immediately and guilt to remain silent. Real institutions and real people, however, often stay silent for many reasons unrelated to the truth of a rumour. The safer rule is to look for positive evidence rather than treating the absence of a denial as evidence in itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAppeal to Ignorance</span><span class="citation-popover-snippet">NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -835,140 +835,140 @@ Within the broader family of appeal-to-ignorance fallacies, this pattern is espe
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAppeal to Ignorance  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6354513/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby J Magnan · 2018 · Cited by 7 — Appeal to ignorance is also known as argument from ignorance, in which ignorance represents “a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oercollective.caul.edu.au  
    Title: The Burden of Proof and Arguments from Ignorance This is an appeal to ignorance  
-   Link: [https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/](https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/)  
+   Link: <a href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fact that no one has produced evidence that the claim is false is not enough reason to believe it&#x27;s true. There are lots...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip](https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EBSCORumor and Gossip | Social Sciences and HumanitiesRumors typically involve the transmission of unverified information about significa...</p></details>
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/rumor-and-gossip</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rumor and Gossip | Social Sciences and HumanitiesRumors typically involve the transmission of unverified information about significa...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44159-021-00006-y](https://www.nature.com/articles/s44159-021-00006-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44159-021-00006-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44159-021-00006-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychological drivers of misinformation belief and its...by UKH Ecker · 2022 · Cited by 1919 — In this Review, we describe the...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Argument from ignorance  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0377221721005919](https://www.sciencedirect.com/science/article/abs/pii/S0377221721005919)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectInterplay of rumor propagation and clarification on social...by P Agarwal · 2022 · Cited by 81 — Results from this study in...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221721005919" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0377221721005919</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interplay of rumor propagation and clarification on social...by P Agarwal · 2022 · Cited by 81 — Results from this study in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12708904/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12708904/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12708904/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12708904/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>management in public health: a system dynamics...by W Dong · 2025 — A rumor is a statement circulated informally within social groups, l...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cuttingedgepr.com  
    Title: This article details how to counter rumors on the grapevine  
-   Link: [https://cuttingedgepr.com/articles/counter-negative-rumors-grapevine/](https://cuttingedgepr.com/articles/counter-negative-rumors-grapevine/)  
+   Link: <a href="https://cuttingedgepr.com/articles/counter-negative-rumors-grapevine/" target="_blank" rel="noopener noreferrer nofollow">https://cuttingedgepr.com/articles/counter-negative-rumors-grapevine/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cutting Edge PRHow to counter negative rumors on the grapevine in your...March 16, 2025 — 16 Mar 2025 — Rumors in the workplace are the...</p></details>
    Published: March 16, 2025  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Glomar response  
-   Link: [https://en.wikipedia.org/wiki/Glomar_response](https://en.wikipedia.org/wiki/Glomar_response)  
+   Link: <a href="https://en.wikipedia.org/wiki/Glomar_response" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glomar_response</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glomar responseGlomar response, also known as Glomarization or Glomar denial, [1] means to respond evasively to a question with the ph...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S0377221721005919](https://www.sciencedirect.com/science/article/am/pii/S0377221721005919)  
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S0377221721005919" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S0377221721005919</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The objective of...Re...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Appeal to Ignorance | Logical Fallacy  
-   Link: [https://www.youtube.com/watch?v=8M6I8R3d4wQ](https://www.youtube.com/watch?v=8M6I8R3d4wQ)  
+   Link: <a href="https://www.youtube.com/watch?v=8M6I8R3d4wQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8M6I8R3d4wQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from Ignorance (Argumentum Ad Ignorantiam)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;): An Appeal to Ignorance  
-   Link: [https://www.youtube.com/watch?v=77Sjls1-zu8](https://www.youtube.com/watch?v=77Sjls1-zu8)  
+   Link: <a href="https://www.youtube.com/watch?v=77Sjls1-zu8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=77Sjls1-zu8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Ignorance...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Appeal to Ignorance  
-   Link: [https://www.youtube.com/watch?v=QL831_9GQAU](https://www.youtube.com/watch?v=QL831_9GQAU)  
+   Link: <a href="https://www.youtube.com/watch?v=QL831_9GQAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QL831_9GQAU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of People Who Never Defend Themselves Against Rumors...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.830002/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersSharing or Not: Psychological Motivations of Brand Rumors...by X Zhang · 2022 · Cited by 18 — DiFonzo and Bordia (2002) found t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: lawexplores.com  
    Title: Law Explores On the Absence of Evidence  
-   Link: [https://lawexplores.com/on-the-absence-of-evidence/](https://lawexplores.com/on-the-absence-of-evidence/)  
+   Link: <a href="https://lawexplores.com/on-the-absence-of-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://lawexplores.com/on-the-absence-of-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Law ExploresOn the Absence of Evidence | - Law Explorer26 Oct 2015 — Arguing from ignorance is usually taken to be a fallacy, but it can...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/285965800_Rumor_in_organizational_contexts](https://www.researchgate.net/publication/285965800_Rumor_in_organizational_contexts)  
+   Link: <a href="https://www.researchgate.net/publication/285965800_Rumor_in_organizational_contexts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285965800_Rumor_in_organizational_contexts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Rumor in organizational contextsRumors alter social perceptions, affect attitudes and behaviors, exacerbate hostilities, help group...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/](https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The argument from ignorance fallacy asserts...TODAY’S FALLACY: ARGUMENT FROM IGNORANCE (AKA Appeal to ignorance) DEFINITION AND EXPLANAT...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3412947335689192/posts/3858631411120780/](https://www.facebook.com/groups/3412947335689192/posts/3858631411120780/)  
+   Link: <a href="https://www.facebook.com/groups/3412947335689192/posts/3858631411120780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3412947335689192/posts/3858631411120780/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Rumor Theory and its Effects on SocietyRumor theory is based on how information spreads informally among people, often in a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from IgnoranceArgument from Ignorance · Description: The assumption of a conclusion or fact based primarily on lack of evidence...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: carnegieendowment.org  
    Title: countering disinformation effectively an evidence based policy guide  
-   Link: [https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide](https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide)  
+   Link: <a href="https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/russia-eurasia/research/2024/01/countering-disinformation-effectively-an-evidence-based-policy-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Countering Disinformation Effectively: An Evidence-Based...31 Jan 2024 — A high-level, evidence-informed guide to some of the major prop...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/8am.media/posts/rumors-as-a-psychological-mechanism-in-crisesone-of-the-primary-functions-of-rum/1332713805564999/](https://www.facebook.com/8am.media/posts/rumors-as-a-psychological-mechanism-in-crisesone-of-the-primary-functions-of-rum/1332713805564999/)  
+   Link: <a href="https://www.facebook.com/8am.media/posts/rumors-as-a-psychological-mechanism-in-crisesone-of-the-primary-functions-of-rum/1332713805564999/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/8am.media/posts/rumors-as-a-psychological-mechanism-in-crisesone-of-the-primary-functions-of-rum/1332713805564999/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>distorted way and through social networks. This theory...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ses.edu  
    Title: logical fallacies 101 ad ignorantiam  
-   Link: [https://ses.edu/logical-fallacies-101-ad-ignorantiam/](https://ses.edu/logical-fallacies-101-ad-ignorantiam/)  
+   Link: <a href="https://ses.edu/logical-fallacies-101-ad-ignorantiam/" target="_blank" rel="noopener noreferrer nofollow">https://ses.edu/logical-fallacies-101-ad-ignorantiam/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Southern Evangelical SeminaryLogical Fallacies 101: Ad Ignorantiam19 May 2017 — The fallacy ad ignorantiam, or an appeal to ignorance, oc...</p></details>
    Published: May 2017  
 
 23. <a id="endnote-23"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/19401612241291811](https://journals.sagepub.com/doi/10.1177/19401612241291811)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/19401612241291811" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/19401612241291811</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Punishment We Trust: Analyzing Characteristics and...by B Chen · 2026 · Cited by 3 — Denial is simply a direct counterstatement to the o...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: transfercredit.org  
    Title: Lack of evidence does not count as  
-   Link: [https://www.transfercredit.org/blog/humanities/appeal-to-ignorance-fallacy-definition-and-real-examples](https://www.transfercredit.org/blog/humanities/appeal-to-ignorance-fallacy-definition-and-real-examples)  
+   Link: <a href="https://www.transfercredit.org/blog/humanities/appeal-to-ignorance-fallacy-definition-and-real-examples" target="_blank" rel="noopener noreferrer nofollow">https://www.transfercredit.org/blog/humanities/appeal-to-ignorance-fallacy-definition-and-real-examples</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Ignorance Fallacy: Definition and Real Examples2 days ago — An appeal to ignorance fallacy says a claim is true, or false, beca...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/british-journal-of-political-science/article/war-of-misinformation-the-political-effects-of-rumors-and-rumor-rebuttals-in-an-authoritarian-country/9BA716D7394435F5A0C2291EC5E7B5B7](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/war-of-misinformation-the-political-effects-of-rumors-and-rumor-rebuttals-in-an-authoritarian-country/9BA716D7394435F5A0C2291EC5E7B5B7)  
+   Link: <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/war-of-misinformation-the-political-effects-of-rumors-and-rumor-rebuttals-in-an-authoritarian-country/9BA716D7394435F5A0C2291EC5E7B5B7" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/british-journal-of-political-science/article/war-of-misinformation-the-political-effects-of-rumors-and-rumor-rebuttals-in-an-authoritarian-country/9BA716D7394435F5A0C2291EC5E7B5B7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A War of (Mis)Information: The Political Effects of Rumors...by H Huang · 2017 · Cited by 235 — The study finds that rumors reduce citiz...</p></details>

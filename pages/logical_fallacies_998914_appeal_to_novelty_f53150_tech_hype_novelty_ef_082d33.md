@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:25:59'
 parent_title: Is New Always Better? | Fallacy Lab
 parent_permalink: /novelty/
 parent_nav_short_title: Novelty
@@ -259,7 +260,6 @@ prev_link:
   permalink: /new-coke/
   short_title: New Coke
   heading_title: Why New Coke Was Not Just a Taste Test
-date: '2026-06-05 02:25:59 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hyp
 
 ## Introduction
 
-When a new app feature, interface redesign, AI tool, or digital service launches, usage often surges. People click, explore, share [screenshots]({{ 'screenshots/' | relative_url }}), and spend more time with the product. This burst of activity can look like proof that the change is better. However, one of the most common forms of [appeal to novelty]({{ 'novelty/' | relative_url }}) in technology is treating this initial excitement as evidence of lasting value. The problem is that early engagement may reflect curiosity about something new rather than genuine improvement. Researchers describe this as a novelty effect: users temporarily increase attention, usage, or enthusiasm because a technology is unfamiliar, with behaviour often changing once the novelty fades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952057/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCBeyond novelty effect: a mixed-methods exploration into the...by G Shin · 2018 · Cited by 191 — This study explores the impact of nov...</span></span></span>
+When a new app feature, interface redesign, AI tool, or digital service launches, usage often surges. People click, explore, share [screenshots]({{ 'screenshots/' | relative_url }}), and spend more time with the product. This burst of activity can look like proof that the change is better. However, one of the most common forms of [appeal to novelty]({{ 'novelty/' | relative_url }}) in technology is treating this initial excitement as evidence of lasting value. The problem is that early engagement may reflect curiosity about something new rather than genuine improvement. Researchers describe this as a novelty effect: users temporarily increase attention, usage, or enthusiasm because a technology is unfamiliar, with behaviour often changing once the novelty fades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952057/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beyond novelty effect: a mixed-methods exploration into the...by G Shin · 2018 · Cited by 191 — This study explores the impact of nov...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-1-dark.svg" | relative_url }}" alt="Tech Hype illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -289,7 +289,7 @@ This creates a common interpretation error. A team may observe:
 
 Those outcomes can be real while still failing to demonstrate durable improvement. The key question is whether users continue using the feature once the excitement of discovery disappears.
 
-Studies of technology adoption repeatedly find that initial attraction and long-term use are not identical phenomena. Research on activity trackers, for example, found that novelty can strongly influence early adoption, while sustained use depends on different motivational factors that emerge after the initial excitement period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10515511/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMC - NIHby J Berner · 2023 · Cited by 23 — Technology enthusiasm and technology anxiety are attitudes that affect the relationship to th...</span></span></span>
+Studies of technology adoption repeatedly find that initial attraction and long-term use are not identical phenomena. Research on activity trackers, for example, found that novelty can strongly influence early adoption, while sustained use depends on different motivational factors that emerge after the initial excitement period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10515511/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby J Berner · 2023 · Cited by 23 — Technology enthusiasm and technology anxiety are attitudes that affect the relationship to th...</span></span></span>
 
 This distinction matters because appeal-to-novelty reasoning often treats adoption and enduring value as if they were the same thing.
 
@@ -300,7 +300,7 @@ This distinction matters because appeal-to-novelty reasoning often treats adopti
 
 A central mechanism behind the early user novelty effect is habituation. People naturally become accustomed to repeated experiences. What once felt surprising or exciting becomes normal.
 
-Researchers studying novelty and habituation describe repeated exposure as reducing the informational and emotional impact of a stimulus. In practical terms, users stop paying attention to the fact that something is new and begin evaluating whether it is actually useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.01355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMathematical Model of Emotional Habituation to Novelty: Modeling with Bayesian Update and Information TheoryJuly 2, 2019...</span><span class="citation-popover-meta">Published: July 2, 2019</span></span></span>
+Researchers studying novelty and habituation describe repeated exposure as reducing the informational and emotional impact of a stimulus. In practical terms, users stop paying attention to the fact that something is new and begin evaluating whether it is actually useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.01355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mathematical Model of Emotional Habituation to Novelty: Modeling with Bayesian Update and Information TheoryJuly 2, 2019...</span><span class="citation-popover-meta">Published: July 2, 2019</span></span></span>
 
 This shift can produce several outcomes:
 
@@ -316,7 +316,7 @@ Users explored the feature out of curiosity, then abandoned it once they underst
 
 Some technologies require learning. Initial usage may be modest, but value increases as users become more skilled and integrate the tool into their routines.
 
-The third case is especially important because it shows that not all time-related changes reflect novelty decay. Researchers examining online experiments distinguish between novelty effects, where engagement declines as excitement fades, and learning effects, where engagement grows as users become familiar with a system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.01355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMathematical Model of Emotional Habituation to Novelty: Modeling with Bayesian Update and Information TheoryJuly 2, 2019...</span><span class="citation-popover-meta">Published: July 2, 2019</span></span></span>
+The third case is especially important because it shows that not all time-related changes reflect novelty decay. Researchers examining online experiments distinguish between novelty effects, where engagement declines as excitement fades, and learning effects, where engagement grows as users become familiar with a system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.01355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mathematical Model of Emotional Habituation to Novelty: Modeling with Bayesian Update and Information TheoryJuly 2, 2019...</span><span class="citation-popover-meta">Published: July 2, 2019</span></span></span>
 
 A short-term spike therefore provides only a partial picture. The direction of long-term behaviour remains unknown until enough time has passed.
 
@@ -359,7 +359,7 @@ Several indicators are often more informative than launch-day excitement:
 * Retention after weeks or months.
 * Repeat usage rather than first-time usage.
 * Continued task completion rates.
-* Long-term satisfaction measures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.12893" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments</span><span class="citation-popover-snippet">arXivNovelty and Primacy: A Long-Term Estimator for Online ExperimentsFebruary 18, 2021...</span><span class="citation-popover-meta">Published: February 18, 2021</span></span></span>
+* Long-term satisfaction measures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.12893" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments</span><span class="citation-popover-snippet">Novelty and Primacy: A Long-Term Estimator for Online ExperimentsFebruary 18, 2021...</span><span class="citation-popover-meta">Published: February 18, 2021</span></span></span>
 * Reduced abandonment rates.
 * Evidence that users would miss the feature if it disappeared.
 
@@ -390,7 +390,7 @@ Measure how many users continue using a feature after the initial exploration ph
 
 **Comparison with control groups**
 
-Experiments can determine whether observed improvements persist after users become familiar with the experience. Research on online experimentation highlights the importance of accounting for novelty and user-learning effects when estimating long-term impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.01355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMathematical Model of Emotional Habituation to Novelty: Modeling with Bayesian Update and Information TheoryJuly 2, 2019...</span><span class="citation-popover-meta">Published: July 2, 2019</span></span></span>
+Experiments can determine whether observed improvements persist after users become familiar with the experience. Research on online experimentation highlights the importance of accounting for novelty and user-learning effects when estimating long-term impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.01355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Mathematical Model of Emotional Habituation to Novelty: Modeling with Bayesian Update and Information TheoryJuly 2, 2019...</span><span class="citation-popover-meta">Published: July 2, 2019</span></span></span>
 
 **Task-based outcomes**
 
@@ -833,150 +833,150 @@ A more careful conclusion is that strong launch metrics show that people noticed
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6952057/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6952057/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCBeyond novelty effect: a mixed-methods exploration into the...by G Shin · 2018 · Cited by 191 — This study explores the impact of nov...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952057/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6952057/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond novelty effect: a mixed-methods exploration into the...by G Shin · 2018 · Cited by 191 — This study explores the impact of nov...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: j.1540 5915.2010.00292.x  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5915.2010.00292.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5915.2010.00292.x)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5915.2010.00292.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5915.2010.00292.x</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe Effect of Perceived Novelty on the Adoption...Nov 24, 2010 — Results indicate that perceived novelty is a salien...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1907.01355](https://arxiv.org/abs/1907.01355)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMathematical Model of Emotional Habituation to Novelty: Modeling with Bayesian Update and Information TheoryJuly 2, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1907.01355" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.01355</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mathematical Model of Emotional Habituation to Novelty: Modeling with Bayesian Update and Information TheoryJuly 2, 2019...</p></details>
    Published: July 2, 2019  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Novelty and Primacy: A Long-Term Estimator for Online Experiments  
-   Link: [https://arxiv.org/abs/2102.12893](https://arxiv.org/abs/2102.12893)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivNovelty and Primacy: A Long-Term Estimator for Online ExperimentsFebruary 18, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2102.12893" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.12893</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Novelty and Primacy: A Long-Term Estimator for Online ExperimentsFebruary 18, 2021...</p></details>
    Published: February 18, 2021  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389716217_From_Novelty_to_Knowledge_A_Longitudinal_Investigation_of_the_Novelty_Effect_on_Learning_Outcomes_in_Virtual_Reality](https://www.researchgate.net/publication/389716217_From_Novelty_to_Knowledge_A_Longitudinal_Investigation_of_the_Novelty_Effect_on_Learning_Outcomes_in_Virtual_Reality)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateA Longitudinal Investigation of the Novelty Effect on...24 Mar 2025 — This study investigates how the novelty effect influen...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/389716217_From_Novelty_to_Knowledge_A_Longitudinal_Investigation_of_the_Novelty_Effect_on_Learning_Outcomes_in_Virtual_Reality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389716217_From_Novelty_to_Knowledge_A_Longitudinal_Investigation_of_the_Novelty_Effect_on_Learning_Outcomes_in_Virtual_Reality</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Investigation of the Novelty Effect on...24 Mar 2025 — This study investigates how the novelty effect influen...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: research.google.com  
-   Link: [https://research.google.com/pubs/archive/36299.pdf](https://research.google.com/pubs/archive/36299.pdf)  
+   Link: <a href="https://research.google.com/pubs/archive/36299.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.google.com/pubs/archive/36299.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/229055079_The_Effect_of_Perceived_Novelty_on_the_Adoption_of_Information_Technology_Innovations_A_RiskReward_Perspective](https://www.researchgate.net/publication/229055079_The_Effect_of_Perceived_Novelty_on_the_Adoption_of_Information_Technology_Innovations_A_RiskReward_Perspective)  
+   Link: <a href="https://www.researchgate.net/publication/229055079_The_Effect_of_Perceived_Novelty_on_the_Adoption_of_Information_Technology_Innovations_A_RiskReward_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229055079_The_Effect_of_Perceived_Novelty_on_the_Adoption_of_Information_Technology_Innovations_A_RiskReward_Perspective</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nificant role in the adoption of IT innovations.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389748400_Hedonic_Adaptation_in_the_Age_of_AI_A_Perspective_on_Diminishing_Satisfaction_Returns_in_Technology_Adoption](https://www.researchgate.net/publication/389748400_Hedonic_Adaptation_in_the_Age_of_AI_A_Perspective_on_Diminishing_Satisfaction_Returns_in_Technology_Adoption)  
+   Link: <a href="https://www.researchgate.net/publication/389748400_Hedonic_Adaptation_in_the_Age_of_AI_A_Perspective_on_Diminishing_Satisfaction_Returns_in_Technology_Adoption" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389748400_Hedonic_Adaptation_in_the_Age_of_AI_A_Perspective_on_Diminishing_Satisfaction_Returns_in_Technology_Adoption</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hich people revert to a baseline state of happiness after drastic change provides a...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Novelty effect  
-   Link: [https://en.wikipedia.org/wiki/Novelty_effect](https://en.wikipedia.org/wiki/Novelty_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Novelty_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Novelty_effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Novelty effectThe novelty effect is an effect of introducing new elements on some activity or behavior. Contents 1 In performance 2 In...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: profiles.wustl.edu  
    Title: the effect of perceived novelty on the adoption of information te  
-   Link: [https://profiles.wustl.edu/en/publications/the-effect-of-perceived-novelty-on-the-adoption-of-information-te](https://profiles.wustl.edu/en/publications/the-effect-of-perceived-novelty-on-the-adoption-of-information-te)  
+   Link: <a href="https://profiles.wustl.edu/en/publications/the-effect-of-perceived-novelty-on-the-adoption-of-information-te" target="_blank" rel="noopener noreferrer nofollow">https://profiles.wustl.edu/en/publications/the-effect-of-perceived-novelty-on-the-adoption-of-information-te</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WashU Research ProfilesThe Effect of Perceived Novelty on the Adoption...by JD Wells · 2010 · Cited by 419 — A fundamental characteristi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: digital-transformation.org  
    Title: Gregory Gimpel The Adoption of Hyped Technologies: A Qualitative Study  
-   Link: [https://www.digital-transformation.org/wp-content/uploads/2022/12/Adoption-of-Hyped-Technologies.pdf](https://www.digital-transformation.org/wp-content/uploads/2022/12/Adoption-of-Hyped-Technologies.pdf)  
+   Link: <a href="https://www.digital-transformation.org/wp-content/uploads/2022/12/Adoption-of-Hyped-Technologies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.digital-transformation.org/wp-content/uploads/2022/12/Adoption-of-Hyped-Technologies.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gregory GimpelThe Adoption of Hyped Technologies: A Qualitative StudyJune 24, 2019 — by J Hedman · Cited by 128 — This research contribut...</p></details>
    Published: June 24, 2019  
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.741478/full](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.741478/full)  
+   Link: <a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.741478/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.741478/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why a Proper Investigation of Novelty Effects Within SHRI...by CV Smedegaard · 2022 · Cited by 33 — I argue that the treatment of novelt...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: research.google  
-   Link: [https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/](https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/)  
+   Link: <a href="https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ResearchUser-Centered Metrics for Web ApplicationsIn this note, we describe the HEART framework for user-centered metrics, as well...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1461444817727264](https://journals.sagepub.com/doi/10.1177/1461444817727264)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1461444817727264" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1461444817727264</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA phased framework for long-term user acceptance of...Our 6-month home study deploying an interactive robot provides insigh...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10515511/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10515511/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby J Berner · 2023 · Cited by 23 — Technology enthusiasm and technology anxiety are attitudes that affect the relationship to th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10515511/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10515511/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby J Berner · 2023 · Cited by 23 — Technology enthusiasm and technology anxiety are attitudes that affect the relationship to th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2023.1203077/full](https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2023.1203077/full)  
+   Link: <a href="https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2023.1203077/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2023.1203077/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of digital technology, social media, and artificial...by M Shanmugasundaram · 2023 · Cited by 397 — This review aims to explo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ixdf.org  
    Title: heart framework  
-   Link: [https://ixdf.org/literature/topics/heart-framework](https://ixdf.org/literature/topics/heart-framework)  
+   Link: <a href="https://ixdf.org/literature/topics/heart-framework" target="_blank" rel="noopener noreferrer nofollow">https://ixdf.org/literature/topics/heart-framework</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is The HEART Framework? — updated 202627 Aug 2019 — The HEART Framework is a user-centered methodology that measures the quality of...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40dhruvghulati/google-s-heart-framework-a-critical-evaluation-a6694421dae](https://medium.com/%40dhruvghulati/google-s-heart-framework-a-critical-evaluation-a6694421dae)  
+   Link: <a href="https://medium.com/%40dhruvghulati/google-s-heart-framework-a-critical-evaluation-a6694421dae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40dhruvghulati/google-s-heart-framework-a-critical-evaluation-a6694421dae</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s HEART framework — A Critical EvaluationHEART stands for Happiness, Engagement, Adoption, Retention and Task Success. Traditional...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: heartframework.com  
-   Link: [https://www.heartframework.com/](https://www.heartframework.com/)  
+   Link: <a href="https://www.heartframework.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heartframework.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Googles™ HEART FrameworkThe HEART framework measures the quality of the user experience by using five metrics which form the acronym: Hap...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/The-Effect-of-Perceived-Novelty-on-the-Adoption-of-Wells-Campbell/9b19ad46902af968445320b72f0f92db621b9149](https://www.semanticscholar.org/paper/The-Effect-of-Perceived-Novelty-on-the-Adoption-of-Wells-Campbell/9b19ad46902af968445320b72f0f92db621b9149)  
+   Link: <a href="https://www.semanticscholar.org/paper/The-Effect-of-Perceived-Novelty-on-the-Adoption-of-Wells-Campbell/9b19ad46902af968445320b72f0f92db621b9149" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Effect-of-Perceived-Novelty-on-the-Adoption-of-Wells-Campbell/9b19ad46902af968445320b72f0f92db621b9149</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Perceived Novelty on the Adoption...Perceived novelty is a salient affective belief that plays a significant role in the a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: openclassrooms.com  
-   Link: [https://openclassrooms.com/en/courses/4555961-apply-metrics-to-design-decisions/6736981-get-some-practice-by-using-the-heart-framework-to-determine-metrics](https://openclassrooms.com/en/courses/4555961-apply-metrics-to-design-decisions/6736981-get-some-practice-by-using-the-heart-framework-to-determine-metrics)  
+   Link: <a href="https://openclassrooms.com/en/courses/4555961-apply-metrics-to-design-decisions/6736981-get-some-practice-by-using-the-heart-framework-to-determine-metrics" target="_blank" rel="noopener noreferrer nofollow">https://openclassrooms.com/en/courses/4555961-apply-metrics-to-design-decisions/6736981-get-some-practice-by-using-the-heart-framework-to-determine-metrics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understand the value of quantitative and qualitative data · 2. Decide which metrics to collect · 3. Use Google Analytics...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: hal.science  
    Title: VDEF The Role of Novelty in Consumer Curiosity by Product Type  
-   Link: [https://hal.science/hal-05420515/file/VDEF%20The%20Role%20of%20Novelty%20in%20Consumer%20Curiosity%20by%20Product%20Type.pdf](https://hal.science/hal-05420515/file/VDEF%20The%20Role%20of%20Novelty%20in%20Consumer%20Curiosity%20by%20Product%20Type.pdf)  
+   Link: <a href="https://hal.science/hal-05420515/file/VDEF%20The%20Role%20of%20Novelty%20in%20Consumer%20Curiosity%20by%20Product%20Type.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-05420515/file/VDEF%20The%20Role%20of%20Novelty%20in%20Consumer%20Curiosity%20by%20Product%20Type.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of novelty in consumer curiosity by product typeby M Beck · 2025 · Cited by 3 — This research investigates the joint effect of p...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: library.gv.com  
    Title: how to choose the right ux metrics for your product 5f46359ab5be  
-   Link: [https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be)  
+   Link: <a href="https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be" target="_blank" rel="noopener noreferrer nofollow">https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While helping Google product teams define UX metrics, we noticed that our suggestions tended to fall into five categories:.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
    Title: How fast is this novel technology going to be a hit?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0048733321002468](https://www.sciencedirect.com/science/article/pii/S0048733321002468)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0048733321002468" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0048733321002468</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Pezzoni · 2022 · Cited by 51 — We find that complex novel technologies resulting from combining dissimilar technological components...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S266724212400099X](https://www.sciencedirect.com/science/article/pii/S266724212400099X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S266724212400099X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S266724212400099X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>omprehensive framework that systematically categorizes digital technologies...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: emerald.com  
-   Link: [https://www.emerald.com/jpbm/article/29/3/387/449304/The-effect-of-consumer-generated-media-stimuli-on](https://www.emerald.com/jpbm/article/29/3/387/449304/The-effect-of-consumer-generated-media-stimuli-on)  
+   Link: <a href="https://www.emerald.com/jpbm/article/29/3/387/449304/The-effect-of-consumer-generated-media-stimuli-on" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jpbm/article/29/3/387/449304/The-effect-of-consumer-generated-media-stimuli-on</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper aims to explore the relationships between website quality – through consumer-generated media stimuli-, emotions and...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: mobiteam.de  
    Title: Google HEART Framework and UX Metrics  
-   Link: [https://mobiteam.de/en/google-heart-framework-and-ux-metrics-how-to-use-it/](https://mobiteam.de/en/google-heart-framework-and-ux-metrics-how-to-use-it/)  
+   Link: <a href="https://mobiteam.de/en/google-heart-framework-and-ux-metrics-how-to-use-it/" target="_blank" rel="noopener noreferrer nofollow">https://mobiteam.de/en/google-heart-framework-and-ux-metrics-how-to-use-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Use It13 Nov 2025 — This framework is responsible for measuring UX quality for web applications. If a team relies on results, this...</p></details>

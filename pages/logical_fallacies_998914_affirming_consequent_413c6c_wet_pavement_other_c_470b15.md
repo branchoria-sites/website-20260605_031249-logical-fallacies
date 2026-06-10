@@ -348,7 +348,7 @@ The lesson of the wet-pavement example is not that rain should never be inferred
 A careful reasoner asks what else could have produced the same outcome. If several plausible mechanisms exist—street cleaning, sprinklers, leaks, flooding, or rain—then the observation supports multiple explanations rather than proving one of them. Recognising those alternatives prevents causal overreach and helps distinguish a plausible hypothesis from a logically certain conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_WDDVz-EWFw" title="Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer">Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 11.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_WDDVz-EWFw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8JYN1oOvkM" title="Logic 101 (#48): Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer">Logic 101 (#48): Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: William Spaniel &middot; Views: 12.0K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8JYN1oOvkM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -773,93 +773,93 @@ A careful reasoner asks what else could have produced the same outcome. If sever
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: [https://en.wikipedia.org/wiki/Affirming_the_consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
 2. <a id="endnote-2"></a>
    Source: diales.com  
-   Link: [https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent](https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent)  
+   Link: <a href="https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The reasoning is flawed, which often leads...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: samenvoorzuiverelucht.eu  
-   Link: [https://samenvoorzuiverelucht.eu/en/inspiratie/provide-adequate-street-cleaning](https://samenvoorzuiverelucht.eu/en/inspiratie/provide-adequate-street-cleaning)  
+   Link: <a href="https://samenvoorzuiverelucht.eu/en/inspiratie/provide-adequate-street-cleaning" target="_blank" rel="noopener noreferrer nofollow">https://samenvoorzuiverelucht.eu/en/inspiratie/provide-adequate-street-cleaning</a>  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Affirming the Consequent  
-   Link: [https://www.youtube.com/watch?v=_WDDVz-EWFw](https://www.youtube.com/watch?v=_WDDVz-EWFw)  
+   Link: <a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_WDDVz-EWFw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deductive Fallacies - Affirming the Consequent &amp; Denying the Antecedent...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: jamesfodor.com  
    Title: James Fodor Affirming the Consequent  
-   Link: [https://jamesfodor.com/affirming-the-consequent/](https://jamesfodor.com/affirming-the-consequent/)  
+   Link: <a href="https://jamesfodor.com/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow">https://jamesfodor.com/affirming-the-consequent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>James FodorAffirming the ConsequentDecember 9, 2020 — Explanation: this fallacy involves reasoning that since one thing implies a second...</p></details>
    Published: December 9, 2020  
 
 6. <a id="endnote-6"></a>
    Source: khanacademy.org  
-   Link: [https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent](https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent)  
+   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Affirming the Consequent (video)If you confuse sufficient and necessary conditions, you get the fallacy of affirming the conse...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aaqr.org  
-   Link: [https://aaqr.org/articles/aaqr-22-09-oa-0338](https://aaqr.org/articles/aaqr-22-09-oa-0338)  
+   Link: <a href="https://aaqr.org/articles/aaqr-22-09-oa-0338" target="_blank" rel="noopener noreferrer nofollow">https://aaqr.org/articles/aaqr-22-09-oa-0338</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerosol and Air Quality ResearchDo the Street Sweeping and Washing Work for Reducing...by SL Lin · 2023 · Cited by 13 — This study suppo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/logical](https://dictionary.cambridge.org/dictionary/english/logical)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary6 days ago — LOGICAL definition: 1. using reason: 2. using reason: 3. reasonable and based on goo...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/logical" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/logical</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — LOGICAL definition: 1. using reason: 2. using reason: 3. reasonable and based on goo...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: It has been well documented that street dust washes into local watersheds  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/25367134/](https://pubmed.ncbi.nlm.nih.gov/25367134/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25367134/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25367134/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>dust: implications for stormwater and air quality, and...by SJ Calvillo · 2015 · Cited by 74 — Street dust represents a source of dual p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/logical](https://www.merriam-webster.com/dictionary/logical)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/logical" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/logical</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LOGICAL Definition &amp; Meaning1. a (1): of, relating to, involving, or being in accordance with logic a logical conclusion (2): skilled i...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: stormwatercenter.net  
-   Link: [https://www.stormwatercenter.net/Pollution_Prevention_Factsheets/ParkingLotandStreetCleaning.htm](https://www.stormwatercenter.net/Pollution_Prevention_Factsheets/ParkingLotandStreetCleaning.htm)  
+   Link: <a href="https://www.stormwatercenter.net/Pollution_Prevention_Factsheets/ParkingLotandStreetCleaning.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.stormwatercenter.net/Pollution_Prevention_Factsheets/ParkingLotandStreetCleaning.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pollution Prevention: Parking Lot and Street CleaningIn colder climates, street sweeping is used during the spring snowmelt to reduce pol...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sustainabletechnologies.ca  
-   Link: [https://sustainabletechnologies.ca/home/urban-runoff-green-infrastructure/pollution-prevention/street-cleaning/](https://sustainabletechnologies.ca/home/urban-runoff-green-infrastructure/pollution-prevention/street-cleaning/)  
+   Link: <a href="https://sustainabletechnologies.ca/home/urban-runoff-green-infrastructure/pollution-prevention/street-cleaning/" target="_blank" rel="noopener noreferrer nofollow">https://sustainabletechnologies.ca/home/urban-runoff-green-infrastructure/pollution-prevention/street-cleaning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Street CleaningThe practice of street cleaning has long been used as a method to reduce road pollution and enhance the aesthetic appeal o...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ditext.com  
-   Link: [https://www.ditext.com/fearnside/44.html](https://www.ditext.com/fearnside/44.html)  
+   Link: <a href="https://www.ditext.com/fearnside/44.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ditext.com/fearnside/44.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/](https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/</a>  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/philosophy/comments/rm0m7/what_makes_logic_logical/](https://www.reddit.com/r/philosophy/comments/rm0m7/what_makes_logic_logical/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/rm0m7/what_makes_logic_logical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/rm0m7/what_makes_logic_logical/</a>  
 
 16. <a id="endnote-16"></a>
    Source: airuse.eu  
-   Link: [https://airuse.eu/wp-content/uploads/2013/11/B7-3-ES_road-cleaning.pdf](https://airuse.eu/wp-content/uploads/2013/11/B7-3-ES_road-cleaning.pdf)  
+   Link: <a href="https://airuse.eu/wp-content/uploads/2013/11/B7-3-ES_road-cleaning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://airuse.eu/wp-content/uploads/2013/11/B7-3-ES_road-cleaning.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effect of road sweeping and washing (separately or combined) on reducing emissions and PM...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: collinsdictionary.com  
    Title: LOGICA L definition and meaning | Collins English Dictionary1  
-   Link: [https://www.collinsdictionary.com/dictionary/english/logical](https://www.collinsdictionary.com/dictionary/english/logical)  
+   Link: <a href="https://www.collinsdictionary.com/dictionary/english/logical" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/logical</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>relating to, used in, or characteristic of logic 2. using, according to, or deduced from the principles of logic a logical conclusion.Rea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: psychotricks.com  
    Title: Psycho Tricks Understanding the Ground-Consequent Fallacy  
-   Link: [https://psychotricks.com/ground-consequent-fallacy/](https://psychotricks.com/ground-consequent-fallacy/)  
+   Link: <a href="https://psychotricks.com/ground-consequent-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychotricks.com/ground-consequent-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Ground-Consequent Fallacy - PsychoTricks8 Jul 2025 — The ground-consequent fallacy, also known as affirming the consequ...</p></details>

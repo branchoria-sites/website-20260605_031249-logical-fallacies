@@ -278,7 +278,7 @@ For that reason, evaluating a slippery slope argument requires more than asking 
 
 The central weakness in many slippery slope arguments is the assumption of inevitability. The argument often proceeds as if once society takes step A, steps B through Z must follow. Yet real-world decision-making contains multiple points where people can reassess, reverse course, or draw new [boundaries]({{ 'boundaries/' | relative_url }}).
 
-Consider a policy change that critics claim will lead to a much broader and more controversial outcome. The key question is not simply whether the later outcome could happen. The better question is whether institutions possess practical [mechanisms]({{ 'mechanisms/' | relative_url }}) for stopping it. If lawmakers can revise the policy, courts can reject overextensions, and voters can punish unpopular expansions, then the predicted chain is not automatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrSlippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
+Consider a policy change that critics claim will lead to a much broader and more controversial outcome. The key question is not simply whether the later outcome could happen. The better question is whether institutions possess practical [mechanisms]({{ 'mechanisms/' | relative_url }}) for stopping it. If lawmakers can revise the policy, courts can reject overextensions, and voters can punish unpopular expansions, then the predicted chain is not automatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
 
 This does not prove the slippery slope argument is wrong. It means the argument must do more work. It must explain why those barriers will fail rather than treating them as if they do not exist.
 
@@ -321,7 +321,7 @@ Oversight mechanisms are not perfect, but they represent additional barriers tha
 
 ## Questions That Test Whether Safeguards Are Real
 
-A useful way to evaluate a slippery slope claim is to ask a series of practical questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrSlippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
+A useful way to evaluate a slippery slope claim is to ask a series of practical questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
 
 * **What specific safeguard exists?** Vague references to "regulation" or "oversight" are less reassuring than clearly defined institutions and procedures.
 * **Who enforces the safeguard?** Rules matter less if no one has authority or incentive to apply them.
@@ -786,123 +786,123 @@ In practical reasoning, the existence and quality of safeguards often determine 
 
 1. <a id="endnote-1"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&mirid=1&type=2](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&mirid=1&type=2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNSlippery slope argumentsA first additional requirement for calling an argument a slippery slope argument can be distilled from this...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slope argumentsA first additional requirement for calling an argument a slippery slope argument can be distilled from this...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: Slippery Slope Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.com/fallacies/slippery-slope-fallacy/](https://www.scribbr.com/fallacies/slippery-slope-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrSlippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/slippery-slope-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</p></details>
    Published: April 14, 2023  
 
 3. <a id="endnote-3"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slippery.pdf](https://www2.law.ucla.edu/Volokh/slippery.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — a precedent that courts have the authority to dec...</p></details>
    Published: November 26, 2012  
 
 4. <a id="endnote-4"></a>
    Source: reason.com  
-   Link: [https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/](https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/)  
+   Link: <a href="https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Judicial-Judicial Equality Slippery Slopes and the...15 Jun 2022 — A related legal effect slippery slope may happen when the justificati...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: www2.law.ucla.edu  
-   Link: [https://www2.law.ucla.edu/Volokh/slipperyfar.pdf](https://www2.law.ucla.edu/Volokh/slipperyfar.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slipperyfar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slipperyfar.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of Law18 0 Slippery Slopes1 Mar 2007 — The slippery slope we mean to describe here occurs when there are distinctions between...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID3138302 code2885242  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&mirid=1&type=2](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&mirid=1&type=2)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3138302_code2885242.pdf?abstractid=3138302&amp;mirid=1&amp;type=2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comInternet, freedom of speech and slippery slope argumentWhat is thus worth considering is where the [free speech](&amp;#123;&amp;#123; &#x27;free-speech/&#x27; | relative_url &amp;#125;&amp;#125;) line is drawn by l...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change  
-   Link: [https://www.youtube.com/watch?v=ar39s8NQXUM](https://www.youtube.com/watch?v=ar39s8NQXUM)  
+   Link: <a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ar39s8NQXUM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Slippery Slope Fallacy  
-   Link: [https://www.youtube.com/watch?v=t2ePCnSyQ4w](https://www.youtube.com/watch?v=t2ePCnSyQ4w)  
+   Link: <a href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t2ePCnSyQ4w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: [https://www.youtube.com/watch?v=yxylBjtzMNQ](https://www.youtube.com/watch?v=yxylBjtzMNQ)  
+   Link: <a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Slippery Slope Fallacy - Learn how to avoid this common logical fallacy...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Slippery Slope Fallacy  
-   Link: [https://www.youtube.com/watch?v=6ksMckeGdoI](https://www.youtube.com/watch?v=6ksMckeGdoI)  
+   Link: <a href="https://www.youtube.com/watch?v=6ksMckeGdoI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6ksMckeGdoI</a>  
 
 11. <a id="endnote-11"></a>
    Source: informallogic.ca  
    Title: Informal Logic The Basic Slippery Slope Argument  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/4286/3764](https://informallogic.ca/index.php/informal_logic/article/view/4286/3764)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4286/3764" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4286/3764</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Court can easily set such a chain of sequential argumentation into motion. In this case the sequence of argumentation is...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: wibrenvanderburg.nl  
    Title: The Slippery Slope Argument  
-   Link: [https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf](https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf)  
+   Link: <a href="https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wibrenvanderburg.nl/wp-content/uploads/2022/03/50.-the-slippery-slope-argument-ethics-102.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wibren van der Burgby W van der Burg · 1991 · Cited by 232 — In this section I will analyze whether these two logical varieties are valid...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/205990052896041/posts/3224031804425169/](https://www.facebook.com/groups/205990052896041/posts/3224031804425169/)  
+   Link: <a href="https://www.facebook.com/groups/205990052896041/posts/3224031804425169/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/205990052896041/posts/3224031804425169/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BBI AND THE CONSTITUTIONAL RED LINE...BBI AND THE CONSTITUTIONAL RED LINE: A Brief for Lawyers, Law Students, and the Legal Conscience o...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375247506_Slippery_Slope_Arguments](https://www.researchgate.net/publication/375247506_Slippery_Slope_Arguments)  
+   Link: <a href="https://www.researchgate.net/publication/375247506_Slippery_Slope_Arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375247506_Slippery_Slope_Arguments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope ArgumentsA `slippery slope argument&#x27; is a kind of argument which warns you that, if you take a first step, you will find y...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: verywellmind.com  
-   Link: [https://www.verywellmind.com/how-to-recognize-and-avoid-the-slippery-slope-fallacy-8649241](https://www.verywellmind.com/how-to-recognize-and-avoid-the-slippery-slope-fallacy-8649241)  
+   Link: <a href="https://www.verywellmind.com/how-to-recognize-and-avoid-the-slippery-slope-fallacy-8649241" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/how-to-recognize-and-avoid-the-slippery-slope-fallacy-8649241</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While not all slippery slope arguments are fallacious—some are based on real cause-effect connections—the fallacy arises when at least on...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ssm-italia.eu  
    Title: ARTIFICIA L INTELLIGENCE, JUDICIAL DECISION-MAKING  
-   Link: [https://ssm-italia.eu/wp-content/uploads/2025/02/JuLIA_handbook-Justice_final.pdf](https://ssm-italia.eu/wp-content/uploads/2025/02/JuLIA_handbook-Justice_final.pdf)  
+   Link: <a href="https://ssm-italia.eu/wp-content/uploads/2025/02/JuLIA_handbook-Justice_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ssm-italia.eu/wp-content/uploads/2025/02/JuLIA_handbook-Justice_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oversee their functioning. Human oversight shall aim to prevent or minimise the risks to fundamental rights that may emerge in the use of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/](https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/7ifqpe/the_slippery_slope_fallacy_a_short_animated/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>events will follow and this will eventually lead to undesirable consequences...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-slippery-slopedefinition-and-explanation-the-slippery-slope-f/466541828401435/](https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-slippery-slopedefinition-and-explanation-the-slippery-slope-f/466541828401435/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-slippery-slopedefinition-and-explanation-the-slippery-slope-f/466541828401435/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-slippery-slopedefinition-and-explanation-the-slippery-slope-f/466541828401435/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y argues that an action will lead to a chain of events, resulting...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/](https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y diverting attention towards negative and unlikely outcomes. In...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41230891/](https://pubmed.ncbi.nlm.nih.gov/41230891/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41230891/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41230891/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Differences in Slippery Slope Thinkingby RA Anderson · Cited by 1 — Slippery slope arguments (SSAs) contend that a small, innocuous chang...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6nhA_i4r_-Q](https://www.youtube.com/watch?v=6nhA_i4r_-Q)  
+   Link: <a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6nhA_i4r_-Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ll action will inevitably lead to a chain of extreme and undesirable consequences...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: owl.excelsior.edu  
    Title: OWLSlippery Slope Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLSlippery Slope Fallacy - Excelsior OWLA slippery slope fallacy occurs when someone claims that a position or decision will l...</p></details>

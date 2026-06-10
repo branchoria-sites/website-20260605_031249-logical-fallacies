@@ -531,7 +531,7 @@ To understand the fallacy, it helps to look at the logical form at play. A condi
 
 This pattern is invalid because the inference assumes that Q only arises from P, which the original premise does not claim. In formal propositional logic, this misstep is called *affirming the consequent* or a **converse error**: it mistakenly treats Q as if it implied P.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-Analysing the [truth table]({{ 'truth-table/' | relative_url }}) for a conditional shows why the fallacy can occur: a conditional “P → Q” is true whenever either P is false or Q is true. So, even with Q true and the conditional true, P might still be false. That means the reasoning from Q back to P simply does not follow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://proofwiki.org/wiki/Affirming_the_Consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proofwiki.org">[ProofWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proofwiki.org</span><span class="citation-popover-title">Proof Wiki Affirming the Consequent</span><span class="citation-popover-snippet">ProofWikiAffirming the Consequent - ProofWikiDecember 3, 2024...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
+Analysing the [truth table]({{ 'truth-table/' | relative_url }}) for a conditional shows why the fallacy can occur: a conditional “P → Q” is true whenever either P is false or Q is true. So, even with Q true and the conditional true, P might still be false. That means the reasoning from Q back to P simply does not follow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://proofwiki.org/wiki/Affirming_the_Consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proofwiki.org">[ProofWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proofwiki.org</span><span class="citation-popover-title">Proof Wiki Affirming the Consequent</span><span class="citation-popover-snippet">Affirming the Consequent - ProofWikiDecember 3, 2024...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8JYN1oOvkM" title="Logic 101 (#48): Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer">Logic 101 (#48): Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: William Spaniel &middot; Views: 12.0K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8JYN1oOvkM">Open on YouTube</a></p></div></div></div>
@@ -562,7 +562,7 @@ Despite being formally invalid, affirming the consequent is a natural intuitive 
 In probabilistic or inductive reasoning — where one weighs likelihoods rather than strict logical entailment — observing an outcome can raise the probability of a particular cause. But this does not convert the informal intuition into a valid deductive argument. It only suggests that one explanation is *plausible*, not that it is the only explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rationalwiki.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rationalwiki.org">[rationalwiki.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rationalwiki.org</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">RationalWiki...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/85QJZdbgEoc" title="Affirming the Consequent: A Formal Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer">Affirming the Consequent: A Formal Fallacy</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 69.7K &middot; Uploaded: November 2009 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=85QJZdbgEoc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i5C8KHs4q7k" title="MATH 1332 3.4.8 Common Fallacies: Fallacy of the Converse [ERROR at 11:07]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i5C8KHs4q7k" target="_blank" rel="noopener noreferrer">MATH 1332 3.4.8 Common Fallacies: Fallacy of the Converse [ERROR at 11:07]</a></p><p class="youtube-embed-meta">Channel: Chris Chappa &middot; Views: 1.4K &middot; Uploaded: June 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i5C8KHs4q7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i5C8KHs4q7k">Open on YouTube</a></p></div></div></div>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_WDDVz-EWFw" title="Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer">Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 11.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_WDDVz-EWFw">Open on YouTube</a></p></div></div></div>
@@ -1006,87 +1006,87 @@ In probabilistic or inductive reasoning — where one weighs likelihoods rather 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: [https://en.wikipedia.org/wiki/Affirming_the_consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
 2. <a id="endnote-2"></a>
    Source: logicalfallacies.org  
    Title: Affirming The Consequent  
-   Link: [https://www.logicalfallacies.org/affirming-the-consequent.html](https://www.logicalfallacies.org/affirming-the-consequent.html)  
+   Link: <a href="https://www.logicalfallacies.org/affirming-the-consequent.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/affirming-the-consequent.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LF...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: proofwiki.org  
    Title: Proof Wiki Affirming the Consequent  
-   Link: [https://proofwiki.org/wiki/Affirming_the_Consequent](https://proofwiki.org/wiki/Affirming_the_Consequent)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ProofWikiAffirming the Consequent - ProofWikiDecember 3, 2024...</p></details>
+   Link: <a href="https://proofwiki.org/wiki/Affirming_the_Consequent" target="_blank" rel="noopener noreferrer nofollow">https://proofwiki.org/wiki/Affirming_the_Consequent</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent - ProofWikiDecember 3, 2024...</p></details>
    Published: December 3, 2024  
 
 4. <a id="endnote-4"></a>
    Source: rationalwiki.org  
    Title: Affirming the consequent  
-   Link: [https://rationalwiki.org/wiki/Affirming_the_consequent](https://rationalwiki.org/wiki/Affirming_the_consequent)  
+   Link: <a href="https://rationalwiki.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://rationalwiki.org/wiki/Affirming_the_consequent</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RationalWiki...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: logicalfallacies.org  
-   Title: Among these, [formal fallacies](&#123;&#123; 'formal-logic/' | relative_url &#125;&#125;) are  
-   Link: [https://www.logicalfallacies.org/formal-fallacies.html](https://www.logicalfallacies.org/formal-fallacies.html)  
+   Title: Among these, formal fallacies are  
+   Link: <a href="https://www.logicalfallacies.org/formal-fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/formal-fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Formal Fallacies - Definition &amp; Examples | LFFORMAL FALLACIES In the world of logic and critical thinking, fallacies often emerge as dece...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: everything.explained.today  
-   Link: [https://everything.explained.today/Affirming_the_consequent/](https://everything.explained.today/Affirming_the_consequent/)  
+   Link: <a href="https://everything.explained.today/Affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Affirming_the_consequent/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the consequent explainedAFFIRMING THE CONSEQUENT EXPLAINED In propositional logic, affirming the consequent (also known as converse error...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: everything.explained.today  
-   Link: [https://everything.explained.today/illicit_conversion/](https://everything.explained.today/illicit_conversion/)  
+   Link: <a href="https://everything.explained.today/illicit_conversion/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/illicit_conversion/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the consequent explainedAFFIRMING THE CONSEQUENT EXPLAINED In propositional logic, affirming the consequent (also known as converse error...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Affirming the Consequent  
-   Link: [https://www.youtube.com/watch?v=_WDDVz-EWFw](https://www.youtube.com/watch?v=_WDDVz-EWFw)  
+   Link: <a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_WDDVz-EWFw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic 101 (#48): Affirming the Consequent...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=i5C8KHs4q7k](https://www.youtube.com/watch?v=i5C8KHs4q7k)  
+   Link: <a href="https://www.youtube.com/watch?v=i5C8KHs4q7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i5C8KHs4q7k</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=9Tea1UzOSYE](https://www.youtube.com/watch?v=9Tea1UzOSYE)  
+   Link: <a href="https://www.youtube.com/watch?v=9Tea1UzOSYE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9Tea1UzOSYE</a>  
 
 11. <a id="endnote-11"></a>
    Source: fallacycheck.com  
    Title: affirming the consequent  
-   Link: [https://fallacycheck.com/fallacy/affirming-the-consequent](https://fallacycheck.com/fallacy/affirming-the-consequent)  
+   Link: <a href="https://fallacycheck.com/fallacy/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://fallacycheck.com/fallacy/affirming-the-consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy CheckAFFIRMING THE CONSEQUENT Image The fallacy of affirming the consequent (abbreviated FAC) occurs when the consequent of a con...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/affirming-the-consequent](https://fallacyguide.com/fallacies/affirming-the-consequent)  
+   Link: <a href="https://fallacyguide.com/fallacies/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/affirming-the-consequent</a>  
 
 13. <a id="endnote-13"></a>
    Source: quillbot.com  
    Title: Affirming the Consequent | Examples & Definition  
-   Link: [https://quillbot.com/blog/reasoning/affirming-the-consequent/](https://quillbot.com/blog/reasoning/affirming-the-consequent/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/affirming-the-consequent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Revised on November 25, 2025 Affirming the consequent is the logical fallacy of assuming a particular ca...</p></details>
    Published: November 25, 2025  
 
 14. <a id="endnote-14"></a>
    Source: skepdic.com  
    Title: AC has the form: > If p then q. > > q  
-   Link: [https://www.skepdic.com/affirmingtheconsequent.html](https://www.skepdic.com/affirmingtheconsequent.html)  
+   Link: <a href="https://www.skepdic.com/affirmingtheconsequent.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skepdic.com/affirmingtheconsequent.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>affirming the consequent - logical fallacy - The Skeptic&#x27;s Dictionary - Skepdic.comMarch 12, 2015 — AFFIRMING THE CONSEQUENT Affirming th...</p></details>
    Published: March 12, 2015  
 
 15. <a id="endnote-15"></a>
    Source: logicallyfallacious.com  
    Title: Affirming the Consequent  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAFFIRMING THE CONSEQUENT (also known as: converse error, fallacy of the consequent, asserting the consequent, affirma...</p></details>
 
 ### Additional References
@@ -1094,47 +1094,47 @@ In probabilistic or inductive reasoning — where one weighs likelihoods rather 
 16. <a id="endnote-16"></a>
    Source: gametheory101.com  
    Title: Affirming the consequent is one such fallac  
-   Link: [https://gametheory101.com/courses/logic-101/affirming-the-consequent/](https://gametheory101.com/courses/logic-101/affirming-the-consequent/)  
+   Link: <a href="https://gametheory101.com/courses/logic-101/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow">https://gametheory101.com/courses/logic-101/affirming-the-consequent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent – Game Theory 101AFFIRMING THE CONSEQUENT iframe This lecture introduces the idea of a formal logical fallacy—th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fallacyfiles.org  
    Title: Logical Fallacy: Affirming the Consequent  
-   Link: [https://www.fallacyfiles.org/afthecon.html](https://www.fallacyfiles.org/afthecon.html)  
+   Link: <a href="https://www.fallacyfiles.org/afthecon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/afthecon.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 22, 2023 — AFFIRMING THE CONSEQUENT Taxonomy^{1}: Logical Fallacy &gt; Formal Fallacy &gt; Propositional Fallacy &gt; Affirming the Consequen...</p></details>
    Published: June 22, 2023  
 
 18. <a id="endnote-18"></a>
    Source: lexology.com  
    Title: The fallacy of affirming the consequent  
-   Link: [https://www.lexology.com/library/detail.aspx?g=76d60975-2353-4ea2-89eb-45a8c864ba6d](https://www.lexology.com/library/detail.aspx?g=76d60975-2353-4ea2-89eb-45a8c864ba6d)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LexologyDecember 18, 2025 — THE FALLACY OF AFFIRMING THE CONSEQUENT Diales United Kingdom December 18 2025 Introduction: Logical reasonin...</p></details>
+   Link: <a href="https://www.lexology.com/library/detail.aspx?g=76d60975-2353-4ea2-89eb-45a8c864ba6d" target="_blank" rel="noopener noreferrer nofollow">https://www.lexology.com/library/detail.aspx?g=76d60975-2353-4ea2-89eb-45a8c864ba6d</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 18, 2025 — THE FALLACY OF AFFIRMING THE CONSEQUENT Diales United Kingdom December 18 2025 Introduction: Logical reasonin...</p></details>
    Published: December 18, 2025  
 
 19. <a id="endnote-19"></a>
    Source: philosophy-index.com  
-   Link: [https://www.philosophy-index.com/logic/fallacies/affirming-consequent.php](https://www.philosophy-index.com/logic/fallacies/affirming-consequent.php)  
+   Link: <a href="https://www.philosophy-index.com/logic/fallacies/affirming-consequent.php" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophy-index.com/logic/fallacies/affirming-consequent.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y an invalid argument form “If P then Q. Q. Therefore, P”. T...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: en.wiktionary.org  
    Title: orgaffirming the consequent  
-   Link: [https://en.wiktionary.org/wiki/affirming_the_consequent](https://en.wiktionary.org/wiki/affirming_the_consequent)  
+   Link: <a href="https://en.wiktionary.org/wiki/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/affirming_the_consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(logic) A formal fallacy, committed by reasoning in the form: If P, then Q. Q. Therefore, P. HYPER...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: changingminds.org  
-   Link: [https://www.changingminds.org/disciplines/argument/fallacies/affirming_consequent.htm](https://www.changingminds.org/disciplines/argument/fallacies/affirming_consequent.htm)  
+   Link: <a href="https://www.changingminds.org/disciplines/argument/fallacies/affirming_consequent.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.changingminds.org/disciplines/argument/fallacies/affirming_consequent.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B is true. Therefore A...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Affirming the Consequent: A Formal Fallacy  
-   Link: [https://www.youtube.com/watch?v=85QJZdbgEoc](https://www.youtube.com/watch?v=85QJZdbgEoc)  
+   Link: <a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85QJZdbgEoc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MATH 1332 3.4.8 Common Fallacies: Fallacy of the Converse...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Logic 101 (#48): Affirming the Consequent  
-   Link: [https://www.youtube.com/watch?v=T8JYN1oOvkM](https://www.youtube.com/watch?v=T8JYN1oOvkM)  
+   Link: <a href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T8JYN1oOvkM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent: A Formal Fallacy...</p></details>

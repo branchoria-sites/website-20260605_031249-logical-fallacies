@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity
 
 ## Introduction
 
-Does popular belief make a claim true? In most cases, no. A large majority can reveal what people think, prefer, fear or support, but it does not by itself establish that a factual, scientific, historical or moral claim is correct. This distinction is central to [relevance]({{ 'relevance/' | relative_url }}) testing in logic. When an argument moves from “many people believe this” to “therefore it is true”, it substitutes evidence about opinion for evidence about the claim itself. Logicians traditionally classify this mistake as an [appeal to popularity]({{ 'popularity/' | relative_url }}), or *ad populum* reasoning. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? | Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span> The mistake matters because popularity often feels persuasive. Human beings are social creatures, and majority views can provide useful information. Yet a belief can be widely accepted and still be false, just as a minority view can be correct. The key relevance question is not how many people agree, but whether the popularity of the belief bears directly on the truth of the conclusion.
+Does popular belief make a claim true? In most cases, no. A large majority can reveal what people think, prefer, fear or support, but it does not by itself establish that a factual, scientific, historical or moral claim is correct. This distinction is central to [relevance]({{ 'relevance/' | relative_url }}) testing in logic. When an argument moves from “many people believe this” to “therefore it is true”, it substitutes evidence about opinion for evidence about the claim itself. Logicians traditionally classify this mistake as an appeal to popularity, or *ad populum* reasoning. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span> The mistake matters because popularity often feels persuasive. Human beings are social creatures, and majority views can provide useful information. Yet a belief can be widely accepted and still be false, just as a minority view can be correct. The key relevance question is not how many people agree, but whether the popularity of the belief bears directly on the truth of the conclusion.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ Does popular belief make a claim true? In most cases, no. A large majority can r
 
 Popularity is not always irrelevant. The crucial issue is what question is being asked.
 
-In governance, public opinion is often directly relevant to decisions about elections, political legitimacy, policy preferences and social acceptance. If a government wants to know whether voters support a tax proposal, polling data are relevant because the question concerns public attitudes. Similarly, market researchers can use popularity data to identify consumer preferences. In such cases, popularity is evidence about what people want or believe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11245-022-09872-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerArguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</span></span></span>
+In governance, public opinion is often directly relevant to decisions about elections, political legitimacy, policy preferences and social acceptance. If a government wants to know whether voters support a tax proposal, polling data are relevant because the question concerns public attitudes. Similarly, market researchers can use popularity data to identify consumer preferences. In such cases, popularity is evidence about what people want or believe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11245-022-09872-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Arguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</span></span></span>
 
 There are also limited cases where widespread agreement provides indirect evidence. If many independent observers report the same event, their agreement may increase confidence that something happened. However, the evidential force comes from the independence and reliability of the observations, not from the sheer number of believers. A crowd of witnesses can be informative because each witness contributes evidence, not because majority opinion magically creates truth.
 
@@ -295,7 +295,7 @@ These examples show that popularity can be relevant when the conclusion is about
 The appeal to popularity becomes fallacious when the argument follows this pattern:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkK5eA_qhFk" title="Asch’s Conformity Experiment on Groupthink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer">Asch’s Conformity Experiment on Groupthink</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 363.1K &middot; Uploaded: July 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkK5eA_qhFk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MDCORPK8rKw" title="😎 Appeal Meaning - Appeal Defined - Appealing Examples - Appeal Definition - Appeal Appealing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MDCORPK8rKw" target="_blank" rel="noopener noreferrer">😎 Appeal Meaning - Appeal Defined - Appealing Examples - Appeal Definition - Appeal Appealing</a></p><p class="youtube-embed-meta">Channel: iswearenglish &middot; Views: 2.8K &middot; Uploaded: November 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MDCORPK8rKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MDCORPK8rKw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -715,10 +715,10 @@ The appeal to popularity becomes fallacious when the argument follows this patte
 </script>
 </section>
 
-1. Many people believe claim X. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? | Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
+1. Many people believe claim X. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
 2. Therefore claim X is true.
 
-The weakness lies in the missing connection between belief and reality. Whether people believe something and whether it is true are separate questions. A belief can be sincere, widespread and mistaken. Logical reference works consistently identify this move as a fallacy because it replaces reasons and evidence with popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum | logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum | logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span>
+The weakness lies in the missing connection between belief and reality. Whether people believe something and whether it is true are separate questions. A belief can be sincere, widespread and mistaken. Logical reference works consistently identify this move as a fallacy because it replaces reasons and evidence with popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span>
 
 Consider several common forms:
 
@@ -761,7 +761,7 @@ In practical terms:
 The relevance test asks which of these questions is actually under discussion.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MDCORPK8rKw" title="😎 Appeal Meaning - Appeal Defined - Appealing Examples - Appeal Definition - Appeal Appealing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MDCORPK8rKw" target="_blank" rel="noopener noreferrer">😎 Appeal Meaning - Appeal Defined - Appealing Examples - Appeal Definition - Appeal Appealing</a></p><p class="youtube-embed-meta">Channel: iswearenglish &middot; Views: 2.8K &middot; Uploaded: November 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MDCORPK8rKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MDCORPK8rKw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkK5eA_qhFk" title="Asch’s Conformity Experiment on Groupthink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer">Asch’s Conformity Experiment on Groupthink</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 363.1K &middot; Uploaded: July 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkK5eA_qhFk">Open on YouTube</a></p></div></div></div>
 
 ## Questions That Separate Opinion from Proof
 
@@ -793,7 +793,7 @@ A broad [expert consensus]({{ 'expert-consensus/' | relative_url }}) may carry e
 
 Popularity claims become stronger reasoning only when they are connected to the specific issue being debated. If the issue is what people prefer, support or accept, popularity may be highly relevant. If the issue is whether a factual claim is true, popularity alone is usually beside the point.
 
-A simple test is to replace the statement “many people believe this” with “many people believe this, but they might all be mistaken”. If the argument collapses, it was relying on popularity rather than proof. That is the hallmark of an appeal to popularity: treating widespread belief as if it were evidence of truth rather than evidence of what people happen to think. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? | Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
+A simple test is to replace the statement “many people believe this” with “many people believe this, but they might all be mistaken”. If the argument collapses, it was relying on popularity rather than proof. That is the hallmark of an appeal to popularity: treating widespread belief as if it were evidence of truth rather than evidence of what people happen to think. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/70nPe7Fo3DA" title="Critical Thinking: The Fallacy of Appeal To Popularity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=70nPe7Fo3DA" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal To Popularity</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 4.9K &middot; Uploaded: November 2014 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=70nPe7Fo3DA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=70nPe7Fo3DA">Open on YouTube</a></p></div></div></div>
@@ -803,202 +803,202 @@ A simple test is to replace the statement “many people believe this” with �
 1. <a id="endnote-1"></a>
    Source: britannica.com  
    Title: argumentum ad populum  
-   Link: [https://www.britannica.com/topic/argumentum-ad-populum](https://www.britannica.com/topic/argumentum-ad-populum)  
+   Link: <a href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-populum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaArgumentum ad populum | logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: ad populum fallacy  
-   Link: [https://www.scribbr.com/fallacies/ad-populum-fallacy/](https://www.scribbr.com/fallacies/ad-populum-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-populum-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11245-022-09872-4](https://link.springer.com/article/10.1007/s11245-022-09872-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerArguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s11245-022-09872-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11245-022-09872-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Argumentum ad populum  
-   Link: [https://en.wikipedia.org/wiki/Argumentum_ad_populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
 
 5. <a id="endnote-5"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaFallacy | Logic, Definition &amp; ExamplesFeb 13, 2026 — ad populum (an appeal “to the people”), which, instead of off...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/bandwagn.html](https://www.fallacyfiles.org/bandwagn.html)  
+   Link: <a href="https://www.fallacyfiles.org/bandwagn.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/bandwagn.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Bandwagon](&amp;#123;&amp;#123; &#x27;bandwagon/&#x27; | relative_url &amp;#125;&amp;#125;) FallacyThe Bandwagon Fallacy is committed whenever one argues for an idea based upon an irrelevant appeal to its popularity...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>power of social influence: A replication and extension of...by A Franzen · 2023 · Cited by 61 — In this paper, we pursue four goals: Fir...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Title: [Asch conformity](&#123;&#123; 'the-asch-conformity-experiments/' | relative_url &#125;&#125;) experiments  
-   Link: [https://en.wikipedia.org/wiki/Asch_conformity_experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch conformity experimentsIn psychology, the Asch conformity experiments were a series of studies testing the Asch paradigm, directed...</p></details>
+   Title: Asch conformity experiments  
+   Link: <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch conformity experimentsIn psychology, [the Asch conformity experiments](&amp;#123;&amp;#123; &#x27;the-asch-conformity-experiments/&#x27; | relative_url &amp;#125;&amp;#125;) were a series of studies testing the Asch paradigm, directed...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
    Title: argument logic  
-   Link: [https://www.britannica.com/topic/argument-logic](https://www.britannica.com/topic/argument-logic)  
+   Link: <a href="https://www.britannica.com/topic/argument-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argument-logic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument | logicFeb 13, 2026 —... argument ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
    Title: circular argument  
-   Link: [https://www.britannica.com/topic/circular-argument](https://www.britannica.com/topic/circular-argument)  
+   Link: <a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>argument ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals to such popular attitudes as the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
    Title: Applied logic | Fallacies, Varieties, & Facts  
-   Link: [https://www.britannica.com/topic/applied-logic](https://www.britannica.com/topic/applied-logic)  
+   Link: <a href="https://www.britannica.com/topic/applied-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>appeals to pity (traditionally called the fallacy of ad misericordiam), to authority (ad verecundiam), or to popular opinion (ad populum)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/validity](https://www.britannica.com/topic/validity)  
+   Link: <a href="https://www.britannica.com/topic/validity" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/validity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasoning, Argument, EvidenceFeb 13, 2026 — ad populum (an appeal “to the people”), which, instead of offering logical reasons, appeals t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: britannica.com  
    Title: What Is the Either-Or Fallacy?  
-   Link: [https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy](https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| [False Dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;), Dichotomy...Feb 13, 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</p></details>
+   Link: <a href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[False Dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;), Dichotomy...Feb 13, 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: britannica.com  
    Title: Applied logic  
-   Link: [https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies](https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nonverbal Fallacies... appeals to pity (traditionally called the fallacy of ad misericordiam), to authority (ad verecundiam), or to popul...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/argumentum-ad-baculum](https://www.britannica.com/topic/argumentum-ad-baculum)  
+   Link: <a href="https://www.britannica.com/topic/argumentum-ad-baculum" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-baculum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad baculum | logicArgument ad baculum (an appeal “to force”), which rests on a threatened or implied use of force to induce ac...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Appeal](https://en.wikipedia.org/wiki/Appeal)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AppealIn law, an appeal is the process in which cases or decisions are reviewed by a higher authority, where parties request a formal...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: psychology.town  
    Title: reevaluating aschs experiments critical perspective  
-   Link: [https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/](https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/)  
+   Link: <a href="https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reevaluating Asch&#x27;s Experiments: A Critical PerspectiveNov 19, 2025 — Participants who were more confident in their own perceptions were...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: psychology.town  
    Title: asch conformity line length experiments  
-   Link: [https://psychology.town/social/asch-conformity-line-length-experiments/](https://psychology.town/social/asch-conformity-line-length-experiments/)  
+   Link: <a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: social influence, group pressure, a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: simplypsychology.org  
    Title: asch conformity  
-   Link: [https://www.simplypsychology.org/asch-conformity.html](https://www.simplypsychology.org/asch-conformity.html)  
+   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyAsch Conformity Line Experiment15 May 2025 — Solomon Asch experimented with investigating the extent to which social pre...</p></details>
    Published: May 2025  
 
 21. <a id="endnote-21"></a>
    Source: verywellmind.com  
    Title: Verywell Mind The Asch Conformity Experiments  
-   Link: [https://www.verywellmind.com/the-asch-conformity-experiments-2794996](https://www.verywellmind.com/the-asch-conformity-experiments-2794996)  
+   Link: <a href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/the-asch-conformity-experiments-2794996</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Verywell MindThe Asch Conformity ExperimentsFebruary 9, 2009 — 26 Oct 2025 — After combining the trials, the results indicated that parti...</p></details>
    Published: February 9, 2009  
 
 22. <a id="endnote-22"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/appeal](https://dictionary.cambridge.org/dictionary/english/appeal)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/appeal" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/appeal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to request formally that a decision, esp. a legal or official one, be changed: [ T ] The verdict was appealed to a higher...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/scireas/popular.html](https://philosophy.lander.edu/scireas/popular.html)  
+   Link: <a href="https://philosophy.lander.edu/scireas/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/popular.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to the PeopleThe argument based upon what most or all people think or believe is characterized and shown to be sometimes persuasive but n...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tutor2u.net  
-   Link: [https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOooOOF9RzrtKCnWsw7vwa2i1GHp1bzd5U6Yb-lLQwzC38SbXFm-r](https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOooOOF9RzrtKCnWsw7vwa2i1GHp1bzd5U6Yb-lLQwzC38SbXFm-r)  
+   Link: <a href="https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOooOOF9RzrtKCnWsw7vwa2i1GHp1bzd5U6Yb-lLQwzC38SbXFm-r" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/conformity-asch-1951?srsltid=AfmBOooOOF9RzrtKCnWsw7vwa2i1GHp1bzd5U6Yb-lLQwzC38SbXFm-r</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conformity - Asch (1951) | Reference Library | Psychology3 Dec 2025 — Asch wanted to see if the real participant would conform to the maj...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 96 — [Informal logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) (“IL”) is the study of reasoning and infere...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fallacy](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fallacy)  
+   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.org1911 Encyclopædia Britannica/Fallacy - Wikisource22 Jun 2022 — Under this head come the so-called argumentum (a) ad hominem...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ebsco.com  
    Title: asch conformity experiments  
-   Link: [https://www.ebsco.com/research-starters/history/asch-conformity-experiments](https://www.ebsco.com/research-starters/history/asch-conformity-experiments)  
+   Link: <a href="https://www.ebsco.com/research-starters/history/asch-conformity-experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/asch-conformity-experiments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History | Research StartersThe Asch conformity experiments, conducted by Solomon Asch in the 1950s, explored the impact of social pressur...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/appeal](https://www.merriam-webster.com/dictionary/appeal)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/appeal" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/appeal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>APPEAL Definition &amp; MeaningThe meaning of APPEAL is a legal proceeding by which a case is brought before a higher court for review of the...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: psychstory.co.uk  
-   Link: [https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity](https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity)  
+   Link: <a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYHis findings suggested that conformity rates might be lower when individuals are not under direct gro...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PopularityAppeal to Popularity... Description: Using the popularity of a premise or proposition as evidence for its truthfulne...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: madeofmillions.com  
-   Link: [https://www.madeofmillions.com/articles/the-asch-conformity-study](https://www.madeofmillions.com/articles/the-asch-conformity-study)  
+   Link: <a href="https://www.madeofmillions.com/articles/the-asch-conformity-study" target="_blank" rel="noopener noreferrer nofollow">https://www.madeofmillions.com/articles/the-asch-conformity-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Asch Conformity StudyThe Asch Conformity Study shows how a group majority can influence decisions. However, the results aren&#x27;t someth...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: open.edu  
-   Link: [https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-5.3](https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-5.3)  
+   Link: <a href="https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-5.3" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/health-sports-psychology/psychology/starting-psychology/content-section-5.3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open UniversityStarting with psychology: 5.3 Groups and conformityOut of fifty participants in Asch&#x27;s original study, 75 per cent con...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: wordwebonline.com  
-   Link: [https://www.wordwebonline.com/en/APPEAL](https://www.wordwebonline.com/en/APPEAL)  
+   Link: <a href="https://www.wordwebonline.com/en/APPEAL" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/APPEAL</a>  
 
 34. <a id="endnote-34"></a>
    Source: learn.academy4sc.org  
    Title: the asch conformity experiments the line between independence and conformity  
-   Link: [https://learn.academy4sc.org/video/the-asch-conformity-experiments-the-line-between-independence-and-conformity/](https://learn.academy4sc.org/video/the-asch-conformity-experiments-the-line-between-independence-and-conformity/)  
+   Link: <a href="https://learn.academy4sc.org/video/the-asch-conformity-experiments-the-line-between-independence-and-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/the-asch-conformity-experiments-the-line-between-independence-and-conformity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch Conformity Experiments: The Line Between...Despite the fact that only a minority of the total responses were wrong, a majority of s...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: law.cornell.edu  
-   Link: [https://www.law.cornell.edu/wex/appeal](https://www.law.cornell.edu/wex/appeal)  
+   Link: <a href="https://www.law.cornell.edu/wex/appeal" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/appeal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An appeal is directed towards a legal power higher than the power making the challenged...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/popular.html](https://philosophy.lander.edu/logic/popular.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: choicepointpsychology.au  
-   Link: [https://choicepointpsychology.au/blog/everyone-else-was-doing-it-what-aschs-conformity-study-teaches-us-about-peer-pressure](https://choicepointpsychology.au/blog/everyone-else-was-doing-it-what-aschs-conformity-study-teaches-us-about-peer-pressure)  
+   Link: <a href="https://choicepointpsychology.au/blog/everyone-else-was-doing-it-what-aschs-conformity-study-teaches-us-about-peer-pressure" target="_blank" rel="noopener noreferrer nofollow">https://choicepointpsychology.au/blog/everyone-else-was-doing-it-what-aschs-conformity-study-teaches-us-about-peer-pressure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Or how a work meeting can go strangely silent until the boss speaks and...Read more...</p></details>

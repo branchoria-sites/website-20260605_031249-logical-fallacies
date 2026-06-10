@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:45:50'
 parent_title: Is Old the Same as Right? | Fallacy Lab
 parent_permalink: /tradition/
 parent_nav_short_title: Tradition
@@ -265,7 +266,6 @@ next_link:
   permalink: /status-quo/
   short_title: Status Quo
   heading_title: Why Familiar Choices Feel Safer
-date: '2026-06-05 02:45:50 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_semmelweis_handwashi_ebb902-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_semmelweis_handwashi_ebb902-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_semmel
 
 ## Introduction
 
-The story of Ignaz Semmelweis is one of the clearest historical examples of why an [appeal to tradition]({{ 'tradition/' | relative_url }}) can become dangerous. In the 1840s, doctors in leading European hospitals followed accepted routines that were considered normal, respectable and scientific. Yet one of those routines—moving directly from autopsies to examining women in maternity wards without proper hand disinfection—was helping to spread a deadly disease. When Semmelweis presented evidence that a simple handwashing procedure dramatically reduced deaths, many physicians resisted the change. The case shows that long-standing professional habits can persist even when evidence points in the opposite direction, and it illustrates why [tradition]({{ 'tradition/' | relative_url }}) should be treated as a hypothesis to test rather than proof that a practice is correct. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencehistory.org">[Science History Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencehistory.org</span><span class="citation-popover-title">ignaz semmelweis</span><span class="citation-popover-snippet">Science History InstituteIgnaz Semmelweis15 Sept 2025 — He realized that physicians were spreading infections and that handwashing could...</span></span></span>
+The story of Ignaz Semmelweis is one of the clearest historical examples of why an appeal to [tradition]({{ 'tradition/' | relative_url }}) can become dangerous. In the 1840s, doctors in leading European hospitals followed accepted routines that were considered normal, respectable and scientific. Yet one of those routines—moving directly from autopsies to examining women in maternity wards without proper hand disinfection—was helping to spread a deadly disease. When Semmelweis presented evidence that a simple handwashing procedure dramatically reduced deaths, many physicians resisted the change. The case shows that long-standing professional habits can persist even when evidence points in the opposite direction, and it illustrates why tradition should be treated as a hypothesis to test rather than proof that a practice is correct. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencehistory.org">[Science History Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencehistory.org</span><span class="citation-popover-title">ignaz semmelweis</span><span class="citation-popover-snippet">Science History InstituteIgnaz Semmelweis15 Sept 2025 — He realized that physicians were spreading infections and that handwashing could...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_semmelweis_handwashi_ebb902-Illustration-1-dark.svg" | relative_url }}" alt="Semmelweis illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_semmelweis_handwashi_ebb902-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_semmelweis_handwashi_ebb902-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,7 +282,7 @@ The story of Ignaz Semmelweis is one of the clearest historical examples of why 
 
 ### The accepted routines Semmelweis challenged
 
-In the mid-nineteenth century, puerperal fever, also called childbed fever, was one of the most feared causes of death after childbirth. At the Vienna General Hospital, where Semmelweis worked, mortality rates differed dramatically between two maternity divisions. The division staffed by doctors and medical students consistently experienced far higher death rates than the division staffed largely by midwives. Women were so aware of the danger that some reportedly begged not to be admitted to the doctors' clinic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ignaz_Semmelweis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ignaz Semmelweis</span><span class="citation-popover-snippet">Ignaz Semmelweis</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPioneering Hand Hygiene: Ignaz Semmelweis and the Fight...by S Paul · 2024 · Cited by 11 — His pioneering work in antiseptic procedur...</span></span></span>
+In the mid-nineteenth century, puerperal fever, also called childbed fever, was one of the most feared causes of death after childbirth. At the Vienna General Hospital, where Semmelweis worked, mortality rates differed dramatically between two maternity divisions. The division staffed by doctors and medical students consistently experienced far higher death rates than the division staffed largely by midwives. Women were so aware of the danger that some reportedly begged not to be admitted to the doctors' clinic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ignaz_Semmelweis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ignaz Semmelweis</span><span class="citation-popover-snippet">Ignaz Semmelweis</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pioneering Hand Hygiene: Ignaz Semmelweis and the Fight...by S Paul · 2024 · Cited by 11 — His pioneering work in antiseptic procedur...</span></span></span>
 
 The crucial difference was hidden within ordinary professional practice. Medical students and physicians routinely performed autopsies and then examined pregnant women. Hand disinfection was not a standard expectation. The prevailing medical culture did not view doctors themselves as carriers of disease, and many physicians moved between the dissecting room and the maternity ward as part of their normal work. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jameslindlibrary.org/articles/ignaz-phillip-semmelweis-studies-of-death-in-childbirth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jameslindlibrary.org">[The James Lind Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jameslindlibrary.org</span><span class="citation-popover-snippet">The alarmingly high mortality in the first clinic had defied explanation until Semmelweis was...Read more...</span></span></span>
 
@@ -313,7 +313,7 @@ The Semmelweis episode does not show that traditions are always wrong. Medical t
 
 Several insights emerge from the case:
 
-* **Tradition can contain hidden errors.** The doctors involved were not acting maliciously. They were following accepted procedures that had become normal through repetition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe little-known history of cleanliness and the forgotten</span><span class="citation-popover-snippet">PMCby P Poczai · 2022 · Cited by 30 — Doctors did not routinely wash their hands until the mid-1800s, and they would proceed straight fro...</span></span></span>
+* **Tradition can contain hidden errors.** The doctors involved were not acting maliciously. They were following accepted procedures that had become normal through repetition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe little-known history of cleanliness and the forgotten</span><span class="citation-popover-snippet">by P Poczai · 2022 · Cited by 30 — Doctors did not routinely wash their hands until the mid-1800s, and they would proceed straight fro...</span></span></span>
 * **Evidence can arrive before theory.** Semmelweis observed a powerful reduction in mortality before medicine possessed a complete explanation for why the intervention worked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6053623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">As soon as he started working in this ward, Semmelweis was struck by the difference [...Read more...</span></span></span>
 * **Professional consensus is not infallible.** A widely shared belief may reflect institutional habits as much as empirical proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencehistory.org">[Science History Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencehistory.org</span><span class="citation-popover-title">ignaz semmelweis</span><span class="citation-popover-snippet">Science History InstituteIgnaz Semmelweis15 Sept 2025 — He realized that physicians were spreading infections and that handwashing could...</span></span></span>
 * **Changing routine can be psychologically difficult.** Evidence sometimes demands that experts revise assumptions about their own behaviour, making acceptance slower than the data alone would predict. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sproutsschools.com/dark-medicine-the-sad-story-of-dr-semmelweis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sproutsschools.com">[sproutsschools.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sproutsschools.com</span><span class="citation-popover-title">dark medicine the sad story of dr semmelweis</span><span class="citation-popover-snippet">Dark Medicine: The Sad Story of Dr. Semmelweis22 Jul 2024 — Despite these impressive results, Semmelweis faced resistance from most of hi...</span></span></span>
@@ -328,7 +328,7 @@ In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'log
 
 ## A Lasting Example of Medicine Correcting Itself
 
-Today, hand hygiene is regarded as a foundational element of infection control and patient safety. Modern healthcare systems treat handwashing as an evidence-based practice rather than a matter of custom. The significance of Semmelweis's work therefore extends beyond obstetrics. It illustrates a broader principle of scientific and medical progress: inherited practices deserve investigation and respect, but they must remain open to testing and revision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1473309909702956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHand hygiene and patient care: pursuing the Semmelweis...by D Pittet · 2001 · Cited by 572 — Hand hygiene is a core element...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK144018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIHistorical perspective on hand hygiene in health care</span><span class="citation-popover-snippet">perspective on hand hygiene in health care - NCBISemmelweis is considered not only the father of hand hygiene, but his intervention is al...</span></span></span>
+Today, hand hygiene is regarded as a foundational element of infection control and patient safety. Modern healthcare systems treat handwashing as an evidence-based practice rather than a matter of custom. The significance of Semmelweis's work therefore extends beyond obstetrics. It illustrates a broader principle of scientific and medical progress: inherited practices deserve investigation and respect, but they must remain open to testing and revision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1473309909702956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Hand hygiene and patient care: pursuing the Semmelweis...by D Pittet · 2001 · Cited by 572 — Hand hygiene is a core element...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK144018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIHistorical perspective on hand hygiene in health care</span><span class="citation-popover-snippet">perspective on hand hygiene in health care - NCBISemmelweis is considered not only the father of hand hygiene, but his intervention is al...</span></span></span>
 
 For discussions of the appeal to tradition, few examples are more vivid. Lives were lost not because evidence was unavailable, but because established routines enjoyed the protective force of habit, authority and familiarity. Semmelweis's challenge reminds us that the age of a practice is not proof of its correctness; evidence must always have the final word. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jameslindlibrary.org/articles/ignaz-phillip-semmelweis-studies-of-death-in-childbirth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jameslindlibrary.org">[The James Lind Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jameslindlibrary.org</span><span class="citation-popover-snippet">The alarmingly high mortality in the first clinic had defied explanation until Semmelweis was...Read more...</span></span></span>
 
@@ -724,169 +724,169 @@ For discussions of the appeal to tradition, few examples are more vivid. Lives w
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPioneering Hand Hygiene: Ignaz Semmelweis and the Fight...by S Paul · 2024 · Cited by 11 — His pioneering work in antiseptic procedur...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11568873/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pioneering Hand Hygiene: Ignaz Semmelweis and the Fight...by S Paul · 2024 · Cited by 11 — His pioneering work in antiseptic procedur...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIHistorical perspective on hand hygiene in health care  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK144018/](https://www.ncbi.nlm.nih.gov/books/NBK144018/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK144018/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK144018/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>perspective on hand hygiene in health care - NCBISemmelweis is considered not only the father of hand hygiene, but his intervention is al...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ignaz Semmelweis  
-   Link: [https://en.wikipedia.org/wiki/Ignaz_Semmelweis](https://en.wikipedia.org/wiki/Ignaz_Semmelweis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ignaz_Semmelweis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ignaz_Semmelweis</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIgnaz Phillip Semmelweis' studies of death in childbirth  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3807776/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3807776/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3807776/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3807776/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phillip Semmelweis&#x27; studies of death in childbirth - PMCby I Loudon · 2013 · Cited by 68 — The maternal mortality rate in the first clini...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe little-known history of cleanliness and the forgotten  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby P Poczai · 2022 · Cited by 30 — Doctors did not routinely wash their hands until the mid-1800s, and they would proceed straight fro...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Poczai · 2022 · Cited by 30 — Doctors did not routinely wash their hands until the mid-1800s, and they would proceed straight fro...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: idcmjournal.org  
    Title: semmelweis and hand hygiene  
-   Link: [https://www.idcmjournal.org/semmelweis-and-hand-hygiene](https://www.idcmjournal.org/semmelweis-and-hand-hygiene)  
+   Link: <a href="https://www.idcmjournal.org/semmelweis-and-hand-hygiene" target="_blank" rel="noopener noreferrer nofollow">https://www.idcmjournal.org/semmelweis-and-hand-hygiene</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ignaz Philip Semmelweis: The Tragic Pioneer of Hand...19 Jun 2025 — After convincing his superior, Professor Johann Klein, Semmelweis in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6053623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6053623/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6053623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6053623/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As soon as he started working in this ward, Semmelweis was struck by the difference [...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: journals.publisso.de  
-   Link: [https://journals.publisso.de/en/journals/hic/volume20/dgkh000608](https://journals.publisso.de/en/journals/hic/volume20/dgkh000608)  
+   Link: <a href="https://journals.publisso.de/en/journals/hic/volume20/dgkh000608" target="_blank" rel="noopener noreferrer nofollow">https://journals.publisso.de/en/journals/hic/volume20/dgkh000608</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Publisso JournalsIgnaz Philipp Semmelweis (1818–1865) – a public health...December 11, 2025 — by V Ravel · 2025 · Cited by 1 — One reaso...</p></details>
    Published: December 11, 2025  
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11019-025-10257-8](https://link.springer.com/article/10.1007/s11019-025-10257-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11019-025-10257-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11019-025-10257-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/7640960_Hempelian_and_Kuhnian_approaches_in_the_philosophy_of_medicine_the_Semmelweis_case](https://www.researchgate.net/publication/7640960_Hempelian_and_Kuhnian_approaches_in_the_philosophy_of_medicine_the_Semmelweis_case)  
+   Link: <a href="https://www.researchgate.net/publication/7640960_Hempelian_and_Kuhnian_approaches_in_the_philosophy_of_medicine_the_Semmelweis_case" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7640960_Hempelian_and_Kuhnian_approaches_in_the_philosophy_of_medicine_the_Semmelweis_case</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It argues that this analysis is inadequate and needs to be supplemented by some Kuhnian ideas. Kuhn&#x27;s...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sproutsschools.com  
    Title: dark medicine the sad story of dr semmelweis  
-   Link: [https://sproutsschools.com/dark-medicine-the-sad-story-of-dr-semmelweis/](https://sproutsschools.com/dark-medicine-the-sad-story-of-dr-semmelweis/)  
+   Link: <a href="https://sproutsschools.com/dark-medicine-the-sad-story-of-dr-semmelweis/" target="_blank" rel="noopener noreferrer nofollow">https://sproutsschools.com/dark-medicine-the-sad-story-of-dr-semmelweis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Medicine: The Sad Story of Dr. Semmelweis22 Jul 2024 — Despite these impressive results, Semmelweis faced resistance from most of hi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1473309909702956](https://www.sciencedirect.com/science/article/abs/pii/S1473309909702956)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHand hygiene and patient care: pursuing the Semmelweis...by D Pittet · 2001 · Cited by 572 — Hand hygiene is a core element...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1473309909702956" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1473309909702956</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hand hygiene and patient care: pursuing the Semmelweis...by D Pittet · 2001 · Cited by 572 — Hand hygiene is a core element...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/385031520_Pioneering_Hand_Hygiene_Ignaz_Semmelweis_and_the_Fight_Against_Puerperal_Fever](https://www.researchgate.net/publication/385031520_Pioneering_Hand_Hygiene_Ignaz_Semmelweis_and_the_Fight_Against_Puerperal_Fever)  
+   Link: <a href="https://www.researchgate.net/publication/385031520_Pioneering_Hand_Hygiene_Ignaz_Semmelweis_and_the_Fight_Against_Puerperal_Fever" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385031520_Pioneering_Hand_Hygiene_Ignaz_Semmelweis_and_the_Fight_Against_Puerperal_Fever</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ignaz Semmelweis and the Fight Against Puerperal Fever14 Oct 2024 — Hungarian physician Ignaz Semmelweis (1818-1865) revolutionized medic...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Historical mortality rates of puerperal fever  
-   Link: [https://en.wikipedia.org/wiki/Historical_mortality_rates_of_puerperal_fever](https://en.wikipedia.org/wiki/Historical_mortality_rates_of_puerperal_fever)  
+   Link: <a href="https://en.wikipedia.org/wiki/Historical_mortality_rates_of_puerperal_fever" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Historical_mortality_rates_of_puerperal_fever</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Year, Month...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencehistory.org  
    Title: ignaz semmelweis  
-   Link: [https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/](https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/)  
+   Link: <a href="https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science History InstituteIgnaz Semmelweis15 Sept 2025 — He realized that physicians were spreading infections and that handwashing could...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: jameslindlibrary.org  
-   Link: [https://www.jameslindlibrary.org/articles/ignaz-phillip-semmelweis-studies-of-death-in-childbirth/](https://www.jameslindlibrary.org/articles/ignaz-phillip-semmelweis-studies-of-death-in-childbirth/)  
+   Link: <a href="https://www.jameslindlibrary.org/articles/ignaz-phillip-semmelweis-studies-of-death-in-childbirth/" target="_blank" rel="noopener noreferrer nofollow">https://www.jameslindlibrary.org/articles/ignaz-phillip-semmelweis-studies-of-death-in-childbirth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The alarmingly high mortality in the first clinic had defied explanation until Semmelweis was...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: uu.se  
    Title: Uppsala University Why did doctors refuse to wash their hands?  
-   Link: [https://www.uu.se/en/centre/crb/news/archive/2025-02-24-why-did-doctors-refuse-to-wash-their-hands-a-new-study-explains](https://www.uu.se/en/centre/crb/news/archive/2025-02-24-why-did-doctors-refuse-to-wash-their-hands-a-new-study-explains)  
+   Link: <a href="https://www.uu.se/en/centre/crb/news/archive/2025-02-24-why-did-doctors-refuse-to-wash-their-hands-a-new-study-explains" target="_blank" rel="noopener noreferrer nofollow">https://www.uu.se/en/centre/crb/news/archive/2025-02-24-why-did-doctors-refuse-to-wash-their-hands-a-new-study-explains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A new study...24 Feb 2025 — Semmelweis believed that tiny particles from dead bodies were causing postpartum infections, also known as c...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: britannica.com  
    Title: Ignaz Semmelweis  
-   Link: [https://www.britannica.com/biography/Ignaz-Semmelweis](https://www.britannica.com/biography/Ignaz-Semmelweis)  
+   Link: <a href="https://www.britannica.com/biography/Ignaz-Semmelweis" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Ignaz-Semmelweis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaIgnaz Semmelweis | Biography &amp; FactsMar 10, 2026 — Hungarian physician who discovered the cause of puerperal (chil...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: jameslindlibrary.org  
-   Link: [https://www.jameslindlibrary.org/articles/how-dramatic-were-the-effects-of-handwashing-on-maternal-mortality-observed-by-ignaz-semmelweis/](https://www.jameslindlibrary.org/articles/how-dramatic-were-the-effects-of-handwashing-on-maternal-mortality-observed-by-ignaz-semmelweis/)  
+   Link: <a href="https://www.jameslindlibrary.org/articles/how-dramatic-were-the-effects-of-handwashing-on-maternal-mortality-observed-by-ignaz-semmelweis/" target="_blank" rel="noopener noreferrer nofollow">https://www.jameslindlibrary.org/articles/how-dramatic-were-the-effects-of-handwashing-on-maternal-mortality-observed-by-ignaz-semmelweis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The James Lind LibraryHow dramatic were the effects of handwashing on maternal...In Semmelweis&#x27; case, the evidence of an important impac...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sussex.ics.nhs.uk  
    Title: ics.nhs.uk Ignaz Semmelweis  
-   Link: [https://www.sussex.ics.nhs.uk/wp-content/uploads/sites/9/2023/09/5-Ignaz-Semmelweis.pdf](https://www.sussex.ics.nhs.uk/wp-content/uploads/sites/9/2023/09/5-Ignaz-Semmelweis.pdf)  
+   Link: <a href="https://www.sussex.ics.nhs.uk/wp-content/uploads/sites/9/2023/09/5-Ignaz-Semmelweis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.ics.nhs.uk/wp-content/uploads/sites/9/2023/09/5-Ignaz-Semmelweis.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Semmelweis - NHS SussexIgnaz Semmelweis – Hungarian physician suffered depression, rage, paranoia and forgetfulness, and died in a mental...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/history/semmelweis-develops-antiseptic-procedures](https://www.ebsco.com/research-starters/history/semmelweis-develops-antiseptic-procedures)  
+   Link: <a href="https://www.ebsco.com/research-starters/history/semmelweis-develops-antiseptic-procedures" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/semmelweis-develops-antiseptic-procedures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Semmelweis Develops Antiseptic Procedures | HistorySemmelweis observed that the mortality rate from puerperal fever was significantly hig...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: globalhandwashing.org  
-   Link: [https://globalhandwashing.org/about-handwashing/history-of-handwashing/](https://globalhandwashing.org/about-handwashing/history-of-handwashing/)  
+   Link: <a href="https://globalhandwashing.org/about-handwashing/history-of-handwashing/" target="_blank" rel="noopener noreferrer nofollow">https://globalhandwashing.org/about-handwashing/history-of-handwashing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Global Handwashing Partnership -HistoryAs a result, Semmelweis imposed a new rule mandating handwashing with chlorine for doctors. Th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cureus.com  
-   Link: [https://www.cureus.com/articles/283961-pioneering-hand-hygiene-ignaz-semmelweis-and-the-fight-against-puerperal-fever](https://www.cureus.com/articles/283961-pioneering-hand-hygiene-ignaz-semmelweis-and-the-fight-against-puerperal-fever)  
+   Link: <a href="https://www.cureus.com/articles/283961-pioneering-hand-hygiene-ignaz-semmelweis-and-the-fight-against-puerperal-fever" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/283961-pioneering-hand-hygiene-ignaz-semmelweis-and-the-fight-against-puerperal-fever</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pioneering Hand Hygiene: Ignaz Semmelweis and the...17 Oct 2024 — Hungarian physician Ignaz Semmelweis (1818-1865) revolutionized medica...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: rghi.org  
-   Link: [https://rghi.org/heeding-lessons-of-hygiene-health-from-a-remarkable-19th-century-hungarian-physician/](https://rghi.org/heeding-lessons-of-hygiene-health-from-a-remarkable-19th-century-hungarian-physician/)  
+   Link: <a href="https://rghi.org/heeding-lessons-of-hygiene-health-from-a-remarkable-19th-century-hungarian-physician/" target="_blank" rel="noopener noreferrer nofollow">https://rghi.org/heeding-lessons-of-hygiene-health-from-a-remarkable-19th-century-hungarian-physician/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heeding lessons of hygiene health from a remarkable 19th...Sep 21, 2023 — There, he noticed that the average mortality rate at the First...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: news.unchealthcare.org  
    Title: 2018father of hand hygiene2019 influences unc ob gyn nearly two centuries later  
-   Link: [https://news.unchealthcare.org/2016/04/2018father-of-hand-hygiene2019-influences-unc-ob-gyn-nearly-two-centuries-later/](https://news.unchealthcare.org/2016/04/2018father-of-hand-hygiene2019-influences-unc-ob-gyn-nearly-two-centuries-later/)  
+   Link: <a href="https://news.unchealthcare.org/2016/04/2018father-of-hand-hygiene2019-influences-unc-ob-gyn-nearly-two-centuries-later/" target="_blank" rel="noopener noreferrer nofollow">https://news.unchealthcare.org/2016/04/2018father-of-hand-hygiene2019-influences-unc-ob-gyn-nearly-two-centuries-later/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unchealthcare.org&#x27;Father of hand hygiene&#x27; influences UNC OBGYN nearly...19 Apr 2016 — A Hungarian physician by the name of Ignaz Semmelw...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pharmacytimes.com  
    Title: fun fact handwashing was not accepted in hospitals until the late 19th century  
-   Link: [https://www.pharmacytimes.com/view/fun-fact-handwashing-was-not-accepted-in-hospitals-until-the-late-19th-century](https://www.pharmacytimes.com/view/fun-fact-handwashing-was-not-accepted-in-hospitals-until-the-late-19th-century)  
+   Link: <a href="https://www.pharmacytimes.com/view/fun-fact-handwashing-was-not-accepted-in-hospitals-until-the-late-19th-century" target="_blank" rel="noopener noreferrer nofollow">https://www.pharmacytimes.com/view/fun-fact-handwashing-was-not-accepted-in-hospitals-until-the-late-19th-century</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fun Fact: Handwashing Was Not Accepted in Hospitals...Sep 27, 2024 — What Semmelweis found odd was that the rate of maternal mortality w...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UnV05wN3ZGs](https://www.youtube.com/watch?v=UnV05wN3ZGs)  
+   Link: <a href="https://www.youtube.com/watch?v=UnV05wN3ZGs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UnV05wN3ZGs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep2 | Ignaz Semmelweis and the Fight to Save MothersSemmelweis was a Hungarian physician who proved that washing hands can save the lives...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: imperialwhocc.org  
    Title: keep it clean the surprising 130 year history of hand washing  
-   Link: [https://www.imperialwhocc.org/keep-it-clean-the-surprising-130-year-history-of-hand-washing/](https://www.imperialwhocc.org/keep-it-clean-the-surprising-130-year-history-of-hand-washing/)  
+   Link: <a href="https://www.imperialwhocc.org/keep-it-clean-the-surprising-130-year-history-of-hand-washing/" target="_blank" rel="noopener noreferrer nofollow">https://www.imperialwhocc.org/keep-it-clean-the-surprising-130-year-history-of-hand-washing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Imperial WHO Collaborating Centrethe surprising 130-year history of hand washing2 Jun 2020 — Born in Buda (now Budapest), Hungary in 1818...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nutritionfacts.org  
    Title: the history of handwashing and the spread of disease  
-   Link: [https://nutritionfacts.org/questions/the-history-of-handwashing-and-the-spread-of-disease/](https://nutritionfacts.org/questions/the-history-of-handwashing-and-the-spread-of-disease/)  
+   Link: <a href="https://nutritionfacts.org/questions/the-history-of-handwashing-and-the-spread-of-disease/" target="_blank" rel="noopener noreferrer nofollow">https://nutritionfacts.org/questions/the-history-of-handwashing-and-the-spread-of-disease/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What about Semmelweis and medicine&#x27;s shameful...8 Nov 2012 — In May 1847 he required every medical student to wash his hands with a chlo...</p></details>
    Published: May 1847  
 
 30. <a id="endnote-30"></a>
    Source: hekint.org  
    Title: ignaz semmelweis the original hand hygiene pioneer  
-   Link: [https://hekint.org/2026/02/09/ignaz-semmelweis-the-original-hand-hygiene-pioneer/](https://hekint.org/2026/02/09/ignaz-semmelweis-the-original-hand-hygiene-pioneer/)  
+   Link: <a href="https://hekint.org/2026/02/09/ignaz-semmelweis-the-original-hand-hygiene-pioneer/" target="_blank" rel="noopener noreferrer nofollow">https://hekint.org/2026/02/09/ignaz-semmelweis-the-original-hand-hygiene-pioneer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ignaz Semmelweis: The original hand hygiene pioneer9 Feb 2026 — ” At Vienna General Hospital, maternal mortality was reported to be 9.4%...</p></details>

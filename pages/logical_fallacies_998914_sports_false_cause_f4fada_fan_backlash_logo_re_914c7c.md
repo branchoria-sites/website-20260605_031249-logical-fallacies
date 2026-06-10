@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:39:34'
 parent_title: Did the Logo Cause the Losing Streak? | Fallacy Lab
 parent_permalink: /sports-cause/
 parent_nav_short_title: Sports Cause
@@ -265,7 +266,6 @@ next_link:
   permalink: /logo-rules/
   short_title: Logo Rules
   heading_title: Respect Ritual or Real Sports Curse?
-date: '2026-06-05 02:39:34 '
 header:
   og_image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-1.webp
@@ -305,7 +305,7 @@ Because these attachments are emotional rather than purely functional, a redesig
 
 ## Why Radical Redesigns Trigger Resistance
 
-Research on sport rebranding consistently finds that the degree of logo change matters. More substantial redesigns tend to produce less favourable attitudes and weaker purchase intentions than minor updates, especially among highly committed supporters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econbiz.de">[EconBiz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econbiz.de</span><span class="citation-popover-snippet">EconBizthe effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</span></span></span> ScienceDirect Fans often object to redesigns for three related reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...The findings advance the current body of knowledge on sport rebranding and f...</span></span></span>
+Research on sport rebranding consistently finds that the degree of logo change matters. More substantial redesigns tend to produce less favourable attitudes and weaker purchase intentions than minor updates, especially among highly committed supporters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econbiz.de">[EconBiz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econbiz.de</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</span></span></span> ScienceDirect Fans often object to redesigns for three related reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...The findings advance the current body of knowledge on sport rebranding and f...</span></span></span>
 
 ### The Crest Starts Looking Corporate
 
@@ -344,7 +344,7 @@ Evidence supports the idea that logo redesigns can affect fan attitudes, merchan
 
 When a team unveils a redesigned badge and then enters a losing streak, supporters may connect the two events because the logo is highly visible. This is where a [post hoc]({{ 'post-hoc/' | relative_url }}) fallacy can emerge. The redesign may genuinely have annoyed fans, reduced merchandise enthusiasm or damaged trust in ownership. Yet those effects are different from demonstrating that the logo caused injuries, tactical failures, recruitment mistakes or poor results on the pitch.
 
-The strongest version of the argument is therefore not, "The team is losing because of the logo." The stronger and more evidence-based claim is often, "The redesign damaged fan identification, weakened emotional connection, or created resentment toward club leadership." Research on sport rebranding provides support for those possibilities. It does not provide support for treating the logo itself as a direct explanation for wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econbiz.de">[EconBiz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econbiz.de</span><span class="citation-popover-snippet">EconBizthe effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</span></span></span>
+The strongest version of the argument is therefore not, "The team is losing because of the logo." The stronger and more evidence-based claim is often, "The redesign damaged fan identification, weakened emotional connection, or created resentment toward club leadership." Research on sport rebranding provides support for those possibilities. It does not provide support for treating the logo itself as a direct explanation for wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econbiz.de">[EconBiz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econbiz.de</span><span class="citation-popover-snippet">the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-3-dark.svg" | relative_url }}" alt="Fan Backlash illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_fan_backlash_logo_re_914c7c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -747,120 +747,120 @@ That makes backlash understandable, and sometimes justified, even when the redes
 
 1. <a id="endnote-1"></a>
    Source: westga.edu  
-   Link: [https://www.westga.edu/share/documents/pubs/091175_869.pdf](https://www.westga.edu/share/documents/pubs/091175_869.pdf)  
+   Link: <a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise](https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise)  
+   Link: <a href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitude and...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: econbiz.de  
-   Link: [https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473](https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EconBizthe effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</p></details>
+   Link: <a href="https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473" target="_blank" rel="noopener noreferrer nofollow">https://www.econbiz.de/Record/sport-rebranding-the-effect-of-different-degrees-of-sport-logo-redesign-on-brand-attitude-and-purchase-intention-williams-antonio/10012639473</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>the effect of different degrees of sport logo redesign on...This study sought to examine how a critical aspect of rebranding – lo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S1464666821000357](https://www.sciencedirect.com/org/science/article/pii/S1464666821000357)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1464666821000357" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1464666821000357</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the effect of different degrees of sport logo redesign on...The findings advance the current body of knowledge on sport rebranding and f...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation](https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation)  
+   Link: <a href="https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349937138_The_Influence_of_Logo_Change_on_Brand_Loyalty_and_the_Role_of_Attitude_Toward_Rebranding_and_Logo_Evaluation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Through an experimental approach, the results...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: talksport.com  
    Title: aston villa new crest fan survey premier league  
-   Link: [https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/](https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/)  
+   Link: <a href="https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/" target="_blank" rel="noopener noreferrer nofollow">https://talksport.com/football/4038413/aston-villa-new-crest-fan-survey-premier-league/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key players included Ollie Watkins with 19 goals and Leon Bailey contributing 19 assists/goals. However, the season also brought controve...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: diva-portal.org  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1964524/FULLTEXT01.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diva PortalJuventus FC&#x27;s Rebranding:by YD Meissner · 2025 — This thesis investigates the long-term effects of Juventus FC&#x27;s rebranding on...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: diva-portal.org  
-   Link: [https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1964524](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1964524)  
+   Link: <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1964524" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1964524</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Juventus FC&#x27;s Rebranding: The Long-Term Effect on...by YD Meissner · 2025 — Purpose: This thesis investigates the long-term effects of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/362643241_Antecedents_and_consequences_of_emotional_attachment_to_sport_teams_brands](https://www.researchgate.net/publication/362643241_Antecedents_and_consequences_of_emotional_attachment_to_sport_teams_brands)  
+   Link: <a href="https://www.researchgate.net/publication/362643241_Antecedents_and_consequences_of_emotional_attachment_to_sport_teams_brands" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362643241_Antecedents_and_consequences_of_emotional_attachment_to_sport_teams_brands</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antecedents and consequences of emotional attachment to...11 Aug 2022 — This paper aims to provide insight by investigating the effects...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention](https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention)  
+   Link: <a href="https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352796556_Sport_rebranding_the_effect_of_different_degrees_of_sport_logo_redesign_on_brand_attitude_and_purchase_intention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sign – influences fans&#x27; attitudes toward a sport brand and intent to purchase...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833](https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14660970.2022.2072833</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineKissing the badge: Club crests or corporate logos?by A Barnes · 2023 · Cited by 26 — This article asks whether a b...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cominghomenewcastle.sbnation.com  
-   Link: [https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo](https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo)  
+   Link: <a href="https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo" target="_blank" rel="noopener noreferrer nofollow">https://cominghomenewcastle.sbnation.com/newcastle-united-team-news/20701/newcastle-reportedly-make-decision-on-new-club-logo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The club initially aimed to modernize the badge and potentially debut a new version by the 2026-27 season. However, a leaked anime-style...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wonkydesign.com  
    Title: modernising your team logo  
-   Link: [https://www.wonkydesign.com/blog/modernising-your-team-logo](https://www.wonkydesign.com/blog/modernising-your-team-logo)  
+   Link: <a href="https://www.wonkydesign.com/blog/modernising-your-team-logo" target="_blank" rel="noopener noreferrer nofollow">https://www.wonkydesign.com/blog/modernising-your-team-logo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While Honouring Its Roots21 Feb 2025 — In this post, we’ll break down how your team can modernize its crest the right way, following a st...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise](https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise)  
+   Link: <a href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/case-study-sports-logo-redesign-signals-companys-growth-tatum-hindman-mh2te](https://www.linkedin.com/pulse/case-study-sports-logo-redesign-signals-companys-growth-tatum-hindman-mh2te)  
+   Link: <a href="https://www.linkedin.com/pulse/case-study-sports-logo-redesign-signals-companys-growth-tatum-hindman-mh2te" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/case-study-sports-logo-redesign-signals-companys-growth-tatum-hindman-mh2te</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Case study: Sports logo redesign signals company&#x27;s growthThe brand refresh provided an opportunity to create a modern, professional image...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: repository.lboro.ac.uk  
-   Link: [https://repository.lboro.ac.uk/articles/journal_contribution/Kissing_the_badge_Club_crests_or_corporate_logos_/20223297/1/files/41116664.pdf](https://repository.lboro.ac.uk/articles/journal_contribution/Kissing_the_badge_Club_crests_or_corporate_logos_/20223297/1/files/41116664.pdf)  
+   Link: <a href="https://repository.lboro.ac.uk/articles/journal_contribution/Kissing_the_badge_Club_crests_or_corporate_logos_/20223297/1/files/41116664.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.lboro.ac.uk/articles/journal_contribution/Kissing_the_badge_Club_crests_or_corporate_logos_/20223297/1/files/41116664.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Loughborough Research RepositoryKissing the badge: Club crests or corporate logos?by A Barnes · Cited by 26 — With a focus on the redesig...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/conrandesigngroup_are-football-club-logos-facing-a-design-crisis-activity-7364223962047750144-0U7Z](https://www.linkedin.com/posts/conrandesigngroup_are-football-club-logos-facing-a-design-crisis-activity-7364223962047750144-0U7Z)  
+   Link: <a href="https://www.linkedin.com/posts/conrandesigngroup_are-football-club-logos-facing-a-design-crisis-activity-7364223962047750144-0U7Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/conrandesigngroup_are-football-club-logos-facing-a-design-crisis-activity-7364223962047750144-0U7Z</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Football crests: losing their emotional value?As more football clubs opt for minimalist branding – like Juventus back in 2017 – are we at...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Sport-Fans-and-Their-Teams%27-Redesigned-Logos%3A-An-of-Ahn-Suh/38bf20d7594f6b6ccd272113c47ec912228fe813](https://www.semanticscholar.org/paper/Sport-Fans-and-Their-Teams%27-Redesigned-Logos%3A-An-of-Ahn-Suh/38bf20d7594f6b6ccd272113c47ec912228fe813)  
+   Link: <a href="https://www.semanticscholar.org/paper/Sport-Fans-and-Their-Teams%27-Redesigned-Logos%3A-An-of-Ahn-Suh/38bf20d7594f6b6ccd272113c47ec912228fe813" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Sport-Fans-and-Their-Teams%27-Redesigned-Logos%3A-An-of-Ahn-Suh/38bf20d7594f6b6ccd272113c47ec912228fe813</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>attitude and purchase intention in terms of team logo changes...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sandersandjay.com  
    Title: modernising sports team branding  
-   Link: [https://sandersandjay.com/modernising-sports-team-branding](https://sandersandjay.com/modernising-sports-team-branding)  
+   Link: <a href="https://sandersandjay.com/modernising-sports-team-branding" target="_blank" rel="noopener noreferrer nofollow">https://sandersandjay.com/modernising-sports-team-branding</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jul 2024 — A sports badge or logo is no longer just a symbol of identity, it is a powerful marketing tool that can attract new fans, s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: repozytorium.uni.wroc.pl  
-   Link: [https://repozytorium.uni.wroc.pl/Content/141234/PDF/09_M_Leszczynski_A_Metelski_M_Litwinski_Modern_sport_fans_and_their_purchase_intentions.pdf](https://repozytorium.uni.wroc.pl/Content/141234/PDF/09_M_Leszczynski_A_Metelski_M_Litwinski_Modern_sport_fans_and_their_purchase_intentions.pdf)  
+   Link: <a href="https://repozytorium.uni.wroc.pl/Content/141234/PDF/09_M_Leszczynski_A_Metelski_M_Litwinski_Modern_sport_fans_and_their_purchase_intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repozytorium.uni.wroc.pl/Content/141234/PDF/09_M_Leszczynski_A_Metelski_M_Litwinski_Modern_sport_fans_and_their_purchase_intentions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This study represents a pioneering endeavor, as...Re...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: spectrum.library.concordia.ca  
-   Link: [https://spectrum.library.concordia.ca/id/eprint/995226/](https://spectrum.library.concordia.ca/id/eprint/995226/)  
+   Link: <a href="https://spectrum.library.concordia.ca/id/eprint/995226/" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.library.concordia.ca/id/eprint/995226/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Effects of a Sports Team&#x27;s Rebranding on its...by J Wimez · 2025 — Sport rebranding: the effect of different degrees of sport logo r...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: omarzahran.medium.com  
-   Link: [https://omarzahran.medium.com/flat-lifeless-corporate-the-slow-death-of-sports-logo-identity-5ea886f3c687](https://omarzahran.medium.com/flat-lifeless-corporate-the-slow-death-of-sports-logo-identity-5ea886f3c687)  
+   Link: <a href="https://omarzahran.medium.com/flat-lifeless-corporate-the-slow-death-of-sports-logo-identity-5ea886f3c687" target="_blank" rel="noopener noreferrer nofollow">https://omarzahran.medium.com/flat-lifeless-corporate-the-slow-death-of-sports-logo-identity-5ea886f3c687</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comFlat, Lifeless, &amp; Corporate: The Slow Death of Sports Logo...Why minimalist logo redesigns keep failing one test that matters...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: thesun.co.uk  
    Title: The Sun'Terrible decision'  
-   Link: [https://www.thesun.co.uk/sport/36312842/stoke-new-club-badge-revealed-fans-react/](https://www.thesun.co.uk/sport/36312842/stoke-new-club-badge-revealed-fans-react/)  
+   Link: <a href="https://www.thesun.co.uk/sport/36312842/stoke-new-club-badge-revealed-fans-react/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/sport/36312842/stoke-new-club-badge-revealed-fans-react/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the club claims that 68% of surveyed fans supported the change, many supporters on [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) have criticized the new look, de...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-essay/
 description: Focused pages that expand on Essays.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_essay_fallacies_4a857b
 parent_title: Essays | Logical Fallacies

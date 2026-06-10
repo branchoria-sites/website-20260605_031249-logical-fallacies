@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_
 
 ## Introduction
 
-Hidden A-B-C argument loops are one of the most difficult forms of [circular reasoning]({{ 'circularity/' | relative_url }}) to detect. Instead of stating a conclusion and immediately repeating it as evidence, the argument spreads the [circularity]({{ 'circularity/' | relative_url }}) across several linked claims. A supports B, B supports C, and C eventually supports A. Because each step appears to provide a fresh reason, the overall argument can seem well supported even though it never connects to any independent evidence. The problem is not necessarily that the conclusion is false; the problem is that the chain never escapes its own assumptions. Logical analysts often describe circular reasoning as a failure to provide independent grounds for belief, and longer chains can make that failure much harder to recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
+Hidden A-B-C argument loops are one of the most difficult forms of circular reasoning to detect. Instead of stating a conclusion and immediately repeating it as evidence, the argument spreads the [circularity]({{ 'circularity/' | relative_url }}) across several linked claims. A supports B, B supports C, and C eventually supports A. Because each step appears to provide a fresh reason, the overall argument can seem well supported even though it never connects to any independent evidence. The problem is not necessarily that the conclusion is false; the problem is that the chain never escapes its own assumptions. Logical analysts often describe circular reasoning as a failure to provide independent grounds for belief, and longer chains can make that failure much harder to recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Loops illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -325,7 +325,7 @@ When A and C are separated by several intermediate claims, the relationship betw
 
 **Changing vocabulary.**
 
-The argument may restate essentially the same idea using different language at each stage. What looks like three distinct claims may actually be one assumption expressed in different forms. This disguises the fact that the chain never introduces new evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/circular-reasoning-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">Bachelor Print Circular Reasoning Fallacy ~ Definition &amp; Examples</span><span class="citation-popover-snippet">BachelorPrintCircular Reasoning Fallacy ~ Definition &amp; ExamplesFebruary 13, 2025 — 27 Dec 2023 — Circular reasoning, also known as beggin...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+The argument may restate essentially the same idea using different language at each stage. What looks like three distinct claims may actually be one assumption expressed in different forms. This disguises the fact that the chain never introduces new evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/circular-reasoning-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">Bachelor Print Circular Reasoning Fallacy ~ Definition &amp; Examples</span><span class="citation-popover-snippet">Circular Reasoning Fallacy ~ Definition &amp; ExamplesFebruary 13, 2025 — 27 Dec 2023 — Circular reasoning, also known as beggin...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 **Accumulated plausibility.**
 
@@ -407,7 +407,7 @@ If tracing the chain eventually leads back to the starting point, the argument c
 
 Hidden A-B-C loops are more than a technical flaw in logic. They can create a false impression that a conclusion has been carefully established when it has merely been recycled through several intermediate claims. Because the circularity is distributed across the chain rather than stated directly, readers and listeners may overlook the absence of [independent support]({{ 'support-test/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Regress_argument_%28epistemology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Regress argument (epistemology</span><span class="citation-popover-snippet">Regress argument (epistemology</span></span></span>
 
-The key test is not how many links appear in the argument but whether any link ultimately connects to evidence outside the loop. A chain that returns to its own starting point may look sophisticated, but it has not actually advanced the case. The reasoning has travelled in a circle rather than arrived at a justified conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">circular argument</span><span class="citation-popover-snippet">Encyclopedia BritannicaCircular argument | Definition, History, Examples, &amp; Facts13 May 2026 — A circular argument&#x27;s premise explicitly o...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The key test is not how many links appear in the argument but whether any link ultimately connects to evidence outside the loop. A chain that returns to its own starting point may look sophisticated, but it has not actually advanced the case. The reasoning has travelled in a circle rather than arrived at a justified conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">circular argument</span><span class="citation-popover-snippet">Encyclopedia BritannicaCircular argument &#124; Definition, History, Examples, &amp; Facts13 May 2026 — A circular argument&#x27;s premise explicitly o...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pN5uHO6RdeI" title="Circular Reasoning Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pN5uHO6RdeI" target="_blank" rel="noopener noreferrer">Circular Reasoning Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 2.7K &middot; Uploaded: September 2024 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pN5uHO6RdeI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pN5uHO6RdeI">Open on YouTube</a></p></div></div></div>
@@ -835,102 +835,102 @@ The key test is not how many links appear in the argument but whether any link u
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Circular reasoning  
-   Link: [https://en.wikipedia.org/wiki/Circular_reasoning](https://en.wikipedia.org/wiki/Circular_reasoning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circular_reasoning</a>  
 
 2. <a id="endnote-2"></a>
    Source: microsoft.com  
    Title: What is a circular argument?  
-   Link: [https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/what-is-a-circular-argument](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/what-is-a-circular-argument)  
+   Link: <a href="https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/what-is-a-circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/what-is-a-circular-argument</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definitions, examples, and...November 17, 2023 — 17 Nov 2023 — A circular argument occurs when someone uses a claim to support itself. I...</p></details>
    Published: November 17, 2023  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Regress argument (epistemology)  
-   Link: [https://en.wikipedia.org/wiki/Regress_argument_%28epistemology%29](https://en.wikipedia.org/wiki/Regress_argument_%28epistemology%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Regress_argument_%28epistemology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Regress_argument_%28epistemology%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: britannica.com  
    Title: circular argument  
-   Link: [https://www.britannica.com/topic/circular-argument](https://www.britannica.com/topic/circular-argument)  
+   Link: <a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaCircular argument | Definition, History, Examples, &amp; Facts13 May 2026 — A circular argument&#x27;s premise explicitly o...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: bachelorprint.com  
    Title: Bachelor Print Circular Reasoning Fallacy ~ Definition & Examples  
-   Link: [https://www.bachelorprint.com/fallacies/circular-reasoning-fallacy/](https://www.bachelorprint.com/fallacies/circular-reasoning-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BachelorPrintCircular Reasoning Fallacy ~ Definition &amp; ExamplesFebruary 13, 2025 — 27 Dec 2023 — Circular reasoning, also known as beggin...</p></details>
+   Link: <a href="https://www.bachelorprint.com/fallacies/circular-reasoning-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/circular-reasoning-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular Reasoning Fallacy ~ Definition &amp; ExamplesFebruary 13, 2025 — 27 Dec 2023 — Circular reasoning, also known as beggin...</p></details>
    Published: February 13, 2025  
 
 6. <a id="endnote-6"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/blog/how-to-recognize-circular-reasoning-in-arguments](https://www.logicallyfallacious.com/blog/how-to-recognize-circular-reasoning-in-arguments)  
+   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-recognize-circular-reasoning-in-arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-recognize-circular-reasoning-in-arguments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousHow to Recognize Circular Reasoning in ArgumentsApril 18, 2026 — 18 Apr 2026 — Circular reasoning happens when an arg...</p></details>
    Published: April 18, 2026  
 
 7. <a id="endnote-7"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Circular-Reasoning](https://www.logicallyfallacious.com/logicalfallacies/Circular-Reasoning)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Circular-Reasoning" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Circular-Reasoning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular ReasoningDescription: A type of reasoning in which the proposition is supported by the premises, which is supported by the propo...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/presentation/893520689/Circular-Reasoning-Fallacy](https://www.scribd.com/presentation/893520689/Circular-Reasoning-Fallacy)  
+   Link: <a href="https://www.scribd.com/presentation/893520689/Circular-Reasoning-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/893520689/Circular-Reasoning-Fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Circular Reasoning Fallacy | PDF | ArgumentCircular reasoning is a logical fallacy where an argument&#x27;s conclusion is assume...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: philosophy.stackexchange.com  
    Title: Namely, 'I am doing what I please here, therefore I have ownership here.’”  
-   Link: [https://philosophy.stackexchange.com/questions/55574/is-circular-reasoning-always-a-fallacy](https://philosophy.stackexchange.com/questions/55574/is-circular-reasoning-always-a-fallacy)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/55574/is-circular-reasoning-always-a-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/55574/is-circular-reasoning-always-a-fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>circular reasoning always a fallacy?17 Sept 2018 — Consider the following dialogue: A: &quot;I accept only one notion of land property...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/799987083411428/posts/4461837207226379/](https://www.facebook.com/groups/799987083411428/posts/4461837207226379/)  
+   Link: <a href="https://www.facebook.com/groups/799987083411428/posts/4461837207226379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/799987083411428/posts/4461837207226379/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on is used as its own premise, creating a loop that offers...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: paraphrasetool.com  
    Title: In other words, it assumes what it is  
-   Link: [https://paraphrasetool.com/usage/circular-reasoning-fallacy](https://paraphrasetool.com/usage/circular-reasoning-fallacy)  
+   Link: <a href="https://paraphrasetool.com/usage/circular-reasoning-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://paraphrasetool.com/usage/circular-reasoning-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Circular Reasoning Fallacy: A Deep Dive...13 Apr 2024 — Circular reasoning is a logical fallacy where the conclusion of an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: And I know that this is an informal  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/1l38tu5/i_cant_quite_understand_the_fallacy_of_circular/](https://www.reddit.com/r/askphilosophy/comments/1l38tu5/i_cant_quite_understand_the_fallacy_of_circular/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1l38tu5/i_cant_quite_understand_the_fallacy_of_circular/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1l38tu5/i_cant_quite_understand_the_fallacy_of_circular/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I can&#x27;t quite understand the fallacy of circular reasoning.I comprehend the definition of it: that such fallacy is made when one premisse...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribbr.com  
    Title: circular reasoning fallacy  
-   Link: [https://www.scribbr.com/fallacies/circular-reasoning-fallacy/](https://www.scribbr.com/fallacies/circular-reasoning-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/circular-reasoning-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/circular-reasoning-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples1 May 2023 — The circular reasoning fallacy is an argument that assumes the very thing it is trying to prove is true...</p></details>
    Published: May 2023  
 
 14. <a id="endnote-14"></a>
    Source: grammarly.com  
    Title: circular argument fallacy  
-   Link: [https://www.grammarly.com/blog/rhetorical-devices/circular-argument-fallacy/](https://www.grammarly.com/blog/rhetorical-devices/circular-argument-fallacy/)  
+   Link: <a href="https://www.grammarly.com/blog/rhetorical-devices/circular-argument-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/circular-argument-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Circular Argument?3 Nov 2022 — A circular argument, also known as circular reasoning, is an incorrect argument that tries to pr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Circular Reasoning Explained with "The Simpsons" | [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) in TV Shows  
-   Link: [https://www.youtube.com/watch?v=pN5uHO6RdeI](https://www.youtube.com/watch?v=pN5uHO6RdeI)  
+   Link: <a href="https://www.youtube.com/watch?v=pN5uHO6RdeI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pN5uHO6RdeI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular Reasoning isn&#x27;t a Logical Fallacy (and Here&#x27;s Why that Matters)...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Critical Thinking: The Fallacy of Circular Argument  
-   Link: [https://www.youtube.com/watch?v=0P79dctCEZU](https://www.youtube.com/watch?v=0P79dctCEZU)  
+   Link: <a href="https://www.youtube.com/watch?v=0P79dctCEZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0P79dctCEZU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular Reasoning Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Fallacies: Begging the Question (narrow sense)  
-   Link: [https://www.youtube.com/watch?v=qSWCi_-qIME](https://www.youtube.com/watch?v=qSWCi_-qIME)  
+   Link: <a href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qSWCi_-qIME</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking: The Fallacy of Circular Argument...</p></details>

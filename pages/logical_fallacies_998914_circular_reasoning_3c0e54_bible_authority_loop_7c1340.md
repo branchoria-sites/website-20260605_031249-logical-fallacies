@@ -268,11 +268,11 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_bible_a
 
 ## Introduction
 
-Bible authority arguments are often used as examples of **begging the question**, a form of [circular reasoning]({{ 'circularity/' | relative_url }}) in which a claim is supported by premises that already assume the claim is true. The issue is not whether the Bible is true or false. Rather, the logical question is whether an argument provides **[independent support]({{ 'support-test/' | relative_url }})** for its conclusion. When someone argues that the Bible is true because it is God's word, and then argues that it is God's word because the Bible says so, the reasoning forms a loop rather than an evidential chain. Philosophers and logicians classify this pattern as a version of *petitio principii*—assuming what one is trying to prove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe most well known examples of circular reasoning are cases of the Fallacy of Begging the Qu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PagePetitio Principii (Begging the Question or Circular Argument)Petitio principii is sometimes defined as a simple or im...</span></span></span>
+Bible authority arguments are often used as examples of **begging the question**, a form of circular reasoning in which a claim is supported by premises that already assume the claim is true. The issue is not whether the Bible is true or false. Rather, the logical question is whether an argument provides **[independent support]({{ 'support-test/' | relative_url }})** for its conclusion. When someone argues that the Bible is true because it is God's word, and then argues that it is God's word because the Bible says so, the reasoning forms a loop rather than an evidential chain. Philosophers and logicians classify this pattern as a version of *petitio principii*—assuming what one is trying to prove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe most well known examples of circular reasoning are cases of the Fallacy of Begging the Qu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PagePetitio Principii (Begging the Question or Circular Argument)Petitio principii is sometimes defined as a simple or im...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_bible_authority_loop_7c1340-Illustration-1-dark.svg" | relative_url }}" alt="Bible Loops illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_bible_authority_loop_7c1340-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_bible_authority_loop_7c1340-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This makes Bible authority loops a useful case study within the broader topic of circular reasoning and unsupported conclusions. They show how an argument can appear persuasive while failing to offer evidence that a sceptical listener could accept independently of the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">circular argument</span><span class="citation-popover-snippet">Encyclopedia BritannicaCircular argument | Definition, History, Examples, &amp; Facts13 Feb 2026 — A circular argument&#x27;s premise explicitly o...</span></span></span>
+This makes Bible authority loops a useful case study within the broader topic of circular reasoning and unsupported conclusions. They show how an argument can appear persuasive while failing to offer evidence that a sceptical listener could accept independently of the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">circular argument</span><span class="citation-popover-snippet">Encyclopedia BritannicaCircular argument &#124; Definition, History, Examples, &amp; Facts13 Feb 2026 — A circular argument&#x27;s premise explicitly o...</span></span></span>
 
 ## How the Authority Loop Is Built
 
@@ -314,7 +314,7 @@ Consider two different claims:
 * "The Bible is true because the Bible says it is true."
 * "The Bible is historically reliable because certain manuscripts, archaeological findings, and external historical sources support specific claims."
 
-The first statement relies on the Bible's authority to establish the Bible's authority. The second appeals to evidence that exists outside the claim being examined. Whether the external evidence succeeds is a separate question, but it is at least independent of the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icriticalthinking.org/library/begging-the-question/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icriticalthinking.org">[iCriticalThinking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icriticalthinking.org</span><span class="citation-popover-title">begging the question</span><span class="citation-popover-snippet">None. How can you avoid Begging the Question? Use independent premises. Assume the conclusion.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">circular argument</span><span class="citation-popover-snippet">Encyclopedia BritannicaCircular argument | Definition, History, Examples, &amp; Facts13 Feb 2026 — A circular argument&#x27;s premise explicitly o...</span></span></span>
+The first statement relies on the Bible's authority to establish the Bible's authority. The second appeals to evidence that exists outside the claim being examined. Whether the external evidence succeeds is a separate question, but it is at least independent of the conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://icriticalthinking.org/library/begging-the-question/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icriticalthinking.org">[iCriticalThinking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icriticalthinking.org</span><span class="citation-popover-title">begging the question</span><span class="citation-popover-snippet">None. How can you avoid Begging the Question? Use independent premises. Assume the conclusion.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">circular argument</span><span class="citation-popover-snippet">Encyclopedia BritannicaCircular argument &#124; Definition, History, Examples, &amp; Facts13 Feb 2026 — A circular argument&#x27;s premise explicitly o...</span></span></span>
 
 This independence requirement explains why circular arguments are generally unpersuasive to those who do not already share the conclusion. If someone doubts the Bible's authority, citing the Bible's own declarations of authority gives that person no new reason to change their view. The argument simply returns them to the starting point. As philosophers of logic often note, circular arguments can be formally valid while remaining evidentially ineffective because they provide no new grounds for belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">One of them is nicely illustrated with Whately&#x27;s...Read more...</span></span></span>
 
@@ -322,7 +322,7 @@ A useful way to see the problem is to substitute another authority source:
 
 > "This book is completely reliable because the book itself says it is completely reliable."
 
-Most people immediately recognise that such a statement proves very little. The concern is not unique to religion; the same reasoning would be defective if applied to a political manifesto, a scientific pamphlet, a company's [advertising]({{ 'advertising/' | relative_url }}) material, or a news source evaluating itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">circular argument</span><span class="citation-popover-snippet">Encyclopedia BritannicaCircular argument | Definition, History, Examples, &amp; Facts13 Feb 2026 — A circular argument&#x27;s premise explicitly o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Begging the question</span><span class="citation-popover-snippet">Begging the question</span></span></span>
+Most people immediately recognise that such a statement proves very little. The concern is not unique to religion; the same reasoning would be defective if applied to a political manifesto, a scientific pamphlet, a company's [advertising]({{ 'advertising/' | relative_url }}) material, or a news source evaluating itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">circular argument</span><span class="citation-popover-snippet">Encyclopedia BritannicaCircular argument &#124; Definition, History, Examples, &amp; Facts13 Feb 2026 — A circular argument&#x27;s premise explicitly o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Begging the question</span><span class="citation-popover-snippet">Begging the question</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_bible_authority_loop_7c1340-Illustration-2-dark.svg" | relative_url }}" alt="Bible Loops illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_bible_authority_loop_7c1340-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_bible_authority_loop_7c1340-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -344,7 +344,7 @@ For example:
 Each statement appears to support the next, yet the chain eventually circles back to its beginning. This is what makes circular reasoning difficult to spot in practice. The conclusion may be separated from the key assumption by several steps, creating the impression that evidence has been supplied when the reasoning never actually leaves the loop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PagePetitio Principii (Begging the Question or Circular Argument)Petitio principii is sometimes defined as a simple or im...</span></span></span> Wikipedia Philosophers have long observed that question-begging arguments often rely on rewording <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Begging the question</span><span class="citation-popover-snippet">Begging the question</span></span></span>, abstraction, or hidden assumptions rather than simple repetition. The conclusion may not be repeated verbatim, but it is still presupposed in a different form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">One of them is nicely illustrated with Whately&#x27;s...Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IJ2dWrI-PTA" title="Begging the Question (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IJ2dWrI-PTA" target="_blank" rel="noopener noreferrer">Begging the Question (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 32.4K &middot; Uploaded: February 2014 &middot; Length: 1 minute 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IJ2dWrI-PTA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IJ2dWrI-PTA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tT6TMhy73vQ" title="Do Christians Use Circular Reasoning? (Episode 37)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tT6TMhy73vQ" target="_blank" rel="noopener noreferrer">Do Christians Use Circular Reasoning? (Episode 37)</a></p><p class="youtube-embed-meta">Channel: Answers in Genesis Canada &middot; Views: 1.5K &middot; Uploaded: August 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tT6TMhy73vQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tT6TMhy73vQ">Open on YouTube</a></p></div></div></div>
 
 ## How to Test the Argument Fairly
 
@@ -375,7 +375,7 @@ Bible authority loops illustrate one of the central lessons of [logical fallacie
 The key diagnostic question is therefore simple: **what evidence remains if the disputed authority claim is temporarily set aside?** If no independent support remains, the reasoning has turned in a circle rather than providing a genuine evidential foundation. That is precisely why Bible authority loops remain a classic example of begging the question within discussions of circular reasoning and unsupported conclusions. [Encyclopedia Britannica+3Internet Encyclopedia of Philosophy+3Philosophy Home Page]
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tT6TMhy73vQ" title="Do Christians Use Circular Reasoning? (Episode 37)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tT6TMhy73vQ" target="_blank" rel="noopener noreferrer">Do Christians Use Circular Reasoning? (Episode 37)</a></p><p class="youtube-embed-meta">Channel: Answers in Genesis Canada &middot; Views: 1.5K &middot; Uploaded: August 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tT6TMhy73vQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tT6TMhy73vQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OAXKc-rvMa8" title="Are you Begging the Question? - Gentleman Thinker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OAXKc-rvMa8" target="_blank" rel="noopener noreferrer">Are you Begging the Question? - Gentleman Thinker</a></p><p class="youtube-embed-meta">Channel: Philosophy Tube &middot; Views: 152.3K &middot; Uploaded: August 2014 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OAXKc-rvMa8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OAXKc-rvMa8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -800,133 +800,133 @@ The key diagnostic question is therefore simple: **what evidence remains if the 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Begging the question  
-   Link: [https://en.wikipedia.org/wiki/Begging_the_question](https://en.wikipedia.org/wiki/Begging_the_question)  
+   Link: <a href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Begging_the_question</a>  
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
    Title: circular argument  
-   Link: [https://www.britannica.com/topic/circular-argument](https://www.britannica.com/topic/circular-argument)  
+   Link: <a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaCircular argument | Definition, History, Examples, &amp; Facts13 Feb 2026 — A circular argument&#x27;s premise explicitly o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Circular reasoning  
-   Link: [https://en.wikipedia.org/wiki/Circular_reasoning](https://en.wikipedia.org/wiki/Circular_reasoning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Circular_reasoning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular reasoningCircular reasoning is a logical fallacy in which the reasoner begins with what they are trying to end with. Circular...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: icriticalthinking.org  
    Title: begging the question  
-   Link: [https://icriticalthinking.org/library/begging-the-question/](https://icriticalthinking.org/library/begging-the-question/)  
+   Link: <a href="https://icriticalthinking.org/library/begging-the-question/" target="_blank" rel="noopener noreferrer nofollow">https://icriticalthinking.org/library/begging-the-question/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>None. How can you avoid Begging the Question? Use independent premises. Assume the conclusion.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of them is nicely illustrated with Whately&#x27;s...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/archives/fall2020/entries/fallacies/](https://plato.stanford.edu/archives/fall2020/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2020/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of PhilosophyMay 29, 2015 — Begging the question is explained as ask...</p></details>
    Published: May 29, 2015  
 
 7. <a id="endnote-7"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: [https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/](https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/)  
+   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Fallacies: Errors in Reasoning9 Dec 2025 — Petitio principii, more commonly known as “begging the question” or circular rea...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe most well known examples of circular reasoning are cases of the Fallacy of Begging the Qu...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/circular.html](https://philosophy.lander.edu/logic/circular.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/circular.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PagePetitio Principii (Begging the Question or Circular Argument)Petitio principii is sometimes defined as a simple or im...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: txst.edu  
-   Link: [https://www.txst.edu/philosophy/student-resources/informal-fallacies/begging-the-question.html](https://www.txst.edu/philosophy/student-resources/informal-fallacies/begging-the-question.html)  
+   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/begging-the-question.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/begging-the-question.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas State UniversityBegging the Question: Department of PhilosophyThe fallacy of begging the question occurs when an argument&#x27;s premis...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: philosophy.stackexchange.com  
    Title: is the reiteration rule in [formal logic](&#123;&#123; 'formal-logic/' | relative_url &#125;&#125;) begging the question  
-   Link: [https://philosophy.stackexchange.com/questions/54550/is-the-reiteration-rule-in-formal-logic-begging-the-question](https://philosophy.stackexchange.com/questions/54550/is-the-reiteration-rule-in-formal-logic-begging-the-question)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/54550/is-the-reiteration-rule-in-formal-logic-begging-the-question" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/54550/is-the-reiteration-rule-in-formal-logic-begging-the-question</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Stack ExchangeIs the reiteration rule in formal logic begging the question?12 Aug 2018 — The informal fallacy of begging the q...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: philosophy.stackexchange.com  
    Title: begging the question is a type of circular reasoning  
-   Link: [https://philosophy.stackexchange.com/questions/102321/begging-the-question-is-a-type-of-circular-reasoning](https://philosophy.stackexchange.com/questions/102321/begging-the-question-is-a-type-of-circular-reasoning)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/102321/begging-the-question-is-a-type-of-circular-reasoning" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/102321/begging-the-question-is-a-type-of-circular-reasoning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the question is a type of circular reasoning?30 Aug 2023 — Begging the question is a type of circular reasoning, and often occurs in an i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: philosophy.stackexchange.com  
    Title: Typically it is a matter of having a premise that is very similar  
-   Link: [https://philosophy.stackexchange.com/questions/8351/how-do-i-understand-begging-the-question-in-philosophical-[context](https://philosophy.stackexchange.com/questions/8351/how-do-i-understand-begging-the-question-in-philosophical-[context)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/8351/how-do-i-understand-begging-the-question-in-philosophical-[context" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/8351/how-do-i-understand-begging-the-question-in-philosophical-[context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do I understand &quot;Begging the question&quot; in philosophical context?October 8, 2013 — &quot;Begging the question&quot; in a philosophical context means...</p></details>
    Published: October 8, 2013  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=IJ2dWrI-PTA](https://www.youtube.com/watch?v=IJ2dWrI-PTA)  
+   Link: <a href="https://www.youtube.com/watch?v=IJ2dWrI-PTA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IJ2dWrI-PTA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>circular reasoning...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: finmasters.com  
-   Link: [https://finmasters.com/circular-reasoning/](https://finmasters.com/circular-reasoning/)  
+   Link: <a href="https://finmasters.com/circular-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/circular-reasoning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Circular Reasoning: Definition and ExamplesCircular reasoning, or circular argument, is a logical fallacy in which a person attempts to p...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesThere may be reasons for temporary silence other than [ignorance](&amp;#123;&amp;#123; &#x27;ignorance/&#x27; | relative_url &amp;#125;&amp;#125;). begging the question -- Circular reasoning in which a c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/begquest.html](https://www.fallacyfiles.org/begquest.html)  
+   Link: <a href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/begquest.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Begging the QuestionBegging the question is a fallacious form of argument. Therefore, to beg the question is to argue fa...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/DebateReligion/comments/x0wktg/nearly_all_the_reasoning_for_christianity_is/](https://www.reddit.com/r/DebateReligion/comments/x0wktg/nearly_all_the_reasoning_for_christianity_is/)  
+   Link: <a href="https://www.reddit.com/r/DebateReligion/comments/x0wktg/nearly_all_the_reasoning_for_christianity_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/x0wktg/nearly_all_the_reasoning_for_christianity_is/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly all the reasoning for Christianity is circularWe are in a situation where the Bible is used as proof of itself, which of course, i...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/DebateReligion/comments/tyt4n/to_all_stop_begging_the_question/](https://www.reddit.com/r/DebateReligion/comments/tyt4n/to_all_stop_begging_the_question/)  
+   Link: <a href="https://www.reddit.com/r/DebateReligion/comments/tyt4n/to_all_stop_begging_the_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/tyt4n/to_all_stop_begging_the_question/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To All: Stop begging the question: r/DebateReligionBegging the question is a kind of circular reasoning where the premise is held as pro...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: the circular reasoning fallacy also known as begging the question petitio princi  
-   Link: [https://www.facebook.com/Religiontg/photos/the-circular-reasoning-fallacy-also-known-as-begging-the-question-petitio-princi/122233834934193629/](https://www.facebook.com/Religiontg/photos/the-circular-reasoning-fallacy-also-known-as-begging-the-question-petitio-princi/122233834934193629/)  
+   Link: <a href="https://www.facebook.com/Religiontg/photos/the-circular-reasoning-fallacy-also-known-as-begging-the-question-petitio-princi/122233834934193629/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Religiontg/photos/the-circular-reasoning-fallacy-also-known-as-begging-the-question-petitio-princi/122233834934193629/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The circular reasoning fallacy, also known as...31 Mar 2025 — The circular reasoning fallacy, also known as begging the question (petiti...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cwb0Ye3o0zo&vl=en](https://www.youtube.com/watch?v=cwb0Ye3o0zo&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=cwb0Ye3o0zo&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cwb0Ye3o0zo&amp;vl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why This Argument Is NOT CircularIn this video, AMOT gives a short lesson in deductive logic to the glory of God with the power of the Sc...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/31425129128/posts/10166685576959129/](https://www.facebook.com/groups/31425129128/posts/10166685576959129/)  
+   Link: <a href="https://www.facebook.com/groups/31425129128/posts/10166685576959129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/31425129128/posts/10166685576959129/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on it to get me where I need to go.&quot; Or &quot;God exists because the...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064331543876/posts/to-beg-the-question-is-to-presuppose-an-answer-based-in-logic-from-latin-assumin/887084443445932/](https://www.facebook.com/100064331543876/posts/to-beg-the-question-is-to-presuppose-an-answer-based-in-logic-from-latin-assumin/887084443445932/)  
+   Link: <a href="https://www.facebook.com/100064331543876/posts/to-beg-the-question-is-to-presuppose-an-answer-based-in-logic-from-latin-assumin/887084443445932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064331543876/posts/to-beg-the-question-is-to-presuppose-an-answer-based-in-logic-from-latin-assumin/887084443445932/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ular reasoning. This is an informal fallacy where the...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: cerebralfaith.net  
-   Link: [https://cerebralfaith.net/logical-fallacy-series-part-10-begging/](https://cerebralfaith.net/logical-fallacy-series-part-10-begging/)  
+   Link: <a href="https://cerebralfaith.net/logical-fallacy-series-part-10-begging/" target="_blank" rel="noopener noreferrer nofollow">https://cerebralfaith.net/logical-fallacy-series-part-10-begging/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy Series — Part 10: Begging The QuestionThis argument for The Bible being true is logically fallacious because the Christia...</p></details>

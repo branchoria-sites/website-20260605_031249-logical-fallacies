@@ -323,7 +323,7 @@ When campaigners argue that schools should “ban phones”, listeners may imagi
 
 </div>
 
-Because these models differ, evidence about one model does not automatically apply to another. A study examining locked-pouch systems is not necessarily measuring the effects of a leave-at-home policy. Likewise, research on classroom restrictions alone may not tell us much about a bell-to-bell phone-free day. A major scoping review of the evidence noted that studies frequently use different definitions of bans, including partial and complete restrictions, making direct comparison difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Evidence for and against banning mobile phones in schools</span><span class="citation-popover-snippet">ResearchGateEvidence for and against banning mobile phones in schoolsAugust 13, 2024 — 13 May 2026 — We provide a synthesis of the latest...</span><span class="citation-popover-meta">Published: August 13, 2024</span></span></span>
+Because these models differ, evidence about one model does not automatically apply to another. A study examining locked-pouch systems is not necessarily measuring the effects of a leave-at-home policy. Likewise, research on classroom restrictions alone may not tell us much about a bell-to-bell phone-free day. A major scoping review of the evidence noted that studies frequently use different definitions of bans, including partial and complete restrictions, making direct comparison difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Evidence for and against banning mobile phones in schools</span><span class="citation-popover-snippet">Evidence for and against banning mobile phones in schoolsAugust 13, 2024 — 13 May 2026 — We provide a synthesis of the latest...</span><span class="citation-popover-meta">Published: August 13, 2024</span></span></span>
 
 This is where the logical fallacy appears. A [debate]({{ 'debate/' | relative_url }}) framed as “ban phones or allow phones” hides the fact that policymakers are choosing among several governance models rather than two mutually exclusive options.
 
@@ -776,113 +776,113 @@ The false choice arises when those distinct models are treated as identical. Onc
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: mobile phones in schools  
-   Link: [https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools](https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools)  
+   Link: <a href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: creating a mobile phone free environment school case studies  
-   Link: [https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies](https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies)  
+   Link: <a href="https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mobile-phones-in-schools/creating-a-mobile-phone-free-environment-school-case-studies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating a mobile phone-free environment: school case...19 Feb 2026 — All pupils must place their turned-off mobile phone into a lockabl...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: education-ni.gov.uk  
    Title: guidance use mobile phones schools launched  
-   Link: [https://www.education-ni.gov.uk/news/guidance-use-mobile-phones-schools-launched](https://www.education-ni.gov.uk/news/guidance-use-mobile-phones-schools-launched)  
+   Link: <a href="https://www.education-ni.gov.uk/news/guidance-use-mobile-phones-schools-launched" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/news/guidance-use-mobile-phones-schools-launched</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of EducationGuidance on use of mobile phones in schools launched3 Sept 2024 — The new guidance will be accompanied by a pilot...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Evidence for and against banning mobile phones in schools  
-   Link: [https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review](https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateEvidence for and against banning mobile phones in schoolsAugust 13, 2024 — 13 May 2026 — We provide a synthesis of the latest...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383111257_Evidence_for_and_against_banning_mobile_phones_in_schools_A_scoping_review</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for and against banning mobile phones in schoolsAugust 13, 2024 — 13 May 2026 — We provide a synthesis of the latest...</p></details>
    Published: August 13, 2024  
 
 5. <a id="endnote-5"></a>
    Source: gov.ie  
-   Link: [https://www.gov.ie/en/department-of-education/press-releases/minister-mcentee-issues-new-guidance-on-mobile-phone-use-in-schools-supported-by-9m-funding/](https://www.gov.ie/en/department-of-education/press-releases/minister-mcentee-issues-new-guidance-on-mobile-phone-use-in-schools-supported-by-9m-funding/)  
+   Link: <a href="https://www.gov.ie/en/department-of-education/press-releases/minister-mcentee-issues-new-guidance-on-mobile-phone-use-in-schools-supported-by-9m-funding/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.ie/en/department-of-education/press-releases/minister-mcentee-issues-new-guidance-on-mobile-phone-use-in-schools-supported-by-9m-funding/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McEntee issues new guidance on mobile phone...13 Jun 2025 — recognised primary schools are required to implement a policy to ban the use...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/](https://www.gov.uk/)  
+   Link: <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cheshire-pcc.gov.uk  
-   Link: [https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/](https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/)  
+   Link: <a href="https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/" target="_blank" rel="noopener noreferrer nofollow">https://www.cheshire-pcc.gov.uk/what-the-commissioner-does/projects/reducing-crime/phone-free-education/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>3.5% ban phones from being brought to school at all; 7.9...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: educationinspection.blog.gov.uk  
-   Link: [https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/](https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/)  
+   Link: <a href="https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/" target="_blank" rel="noopener noreferrer nofollow">https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the government&#x27;s updated guidance on mobile phones...23 Jan 2026 — The DfE guidance is clear: it expects a ban on mobile phones in schoo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: schoolsweek.co.uk  
-   Link: [https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/](https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/)  
+   Link: <a href="https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/" target="_blank" rel="noopener noreferrer nofollow">https://schoolsweek.co.uk/the-school-that-confiscates-phones-for-six-weeks/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schools WeekPhone ban: The school that confiscates devices for six weeks19 Jan 2026 — If a pupil is found with a phone, it is confiscated...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/](https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/)  
+   Link: <a href="https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers from institutions like Stanford and Duke concluded that such bans lead to negligible changes in test scores and attendance. W...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mobile.de  
-   Link: [https://www.mobile.de/?srsltid=AfmBOorCF11bUgE-xYL8UYW7t_BsxvHDUpdaHp_U1cY-RRuut2P8c7md](https://www.mobile.de/?srsltid=AfmBOorCF11bUgE-xYL8UYW7t_BsxvHDUpdaHp_U1cY-RRuut2P8c7md)  
+   Link: <a href="https://www.mobile.de/?srsltid=AfmBOorCF11bUgE-xYL8UYW7t_BsxvHDUpdaHp_U1cY-RRuut2P8c7md" target="_blank" rel="noopener noreferrer nofollow">https://www.mobile.de/?srsltid=AfmBOorCF11bUgE-xYL8UYW7t_BsxvHDUpdaHp_U1cY-RRuut2P8c7md</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nzieren ✓ Wohnmobile ✓ Motorräder ✓ Nutzfahrzeuge ✓ E-Bikes ✓ Jetzt finden...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: policyexchange.org.uk  
-   Link: [https://policyexchange.org.uk/publication/disconnect/](https://policyexchange.org.uk/publication/disconnect/)  
+   Link: <a href="https://policyexchange.org.uk/publication/disconnect/" target="_blank" rel="noopener noreferrer nofollow">https://policyexchange.org.uk/publication/disconnect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DisconnectPhones must be locked up at the start of each school day in phone lockers or... school governors in the UK can choose to imple...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: overyondr.com  
-   Link: [https://www.overyondr.com/phone-free-schools](https://www.overyondr.com/phone-free-schools)  
+   Link: <a href="https://www.overyondr.com/phone-free-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.overyondr.com/phone-free-schools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SchoolsOur unique, lockable pouch means students keep their phones, but cannot access them during the school day. Teachers no longer have...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/[politics](https://www.theguardian.com/[politics)  
+   Link: <a href="https://www.theguardian.com/[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/[politics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>study by researchers from universities including Stanford and Duke challenges the effectiveness of strict mobile phone bans in schools, f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/the-school-that-locks-phones-away-r397zbrmj](https://www.thetimes.co.uk/article/the-school-that-locks-phones-away-r397zbrmj)  
+   Link: <a href="https://www.thetimes.co.uk/article/the-school-that-locks-phones-away-r397zbrmj" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/the-school-that-locks-phones-away-r397zbrmj</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enacted by headteacher Damian McBeath, the policy resulted in students engaging more actively and socially during breaks, with dramatic r...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: birmingham.ac.uk  
-   Link: [https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use](https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use)  
+   Link: <a href="https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use" target="_blank" rel="noopener noreferrer nofollow">https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>School bans alone not enough to tackle negative impacts...4 Feb 2025 — First study of its kind finds that restrictive school policies do...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: lockershopuk.co.uk  
-   Link: [https://www.lockershopuk.co.uk/Blogs/storage-lockers/why-mobile-phone-storage-lockers-are-essential-for-schools-following-new-uk-guidance/](https://www.lockershopuk.co.uk/Blogs/storage-lockers/why-mobile-phone-storage-lockers-are-essential-for-schools-following-new-uk-guidance/)  
+   Link: <a href="https://www.lockershopuk.co.uk/Blogs/storage-lockers/why-mobile-phone-storage-lockers-are-essential-for-schools-following-new-uk-guidance/" target="_blank" rel="noopener noreferrer nofollow">https://www.lockershopuk.co.uk/Blogs/storage-lockers/why-mobile-phone-storage-lockers-are-essential-for-schools-following-new-uk-guidance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Mobile Phone Storage Lockers Are Essential for...5 Jun 2024 — Mobile phone storage lockers for schools provide a secure place for st...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_LICJh-6aSA](https://www.youtube.com/watch?v=_LICJh-6aSA)  
+   Link: <a href="https://www.youtube.com/watch?v=_LICJh-6aSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_LICJh-6aSA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside a school where phones are banned | ITV NewsPhones are now kept in sealed pouches all day opened with a magnetic security device it...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: unesco.org  
    Title: phone bans schools are spreading worldwide policy debate rages  
-   Link: [https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages](https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages)  
+   Link: <a href="https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phone bans in schools are spreading worldwide as the...19 Mar 2026 — Recent global monitoring shows that 114 education systems now have...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: libertyhumanrights.org.uk  
    Title: Can a police officer or a teacher take a pupil's phone?  
-   Link: [https://www.libertyhumanrights.org.uk/advice_information/can-a-police-officer-or-a-teacher-take-a-pupils-phone/](https://www.libertyhumanrights.org.uk/advice_information/can-a-police-officer-or-a-teacher-take-a-pupils-phone/)  
+   Link: <a href="https://www.libertyhumanrights.org.uk/advice_information/can-a-police-officer-or-a-teacher-take-a-pupils-phone/" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/advice_information/can-a-police-officer-or-a-teacher-take-a-pupils-phone/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LibertyOnce a phone has been confiscated, the member of staff has wide discretion about how long they keep it for. You are unable to clai...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: paragoninstitute.org  
-   Link: [https://paragoninstitute.org/public-health/banning-smartphones-in-schools/](https://paragoninstitute.org/public-health/banning-smartphones-in-schools/)  
+   Link: <a href="https://paragoninstitute.org/public-health/banning-smartphones-in-schools/" target="_blank" rel="noopener noreferrer nofollow">https://paragoninstitute.org/public-health/banning-smartphones-in-schools/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Banning Smartphones in Schools: Review of the Literature...5 Jan 2026 — Research shows that cell phone bans can improve academic achieve...</p></details>

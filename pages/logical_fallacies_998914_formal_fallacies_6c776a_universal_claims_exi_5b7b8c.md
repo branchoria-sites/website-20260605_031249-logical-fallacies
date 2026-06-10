@@ -272,13 +272,13 @@ A common mistake in reasoning is to assume that a statement about *all* members 
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_universal_claims_exi_5b7b8c-Illustration-1-dark.svg" | relative_url }}" alt="Existence Errors illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_universal_claims_exi_5b7b8c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_universal_claims_exi_5b7b8c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Consider the statement, “All unicorns have one horn.” Many people instinctively hear this as saying something about real unicorns. Yet the sentence can be true as a universal claim even if no unicorns exist at all. Modern predicate logic sharply distinguishes between claims about **every member of a category** and claims that **at least one member exists**. Failing to keep those ideas separate can produce invalid conclusions and [formal fallacies]({{ 'formal-logic/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2015/entries/generalized-quantifiers/notes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyNotes to Generalized Quantifiers1, has a quick comparison with the &#x27;modern square&#x27;, which differs from...</span></span></span> Encyclopedia of Philosophy
+Consider the statement, “All unicorns have one horn.” Many people instinctively hear this as saying something about real unicorns. Yet the sentence can be true as a universal claim even if no unicorns exist at all. Modern predicate logic sharply distinguishes between claims about **every member of a category** and claims that **at least one member exists**. Failing to keep those ideas separate can produce invalid conclusions and formal fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2015/entries/generalized-quantifiers/notes.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyNotes to Generalized Quantifiers1, has a quick comparison with the &#x27;modern square&#x27;, which differs from...</span></span></span> Encyclopedia of Philosophy
 
 ## All, Some, None, and “There Exists”
 
 The mechanism behind this fallacy becomes clearer when different kinds of quantified statements are compared.
 
-A statement beginning with **all** or **every** is a universal claim. It describes what would be true of any member of a category if such members exist. By contrast, statements using **some**, **at least one**, or **there exists** explicitly assert existence. Modern logic represents this distinction with different quantifiers: the universal quantifier (“for all”) and the existential quantifier (“there exists”). <span class="citation-chip-wrap"><a class="citation-chip" href="https://logicaffeine.com/news/getting-started-with-fol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicaffeine.com">[LogiCaffeine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicaffeine.com</span><span class="citation-popover-snippet">LogiCaffeineFirst-Order Logic: A Practical IntroductionJan 18, 2026 — The existential quantifier ∃ (introduced by Peano in 1896) means &quot;t...</span></span></span>
+A statement beginning with **all** or **every** is a universal claim. It describes what would be true of any member of a category if such members exist. By contrast, statements using **some**, **at least one**, or **there exists** explicitly assert existence. Modern logic represents this distinction with different quantifiers: the universal quantifier (“for all”) and the existential quantifier (“there exists”). <span class="citation-chip-wrap"><a class="citation-chip" href="https://logicaffeine.com/news/getting-started-with-fol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicaffeine.com">[LogiCaffeine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicaffeine.com</span><span class="citation-popover-snippet">First-Order Logic: A Practical IntroductionJan 18, 2026 — The existential quantifier ∃ (introduced by Peano in 1896) means &quot;t...</span></span></span>
 
 Compare these statements:
 
@@ -360,7 +360,7 @@ Each sentence may be logically true if the relevant category is empty. None of t
 
 The mistake often occurs because ordinary language encourages people to picture concrete examples whenever a category is mentioned. Human cognition tends to treat named groups as if they refer to something real. [Formal logic]({{ 'formal-logic/' | relative_url }}) deliberately separates the grammatical appearance of a category from evidence that the category has members.
 
-That separation is one reason logical notation uses distinct symbols for “for all” and “there exists”. The distinction prevents existence assumptions from being smuggled into arguments unnoticed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://logicaffeine.com/news/getting-started-with-fol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicaffeine.com">[LogiCaffeine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicaffeine.com</span><span class="citation-popover-snippet">LogiCaffeineFirst-Order Logic: A Practical IntroductionJan 18, 2026 — The existential quantifier ∃ (introduced by Peano in 1896) means &quot;t...</span></span></span>
+That separation is one reason logical notation uses distinct symbols for “for all” and “there exists”. The distinction prevents existence assumptions from being smuggled into arguments unnoticed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://logicaffeine.com/news/getting-started-with-fol" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicaffeine.com">[LogiCaffeine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicaffeine.com</span><span class="citation-popover-snippet">First-Order Logic: A Practical IntroductionJan 18, 2026 — The existential quantifier ∃ (introduced by Peano in 1896) means &quot;t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xrz_TvdPcy4" title="Visualize the Stanford Encyclopedia of Philosophy Beautifully and Powerfully | LYT House Episode 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xrz_TvdPcy4" target="_blank" rel="noopener noreferrer">Visualize the Stanford Encyclopedia of Philosophy Beautifully and Powerfully | LYT House Episode 6</a></p><p class="youtube-embed-meta">Channel: Linking Your Thinking with Nick Milo &middot; Views: 8.7K &middot; Uploaded: October 2021 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xrz_TvdPcy4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xrz_TvdPcy4">Open on YouTube</a></p></div></div></div>
@@ -754,169 +754,169 @@ That is the core mechanism behind false existence conclusions. Universal claims 
 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/win2016/entries/quantification/](https://plato.stanford.edu/archives/win2016/entries/quantification/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2016/entries/quantification/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2016/entries/quantification/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyQuantifiers and QuantificationSep 3, 2014 — Classical quantificational logic is sometimes known as “fi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: logicaffeine.com  
-   Link: [https://logicaffeine.com/news/getting-started-with-fol](https://logicaffeine.com/news/getting-started-with-fol)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LogiCaffeineFirst-Order Logic: A Practical IntroductionJan 18, 2026 — The existential quantifier ∃ (introduced by Peano in 1896) means &quot;t...</p></details>
+   Link: <a href="https://logicaffeine.com/news/getting-started-with-fol" target="_blank" rel="noopener noreferrer nofollow">https://logicaffeine.com/news/getting-started-with-fol</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>First-Order Logic: A Practical IntroductionJan 18, 2026 — The existential quantifier ∃ (introduced by Peano in 1896) means &quot;t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
    Title: existential import  
-   Link: [https://www.britannica.com/topic/existential-import](https://www.britannica.com/topic/existential-import)  
+   Link: <a href="https://www.britannica.com/topic/existential-import" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/existential-import</a>  
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/win2015/entries/generalized-quantifiers/notes.html](https://plato.stanford.edu/archives/win2015/entries/generalized-quantifiers/notes.html)  
+   Link: <a href="https://plato.stanford.edu/archives/win2015/entries/generalized-quantifiers/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2015/entries/generalized-quantifiers/notes.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyNotes to Generalized Quantifiers1, has a quick comparison with the &#x27;modern square&#x27;, which differs from...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/square/](https://plato.stanford.edu/entries/square/)  
+   Link: <a href="https://plato.stanford.edu/entries/square/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/square/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyThe Traditional Square of Oppositionby T Parsons · 1997 · Cited by 311 — This is because on the tradit...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Free Logic  
-   Link: [https://plato.stanford.edu/archives/fall2018/entries/logic-free/](https://plato.stanford.edu/archives/fall2018/entries/logic-free/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2018/entries/logic-free/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2018/entries/logic-free/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFree Logic - Stanford Encyclopedia of PhilosophyApr 5, 2010 — Free logic is formal logic whose quantif...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/existence/](https://plato.stanford.edu/entries/existence/)  
+   Link: <a href="https://plato.stanford.edu/entries/existence/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/existence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby M Nelson · 2012 · Cited by 83 — Existence raises a number of deep and important problems in metaphy...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: logic free  
-   Link: [https://plato.stanford.edu/entries/logic-free/](https://plato.stanford.edu/entries/logic-free/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-free/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-free/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby N Gratzl · 2010 · Cited by 3 — The definitional hallmarks of a free logic are: (1) it is fr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/history-of-logic/The-17th-century](https://www.britannica.com/topic/history-of-logic/The-17th-century)  
+   Link: <a href="https://www.britannica.com/topic/history-of-logic/The-17th-century" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/history-of-logic/The-17th-century</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of logic - 17th Century, Rationalism, EmpiricismThis work attempted to resurrect the rich detail of scholastic logic, including t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/axiomatic-basis](https://www.britannica.com/topic/axiomatic-basis)  
+   Link: <a href="https://www.britannica.com/topic/axiomatic-basis" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/axiomatic-basis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Axiomatic basis | logicHypothetical syllogisms in which all propositions are of the form “p ⊃ q” (i.e., “p implies q”) are called pure, a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/history-of-logic/Modern-logic](https://www.britannica.com/topic/history-of-logic/Modern-logic)  
+   Link: <a href="https://www.britannica.com/topic/history-of-logic/Modern-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/history-of-logic/Modern-logic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History of logic - Symbolic, Mathematical, PhilosophicalThis work attempted to resurrect the rich detail of scholastic logic, including t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: philosophy.institute  
-   Link: [https://philosophy.institute/logic/essential-quantification-rules-logic-reasoning/](https://philosophy.institute/logic/essential-quantification-rules-logic-reasoning/)  
+   Link: <a href="https://philosophy.institute/logic/essential-quantification-rules-logic-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/essential-quantification-rules-logic-reasoning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Essential Rules of Quantification in Logical ReasoningJan 23, 2026 — The universal quantifier (∀) captures the idea of “for all” – a stat...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: seop.illc.uva.nl  
-   Link: [https://seop.illc.uva.nl/entries/quantification/](https://seop.illc.uva.nl/entries/quantification/)  
+   Link: <a href="https://seop.illc.uva.nl/entries/quantification/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/quantification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Quantificationby G Uzquiano · 2014 · Cited by 50 — Quantifier expressions are marks of generality. They come in many syntactic catego...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: seop.illc.uva.nl  
    Title: logic classical  
-   Link: [https://seop.illc.uva.nl/entries/logic-classical/](https://seop.illc.uva.nl/entries/logic-classical/)  
+   Link: <a href="https://seop.illc.uva.nl/entries/logic-classical/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/logic-classical/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyClassical LogicSep 16, 2000 — The existential quantifier is an analogue of the English expression “the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: comp.nus.edu.sg  
    Title: NUS Computing3  
-   Link: [https://www.comp.nus.edu.sg/~cs1231s/lect/25s1/Lecture03_LogicOfQuantifiedStatements_full.pdf](https://www.comp.nus.edu.sg/~cs1231s/lect/25s1/Lecture03_LogicOfQuantifiedStatements_full.pdf)  
+   Link: <a href="https://www.comp.nus.edu.sg/~cs1231s/lect/25s1/Lecture03_LogicOfQuantifiedStatements_full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.comp.nus.edu.sg/~cs1231s/lect/25s1/Lecture03_LogicOfQuantifiedStatements_full.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic of Quantified Statements (aka Predicate Logic)Some alternative expressions for “there exists” are “there is a”, “we can find a”...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: languagelog.ldc.upenn.edu  
-   Link: [https://languagelog.ldc.upenn.edu/nll/?p=3248](https://languagelog.ldc.upenn.edu/nll/?p=3248)  
+   Link: <a href="https://languagelog.ldc.upenn.edu/nll/?p=3248" target="_blank" rel="noopener noreferrer nofollow">https://languagelog.ldc.upenn.edu/nll/?p=3248</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Language LogJustice Breyer, Professor Austin, and the Meaning of &#x27;Any&#x27;6 Jul 2011 — The Supreme Court&#x27;s doctrine therefore seems to be tha...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: st-andrews.ac.uk  
    Title: Existential import  
-   Link: [https://www.st-andrews.ac.uk/~slr/Existential_import.pdf](https://www.st-andrews.ac.uk/~slr/Existential_import.pdf)  
+   Link: <a href="https://www.st-andrews.ac.uk/~slr/Existential_import.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.st-andrews.ac.uk/~slr/Existential_import.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aristotle and Lukasiewicz on Existential Importby S Read · 2015 · Cited by 59 — I show that this interpretation is not true to Aristotle&#x27;...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ndl.ethernet.edu.et  
    Title: The.Read more  
-   Link: [https://ndl.ethernet.edu.et/bitstream/123456789/8119/1/161.pdf.pdf](https://ndl.ethernet.edu.et/bitstream/123456789/8119/1/161.pdf.pdf)  
+   Link: <a href="https://ndl.ethernet.edu.et/bitstream/123456789/8119/1/161.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndl.ethernet.edu.et/bitstream/123456789/8119/1/161.pdf.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Language and Logicby S PETERS · Cited by 818 — It presents a broad view of the semantics and logic of quantifier expres- sions in natu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sites.ualberta.ca  
-   Link: [https://sites.ualberta.ca/~pcorkum/empty.pdf](https://sites.ualberta.ca/~pcorkum/empty.pdf)  
+   Link: <a href="https://sites.ualberta.ca/~pcorkum/empty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.ualberta.ca/~pcorkum/empty.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If &#x27;All humans are mortal&#x27; is true, for example, then at least one human exists. And secondly...Read m...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Logic](https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Logic)  
+   Link: <a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Logic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Logic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.org1911 Encyclopædia Britannica/LogicSep 15, 2023 — It is true that even in universal judgments of existence there is often a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: storm.cis.fordham.edu  
    Title: Predicate Logic  
-   Link: [https://storm.cis.fordham.edu/zhang/cs2100/slides/PredicateLogic.pdf](https://storm.cis.fordham.edu/zhang/cs2100/slides/PredicateLogic.pdf)  
+   Link: <a href="https://storm.cis.fordham.edu/zhang/cs2100/slides/PredicateLogic.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storm.cis.fordham.edu/zhang/cs2100/slides/PredicateLogic.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LOGIC OF QUANTIFIED STATEMENTSAnother way to obtain statements from predicates is to add quantifiers.! Quantifiers are words that refer...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: firstinspires.org  
-   Link: [https://www.firstinspires.org/](https://www.firstinspires.org/)  
+   Link: <a href="https://www.firstinspires.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.firstinspires.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore FIRST robotics programs for kids of all ages, in schools &amp; communities around the world...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/medievallogic/posts/1998355093700319/](https://www.facebook.com/groups/medievallogic/posts/1998355093700319/)  
+   Link: <a href="https://www.facebook.com/groups/medievallogic/posts/1998355093700319/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/medievallogic/posts/1998355093700319/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at people have addressed this is to say that &quot;All A is B&quot; has existential...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/320334672_Existential_Import_and_an_Unnecessary_Restriction_on_Predicate_Logics](https://www.researchgate.net/publication/320334672_Existential_Import_and_an_Unnecessary_Restriction_on_Predicate_Logics)  
+   Link: <a href="https://www.researchgate.net/publication/320334672_Existential_Import_and_an_Unnecessary_Restriction_on_Predicate_Logics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320334672_Existential_Import_and_an_Unnecessary_Restriction_on_Predicate_Logics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ort: the universalized conditional ∀ x [S(x)→ P(x)] implies its...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: philosophy.stackexchange.com  
    Title: quantifying over an empty set first order logic  
-   Link: [https://philosophy.stackexchange.com/questions/8682/quantifying-over-an-empty-set-first-order-logic](https://philosophy.stackexchange.com/questions/8682/quantifying-over-an-empty-set-first-order-logic)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/8682/quantifying-over-an-empty-set-first-order-logic" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/8682/quantifying-over-an-empty-set-first-order-logic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>over an empty set: first-order logicNov 15, 2013 — In mathematics it sometime occurs that we might quantify a variable over the empty set...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/43893420/Categorical_Propositions_and_Existential_Import_A_Post_modern_Perspective](https://www.academia.edu/43893420/Categorical_Propositions_and_Existential_Import_A_Post_modern_Perspective)  
+   Link: <a href="https://www.academia.edu/43893420/Categorical_Propositions_and_Existential_Import_A_Post_modern_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43893420/Categorical_Propositions_and_Existential_Import_A_Post_modern_Perspective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>positions and argues that both doctrines have serious problems...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Quantifier (linguistics)  
-   Link: [https://en.wikipedia.org/wiki/Quantifier_%28linguistics%29](https://en.wikipedia.org/wiki/Quantifier_%28linguistics%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Quantifier_%28linguistics%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quantifier_%28linguistics%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifier (linguistics)In linguistics and grammar, a quantifier is a type of determiner, such as all, some, many, few, a lot, and no...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: philosophy.stackexchange.com  
    Title: does the existential quantifier express existence  
-   Link: [https://philosophy.stackexchange.com/questions/65272/does-the-existential-quantifier-express-existence](https://philosophy.stackexchange.com/questions/65272/does-the-existential-quantifier-express-existence)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/65272/does-the-existential-quantifier-express-existence" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/65272/does-the-existential-quantifier-express-existence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you assert that. Some pegasus are flying. then you do assert that pegasuses exist...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/01445340.2017.1376182](https://www.tandfonline.com/doi/abs/10.1080/01445340.2017.1376182)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/01445340.2017.1376182" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/01445340.2017.1376182</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>universal statements do not assert existence and that particular statements do assert existence. Nominalism, of course, is the view that...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Quantifier (logic)  
-   Link: [https://en.wikipedia.org/wiki/Quantifier_%28logic%29](https://en.wikipedia.org/wiki/Quantifier_%28logic%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Quantifier_%28logic%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Quantifier_%28logic%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quantifier (logic)In logic, a quantifier is an operator that specifies how many individuals in the domain of discourse satisfy an open...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: link.springer.com  
    Title: As we all know,  
-   Link: [https://link.springer.com/chapter/10.1007/978-94-009-2727-8_9](https://link.springer.com/chapter/10.1007/978-94-009-2727-8_9)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-94-009-2727-8_9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-94-009-2727-8_9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Natural Languages: Some Logical Problems, Iby J Hintikka · Cited by 97 — Quantifiers are by common consent among the most important in...</p></details>

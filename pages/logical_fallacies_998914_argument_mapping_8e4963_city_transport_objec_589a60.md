@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_tran
 
 ## Introduction
 
-City transport debates are fertile ground for [argument mapping]({{ 'argument-map/' | relative_url }}) because objections come from many directions at once. A proposal such as a congestion charge, low-traffic neighbourhood (LTN), bus-priority corridor, or city-centre car restriction can be criticised on factual, ethical, economic, political, or practical grounds. When these objections are mixed together, it becomes difficult to tell whether they undermine the policy itself, challenge the evidence supporting it, or merely express a competing preference.
+City transport debates are fertile ground for argument mapping because objections come from many directions at once. A proposal such as a congestion charge, low-traffic neighbourhood (LTN), bus-priority corridor, or city-centre car restriction can be criticised on factual, ethical, economic, political, or practical grounds. When these objections are mixed together, it becomes difficult to tell whether they undermine the policy itself, challenge the evidence supporting it, or merely express a competing preference.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1-dark.svg" | relative_url }}" alt="Policy Objections illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -325,7 +325,7 @@ Examples include:
 
 Such objections require factual investigation rather than rhetorical debate. If the supporting evidence is weak, the reasoning may fail. If the evidence is strong, the objection loses force.
 
-Transport research generally finds that congestion charging and similar demand-management measures can reduce traffic volumes and congestion, although the size of the effect varies by design and local conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Decongesting our Cities</span><span class="citation-popover-snippet">OECDDecongesting our Cities Summary and ConclusionsMay 14, 2025 — public opposition to congestion charges generally diminishes significan...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">London Congestion Pricing – Implications for Other CitiesSimilar schemes in London and Milan showed that congestion pricing can reduce ve...</span></span></span>
+Transport research generally finds that congestion charging and similar demand-management measures can reduce traffic volumes and congestion, although the size of the effect varies by design and local conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Decongesting our Cities</span><span class="citation-popover-snippet">Decongesting our Cities Summary and ConclusionsMay 14, 2025 — public opposition to congestion charges generally diminishes significan...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">London Congestion Pricing – Implications for Other CitiesSimilar schemes in London and Milan showed that congestion pricing can reduce ve...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKplZwqFwVk" title="The U.S. National Blueprint for Transportation Decarbonization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer">The U.S. National Blueprint for Transportation Decarbonization</a></p><p class="youtube-embed-meta">Channel: U.S. Department of Energy &middot; Views: 2.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKplZwqFwVk">Open on YouTube</a></p></div></div></div>
@@ -439,7 +439,7 @@ This is one reason transport controversies are useful teaching examples. They of
 
 Not every successful objection defeats a policy. Sometimes it merely shifts the comparison toward an alternative.
 
-Suppose critics show that a congestion charge imposes disproportionate costs on certain groups. That finding may not imply that congestion should remain unaddressed. Instead, it may support modifications such as exemptions, rebates, public-transport investment, or revenue recycling. Research on road-pricing acceptability consistently finds that public support depends heavily on perceived fairness and the use of revenues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theicct.org">[ICCT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theicct.org</span><span class="citation-popover-title">Existing.Read more</span><span class="citation-popover-snippet">ICCTCongestion Charging: Challenges and OpportunitiesApril 21, 2010 — ➢ Convenient, flexible payment systems are important components to...</span><span class="citation-popover-meta">Published: April 21, 2010</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe acceptability of road pricing: Evidence from two studies...by M Dieplinger · 2014 · Cited by 58 — The results indicate...</span></span></span>
+Suppose critics show that a congestion charge imposes disproportionate costs on certain groups. That finding may not imply that congestion should remain unaddressed. Instead, it may support modifications such as exemptions, rebates, public-transport investment, or revenue recycling. Research on road-pricing acceptability consistently finds that public support depends heavily on perceived fairness and the use of revenues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theicct.org">[ICCT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theicct.org</span><span class="citation-popover-title">Existing.Read more</span><span class="citation-popover-snippet">ICCTCongestion Charging: Challenges and OpportunitiesApril 21, 2010 — ➢ Convenient, flexible payment systems are important components to...</span><span class="citation-popover-meta">Published: April 21, 2010</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The acceptability of road pricing: Evidence from two studies...by M Dieplinger · 2014 · Cited by 58 — The results indicate...</span></span></span>
 
 Argument mapping helps distinguish between:
 
@@ -457,7 +457,7 @@ These are different conclusions and require different evidence.
 A well-structured map therefore includes competing alternatives rather than treating the debate as a simple choice between action and inaction. Policy analysts commonly compare multiple options because identifying weaknesses in one proposal does not automatically establish the superiority of another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justicepolicynetwork.com">[justicepolicynetwork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justicepolicynetwork.com</span><span class="citation-popover-snippet">A Practical Guide for Policy AnalysisA practical guide for policy analysis: the eightfold path to more effective problem solving / Eugen...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJxTGuIQFh0" title="TRANSANTIAGO: El escándalo del año (Parte 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer">TRANSANTIAGO: El escándalo del año (Parte 1)</a></p><p class="youtube-embed-meta">Channel: agorerodelpesimismo &middot; Views: 21.9K &middot; Uploaded: December 2007 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJxTGuIQFh0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=NJxTGuIQFh0</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=NJxTGuIQFh0</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJxTGuIQFh0">Open on YouTube</a></p></div></div></div>
 
 ## What Argument Mapping Reveals
 
@@ -553,7 +553,7 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -563,111 +563,36 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THINKING OF YOU enamel pin - voodoo doll pins - FREE SHIPPING"><img src="{{ '/assets/images/marketplace-covers/4fc5e581271c41a95934.jpg' | relative_url }}" alt="Listing image for THINKING OF YOU enamel pin - voodoo doll pins - FREE SHIPPING" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THINKING SKILLS GRADE 3-4 **BRAND NEW**"><img src="https://i.ebayimg.com/images/g/tzwAAeSwridp0oDG/s-l225.jpg" alt="Listing image for THINKING SKILLS GRADE 3-4 **BRAND NEW**" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">THINKING OF YOU enamel pin - voodoo doll pins - FREE SHIPPING</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">THINKING SKILLS GRADE 3-4 **BRAND NEW**</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning skills chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning skills chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pin - Retro Computer Inspired Thinking Mode (enamel pin / lapel pin)"><img src="{{ '/assets/images/marketplace-covers/cb876a4925bc50951b21.jpg' | relative_url }}" alt="Listing image for Pin - Retro Computer Inspired Thinking Mode (enamel pin / lapel pin)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pin - Retro Computer Inspired Thinking Mode (enamel pin / lapel pin)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute"><img src="{{ '/assets/images/marketplace-covers/ad6c4b74500ad50c17b8.jpg' | relative_url }}" alt="Listing image for Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Thinking Of You Enamel Pin - Voodoo Doll With Pins - Creepy Cute</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins"><img src="{{ '/assets/images/marketplace-covers/71990c9e6568ae5b18fa.jpg' | relative_url }}" alt="Listing image for Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be the Reason Someone Smiles Enamel Pin Quotes Brooch Lapel Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.com</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-reasoning-enamel-pin&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Subway Map of New York City Rapid Transit Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/b4effcc973babee77669.jpg' | relative_url }}" alt="Listing image for Subway Map of New York City Rapid Transit Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Subway Map of New York City Rapid Transit Wall Art Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -675,15 +600,15 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW YORK CITY Rapid Transit Co. MAP 1924 Vintage Repro Art Print Poster 24x36"><img src="{{ '/assets/images/marketplace-covers/b8d4f7ce59ef4a8698f2.jpg' | relative_url }}" alt="Listing image for NEW YORK CITY Rapid Transit Co. MAP 1924 Vintage Repro Art Print Poster 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addition Subtraction Multiplication Chart Thinking Skills Arithmetic Table"><img src="https://i.ebayimg.com/images/g/JJsAAeSwAxtp~W-y/s-l225.jpg" alt="Listing image for Addition Subtraction Multiplication Chart Thinking Skills Arithmetic Table" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">NEW YORK CITY Rapid Transit Co. MAP 1924 Vintage Repro Art Print Poster 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">Addition Subtraction Multiplication Chart Thinking Skills Arithmetic Table</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning skills chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning skills chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -691,15 +616,31 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2025 New Version New York City MTA Transit NYC LIRR Subway Train Map Full Size"><img src="{{ '/assets/images/marketplace-covers/9b719508a82d2728d31b.jpg' | relative_url }}" alt="Listing image for 2025 New Version New York City MTA Transit NYC LIRR Subway Train Map Full Size" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THINKING SKILLS: GRADES 5-6 By Jeri Nutting &amp; Jill Norris **BRAND NEW**"><img src="https://i.ebayimg.com/images/g/T78AAeSwov5qH6Pj/s-l225.jpg" alt="Listing image for THINKING SKILLS: GRADES 5-6 By Jeri Nutting &amp; Jill Norris **BRAND NEW**" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2025 New Version New York City MTA Transit NYC LIRR Subway Train Map Full Size</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">THINKING SKILLS: GRADES 5-6 By Jeri Nutting &amp; Jill Norris **BRAND NEW**</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning skills chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning skills chart</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THINKING SKILLS GRADE 1-2 **BRAND NEW**"><img src="https://i.ebayimg.com/images/g/Eh8AAeSwQMdqEtJR/s-l225.jpg" alt="Listing image for THINKING SKILLS GRADE 1-2 **BRAND NEW**" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">THINKING SKILLS GRADE 1-2 **BRAND NEW**</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning skills chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning skills chart</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -707,7 +648,7 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=policy-objections-do-the-objections-undermine-the-policy-or-the-reasoning-logical-fallacies-city-transit-map-print-book&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -784,17 +725,31 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -807,42 +762,73 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -857,79 +843,83 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: oecd.org  
    Title: Decongesting our Cities  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDDecongesting our Cities Summary and ConclusionsMay 14, 2025 — public opposition to congestion charges generally diminishes significan...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Decongesting our Cities Summary and ConclusionsMay 14, 2025 — public opposition to congestion charges generally diminishes significan...</p></details>
    Published: May 14, 2025  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities](https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities)  
+   Link: <a href="https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>London Congestion Pricing – Implications for Other CitiesSimilar schemes in London and Milan showed that congestion pricing can reduce ve...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: justicepolicynetwork.com  
-   Link: [https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf](https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf)  
+   Link: <a href="https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide for Policy AnalysisA practical guide for policy analysis: the eightfold path to more effective problem solving / Eugen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: low traffic neighbourhoods research report  
-   Link: [https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf](https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traffic Neighbourhoods Research report March 2024March 15, 2024 — For example, the evidence suggests that impacts (positive or negative)...</p></details>
    Published: March 15, 2024  
 
 5. <a id="endnote-5"></a>
    Source: theicct.org  
    Title: Existing.Read more  
-   Link: [https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf](https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf)  
+   Link: <a href="https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theicct.org/wp-content/uploads/2021/06/congestion_apr10.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICCTCongestion Charging: Challenges and OpportunitiesApril 21, 2010 — ➢ Convenient, flexible payment systems are important components to...</p></details>
    Published: April 21, 2010  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462](https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe acceptability of road pricing: Evidence from two studies...by M Dieplinger · 2014 · Cited by 58 — The results indicate...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0967070X14001462</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The acceptability of road pricing: Evidence from two studies...by M Dieplinger · 2014 · Cited by 58 — The results indicate...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0965856424002246](https://www.sciencedirect.com/science/article/pii/S0965856424002246)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0965856424002246" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0965856424002246</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating acceptance and controversy of transport policiesby M Mehdizadeh · 2024 · Cited by 32 — The current study contributes to the li...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: Broad support vs  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0967070X23002937](https://www.sciencedirect.com/science/article/pii/S0967070X23002937)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0967070X23002937" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0967070X23002937</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>deep opposition: The [politics](&amp;#123;&amp;#123; &#x27;politics/&#x27; | relative_url &amp;#125;&amp;#125;) of bus rapid...by N Goedeking · 2024 · Cited by 16 — This paper addresses this gap by examining how politi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: one.oecd.org  
-   Link: [https://one.oecd.org/document/ENV/WKP%282023%293/en/pdf](https://one.oecd.org/document/ENV/WKP%282023%293/en/pdf)  
+   Link: <a href="https://one.oecd.org/document/ENV/WKP%282023%293/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/ENV/WKP%282023%293/en/pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of urban transport policies to...1 Mar 2023 — At the same time, congestion pricing reduces traffic externalities such as air pol...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227427425_Policy_transfer_and_learning_in_the_field_of_transport_A_review_of_concepts_and_evidence](https://www.researchgate.net/publication/227427425_Policy_transfer_and_learning_in_the_field_of_transport_A_review_of_concepts_and_evidence)  
+   Link: <a href="https://www.researchgate.net/publication/227427425_Policy_transfer_and_learning_in_the_field_of_transport_A_review_of_concepts_and_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227427425_Policy_transfer_and_learning_in_the_field_of_transport_A_review_of_concepts_and_evidence</a>  
 
 11. <a id="endnote-11"></a>
    Source: instituteforgovernment.org.uk  
    Title: Institute for Government How governments use evidence to make transport policy  
-   Link: [https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf](https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf)  
+   Link: <a href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for GovernmentHow governments use evidence to make transport policyMarch 5, 2021 — 3 Feb 2021 — The use of evidence is crucial...</p></details>
    Published: March 5, 2021  
 
@@ -937,57 +927,57 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/uk-news/2025/may/18/evidence-shows-that-ltns-improve-peoples-lives](https://www.theguardian.com/uk-news/2025/may/18/evidence-shows-that-ltns-improve-peoples-lives)  
+   Link: <a href="https://www.theguardian.com/uk-news/2025/may/18/evidence-shows-that-ltns-improve-peoples-lives" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2025/may/18/evidence-shows-that-ltns-improve-peoples-lives</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporters argue that LTNs reduce overall traffic, improve safety by decreasing collisions and injuries, and lower pollution, citing comp...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/uk-news/2024/mar/08/low-traffic-neighbourhoods-generally-popular-report-ordered-by-sunak-finds](https://www.theguardian.com/uk-news/2024/mar/08/low-traffic-neighbourhoods-generally-popular-report-ordered-by-sunak-finds)  
+   Link: <a href="https://www.theguardian.com/uk-news/2024/mar/08/low-traffic-neighbourhoods-generally-popular-report-ordered-by-sunak-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2024/mar/08/low-traffic-neighbourhoods-generally-popular-report-ordered-by-sunak-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the Department for Transport, the review was initiated to garner evidence against LTNs but instead showed that twice as many...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: freepolicybriefs.org  
    Title: Research suggests that a new cashback model may boost public support  
-   Link: [https://freepolicybriefs.org/2025/02/03/congestion-pricing/](https://freepolicybriefs.org/2025/02/03/congestion-pricing/)  
+   Link: <a href="https://freepolicybriefs.org/2025/02/03/congestion-pricing/" target="_blank" rel="noopener noreferrer nofollow">https://freepolicybriefs.org/2025/02/03/congestion-pricing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FREE NETWORKRoad Congestion Pricing with A Public Transport Cashback...3 Feb 2025 — Congestion pricing can ease traffic, but fairness co...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: paulcairney.wordpress.com  
    Title: policy analysis in 750 words eugene bardachs 2012 eightfold path  
-   Link: [https://paulcairney.wordpress.com/2019/10/08/policy-analysis-in-750-words-eugene-bardachs-2012-eightfold-path/](https://paulcairney.wordpress.com/2019/10/08/policy-analysis-in-750-words-eugene-bardachs-2012-eightfold-path/)  
+   Link: <a href="https://paulcairney.wordpress.com/2019/10/08/policy-analysis-in-750-words-eugene-bardachs-2012-eightfold-path/" target="_blank" rel="noopener noreferrer nofollow">https://paulcairney.wordpress.com/2019/10/08/policy-analysis-in-750-words-eugene-bardachs-2012-eightfold-path/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis in 750 words: Eugene Bardach&#x27;s (2012...8 Oct 2019 — Bardach (2012) describes policy analysis in eight steps: Provide a diagnosi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cepr.org  
    Title: economics exempting green vehicles congestion pricing  
-   Link: [https://cepr.org/voxeu/columns/economics-exempting-green-vehicles-congestion-pricing](https://cepr.org/voxeu/columns/economics-exempting-green-vehicles-congestion-pricing)  
+   Link: <a href="https://cepr.org/voxeu/columns/economics-exempting-green-vehicles-congestion-pricing" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/economics-exempting-green-vehicles-congestion-pricing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The economics of exempting green vehicles from...16 Aug 2024 — It is increasingly popular for cities to exempt clean cars from congestio...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: felipebarbieri.com  
    Title: optimal urban transportation policy october 2025  
-   Link: [https://felipebarbieri.com/files/optimal_urban_transportation_policy_october_2025.pdf](https://felipebarbieri.com/files/optimal_urban_transportation_policy_october_2025.pdf)  
+   Link: <a href="https://felipebarbieri.com/files/optimal_urban_transportation_policy_october_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://felipebarbieri.com/files/optimal_urban_transportation_policy_october_2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We characterize and quantify optimal urban transportation policies in the presence of congestion and environmental externalities.Read more...</p></details>
    Published: october 2025  
 
 18. <a id="endnote-18"></a>
    Source: changing-transport.org  
-   Link: [https://changing-transport.org/wp-content/uploads/Introduction_to_Congestion_Charging_English.pdf](https://changing-transport.org/wp-content/uploads/Introduction_to_Congestion_Charging_English.pdf)  
+   Link: <a href="https://changing-transport.org/wp-content/uploads/Introduction_to_Congestion_Charging_English.pdf" target="_blank" rel="noopener noreferrer nofollow">https://changing-transport.org/wp-content/uploads/Introduction_to_Congestion_Charging_English.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Congestion ChargingAny objection to the technology chosen is often related to cost, privacy and user friendliness...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tsu.ox.ac.uk  
    Title: ox.ac.uk Politics, Power & Governance  
-   Link: [https://www.tsu.ox.ac.uk/research/theme-governance](https://www.tsu.ox.ac.uk/research/theme-governance)  
+   Link: <a href="https://www.tsu.ox.ac.uk/research/theme-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.tsu.ox.ac.uk/research/theme-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukPolitics, Power &amp; Governance - Transport Studies UnitExamine and reflect on the politics around the creation of knowledge and exp...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: vtpi.org  
-   Link: [https://www.vtpi.org/UMR_critique.pdf](https://www.vtpi.org/UMR_critique.pdf)  
+   Link: <a href="https://www.vtpi.org/UMR_critique.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vtpi.org/UMR_critique.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Congestion Costing Critique: Critical Evaluation of the “...by T Litman · 2023 · Cited by 6 — This report evaluates the methodologies us...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: eprints.whiterose.ac.uk  
    Title: Marsden Questions of Governance  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/116788/3/MarsdenQuestions%20of%20Governance.pdf](https://eprints.whiterose.ac.uk/id/eprint/116788/3/MarsdenQuestions%20of%20Governance.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/116788/3/MarsdenQuestions%20of%20Governance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/116788/3/MarsdenQuestions%20of%20Governance.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineRethinking the Study of Transportation Policyby G Marsden · 2017 · Cited by 427 — Our review identifies some im...</p></details>

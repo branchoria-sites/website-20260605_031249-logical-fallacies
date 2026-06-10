@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:57:55'
 parent_title: Will One Extension Ruin the Rules? | Fallacy Lab
 parent_permalink: /deadlines/
 parent_nav_short_title: Deadlines
@@ -259,7 +260,6 @@ next_link:
   permalink: /fairness-risk/
   short_title: Fairness Risk
   heading_title: When Does One Extension Become Unfair?
-date: '2026-06-05 02:57:55 '
 header:
   og_image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-1.webp
@@ -282,18 +282,18 @@ A well-designed threshold serves several purposes simultaneously:
 * It provides a basis for consistent decisions.
 * It protects applicants who [experience]({{ 'experience/' | relative_url }}) circumstances beyond their control.
 * It reduces accusations of favouritism or arbitrary treatment.
-* It allows institutions to reject weak claims without rejecting all claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Disability and requests for additional consideration</span><span class="citation-popover-snippet">OIAHEProviders must make reasonable adjustments for a student when they know, or could reasonably be expected to have known, that the stu...</span></span></span>
+* It allows institutions to reject weak claims without rejecting all claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Disability and requests for additional consideration</span><span class="citation-popover-snippet">Providers must make reasonable adjustments for a student when they know, or could reasonably be expected to have known, that the stu...</span></span></span>
 
 This is important because the strongest rebuttal to a slippery-slope argument is often institutional evidence that decision-makers can and do draw principled lines. The question becomes not "Will everyone ask?" but "What proof must be shown, and does this request meet that standard?"
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WnKNcbYTlPo" title="Logical Fallacies - Shifting the burden of proof" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer">Logical Fallacies - Shifting the burden of proof</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 7.7K &middot; Uploaded: March 2015 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WnKNcbYTlPo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DtmAw9Ia7LA" title="Fallacies: Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer">Fallacies: Slippery Slope</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 126.6K &middot; Uploaded: January 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DtmAw9Ia7LA">Open on YouTube</a></p></div></div></div>
 
 ## What Counts as Enough Proof?
 
 The most effective systems use proportionality. Minor extensions typically require less evidence than major disruptions, while long-term accommodations rely on different forms of verification than one-off emergencies.
 
-Many universities now distinguish between short self-certified extensions and longer extensions requiring independent evidence. For example, some institutions permit a brief extension based on a student's declaration alone, while requiring supporting documentation once the disruption exceeds a specified duration. Oxford University <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unsw.edu.au/student/managing-your-studies/academic-life/special-consideration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsw.edu.au">[UNSW Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsw.edu.au</span><span class="citation-popover-snippet">Special consideration &amp; short extensions | Current StudentsShort Extension is a new, automatic process that allows you to apply for an ex...</span></span></span>
+Many universities now distinguish between short self-certified extensions and longer extensions requiring independent evidence. For example, some institutions permit a brief extension based on a student's declaration alone, while requiring supporting documentation once the disruption exceeds a specified duration. Oxford University <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unsw.edu.au/student/managing-your-studies/academic-life/special-consideration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsw.edu.au">[UNSW Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsw.edu.au</span><span class="citation-popover-snippet">Special consideration &amp; short extensions &#124; Current StudentsShort Extension is a new, automatic process that allows you to apply for an ex...</span></span></span>
 
 The underlying logic is straightforward: the cost of occasional misuse may be lower than the cost of forcing people with short-term illnesses or emergencies to obtain formal documentation immediately. At the same time, larger departures from the normal deadline require stronger verification because the administrative and fairness implications are greater. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oiahe.org.uk/media/23ahuyme/gpf-requests-for-additional-consideration.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Requests for additional consideration</span><span class="citation-popover-snippet">September 15, 2025 — Some requests may not require supporting evidence, for instance if a student is asking for a short coursework extens...</span><span class="citation-popover-meta">Published: September 15, 2025</span></span></span>
 
@@ -311,7 +311,7 @@ A useful evidence framework often asks three questions:
 The third question is not necessarily the same as demanding exhaustive proof. Credibility and certainty are different standards.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DtmAw9Ia7LA" title="Fallacies: Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer">Fallacies: Slippery Slope</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 126.6K &middot; Uploaded: January 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DtmAw9Ia7LA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6nhA_i4r_-Q" title="The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer">The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 2.1K &middot; Uploaded: May 2025 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6nhA_i4r_-Q">Open on YouTube</a></p></div></div></div>
 
 ## Illness and Medical Disruption
 
@@ -319,7 +319,7 @@ Medical circumstances illustrate why evidence thresholds must be calibrated care
 
 Many extension policies therefore allow short-term self-certification for limited periods while requiring medical documentation for more substantial requests. Examples include doctor's letters, hospital records, treatment confirmations, or other healthcare documentation showing that the condition existed and overlapped with the assessment period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.arden.ac.uk/s3fs-public/2024-09/QA%2041%20-%20Extenuating%20Circumstances%20policy%20v%2012%20July%202024.pdf?VersionId=D0wQ_NXjw4EARnvHSJeT.IPIN3AeqPyb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.arden.ac.uk">[cdn.arden.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.arden.ac.uk</span><span class="citation-popover-title">Q A 41</span><span class="citation-popover-snippet">QA 41 - Extenuating Circumstances policy...The claim is supported by documentary evidence (e.g.: a certificate/letter from a medical pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ox.ac.uk">[Oxford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ox.ac.uk</span><span class="citation-popover-title">problems completing your assessment</span><span class="citation-popover-snippet">This will normally be because of a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretariat.leeds.ac.uk">[3secretariat.leeds.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretariat.leeds.ac.uk</span><span class="citation-popover-snippet">All other applications...Read more...</span></span></span>
 
-The key implementation lesson is that evidence should establish impact rather than demand complete disclosure of personal medical details. Policies that require extensive clinical information can create unnecessary barriers and privacy concerns. Guidance from disability and accommodation organisations increasingly favours a commonsense approach focused on functional impact rather than exhaustive diagnostic proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ahead.org/professional-resources/accommodations/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahead.org">[ahead.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahead.org</span><span class="citation-popover-title">Guidance on Documentation Practices</span><span class="citation-popover-snippet">AHEADDisability and accommodation requests should be evaluated using a commonsense standard, without the need for specific language or ex...</span></span></span>
+The key implementation lesson is that evidence should establish impact rather than demand complete disclosure of personal medical details. Policies that require extensive clinical information can create unnecessary barriers and privacy concerns. Guidance from disability and accommodation organisations increasingly favours a commonsense approach focused on functional impact rather than exhaustive diagnostic proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ahead.org/professional-resources/accommodations/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ahead.org">[ahead.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ahead.org</span><span class="citation-popover-title">Guidance on Documentation Practices</span><span class="citation-popover-snippet">Disability and accommodation requests should be evaluated using a commonsense standard, without the need for specific language or ex...</span></span></span>
 
 This approach helps preserve the distinction between verification and investigation. Decision-makers need enough information to assess the request, not enough to reconstruct an applicant's entire medical history.
 
@@ -368,7 +368,7 @@ The advantage of this approach is predictability. Applicants know what evidence 
 The broader lesson is that evidence standards work best when they are concrete. Vague instructions such as "provide proof" create uncertainty, while specific examples improve both compliance and consistency.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6nhA_i4r_-Q" title="The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer">The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 2.1K &middot; Uploaded: May 2025 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6nhA_i4r_-Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WnKNcbYTlPo" title="Logical Fallacies - Shifting the burden of proof" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer">Logical Fallacies - Shifting the burden of proof</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 7.7K &middot; Uploaded: March 2015 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WnKNcbYTlPo">Open on YouTube</a></p></div></div></div>
 
 ## Avoiding Rubber Stamps and Impossible Proof
 
@@ -384,7 +384,7 @@ However, the existence of this risk does not show that all [exceptions]({{ 'exce
 
 The opposite error is demanding evidence that applicants cannot realistically obtain. Someone experiencing a sudden illness, family crisis, or technical disruption may not be able to collect extensive documentation before the deadline passes.
 
-Oversized evidence burdens can also disadvantage people with fewer financial resources, limited healthcare access, or disabilities that make documentation difficult to secure. For that reason, higher-education guidance increasingly emphasises proportional evidence requirements rather than maximal proof requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Disability and requests for additional consideration</span><span class="citation-popover-snippet">OIAHEProviders must make reasonable adjustments for a student when they know, or could reasonably be expected to have known, that the stu...</span></span></span>
+Oversized evidence burdens can also disadvantage people with fewer financial resources, limited healthcare access, or disabilities that make documentation difficult to secure. For that reason, higher-education guidance increasingly emphasises proportional evidence requirements rather than maximal proof requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Disability and requests for additional consideration</span><span class="citation-popover-snippet">Providers must make reasonable adjustments for a student when they know, or could reasonably be expected to have known, that the stu...</span></span></span>
 
 The most robust systems therefore adopt a middle position: enough evidence to make claims credible, but not so much that legitimate requests become practically impossible.
 
@@ -818,66 +818,66 @@ When evidence requirements are clear, proportionate, and consistently applied, d
 1. <a id="endnote-1"></a>
    Source: oiahe.org.uk  
    Title: Requests for additional consideration  
-   Link: [https://www.oiahe.org.uk/media/23ahuyme/gpf-requests-for-additional-consideration.pdf](https://www.oiahe.org.uk/media/23ahuyme/gpf-requests-for-additional-consideration.pdf)  
+   Link: <a href="https://www.oiahe.org.uk/media/23ahuyme/gpf-requests-for-additional-consideration.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oiahe.org.uk/media/23ahuyme/gpf-requests-for-additional-consideration.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 15, 2025 — Some requests may not require supporting evidence, for instance if a student is asking for a short coursework extens...</p></details>
    Published: September 15, 2025  
 
 2. <a id="endnote-2"></a>
    Source: ahead.org  
    Title: Guidance on Documentation Practices  
-   Link: [https://www.ahead.org/professional-resources/accommodations/documentation](https://www.ahead.org/professional-resources/accommodations/documentation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AHEADDisability and accommodation requests should be evaluated using a commonsense standard, without the need for specific language or ex...</p></details>
+   Link: <a href="https://www.ahead.org/professional-resources/accommodations/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.ahead.org/professional-resources/accommodations/documentation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Disability and accommodation requests should be evaluated using a commonsense standard, without the need for specific language or ex...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdn.arden.ac.uk  
    Title: Q A 41  
-   Link: [https://cdn.arden.ac.uk/s3fs-public/2024-09/QA%2041%20-%20Extenuating%20Circumstances%20policy%20v%2012%20July%202024.pdf?VersionId=D0wQ_NXjw4EARnvHSJeT.IPIN3AeqPyb](https://cdn.arden.ac.uk/s3fs-public/2024-09/QA%2041%20-%20Extenuating%20Circumstances%20policy%20v%2012%20July%202024.pdf?VersionId=D0wQ_NXjw4EARnvHSJeT.IPIN3AeqPyb)  
+   Link: <a href="https://cdn.arden.ac.uk/s3fs-public/2024-09/QA%2041%20-%20Extenuating%20Circumstances%20policy%20v%2012%20July%202024.pdf?VersionId=D0wQ_NXjw4EARnvHSJeT.IPIN3AeqPyb" target="_blank" rel="noopener noreferrer nofollow">https://cdn.arden.ac.uk/s3fs-public/2024-09/QA%2041%20-%20Extenuating%20Circumstances%20policy%20v%2012%20July%202024.pdf?VersionId=D0wQ_NXjw4EARnvHSJeT.IPIN3AeqPyb</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>QA 41 - Extenuating Circumstances policy...The claim is supported by documentary evidence (e.g.: a certificate/letter from a medical pro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: secretariat.leeds.ac.uk  
-   Link: [https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf](https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf)  
+   Link: <a href="https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://secretariat.leeds.ac.uk/wp-content/uploads/sites/109/2023/09/mitigating_circumstances_guidance.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All other applications...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oiahe.org.uk  
    Title: Disability and requests for additional consideration  
-   Link: [https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/](https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OIAHEProviders must make reasonable adjustments for a student when they know, or could reasonably be expected to have known, that the stu...</p></details>
+   Link: <a href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow">https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Providers must make reasonable adjustments for a student when they know, or could reasonably be expected to have known, that the stu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: epo.org  
-   Link: [https://www.epo.org/en/legal/guidelines-epc/2026/e_viii_1_6_2_1.html](https://www.epo.org/en/legal/guidelines-epc/2026/e_viii_1_6_2_1.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EPO1.6.2.1 Extension of periods under Rule 134(1)An extension under Rule 134(1) also applies if any one of the means of electronic filing...</p></details>
+   Link: <a href="https://www.epo.org/en/legal/guidelines-epc/2026/e_viii_1_6_2_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.epo.org/en/legal/guidelines-epc/2026/e_viii_1_6_2_1.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1.6.2.1 Extension of periods under Rule 134(1)An extension under Rule 134(1) also applies if any one of the means of electronic filing...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ox.ac.uk  
    Title: problems completing your assessment  
-   Link: [https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment](https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment)  
+   Link: <a href="https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.ox.ac.uk/students/academic/exams/problems-completing-your-assessment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This will normally be because of a...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: unsw.edu.au  
-   Link: [https://www.unsw.edu.au/student/managing-your-studies/academic-life/special-consideration](https://www.unsw.edu.au/student/managing-your-studies/academic-life/special-consideration)  
+   Link: <a href="https://www.unsw.edu.au/student/managing-your-studies/academic-life/special-consideration" target="_blank" rel="noopener noreferrer nofollow">https://www.unsw.edu.au/student/managing-your-studies/academic-life/special-consideration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Special consideration &amp; short extensions | Current StudentsShort Extension is a new, automatic process that allows you to apply for an ex...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: uswvarious1.blob.core.windows.net  
-   Link: [https://uswvarious1.blob.core.windows.net/uswvarious-prod-uploads/documents/Extenuating_Circumstances_Regulations_and_Procedure_2023-24.pdf](https://uswvarious1.blob.core.windows.net/uswvarious-prod-uploads/documents/Extenuating_Circumstances_Regulations_and_Procedure_2023-24.pdf)  
+   Link: <a href="https://uswvarious1.blob.core.windows.net/uswvarious-prod-uploads/documents/Extenuating_Circumstances_Regulations_and_Procedure_2023-24.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uswvarious1.blob.core.windows.net/uswvarious-prod-uploads/documents/Extenuating_Circumstances_Regulations_and_Procedure_2023-24.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VariousEXTENUATING CIRCUMSTANCES REGULATIONS AND...July 25, 2023 — 5.4 You will then be able to request an extension of up to a maximum...</p></details>
    Published: July 25, 2023  
 
 10. <a id="endnote-10"></a>
    Source: cardiff.ac.uk  
    Title: Cardiff University Extenuating-Circumstances-Procedure-for-Taught-and  
-   Link: [https://www.cardiff.ac.uk/__data/assets/pdf_file/0011/1560476/Extenuating-Circumstances-Procedure-for-Taught-and-Undergraduate-Students.pdf](https://www.cardiff.ac.uk/__data/assets/pdf_file/0011/1560476/Extenuating-Circumstances-Procedure-for-Taught-and-Undergraduate-Students.pdf)  
+   Link: <a href="https://www.cardiff.ac.uk/__data/assets/pdf_file/0011/1560476/Extenuating-Circumstances-Procedure-for-Taught-and-Undergraduate-Students.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cardiff.ac.uk/__data/assets/pdf_file/0011/1560476/Extenuating-Circumstances-Procedure-for-Taught-and-Undergraduate-Students.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cardiff UniversityExtenuating-Circumstances-Procedure-for-Taught-and-...September 10, 2025 — • evidence of a disability which has worsen...</p></details>
    Published: September 10, 2025  
 
 11. <a id="endnote-11"></a>
    Source: studentsunionucl.org  
    Title: extenuating circumstances  
-   Link: [https://studentsunionucl.org/extenuating-circumstances](https://studentsunionucl.org/extenuating-circumstances)  
+   Link: <a href="https://studentsunionucl.org/extenuating-circumstances" target="_blank" rel="noopener noreferrer nofollow">https://studentsunionucl.org/extenuating-circumstances</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a guide to UCL&#x27;s Short-term Illness and other Extenuating Circumstances Procedure for the 2025/26 academic year...</p></details>
 
 ### Additional References
@@ -885,52 +885,52 @@ When evidence requirements are clear, proportionate, and consistently applied, d
 12. <a id="endnote-12"></a>
    Source: eeoc.gov  
    Title: enforcement guidance reasonable accommodation and undue hardship under ada  
-   Link: [https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada](https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada)  
+   Link: <a href="https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada" target="_blank" rel="noopener noreferrer nofollow">https://www.eeoc.gov/laws/guidance/enforcement-guidance-reasonable-accommodation-and-undue-hardship-under-ada</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enforcement Guidance on Reasonable Accommodation...17 Oct 2002 — This document addresses the rights and responsibilities of employers an...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: truescreen.io  
-   Link: [https://truescreen.io/articles/admissibility-digital-evidence-guide/](https://truescreen.io/articles/admissibility-digital-evidence-guide/)  
+   Link: <a href="https://truescreen.io/articles/admissibility-digital-evidence-guide/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/admissibility-digital-evidence-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Admissibility of Digital Evidence: Standards Courts UseAdmissibility of digital evidence is the set of legal and technical conditions a d...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: winchester.ac.uk  
-   Link: [https://www.winchester.ac.uk/media/Exceptional-Circumstances-Policy-2025-6.pdf](https://www.winchester.ac.uk/media/Exceptional-Circumstances-Policy-2025-6.pdf)  
+   Link: <a href="https://www.winchester.ac.uk/media/Exceptional-Circumstances-Policy-2025-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.winchester.ac.uk/media/Exceptional-Circumstances-Policy-2025-6.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EXCEPTIONAL CIRCUMSTANCES POLICYYou are expected to meet your assessment submission deadlines and attend scheduled assessment events as d...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: southwales.ac.uk  
-   Link: [https://www.southwales.ac.uk/current-students/advice-zone/a-z/extenuating-circumstances/](https://www.southwales.ac.uk/current-students/advice-zone/a-z/extenuating-circumstances/)  
+   Link: <a href="https://www.southwales.ac.uk/current-students/advice-zone/a-z/extenuating-circumstances/" target="_blank" rel="noopener noreferrer nofollow">https://www.southwales.ac.uk/current-students/advice-zone/a-z/extenuating-circumstances/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of South WalesExtenuating CircumstancesEvidence is not usually required for this type of claim. What you can request. An exten...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: yorksj.ac.uk  
-   Link: [https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf](https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf)  
+   Link: <a href="https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yorksj.ac.uk/media/content-assets/registry/policies/code-of-practice-for-assessment/13.Exceptional-circumstances-policy-202526.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exceptional Circumstances PolicyScreenshots from the NHS app may be used as evidence, but must show the student&#x27;s name, dates, and refer...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: jcq.org.uk  
-   Link: [https://www.jcq.org.uk/knowledge-hub/adjustments-for-candidates-with-disabilities-and-learning-difficulties/](https://www.jcq.org.uk/knowledge-hub/adjustments-for-candidates-with-disabilities-and-learning-difficulties/)  
+   Link: <a href="https://www.jcq.org.uk/knowledge-hub/adjustments-for-candidates-with-disabilities-and-learning-difficulties/" target="_blank" rel="noopener noreferrer nofollow">https://www.jcq.org.uk/knowledge-hub/adjustments-for-candidates-with-disabilities-and-learning-difficulties/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adjustments for candidates with disabilities and learning difficulties Valid from 1 September 2025 to 31 August...Read more...</p></details>
    Published: September 2025  
 
 18. <a id="endnote-18"></a>
    Source: derby.ac.uk  
-   Link: [https://www.derby.ac.uk/about/academic-regulations/student-guidance-rac/](https://www.derby.ac.uk/about/academic-regulations/student-guidance-rac/)  
+   Link: <a href="https://www.derby.ac.uk/about/academic-regulations/student-guidance-rac/" target="_blank" rel="noopener noreferrer nofollow">https://www.derby.ac.uk/about/academic-regulations/student-guidance-rac/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>✕. RAC Evidence Guidance. All RAC request types other than a 7-day extension require supporting evidence.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tameside.ac.uk  
    Title: HE Extensions and Extenuating Circumstances Policy2025  
-   Link: [https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf](https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf)  
+   Link: <a href="https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tameside.ac.uk/pdfs/HE%20Extensions%20and%20Extenuating%20Circumstances%20Policy2025.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence may include official documentation to support the reason you are giving to request an extension to your deadline. This could...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: qub.ac.uk  
-   Link: [https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/GeneralRegulations/StudentSupport/ExceptionalCircumstancesProcedure/](https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/GeneralRegulations/StudentSupport/ExceptionalCircumstancesProcedure/)  
+   Link: <a href="https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/GeneralRegulations/StudentSupport/ExceptionalCircumstancesProcedure/" target="_blank" rel="noopener noreferrer nofollow">https://www.qub.ac.uk/directorates/AcademicStudentAffairs/AcademicAffairs/GeneralRegulations/StudentSupport/ExceptionalCircumstancesProcedure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consideration of significant disruption during an assessment. 1.3...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: kent.ac.uk  
-   Link: [https://www.kent.ac.uk/education/documents/student-conduct-experience/mitigation-of-extenuating-circumstances.docx](https://www.kent.ac.uk/education/documents/student-conduct-experience/mitigation-of-extenuating-circumstances.docx)  
+   Link: <a href="https://www.kent.ac.uk/education/documents/student-conduct-experience/mitigation-of-extenuating-circumstances.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.kent.ac.uk/education/documents/student-conduct-experience/mitigation-of-extenuating-circumstances.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s, then the extensions permitted in the Late Submission Policy...Read more...</p></details>

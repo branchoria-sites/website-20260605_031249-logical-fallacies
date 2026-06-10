@@ -501,7 +501,7 @@ image: /assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-overv
 
 ## Introduction
 
-Popular remedies do not prove themselves merely by being widely used, warmly recommended, or not yet disproved. In consumer health claims, the same reasoning mistakes appear again and again: a neighbour’s recovery is treated as a clinical test, sales figures are treated as proof, and the absence of a public refutation is treated as permission to believe. These are familiar logical fallacies in a health setting: anecdotal reasoning, [appeal to popularity]({{ 'popularity/' | relative_url }}), [appeal to tradition]({{ 'tradition/' | relative_url }}), false cause, and shifting the burden of proof.
+Popular remedies do not prove themselves merely by being widely used, warmly recommended, or not yet disproved. In consumer health claims, the same reasoning mistakes appear again and again: a neighbour’s recovery is treated as a clinical test, sales figures are treated as proof, and the absence of a public refutation is treated as permission to believe. These are familiar [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) in a health setting: anecdotal reasoning, appeal to popularity, appeal to [tradition]({{ 'tradition/' | relative_url }}), false cause, and shifting the burden of proof.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-overview.webp" | relative_url }}" alt="Overview image for Remedies" loading="eager" decoding="sync" fetchpriority="high">
@@ -511,7 +511,7 @@ This matters because health decisions carry stakes that ordinary consumer choice
 
 Anecdotes are powerful because they are human-sized. “I took this and felt better” is easier to grasp than a trial protocol, a confidence interval, or a systematic review. The logical problem is not that the person is lying. The problem is that a single [experience]({{ 'experience/' | relative_url }}) cannot usually separate the remedy from all the other reasons someone might improve.
 
-Many symptoms naturally rise and fall. Back pain, fatigue, headaches, irritable bowel symptoms, anxiety, colds, rashes, and digestive complaints often fluctuate over time. People tend to try a remedy when symptoms are especially bad; if symptoms later move back towards their usual level, the improvement may be credited to whatever was taken. This is one reason researchers distinguish the placebo effect from spontaneous improvement, regression to the mean, changing behaviour, ordinary recovery, and reporting bias. Cochrane’s review of placebo interventions found no major health benefits overall, although placebos can have modest effects on patient-reported outcomes such as pain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">CD003974 placebo interventions all clinical conditions</span><span class="citation-popover-snippet">CochranePlacebo interventions for all clinical conditions1 May 2022 — We studied the effect of placebo treatments by reviewing 202 trials...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+Many symptoms naturally rise and fall. Back pain, fatigue, headaches, irritable bowel symptoms, anxiety, colds, rashes, and digestive complaints often fluctuate over time. People tend to try a remedy when symptoms are especially bad; if symptoms later move back towards their usual level, the improvement may be credited to whatever was taken. This is one reason researchers distinguish the placebo effect from spontaneous improvement, [regression]({{ 'regression/' | relative_url }}) to the mean, changing behaviour, ordinary recovery, and reporting bias. Cochrane’s review of placebo interventions found no major health benefits overall, although placebos can have modest effects on patient-reported outcomes such as pain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">CD003974 placebo interventions all clinical conditions</span><span class="citation-popover-snippet">Placebo interventions for all clinical conditions1 May 2022 — We studied the effect of placebo treatments by reviewing 202 trials...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 Anecdotes also suffer from selective visibility. People who improve are more likely to post reviews, tell friends, or appear in advertising. People who do not improve may simply stop talking about it, blame themselves, or move on to the next remedy. This creates a distorted public record in which success stories are easy to find and failures are scattered, silent, or undocumented.
 
@@ -1060,205 +1060,205 @@ The sounder argument is narrower and more careful: define the claim, match it to
 
 1. <a id="endnote-1"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database](https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ftc.gov  
    Title: operation cureall targets internet health fraud  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud](https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission&quot;Operation Cure.all&quot; Targets Internet Health Fraud24 Jun 1999 — &quot;Operation Cure.all&quot; Targets Internet Health Frau...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cochrane.org  
    Title: CD003974 placebo interventions all clinical conditions  
-   Link: [https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions](https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CochranePlacebo interventions for all clinical conditions1 May 2022 — We studied the effect of placebo treatments by reviewing 202 trials...</p></details>
+   Link: <a href="https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/CD003974_placebo-interventions-all-clinical-conditions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Placebo interventions for all clinical conditions1 May 2022 — We studied the effect of placebo treatments by reviewing 202 trials...</p></details>
    Published: May 2022  
 
 5. <a id="endnote-5"></a>
    Source: ftc.gov  
    Title: hits internet health fraud continuation operation cureall  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall](https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall</a>  
 
 6. <a id="endnote-6"></a>
    Source: fda.gov  
    Title: 2024 warning letters health fraud  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/2024-warning-letters-health-fraud](https://www.fda.gov/consumers/health-fraud-scams/2024-warning-letters-health-fraud)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/2024-warning-letters-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/2024-warning-letters-health-fraud</a>  
 
 7. <a id="endnote-7"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/st-johns-wort](https://www.nccih.nih.gov/health/st-johns-wort)  
+   Link: <a href="https://www.nccih.nih.gov/health/st-johns-wort" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/st-johns-wort</a>  
 
 8. <a id="endnote-8"></a>
    Source: fda.gov  
    Title: mixing medications and dietary supplements can endanger your health  
-   Link: [https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health](https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health)  
+   Link: <a href="https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health</a>  
 
 9. <a id="endnote-9"></a>
    Source: cochrane.org  
    Title: Chapter 1  
-   Link: [https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0)  
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0</a>  
 
 10. <a id="endnote-10"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament House of Commons  
-   Link: [https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm](https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm)  
+   Link: <a href="https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200910/cmselect/cmsctech/45/4504.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: england.nhs.uk  
    Title: sps homeopathy  
-   Link: [https://www.england.nhs.uk/wp-content/uploads/2017/11/sps-homeopathy.pdf](https://www.england.nhs.uk/wp-content/uploads/2017/11/sps-homeopathy.pdf)  
+   Link: <a href="https://www.england.nhs.uk/wp-content/uploads/2017/11/sps-homeopathy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/wp-content/uploads/2017/11/sps-homeopathy.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: consumer.ftc.gov  
    Title: Consumer Advice Anatomy of a Cancer Treatment Scam  
-   Link: [https://consumer.ftc.gov/media/79879](https://consumer.ftc.gov/media/79879)  
+   Link: <a href="https://consumer.ftc.gov/media/79879" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/media/79879</a>  
 
 13. <a id="endnote-13"></a>
    Source: nccih.nih.gov  
    Title: NCCIHColloidal Silver: What You Need To Know  
-   Link: [https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know](https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know)  
+   Link: <a href="https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know</a>  
 
 14. <a id="endnote-14"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/](https://www.fda.gov/)  
+   Link: <a href="https://www.fda.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/</a>  
 
 15. <a id="endnote-15"></a>
    Source: fda.gov  
    Title: 6 tip offs rip offs dont fall health fraud scams  
-   Link: [https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams](https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams)  
+   Link: <a href="https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams</a>  
 
 16. <a id="endnote-16"></a>
    Source: fda.gov  
    Title: Health Fraud Scams  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video](https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video</a>  
 
 17. <a id="endnote-17"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation](https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation)  
+   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
 
 18. <a id="endnote-18"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/health-claims](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
 
 19. <a id="endnote-19"></a>
    Source: ftc.gov  
    Title: operation cureall wages new battle ongoing war against internet health fraud  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2001/06/operation-cureall-wages-new-battle-ongoing-war-against-internet-health-fraud](https://www.ftc.gov/news-events/news/press-releases/2001/06/operation-cureall-wages-new-battle-ongoing-war-against-internet-health-fraud)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2001/06/operation-cureall-wages-new-battle-ongoing-war-against-internet-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2001/06/operation-cureall-wages-new-battle-ongoing-war-against-internet-health-fraud</a>  
 
 20. <a id="endnote-20"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/topics/truth-advertising/health-claims](https://www.ftc.gov/news-events/topics/truth-advertising/health-claims)  
+   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/health-claims</a>  
 
 21. <a id="endnote-21"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/blog/term/1409](https://www.ftc.gov/business-guidance/blog/term/1409)  
+   Link: <a href="https://www.ftc.gov/business-guidance/blog/term/1409" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/blog/term/1409</a>  
 
 22. <a id="endnote-22"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/features/coronavirus/enforcement/warning-letters](https://www.ftc.gov/news-events/features/coronavirus/enforcement/warning-letters)  
+   Link: <a href="https://www.ftc.gov/news-events/features/coronavirus/enforcement/warning-letters" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/features/coronavirus/enforcement/warning-letters</a>  
 
 23. <a id="endnote-23"></a>
    Source: cochrane.org  
    Title: Chapter I  
-   Link: [https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v6.3](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v6.3)  
+   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v6.3" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v6.3</a>  
 
 24. <a id="endnote-24"></a>
    Source: cochrane.org  
    Title: CD015017 ivermectin preventing and treating covid 19  
-   Link: [https://www.cochrane.org/evidence/CD015017_ivermectin-preventing-and-treating-covid-19](https://www.cochrane.org/evidence/CD015017_ivermectin-preventing-and-treating-covid-19)  
+   Link: <a href="https://www.cochrane.org/evidence/CD015017_ivermectin-preventing-and-treating-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/evidence/CD015017_ivermectin-preventing-and-treating-covid-19</a>  
 
 25. <a id="endnote-25"></a>
    Source: cochrane.org  
    Title: ivermectin preventing and treating covid 19  
-   Link: [https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19](https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19)  
+   Link: <a href="https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19</a>  
 
 26. <a id="endnote-26"></a>
    Source: cochrane.org  
    Title: ivermectin preventing and treating covid 19 0  
-   Link: [https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19-0](https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19-0)  
+   Link: <a href="https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/about-us/news/ivermectin-preventing-and-treating-covid-19-0</a>  
 
 27. <a id="endnote-27"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/](https://www.nccih.nih.gov/)  
+   Link: <a href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/</a>  
 
 28. <a id="endnote-28"></a>
    Source: nccih.nih.gov  
    Title: complementary alternative or integrative health whats in a name  
-   Link: [https://www.nccih.nih.gov/health/complementary-alternative-or-integrative-health-whats-in-a-name](https://www.nccih.nih.gov/health/complementary-alternative-or-integrative-health-whats-in-a-name)  
+   Link: <a href="https://www.nccih.nih.gov/health/complementary-alternative-or-integrative-health-whats-in-a-name" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/complementary-alternative-or-integrative-health-whats-in-a-name</a>  
 
 29. <a id="endnote-29"></a>
    Source: nccih.nih.gov  
    Title: know the science of complementary health approaches  
-   Link: [https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches](https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches)  
+   Link: <a href="https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches</a>  
 
 30. <a id="endnote-30"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/training/videolectures/14/1](https://www.nccih.nih.gov/training/videolectures/14/1)  
+   Link: <a href="https://www.nccih.nih.gov/training/videolectures/14/1" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/training/videolectures/14/1</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Food and Drug Administration  
-   Link: [https://en.wikipedia.org/wiki/Food_and_Drug_Administration](https://en.wikipedia.org/wiki/Food_and_Drug_Administration)  
+   Link: <a href="https://en.wikipedia.org/wiki/Food_and_Drug_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Food_and_Drug_Administration</a>  
 
 32. <a id="endnote-32"></a>
    Source: mskcc.org  
    Title: colloidal silver  
-   Link: [https://www.mskcc.org/cancer-care/integrative-medicine/herbs/colloidal-silver](https://www.mskcc.org/cancer-care/integrative-medicine/herbs/colloidal-silver)  
+   Link: <a href="https://www.mskcc.org/cancer-care/integrative-medicine/herbs/colloidal-silver" target="_blank" rel="noopener noreferrer nofollow">https://www.mskcc.org/cancer-care/integrative-medicine/herbs/colloidal-silver</a>  
 
 33. <a id="endnote-33"></a>
    Source: courses.lumenlearning.com  
    Title: health fraud  
-   Link: [https://courses.lumenlearning.com/suny-monroecc-hed110/chapter/health-fraud/](https://courses.lumenlearning.com/suny-monroecc-hed110/chapter/health-fraud/)  
+   Link: <a href="https://courses.lumenlearning.com/suny-monroecc-hed110/chapter/health-fraud/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-monroecc-hed110/chapter/health-fraud/</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=n64Xgr6VDYQ](https://www.youtube.com/watch?v=n64Xgr6VDYQ)  
+   Link: <a href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n64Xgr6VDYQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Oz Exposes Supplement Scams: What You Need to Know! | Dr. Oz | S6 | Ep 161 | Full Episode...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: The Logic of the Herbalist Tricking Sick People  
-   Link: [https://www.youtube.com/watch?v=tPAUPY2vhH0](https://www.youtube.com/watch?v=tPAUPY2vhH0)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Anecdotal Evidence](&amp;#123;&amp;#123; &#x27;anecdotes/&#x27; | relative_url &amp;#125;&amp;#125;): How to use critical thinking skills to overcome this common logical fallacy...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=tPAUPY2vhH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tPAUPY2vhH0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: usa.gov  
-   Link: [https://www.usa.gov/agencies/food-and-drug-administration](https://www.usa.gov/agencies/food-and-drug-administration)  
+   Link: <a href="https://www.usa.gov/agencies/food-and-drug-administration" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/agencies/food-and-drug-administration</a>  
 
 37. <a id="endnote-37"></a>
    Source: nj.gov  
-   Link: [https://www.nj.gov/health/ceohs/documents/food-drug-safety/health_fraud_scams.pdf](https://www.nj.gov/health/ceohs/documents/food-drug-safety/health_fraud_scams.pdf)  
+   Link: <a href="https://www.nj.gov/health/ceohs/documents/food-drug-safety/health_fraud_scams.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nj.gov/health/ceohs/documents/food-drug-safety/health_fraud_scams.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: flickr.com  
-   Link: [https://www.flickr.com/photos/fdaphotos/8528312890](https://www.flickr.com/photos/fdaphotos/8528312890)  
+   Link: <a href="https://www.flickr.com/photos/fdaphotos/8528312890" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/fdaphotos/8528312890</a>  
 
 39. <a id="endnote-39"></a>
    Source: goodrx.com  
-   Link: [https://www.goodrx.com/well-being/supplements-herbs/st-johns-wort-interactions?srsltid=AfmBOopQ_pqEDplvLRNQU8TvUk9DVnMAk_b94xLLdp-ZXxjRCuo1_h9a](https://www.goodrx.com/well-being/supplements-herbs/st-johns-wort-interactions?srsltid=AfmBOopQ_pqEDplvLRNQU8TvUk9DVnMAk_b94xLLdp-ZXxjRCuo1_h9a)  
+   Link: <a href="https://www.goodrx.com/well-being/supplements-herbs/st-johns-wort-interactions?srsltid=AfmBOopQ_pqEDplvLRNQU8TvUk9DVnMAk_b94xLLdp-ZXxjRCuo1_h9a" target="_blank" rel="noopener noreferrer nofollow">https://www.goodrx.com/well-being/supplements-herbs/st-johns-wort-interactions?srsltid=AfmBOopQ_pqEDplvLRNQU8TvUk9DVnMAk_b94xLLdp-ZXxjRCuo1_h9a</a>  
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/333606939_Mesmer_the_placebo_effect_and_the_efficacy_paradox_lessons_for_evidence_based_medicine_and_complementary_and_alternative_medicine](https://www.researchgate.net/publication/333606939_Mesmer_the_placebo_effect_and_the_efficacy_paradox_lessons_for_evidence_based_medicine_and_complementary_and_alternative_medicine)  
+   Link: <a href="https://www.researchgate.net/publication/333606939_Mesmer_the_placebo_effect_and_the_efficacy_paradox_lessons_for_evidence_based_medicine_and_complementary_and_alternative_medicine" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333606939_Mesmer_the_placebo_effect_and_the_efficacy_paradox_lessons_for_evidence_based_medicine_and_complementary_and_alternative_medicine</a>  
 
 41. <a id="endnote-41"></a>
    Source: cohenhealthcarelaw.com  
-   Link: [https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/](https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/)  
+   Link: <a href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/</a>  
 
 42. <a id="endnote-42"></a>
    Source: webmd.com  
-   Link: [https://www.webmd.com/skin-problems-and-treatments/argyria-overview](https://www.webmd.com/skin-problems-and-treatments/argyria-overview)  
+   Link: <a href="https://www.webmd.com/skin-problems-and-treatments/argyria-overview" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/skin-problems-and-treatments/argyria-overview</a>  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/](https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/)  
+   Link: <a href="https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/</a>  

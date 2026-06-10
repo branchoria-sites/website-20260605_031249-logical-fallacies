@@ -324,9 +324,9 @@ Policy reforms typically predict future outcomes rather than describe current fa
 
 Healthcare straw men rarely succeed through abstraction alone. They usually become persuasive when attached to vivid stories.
 
-A striking example emerged during debate over the United States Affordable Care Act. A provision encouraging voluntary end-of-life consultations between patients and healthcare professionals was transformed by critics into the claim that government-created "death panels" would determine who deserved medical treatment. Fact-checkers and policy analysts repeatedly found that the legislation contained no such mechanism, yet the phrase became one of the most memorable elements of the entire healthcare debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kff.org">[KFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kff.org</span><span class="citation-popover-title">what death panels can teach us about health misinformation</span><span class="citation-popover-snippet">KFFWhat “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</span></span></span> Wikipedia The power of the claim came partly from its emotional imagery. Rather than discussing reimbursement rules for medical consultations <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Straw man</span><span class="citation-popover-snippet">May 5, 2026 — A straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>, the debate became associated with bureaucrats deciding life-and-death questions. Polling later showed that substantial portions of the public continued to believe the claim years after it had been widely challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kff.org">[KFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kff.org</span><span class="citation-popover-title">what death panels can teach us about health misinformation</span><span class="citation-popover-snippet">KFFWhat “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</span></span></span>
+A striking example emerged during debate over the United States Affordable Care Act. A provision encouraging voluntary end-of-life consultations between patients and healthcare professionals was transformed by critics into the claim that government-created "death panels" would determine who deserved medical treatment. Fact-checkers and policy analysts repeatedly found that the legislation contained no such mechanism, yet the phrase became one of the most memorable elements of the entire healthcare debate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kff.org">[KFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kff.org</span><span class="citation-popover-title">what death panels can teach us about health misinformation</span><span class="citation-popover-snippet">What “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</span></span></span> Wikipedia The power of the claim came partly from its emotional imagery. Rather than discussing reimbursement rules for medical consultations <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Straw man</span><span class="citation-popover-snippet">May 5, 2026 — A straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one...</span><span class="citation-popover-meta">Published: May 5, 2026</span></span></span>, the debate became associated with bureaucrats deciding life-and-death questions. Polling later showed that substantial portions of the public continued to believe the claim years after it had been widely challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kff.org">[KFF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kff.org</span><span class="citation-popover-title">what death panels can teach us about health misinformation</span><span class="citation-popover-snippet">What “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</span></span></span>
 
-Research examining media coverage of the controversy found that the myth persisted even after extensive reporting and fact-checking. The emotional framing proved more durable than detailed policy explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateDebunking Sarah Palin: Mainstream news coverage of &#x27;...This study examines how traditional media reported on the &#x27;death pane...</span></span></span>
+Research examining media coverage of the controversy found that the myth persisted even after extensive reporting and fact-checking. The emotional framing proved more durable than detailed policy explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Debunking Sarah Palin: Mainstream news coverage of &#x27;...This study examines how traditional media reported on the &#x27;death pane...</span></span></span>
 
 This illustrates a broader lesson about healthcare straw men: concrete stories about vulnerable individuals often outperform technical corrections because people naturally remember narratives more readily than procedural details.
 
@@ -812,41 +812,41 @@ The result is not simply poor argumentation. It is a reduction in the quality of
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: [https://en.wikipedia.org/wiki/Straw_man](https://en.wikipedia.org/wiki/Straw_man)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 5, 2026 — A straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one...</p></details>
    Published: May 5, 2026  
 
 2. <a id="endnote-2"></a>
    Source: cato.org  
    Title: health policy straw man  
-   Link: [https://www.cato.org/blog/health-policy-straw-man](https://www.cato.org/blog/health-policy-straw-man)  
+   Link: <a href="https://www.cato.org/blog/health-policy-straw-man" target="_blank" rel="noopener noreferrer nofollow">https://www.cato.org/blog/health-policy-straw-man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I don&#x27;t know where Wessel comes...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: kff.org  
    Title: what death panels can teach us about health misinformation  
-   Link: [https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/](https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KFFWhat “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</p></details>
+   Link: <a href="https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://www.kff.org/from-drew-altman/what-death-panels-can-teach-us-about-health-misinformation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What “Death Panels” Can Teach Us About Health...16 Jul 2024 — One way we know about the amplification of the death panel myth is from...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Death panel  
-   Link: [https://en.wikipedia.org/wiki/Death_panel](https://en.wikipedia.org/wiki/Death_panel)  
+   Link: <a href="https://en.wikipedia.org/wiki/Death_panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Death_panel</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Death panelDeath panel is a political term that originated during the 2009 debate about federal health care legislation to cover the u...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27](https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateDebunking Sarah Palin: Mainstream news coverage of &#x27;...This study examines how traditional media reported on the &#x27;death pane...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/239775357_Debunking_Sarah_Palin_Mainstream_news_coverage_of_%27death_panels%27</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Sarah Palin: Mainstream news coverage of &#x27;...This study examines how traditional media reported on the &#x27;death pane...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Broccoli mandate  
-   Link: [https://en.wikipedia.org/wiki/Broccoli_mandate](https://en.wikipedia.org/wiki/Broccoli_mandate)  
+   Link: <a href="https://en.wikipedia.org/wiki/Broccoli_mandate" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Broccoli_mandate</a>  
 
 7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/1532673X20926125](https://journals.sagepub.com/doi/10.1177/1532673X20926125)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/1532673X20926125" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1532673X20926125</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsHow Policy Comparisons Alter Political Support for Health...Framing proposals with analogies can alter policy preferences s...</p></details>
 
 ### Additional References
@@ -854,57 +854,57 @@ The result is not simply poor argumentation. It is a reduction in the quality of
 8. <a id="endnote-8"></a>
    Source: gnovisjournal.georgetown.edu  
    Title: health care reform vs obamacare partisan framing of fox msnbc nyt and wsj  
-   Link: [https://gnovisjournal.georgetown.edu/journal/health-care-reform-vs-obamacare-partisan-framing-of-fox-msnbc-nyt-and-wsj/](https://gnovisjournal.georgetown.edu/journal/health-care-reform-vs-obamacare-partisan-framing-of-fox-msnbc-nyt-and-wsj/)  
+   Link: <a href="https://gnovisjournal.georgetown.edu/journal/health-care-reform-vs-obamacare-partisan-framing-of-fox-msnbc-nyt-and-wsj/" target="_blank" rel="noopener noreferrer nofollow">https://gnovisjournal.georgetown.edu/journal/health-care-reform-vs-obamacare-partisan-framing-of-fox-msnbc-nyt-and-wsj/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“ObamaCare”: Partisan Framing of...30 Nov 2012 — Also this study examined how journalists attempted to situate the debate over U.S. heal...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youcanknowthings.com  
    Title: 10 [logical fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) used in vaccine arguments  
-   Link: [https://www.youcanknowthings.com/10-logical-fallacies-used-in-vaccine-arguments/](https://www.youcanknowthings.com/10-logical-fallacies-used-in-vaccine-arguments/)  
+   Link: <a href="https://www.youcanknowthings.com/10-logical-fallacies-used-in-vaccine-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://www.youcanknowthings.com/10-logical-fallacies-used-in-vaccine-arguments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 5, 2022 — “If the COVID vaccines work, then why are vaccinated people getting COVID?” This is an example of the false dichotomy falla...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: publicintegrity.org  
    Title: analysis death panels fact and fiction  
-   Link: [https://publicintegrity.org/health/analysis-death-panels-fact-and-fiction/](https://publicintegrity.org/health/analysis-death-panels-fact-and-fiction/)  
+   Link: <a href="https://publicintegrity.org/health/analysis-death-panels-fact-and-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://publicintegrity.org/health/analysis-death-panels-fact-and-fiction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They exist inside the big health insurance corporations that every day make decisions on whether or not people enrolled in their...Read...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: fuqua.duke.edu  
    Title: death panel myth hard correct  
-   Link: [https://www.fuqua.duke.edu/duke-fuqua-insights/death-panel-myth-hard-correct](https://www.fuqua.duke.edu/duke-fuqua-insights/death-panel-myth-hard-correct)  
+   Link: <a href="https://www.fuqua.duke.edu/duke-fuqua-insights/death-panel-myth-hard-correct" target="_blank" rel="noopener noreferrer nofollow">https://www.fuqua.duke.edu/duke-fuqua-insights/death-panel-myth-hard-correct</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Duke&#x27;s Fuqua School of BusinessNew Research Shows &#x27;Death Panel&#x27; Myth Hard to Correct8 Jan 2013 — What they found is that while there is n...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12266455/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12266455/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12266455/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12266455/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>opposition to universal health care policies in the...by K Chow · 2025 · Cited by 1 — This study investigates the content and themes pre...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oah.org  
    Title: chapin healthcare  
-   Link: [https://www.oah.org/2017/03/24/chapin-healthcare/](https://www.oah.org/2017/03/24/chapin-healthcare/)  
+   Link: <a href="https://www.oah.org/2017/03/24/chapin-healthcare/" target="_blank" rel="noopener noreferrer nofollow">https://www.oah.org/2017/03/24/chapin-healthcare/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Historical Origins of Today&#x27;s Healthcare Debates24 Mar 2017 — The ACA proved just how difficult it has been for policymakers to refor...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scholarship.law.bu.edu  
-   Link: [https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=2308&[context](https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=2308&[context)  
+   Link: <a href="https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=2308&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.bu.edu/cgi/viewcontent.cgi?article=2308&amp;[context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Debate on Health Care Reform by Replacing...by GJ Annas · 1995 · Cited by 267 — For example, this perspective encourages us to ignor...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Logical Fallacies Explained: Why Adults Argue So Poorly Today  
-   Link: [https://www.youtube.com/watch?v=Hx4GtmSK6Rw](https://www.youtube.com/watch?v=Hx4GtmSK6Rw)  
+   Link: <a href="https://www.youtube.com/watch?v=Hx4GtmSK6Rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hx4GtmSK6Rw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: [https://www.youtube.com/watch?v=hfil34ayaEU](https://www.youtube.com/watch?v=hfil34ayaEU)  
+   Link: <a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hfil34ayaEU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strawman Fallacy | Idea Channel | PBS Digital Studios...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Strawman Fallacy | Idea Channel | PBS Digital Studios  
-   Link: [https://www.youtube.com/watch?v=cGZkCPo7tC0](https://www.youtube.com/watch?v=cGZkCPo7tC0)  
+   Link: <a href="https://www.youtube.com/watch?v=cGZkCPo7tC0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cGZkCPo7tC0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot Logical Fallacies...</p></details>

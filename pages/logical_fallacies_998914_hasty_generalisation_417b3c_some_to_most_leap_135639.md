@@ -367,7 +367,7 @@ The examples establish possibility. The missing base rate determines prevalence.
 
 ## How to Keep Prevalence Separate from Possibility
 
-Avoiding this form of hasty generalisation does not require abandoning [personal experience]({{ 'experience/' | relative_url }}). It requires keeping different kinds of claims separate.
+Avoiding this form of hasty generalisation does not require abandoning personal experience. It requires keeping different kinds of claims separate.
 
 When evaluating a broad claim, ask:
 
@@ -817,139 +817,139 @@ The move from some cases to most people persists because it feels intuitive. Hum
 
 1. <a id="endnote-1"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/](https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, [post hoc](&amp;#123;&amp;#123; &#x27;post-hoc/&#x27; | relative_url &amp;#125;&amp;#125;) fallacy involves a leap to a...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Faulty_generalization](https://en.wikipedia.org/wiki/Faulty_generalization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Faulty_generalization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Faulty_generalization</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Faulty generalizationA faulty generalization is an informal fallacy wherein a conclusion is drawn about all or many instances of a phe...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Availability Heuristic  
-   Link: [https://www.sciencedirect.com/topics/computer-science/availability-heuristic](https://www.sciencedirect.com/topics/computer-science/availability-heuristic)  
+   Link: <a href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/availability-heuristic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event based on the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability heuristicThe availability heuristic, also known as availability bias, is a mental shortcut that relies on immediate examp...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: scribbr.com  
    Title: representativeness heuristic  
-   Link: [https://www.scribbr.com/research-bias/representativeness-heuristic/](https://www.scribbr.com/research-bias/representativeness-heuristic/)  
+   Link: <a href="https://www.scribbr.com/research-bias/representativeness-heuristic/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-bias/representativeness-heuristic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Example &amp; Definition28 Dec 2022 — Base-rate fallacy is people&#x27;s tendency to ignore base-rate or statistically significant information, su...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Base rate fallacy  
-   Link: [https://en.wikipedia.org/wiki/Base_rate_fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Base_rate_fallacy</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Representativeness heuristic  
-   Link: [https://en.wikipedia.org/wiki/Representativeness_heuristic](https://en.wikipedia.org/wiki/Representativeness_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Representativeness_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Representativeness_heuristic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Representativeness heuristicThe representativeness heuristic is used when making judgments about the probability of an event being rep...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: join.base.app  
-   Link: [https://join.base.app/](https://join.base.app/)  
+   Link: <a href="https://join.base.app/" target="_blank" rel="noopener noreferrer nofollow">https://join.base.app/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>App | Built to TradeCountless ways to earn with the everything app from Base. One place to trade, create, build, discover, and chat securely...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027722001482](https://www.sciencedirect.com/science/article/pii/S0010027722001482)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027722001482" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027722001482</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the generality and cognitive basis of base-rate neglectby E Stengård · 2022 · Cited by 39 — While the representativeness heuristic can...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: profrjstarr.com  
    Title: This bias explains why rare but  
-   Link: [https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win](https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win)  
+   Link: <a href="https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win" target="_blank" rel="noopener noreferrer nofollow">https://profrjstarr.com/cognitive-biases/availability-heuristic-why-the-most-vivid-examples-always-win</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RJ StarrAvailability Heuristic: Why the Most Vivid Examples Always...The availability heuristic skews our judgment by favoring emotional...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/representativeness-heuristic](https://thedecisionlab.com/biases/representativeness-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/representativeness-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/representativeness-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabRepresentativeness HeuristicThe tendency to overlook base rates when making judgments and focus instead on highly specifi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: profrjstarr.com  
-   Link: [https://profrjstarr.com/cognitive-biases/representativeness-heuristic-why-we-trust-stereotypes-over-statistics](https://profrjstarr.com/cognitive-biases/representativeness-heuristic-why-we-trust-stereotypes-over-statistics)  
+   Link: <a href="https://profrjstarr.com/cognitive-biases/representativeness-heuristic-why-we-trust-stereotypes-over-statistics" target="_blank" rel="noopener noreferrer nofollow">https://profrjstarr.com/cognitive-biases/representativeness-heuristic-why-we-trust-stereotypes-over-statistics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RJ StarrRepresentativeness Heuristic: Why We Trust Stereotypes...The representativeness heuristic is the tendency to judge the probabili...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/base-rate-fallacy.html](https://www.simplypsychology.org/base-rate-fallacy.html)  
+   Link: <a href="https://www.simplypsychology.org/base-rate-fallacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/base-rate-fallacy.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Base Rate Fallacyby C Nickerson — Kahneman and Tversky distinguished between two types of data. Statistical base rates are mere facts abo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/heuristics](https://thedecisionlab.com/biases/heuristics)  
+   Link: <a href="https://thedecisionlab.com/biases/heuristics" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/heuristics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HeuristicsHeuristics are mental shortcuts that can facilitate problem-solving and probability judgments. These strategies are generalizat...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thedecisionlab.com  
    Title: Base Rate Fallacy  
-   Link: [https://thedecisionlab.com/biases/base-rate-fallacy](https://thedecisionlab.com/biases/base-rate-fallacy)  
+   Link: <a href="https://thedecisionlab.com/biases/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/base-rate-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...The representativeness heuristic gives rise to the base rate fallacy when we view an event or object as extremely represe...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/base](https://www.merriam-webster.com/dictionary/base)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/base" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/base</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BASE Definition &amp; MeaningThe meaning of BASE is the bottom of something considered as its support: foundation. How to use base in a sent...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: shortcogs.com  
-   Link: [https://www.shortcogs.com/bias/base-rate-neglect-fallacy](https://www.shortcogs.com/bias/base-rate-neglect-fallacy)  
+   Link: <a href="https://www.shortcogs.com/bias/base-rate-neglect-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.shortcogs.com/bias/base-rate-neglect-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate neglect fallacy | ShortcutsThe base rate neglect fallacy, which can be seen as a cognitive bias, is in fact a group of phenomen...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: oxfordreference.com  
-   Link: [https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100439475](https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100439475)  
+   Link: <a href="https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100439475" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100439475</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample size fallacyA failure to take account of sample size when estimating the probability of obtaining a particular value in a sample d...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Mcat/comments/hih2kz/base_rate_fallacy_vs_representative_heuristic/](https://www.reddit.com/r/Mcat/comments/hih2kz/base_rate_fallacy_vs_representative_heuristic/)  
+   Link: <a href="https://www.reddit.com/r/Mcat/comments/hih2kz/base_rate_fallacy_vs_representative_heuristic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Mcat/comments/hih2kz/base_rate_fallacy_vs_representative_heuristic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>base rate fallacy vs representative heuristic?: r/McatRepresentative heuristic is categorizing something based on its similarity to a pr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: tomorrow.bio  
-   Link: [https://www.tomorrow.bio/post/unquestioned-assumptions-spotting-hasty-generalization-fallacies-before-they-fool-you-2023-06-4669959500-rationality](https://www.tomorrow.bio/post/unquestioned-assumptions-spotting-hasty-generalization-fallacies-before-they-fool-you-2023-06-4669959500-rationality)  
+   Link: <a href="https://www.tomorrow.bio/post/unquestioned-assumptions-spotting-hasty-generalization-fallacies-before-they-fool-you-2023-06-4669959500-rationality" target="_blank" rel="noopener noreferrer nofollow">https://www.tomorrow.bio/post/unquestioned-assumptions-spotting-hasty-generalization-fallacies-before-they-fool-you-2023-06-4669959500-rationality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Spotting Hasty Generalization Fallacies Before They Fool...23 Jun 2023 — These fallacies involve making broad generalizations based on l...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/373897067_Research_on_Applications_of_Availability_Heuristics](https://www.researchgate.net/publication/373897067_Research_on_Applications_of_Availability_Heuristics)  
+   Link: <a href="https://www.researchgate.net/publication/373897067_Research_on_Applications_of_Availability_Heuristics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373897067_Research_on_Applications_of_Availability_Heuristics</a>  
 
 23. <a id="endnote-23"></a>
    Source: jove.com  
    Title: the representativeness heuristic decision making and biases  
-   Link: [https://www.jove.com/science-education/v/11047/the-representativeness-heuristic-decision-making-and-biases](https://www.jove.com/science-education/v/11047/the-representativeness-heuristic-decision-making-and-biases)  
+   Link: <a href="https://www.jove.com/science-education/v/11047/the-representativeness-heuristic-decision-making-and-biases" target="_blank" rel="noopener noreferrer nofollow">https://www.jove.com/science-education/v/11047/the-representativeness-heuristic-decision-making-and-biases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video: The Representativeness HeuristicFeb 12, 2020 — However, this strong sense of resemblance leads her to ignore a particular source o...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: openwa.pressbooks.pub  
-   Link: [https://openwa.pressbooks.pub/howtothinkforyourself/chapter/%C2%A72-statistical-generalizations/](https://openwa.pressbooks.pub/howtothinkforyourself/chapter/%C2%A72-statistical-generalizations/)  
+   Link: <a href="https://openwa.pressbooks.pub/howtothinkforyourself/chapter/%C2%A72-statistical-generalizations/" target="_blank" rel="noopener noreferrer nofollow">https://openwa.pressbooks.pub/howtothinkforyourself/chapter/%C2%A72-statistical-generalizations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This occurs when someone uses a single “vivid” story to refute a statistical...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/726129419/materials-Week-4-5-and-6](https://www.scribd.com/document/726129419/materials-Week-4-5-and-6)  
+   Link: <a href="https://www.scribd.com/document/726129419/materials-Week-4-5-and-6" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/726129419/materials-Week-4-5-and-6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>• In base- rate neglect, the base rate or understand classification scheme andRead more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thosenerdygirls/posts/what-is-availability-bias-tldr-availability-bias-also-called-availability-heuris/628610965953877/](https://www.facebook.com/thosenerdygirls/posts/what-is-availability-bias-tldr-availability-bias-also-called-availability-heuris/628610965953877/)  
+   Link: <a href="https://www.facebook.com/thosenerdygirls/posts/what-is-availability-bias-tldr-availability-bias-also-called-availability-heuris/628610965953877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thosenerdygirls/posts/what-is-availability-bias-tldr-availability-bias-also-called-availability-heuris/628610965953877/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pret, and remember information that confirms what we already believe...</p></details>

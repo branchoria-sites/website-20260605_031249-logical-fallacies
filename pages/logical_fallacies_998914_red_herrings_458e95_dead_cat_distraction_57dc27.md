@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_dist
 
 ## Introduction
 
-A “dead cat” distraction is a specialised form of [red herring]({{ 'red-herring/' | relative_url }}) used in political debate. The tactic aims to shift public and media attention away from a damaging issue by introducing something so shocking, provocative, or [emotionally charged]({{ 'charged-labels/' | relative_url }}) that everyone starts talking about the new topic instead. Even when observers recognise that the new issue does not answer the original criticism, attention often moves anyway. The success of the tactic depends less on persuasion than on agenda control: if journalists, opponents, and voters spend their time discussing the “dead cat”, they spend less time examining the problem that created political trouble in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span>
+A “dead cat” distraction is a specialised form of [red herring]({{ 'red-herring/' | relative_url }}) used in political [debate]({{ 'debate/' | relative_url }}). The tactic aims to shift public and media attention away from a damaging issue by introducing something so shocking, provocative, or emotionally charged that everyone starts talking about the new topic instead. Even when observers recognise that the new issue does not answer the original criticism, attention often moves anyway. The success of the tactic depends less on persuasion than on agenda control: if journalists, opponents, and voters spend their time discussing the “dead cat”, they spend less time examining the problem that created political trouble in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-1-dark.svg" | relative_url }}" alt="Dead Cat illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,7 +295,7 @@ The tactic serves three related purposes:
 
 </div>
 
-Importantly, a dead cat does not have to prove anything or resolve any criticism. Its purpose is to alter the distribution of attention. A politician facing difficult questions about competence, ethics, policy failures, or leadership may benefit simply because journalists now have a more dramatic story to cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mickord.com/public-relations-the-dead-cat-strategy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mickord.com">[Mick Ord]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mickord.com</span><span class="citation-popover-title">public relations the dead cat strategy</span><span class="citation-popover-snippet">Mick Ord | Mick OrdPublic Relations – The Dead Cat Strategy9 Dec 2021 — The Dead Cat Strategy – or &#x27;Dead Catting – is the introduction of...</span></span></span> | Mick Ord
+Importantly, a dead cat does not have to prove anything or resolve any criticism. Its purpose is to alter the distribution of attention. A politician facing difficult questions about competence, ethics, policy failures, or leadership may benefit simply because journalists now have a more dramatic story to cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mickord.com/public-relations-the-dead-cat-strategy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mickord.com">[Mick Ord]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mickord.com</span><span class="citation-popover-title">public relations the dead cat strategy</span><span class="citation-popover-snippet">Mick Ord &#124; Mick OrdPublic Relations – The Dead Cat Strategy9 Dec 2021 — The Dead Cat Strategy – or &#x27;Dead Catting – is the introduction of...</span></span></span> | Mick Ord
 
 This feature distinguishes dead cat distractions from ordinary rebuttals. A rebuttal attempts to answer a criticism. A dead cat attempts to make the criticism less visible.
 
@@ -329,7 +329,7 @@ Notice that none of these steps requires the audience to be fooled. People may o
 
 The term became especially prominent in British political commentary during debates about campaign strategy and media management. Commentators frequently pointed to moments when highly provocative claims appeared just as governments or political leaders faced uncomfortable scrutiny. Analysts have cited episodes from UK election campaigns, debates surrounding Brexit, and various controversies involving senior political figures as examples of attempted dead cat manoeuvres. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/politics/2016/jan/20/lynton-crosby-and-dead-cat-won-election-conservatives-labour-intellectually-lazy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianHow Lynton Crosby (and a dead cat) won the election20 Jan 2016 — In May 2015, David Cameron was swept to victory in defiance...</span><span class="citation-popover-meta">Published: May 2015</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/boris-johnson-resigns-prime-ministers-dead-cat-strategy-failed-so-how-did-he-use-up-his-nine-lives-12520068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsBoris Johnson resigns: Prime minister&#x27;s &#x27;dead cat&#x27; strategy...8 Jul 2022 — Sky&#x27;s Jon Craig looks back at Boris Johnson&#x27;s rollerc...</span></span></span>
 
-Observers have also applied the concept beyond Britain. Political commentators have used it to interpret dramatic interventions in Australian and American [politics]({{ 'politics/' | relative_url }}), particularly when unexpected statements seemed to redirect coverage from ongoing controversies. The label has become common enough that journalists sometimes [debate]({{ 'debate/' | relative_url }}) whether a particular controversy is genuinely strategic or merely a political mistake that attracted attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.com.au/national/politics/dead-cat-strategy-truth-behind-pms-4m-copacabana-bombshell-amid-major-tax-changes/news-story/f35bb142f04ebcd4009930ad09aedb14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">Dead cat strategy: Truth behind PM&#x27;s $4m Copacabana...4 days ago — Former UK Prime Minister Boris Johnson called it the dead cat strategy...</span></span></span>
+Observers have also applied the concept beyond Britain. Political commentators have used it to interpret dramatic interventions in Australian and American [politics]({{ 'politics/' | relative_url }}), particularly when unexpected statements seemed to redirect coverage from ongoing controversies. The label has become common enough that journalists sometimes debate whether a particular controversy is genuinely strategic or merely a political mistake that attracted attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.com.au/national/politics/dead-cat-strategy-truth-behind-pms-4m-copacabana-bombshell-amid-major-tax-changes/news-story/f35bb142f04ebcd4009930ad09aedb14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">Dead cat strategy: Truth behind PM&#x27;s $4m Copacabana...4 days ago — Former UK Prime Minister Boris Johnson called it the dead cat strategy...</span></span></span>
 
 That debate matters because not every shocking event is a dead cat. Sometimes politicians make errors, speak impulsively, or create controversies unintentionally. A key question is whether the new issue functions primarily as a diversion from a specific damaging topic. Critics have warned that journalists can overuse the label by treating every unusual political event as evidence of sophisticated strategic planning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prospectmagazine.co.uk/politics/39522/dear-journalists-please-stop-calling-everything-a-dead-cat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prospectmagazine.co.uk">[Prospect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prospectmagazine.co.uk</span><span class="citation-popover-snippet">ProspectDear journalists: please stop calling everything a &quot;dead cat&quot;Nov 19, 2019 — It&#x27;s comforting to imagine political blunders are act...</span></span></span>
 
@@ -366,7 +366,7 @@ Several techniques help:
 
 </div>
 
-For analysts, journalists, and citizens, the central question is not whether the dead cat is interesting. It often is. The critical question is whether the attention-grabbing development has actually resolved the issue that prompted scrutiny in the first place. If it has not, then the diversion may be functioning as a classic red herring: a dramatic side path that leaves the original argument untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mickord.com/public-relations-the-dead-cat-strategy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mickord.com">[Mick Ord]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mickord.com</span><span class="citation-popover-title">public relations the dead cat strategy</span><span class="citation-popover-snippet">Mick Ord | Mick OrdPublic Relations – The Dead Cat Strategy9 Dec 2021 — The Dead Cat Strategy – or &#x27;Dead Catting – is the introduction of...</span></span></span> | Mick Ord
+For analysts, journalists, and citizens, the central question is not whether the dead cat is interesting. It often is. The critical question is whether the attention-grabbing development has actually resolved the issue that prompted scrutiny in the first place. If it has not, then the diversion may be functioning as a classic red herring: a dramatic side path that leaves the original argument untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mickord.com/public-relations-the-dead-cat-strategy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mickord.com">[Mick Ord]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mickord.com</span><span class="citation-popover-title">public relations the dead cat strategy</span><span class="citation-popover-snippet">Mick Ord &#124; Mick OrdPublic Relations – The Dead Cat Strategy9 Dec 2021 — The Dead Cat Strategy – or &#x27;Dead Catting – is the introduction of...</span></span></span> | Mick Ord
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-3-dark.svg" | relative_url }}" alt="Dead Cat illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -793,110 +793,110 @@ For analysts, journalists, and citizens, the central question is not whether the
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Dead cat strategy  
-   Link: [https://en.wikipedia.org/wiki/Dead_cat_strategy](https://en.wikipedia.org/wiki/Dead_cat_strategy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dead_cat_strategy</a>  
 
 2. <a id="endnote-2"></a>
    Source: mickord.com  
    Title: public relations the dead cat strategy  
-   Link: [https://www.mickord.com/public-relations-the-dead-cat-strategy/](https://www.mickord.com/public-relations-the-dead-cat-strategy/)  
+   Link: <a href="https://www.mickord.com/public-relations-the-dead-cat-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://www.mickord.com/public-relations-the-dead-cat-strategy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick Ord | Mick OrdPublic Relations – The Dead Cat Strategy9 Dec 2021 — The Dead Cat Strategy – or &#x27;Dead Catting – is the introduction of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: influenceonline.co.uk  
    Title: when is a dead cat not a dead cat  
-   Link: [https://influenceonline.co.uk/2021/12/14/when-is-a-dead-cat-not-a-dead-cat](https://influenceonline.co.uk/2021/12/14/when-is-a-dead-cat-not-a-dead-cat)  
+   Link: <a href="https://influenceonline.co.uk/2021/12/14/when-is-a-dead-cat-not-a-dead-cat" target="_blank" rel="noopener noreferrer nofollow">https://influenceonline.co.uk/2021/12/14/when-is-a-dead-cat-not-a-dead-cat</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>But some distractions are more effective than others.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/boris-johnson-resigns-prime-ministers-dead-cat-strategy-failed-so-how-did-he-use-up-his-nine-lives-12520068](https://news.sky.com/story/boris-johnson-resigns-prime-ministers-dead-cat-strategy-failed-so-how-did-he-use-up-his-nine-lives-12520068)  
+   Link: <a href="https://news.sky.com/story/boris-johnson-resigns-prime-ministers-dead-cat-strategy-failed-so-how-did-he-use-up-his-nine-lives-12520068" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/boris-johnson-resigns-prime-ministers-dead-cat-strategy-failed-so-how-did-he-use-up-his-nine-lives-12520068</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsBoris Johnson resigns: Prime minister&#x27;s &#x27;dead cat&#x27; strategy...8 Jul 2022 — Sky&#x27;s Jon Craig looks back at Boris Johnson&#x27;s rollerc...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: news.com.au  
-   Link: [https://www.news.com.au/national/politics/dead-cat-strategy-truth-behind-pms-4m-copacabana-bombshell-amid-major-tax-changes/news-story/f35bb142f04ebcd4009930ad09aedb14](https://www.news.com.au/national/politics/dead-cat-strategy-truth-behind-pms-4m-copacabana-bombshell-amid-major-tax-changes/news-story/f35bb142f04ebcd4009930ad09aedb14)  
+   Link: <a href="https://www.news.com.au/national/politics/dead-cat-strategy-truth-behind-pms-4m-copacabana-bombshell-amid-major-tax-changes/news-story/f35bb142f04ebcd4009930ad09aedb14" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/national/politics/dead-cat-strategy-truth-behind-pms-4m-copacabana-bombshell-amid-major-tax-changes/news-story/f35bb142f04ebcd4009930ad09aedb14</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dead cat strategy: Truth behind PM&#x27;s $4m Copacabana...4 days ago — Former UK Prime Minister Boris Johnson called it the dead cat strategy...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wordhistories.net  
    Title: dead cat strategy  
-   Link: [https://wordhistories.net/2023/03/24/dead-cat-strategy/](https://wordhistories.net/2023/03/24/dead-cat-strategy/)  
+   Link: <a href="https://wordhistories.net/2023/03/24/dead-cat-strategy/" target="_blank" rel="noopener noreferrer nofollow">https://wordhistories.net/2023/03/24/dead-cat-strategy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;dead-cat strategy&#x27;: meaning and origin24 Mar 2023 — The expression dead-cat strategy denotes the strategy consisting, for a politician...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/politics/2016/jan/20/lynton-crosby-and-dead-cat-won-election-conservatives-labour-intellectually-lazy](https://www.theguardian.com/politics/2016/jan/20/lynton-crosby-and-dead-cat-won-election-conservatives-labour-intellectually-lazy)  
+   Link: <a href="https://www.theguardian.com/politics/2016/jan/20/lynton-crosby-and-dead-cat-won-election-conservatives-labour-intellectually-lazy" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2016/jan/20/lynton-crosby-and-dead-cat-won-election-conservatives-labour-intellectually-lazy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHow Lynton Crosby (and a dead cat) won the election20 Jan 2016 — In May 2015, David Cameron was swept to victory in defiance...</p></details>
    Published: May 2015  
 
 8. <a id="endnote-8"></a>
    Source: prospectmagazine.co.uk  
-   Link: [https://www.prospectmagazine.co.uk/politics/39522/dear-journalists-please-stop-calling-everything-a-dead-cat](https://www.prospectmagazine.co.uk/politics/39522/dear-journalists-please-stop-calling-everything-a-dead-cat)  
+   Link: <a href="https://www.prospectmagazine.co.uk/politics/39522/dear-journalists-please-stop-calling-everything-a-dead-cat" target="_blank" rel="noopener noreferrer nofollow">https://www.prospectmagazine.co.uk/politics/39522/dear-journalists-please-stop-calling-everything-a-dead-cat</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ProspectDear journalists: please stop calling everything a &quot;dead cat&quot;Nov 19, 2019 — It&#x27;s comforting to imagine political blunders are act...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: washingtonpost.com  
    Title: boris johnson dead cat party zelensky  
-   Link: [https://www.washingtonpost.com/outlook/2022/04/15/boris-johnson-dead-cat-party-zelensky/](https://www.washingtonpost.com/outlook/2022/04/15/boris-johnson-dead-cat-party-zelensky/)  
+   Link: <a href="https://www.washingtonpost.com/outlook/2022/04/15/boris-johnson-dead-cat-party-zelensky/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/outlook/2022/04/15/boris-johnson-dead-cat-party-zelensky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostBoris Johnson is a master of distraction. What if that stops...15 Apr 2022 — His &#x27;dead cat&#x27; strategy failed to preven...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
    Title: dead cats and hairdryers dominic cummings evidence to covid inquiry  
-   Link: [https://www.theguardian.com/uk-news/2023/nov/01/dead-cats-and-hairdryers-dominic-cummings-evidence-to-covid-inquiry](https://www.theguardian.com/uk-news/2023/nov/01/dead-cats-and-hairdryers-dominic-cummings-evidence-to-covid-inquiry)  
+   Link: <a href="https://www.theguardian.com/uk-news/2023/nov/01/dead-cats-and-hairdryers-dominic-cummings-evidence-to-covid-inquiry" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk-news/2023/nov/01/dead-cats-and-hairdryers-dominic-cummings-evidence-to-covid-inquiry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dead cats and hairdryers: Dominic Cummings&#x27; evidence to...1 Nov 2023 — Dominic Cummings spent hours being grilled by Covid inquiry lawye...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/dead-cat-strategy-why-we-dont-chase-brian-tinsman-xkxbe](https://www.linkedin.com/pulse/dead-cat-strategy-why-we-dont-chase-brian-tinsman-xkxbe)  
+   Link: <a href="https://www.linkedin.com/pulse/dead-cat-strategy-why-we-dont-chase-brian-tinsman-xkxbe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/dead-cat-strategy-why-we-dont-chase-brian-tinsman-xkxbe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Dead Cat Strategy&#x27; &amp; Why We Don&#x27;t Chase ItThe term comes out of British politics, where Australian campaign strategist Lynton Crosby (an...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: labourmovementforeurope.uk  
-   Link: [https://www.labourmovementforeurope.uk/matt_hancock_employs_the_dead_cat_strategy](https://www.labourmovementforeurope.uk/matt_hancock_employs_the_dead_cat_strategy)  
+   Link: <a href="https://www.labourmovementforeurope.uk/matt_hancock_employs_the_dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.labourmovementforeurope.uk/matt_hancock_employs_the_dead_cat_strategy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Hancock employs the &#x27;dead cat&#x27; strategyThe dead cat strategy was invented by the Tories&#x27; election guru Lynton Crosby, but it was exp...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: politics.co.uk  
    Title: the dead cat strategy how tories hope to win the next election  
-   Link: [https://www.politics.co.uk/blogs/2013/11/24/the-dead-cat-strategy-how-tories-hope-to-win-the-next-election/](https://www.politics.co.uk/blogs/2013/11/24/the-dead-cat-strategy-how-tories-hope-to-win-the-next-election/)  
+   Link: <a href="https://www.politics.co.uk/blogs/2013/11/24/the-dead-cat-strategy-how-tories-hope-to-win-the-next-election/" target="_blank" rel="noopener noreferrer nofollow">https://www.politics.co.uk/blogs/2013/11/24/the-dead-cat-strategy-how-tories-hope-to-win-the-next-election/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The dead cat strategy: How Tories hope to win the next...24 Nov 2013 — Labour can expect to see plenty more dead cats thrown on their ta...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sussexbylines.co.uk  
    Title: in politics dead cats may be bigger than you think  
-   Link: [https://sussexbylines.co.uk/world/in-politics-dead-cats-may-be-bigger-than-you-think/](https://sussexbylines.co.uk/world/in-politics-dead-cats-may-be-bigger-than-you-think/)  
+   Link: <a href="https://sussexbylines.co.uk/world/in-politics-dead-cats-may-be-bigger-than-you-think/" target="_blank" rel="noopener noreferrer nofollow">https://sussexbylines.co.uk/world/in-politics-dead-cats-may-be-bigger-than-you-think/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In politics, dead cats may be bigger than you think19 Aug 2023 — Tom Serpell, explaining the dead cat strategy, argues that Johnson made...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/wikipedia/comments/1qz7ig6/the_dead_cat_strategy_also_known_as_deadcatting/](https://www.reddit.com/r/wikipedia/comments/1qz7ig6/the_dead_cat_strategy_also_known_as_deadcatting/)  
+   Link: <a href="https://www.reddit.com/r/wikipedia/comments/1qz7ig6/the_dead_cat_strategy_also_known_as_deadcatting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/wikipedia/comments/1qz7ig6/the_dead_cat_strategy_also_known_as_deadcatting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>liberately making a shocking announcement to divert media...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DrTonyLeachon/posts/the-dead-cat-strategy-created-by-governments-amplified-sometimes-by-mediatony-le/1468258804747632/](https://www.facebook.com/DrTonyLeachon/posts/the-dead-cat-strategy-created-by-governments-amplified-sometimes-by-mediatony-le/1468258804747632/)  
+   Link: <a href="https://www.facebook.com/DrTonyLeachon/posts/the-dead-cat-strategy-created-by-governments-amplified-sometimes-by-mediatony-le/1468258804747632/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DrTonyLeachon/posts/the-dead-cat-strategy-created-by-governments-amplified-sometimes-by-mediatony-le/1468258804747632/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>g AFP, Yung Philippine Army, Yung PNP? Ombudsman? DOJ? COA? COMELEC...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DPtlIzXDKyT/](https://www.instagram.com/reel/DPtlIzXDKyT/)  
+   Link: <a href="https://www.instagram.com/reel/DPtlIzXDKyT/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPtlIzXDKyT/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ent his entire life exposing how governments and media...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DetroitNews/posts/deadcatting-is-a-political-strategy-of-saying-something-extreme-to-divert-the-at/1324222583075342/](https://www.facebook.com/DetroitNews/posts/deadcatting-is-a-political-strategy-of-saying-something-extreme-to-divert-the-at/1324222583075342/)  
+   Link: <a href="https://www.facebook.com/DetroitNews/posts/deadcatting-is-a-political-strategy-of-saying-something-extreme-to-divert-the-at/1324222583075342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DetroitNews/posts/deadcatting-is-a-political-strategy-of-saying-something-extreme-to-divert-the-at/1324222583075342/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the attention, like throwing a dead cat on the table...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: samf.substack.com  
    Title: Sam Freedman It's not a dead cat!  
-   Link: [https://samf.substack.com/p/its-not-a-dead-cat](https://samf.substack.com/p/its-not-a-dead-cat)  
+   Link: <a href="https://samf.substack.com/p/its-not-a-dead-cat" target="_blank" rel="noopener noreferrer nofollow">https://samf.substack.com/p/its-not-a-dead-cat</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sam FreedmanIt&#x27;s not a dead cat! - by Sam FreedmanWe have our Prime Minister to blame for introducing this dread phrase into the British...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HGKtx1H9yeY](https://www.youtube.com/watch?v=HGKtx1H9yeY)  
+   Link: <a href="https://www.youtube.com/watch?v=HGKtx1H9yeY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HGKtx1H9yeY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Andrew has imperilled the monarchy – can William and Kate save it? | The Daily T...</p></details>

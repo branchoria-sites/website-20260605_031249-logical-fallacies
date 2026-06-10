@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:44:32'
 parent_title: Does Hypocrisy Refute the Claim? | Fallacy Lab
 parent_permalink: /tu-quoque/
 parent_nav_short_title: Tu Quoque
@@ -265,7 +266,6 @@ next_link:
   permalink: /smoking-doctor/
   short_title: Smoking Doctor
   heading_title: Can a Hypocrite Still Give Good Advice?
-date: '2026-06-05 01:44:32 '
 header:
   og_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_hypocrisy_feasibilit_40f055-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_hypocrisy_feasibilit_40f055-Illustration-1.webp
@@ -820,134 +820,134 @@ Seen this way, conduct becomes a source of evidence about practicality. The stro
 
 1. <a id="endnote-1"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/AIKTQA](https://philpapers.org/rec/AIKTQA)  
+   Link: <a href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKTQA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Though textbook tu quoque arguments are fallacies...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: grounds moral status  
-   Link: [https://plato.stanford.edu/entries/grounds-moral-status/](https://plato.stanford.edu/entries/grounds-moral-status/)  
+   Link: <a href="https://plato.stanford.edu/entries/grounds-moral-status/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/grounds-moral-status/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grounds of Moral Statusby A Jaworska · 2013 · Cited by 397 — An entity has moral status if and only if it matters (to some degree) from t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: [https://plato.stanford.edu/entries/category-mistakes/](https://plato.stanford.edu/entries/category-mistakes/)  
+   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2002/entries/logic-informal/](https://plato.stanford.edu/archives/sum2002/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LogicVan Eemeren and Grootendorst explain ad hominem as a violation of their first rule for &quot;critical discussion,&quot; which maintains that &quot;...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: informallogic.ca  
    Title: Informal Logic Tu Quoque Arguments and the Significance of Hypocrisy  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/543/506](https://informallogic.ca/index.php/informal_logic/article/view/543/506)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoque arguments are ad hominem arguments wherein a speaker (B) charges another (A) with inconsistency on an issue of dispute.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: [https://en.wikipedia.org/wiki/Tu_quoque](https://en.wikipedia.org/wiki/Tu_quoque)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueAlso known as the appeal to hypocrisy, &quot;you too&quot; fallacy, &quot;two wrongs&quot; fallacy, &quot;pot calling the kettle black&quot; fallacy, and &quot;...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/user/setLocale/en_US?source=%2Findex.php%2Finformal_logic%2Farticle%2Fview%2F543](https://informallogic.ca/index.php/informal_logic/user/setLocale/en_US?source=%2Findex.php%2Finformal_logic%2Farticle%2Fview%2F543)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/user/setLocale/en_US?source=%2Findex.php%2Finformal_logic%2Farticle%2Fview%2F543" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/user/setLocale/en_US?source=%2Findex.php%2Finformal_logic%2Farticle%2Fview%2F543</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Though textbook tu quoque arguments are fallacies...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 13. <a id="endnote-13"></a>
    Source: finmasters.com  
    Title: Tu Quoque Fallacy  
-   Link: [https://finmasters.com/tu-quoque-fallacy/](https://finmasters.com/tu-quoque-fallacy/)  
+   Link: <a href="https://finmasters.com/tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/tu-quoque-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid because it is incon...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: holisticapologetics.com  
    Title: the tu quoque fallacy  
-   Link: [https://www.holisticapologetics.com/post/the-tu-quoque-fallacy](https://www.holisticapologetics.com/post/the-tu-quoque-fallacy)  
+   Link: <a href="https://www.holisticapologetics.com/post/the-tu-quoque-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.holisticapologetics.com/post/the-tu-quoque-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Tu Quoque&quot; Fallacy24 Sept 2022 — Is Mark calling Jones a hypocrite in implying that, because of his hypocrisy, moral subjectivism is...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Tu quoque)Description: Claiming the argument is flawed by pointing out that the one making the argument is not acting consist...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/tu-quoque](https://yourlogicalfallacyis.com/tu-quoque)  
+   Link: <a href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is tu quoqueThis fallacy is also known as the appeal to hypocrisy. It is commonly employed as an effective red herri...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: windsor.scholarsportal.info  
-   Link: [https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/454/812/3932?inline=1](https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/454/812/3932?inline=1)  
+   Link: <a href="https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/454/812/3932?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://windsor.scholarsportal.info/omp/index.php/wsia/catalog/download/454/812/3932?inline=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ReasonPursuing Reason marks the latest collection of [essays](&amp;#123;&amp;#123; &#x27;essays/&#x27; | relative_url &amp;#125;&amp;#125;) from a scholar known for thoughtful theoretical treatments of a wide range of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cerebralfaith.net  
    Title: For example, an argument may follow the rules of logic  
-   Link: [https://cerebralfaith.net/logical-fallacy-series-part-17-tu-quoque/](https://cerebralfaith.net/logical-fallacy-series-part-17-tu-quoque/)  
+   Link: <a href="https://cerebralfaith.net/logical-fallacy-series-part-17-tu-quoque/" target="_blank" rel="noopener noreferrer nofollow">https://cerebralfaith.net/logical-fallacy-series-part-17-tu-quoque/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy Series — Part 17: Tu QuoqueInformal fallacies, by contrast, are committed when the content of the argument is logically f...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskTrumpSupporters/comments/r601me/what_is_your_opinion_of_the_tu_quoque_fallacy_or/](https://www.reddit.com/r/AskTrumpSupporters/comments/r601me/what_is_your_opinion_of_the_tu_quoque_fallacy_or/)  
+   Link: <a href="https://www.reddit.com/r/AskTrumpSupporters/comments/r601me/what_is_your_opinion_of_the_tu_quoque_fallacy_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskTrumpSupporters/comments/r601me/what_is_your_opinion_of_the_tu_quoque_fallacy_or/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, or it could be drawing the wrong conclusion from something that isn&#x27;t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance](https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance)  
+   Link: <a href="https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>scourse, particularly in political and ethical contexts.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/the-false-moral-equivalence-fallacy-creates-a-false-comparison-between-actions-t/984934906964540/](https://www.facebook.com/ThinkingPowers/posts/the-false-moral-equivalence-fallacy-creates-a-false-comparison-between-actions-t/984934906964540/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/the-false-moral-equivalence-fallacy-creates-a-false-comparison-between-actions-t/984934906964540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/the-false-moral-equivalence-fallacy-creates-a-false-comparison-between-actions-t/984934906964540/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;t actually alike. It often pairs with a rhetorical technique...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: 3quarksdaily.com  
    Title: tu quoque arguments and their relevance  
-   Link: [https://3quarksdaily.com/3quarksdaily/2015/09/tu-quoque-arguments-and-their-relevance.html](https://3quarksdaily.com/3quarksdaily/2015/09/tu-quoque-arguments-and-their-relevance.html)  
+   Link: <a href="https://3quarksdaily.com/3quarksdaily/2015/09/tu-quoque-arguments-and-their-relevance.html" target="_blank" rel="noopener noreferrer nofollow">https://3quarksdaily.com/3quarksdaily/2015/09/tu-quoque-arguments-and-their-relevance.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Sept 2015 — The tu quoque may take the form of charges of hypocrisy when someone affirms a practical proposal that she has regularly f...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>claim by assailing the proponent of it.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: press.rebus.community  
-   Title: community [Informal Fallacies](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) –  
-   Link: [https://press.rebus.community/intro-to-phil-logic/chapter/chapter-4-informal-fallacies/](https://press.rebus.community/intro-to-phil-logic/chapter/chapter-4-informal-fallacies/)  
+   Title: community Informal Fallacies –  
+   Link: <a href="https://press.rebus.community/intro-to-phil-logic/chapter/chapter-4-informal-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://press.rebus.community/intro-to-phil-logic/chapter/chapter-4-informal-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies – Introduction to Philosophy: LogicThis form of ad hominem consists in calling into question the moral character of the speaker...</p></details>

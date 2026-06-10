@@ -298,16 +298,16 @@ A red herring occurs when a speaker introduces information that redirects attent
 
 Each question may be important. The fallacy appears when evidence for one question is treated as if it settled another.
 
-Consider a claim such as: “The chemical may present a health risk, but banning it would cost thousands of jobs.” Job losses may be a serious policy concern. However, they do not establish whether the chemical is safe. The argument has shifted from a safety assessment to an economic assessment without acknowledging the change. The original safety question remains unanswered. This mirrors classic red-herring examples in logic texts, where a genuine concern is introduced but does not address the disputed claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">StudocuUnderstanding Logical Fallacies - Purdue OWL® ResourcesRed Herring: This is a diversionary tactic that avoids the key issues, ofte...</span></span></span>
+Consider a claim such as: “The chemical may present a health risk, but banning it would cost thousands of jobs.” Job losses may be a serious policy concern. However, they do not establish whether the chemical is safe. The argument has shifted from a safety assessment to an economic assessment without acknowledging the change. The original safety question remains unanswered. This mirrors classic red-herring examples in logic texts, where a genuine concern is introduced but does not address the disputed claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.com">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.com</span><span class="citation-popover-snippet">Understanding Logical Fallacies - Purdue OWL® ResourcesRed Herring: This is a diversionary tactic that avoids the key issues, ofte...</span></span></span>
 
-The mechanism works because audiences often assume that if a consideration is important, it must also be relevant to the precise point being argued. [Relevance tests]({{ 'relevance/' | relative_url }}) require a stricter standard: the reason offered must connect directly to the conclusion under examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[purdue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
+The mechanism works because audiences often assume that if a consideration is important, it must also be relevant to the precise point being argued. Relevance tests require a stricter standard: the reason offered must connect directly to the conclusion under examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[purdue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
 
 ## Separating Safety, Cost and Policy Questions
 
 One of the most useful ways to detect red herrings in safety discussions is to separate distinct decision layers.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Va6CI87t9rs" title="Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer">Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope</a></p><p class="youtube-embed-meta">Channel: One Minute Economics &middot; Views: 26.9K &middot; Uploaded: April 2019 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Va6CI87t9rs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lWDABXVMzHA" title="The Red Herring Fallacy: Don’t Get Distracted!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lWDABXVMzHA" target="_blank" rel="noopener noreferrer">The Red Herring Fallacy: Don’t Get Distracted!</a></p><p class="youtube-embed-meta">Channel: Ontology Explained: Philosophy and AI &middot; Views: 193 &middot; Uploaded: November 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lWDABXVMzHA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lWDABXVMzHA">Open on YouTube</a></p></div></div></div>
 
 ### Safety Assessment
 
@@ -325,7 +325,7 @@ However, proving that a safety measure is expensive does not show that the under
 
 Policy decisions often require balancing several values simultaneously. Governments, organisations, and communities may weigh safety, cost, liberty, fairness, and practicality together.
 
-The key distinction is that balancing concerns is not itself a red herring. The fallacy occurs when participants pretend that evidence about one dimension settles another dimension. A policymaker may legitimately say, “The activity carries risks, but the benefits justify accepting them.” That is a policy judgement. By contrast, saying “The benefits are large, therefore the activity is safe” improperly substitutes one question for another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">red herring fallacy</span><span class="citation-popover-snippet">ScribbrWhat Is a Red Herring Fallacy? | Definition &amp; Examples5 Apr 2023 — A red herring fallacy is an attempt to redirect a conversation...</span></span></span>
+The key distinction is that balancing concerns is not itself a red herring. The fallacy occurs when participants pretend that evidence about one dimension settles another dimension. A policymaker may legitimately say, “The activity carries risks, but the benefits justify accepting them.” That is a policy judgement. By contrast, saying “The benefits are large, therefore the activity is safe” improperly substitutes one question for another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">red herring fallacy</span><span class="citation-popover-snippet">What Is a Red Herring Fallacy? &#124; Definition &amp; Examples5 Apr 2023 — A red herring fallacy is an attempt to redirect a conversation...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-2-dark.svg" | relative_url }}" alt="Red Herrings illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -381,7 +381,7 @@ Similarly:
 This approach preserves legitimate concerns while maintaining analytical discipline. It prevents the conversation from becoming a contest over whichever issue generates the strongest emotional reaction. Guidance on identifying red herrings commonly recommends bringing the discussion back to the original claim and questioning the relevance of the diversion rather than arguing about the diversion itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cli-kh.com/uploads/files/202505171614526357.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cli-kh.com">[cli-kh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cli-kh.com</span><span class="citation-popover-snippet">Fallacy of red herring examples17 May 2025 — When faced with a red herring, respond by bringing the conversation back to the main issue o...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterRed herring. Definition: Partway through an argument, the arguer goes off on a tangent, r...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lWDABXVMzHA" title="The Red Herring Fallacy: Don’t Get Distracted!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lWDABXVMzHA" target="_blank" rel="noopener noreferrer">The Red Herring Fallacy: Don’t Get Distracted!</a></p><p class="youtube-embed-meta">Channel: Ontology Explained: Philosophy and AI &middot; Views: 193 &middot; Uploaded: November 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lWDABXVMzHA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lWDABXVMzHA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Va6CI87t9rs" title="Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer">Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope</a></p><p class="youtube-embed-meta">Channel: One Minute Economics &middot; Views: 26.9K &middot; Uploaded: April 2019 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Va6CI87t9rs">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Relevance Test for Safety Debates
 
@@ -822,156 +822,156 @@ Red herrings are powerful precisely because they often rely on concerns that rea
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: red herring fallacy  
-   Link: [https://www.scribbr.com/fallacies/red-herring-fallacy/](https://www.scribbr.com/fallacies/red-herring-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrWhat Is a Red Herring Fallacy? | Definition &amp; Examples5 Apr 2023 — A red herring fallacy is an attempt to redirect a conversation...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/red-herring-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Red Herring Fallacy? | Definition &amp; Examples5 Apr 2023 — A red herring fallacy is an attempt to redirect a conversation...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Red herring  
-   Link: [https://en.wikipedia.org/wiki/Red_herring](https://en.wikipedia.org/wiki/Red_herring)  
+   Link: <a href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_herring</a>  
 
 4. <a id="endnote-4"></a>
    Source: libguides.eur.nl  
-   Link: [https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation](https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation)  
+   Link: <a href="https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eur LibGuidesEvaluating information &amp; data: Argumentation26 Mar 2025 — Definition: Partway through an argument, the arguer goes off on a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186](https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StudocuUnderstanding Logical Fallacies - Purdue OWL® ResourcesRed Herring: This is a diversionary tactic that avoids the key issues, ofte...</p></details>
+   Link: <a href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Logical Fallacies - Purdue OWL® ResourcesRed Herring: This is a diversionary tactic that avoids the key issues, ofte...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/](https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, a seemingly solid but ultimately...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: microsoft.com  
    Title: what is a red herring  
-   Link: [https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/what-is-a-red-herring](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/what-is-a-red-herring)  
+   Link: <a href="https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/what-is-a-red-herring" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/what-is-a-red-herring</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>logical fallacy? Definitions and...3 Feb 2023 — A red herring refers to irrelevant information used in an argument or conversation to di...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cli-kh.com  
-   Link: [https://cli-kh.com/uploads/files/202505171614526357.pdf](https://cli-kh.com/uploads/files/202505171614526357.pdf)  
+   Link: <a href="https://cli-kh.com/uploads/files/202505171614526357.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cli-kh.com/uploads/files/202505171614526357.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy of red herring examples17 May 2025 — When faced with a red herring, respond by bringing the conversation back to the main issue o...</p></details>
    Published: May 2025  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesRed herring fallacies · Ad hominem – attacking the arguer instead of the argument. · Appeal to authority (argument fr...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesRed herring fallacies · Ad hominem – attacking the arguer instead of the argument. · [Appeal to authority](&amp;#123;&amp;#123; &#x27;authority/&#x27; | relative_url &amp;#125;&amp;#125;) (argument fr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/row/document/malawi-university-of-business-and-applied-science/social-psychology/fallacies-the-writing-center/146492340](https://www.studocu.com/row/document/malawi-university-of-business-and-applied-science/social-psychology/fallacies-the-writing-center/146492340)  
+   Link: <a href="https://www.studocu.com/row/document/malawi-university-of-business-and-applied-science/social-psychology/fallacies-the-writing-center/146492340" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/row/document/malawi-university-of-business-and-applied-science/social-psychology/fallacies-the-writing-center/146492340</a>  
 
 11. <a id="endnote-11"></a>
    Source: paradisevalley.libguides.com  
    Title: logical fallacies  
-   Link: [https://paradisevalley.libguides.com/cre101-scolaro/logical-fallacies](https://paradisevalley.libguides.com/cre101-scolaro/logical-fallacies)  
+   Link: <a href="https://paradisevalley.libguides.com/cre101-scolaro/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://paradisevalley.libguides.com/cre101-scolaro/logical-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>libguides.comCRE101 - College Critical Reading: Logical FallaciesMar 30, 2026 — Red Herring: This is a diversionary tactic that avoids th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Learning Logic: Red Herring  
-   Link: [https://www.youtube.com/watch?v=48ZndV_mUic](https://www.youtube.com/watch?v=48ZndV_mUic)  
+   Link: <a href="https://www.youtube.com/watch?v=48ZndV_mUic" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=48ZndV_mUic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring - Fallacy Friday...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Red Herring  
-   Link: [https://www.youtube.com/watch?v=1Ff_NkaSszA](https://www.youtube.com/watch?v=1Ff_NkaSszA)  
+   Link: <a href="https://www.youtube.com/watch?v=1Ff_NkaSszA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Ff_NkaSszA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Red Herring Fallacy?...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterRed herring. Definition: Partway through an argument, the arguer goes off on a tangent, r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/](https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue Global Success CenterHow to Support an Argument and Avoid Logical FallaciesIn addition to operating on a sound assumption, to argu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy/Verbal-fallacies](https://www.britannica.com/topic/fallacy/Verbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, Red Herring, Straw Man13 May 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thro...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: mpslakers.com  
    Title: Purdue OWL Establishing Arguments (5)  
-   Link: [https://www.mpslakers.com/wp-content/pages/teacher-websites/StewartHand/Purdue%20OWL-%20Establishing%20Arguments%20%285%29.pdf](https://www.mpslakers.com/wp-content/pages/teacher-websites/StewartHand/Purdue%20OWL-%20Establishing%20Arguments%20%285%29.pdf)  
+   Link: <a href="https://www.mpslakers.com/wp-content/pages/teacher-websites/StewartHand/Purdue%20OWL-%20Establishing%20Arguments%20%285%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mpslakers.com/wp-content/pages/teacher-websites/StewartHand/Purdue%20OWL-%20Establishing%20Arguments%20%285%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL: Establishing ArgumentsMar 11, 2013 — Red Herring: This is a diversionary tactic that avoids the key issues, often by avoiding...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: s3-us-west-2.amazonaws.com  
-   Link: [https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/197/2016/02/20082314/Argument-The-Writing-Center.pdf](https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/197/2016/02/20082314/Argument-The-Writing-Center.pdf)  
+   Link: <a href="https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/197/2016/02/20082314/Argument-The-Writing-Center.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/197/2016/02/20082314/Argument-The-Writing-Center.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterYou may be surprised to hear that the word “argument” does not have to be written anywhere in your assignmen...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: markmanson.net  
-   Link: [https://markmanson.net/logical-fallacies](https://markmanson.net/logical-fallacies)  
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Logical Fallacies That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a person made of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: purchase.edu  
-   Link: [https://www.purchase.edu/live/files/1238-logical-fallaciespdf](https://www.purchase.edu/live/files/1238-logical-fallaciespdf)  
+   Link: <a href="https://www.purchase.edu/live/files/1238-logical-fallaciespdf" target="_blank" rel="noopener noreferrer nofollow">https://www.purchase.edu/live/files/1238-logical-fallaciespdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Purchase CollegeLOGICAL FALLACIESRed Herring: a diversionary tactic that avoids the key issues, often by avoiding opposing arguments. The...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: esgs.free.fr  
-   Link: [https://esgs.free.fr/uk/log06.htm](https://esgs.free.fr/uk/log06.htm)  
+   Link: <a href="https://esgs.free.fr/uk/log06.htm" target="_blank" rel="noopener noreferrer nofollow">https://esgs.free.fr/uk/log06.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ESGS Logical FallaciesThis fallacy is committed when someone introduces irrelevant material to the issue being discussed, so that everyon...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: gpb.org  
-   Link: [https://www.gpb.org/sites/default/files/2020-05/logical_fallacies_powerpoint.pdf](https://www.gpb.org/sites/default/files/2020-05/logical_fallacies_powerpoint.pdf)  
+   Link: <a href="https://www.gpb.org/sites/default/files/2020-05/logical_fallacies_powerpoint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gpb.org/sites/default/files/2020-05/logical_fallacies_powerpoint.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallaciesCommon Logical Fallacies: Ad Hominem Attack. Page 10. Red Herring:A diversionary tactic that avoids the key issue(s), of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Title: fallacy of the day red herringdefinition and explanation the red herring fallacy  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-red-herringdefinition-and-explanation-the-red-herring-fallacy/556297886092495/](https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-red-herringdefinition-and-explanation-the-red-herring-fallacy/556297886092495/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-red-herringdefinition-and-explanation-the-red-herring-fallacy/556297886092495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-red-herringdefinition-and-explanation-the-red-herring-fallacy/556297886092495/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FALLACY OF THE DAY: RED HERRING DEFINITION...FALLACY OF THE DAY: RED HERRING DEFINITION AND EXPLANATION: The red herring fallacy is an a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: quizlet.com  
    Title: Logical Fallacies (The Writing Center, UNC-Chapel Hill)(D) Red Herring  
-   Link: [https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/](https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/)  
+   Link: <a href="https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Partway through an argument, the arguer goes off on a tangent, raising a side issue that distracts the audience from what&#x27;s really at sta...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: learn.rumie.org  
    Title: tired of debating logical fallacies here s how to counter them smartly  
-   Link: [https://learn.rumie.org/jR/bytes/tired-of-debating-logical-fallacies-here-s-how-to-counter-them-smartly/](https://learn.rumie.org/jR/bytes/tired-of-debating-logical-fallacies-here-s-how-to-counter-them-smartly/)  
+   Link: <a href="https://learn.rumie.org/jR/bytes/tired-of-debating-logical-fallacies-here-s-how-to-counter-them-smartly/" target="_blank" rel="noopener noreferrer nofollow">https://learn.rumie.org/jR/bytes/tired-of-debating-logical-fallacies-here-s-how-to-counter-them-smartly/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ways to Counter Logical Fallacies - Rumie - Learning!According to Purdue OWL, logical fallacies weaken an argument through distraction, m...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: trinka.ai  
    Title: red herring fallacy understanding the deceptive diversion in arguments  
-   Link: [https://www.trinka.ai/blog/red-herring-fallacy-understanding-the-deceptive-diversion-in-arguments/](https://www.trinka.ai/blog/red-herring-fallacy-understanding-the-deceptive-diversion-in-arguments/)  
+   Link: <a href="https://www.trinka.ai/blog/red-herring-fallacy-understanding-the-deceptive-diversion-in-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://www.trinka.ai/blog/red-herring-fallacy-understanding-the-deceptive-diversion-in-arguments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring Fallacy: Understanding the Deceptive...15 Jun 2024 — A red herring fallacy is the tactic in which the arguer distracts from...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: onenewsstvincent.com  
    Title: 10 fallacies that can turn svgs political discussions wild 2  
-   Link: [https://onenewsstvincent.com/2020/09/20/10-fallacies-that-can-turn-svgs-political-discussions-wild-2/](https://onenewsstvincent.com/2020/09/20/10-fallacies-that-can-turn-svgs-political-discussions-wild-2/)  
+   Link: <a href="https://onenewsstvincent.com/2020/09/20/10-fallacies-that-can-turn-svgs-political-discussions-wild-2/" target="_blank" rel="noopener noreferrer nofollow">https://onenewsstvincent.com/2020/09/20/10-fallacies-that-can-turn-svgs-political-discussions-wild-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing arguments rather than addressing them.R...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: ijcar.net  
-   Link: [https://ijcar.net/assets/pdf/Vol9-No6-June2022/2.-Red-Herring-and-Straw-Man-Fallacies-in-Debates.pdf](https://ijcar.net/assets/pdf/Vol9-No6-June2022/2.-Red-Herring-and-Straw-Man-Fallacies-in-Debates.pdf)  
+   Link: <a href="https://ijcar.net/assets/pdf/Vol9-No6-June2022/2.-Red-Herring-and-Straw-Man-Fallacies-in-Debates.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijcar.net/assets/pdf/Vol9-No6-June2022/2.-Red-Herring-and-Straw-Man-Fallacies-in-Debates.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red herring fallacy is related to distracting or missing the point by focusing...Read more...</p></details>

@@ -293,7 +293,7 @@ Many public discussions treat phone bans as though they have already been proven
 
 The strongest recent school-based studies generally compare pupils attending schools with different phone policies. These studies can show whether students in restrictive environments report better wellbeing, lower anxiety or improved sleep than students elsewhere. So far, the results have been modest or absent rather than dramatic. The 2025 Lancet Regional Health–Europe study found no evidence that restrictive policies were associated with better mental wellbeing, lower anxiety or lower depression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">The LancetSchool phone policies and their association with mental...by VA Goodyear · 2025 · Cited by 66 — There is no evidence that rest...</span></span></span>
 
-Researchers and policy analysts have repeatedly noted that proving mental-health effects is difficult because adolescent wellbeing is influenced by many factors simultaneously: family circumstances, friendships, sleep patterns, economic pressures, academic stress, offline social life and wider digital behaviour. A school policy can influence one part of that environment, but isolating its independent effect is challenging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/390/bmj.r1729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">BMJWhat is the evidence for school smartphone bans?by C Stokel-Walker · 2025 — Campbell says that Twenge&#x27;s work correctly drew a correlat...</span></span></span>
+Researchers and policy analysts have repeatedly noted that proving mental-health effects is difficult because adolescent wellbeing is influenced by many factors simultaneously: family circumstances, friendships, sleep patterns, economic pressures, academic stress, offline social life and wider digital behaviour. A school policy can influence one part of that environment, but isolating its independent effect is challenging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/390/bmj.r1729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">What is the evidence for school smartphone bans?by C Stokel-Walker · 2025 — Campbell says that Twenge&#x27;s work correctly drew a correlat...</span></span></span>
 
 This does not mean restrictions are ineffective in every respect. Schools may [experience]({{ 'experience/' | relative_url }}) fewer classroom distractions, easier lesson management or different patterns of pupil behaviour. However, evidence for those outcomes should not be confused with evidence for broad mental-health improvement. A policy can succeed on one measure while failing to show measurable effects on another. BMJ <span class="citation-chip-wrap"><a class="citation-chip" href="https://mentalhealth.bmj.com/content/29/1/e301892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealth.bmj.com">[BMJ Mental Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealth.bmj.com</span><span class="citation-popover-snippet">economics analysis of restrictive school smartphone...by SJ Perry · 2026 — This study found there were negligible differences in quality...</span></span></span>
 
@@ -766,175 +766,175 @@ Within the broader debate about school phone policies and false choices, this di
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11850730/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11850730/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11850730/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11850730/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>use and mental health: going beyond school...by HA Weiss · 2025 · Cited by 11 — The study found no evidence that school phone policies w...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/390/bmj.r1729](https://www.bmj.com/content/390/bmj.r1729)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJWhat is the evidence for school smartphone bans?by C Stokel-Walker · 2025 — Campbell says that Twenge&#x27;s work correctly drew a correlat...</p></details>
+   Link: <a href="https://www.bmj.com/content/390/bmj.r1729" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/390/bmj.r1729</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the evidence for school smartphone bans?by C Stokel-Walker · 2025 — Campbell says that Twenge&#x27;s work correctly drew a correlat...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bmjgroup.com  
-   Link: [https://bmjgroup.com/school-restrictive-smartphone-policies-may-save-a-small-amount-of-money-by-reducing-staff-costs/](https://bmjgroup.com/school-restrictive-smartphone-policies-may-save-a-small-amount-of-money-by-reducing-staff-costs/)  
+   Link: <a href="https://bmjgroup.com/school-restrictive-smartphone-policies-may-save-a-small-amount-of-money-by-reducing-staff-costs/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/school-restrictive-smartphone-policies-may-save-a-small-amount-of-money-by-reducing-staff-costs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJSchool restrictive smartphone policies may save a small...10 Feb 2026 — School restrictive smartphone policies may save a small amoun...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: mentalhealth.bmj.com  
-   Link: [https://mentalhealth.bmj.com/content/29/1/e301892](https://mentalhealth.bmj.com/content/29/1/e301892)  
+   Link: <a href="https://mentalhealth.bmj.com/content/29/1/e301892" target="_blank" rel="noopener noreferrer nofollow">https://mentalhealth.bmj.com/content/29/1/e301892</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>economics analysis of restrictive school smartphone...by SJ Perry · 2026 — This study found there were negligible differences in quality...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/390/bmj.r1729.long](https://www.bmj.com/content/390/bmj.r1729.long)  
+   Link: <a href="https://www.bmj.com/content/390/bmj.r1729.long" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/390/bmj.r1729.long</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the evidence for school smartphone bans?by C Stokel-Walker · 2025 · Cited by 1 — Campbell says that Twenge&#x27;s work correctly drew...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mentalhealth.bmj.com  
-   Link: [https://mentalhealth.bmj.com/content/ebmental/29/1/e301892.full.pdf](https://mentalhealth.bmj.com/content/ebmental/29/1/e301892.full.pdf)  
+   Link: <a href="https://mentalhealth.bmj.com/content/ebmental/29/1/e301892.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mentalhealth.bmj.com/content/ebmental/29/1/e301892.full.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We analysed the implementation of school policies in a carefully...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/13/7/e075832](https://bmjopen.bmj.com/content/13/7/e075832)  
+   Link: <a href="https://bmjopen.bmj.com/content/13/7/e075832" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/13/7/e075832</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of school policies Restricting dayTime use—...by G Wood · 2023 · Cited by 30 — The SMART Schools Study aims to determine the impa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/388/bmj-2024-082569/rr-3](https://www.bmj.com/content/388/bmj-2024-082569/rr-3)  
+   Link: <a href="https://www.bmj.com/content/388/bmj-2024-082569/rr-3" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/388/bmj-2024-082569/rr-3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Approaches to children&#x27;s smartphone and [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) use...27 Mar 2025 — The commonly reported health benefits of social media are acces...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/389/bmj.r993](https://www.bmj.com/content/389/bmj.r993)  
+   Link: <a href="https://www.bmj.com/content/389/bmj.r993" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/389/bmj.r993</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphones and children: teenage mental health is...by GW Dawnay · 2025 — Long term use of social media can lead to social deprivation...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bmjpublichealth.bmj.com  
-   Link: [https://bmjpublichealth.bmj.com/content/3/1/e001150](https://bmjpublichealth.bmj.com/content/3/1/e001150)  
+   Link: <a href="https://bmjpublichealth.bmj.com/content/3/1/e001150" target="_blank" rel="noopener noreferrer nofollow">https://bmjpublichealth.bmj.com/content/3/1/e001150</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of digital screen use during recess with...by A Grøntved · 2025 — In our study sample, this difference translates to an estimated 9.8 ad...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/389/bmj.r964](https://www.bmj.com/content/389/bmj.r964)  
+   Link: <a href="https://www.bmj.com/content/389/bmj.r964" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/389/bmj.r964</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphones and children: algorithm driven social media...by MA Sadlier · 2025 — Smartphones and children: algorithm driven social media...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/392/bmj.s147/rr](https://www.bmj.com/content/392/bmj.s147/rr)  
+   Link: <a href="https://www.bmj.com/content/392/bmj.s147/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/392/bmj.s147/rr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Banning Social Media the Right Response to...22 Jan 2026 — Dear Editor: The recent House of Lords vote in support of an amendment to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/388/bmj-2024-082569/rr-1](https://www.bmj.com/content/388/bmj-2024-082569/rr-1)  
+   Link: <a href="https://www.bmj.com/content/388/bmj-2024-082569/rr-1" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/388/bmj-2024-082569/rr-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the latest study, this is expanded and in addition bans and age restrictions are just “stop gaps”.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thelancet.com  
-   Link: [https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext)  
+   Link: <a href="https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LancetSchool phone policies and their [association](&amp;#123;&amp;#123; &#x27;association/&#x27; | relative_url &amp;#125;&amp;#125;) with mental...by VA Goodyear · 2025 · Cited by 66 — There is no evidence that rest...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: birmingham.ac.uk  
-   Link: [https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use](https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use)  
+   Link: <a href="https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use" target="_blank" rel="noopener noreferrer nofollow">https://www.birmingham.ac.uk/news/2025/school-bans-alone-not-enough-to-tackle-negative-impacts-of-phone-and-social-media-use</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BirminghamSchool bans alone not enough to tackle negative impacts...5 Feb 2025 — First study of its kind finds that restri...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: birmingham.ac.uk  
    Title: University of Birmingham A global ban on smartphones in schools  
-   Link: [https://www.birmingham.ac.uk/news/2023/a-global-ban-on-smartphones-in-schools-do-we-need-more-evidence-1](https://www.birmingham.ac.uk/news/2023/a-global-ban-on-smartphones-in-schools-do-we-need-more-evidence-1)  
+   Link: <a href="https://www.birmingham.ac.uk/news/2023/a-global-ban-on-smartphones-in-schools-do-we-need-more-evidence-1" target="_blank" rel="noopener noreferrer nofollow">https://www.birmingham.ac.uk/news/2023/a-global-ban-on-smartphones-in-schools-do-we-need-more-evidence-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BirminghamA global ban on smartphones in schools - do we need...Jul 26, 2023 — UNESCO argue that banning technology from s...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/education/2025/feb/05/school-ban-phones-not-improve-grades-health-uk-study](https://www.theguardian.com/education/2025/feb/05/school-ban-phones-not-improve-grades-health-uk-study)  
+   Link: <a href="https://www.theguardian.com/education/2025/feb/05/school-ban-phones-not-improve-grades-health-uk-study" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2025/feb/05/school-ban-phones-not-improve-grades-health-uk-study</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It found excessive phone and social media use linked to lower grades, poor sleep, disruptive behavior, and lack of exercise. These negati...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/school-curbs-on-phones-do-not-improve-childrens-mental-health-lljqc73zp](https://www.thetimes.co.uk/article/school-curbs-on-phones-do-not-improve-childrens-mental-health-lljqc73zp)  
+   Link: <a href="https://www.thetimes.co.uk/article/school-curbs-on-phones-do-not-improve-childrens-mental-health-lljqc73zp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/school-curbs-on-phones-do-not-improve-childrens-mental-health-lljqc73zp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Schools with phone restrictions did not show better mental health outcomes or academic performance compared to those with more permissive...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/](https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/)  
+   Link: <a href="https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/education/2026/05/04/cell-phone-bans-impact-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers from institutions like Stanford and Duke concluded that such bans lead to negligible changes in [test scores](&amp;#123;&amp;#123; &#x27;test-scores/&#x27; | relative_url &amp;#125;&amp;#125;) and attendance. W...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/[politics](https://www.theguardian.com/[politics)  
+   Link: <a href="https://www.theguardian.com/[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/[politics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>study by researchers from universities including Stanford and Duke challenges the effectiveness of strict mobile phone bans in schools, f...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/school-cell-phone-bans-may-boost-student-well-being-but-not-test-scores-new-study-suggests/](https://www.scientificamerican.com/article/school-cell-phone-bans-may-boost-student-well-being-but-not-test-scores-new-study-suggests/)  
+   Link: <a href="https://www.scientificamerican.com/article/school-cell-phone-bans-may-boost-student-well-being-but-not-test-scores-new-study-suggests/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/school-cell-phone-bans-may-boost-student-well-being-but-not-test-scores-new-study-suggests/</a>  
 
 22. <a id="endnote-22"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages](https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages)  
+   Link: <a href="https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/gem-report/en/articles/phone-bans-schools-are-spreading-worldwide-policy-debate-rages</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phone bans in schools are spreading worldwide as the...Mar 19, 2026 — Governments increasingly see smartphones as a source of classroom...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: unesco.org  
    Title: smartphones school only when they clearly support learning  
-   Link: [https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning](https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning)  
+   Link: <a href="https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To ban or not to ban?Jan 24, 2025 — The 2023 Global Education Monitoring Report argued for technology to be used in class only when it su...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
    Title: put learners first unesco calls for global ban on smartphones in schools  
-   Link: [https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools](https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools)  
+   Link: <a href="https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/26/put-learners-first-unesco-calls-for-global-ban-on-smartphones-in-schools</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Put learners first&#x27;: Unesco calls for global ban on...26 Jul 2023 — Smartphones should be banned from schools to tackle classroom disru...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: sfgate.com  
-   Link: [https://www.sfgate.com/bayarea/article/school-cellphone-bans-study-22248101.php](https://www.sfgate.com/bayarea/article/school-cellphone-bans-study-22248101.php)  
+   Link: <a href="https://www.sfgate.com/bayarea/article/school-cellphone-bans-study-22248101.php" target="_blank" rel="noopener noreferrer nofollow">https://www.sfgate.com/bayarea/article/school-cellphone-bans-study-22248101.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The study tracked 43,000 students across schools using Yondr, a company that makes pouches to lock phones during school hours. While in-c...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: committees.parliament.uk  
-   Link: [https://committees.parliament.uk/writtenevidence/126114/html/](https://committees.parliament.uk/writtenevidence/126114/html/)  
+   Link: <a href="https://committees.parliament.uk/writtenevidence/126114/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/126114/html/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>use of cookiesTwo studies (one in UK and one in Spain) found that school bans of mobile phones are associated with improved grades (Belan...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ehtrust.org  
-   Link: [https://ehtrust.org/united-nations-report-little-evidence-that-digital-technology-supports-education-and-excessive-screentime-is-harmful-to-children/](https://ehtrust.org/united-nations-report-little-evidence-that-digital-technology-supports-education-and-excessive-screentime-is-harmful-to-children/)  
+   Link: <a href="https://ehtrust.org/united-nations-report-little-evidence-that-digital-technology-supports-education-and-excessive-screentime-is-harmful-to-children/" target="_blank" rel="noopener noreferrer nofollow">https://ehtrust.org/united-nations-report-little-evidence-that-digital-technology-supports-education-and-excessive-screentime-is-harmful-to-children/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations Report: Little Evidence That Digital...Jul 30, 2023 — There was scientific evidence that excessive mobile phone use was l...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: policyexchange.org.uk  
-   Link: [https://policyexchange.org.uk/publication/disconnect/](https://policyexchange.org.uk/publication/disconnect/)  
+   Link: <a href="https://policyexchange.org.uk/publication/disconnect/" target="_blank" rel="noopener noreferrer nofollow">https://policyexchange.org.uk/publication/disconnect/</a>  
 
 29. <a id="endnote-29"></a>
    Source: pure-oai.bham.ac.uk  
-   Link: [https://pure-oai.bham.ac.uk/ws/files/263439199/ANALYSIS_ARTICLE_V3_TO_SUBMIT_CLEAN.pdf](https://pure-oai.bham.ac.uk/ws/files/263439199/ANALYSIS_ARTICLE_V3_TO_SUBMIT_CLEAN.pdf)  
+   Link: <a href="https://pure-oai.bham.ac.uk/ws/files/263439199/ANALYSIS_ARTICLE_V3_TO_SUBMIT_CLEAN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure-oai.bham.ac.uk/ws/files/263439199/ANALYSIS_ARTICLE_V3_TO_SUBMIT_CLEAN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to children&#x27;s smartphone and social media use...by VA Goodyear · 2025 · Cited by 27 — School phone policies and their association with m...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: publications.iadb.org  
    Title: Mobile Devices and Childrens Development The Case for School Restrictions  
-   Link: [https://publications.iadb.org/publications/english/document/Mobile-Devices-and-Childrens-Development-The-Case-for-School-Restrictions.pdf](https://publications.iadb.org/publications/english/document/Mobile-Devices-and-Childrens-Development-The-Case-for-School-Restrictions.pdf)  
+   Link: <a href="https://publications.iadb.org/publications/english/document/Mobile-Devices-and-Childrens-Development-The-Case-for-School-Restrictions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.iadb.org/publications/english/document/Mobile-Devices-and-Childrens-Development-The-Case-for-School-Restrictions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Devices and Children&#x27;s Development: - The Case for...by T Rau · 2025 — With respect to mental health outcomes, the evidence is similarly...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_azuUR8Lk40](https://www.youtube.com/watch?v=_azuUR8Lk40)  
+   Link: <a href="https://www.youtube.com/watch?v=_azuUR8Lk40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_azuUR8Lk40</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Calls For Smartphone Ban In Schools | A Global...UNESCO has recently urged all schools worldwide to ban the use of smartphones to...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: brainfacts.org  
    Title: why are some uk schools banning smartphones in the classroom 010825  
-   Link: [https://www.brainfacts.org/thinking-sensing-and-behaving/childhood-and-adolescence/2025/why-are-some-uk-schools-banning-smartphones-in-the-classroom-010825](https://www.brainfacts.org/thinking-sensing-and-behaving/childhood-and-adolescence/2025/why-are-some-uk-schools-banning-smartphones-in-the-classroom-010825)  
+   Link: <a href="https://www.brainfacts.org/thinking-sensing-and-behaving/childhood-and-adolescence/2025/why-are-some-uk-schools-banning-smartphones-in-the-classroom-010825" target="_blank" rel="noopener noreferrer nofollow">https://www.brainfacts.org/thinking-sensing-and-behaving/childhood-and-adolescence/2025/why-are-some-uk-schools-banning-smartphones-in-the-classroom-010825</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Are Some U.K. Schools Banning Smartphones in the...8 Jan 2025 — The science driving these bans suggests excessive smartphone and int...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nationalelfservice.net  
-   Link: [https://www.nationalelfservice.net/treatment/digital-health/smartphone-bans-schools-not-associated-better-mental-wellbeing/](https://www.nationalelfservice.net/treatment/digital-health/smartphone-bans-schools-not-associated-better-mental-wellbeing/)  
+   Link: <a href="https://www.nationalelfservice.net/treatment/digital-health/smartphone-bans-schools-not-associated-better-mental-wellbeing/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalelfservice.net/treatment/digital-health/smartphone-bans-schools-not-associated-better-mental-wellbeing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>olicies that prohibit phone use as effective measures to improve adolescents&#x27; mental...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: bmjgroup.com  
-   Link: [https://bmjgroup.com/smartphone-bans-alone-fail-to-equip-children-for-healthy-use-of-technology/](https://bmjgroup.com/smartphone-bans-alone-fail-to-equip-children-for-healthy-use-of-technology/)  
+   Link: <a href="https://bmjgroup.com/smartphone-bans-alone-fail-to-equip-children-for-healthy-use-of-technology/" target="_blank" rel="noopener noreferrer nofollow">https://bmjgroup.com/smartphone-bans-alone-fail-to-equip-children-for-healthy-use-of-technology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>healthy use of technology, argues a group of international experts in The BMJ today...Read more...</p></details>

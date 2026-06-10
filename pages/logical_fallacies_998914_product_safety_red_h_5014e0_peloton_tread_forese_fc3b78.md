@@ -268,13 +268,13 @@ image: /assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_pelot
 
 ## Introduction
 
-The Peloton Tread+ controversy is a useful case study in how a safety [debate]({{ 'debate/' | relative_url }}) can drift from the central question. The key issue was not whether users had been told to keep children and pets away from the machine. It was whether a treadmill designed for home use should be expected to encounter children, pets, toys, distractions, and other ordinary household conditions—and whether its design adequately accounted for those foreseeable realities. When the U.S. Consumer Product Safety Commission (CPSC) warned that people could be pulled beneath the rear of the machine, Peloton initially responded by emphasising warnings, supervision, and proper operation. That response raised a broader question relevant to [logical fallacies]({{ 'logical-fallacies/' | relative_url }}): does pointing to correct user behaviour answer concerns about a product hazard that may arise during normal, predictable home use? <span class="citation-chip-wrap"><a class="citation-chip" href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.onepeloton.com">[Peloton Interactive, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.onepeloton.com</span><span class="citation-popover-title">peloton refutes consumer product safety commission claims</span><span class="citation-popover-snippet">Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[Consumer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Peloton Tread Treadmill Safety Incident</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Tread+ Treadmill Safety Incident | CPSC.govApril 17, 2021. UPDATE: Peloton Recalls Tread+ Tread...</span><span class="citation-popover-meta">Published: April 17, 2021</span></span></span>
+The Peloton Tread+ controversy is a useful case study in how a safety [debate]({{ 'debate/' | relative_url }}) can drift from the central question. The key issue was not whether users had been told to keep children and pets away from the machine. It was whether a treadmill designed for home use should be expected to encounter children, pets, toys, distractions, and other ordinary household conditions—and whether its design adequately accounted for those foreseeable realities. When the U.S. Consumer Product Safety Commission (CPSC) warned that people could be pulled beneath the rear of the machine, Peloton initially responded by emphasising warnings, supervision, and proper operation. That response raised a broader question relevant to [logical fallacies]({{ 'logical-fallacies/' | relative_url }}): does pointing to correct user behaviour answer concerns about a product hazard that may arise during normal, predictable home use? <span class="citation-chip-wrap"><a class="citation-chip" href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.onepeloton.com">[Peloton Interactive, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.onepeloton.com</span><span class="citation-popover-title">peloton refutes consumer product safety commission claims</span><span class="citation-popover-snippet">Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[Consumer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Peloton Tread Treadmill Safety Incident</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Tread+ Treadmill Safety Incident &#124; CPSC.govApril 17, 2021. UPDATE: Peloton Recalls Tread+ Tread...</span><span class="citation-popover-meta">Published: April 17, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_peloton_tread_forese_fc3b78-Illustration-1-dark.svg" | relative_url }}" alt="Tread Case illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_peloton_tread_forese_fc3b78-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_peloton_tread_forese_fc3b78-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did Warnings Answer the Tread+ Risk?
 
-In April 2021, the CPSC issued an unusual public warning urging consumers with small children or pets to stop using the Tread+ immediately. The agency cited a child's death and dozens of reported incidents involving children, pets, adults, and objects being pulled under the rear of the treadmill. The regulator concluded that the product posed serious risks of abrasions, fractures, and death. <span class="citation-chip-wrap"><a class="citation-chip" href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.onepeloton.com">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.onepeloton.com</span><span class="citation-popover-title">peloton refutes consumer product safety commission claims</span><span class="citation-popover-snippet">Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</span></span></span>. Consumer Product Safety Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2021/04/17/us-peloton-tread-stop-treadmill-child-death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us peloton tread stop treadmill child death</span><span class="citation-popover-snippet">regulator warns against Peloton treadmill after child deathThe U.S. Consumer Product Safety Commission (CPSC) issued an urgent warning on...</span></span></span> Peloton initially disputed the warning. The company argued that the Tread+ was safe when used according to its instructions and reminded owners that children under 16 should never use the machine and that children, pets, and objects should be kept away from it at all times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.onepeloton.com">[Peloton Interactive, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.onepeloton.com</span><span class="citation-popover-title">peloton refutes consumer product safety commission claims</span><span class="citation-popover-snippet">Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[Consumer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Peloton Tread Treadmill Safety Incident</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Tread+ Treadmill Safety Incident | CPSC.govApril 17, 2021. UPDATE: Peloton Recalls Tread+ Tread...</span><span class="citation-popover-meta">Published: April 17, 2021</span></span></span>
+In April 2021, the CPSC issued an unusual public warning urging consumers with small children or pets to stop using the Tread+ immediately. The agency cited a child's death and dozens of reported incidents involving children, pets, adults, and objects being pulled under the rear of the treadmill. The regulator concluded that the product posed serious risks of abrasions, fractures, and death. <span class="citation-chip-wrap"><a class="citation-chip" href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.onepeloton.com">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.onepeloton.com</span><span class="citation-popover-title">peloton refutes consumer product safety commission claims</span><span class="citation-popover-snippet">Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</span></span></span>. Consumer Product Safety Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2021/04/17/us-peloton-tread-stop-treadmill-child-death" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">us peloton tread stop treadmill child death</span><span class="citation-popover-snippet">regulator warns against Peloton treadmill after child deathThe U.S. Consumer Product Safety Commission (CPSC) issued an urgent warning on...</span></span></span> Peloton initially disputed the warning. The company argued that the Tread+ was safe when used according to its instructions and reminded owners that children under 16 should never use the machine and that children, pets, and objects should be kept away from it at all times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.onepeloton.com">[Peloton Interactive, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.onepeloton.com</span><span class="citation-popover-title">peloton refutes consumer product safety commission claims</span><span class="citation-popover-snippet">Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[Consumer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Peloton Tread Treadmill Safety Incident</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Tread+ Treadmill Safety Incident &#124; CPSC.govApril 17, 2021. UPDATE: Peloton Recalls Tread+ Tread...</span><span class="citation-popover-meta">Published: April 17, 2021</span></span></span>
 
 Viewed narrowly, that statement was relevant. Warnings are part of product safety. However, the dispute was not simply about whether users had been warned. The CPSC's concern was that serious injuries were occurring despite the existence of those warnings. The question therefore became whether warnings alone were an adequate response to a hazard that appeared in real homes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.onepeloton.com">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.onepeloton.com</span><span class="citation-popover-title">peloton refutes consumer product safety commission claims</span><span class="citation-popover-snippet">Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</span></span></span>. Consumer Product Safety Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/peloton-treadmill-recall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[2U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The US Consumer Product Safety Commission (CPSC) has also issued a separate recall and advised consumers to stop using them immediately...</span></span></span>
 
@@ -298,7 +298,7 @@ As a result, the debate shifted from simple compliance with instructions to a mo
 
 ## How User-Misuse Framing Narrowed the Issue
 
-One way to understand the disagreement is through the concept of user-misuse framing. This framing emphasises the actions users should have taken: keep children away, remove the safety key, supervise the area, follow instructions, and maintain a dedicated exercise space. Peloton's early public statements largely reflected this perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.onepeloton.com">[Peloton Interactive, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.onepeloton.com</span><span class="citation-popover-title">peloton refutes consumer product safety commission claims</span><span class="citation-popover-snippet">Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[Consumer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Peloton Tread Treadmill Safety Incident</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Tread+ Treadmill Safety Incident | CPSC.govApril 17, 2021. UPDATE: Peloton Recalls Tread+ Tread...</span><span class="citation-popover-meta">Published: April 17, 2021</span></span></span>
+One way to understand the disagreement is through the concept of user-misuse framing. This framing emphasises the actions users should have taken: keep children away, remove the safety key, supervise the area, follow instructions, and maintain a dedicated exercise space. Peloton's early public statements largely reflected this perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investor.onepeloton.com">[Peloton Interactive, Inc.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investor.onepeloton.com</span><span class="citation-popover-title">peloton refutes consumer product safety commission claims</span><span class="citation-popover-snippet">Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[Consumer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-title">Peloton Tread Treadmill Safety Incident</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Tread+ Treadmill Safety Incident &#124; CPSC.govApril 17, 2021. UPDATE: Peloton Recalls Tread+ Tread...</span><span class="citation-popover-meta">Published: April 17, 2021</span></span></span>
 
 The limitation of this framing is that it can implicitly redefine the problem. Instead of asking whether the product creates an unacceptable risk under foreseeable conditions, the discussion becomes whether injured users perfectly followed every instruction.
 
@@ -769,106 +769,106 @@ In the Tread+ case, the central safety challenge was that the product was intend
 1. <a id="endnote-1"></a>
    Source: axios.com  
    Title: us peloton tread stop treadmill child death  
-   Link: [https://www.axios.com/2021/04/17/us-peloton-tread-stop-treadmill-child-death](https://www.axios.com/2021/04/17/us-peloton-tread-stop-treadmill-child-death)  
+   Link: <a href="https://www.axios.com/2021/04/17/us-peloton-tread-stop-treadmill-child-death" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2021/04/17/us-peloton-tread-stop-treadmill-child-death</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>regulator warns against Peloton treadmill after child deathThe U.S. Consumer Product Safety Commission (CPSC) issued an urgent warning on...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cpsc.gov  
    Title: Peloton Tread Treadmill Safety Incident  
-   Link: [https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident](https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/Video/Peloton-Tread-Treadmill-Safety-Incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionPeloton Tread+ Treadmill Safety Incident | CPSC.govApril 17, 2021. UPDATE: Peloton Recalls Tread+ Tread...</p></details>
    Published: April 17, 2021  
 
 3. <a id="endnote-3"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Newsroom/News-Releases/2021/CPSC-and-Peloton-Announce-Recall-of-Tread-Plus-Treadmills-After-One-Child-Death-and-70-Incidents-Recall-of-Tread-Treadmills-Due-to-Risk-of-Injury](https://www.cpsc.gov/Newsroom/News-Releases/2021/CPSC-and-Peloton-Announce-Recall-of-Tread-Plus-Treadmills-After-One-Child-Death-and-70-Incidents-Recall-of-Tread-Treadmills-Due-to-Risk-of-Injury)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2021/CPSC-and-Peloton-Announce-Recall-of-Tread-Plus-Treadmills-After-One-Child-Death-and-70-Incidents-Recall-of-Tread-Treadmills-Due-to-Risk-of-Injury" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2021/CPSC-and-Peloton-Announce-Recall-of-Tread-Plus-Treadmills-After-One-Child-Death-and-70-Incidents-Recall-of-Tread-Treadmills-Due-to-Risk-of-Injury</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionCPSC and Peloton Announce: Recall of Tread+ Treadmills...5 May 2021 — CPSC and Peloton Announce: Recal...</p></details>
    Published: May 2021  
 
 4. <a id="endnote-4"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/peloton-treadmill-recall](https://www.wired.com/story/peloton-treadmill-recall)  
+   Link: <a href="https://www.wired.com/story/peloton-treadmill-recall" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/peloton-treadmill-recall</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Consumer Product Safety Commission (CPSC) has also issued a separate recall and advised consumers to stop using them immediately...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/](https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookStop Using the Peloton Tread+ Urgent Warning Comes...Adult users, children, pets and objects can be pulled underneath the rear o...</p></details>
+   Link: <a href="https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USCPSC/posts/stop-using-the-peloton-treadurgent-warning-comes-after-agency-finds-one-death-an/10160739124512835/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Using the Peloton Tread+ Urgent Warning Comes...Adult users, children, pets and objects can be pulled underneath the rear o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-[Repair](https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-[Repair)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-[Repair" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Tread-Rear-Guard-[Repair</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionPeloton Tread+ Rear Guard Repair ApprovedMay 18, 2023 — On May 5, 2021, CPSC and Peloton announced the...</p></details>
    Published: May 18, 2023  
 
 7. <a id="endnote-7"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Extends-Full-Refund-for-Consumers-with-the-Recalled-Tread-Treadmill-to-November-6-2023](https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Extends-Full-Refund-for-Consumers-with-the-Recalled-Tread-Treadmill-to-November-6-2023)  
+   Link: <a href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Extends-Full-Refund-for-Consumers-with-the-Recalled-Tread-Treadmill-to-November-6-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Extends-Full-Refund-for-Consumers-with-the-Recalled-Tread-Treadmill-to-November-6-2023</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Product Safety CommissionPeloton Extends Full Refund for Consumers with the...6 Nov 2023 — Peloton Interactive Inc. has agreed...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: glamour.com  
-   Link: [https://www.glamour.com/story/peloton-is-recalling-its-treadmills-due-to-safety-concerns](https://www.glamour.com/story/peloton-is-recalling-its-treadmills-due-to-safety-concerns)  
+   Link: <a href="https://www.glamour.com/story/peloton-is-recalling-its-treadmills-due-to-safety-concerns" target="_blank" rel="noopener noreferrer nofollow">https://www.glamour.com/story/peloton-is-recalling-its-treadmills-due-to-safety-concerns</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Customers are advised to immediately unplug their machines and will be provided with a full refund. This recall comes after a CPSC warnin...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cpsc.gov  
-   Link: [https://www.cpsc.gov/Recalls/2021/Peloton-Recalls-Tread-Treadmills-Due-to-Risk-of-Injury](https://www.cpsc.gov/Recalls/2021/Peloton-Recalls-Tread-Treadmills-Due-to-Risk-of-Injury)  
+   Link: <a href="https://www.cpsc.gov/Recalls/2021/Peloton-Recalls-Tread-Treadmills-Due-to-Risk-of-Injury" target="_blank" rel="noopener noreferrer nofollow">https://www.cpsc.gov/Recalls/2021/Peloton-Recalls-Tread-Treadmills-Due-to-Risk-of-Injury</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peloton Recalls Tread Treadmills Due to Risk of InjuryPLEASE NOTE: This product is different than the Peloton Tread+ that was also recall...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AARP/posts/after-multiple-reports-of-injuries-to-small-children-and-a-pet-the-consumer-prod/10159498940828960/](https://www.facebook.com/AARP/posts/after-multiple-reports-of-injuries-to-small-children-and-a-pet-the-consumer-prod/10159498940828960/)  
+   Link: <a href="https://www.facebook.com/AARP/posts/after-multiple-reports-of-injuries-to-small-children-and-a-pet-the-consumer-prod/10159498940828960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AARP/posts/after-multiple-reports-of-injuries-to-small-children-and-a-pet-the-consumer-prod/10159498940828960/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It also can be turned off when not in use by a switch underneath the...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/onepeloton/posts/safety-notice-peloton-and-the-us-consumer-product-safety-commission-cpsc-are-ann/4002912629801518/](https://www.facebook.com/onepeloton/posts/safety-notice-peloton-and-the-us-consumer-product-safety-commission-cpsc-are-ann/4002912629801518/)  
+   Link: <a href="https://www.facebook.com/onepeloton/posts/safety-notice-peloton-and-the-us-consumer-product-safety-commission-cpsc-are-ann/4002912629801518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/onepeloton/posts/safety-notice-peloton-and-the-us-consumer-product-safety-commission-cpsc-are-ann/4002912629801518/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1. Details...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/kplc7news/posts/peloton-issued-a-warning-to-the-owners-of-its-tread-treadmills-saying-children-s/10159710347042792/](https://www.facebook.com/kplc7news/posts/peloton-issued-a-warning-to-the-owners-of-its-tread-treadmills-saying-children-s/10159710347042792/)  
+   Link: <a href="https://www.facebook.com/kplc7news/posts/peloton-issued-a-warning-to-the-owners-of-its-tread-treadmills-saying-children-s/10159710347042792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kplc7news/posts/peloton-issued-a-warning-to-the-owners-of-its-tread-treadmills-saying-children-s/10159710347042792/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hildren or pets, but Peloton rejected the warning and asserted...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: investor.onepeloton.com  
    Title: peloton refutes consumer product safety commission claims  
-   Link: [https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/](https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/)  
+   Link: <a href="https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/" target="_blank" rel="noopener noreferrer nofollow">https://investor.onepeloton.com/news-releases/news-release-details/peloton-refutes-consumer-product-safety-commission-claims/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Peloton Interactive, Inc.Peloton Refutes Consumer Product Safety Commission...17 Apr 2021 — Children under 16 should never use the Tread...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: consumerreports.org  
    Title: Consumer Reports Urgent Safety Warning Issued for Peloton Tread+ Treadmill  
-   Link: [https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/](https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/)  
+   Link: <a href="https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/product-safety/peloton-plus-tread-treadmill-urgent-safety-warning-cpsc-a4883290267/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer ReportsUrgent Safety Warning Issued for Peloton Tread+ TreadmillMay 5, 2021 — As a reminder, the Tread+ is not for children unde...</p></details>
    Published: May 5, 2021  
 
 15. <a id="endnote-15"></a>
    Source: consumernotice.org  
-   Link: [https://www.consumernotice.org/products/peloton-treadmill/](https://www.consumernotice.org/products/peloton-treadmill/)  
+   Link: <a href="https://www.consumernotice.org/products/peloton-treadmill/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumernotice.org/products/peloton-treadmill/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Notice, LLCPeloton Treadmill Recall: Injury Risk and Child SafetyAs a reminder, the Tread+ is not for children under 16 and chil...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: wieandlaw.com  
-   Link: [https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/](https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/)  
+   Link: <a href="https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/" target="_blank" rel="noopener noreferrer nofollow">https://www.wieandlaw.com/peloton-recalls-tread-and-tread-treadmills/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wieand Law FirmPeloton Recalls Tread+ and Tread TreadmillsApr 22, 2021 — The CPSC has received 72 reports of adult users, children, pets...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: penningtonslaw.com  
-   Link: [https://www.penningtonslaw.com/insights/consumer-safety-scrutinised-following-fatal-accident-on-peloton-tread-treadmill-and-subsequent-product-recall/](https://www.penningtonslaw.com/insights/consumer-safety-scrutinised-following-fatal-accident-on-peloton-tread-treadmill-and-subsequent-product-recall/)  
+   Link: <a href="https://www.penningtonslaw.com/insights/consumer-safety-scrutinised-following-fatal-accident-on-peloton-tread-treadmill-and-subsequent-product-recall/" target="_blank" rel="noopener noreferrer nofollow">https://www.penningtonslaw.com/insights/consumer-safety-scrutinised-following-fatal-accident-on-peloton-tread-treadmill-and-subsequent-product-recall/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer safety scrutinised following fatal accident on...17 May 2021 — On 5 May 2021, Peloton recalled its &#x27;Tread+&#x27; treadmills, followi...</p></details>
    Published: May 2021  
 
 18. <a id="endnote-18"></a>
    Source: consumerreports.org  
-   Link: [https://www.consumerreports.org/product-safety/peloton-fined-by-cpsc-product-safety-violations-a7763860447/](https://www.consumerreports.org/product-safety/peloton-fined-by-cpsc-product-safety-violations-a7763860447/)  
+   Link: <a href="https://www.consumerreports.org/product-safety/peloton-fined-by-cpsc-product-safety-violations-a7763860447/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/product-safety/peloton-fined-by-cpsc-product-safety-violations-a7763860447/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Peloton Fined $19 Million for Tread+ Safety ViolationsJan 5, 2023 — In April 2021, the CPSC issued an urgent safety warning, telling cons...</p></details>
    Published: April 2021  
 
 19. <a id="endnote-19"></a>
    Source: harrisbeachmurtha.com  
-   Link: [https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/](https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/)  
+   Link: <a href="https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/" target="_blank" rel="noopener noreferrer nofollow">https://www.harrisbeachmurtha.com/insights/consumer-product-safety-commission-penalizes-peloton-for-reporting-and-safety-failure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 5, 2023, Peloton agreed to pay a $19065000 civil penalty, after recalling the Tread+ treadmill in May 2021...</p></details>
    Published: January 5, 2023  
 
@@ -876,58 +876,58 @@ In the Tread+ case, the central safety challenge was that the product was intend
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/pelotoncycle/comments/mssyvd/cpsc_warns_consumers_stop_using_the_peloton_tread/](https://www.reddit.com/r/pelotoncycle/comments/mssyvd/cpsc_warns_consumers_stop_using_the_peloton_tread/)  
+   Link: <a href="https://www.reddit.com/r/pelotoncycle/comments/mssyvd/cpsc_warns_consumers_stop_using_the_peloton_tread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/pelotoncycle/comments/mssyvd/cpsc_warns_consumers_stop_using_the_peloton_tread/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CPSC Warns Consumers: Stop Using the Peloton Tread+Is there something about the Peloton Tread+ that makes it more dangerous than other tr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pcva.law  
-   Link: [https://pcva.law/ongoing-investigation/what-you-need-to-know-about-the-peloton-treadmill-recall/](https://pcva.law/ongoing-investigation/what-you-need-to-know-about-the-peloton-treadmill-recall/)  
+   Link: <a href="https://pcva.law/ongoing-investigation/what-you-need-to-know-about-the-peloton-treadmill-recall/" target="_blank" rel="noopener noreferrer nofollow">https://pcva.law/ongoing-investigation/what-you-need-to-know-about-the-peloton-treadmill-recall/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What You Need to Know about the Peloton Treadmill RecallA 6-year-old child died after being pulled under a Tread+, and there have been ov...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: collinslaw.com  
    Title: peloton treadmill unsafe for children and pets according to safety commission  
-   Link: [https://www.collinslaw.com/blog/peloton-treadmill-unsafe-for-children-and-pets-according-to-safety-commission/](https://www.collinslaw.com/blog/peloton-treadmill-unsafe-for-children-and-pets-according-to-safety-commission/)  
+   Link: <a href="https://www.collinslaw.com/blog/peloton-treadmill-unsafe-for-children-and-pets-according-to-safety-commission/" target="_blank" rel="noopener noreferrer nofollow">https://www.collinslaw.com/blog/peloton-treadmill-unsafe-for-children-and-pets-according-to-safety-commission/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collins Law GroupPeloton Treadmill Unsafe for Children and PetsApr 18, 2021 — The CPSC warning is stressing that “the Peloton Tread+ pose...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: summersfirm.com  
-   Link: [https://www.summersfirm.com/blog/2021/04/cpsc-peloton-tread-can-pull-children-pets-under-the-treadmill/](https://www.summersfirm.com/blog/2021/04/cpsc-peloton-tread-can-pull-children-pets-under-the-treadmill/)  
+   Link: <a href="https://www.summersfirm.com/blog/2021/04/cpsc-peloton-tread-can-pull-children-pets-under-the-treadmill/" target="_blank" rel="noopener noreferrer nofollow">https://www.summersfirm.com/blog/2021/04/cpsc-peloton-tread-can-pull-children-pets-under-the-treadmill/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sales of Peloton equipment, including both stationary bikes and treadmills, have taken off...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
    Title: peloton recalls two treadmills us safety concerns child dies  
-   Link: [https://www.theguardian.com/us-news/2021/may/05/peloton-recalls-two-treadmills-us-safety-concerns-child-dies](https://www.theguardian.com/us-news/2021/may/05/peloton-recalls-two-treadmills-us-safety-concerns-child-dies)  
+   Link: <a href="https://www.theguardian.com/us-news/2021/may/05/peloton-recalls-two-treadmills-us-safety-concerns-child-dies" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2021/may/05/peloton-recalls-two-treadmills-us-safety-concerns-child-dies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Peloton recalls treadmills in US over safety concerns after...5 May 2021 — Peloton said production of its Tread+ line was halted and sal...</p></details>
    Published: May 2021  
 
 25. <a id="endnote-25"></a>
    Source: messalaw.com  
-   Link: [https://www.messalaw.com/peloton-recall-treadmills-recalled-after-multiple-injuries-and-childs-death/](https://www.messalaw.com/peloton-recall-treadmills-recalled-after-multiple-injuries-and-childs-death/)  
+   Link: <a href="https://www.messalaw.com/peloton-recall-treadmills-recalled-after-multiple-injuries-and-childs-death/" target="_blank" rel="noopener noreferrer nofollow">https://www.messalaw.com/peloton-recall-treadmills-recalled-after-multiple-injuries-and-childs-death/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Peloton Recall: Tread and Tread+ Treadmills...Twenty-nine of those 72 reports involved children, including a 6-year-old who died...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: businessinsider.com  
    Title: peloton tread child death warning cpsc video 2021 4  
-   Link: [https://www.businessinsider.com/peloton-tread-child-death-warning-cpsc-video-2021-4](https://www.businessinsider.com/peloton-tread-child-death-warning-cpsc-video-2021-4)  
+   Link: <a href="https://www.businessinsider.com/peloton-tread-child-death-warning-cpsc-video-2021-4" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/peloton-tread-child-death-warning-cpsc-video-2021-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Agency Posts Video Peloton Tread+ Dragging Child18 Apr 2021 — US regulators are urging owners of Peloton Tread+ treadmills to stop usi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: rmmagazine.com  
    Title: Key Lessons From Peloton's Tread+ Recall  
-   Link: [https://www.rmmagazine.com/articles/article/2021/09/01/key-lessons-from-peloton-s-tread-recall](https://www.rmmagazine.com/articles/article/2021/09/01/key-lessons-from-peloton-s-tread-recall)  
+   Link: <a href="https://www.rmmagazine.com/articles/article/2021/09/01/key-lessons-from-peloton-s-tread-recall" target="_blank" rel="noopener noreferrer nofollow">https://www.rmmagazine.com/articles/article/2021/09/01/key-lessons-from-peloton-s-tread-recall</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RIMSSep 1, 2021 — The company disclosed that it had received 72 reports of adults, children, pets or objects being pulled under Tread+ ma...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: support.onepeloton.com  
    Title: 360061116911 Peloton Tread Recall FAQs  
-   Link: [https://support.onepeloton.com/s/article/360061116911-Peloton-Tread-Recall-FAQs](https://support.onepeloton.com/s/article/360061116911-Peloton-Tread-Recall-FAQs)  
+   Link: <a href="https://support.onepeloton.com/s/article/360061116911-Peloton-Tread-Recall-FAQs" target="_blank" rel="noopener noreferrer nofollow">https://support.onepeloton.com/s/article/360061116911-Peloton-Tread-Recall-FAQs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tread Recall FAQs... Tread can detach and fall, posing a risk of injury to consumers. Peloton announced this voluntary recall as part of...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nclnet.org  
    Title: NC L supports Peloton treadmill recall  
-   Link: [https://nclnet.org/support-for-peloton-recall/](https://nclnet.org/support-for-peloton-recall/)  
+   Link: <a href="https://nclnet.org/support-for-peloton-recall/" target="_blank" rel="noopener noreferrer nofollow">https://nclnet.org/support-for-peloton-recall/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NCL supports Peloton treadmill recallMay 7, 2021 — “The company has finally come to its senses and agreed to recall its treadmill, which...</p></details>
    Published: May 7, 2021  

@@ -272,18 +272,18 @@ A counterargument strengthens an academic essay only when it engages with an opp
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1-dark.svg" | relative_url }}" alt="Straw Men illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In academic writing, the problem is not merely unfairness. A straw man signals that the writer may not fully understand the [debate]({{ 'debate/' | relative_url }}), the sources, or the competing interpretations surrounding the topic. As a result, the rebuttal often fails to persuade informed readers, who can see that the real objection remains unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
+In academic writing, the problem is not merely unfairness. A straw man signals that the writer may not fully understand the [debate]({{ 'debate/' | relative_url }}), the sources, or the competing interpretations surrounding the topic. As a result, the rebuttal often fails to persuade informed readers, who can see that the real objection remains unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
 
 ## How Straw Man Reasoning Appears in Essay Counterarguments
 
-Counterargument sections are designed to show that a writer has considered alternative viewpoints before defending a position. The goal is not to defeat the weakest possible opposition but to address the strongest reasonable challenge to the thesis. Harvard's writing guidance notes that counterarguments should reflect objections that readers could reasonably raise against the writer's claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
+Counterargument sections are designed to show that a writer has considered alternative viewpoints before defending a position. The goal is not to defeat the weakest possible opposition but to address the strongest reasonable challenge to the thesis. Harvard's writing guidance notes that counterarguments should reflect objections that readers could reasonably raise against the writer's claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
 
 A straw man often appears in one of four ways:
 
 * **Oversimplification:** Reducing a nuanced opposing position to a single extreme claim.
 * **[Exaggeration]({{ 'exaggeration/' | relative_url }}):** Taking a limited argument and presenting it as a much broader or more radical position.
 * **Fabrication:** Responding to claims that opponents never actually made.
-* **Selective quotation or paraphrase:** Removing [context]({{ 'context/' | relative_url }}) so that the opposing view appears weaker than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">straw man fallacy</span><span class="citation-popover-snippet">What Is Straw Man Fallacy? | Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</span></span></span>
+* **Selective quotation or paraphrase:** Removing [context]({{ 'context/' | relative_url }}) so that the opposing view appears weaker than it really is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">straw man fallacy</span><span class="citation-popover-snippet">What Is Straw Man Fallacy? &#124; Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</span></span></span>
 
 Consider an essay arguing that universities should expand online learning options.
 
@@ -299,7 +299,7 @@ The second statement is easier to dismiss, but it does not represent the actual 
 
 ## Why Straw Men Weaken Academic Credibility
 
-Many students assume that the purpose of a counterargument paragraph is to make the opposing side look wrong. Academic readers usually expect something different: evidence that the writer understands competing interpretations and can evaluate them fairly. Writing-centre guidance repeatedly emphasises that argument involves engaging with alternative viewpoints rather than ignoring or caricaturing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[2writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
+Many students assume that the purpose of a counterargument paragraph is to make the opposing side look wrong. Academic readers usually expect something different: evidence that the writer understands competing interpretations and can evaluate them fairly. Writing-centre guidance repeatedly emphasises that argument involves engaging with alternative viewpoints rather than ignoring or caricaturing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[2writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
 
 A straw man damages credibility in several ways:
 
@@ -315,9 +315,9 @@ Even if the rebuttal succeeds against the distorted version, the original object
 
 Academic argument relies on intellectual fairness. Readers are more likely to trust writers who represent opposing evidence accurately before responding.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[**It weakens critical thinking.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Straw Man Fallacy?</span><span class="citation-popover-snippet">| Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[**It weakens critical thinking.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Straw Man Fallacy?</span><span class="citation-popover-snippet">Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</span></span></span>
 
-Counterarguments are intended to test the strength of a thesis. Replacing a strong objection with a weak one removes that test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haverford.edu">[Haverford College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haverford.edu</span><span class="citation-popover-snippet">Haverford CollegeAVOIDING COMMON ERRORS IN LOGIC AND REASONINGJanuary 21, 2005 — By suppressing her knowledge of a possible counter-argum...</span><span class="citation-popover-meta">Published: January 21, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
+Counterarguments are intended to test the strength of a thesis. Replacing a strong objection with a weak one removes that test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haverford.edu">[Haverford College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haverford.edu</span><span class="citation-popover-snippet">Haverford CollegeAVOIDING COMMON ERRORS IN LOGIC AND REASONINGJanuary 21, 2005 — By suppressing her knowledge of a possible counter-argum...</span><span class="citation-popover-meta">Published: January 21, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfil34ayaEU" title="CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 967.4K &middot; Uploaded: April 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfil34ayaEU">Open on YouTube</a></p></div></div></div>
@@ -368,7 +368,7 @@ When responding to scholarly sources, summarise the author's position before cha
 
 ### Separate disagreement from misrepresentation
 
-A fair representation can still lead to a strong rebuttal. Academic writing does not require agreement with the opposing view; it requires accurate description before criticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLStraw Man Fallacy</span><span class="citation-popover-snippet">Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another person&#x27;s argument, and...</span></span></span>
+A fair representation can still lead to a strong rebuttal. Academic writing does not require agreement with the opposing view; it requires accurate description before criticism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLStraw Man Fallacy</span><span class="citation-popover-snippet">Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another person&#x27;s argument, and...</span></span></span>
 
 ## Revision Examples for Stronger Rebuttal Paragraphs
 
@@ -396,7 +396,7 @@ The revised version identifies the actual concern and responds with evidence-bas
 
 > Opponents of AI in education believe students should never use technology for learning.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[This misrepresents the position.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Straw Man Fallacy?</span><span class="citation-popover-snippet">| Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[This misrepresents the position.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Straw Man Fallacy?</span><span class="citation-popover-snippet">Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</span></span></span>
 
 **Improved rebuttal**
 
@@ -434,7 +434,7 @@ Before finalising a counterargument paragraph, apply three questions:
 
 If the answer to any question is no, the paragraph may contain straw man reasoning.
 
-In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargument does not prove strength by making the opposition look absurd. It proves strength by engaging honestly with a credible objection and then showing, through evidence and analysis, why the thesis remains persuasive despite that challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</span></span></span>
+In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargument does not prove strength by making the opposition look absurd. It proves strength by engaging honestly with a credible objection and then showing, through evidence and analysis, why the thesis remains persuasive despite that challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -858,86 +858,86 @@ In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargu
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: straw man fallacy  
-   Link: [https://www.scribbr.com/fallacies/straw-man-fallacy/](https://www.scribbr.com/fallacies/straw-man-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Straw Man Fallacy? | Definition &amp; Examples12 Apr 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead o...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: owl.excelsior.edu  
    Title: OWLStraw Man Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another person&#x27;s argument, and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: writingcenter.fas.harvard.edu  
-   Link: [https://writingcenter.fas.harvard.edu/counterargument](https://writingcenter.fas.harvard.edu/counterargument)  
+   Link: <a href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.fas.harvard.edu/counterargument</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Counterargument | Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/strawman](https://yourlogicalfallacyis.com/strawman)  
+   Link: <a href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/strawman</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: haverford.edu  
-   Link: [https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf](https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf)  
+   Link: <a href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haverford CollegeAVOIDING COMMON ERRORS IN LOGIC AND REASONINGJanuary 21, 2005 — By suppressing her knowledge of a possible counter-argum...</p></details>
    Published: January 21, 2005  
 
 7. <a id="endnote-7"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/](https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-red-herring-fallacy-and-straw-man-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In other words, a seemingly solid but ultimately...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: web.ics.purdue.edu  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: [https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf](https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf)  
+   Link: <a href="https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a flaw in reasoning. Strong arguments are void of logical fallacies...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Argumentative Writing - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other typ...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: yourlogicalfallacyis.com  
    Title: Thou shalt not commit logical fallacies A logical fallacy is a flaw in reasoning  
-   Link: [https://yourlogicalfallacyis.com/](https://yourlogicalfallacyis.com/)  
+   Link: <a href="https://yourlogicalfallacyis.com/" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallacies are like tricks or illusions of thought, and they&#x27;re often very sneakily used by politicians and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: [https://www.youtube.com/watch?v=hfil34ayaEU](https://www.youtube.com/watch?v=hfil34ayaEU)  
+   Link: <a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hfil34ayaEU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Counterarguments, Concessions, and Refutations in Persuasive Essays...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: writingcenter.gmu.edu  
    Title: The Writing Center All About Counterarguments | General  
-   Link: [https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments](https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments)  
+   Link: <a href="https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/general-writing-practices/all-about-counterarguments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterA counterargument is an argument that goes against your thesis and that expresses the perspective of someone with an op...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterThis handout discusses common logical fallacies that you may encounter in your own writin...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Argument  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/argument/](https://writingcenter.unc.edu/tips-and-tools/argument/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterArgument - The Writing CenterThis handout will define what an argument is and explain why you need one in most of your...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy/Verbal-fallacies](https://www.britannica.com/topic/fallacy/Verbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;), Straw Man13 May 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thro...</p></details>
    Published: May 2026  
 
@@ -945,56 +945,56 @@ In academic [essays]({{ 'essays/' | relative_url }}), a well-written counterargu
 
 16. <a id="endnote-16"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/](https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
 
 17. <a id="endnote-17"></a>
    Source: philosocom.com  
    Title: how the strawman s fallacy correlates with objective importance  
-   Link: [https://www.philosocom.com/post/how-the-strawman-s-fallacy-correlates-with-objective-importance](https://www.philosocom.com/post/how-the-strawman-s-fallacy-correlates-with-objective-importance)  
+   Link: <a href="https://www.philosocom.com/post/how-the-strawman-s-fallacy-correlates-with-objective-importance" target="_blank" rel="noopener noreferrer nofollow">https://www.philosocom.com/post/how-the-strawman-s-fallacy-correlates-with-objective-importance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How The Strawman&#x27;s Fallacy Correlates With Objective...Jun 6, 2023 — The Strawman&#x27;s Fallacy is a common logical fallacy that happens whe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186](https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186)  
+   Link: <a href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Logical Fallacies - Purdue OWL® ResourcesStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: fire.org  
-   Link: [https://www.fire.org/sites/default/files/2025/03/LetsTalk_Think-Clearly-Speak-Clearly.pdf](https://www.fire.org/sites/default/files/2025/03/LetsTalk_Think-Clearly-Speak-Clearly.pdf)  
+   Link: <a href="https://www.fire.org/sites/default/files/2025/03/LetsTalk_Think-Clearly-Speak-Clearly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fire.org/sites/default/files/2025/03/LetsTalk_Think-Clearly-Speak-Clearly.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Think Clearly, Speak Clearly: Avoiding Logical FallaciesThe two issues may be related, but one does not discount the importance of the other...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: deanramser.com  
-   Link: [https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf](https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf)  
+   Link: <a href="https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://deanramser.com/wp-content/uploads/2018/02/logic-in-writing-purdue-owl.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Purdue OWL Logic in Argumentative WritingStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow arg...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: markmanson.net  
    Title: 8 Logical Fallacies That Mess Us All Up1  
-   Link: [https://markmanson.net/logical-fallacies](https://markmanson.net/logical-fallacies)  
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Is Not Causation · 2. [Slippery Slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) Fallacy · 3. False Dichotomies · 4. Begging the Question · 5. Red Herrings · 6. Appeals...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: purchase.edu  
    Title: 4362 logical fallacies fall 2022docx  
-   Link: [https://www.purchase.edu/live/files/4362-logical-fallacies-fall-2022docx](https://www.purchase.edu/live/files/4362-logical-fallacies-fall-2022docx)  
+   Link: <a href="https://www.purchase.edu/live/files/4362-logical-fallacies-fall-2022docx" target="_blank" rel="noopener noreferrer nofollow">https://www.purchase.edu/live/files/4362-logical-fallacies-fall-2022docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical-Fallacies Fall 2022.docxStraw Man: oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument. People who don&#x27;t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: hazard.kctcs.libguides.com  
    Title: Making an Argument Logical Fallacies  
-   Link: [https://hazard.kctcs.libguides.com/blog/Making-an-Argument-Logical-Fallacies](https://hazard.kctcs.libguides.com/blog/Making-an-Argument-Logical-Fallacies)  
+   Link: <a href="https://hazard.kctcs.libguides.com/blog/Making-an-Argument-Logical-Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://hazard.kctcs.libguides.com/blog/Making-an-Argument-Logical-Fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an Argument: Logical Fallacies6 Nov 2023 — Straw Man-When A is misrepresented as B. Learn more about... Logical Fallacies from Purdue OW...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: bls.org  
    Title: Harvard Writing Center packet.doc  
-   Link: [https://www.bls.org/ourpages/auto/2013/5/24/41631204/Harvard%20Writing%20Center%20packet.doc?rnd=1369416499623](https://www.bls.org/ourpages/auto/2013/5/24/41631204/Harvard%20Writing%20Center%20packet.doc?rnd=1369416499623)  
+   Link: <a href="https://www.bls.org/ourpages/auto/2013/5/24/41631204/Harvard%20Writing%20Center%20packet.doc?rnd=1369416499623" target="_blank" rel="noopener noreferrer nofollow">https://www.bls.org/ourpages/auto/2013/5/24/41631204/Harvard%20Writing%20Center%20packet.doc?rnd=1369416499623</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Do a Close Reading24 May 2013 — You should also become familiar with the various fallacies that can undermine an argument—the &quot;str...</p></details>
    Published: May 2013  
 
 25. <a id="endnote-25"></a>
    Source: psychologycorner.com  
    Title: What is The Straw Man Fallacy?  
-   Link: [https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/](https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</p></details>
+   Link: <a href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</p></details>

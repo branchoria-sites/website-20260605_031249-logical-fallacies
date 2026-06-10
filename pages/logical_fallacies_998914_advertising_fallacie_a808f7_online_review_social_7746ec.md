@@ -280,7 +280,7 @@ Star ratings are persuasive because they appear to aggregate many independent ju
 
 This shortcut is often reasonable. If a large and representative group of verified customers reports similar experiences, the average rating may provide useful information. The difficulty is that consumers rarely see the entire process behind the score. They see the output rather than the conditions under which the data were collected.
 
-Research on online rating systems has shown that ratings are vulnerable to both social influence and selection effects. Reviewers may be influenced by existing ratings, while the people who choose to leave reviews may differ significantly from the overall customer population. As a result, the displayed average can reflect the behaviour of a particular subset of users rather than a neutral sample of all buyers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/303030394_Social_Influence_Bias_in_Online_Ratings_A_Field_Experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Social Influence Bias in Online Ratings: A Field Experiment</span><span class="citation-popover-snippet">ResearchGateSocial Influence Bias in Online Ratings: A Field ExperimentMay 13, 2016 — This study addresses the issues of social influence...</span><span class="citation-popover-meta">Published: May 13, 2016</span></span></span>
+Research on online rating systems has shown that ratings are vulnerable to both social influence and selection effects. Reviewers may be influenced by existing ratings, while the people who choose to leave reviews may differ significantly from the overall customer population. As a result, the displayed average can reflect the behaviour of a particular subset of users rather than a neutral sample of all buyers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/303030394_Social_Influence_Bias_in_Online_Ratings_A_Field_Experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Social Influence Bias in Online Ratings: A Field Experiment</span><span class="citation-popover-snippet">Social Influence Bias in Online Ratings: A Field ExperimentMay 13, 2016 — This study addresses the issues of social influence...</span><span class="citation-popover-meta">Published: May 13, 2016</span></span></span>
 
 The persuasive force of ratings also comes from social proof. Consumers often interpret high ratings as evidence that “people like me” have tested the product and approved it. Marketing research has repeatedly found that social proof is one of the strongest influences during purchasing decisions because it reduces uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weareroast.com/resources/guides/stars-in-their-eyes-the-science-of-online-reviews-and-how-brands-should-use-them/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weareroast.com">[We Are Roast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weareroast.com</span><span class="citation-popover-title">We Are Roast Stars in Their Eyes?</span><span class="citation-popover-snippet">The Science of Online Reviews and...The power of reviews was proved in this paper, with Google&#x27;s extensive research showing that &#x27;social...</span></span></span>
 
@@ -315,7 +315,7 @@ The problem extends beyond completely fabricated reviews. Manufactured social pr
 
 **Undisclosed incentives.** Customers receive discounts, rewards or benefits in exchange for reviews without clearly revealing the incentive. This can skew the visible feedback toward positivity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/fake-and-misleading-online-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Fake and misleading online reviews tradingThe Competition and Markets Authority (CMA) carried out a programme of work to tackle the tradi...</span></span></span>
 
-**AI-assisted review generation.** Generative AI has reduced the cost and effort required to produce large volumes of convincing reviews. Recent research suggests that people often struggle to distinguish AI-generated reviews from genuine ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivLarge Language Models as &#x27;Hidden Persuaders&#x27;: Fake Product Reviews are Indistinguishable to Humans and MachinesJune 16, 2025...</span><span class="citation-popover-meta">Published: June 16, 2025</span></span></span>
+**AI-assisted review generation.** Generative AI has reduced the cost and effort required to produce large volumes of convincing reviews. Recent research suggests that people often struggle to distinguish AI-generated reviews from genuine ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Large Language Models as &#x27;Hidden Persuaders&#x27;: Fake Product Reviews are Indistinguishable to Humans and MachinesJune 16, 2025...</span><span class="citation-popover-meta">Published: June 16, 2025</span></span></span>
 
 In each case, the resulting rating may look like independent evidence even though the underlying opinions are not independent at all.
 
@@ -347,7 +347,7 @@ A product with 20,000 reviews may appear more trustworthy than one with 200 revi
 
 The average score alone cannot answer these questions.
 
-Even genuine reviews can become biased through social influence. Studies of online review systems have found that exposure to existing ratings can affect subsequent ratings. Early positive signals may therefore influence later reviewers and gradually amplify a favourable impression beyond what independent evaluations would have produced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/303030394_Social_Influence_Bias_in_Online_Ratings_A_Field_Experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Social Influence Bias in Online Ratings: A Field Experiment</span><span class="citation-popover-snippet">ResearchGateSocial Influence Bias in Online Ratings: A Field ExperimentMay 13, 2016 — This study addresses the issues of social influence...</span><span class="citation-popover-meta">Published: May 13, 2016</span></span></span>
+Even genuine reviews can become biased through social influence. Studies of online review systems have found that exposure to existing ratings can affect subsequent ratings. Early positive signals may therefore influence later reviewers and gradually amplify a favourable impression beyond what independent evaluations would have produced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/303030394_Social_Influence_Bias_in_Online_Ratings_A_Field_Experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Social Influence Bias in Online Ratings: A Field Experiment</span><span class="citation-popover-snippet">Social Influence Bias in Online Ratings: A Field ExperimentMay 13, 2016 — This study addresses the issues of social influence...</span><span class="citation-popover-meta">Published: May 13, 2016</span></span></span>
 
 This does not mean highly rated products are unreliable. It means that the number itself should be treated as evidence with limitations rather than as conclusive proof.
 
@@ -812,76 +812,76 @@ For that reason, star ratings are best treated as a starting point for evaluatio
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
    Title: federal trade commission announces final rule banning fake reviews testimonials  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials](https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFederal Trade Commission Announces Final Rule Banning...14 Aug 2024 — The Federal Trade Commission today announc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ftc.gov  
    Title: consumer reviews testimonials rule questions answers  
-   Link: [https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers](https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/consumer-reviews-testimonials-rule-questions-answers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Consumer Reviews and Testimonials Rule: Questions...8 Nov 2024 — The Commission&#x27;s Rule on the Use of Consume...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: GOV.UK  
    Title: fake reviews  
-   Link: [https://www.gov.uk/government/publications/fake-reviews](https://www.gov.uk/government/publications/fake-reviews)  
+   Link: <a href="https://www.gov.uk/government/publications/fake-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/fake-reviews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Apr 2025 — The CMA also held a webinar to help businesses who publish customer reviews understand what steps they should take to comply...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Social Influence Bias in Online Ratings: A Field Experiment  
-   Link: [https://www.researchgate.net/publication/303030394_Social_Influence_Bias_in_Online_Ratings_A_Field_Experiment](https://www.researchgate.net/publication/303030394_Social_Influence_Bias_in_Online_Ratings_A_Field_Experiment)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateSocial Influence Bias in Online Ratings: A Field ExperimentMay 13, 2016 — This study addresses the issues of social influence...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/303030394_Social_Influence_Bias_in_Online_Ratings_A_Field_Experiment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303030394_Social_Influence_Bias_in_Online_Ratings_A_Field_Experiment</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence Bias in Online Ratings: A Field ExperimentMay 13, 2016 — This study addresses the issues of social influence...</p></details>
    Published: May 13, 2016  
 
 5. <a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/cma-cases/fake-and-misleading-online-reviews](https://www.gov.uk/cma-cases/fake-and-misleading-online-reviews)  
+   Link: <a href="https://www.gov.uk/cma-cases/fake-and-misleading-online-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/fake-and-misleading-online-reviews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake and misleading online reviews tradingThe Competition and Markets Authority (CMA) carried out a programme of work to tackle the tradi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf](https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67eeb64fe9c76fa33048c790/CMA208_-_Fake_reviews_guidance.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GOV.UKCMA208 - Fake reviews guidance4 Apr 2025 — It covers fake reviews, concealed incentivised reviews and requires traders not to publi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.13313](https://arxiv.org/abs/2506.13313)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivLarge Language Models as &#x27;Hidden Persuaders&#x27;: Fake Product Reviews are Indistinguishable to Humans and MachinesJune 16, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.13313" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.13313</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Large Language Models as &#x27;Hidden Persuaders&#x27;: Fake Product Reviews are Indistinguishable to Humans and MachinesJune 16, 2025...</p></details>
    Published: June 16, 2025  
 
 8. <a id="endnote-8"></a>
    Source: connect.cma.gov.uk  
-   Link: [https://connect.cma.gov.uk/40900/widgets/133670/documents/91151](https://connect.cma.gov.uk/40900/widgets/133670/documents/91151)  
+   Link: <a href="https://connect.cma.gov.uk/40900/widgets/133670/documents/91151" target="_blank" rel="noopener noreferrer nofollow">https://connect.cma.gov.uk/40900/widgets/133670/documents/91151</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>with consumer law if you publish online reviews4 Sept 2025 — This document provides a non-exhaustive overview of the new banned practice...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: GOV.UK  
    Title: fake and misleading reviews 5 businesses under cma investigation  
-   Link: [https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation](https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation)  
+   Link: <a href="https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and misleading reviews: 5 businesses under CMA...27 Mar 2026 — Five companies now under investigation as the CMA steps up its work to ta...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/cma-cases/online-reviews](https://www.gov.uk/cma-cases/online-reviews)  
+   Link: <a href="https://www.gov.uk/cma-cases/online-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/online-reviews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reviewsThe CMA will investigate whether these websites are taking sufficient measures to protect consumers from fake and misleading revie...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: weareroast.com  
    Title: We Are Roast Stars in Their Eyes?  
-   Link: [https://weareroast.com/resources/guides/stars-in-their-eyes-the-science-of-online-reviews-and-how-brands-should-use-them/](https://weareroast.com/resources/guides/stars-in-their-eyes-the-science-of-online-reviews-and-how-brands-should-use-them/)  
+   Link: <a href="https://weareroast.com/resources/guides/stars-in-their-eyes-the-science-of-online-reviews-and-how-brands-should-use-them/" target="_blank" rel="noopener noreferrer nofollow">https://weareroast.com/resources/guides/stars-in-their-eyes-the-science-of-online-reviews-and-how-brands-should-use-them/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Online Reviews and...The power of reviews was proved in this paper, with Google&#x27;s extensive research showing that &#x27;social...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
    Title: US FTC finalizes ban on companies buying and selling fake online reviews The U.S  
-   Link: [https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/](https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission (FTC) has finalized a ban on the sale and purchase of fake online reviews. This new rule targets the trafficking...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nypost.com  
    Title: fashion nova suppressed negative online reviews 2 4m going to customers  
-   Link: [https://nypost.com/2025/02/05/business/fashion-nova-suppressed-negative-online-reviews-2-4m-going-to-customers/](https://nypost.com/2025/02/05/business/fashion-nova-suppressed-negative-online-reviews-2-4m-going-to-customers/)  
+   Link: <a href="https://nypost.com/2025/02/05/business/fashion-nova-suppressed-negative-online-reviews-2-4m-going-to-customers/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2025/02/05/business/fashion-nova-suppressed-negative-online-reviews-2-4m-going-to-customers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fashion Nova must refund about $2.4 million to over 148,351 consumers who purchased items before November 21, 2019, and made a valid clai...</p></details>
    Published: November 21, 2019  
 
@@ -889,52 +889,52 @@ For that reason, star ratings are best treated as a starting point for evaluatio
 
 14. <a id="endnote-14"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: [https://uk.practicallaw.thomsonreuters.com/w-046-5309?contextData=%28sc.Default%29&transitionType=Default](https://uk.practicallaw.thomsonreuters.com/w-046-5309?contextData=%28sc.Default%29&transitionType=Default)  
+   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-046-5309?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-046-5309?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on fake and misleading consumer reviewsThis note examines the prohibition on publishing consumer review information in a misleading way a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: research.cbs.dk  
-   Link: [https://research.cbs.dk/files/98732009/1640479_Enhancing_Online_Review_Platform_Performance_Factorcs_Influencing_Ratings_and_Number_of_Reviews.pdf](https://research.cbs.dk/files/98732009/1640479_Enhancing_Online_Review_Platform_Performance_Factorcs_Influencing_Ratings_and_Number_of_Reviews.pdf)  
+   Link: <a href="https://research.cbs.dk/files/98732009/1640479_Enhancing_Online_Review_Platform_Performance_Factorcs_Influencing_Ratings_and_Number_of_Reviews.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.cbs.dk/files/98732009/1640479_Enhancing_Online_Review_Platform_Performance_Factorcs_Influencing_Ratings_and_Number_of_Reviews.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencing Ratings and Number of Reviewsby B Kim — The objective of this study is to gain a better understanding of the relationship bet...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/technology/comments/1g9b7cb/ftcs_rule_banning_fake_online_reviews_goes_into/](https://www.reddit.com/r/technology/comments/1g9b7cb/ftcs_rule_banning_fake_online_reviews_goes_into/)  
+   Link: <a href="https://www.reddit.com/r/technology/comments/1g9b7cb/ftcs_rule_banning_fake_online_reviews_goes_into/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/technology/comments/1g9b7cb/ftcs_rule_banning_fake_online_reviews_goes_into/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC&#x27;s rule banning fake online reviews goes into effectYou Can Now Get Fined $51,744 for Writing a Fake Review Online | The FTC&#x27;s ban on...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aoshearman.com  
    Title: cma targets fake online reviews in expanding consumer enforcement programme  
-   Link: [https://www.aoshearman.com/en/insights/cma-targets-fake-online-reviews-in-expanding-consumer-enforcement-programme](https://www.aoshearman.com/en/insights/cma-targets-fake-online-reviews-in-expanding-consumer-enforcement-programme)  
+   Link: <a href="https://www.aoshearman.com/en/insights/cma-targets-fake-online-reviews-in-expanding-consumer-enforcement-programme" target="_blank" rel="noopener noreferrer nofollow">https://www.aoshearman.com/en/insights/cma-targets-fake-online-reviews-in-expanding-consumer-enforcement-programme</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMA targets fake online reviews in expanding consumer...31 Mar 2026 — The UK Competition and Markets Authority (CMA) has opened five con...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hoganlovells.com  
    Title: ftc publishes final rule banning fake consumer reviews and testimonials  
-   Link: [https://www.hoganlovells.com/en/publications/ftc-publishes-final-rule-banning-fake-consumer-reviews-and-testimonials](https://www.hoganlovells.com/en/publications/ftc-publishes-final-rule-banning-fake-consumer-reviews-and-testimonials)  
+   Link: <a href="https://www.hoganlovells.com/en/publications/ftc-publishes-final-rule-banning-fake-consumer-reviews-and-testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/ftc-publishes-final-rule-banning-fake-consumer-reviews-and-testimonials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>publishes final rule banning fake consumer reviews...11 Sept 2024 — The Final Rule prohibits the sale and purchase of fake consumer revi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: maynardnexsen.com  
    Title: publication ftc issues final rule banning fake reviews and testimonials  
-   Link: [https://www.maynardnexsen.com/publication-ftc-issues-final-rule-banning-fake-reviews-and-testimonials](https://www.maynardnexsen.com/publication-ftc-issues-final-rule-banning-fake-reviews-and-testimonials)  
+   Link: <a href="https://www.maynardnexsen.com/publication-ftc-issues-final-rule-banning-fake-reviews-and-testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.maynardnexsen.com/publication-ftc-issues-final-rule-banning-fake-reviews-and-testimonials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues Final Rule Banning Fake Reviews and...16 Aug 2024 — The new rule makes clear that the use of false or misleading reviews and...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: keystonelaw.com  
    Title: what does the cma crackdown on fake online reviews mean for businesses  
-   Link: [https://keystonelaw.com/keynotes/what-does-the-cma-crackdown-on-fake-online-reviews-mean-for-businesses/](https://keystonelaw.com/keynotes/what-does-the-cma-crackdown-on-fake-online-reviews-mean-for-businesses/)  
+   Link: <a href="https://keystonelaw.com/keynotes/what-does-the-cma-crackdown-on-fake-online-reviews-mean-for-businesses/" target="_blank" rel="noopener noreferrer nofollow">https://keystonelaw.com/keynotes/what-does-the-cma-crackdown-on-fake-online-reviews-mean-for-businesses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What does the CMA crackdown on fake online reviews...1 Jul 2025 — The publisher has responsibility for preventing and taking steps to re...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ai-law.co.uk  
    Title: how businesses can handle fake reviews and legal issues on trustpilot  
-   Link: [https://ai-law.co.uk/how-businesses-can-handle-fake-reviews-and-legal-issues-on-trustpilot/](https://ai-law.co.uk/how-businesses-can-handle-fake-reviews-and-legal-issues-on-trustpilot/)  
+   Link: <a href="https://ai-law.co.uk/how-businesses-can-handle-fake-reviews-and-legal-issues-on-trustpilot/" target="_blank" rel="noopener noreferrer nofollow">https://ai-law.co.uk/how-businesses-can-handle-fake-reviews-and-legal-issues-on-trustpilot/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Businesses Can Handle Fake Reviews and Legal...12 Aug 2025 — New UK legislation now makes it illegal for businesses to publish or su...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: stampedsupport.stamped.io  
    Title: 29877379192987 Complying with the FTC Final Rule for Reviews  
-   Link: [https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews](https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews)  
+   Link: <a href="https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews" target="_blank" rel="noopener noreferrer nofollow">https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with the FTC Final Rule for Reviews7 Oct 2024 — The Federal Trade Commission has announced a final rule, effective October 15, 2024, aime...</p></details>
    Published: October 15, 2024  

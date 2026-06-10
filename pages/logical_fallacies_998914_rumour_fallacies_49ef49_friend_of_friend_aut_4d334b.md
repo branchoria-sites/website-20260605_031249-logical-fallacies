@@ -278,7 +278,7 @@ Many unverified warnings gain credibility not because the evidence is strong, bu
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-1-dark.svg" | relative_url }}" alt="FOAF Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This pattern is a recurring feature of [rumours]({{ 'rumours/' | relative_url }}), urban legends, and viral warnings. In logical terms, it combines elements of an appeal to anonymous authority with a friend-of-a-friend (FOAF) source chain. The result is borrowed credibility without accountability: the authority cannot be questioned, the source cannot be verified, and the claim acquires a persuasive force that exceeds the evidence behind it. Research on rumour transmission has found that attributing a claim to a credible friend of a friend increases both its perceived plausibility and people's willingness to share it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10427462/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCIt happened to a friend of a friend: inaccurate source reporting...by S Altay · 2020 · Cited by 18 — Attribution to a credible friend...</span></span></span>
+This pattern is a recurring feature of [rumours]({{ 'rumours/' | relative_url }}), urban legends, and viral warnings. In logical terms, it combines elements of an appeal to anonymous authority with a friend-of-a-friend (FOAF) source chain. The result is borrowed credibility without accountability: the authority cannot be questioned, the source cannot be verified, and the claim acquires a persuasive force that exceeds the evidence behind it. Research on rumour transmission has found that attributing a claim to a credible friend of a friend increases both its perceived plausibility and people's willingness to share it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10427462/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">It happened to a friend of a friend: inaccurate source reporting...by S Altay · 2020 · Cited by 18 — Attribution to a credible friend...</span></span></span>
 
 ## How anonymous authority borrows status
 
@@ -295,7 +295,7 @@ The persuasive move is subtle. The listener is encouraged to think:
 
 </div>
 
-Yet the crucial details remain unavailable. Who was the doctor? Which hospital? Which department? What exactly did the official say? Without those details, the authority cannot be evaluated. Critical-thinking literature identifies this as an appeal to anonymous authority: the argument relies on expertise that cannot actually be examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; Examples15 Jun 2023 — Appeal to anonymous authority occurs when an arguer attributes a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[2read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise | Critical Thinking, Logic...Appeals to an anonymous authority appeal to an unnamed or unnameable authority using...</span></span></span>
+Yet the crucial details remain unavailable. Who was the doctor? Which hospital? Which department? What exactly did the official say? Without those details, the authority cannot be evaluated. Critical-thinking literature identifies this as an appeal to anonymous authority: the argument relies on expertise that cannot actually be examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; Examples15 Jun 2023 — Appeal to anonymous authority occurs when an arguer attributes a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read.aupress.ca">[2read.aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read.aupress.ca</span><span class="citation-popover-title">Chapter 16</span><span class="citation-popover-snippet">Fallacies of Expertise &#124; Critical Thinking, Logic...Appeals to an anonymous authority appeal to an unnamed or unnameable authority using...</span></span></span>
 
 The friend-of-a-friend structure strengthens the effect. A direct stranger making a dramatic claim may seem suspicious. A warning linked to a friend’s acquaintance feels socially authenticated even though the listener has no direct access to the supposed source.
 
@@ -319,7 +319,7 @@ If a listener asks for proof, the source is always one step further away:
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
-* “I heard it from my friend.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/urban-legend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">urban legend</span><span class="citation-popover-snippet">Encyclopedia BritannicaUrban legend | Definition, Meaning, Examples, &amp; Facts10 Apr 2026 — Urban legends typically combine secondhand narr...</span></span></span>
+* “I heard it from my friend.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/urban-legend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[britannica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">urban legend</span><span class="citation-popover-snippet">Encyclopedia BritannicaUrban legend &#124; Definition, Meaning, Examples, &amp; Facts10 Apr 2026 — Urban legends typically combine secondhand narr...</span></span></span>
 * “My friend heard it from her colleague.”
 * “The colleague knows the person involved.”
 
@@ -327,9 +327,9 @@ If a listener asks for proof, the source is always one step further away:
 
 Each link creates distance between the current speaker and responsibility for the claim.
 
-Researchers studying rumour diffusion found that credible friend-of-a-friend attributions make rumours appear more believable and more shareable. Importantly, these source attributions often remain intact as rumours travel, helping preserve their persuasive power across multiple retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10427462/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCIt happened to a friend of a friend: inaccurate source reporting...by S Altay · 2020 · Cited by 18 — Attribution to a credible friend...</span></span></span>
+Researchers studying rumour diffusion found that credible friend-of-a-friend attributions make rumours appear more believable and more shareable. Importantly, these source attributions often remain intact as rumours travel, helping preserve their persuasive power across multiple retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10427462/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">It happened to a friend of a friend: inaccurate source reporting...by S Altay · 2020 · Cited by 18 — Attribution to a credible friend...</span></span></span>
 
-Folklore researchers have long recognised the same pattern in urban legends. Many classic cautionary tales are presented as events that happened not to the storyteller but to “a friend of a friend.” The distance is close enough to imply authenticity but far enough to prevent direct checking. Folklorists have treated this FOAF device as a distinctive mechanism of authentication in modern legends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Urban_legend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Urban legend</span><span class="citation-popover-snippet">Urban legend</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/urban-legend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">urban legend</span><span class="citation-popover-snippet">Encyclopedia BritannicaUrban legend | Definition, Meaning, Examples, &amp; Facts10 Apr 2026 — Urban legends typically combine secondhand narr...</span></span></span>
+Folklore researchers have long recognised the same pattern in urban legends. Many classic cautionary tales are presented as events that happened not to the storyteller but to “a friend of a friend.” The distance is close enough to imply authenticity but far enough to prevent direct checking. Folklorists have treated this FOAF device as a distinctive mechanism of authentication in modern legends. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Urban_legend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Urban legend</span><span class="citation-popover-snippet">Urban legend</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/urban-legend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">urban legend</span><span class="citation-popover-snippet">Encyclopedia BritannicaUrban legend &#124; Definition, Meaning, Examples, &amp; Facts10 Apr 2026 — Urban legends typically combine secondhand narr...</span></span></span>
 
 This structure creates a practical verification problem. A listener cannot interview the original witness, inspect documents, or clarify details because the source becomes increasingly vague the closer one gets to the alleged authority.
 
@@ -377,12 +377,12 @@ Not every appeal to expertise is fallacious. Expert testimony can be valuable wh
 
 The difference lies in accountability.
 
-**Legitimate [expert evidence]({{ 'evidence-not-proof/' | relative_url }}):**
+**Legitimate expert evidence:**
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* The expert is named. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; Examples15 Jun 2023 — Appeal to anonymous authority occurs when an arguer attributes a...</span></span></span>
+* The expert is named. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; Examples15 Jun 2023 — Appeal to anonymous authority occurs when an arguer attributes a...</span></span></span>
 * Qualifications can be checked.
 * The statement can be located.
 * Supporting evidence can be reviewed.
@@ -401,7 +401,7 @@ The difference lies in accountability.
 
 </div>
 
-The fallacy does not depend on whether the hidden authority actually exists. An unnamed doctor may genuinely have spoken. The problem is that the audience is being asked to trust a claim without access to the information needed to evaluate that authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; Examples15 Jun 2023 — Appeal to anonymous authority occurs when an arguer attributes a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Anonymous AuthorityAppeals to anonymous sources are more often than not, a way to fabricate, exaggerate, or misrepresent facts in order t...</span></span></span>
+The fallacy does not depend on whether the hidden authority actually exists. An unnamed doctor may genuinely have spoken. The problem is that the audience is being asked to trust a claim without access to the information needed to evaluate that authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; Examples15 Jun 2023 — Appeal to anonymous authority occurs when an arguer attributes a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Anonymous AuthorityAppeals to anonymous sources are more often than not, a way to fabricate, exaggerate, or misrepresent facts in order t...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-3-dark.svg" | relative_url }}" alt="FOAF Claims illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -852,102 +852,102 @@ This makes FOAF claims a useful example of how [logical fallacies]({{ 'logical-f
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10427462/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10427462/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCIt happened to a friend of a friend: inaccurate source reporting...by S Altay · 2020 · Cited by 18 — Attribution to a credible friend...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10427462/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10427462/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>It happened to a friend of a friend: inaccurate source reporting...by S Altay · 2020 · Cited by 18 — Attribution to a credible friend...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
-   Title: appeal to authority fallacy  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/](https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAppeal to Authority Fallacy | Definition &amp; Examples15 Jun 2023 — Appeal to anonymous authority occurs when an arguer attributes a...</p></details>
+   Title: [appeal to authority](&#123;&#123; 'authority/' | relative_url &#125;&#125;) fallacy  
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; Examples15 Jun 2023 — Appeal to anonymous authority occurs when an arguer attributes a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: read.aupress.ca  
    Title: Chapter 16  
-   Link: [https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753](https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753)  
+   Link: <a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/37569f83-38fb-40e0-9575-ede2c97e5753</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of Expertise | Critical Thinking, Logic...Appeals to an anonymous authority appeal to an unnamed or unnameable authority using...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Urban legend  
-   Link: [https://en.wikipedia.org/wiki/Urban_legend](https://en.wikipedia.org/wiki/Urban_legend)  
+   Link: <a href="https://en.wikipedia.org/wiki/Urban_legend" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Urban_legend</a>  
 
 5. <a id="endnote-5"></a>
    Source: britannica.com  
    Title: urban legend  
-   Link: [https://www.britannica.com/topic/urban-legend](https://www.britannica.com/topic/urban-legend)  
+   Link: <a href="https://www.britannica.com/topic/urban-legend" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/urban-legend</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaUrban legend | Definition, Meaning, Examples, &amp; Facts10 Apr 2026 — Urban legends typically combine secondhand narr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: folklore.ee  
    Title: foaftale news  
-   Link: [https://www.folklore.ee/FOAFtale/ftn69.pdf](https://www.folklore.ee/FOAFtale/ftn69.pdf)  
+   Link: <a href="https://www.folklore.ee/FOAFtale/ftn69.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.folklore.ee/FOAFtale/ftn69.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 22, 2008 — The owner of the nightclub said in a television interview on November 21 that all the tales about drink-spiking are ur...</p></details>
    Published: January 22, 2008  
 
 7. <a id="endnote-7"></a>
    Source: btboces.org  
    Title: 3 Urban Legends How They Start and Why They Persist by Heather Whipps  
-   Link: [https://www.btboces.org/Downloads/3_Urban%20Legends%20How%20They%20Start%20and%20Why%20They%20Persist%20by%20Heather%20Whipps.pdf](https://www.btboces.org/Downloads/3_Urban%20Legends%20How%20They%20Start%20and%20Why%20They%20Persist%20by%20Heather%20Whipps.pdf)  
+   Link: <a href="https://www.btboces.org/Downloads/3_Urban%20Legends%20How%20They%20Start%20and%20Why%20They%20Persist%20by%20Heather%20Whipps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.btboces.org/Downloads/3_Urban%20Legends%20How%20They%20Start%20and%20Why%20They%20Persist%20by%20Heather%20Whipps.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Urban Legends: How They Start and Why They Persist27 Aug 2006 — &quot;The lack of verification in no way diminishes the appeal that urban lege...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority](https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anonymous AuthorityAppeals to anonymous sources are more often than not, a way to fabricate, exaggerate, or misrepresent facts in order t...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/338827401_It_Happened_to_a_Friend_of_a_Friend_Inaccurate_Source_Reporting_in_Rumor_Diffusion](https://www.researchgate.net/publication/338827401_It_Happened_to_a_Friend_of_a_Friend_Inaccurate_Source_Reporting_in_Rumor_Diffusion)  
+   Link: <a href="https://www.researchgate.net/publication/338827401_It_Happened_to_a_Friend_of_a_Friend_Inaccurate_Source_Reporting_in_Rumor_Diffusion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338827401_It_Happened_to_a_Friend_of_a_Friend_Inaccurate_Source_Reporting_in_Rumor_Diffusion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inaccurate Source Reporting in Rumor Diffusion.In four online experiments (N = 2024) we found that attribution to a credible friend of a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/](https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/fallacy-of-the-day-appeal-to-authority-definition-and-explanation-the-appeal-to-/514119106977040/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “authority” isn&#x27;t an expert. This is probably the most...FALLACY OF THE DAY: APPEAL TO AUTHORITY DEFINITION AND EXPLANATION: The app...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: Full text of "Encyclopedia Of Urban Legends 2nd Edition"  
-   Link: [https://archive.org/stream/EncyclopediaOfUrbanLegends2ndEdition/Encyclopedia%2Bof%2BUrban%2BLegends%2B2nd%2Bedition_djvu.txt](https://archive.org/stream/EncyclopediaOfUrbanLegends2ndEdition/Encyclopedia%2Bof%2BUrban%2BLegends%2B2nd%2Bedition_djvu.txt)  
+   Link: <a href="https://archive.org/stream/EncyclopediaOfUrbanLegends2ndEdition/Encyclopedia%2Bof%2BUrban%2BLegends%2B2nd%2Bedition_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/EncyclopediaOfUrbanLegends2ndEdition/Encyclopedia%2Bof%2BUrban%2BLegends%2B2nd%2Bedition_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>source. Fulman&#x27;s search found no verification for the story, only a chain of friends of friends, and she concluded that “after interrogat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228268129_Urban_Legends_and_New_Media_Postmodern_and_Technological_Changes_in_Traditional_Stories](https://www.researchgate.net/publication/228268129_Urban_Legends_and_New_Media_Postmodern_and_Technological_Changes_in_Traditional_Stories)  
+   Link: <a href="https://www.researchgate.net/publication/228268129_Urban_Legends_and_New_Media_Postmodern_and_Technological_Changes_in_Traditional_Stories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228268129_Urban_Legends_and_New_Media_Postmodern_and_Technological_Changes_in_Traditional_Stories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ore rapidly and intensively thanks to the expansion and acceleration of...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: quicktakes.io  
-   Link: [https://quicktakes.io/learn/philosophy-and-greek-myths/questions/how-can-one-identify-an-anonymous-authority-fallacy-in-a-text](https://quicktakes.io/learn/philosophy-and-greek-myths/questions/how-can-one-identify-an-anonymous-authority-fallacy-in-a-text)  
+   Link: <a href="https://quicktakes.io/learn/philosophy-and-greek-myths/questions/how-can-one-identify-an-anonymous-authority-fallacy-in-a-text" target="_blank" rel="noopener noreferrer nofollow">https://quicktakes.io/learn/philosophy-and-greek-myths/questions/how-can-one-identify-an-anonymous-authority-fallacy-in-a-text</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ing the specific experts or studies can indicate an anonymous authority fallacy...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352368133_The_Overuse_and_Misuse_of_%27Appeal_to_Authority%27](https://www.researchgate.net/publication/352368133_The_Overuse_and_Misuse_of_%27Appeal_to_Authority%27)  
+   Link: <a href="https://www.researchgate.net/publication/352368133_The_Overuse_and_Misuse_of_%27Appeal_to_Authority%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352368133_The_Overuse_and_Misuse_of_%27Appeal_to_Authority%27</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ption of its misuse by logical fallacies to clarifying the correct way of...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/urban-folklore-urban-legends](https://www.ebsco.com/research-starters/social-sciences-and-humanities/urban-folklore-urban-legends)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/urban-folklore-urban-legends" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/urban-folklore-urban-legends</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hat often blend fantastical elements with real-life events, typically set...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thoughtco.com  
    Title: logical fallacies appeal to authority 250336  
-   Link: [https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336](https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336)  
+   Link: <a href="https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies: Appeal to Authority31 Mar 2021 — The Appeal to Anonymous Authority is, essentially, giving testimony or advice that re...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: asuprepdigital.org  
    Title: I Heard it From a Friend of a Friend  
-   Link: [https://www.asuprepdigital.org/student_blog/i-heard-it-from-a-friend-of-a-friend-the-history-of-urban-legends-2/](https://www.asuprepdigital.org/student_blog/i-heard-it-from-a-friend-of-a-friend-the-history-of-urban-legends-2/)  
+   Link: <a href="https://www.asuprepdigital.org/student_blog/i-heard-it-from-a-friend-of-a-friend-the-history-of-urban-legends-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.asuprepdigital.org/student_blog/i-heard-it-from-a-friend-of-a-friend-the-history-of-urban-legends-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The History of Urban...Urban legends originate in densely populated areas, change with every telling, contain some element of truth, usu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Every Logical Fallacy Explained in 8 Minutes w/ Memes  
-   Link: [https://www.youtube.com/watch?v=OLvsifVbCQU](https://www.youtube.com/watch?v=OLvsifVbCQU)  
+   Link: <a href="https://www.youtube.com/watch?v=OLvsifVbCQU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OLvsifVbCQU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of educational videos breaks down the specific logical and psychological fallacies at play when unverified warnings levera...</p></details>

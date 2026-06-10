@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:33:41'
 parent_title: Are You Being Pressured to Join? | Fallacy Lab
 parent_permalink: /bandwagon/
 parent_nav_short_title: Bandwagon
@@ -265,7 +266,6 @@ next_link:
   permalink: /standing-alone/
   short_title: Standing Alone
   heading_title: Why Disagreement Feels Socially Risky
-date: '2026-06-05 02:33:41 '
 header:
   og_image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popularity_reach_not_db9a44-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popularity_reach_not_db9a44-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popular
 
 ## Introduction
 
-A central mistake in [bandwagon]({{ 'bandwagon/' | relative_url }}) reasoning is treating popularity as proof. A claim may be widely shared, heavily downloaded, frequently repeated, or supported by millions of people, yet still require independent evidence before anyone can conclude that it is true, safe, accurate, or high quality. The number of people who encounter or repeat an idea tells us something important about its reach, but not necessarily about its correctness. This distinction lies at the heart of the appeal-to-popularity fallacy, in which a claim is accepted because many people believe it rather than because the claim has been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples - Scribbr20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
+A central mistake in [bandwagon]({{ 'bandwagon/' | relative_url }}) reasoning is treating popularity as proof. A claim may be widely shared, heavily downloaded, frequently repeated, or supported by millions of people, yet still require independent evidence before anyone can conclude that it is true, safe, accurate, or high quality. The number of people who encounter or repeat an idea tells us something important about its reach, but not necessarily about its correctness. This distinction lies at the heart of the appeal-to-popularity fallacy, in which a claim is accepted because many people believe it rather than because the claim has been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - Scribbr20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popularity_reach_not_db9a44-Illustration-1-dark.svg" | relative_url }}" alt="Reach vs Truth illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popularity_reach_not_db9a44-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popularity_reach_not_db9a44-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -286,7 +286,7 @@ Popularity is not meaningless. It can provide useful information when interprete
 
 Most directly, popularity measures exposure. A widely shared post has reached many people. A bestselling book has attracted many buyers. A popular app has achieved broad adoption. These are genuine facts about audience behaviour. They tell us that something has spread successfully through a population. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/appeal-to-popularity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-snippet">The Fallacy GuideAppeal to Popularity Fallacy: Definition, Examples &amp; How to Fix ItAppeals to popularity turn headcount into evidence and...</span></span></span>
 
-Popularity can also function as a clue rather than a conclusion. When people lack direct knowledge, they often use the choices of others as a rough signal. Researchers describe this as [social proof]({{ 'social-proof/' | relative_url }}): individuals infer that a popular option may deserve attention because many others selected it. In uncertain situations, this shortcut can sometimes be efficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newristics.com/heuristics-biases/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newristics.com">[Newristics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newristics.com</span><span class="citation-popover-snippet">NewristicsSocial ProofSocial Proof is the tendency for people to copy or mimic the behavior of others, especially in uncertain and ambigu...</span></span></span>
+Popularity can also function as a clue rather than a conclusion. When people lack direct knowledge, they often use the choices of others as a rough signal. Researchers describe this as [social proof]({{ 'social-proof/' | relative_url }}): individuals infer that a popular option may deserve attention because many others selected it. In uncertain situations, this shortcut can sometimes be efficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newristics.com/heuristics-biases/social-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newristics.com">[Newristics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newristics.com</span><span class="citation-popover-snippet">Social ProofSocial Proof is the tendency for people to copy or mimic the behavior of others, especially in uncertain and ambigu...</span></span></span>
 
 The critical point is that popularity remains a signal, not a verdict. A signal may point toward quality, expertise, usefulness, or truth, but additional evidence is still required. Confusing the signal with the conclusion is where the fallacy begins.
 
@@ -746,7 +746,7 @@ Popularity becomes particularly unreliable when the question concerns factual ac
 
 ### Is a claim true?
 
-Historical examples show that large populations can hold mistaken beliefs for long periods. A belief can be widespread without corresponding to reality. Truth depends on evidence, observation, and reasoning, not on the number of supporters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/askphilosophy/comments/nzqwpf/why_is_argumentum_ad_populum_a_fallacy_why_doesnt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why is argumentum ad populum a fallacy? Why doesn&#x27;t</span><span class="citation-popover-snippet">RedditWhy is argumentum ad populum a fallacy? Why doesn&#x27;t...June 14, 2021 — Argumentum ad populum is a fallacy, because whether a statem...</span><span class="citation-popover-meta">Published: June 14, 2021</span></span></span>
+Historical examples show that large populations can hold mistaken beliefs for long periods. A belief can be widespread without corresponding to reality. Truth depends on evidence, observation, and reasoning, not on the number of supporters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/askphilosophy/comments/nzqwpf/why_is_argumentum_ad_populum_a_fallacy_why_doesnt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why is argumentum ad populum a fallacy? Why doesn&#x27;t</span><span class="citation-popover-snippet">Why is argumentum ad populum a fallacy? Why doesn&#x27;t...June 14, 2021 — Argumentum ad populum is a fallacy, because whether a statem...</span><span class="citation-popover-meta">Published: June 14, 2021</span></span></span>
 
 ### Is a medical treatment effective?
 
@@ -754,7 +754,7 @@ Patient numbers and enthusiastic [testimonials]({{ 'testimonials/' | relative_ur
 
 ### Is information reliable?
 
-A rumour can spread rapidly because it is emotionally engaging, surprising, or socially rewarding to share. Research on misinformation repeatedly shows that virality and accuracy are separate properties. Highly shared information is not automatically trustworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — The results showed that, overall, participants shared m...</span></span></span>
+A rumour can spread rapidly because it is emotionally engaging, surprising, or socially rewarding to share. Research on misinformation repeatedly shows that virality and accuracy are separate properties. Highly shared information is not automatically trustworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — The results showed that, overall, participants shared m...</span></span></span>
 
 ### Is a product high quality?
 
@@ -777,7 +777,7 @@ Examples include:
 
 Here, popularity is not a shortcut; it is the phenomenon being measured.
 
-Popularity may also provide partial evidence in situations where collective [experience]({{ 'experience/' | relative_url }}) matters. If thousands of users independently report the same software bug, that pattern deserves attention. If a scientific consensus emerges after extensive research, the number of experts agreeing may serve as evidence of accumulated investigation. However, even in these cases, the persuasive force comes from the underlying expertise, testing, and evidence, not from headcount alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10603-018-9367-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerShould Prices of Consumer Goods Be Better Indicators of...by H Imkamp · 2018 · Cited by 31 — According to this conception, price...</span></span></span>
+Popularity may also provide partial evidence in situations where collective [experience]({{ 'experience/' | relative_url }}) matters. If thousands of users independently report the same software bug, that pattern deserves attention. If a scientific consensus emerges after extensive research, the number of experts agreeing may serve as evidence of accumulated investigation. However, even in these cases, the persuasive force comes from the underlying expertise, testing, and evidence, not from headcount alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10603-018-9367-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Should Prices of Consumer Goods Be Better Indicators of...by H Imkamp · 2018 · Cited by 31 — According to this conception, price...</span></span></span>
 
 The key distinction is whether popularity is being used as a measurement of behaviour or as a substitute for justification.
 
@@ -820,11 +820,11 @@ Often the discussion then shifts toward evidence that actually bears on the clai
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popularity_reach_not_db9a44-Illustration-3-dark.svg" | relative_url }}" alt="Reach vs Truth illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popularity_reach_not_db9a44-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_popularity_reach_not_db9a44-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reach Is an Outcome, Not a Verification System
 
-The most important lesson is that popularity measures distribution better than accuracy. A message can spread because it is memorable, emotionally powerful, entertaining, profitable, controversial, easy to repeat, or strongly promoted. None of those characteristics guarantees truth. Misinformation Review <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — The results showed that, overall, participants shared m...</span></span></span>
+The most important lesson is that popularity measures distribution better than accuracy. A message can spread because it is memorable, emotionally powerful, entertaining, profitable, controversial, easy to repeat, or strongly promoted. None of those characteristics guarantees truth. Misinformation Review <span class="citation-chip-wrap"><a class="citation-chip" href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insights.som.yale.edu">[Yale Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insights.som.yale.edu</span><span class="citation-popover-snippet">Yale InsightsHow Social Media Rewards Misinformation &#124; Yale Insights31 Mar 2023 — The results showed that, overall, participants shared m...</span></span></span>
 
 Bandwagon arguments become persuasive because reach is visible while evidence is often invisible. People can instantly see views, likes, downloads, votes, and sales figures. Evaluating truth usually requires slower work: checking sources, examining methods, comparing explanations, and testing claims.
 
-Popularity therefore proves one thing with confidence: that many people encountered, repeated, supported, or adopted an idea. Whether the idea is true remains a separate question requiring its own evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples - Scribbr20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
+Popularity therefore proves one thing with confidence: that many people encountered, repeated, supported, or adopted an idea. Whether the idea is true remains a separate question requiring its own evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - Scribbr20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n14qsp2C9Tw" title="Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer">Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Ontology Explained: Philosophy and AI &middot; Views: 372 &middot; Uploaded: October 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n14qsp2C9Tw">Open on YouTube</a></p></div></div></div>
@@ -833,132 +833,132 @@ Popularity therefore proves one thing with confidence: that many people encounte
 
 1. <a id="endnote-1"></a>
    Source: newristics.com  
-   Link: [https://newristics.com/heuristics-biases/social-proof](https://newristics.com/heuristics-biases/social-proof)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NewristicsSocial ProofSocial Proof is the tendency for people to copy or mimic the behavior of others, especially in uncertain and ambigu...</p></details>
+   Link: <a href="https://newristics.com/heuristics-biases/social-proof" target="_blank" rel="noopener noreferrer nofollow">https://newristics.com/heuristics-biases/social-proof</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social ProofSocial Proof is the tendency for people to copy or mimic the behavior of others, especially in uncertain and ambigu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: Why is argumentum ad populum a fallacy? Why doesn't  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/nzqwpf/why_is_argumentum_ad_populum_a_fallacy_why_doesnt/](https://www.reddit.com/r/askphilosophy/comments/nzqwpf/why_is_argumentum_ad_populum_a_fallacy_why_doesnt/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWhy is argumentum ad populum a fallacy? Why doesn&#x27;t...June 14, 2021 — Argumentum ad populum is a fallacy, because whether a statem...</p></details>
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/nzqwpf/why_is_argumentum_ad_populum_a_fallacy_why_doesnt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/nzqwpf/why_is_argumentum_ad_populum_a_fallacy_why_doesnt/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is argumentum ad populum a fallacy? Why doesn&#x27;t...June 14, 2021 — Argumentum ad populum is a fallacy, because whether a statem...</p></details>
    Published: June 14, 2021  
 
 3. <a id="endnote-3"></a>
    Source: insights.som.yale.edu  
-   Link: [https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation](https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation)  
+   Link: <a href="https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://insights.som.yale.edu/insights/how-social-media-rewards-misinformation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale InsightsHow Social Media Rewards Misinformation | Yale Insights31 Mar 2023 — The results showed that, overall, participants shared m...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: econ.umd.edu  
    Title: Price, Quality and Reputation: Evidence from An Online Field  
-   Link: [https://econ.umd.edu/sites/www.econ.umd.edu/files/pubs/ebay-exp-dec0105.pdf](https://econ.umd.edu/sites/www.econ.umd.edu/files/pubs/ebay-exp-dec0105.pdf)  
+   Link: <a href="https://econ.umd.edu/sites/www.econ.umd.edu/files/pubs/ebay-exp-dec0105.pdf" target="_blank" rel="noopener noreferrer nofollow">https://econ.umd.edu/sites/www.econ.umd.edu/files/pubs/ebay-exp-dec0105.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 1, 2005 — by GZ Jin · 2005 · Cited by 424 — Theorists argue that, if consumers do not observe product quality before purchase, t...</p></details>
    Published: December 1, 2005  
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10603-018-9367-2](https://link.springer.com/article/10.1007/s10603-018-9367-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerShould Prices of Consumer Goods Be Better Indicators of...by H Imkamp · 2018 · Cited by 31 — According to this conception, price...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10603-018-9367-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10603-018-9367-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Should Prices of Consumer Goods Be Better Indicators of...by H Imkamp · 2018 · Cited by 31 — According to this conception, price...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11245-022-09872-4](https://link.springer.com/article/10.1007/s11245-022-09872-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerArguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s11245-022-09872-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11245-022-09872-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argumen...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: scribbr.co.uk  
    Title: Scribbr What Is Ad Populum Fallacy? | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/](https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples - Scribbr20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simp...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples - Scribbr20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simp...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/popular.html](https://philosophy.lander.edu/logic/popular.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-popularity](https://fallacyguide.com/fallacies/appeal-to-popularity)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-popularity" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-popularity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideAppeal to Popularity Fallacy: Definition, Examples &amp; How to Fix ItAppeals to popularity turn headcount into evidence and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds](https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds)  
+   Link: <a href="https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/australia-news/article/2024/aug/08/repeating-climate-denial-claims-makes-them-seem-more-credible-australian-led-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The research, published in *Plos One*, was led by Mary Jiang from the Australian National University and highlighted the &quot;illusory truth...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: misinforeview.hks.harvard.edu  
    Title: exposure to social engagement metrics increases vulnerability to misinformation  
-   Link: [https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/](https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/)  
+   Link: <a href="https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/" target="_blank" rel="noopener noreferrer nofollow">https://misinforeview.hks.harvard.edu/article/exposure-to-social-engagement-metrics-increases-vulnerability-to-misinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Bandwagon](https://en.wikipedia.org/wiki/Bandwagon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bandwagon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BandwagonMusic · The Bandwagon, a jazz trio headed by Jason Moran · Johnny Johnson and the Bandwagon, an American soul group, original...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/bandwagon](https://dictionary.cambridge.org/dictionary/english/bandwagon)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary27 May 2026 — an activity, group, etc., that has become successful or fashionable and so attracts...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/bandwagon</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary27 May 2026 — an activity, group, etc., that has become successful or fashionable and so attracts...</p></details>
    Published: May 2026  
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: sp thomas piketty bestseller why  
-   Link: [https://www.theguardian.com/money/2014/sep/21/-sp-thomas-piketty-bestseller-why](https://www.theguardian.com/money/2014/sep/21/-sp-thomas-piketty-bestseller-why)  
+   Link: <a href="https://www.theguardian.com/money/2014/sep/21/-sp-thomas-piketty-bestseller-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/money/2014/sep/21/-sp-thomas-piketty-bestseller-why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is Thomas Piketty&#x27;s 700-page book a bestseller?21 Sept 2014 — A young, little-known French economist has written a 700-page tome abou...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/379187779_Source-credibility_information_and_social_norms_improve_truth_discernment_and_reduce_engagement_with_misinformation_online](https://www.researchgate.net/publication/379187779_Source-credibility_information_and_social_norms_improve_truth_discernment_and_reduce_engagement_with_misinformation_online)  
+   Link: <a href="https://www.researchgate.net/publication/379187779_Source-credibility_information_and_social_norms_improve_truth_discernment_and_reduce_engagement_with_misinformation_online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379187779_Source-credibility_information_and_social_norms_improve_truth_discernment_and_reduce_engagement_with_misinformation_online</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Source-credibility information and social norms...19 Mar 2024 — These findings suggest that people may rely on engagement metrics...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PopularityUsing the popularity of a premise or proposition as evidence for its truthfulness. This is a fallacy which is very di...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Argumentum_ad_populum](https://en.wikipedia.org/wiki/Argumentum_ad_populum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentum_ad_populum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentum_ad_populum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentum ad populumIn argumentation theory, an argumentum ad populum is an informal fallacy that asserts a claim is true, good, or c...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: radiowigwam.co.uk  
-   Link: [https://radiowigwam.co.uk/shows/bandwagon-indie-show/](https://radiowigwam.co.uk/shows/bandwagon-indie-show/)  
+   Link: <a href="https://radiowigwam.co.uk/shows/bandwagon-indie-show/" target="_blank" rel="noopener noreferrer nofollow">https://radiowigwam.co.uk/shows/bandwagon-indie-show/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BANDwagon Indie ShowThe world-famous BANDwagon show, hosted by Christian John features the very best new, unsigned, emerging and under th...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/thesaurus/bandwagon](https://www.merriam-webster.com/thesaurus/bandwagon)  
+   Link: <a href="https://www.merriam-webster.com/thesaurus/bandwagon" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/bandwagon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BANDWAGON Synonyms: 20 Similar WordsSynonyms for BANDWAGON: campaign, movement, crusade, push, cause, juggernaut, initiative, project, bl...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational](https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational)  
+   Link: <a href="https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390564549_Alleviating_the_Bandwagon_Effect_of_Crisis_Misinformation_on_Social_Media_Understanding_Social_Media_Users%27_Bandwagon_Perceptions_and_the_Credibility_of_Crisis_Misinformation_to_Protect_Organizational</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alleviating the Bandwagon Effect of Crisis Misinformation...8 Jan 2026 — The purpose of this study is to explore how the bandwagon cues...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: deusdiapente.wordpress.com  
-   Link: [https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/](https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies As Weak Bayesian Evidence3 Sept 2012 — [Appeal to popularity](&amp;#123;&amp;#123; &#x27;popularity/&#x27; | relative_url &amp;#125;&amp;#125;), of course, is a logical fallacy because in bare bones logic the co...</p></details>
+   Link: <a href="https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/" target="_blank" rel="noopener noreferrer nofollow">https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies As Weak Bayesian Evidence3 Sept 2012 — Appeal to popularity, of course, is a logical fallacy because in bare bones logic the co...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: web.stanford.edu  
-   Link: [https://web.stanford.edu/~gentzkow/research/jepmedia.pdf](https://web.stanford.edu/~gentzkow/research/jepmedia.pdf)  
+   Link: <a href="https://web.stanford.edu/~gentzkow/research/jepmedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~gentzkow/research/jepmedia.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Truth in the Market for Newsby M Gentzkow · Cited by 504 — Thus, having impor- tant exclusives serves as a strong signal of quality m...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cdn.mises.org  
-   Title: Is the Market a Test of Truth and Beauty Essays in Political Economy 2  
-   Link: [https://cdn.mises.org/Is%20the%20Market%20a%20Test%20of%20Truth%20and%20Beauty_%20Essays%20in%20Political%20Economy_2.pdf](https://cdn.mises.org/Is%20the%20Market%20a%20Test%20of%20Truth%20and%20Beauty_%20Essays%20in%20Political%20Economy_2.pdf)  
+   Title: Is the Market a Test of Truth and Beauty [Essays](&#123;&#123; 'essays/' | relative_url &#125;&#125;) in Political Economy 2  
+   Link: <a href="https://cdn.mises.org/Is%20the%20Market%20a%20Test%20of%20Truth%20and%20Beauty_%20Essays%20in%20Political%20Economy_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.mises.org/Is%20the%20Market%20a%20Test%20of%20Truth%20and%20Beauty_%20Essays%20in%20Political%20Economy_2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Market a Test of Truth and Beauty?Asked whether the market is a test of truth and beauty—of excel- lence—Ayn Rand would presumably gi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe persuasive effects of social cues and source  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby CS Traberg · 2024 · Cited by 72 — That is, in some circumstances, social cues (or &#x27;social proof&#x27;) seem to influence individua...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10879158/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby CS Traberg · 2024 · Cited by 72 — That is, in some circumstances, social cues (or &#x27;social proof&#x27;) seem to influence individua...</p></details>

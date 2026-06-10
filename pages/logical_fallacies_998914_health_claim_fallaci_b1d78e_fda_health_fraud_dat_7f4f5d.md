@@ -316,12 +316,12 @@ This matters because consumers often assume that products sold as supplements co
 
 The database is best understood as a screening tool, not a final verdict on every scientific question. Its significance comes from the fact that it records documented regulatory concerns. A listing provides evidence that a product has crossed a threshold that triggered FDA scrutiny. That is valuable information when assessing credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/warning-letters-health-fraud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Warning Letters</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationWarning Letters - Health FraudExamples of FDA Warning Letters that cite unapproved or unsubstantiated cl...</span></span></span>. Food and Drug Administration
 
-Importantly, the database shifts the burden of proof back to where it belongs. Instead of asking sceptics to prove that a product does not work, it highlights situations in which marketers have made health claims without providing adequate support. This is relevant to logical fallacies because fraudulent or unsupported claims often survive by reversing that burden and demanding that critics disprove them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3846963/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFederal Regulation of Unapproved Chelation Products</span><span class="citation-popover-snippet">PMCby CE Lee · 2013 · Cited by 4 — The FDA defines health fraud as the deceptive promotion, advertising, distribution, or sale of a produ...</span></span></span>
+Importantly, the database shifts the burden of proof back to where it belongs. Instead of asking sceptics to prove that a product does not work, it highlights situations in which marketers have made health claims without providing adequate support. This is relevant to logical fallacies because fraudulent or unsupported claims often survive by reversing that burden and demanding that critics disprove them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3846963/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFederal Regulation of Unapproved Chelation Products</span><span class="citation-popover-snippet">by CE Lee · 2013 · Cited by 4 — The FDA defines health fraud as the deceptive promotion, advertising, distribution, or sale of a produ...</span></span></span>
 
 The existence of more than a thousand fraudulent or contaminated products identified by the FDA illustrates that unsupported health claims are not rare [exceptions]({{ 'exceptions/' | relative_url }}). They are recurring features of the consumer health marketplace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/warning-letters-health-fraud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Warning Letters</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationWarning Letters - Health FraudExamples of FDA Warning Letters that cite unapproved or unsubstantiated cl...</span></span></span>. Food and Drug Administration
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KsPlwKbGxE8" title="Health Fraud Scams -- Be Smart, Be Aware, Be Careful Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KsPlwKbGxE8" target="_blank" rel="noopener noreferrer">Health Fraud Scams -- Be Smart, Be Aware, Be Careful Video</a></p><p class="youtube-embed-meta">Channel: U.S. Food and Drug Administration &middot; Views: 146.2K &middot; Uploaded: March 2011 &middot; Length: 3 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KsPlwKbGxE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KsPlwKbGxE8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lHwdYLlGrbk" title="Weight Loss Fraud: Don&#x27;t Be a Victim—&quot;Dietary Supplements&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lHwdYLlGrbk" target="_blank" rel="noopener noreferrer">Weight Loss Fraud: Don&#x27;t Be a Victim—&quot;Dietary Supplements&quot;</a></p><p class="youtube-embed-meta">Channel: U.S. Food and Drug Administration &middot; Views: 16.6K &middot; Uploaded: March 2011 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lHwdYLlGrbk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lHwdYLlGrbk">Open on YouTube</a></p></div></div></div>
 
 ## Limits of warning lists and why absence is not approval
 
@@ -343,7 +343,7 @@ The FDA Health Fraud Product Database offers a practical lesson in critical thin
 Its most important message is not that every listed product is identical or equally risky. Rather, it demonstrates that consumer demand and scientific validation are different things. When regulators repeatedly identify products making unsupported treatment claims, containing hidden ingredients, or presenting themselves as alternatives to proven therapies, the database becomes a reminder that evidence—not popularity—is the standard by which health claims should be judged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2706496" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamanetwork.com">[JAMA Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamanetwork.com</span><span class="citation-popover-snippet">JAMA NetworkUnapproved Pharmaceutical Ingredients in Dietary...by J Tucker · 2018 · Cited by 317 — Unapproved pharmaceutical ingredients...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/warning-letters-health-fraud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[2U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">U.S. Food and Drug Administration Warning Letters</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationWarning Letters - Health FraudExamples of FDA Warning Letters that cite unapproved or unsubstantiated cl...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lHwdYLlGrbk" title="Weight Loss Fraud: Don&#x27;t Be a Victim—&quot;Dietary Supplements&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lHwdYLlGrbk" target="_blank" rel="noopener noreferrer">Weight Loss Fraud: Don&#x27;t Be a Victim—&quot;Dietary Supplements&quot;</a></p><p class="youtube-embed-meta">Channel: U.S. Food and Drug Administration &middot; Views: 16.6K &middot; Uploaded: March 2011 &middot; Length: 1 minute 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lHwdYLlGrbk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lHwdYLlGrbk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CY79Ga2093s" title="Medication Health Fraud and Avoiding Medication Scams with Cynthia Ng" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CY79Ga2093s" target="_blank" rel="noopener noreferrer">Medication Health Fraud and Avoiding Medication Scams with Cynthia Ng</a></p><p class="youtube-embed-meta">Channel: U.S. Food and Drug Administration &middot; Views: 378 &middot; Uploaded: November 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CY79Ga2093s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CY79Ga2093s">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -768,163 +768,163 @@ Its most important message is not that every listed product is identical or equa
 1. <a id="endnote-1"></a>
    Source: fda.gov  
    Title: health fraud product database  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database](https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health frau...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: fda.gov  
    Title: U.S. Food and Drug Administration Warning Letters  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/warning-letters-health-fraud](https://www.fda.gov/consumers/health-fraud-scams/warning-letters-health-fraud)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/warning-letters-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/warning-letters-health-fraud</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationWarning Letters - Health FraudExamples of FDA Warning Letters that cite unapproved or unsubstantiated cl...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fda.gov  
    Title: 6 tip offs rip offs dont fall health fraud scams  
-   Link: [https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams](https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams)  
+   Link: <a href="https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug Administration6 Tip-offs to Rip-offs: Don&#x27;t Fall for Health Fraud ScamsMar 4, 2021 — A health product is fraudulent if it i...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFederal Regulation of Unapproved Chelation Products  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3846963/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3846963/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby CE Lee · 2013 · Cited by 4 — The FDA defines health fraud as the deceptive promotion, [advertising](&amp;#123;&amp;#123; &#x27;advertising/&#x27; | relative_url &amp;#125;&amp;#125;), distribution, or sale of a produ...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3846963/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3846963/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by CE Lee · 2013 · Cited by 4 — The FDA defines health fraud as the deceptive promotion, [advertising](&amp;#123;&amp;#123; &#x27;advertising/&#x27; | relative_url &amp;#125;&amp;#125;), distribution, or sale of a produ...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: fda.gov  
    Title: medication health fraud specific diseases and conditions  
-   Link: [https://www.fda.gov/drugs/medication-health-fraud/medication-health-fraud-specific-diseases-and-conditions](https://www.fda.gov/drugs/medication-health-fraud/medication-health-fraud-specific-diseases-and-conditions)  
+   Link: <a href="https://www.fda.gov/drugs/medication-health-fraud/medication-health-fraud-specific-diseases-and-conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud/medication-health-fraud-specific-diseases-and-conditions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationMedication Health Fraud for Specific Diseases and...28 Jan 2026 — Unproven drug products for sale that claim...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/questions-and-answers-fda-alerts-companies-stop-illegal-sale-products-claiming-treat-alzheimers](https://www.fda.gov/consumers/health-fraud-scams/questions-and-answers-fda-alerts-companies-stop-illegal-sale-products-claiming-treat-alzheimers)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/questions-and-answers-fda-alerts-companies-stop-illegal-sale-products-claiming-treat-alzheimers" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/questions-and-answers-fda-alerts-companies-stop-illegal-sale-products-claiming-treat-alzheimers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationQuestions and Answers: FDA alerts companies to stop the...Apr 21, 2019 — Questions and Answers: FDA alerts c...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ajmc.com  
    Title: fda denounces cruel deception by 14 companies selling fake cancer cures  
-   Link: [https://www.ajmc.com/view/fda-denounces-cruel-deception-by-14-companies-selling-fake-cancer-cures](https://www.ajmc.com/view/fda-denounces-cruel-deception-by-14-companies-selling-fake-cancer-cures)  
+   Link: <a href="https://www.ajmc.com/view/fda-denounces-cruel-deception-by-14-companies-selling-fake-cancer-cures" target="_blank" rel="noopener noreferrer nofollow">https://www.ajmc.com/view/fda-denounces-cruel-deception-by-14-companies-selling-fake-cancer-cures</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Denounces &quot;Cruel Deception&quot; by 14 Companies...26 Apr 2017 — The FDA announced yesterday it had issued warning letters to 14 companie...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: fda.gov  
    Title: fraudulent products  
-   Link: [https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products](https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products)  
+   Link: <a href="https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud/fraudulent-products</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationFraudulent ProductsDec 2, 2025 — Consumers should avoid products marketed as supplements or other types...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fda.gov  
    Title: fraudulent coronavirus disease 2019 covid 19 products  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/fraudulent-coronavirus-disease-2019-covid-19-products](https://www.fda.gov/consumers/health-fraud-scams/fraudulent-coronavirus-disease-2019-covid-19-products)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/fraudulent-coronavirus-disease-2019-covid-19-products" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/fraudulent-coronavirus-disease-2019-covid-19-products</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationFraudulent Coronavirus Disease 2019 (COVID-19) ProductsFDA is issuing warning letters to firms for selling fr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2020/03/ftc-fda-send-warning-letters-seven-companies-about-unsupported-claims-products-can-treat-or-prevent](https://www.ftc.gov/news-events/news/press-releases/2020/03/ftc-fda-send-warning-letters-seven-companies-about-unsupported-claims-products-can-treat-or-prevent)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2020/03/ftc-fda-send-warning-letters-seven-companies-about-unsupported-claims-products-can-treat-or-prevent" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2020/03/ftc-fda-send-warning-letters-seven-companies-about-unsupported-claims-products-can-treat-or-prevent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC, FDA Send Warning Letters to Seven Companies...Mar 9, 2020 — The letters advise the recipients to immediatel...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: fda.gov  
    Title: public notifications health fraud  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/public-notifications-health-fraud](https://www.fda.gov/consumers/health-fraud-scams/public-notifications-health-fraud)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/public-notifications-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/public-notifications-health-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationPublic Notifications - Health FraudNov 18, 2025 — For all tainted products marketed as dietary supplements or...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fda.gov  
    Title: help others stay safe medication health fraud  
-   Link: [https://www.fda.gov/drugs/medication-health-fraud/help-others-stay-safe-medication-health-fraud](https://www.fda.gov/drugs/medication-health-fraud/help-others-stay-safe-medication-health-fraud)  
+   Link: <a href="https://www.fda.gov/drugs/medication-health-fraud/help-others-stay-safe-medication-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/medication-health-fraud/help-others-stay-safe-medication-health-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationHelp Others Stay Safe from Medication Health Fraud10 Jun 2025 — FDA has found more than 1,000 fraudulent and...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: fda.gov  
    Title: medication health fraud  
-   Link: [https://www.fda.gov/drugs/buying-using-medicine-safely/medication-health-fraud](https://www.fda.gov/drugs/buying-using-medicine-safely/medication-health-fraud)  
+   Link: <a href="https://www.fda.gov/drugs/buying-using-medicine-safely/medication-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/buying-using-medicine-safely/medication-health-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationMedication Health Fraud10 Jun 2025 — FDA has found more than 1,000 fraudulent products that make false o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams](https://www.fda.gov/consumers/health-fraud-scams)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Fraud ScamsHealth fraud scams refer to products that claim to prevent, treat, or cure diseases or other health conditions, but are...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/](https://www.fda.gov/)  
+   Link: <a href="https://www.fda.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationWe Regulate Food Drugs, Medical Devices, Radiation-Emitting Products, Vaccines, Blood, and Biologics, An...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fda.gov  
    Title: Press Announcements  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/press-announcements-health-fraud](https://www.fda.gov/consumers/health-fraud-scams/press-announcements-health-fraud)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/press-announcements-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/press-announcements-health-fraud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health FraudFeb 4, 2026 — 09/12/2023, FDA Issues Warning Letters to Firms Marketing Unapproved Eye Products; 07/03/2023, FDA warns consu...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: fda.gov  
    Title: Health Fraud Scams  
-   Link: [https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video](https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video)  
+   Link: <a href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/health-fraud-scams/health-fraud-scams-be-smart-be-aware-be-careful-video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Be Smart, Be Aware, Be Careful (Video)We&#x27;ll show you how to see through health fraud scams by being smart being aware and by being carefu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: jamanetwork.com  
-   Link: [https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2706496](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2706496)  
+   Link: <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2706496" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2706496</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JAMA NetworkUnapproved Pharmaceutical Ingredients in Dietary...by J Tucker · 2018 · Cited by 317 — Unapproved pharmaceutical ingredients...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: cancernetwork.com  
-   Link: [https://www.cancernetwork.com/view/fda-cracks-down-unapproved-direct-consumer-cancer-cures](https://www.cancernetwork.com/view/fda-cracks-down-unapproved-direct-consumer-cancer-cures)  
+   Link: <a href="https://www.cancernetwork.com/view/fda-cracks-down-unapproved-direct-consumer-cancer-cures" target="_blank" rel="noopener noreferrer nofollow">https://www.cancernetwork.com/view/fda-cracks-down-unapproved-direct-consumer-cancer-cures</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Cracks Down on Unapproved Direct-to-Consumer...The FDA has sent warning letters to 14 companies marketing dozens of unapproved “mira...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thefdalawblog.com  
-   Link: [https://www.thefdalawblog.com/](https://www.thefdalawblog.com/)  
+   Link: <a href="https://www.thefdalawblog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.thefdalawblog.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Law BlogThe final [rule limits](&amp;#123;&amp;#123; &#x27;rule-limits/&#x27; | relative_url &amp;#125;&amp;#125;) rescheduling to FDA-approved drug products containing delta-9-tetrahydrocannabinol (“THC”) that meet th...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: crnusa.org  
-   Link: [https://www.crnusa.org/fda-warning-letters-database-dietary-supplements](https://www.crnusa.org/fda-warning-letters-database-dietary-supplements)  
+   Link: <a href="https://www.crnusa.org/fda-warning-letters-database-dietary-supplements" target="_blank" rel="noopener noreferrer nofollow">https://www.crnusa.org/fda-warning-letters-database-dietary-supplements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Warning Letters Database for Dietary SupplementsThis free online tool compiled FDA Warning Letters sent to dietary supplement compani...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: rxwiki.com  
-   Link: [https://www.rxwiki.com/news-article/fda-warns-about-false-claims-related-health-products](https://www.rxwiki.com/news-article/fda-warns-about-false-claims-related-health-products)  
+   Link: <a href="https://www.rxwiki.com/news-article/fda-warns-about-false-claims-related-health-products" target="_blank" rel="noopener noreferrer nofollow">https://www.rxwiki.com/news-article/fda-warns-about-false-claims-related-health-products</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA warns about false claims related to health productsSome of these products claim to treat to prevent, treat, or cure diseases or other...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: medshadow.org  
-   Link: [https://medshadow.org/drug-updates-recalls/fda-recalls-and-warnings/fda-drug-recalls-and-warnings-risks-associated-with-finasteride-hair-loss-treatments-and-more/](https://medshadow.org/drug-updates-recalls/fda-recalls-and-warnings/fda-drug-recalls-and-warnings-risks-associated-with-finasteride-hair-loss-treatments-and-more/)  
+   Link: <a href="https://medshadow.org/drug-updates-recalls/fda-recalls-and-warnings/fda-drug-recalls-and-warnings-risks-associated-with-finasteride-hair-loss-treatments-and-more/" target="_blank" rel="noopener noreferrer nofollow">https://medshadow.org/drug-updates-recalls/fda-recalls-and-warnings/fda-drug-recalls-and-warnings-risks-associated-with-finasteride-hair-loss-treatments-and-more/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Finasteride Hair Loss Risks &amp; FDA Drug RecallsFDA warns of risks with finasteride hair loss drugs sold online, plus recalls of duloxetine...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: prnewswire.com  
-   Link: [https://www.prnewswire.com/news-releases/coronavirus-update-fda-and-ftc-warn-seven-companies-selling-fraudulent-products-that-claim-to-treat-or-prevent-covid-19-301019760.html](https://www.prnewswire.com/news-releases/coronavirus-update-fda-and-ftc-warn-seven-companies-selling-fraudulent-products-that-claim-to-treat-or-prevent-covid-19-301019760.html)  
+   Link: <a href="https://www.prnewswire.com/news-releases/coronavirus-update-fda-and-ftc-warn-seven-companies-selling-fraudulent-products-that-claim-to-treat-or-prevent-covid-19-301019760.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/coronavirus-update-fda-and-ftc-warn-seven-companies-selling-fraudulent-products-that-claim-to-treat-or-prevent-covid-19-301019760.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA and FTC Warn Seven Companies Selling Fraudulent...Mar 9, 2020 — The FDA reminds consumers to be cautious of websites and stores sell...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pharmacyservices.utah.edu  
-   Link: [https://pharmacyservices.utah.edu/alerts/2017/04/illegal-cancer-products-fraudulent-claims-of-cancer-prevention-diagnosis-treatment](https://pharmacyservices.utah.edu/alerts/2017/04/illegal-cancer-products-fraudulent-claims-of-cancer-prevention-diagnosis-treatment)  
+   Link: <a href="https://pharmacyservices.utah.edu/alerts/2017/04/illegal-cancer-products-fraudulent-claims-of-cancer-prevention-diagnosis-treatment" target="_blank" rel="noopener noreferrer nofollow">https://pharmacyservices.utah.edu/alerts/2017/04/illegal-cancer-products-fraudulent-claims-of-cancer-prevention-diagnosis-treatment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer Products - Fraudulent Claims...26 Apr 2017 — FDA is warning consumers and health care professionals that several companies have s...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
    Title: this list includes unapproved products that have been subject to fda health frau  
-   Link: [https://www.facebook.com/CarrollCountyHealthDeptMD/posts/this-list-includes-unapproved-products-that-have-been-subject-to-fda-health-frau/602191978588425/](https://www.facebook.com/CarrollCountyHealthDeptMD/posts/this-list-includes-unapproved-products-that-have-been-subject-to-fda-health-frau/602191978588425/)  
+   Link: <a href="https://www.facebook.com/CarrollCountyHealthDeptMD/posts/this-list-includes-unapproved-products-that-have-been-subject-to-fda-health-frau/602191978588425/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CarrollCountyHealthDeptMD/posts/this-list-includes-unapproved-products-that-have-been-subject-to-fda-health-frau/602191978588425/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carroll County Health DepartmentFeb 10, 2023 — This list includes unapproved products that have been subject to FDA health fraud* related...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: mintz.com  
    Title: 2025 07 21 fda warning letter reminds industry wellness claims only  
-   Link: [https://www.mintz.com/insights-center/viewpoints/2791/2025-07-21-fda-warning-letter-reminds-industry-wellness-claims-only](https://www.mintz.com/insights-center/viewpoints/2791/2025-07-21-fda-warning-letter-reminds-industry-wellness-claims-only)  
+   Link: <a href="https://www.mintz.com/insights-center/viewpoints/2791/2025-07-21-fda-warning-letter-reminds-industry-wellness-claims-only" target="_blank" rel="noopener noreferrer nofollow">https://www.mintz.com/insights-center/viewpoints/2791/2025-07-21-fda-warning-letter-reminds-industry-wellness-claims-only</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Warning Letter Reminds Industry that Wellness...Jul 21, 2025 — FDA Warning Letter Reminds Industry that Wellness Claims Only Go So F...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: journalofethics.ama-assn.org  
    Title: Health Fraud Product Database. US Food and Drug  
-   Link: [https://journalofethics.ama-assn.org/article/my-patient-taking-unsafe-dietary-supplement/2022-05](https://journalofethics.ama-assn.org/article/my-patient-taking-unsafe-dietary-supplement/2022-05)  
+   Link: <a href="https://journalofethics.ama-assn.org/article/my-patient-taking-unsafe-dietary-supplement/2022-05" target="_blank" rel="noopener noreferrer nofollow">https://journalofethics.ama-assn.org/article/my-patient-taking-unsafe-dietary-supplement/2022-05</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AMA Journal of EthicsIs My Patient Taking an Unsafe Dietary Supplement?by IBG Bernstein · 2022 · Cited by 8 — To date, the FDA has found...</p></details>

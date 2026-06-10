@@ -274,7 +274,7 @@ False cause claims often survive because they tell a convincing story: one event
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-1-dark.svg" | relative_url }}" alt="Counterfactuals illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach is central to modern thinking about causation. In philosophy, law, epidemiology, and causal inference, a causal claim becomes more credible when the outcome would likely have been different without the alleged cause. If the outcome probably would have happened regardless, the apparent cause loses much of its explanatory power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Causation in the Law</span><span class="citation-popover-snippet">Such a test asks a counterfactual question: “but for the defendant&#x27;s action, would the victim have...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">causation counterfactual</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyCounterfactual Theories of Causationby P Menzies · 2001 · Cited by 605 — The basic idea of counterfact...</span></span></span>
 
-Within [post hoc reasoning]({{ 'false-cause/' | relative_url }}), counterfactual questions matter because they shift attention away from sequence alone. Instead of asking whether A came before B, they ask whether A actually changed the course of events.
+Within [post hoc]({{ 'post-hoc/' | relative_url }}) reasoning, counterfactual questions matter because they shift attention away from sequence alone. Instead of asking whether A came before B, they ask whether A actually changed the course of events.
 
 ## The Basic Counterfactual Test for Causation
 
@@ -297,7 +297,7 @@ Consider three common situations:
 
 </div>
 
-A [post hoc]({{ 'post-hoc/' | relative_url }}) argument treats the sequence as evidence of causation. A counterfactual question asks whether recovery, improvement, or success was already likely for other reasons. If the answer is yes, the timing becomes much less persuasive.
+A post hoc argument treats the sequence as evidence of causation. A counterfactual question asks whether recovery, improvement, or success was already likely for other reasons. If the answer is yes, the timing becomes much less persuasive.
 
 The strength of this approach is that it forces a comparison between reality and a plausible alternative reality. Rather than accepting the first explanation that fits the timeline, it asks whether the alleged cause actually changed expectations about the outcome.
 
@@ -314,7 +314,7 @@ People often seek treatment, make changes, or take action when a problem is at i
 
 A person with severe back pain may begin a new therapy during a particularly painful episode. If symptoms improve a week later, the therapy may receive full credit. Yet some of that improvement may have occurred anyway because the episode was already likely to ease.
 
-This problem is closely related to [regression]({{ 'regression/' | relative_url }}) to the mean, a statistical phenomenon in which unusually extreme measurements tend to move closer to average on subsequent observations. Researchers have repeatedly warned that regression to the mean can create the illusion that an intervention caused improvement when the apparent improvement would have occurred naturally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3849564/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAssessing regression to the mean effects in health care</span><span class="citation-popover-snippet">PMCby A Linden · 2013 · Cited by 238 — This statistical phenomenon is known as “regression to the mean” (RTM) and often leads to an inacc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jech.bmj.com/content/70/Suppl_1/A49.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[2J Epidemiol Community Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">J Epidemiol Community HealthOP89 Quantifying bias due to regression to the mean in...by SC Gadd · 2016 — Methods used to analyse these r...</span></span></span>
+This problem is closely related to [regression]({{ 'regression/' | relative_url }}) to the mean, a statistical phenomenon in which unusually extreme measurements tend to move closer to average on subsequent observations. Researchers have repeatedly warned that regression to the mean can create the illusion that an intervention caused improvement when the apparent improvement would have occurred naturally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3849564/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAssessing regression to the mean effects in health care</span><span class="citation-popover-snippet">by A Linden · 2013 · Cited by 238 — This statistical phenomenon is known as “regression to the mean” (RTM) and often leads to an inacc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jech.bmj.com/content/70/Suppl_1/A49.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jech.bmj.com">[2J Epidemiol Community Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jech.bmj.com</span><span class="citation-popover-snippet">J Epidemiol Community HealthOP89 Quantifying bias due to regression to the mean in...by SC Gadd · 2016 — Methods used to analyse these r...</span></span></span>
 
 A useful counterfactual question is: <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[plato.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Causation in the Law</span><span class="citation-popover-snippet">Such a test asks a counterfactual question: “but for the defendant&#x27;s action, would the victim have...Read more...</span></span></span>
 
@@ -377,7 +377,7 @@ These questions do not guarantee the correct answer. Their value lies in forcing
 
 A genuine cause must usually occur before its effect. However, temporality is only a starting point, not a conclusion.
 
-In epidemiology, temporality is considered a necessary condition for causation, but researchers evaluate causal claims using a broader pattern of evidence. The widely used Bradford Hill framework treats timing as important while recognising that causal conclusions require more than sequence alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rtihs.org/sites/default/files/26902%20Rothman%201998%20The%20encyclopedia%20of%20biostatistics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtihs.org">[rtihs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtihs.org</span><span class="citation-popover-snippet">ause did not precede the effect, that indeed is indisputable.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3849564/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAssessing regression to the mean effects in health care</span><span class="citation-popover-snippet">PMCby A Linden · 2013 · Cited by 238 — This statistical phenomenon is known as “regression to the mean” (RTM) and often leads to an inacc...</span></span></span> HealthKnowledge This distinction matters because many unrelated events occur in sequence purely by chance. If timing were enough <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=dUFXhQfh24Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Causation # 1</span><span class="citation-popover-snippet">Counterfactual Theories of Causation | Philosopher Friends...</span></span></span>, countless coincidental patterns would qualify as causes.
+In epidemiology, temporality is considered a necessary condition for causation, but researchers evaluate causal claims using a broader pattern of evidence. The widely used Bradford Hill framework treats timing as important while recognising that causal conclusions require more than sequence alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rtihs.org/sites/default/files/26902%20Rothman%201998%20The%20encyclopedia%20of%20biostatistics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rtihs.org">[rtihs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rtihs.org</span><span class="citation-popover-snippet">ause did not precede the effect, that indeed is indisputable.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3849564/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAssessing regression to the mean effects in health care</span><span class="citation-popover-snippet">by A Linden · 2013 · Cited by 238 — This statistical phenomenon is known as “regression to the mean” (RTM) and often leads to an inacc...</span></span></span> HealthKnowledge This distinction matters because many unrelated events occur in sequence purely by chance. If timing were enough <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=dUFXhQfh24Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Causation # 1</span><span class="citation-popover-snippet">Counterfactual Theories of Causation &#124; Philosopher Friends...</span></span></span>, countless coincidental patterns would qualify as causes.
 
 Counterfactual questions help reveal when timing is carrying more evidential weight than it deserves. They encourage investigation of background trends, comparison groups, alternative explanations, and natural variation rather than treating chronology as proof.
 
@@ -810,149 +810,149 @@ When a claim survives that test, it becomes more credible. When the outcome appe
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: causation counterfactual  
-   Link: [https://plato.stanford.edu/entries/causation-counterfactual/](https://plato.stanford.edu/entries/causation-counterfactual/)  
+   Link: <a href="https://plato.stanford.edu/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-counterfactual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCounterfactual Theories of Causationby P Menzies · 2001 · Cited by 605 — The basic idea of counterfact...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Causation in the Law  
-   Link: [https://plato.stanford.edu/entries/causation-law/](https://plato.stanford.edu/entries/causation-law/)  
+   Link: <a href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-law/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Such a test asks a counterfactual question: “but for the defendant&#x27;s action, would the victim have...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: causation counterfactual  
-   Link: [https://plato.stanford.edu/archives/win2018/entries/causation-counterfactual/](https://plato.stanford.edu/archives/win2018/entries/causation-counterfactual/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2018/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2018/entries/causation-counterfactual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCounterfactual Theories of CausationJan 10, 2001 — The basic idea of counterfactual theories of causat...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAssessing regression to the mean effects in health care  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3849564/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3849564/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby A Linden · 2013 · Cited by 238 — This statistical phenomenon is known as “regression to the mean” (RTM) and often leads to an inacc...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3849564/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3849564/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Linden · 2013 · Cited by 238 — This statistical phenomenon is known as “regression to the mean” (RTM) and often leads to an inacc...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4589117/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4589117/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCApplying the Bradford Hill criteria in the 21st century: how data...by KM Fedak · 2015 · Cited by 889 — In 1965, Sir Austin Bradford...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4589117/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4589117/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Bradford Hill criteria in the 21st century: how data...by KM Fedak · 2015 · Cited by 889 — In 1965, Sir Austin Bradford...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAssessing causality in epidemiology: revisiting Bradford Hill to...by M Shimonovich · 2020 · Cited by 219 — Temporality is considered...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing causality in epidemiology: revisiting Bradford Hill to...by M Shimonovich · 2020 · Cited by 219 — Temporality is considered...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: rtihs.org  
-   Link: [https://www.rtihs.org/sites/default/files/26902%20Rothman%201998%20The%20encyclopedia%20of%20biostatistics.pdf](https://www.rtihs.org/sites/default/files/26902%20Rothman%201998%20The%20encyclopedia%20of%20biostatistics.pdf)  
+   Link: <a href="https://www.rtihs.org/sites/default/files/26902%20Rothman%201998%20The%20encyclopedia%20of%20biostatistics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rtihs.org/sites/default/files/26902%20Rothman%201998%20The%20encyclopedia%20of%20biostatistics.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ause did not precede the effect, that indeed is indisputable.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Counterfactuals  
-   Link: [https://plato.stanford.edu/entries/counterfactuals/](https://plato.stanford.edu/entries/counterfactuals/)  
+   Link: <a href="https://plato.stanford.edu/entries/counterfactuals/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/counterfactuals/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What if Martin Luther King had died when he was stabbed in 1958...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: causation counterfactual  
-   Link: [https://plato.stanford.edu/archives/fall2019/entries/causation-counterfactual/](https://plato.stanford.edu/archives/fall2019/entries/causation-counterfactual/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/causation-counterfactual/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of Causation10 Jan 2001 — The counterfactuals state dependences of whether, when, and how one event occurs on whether, when, and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: causation counterfactual  
-   Link: [https://plato.stanford.edu/archives/win2006/entries/causation-counterfactual/](https://plato.stanford.edu/archives/win2006/entries/causation-counterfactual/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2006/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2006/entries/causation-counterfactual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of Causation10 Jan 2001 — The theory assumes that causation is an absolute relation whose nature does not vary from one [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/causation-regularity/](https://plato.stanford.edu/entries/causation-regularity/)  
+   Link: <a href="https://plato.stanford.edu/entries/causation-regularity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-regularity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Inferential Theories of Causationby H Andreas · 2021 · Cited by 37 — Since then, counterfactual theories of causation have risen and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: causation physics  
-   Link: [https://plato.stanford.edu/entries/causation-physics/](https://plato.stanford.edu/entries/causation-physics/)  
+   Link: <a href="https://plato.stanford.edu/entries/causation-physics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-physics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Physics - Stanford Encyclopedia of Philosophyby M Frisch · 2020 · Cited by 49 — A lively and active philosophical [debate](&amp;#123;&amp;#123; &#x27;debate/&#x27; | relative_url &amp;#125;&amp;#125;) on whether ca...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: causation counterfactual  
-   Link: [https://plato.stanford.edu/archives/fall2003/entries/causation-counterfactual/](https://plato.stanford.edu/archives/fall2003/entries/causation-counterfactual/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2003/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/causation-counterfactual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of Causation12 Jan 2001 — The basic idea of counterfactual theories of causation is that the meaning of a singular causal claim...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Causation # 1  
-   Link: [https://www.youtube.com/watch?v=dUFXhQfh24Y](https://www.youtube.com/watch?v=dUFXhQfh24Y)  
+   Link: <a href="https://www.youtube.com/watch?v=dUFXhQfh24Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dUFXhQfh24Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Counterfactual Theories of Causation | Philosopher Friends...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Counterfactual Theories of Causation | Philosopher Friends  
-   Link: [https://www.youtube.com/watch?v=qHkWZUBNJbE](https://www.youtube.com/watch?v=qHkWZUBNJbE)  
+   Link: <a href="https://www.youtube.com/watch?v=qHkWZUBNJbE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qHkWZUBNJbE</a>  
 
 16. <a id="endnote-16"></a>
    Source: jech.bmj.com  
-   Link: [https://jech.bmj.com/content/70/Suppl_1/A49.1](https://jech.bmj.com/content/70/Suppl_1/A49.1)  
+   Link: <a href="https://jech.bmj.com/content/70/Suppl_1/A49.1" target="_blank" rel="noopener noreferrer nofollow">https://jech.bmj.com/content/70/Suppl_1/A49.1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J Epidemiol Community HealthOP89 Quantifying bias due to regression to the mean in...by SC Gadd · 2016 — Methods used to analyse these r...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: research.manchester.ac.uk  
    Title: manchester.ac.uk Counterfactual Theories of Causation  
-   Link: [https://research.manchester.ac.uk/en/publications/counterfactual-theories-of-causation](https://research.manchester.ac.uk/en/publications/counterfactual-theories-of-causation)  
+   Link: <a href="https://research.manchester.ac.uk/en/publications/counterfactual-theories-of-causation" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/counterfactual-theories-of-causation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of Causation - Research Explorerby H Beebee · 2019 · Cited by 8 — The basic idea of counterfactual theories of causation is that...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/richard-hahn-a1096050_the-so-called-bradford-hill-criteria-are-activity-7432457882136244224-7vEb](https://www.linkedin.com/posts/richard-hahn-a1096050_the-so-called-bradford-hill-criteria-are-activity-7432457882136244224-7vEb)  
+   Link: <a href="https://www.linkedin.com/posts/richard-hahn-a1096050_the-so-called-bradford-hill-criteria-are-activity-7432457882136244224-7vEb" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/richard-hahn-a1096050_the-so-called-bradford-hill-criteria-are-activity-7432457882136244224-7vEb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bradford Hill Criteria for Causal Inference in MedicineThe so-called “Bradford Hill criteria” are a set of nine desiderata that were prop...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: healthknowledge.org.uk  
-   Link: [https://www.healthknowledge.org.uk/e-learning/epidemiology/practitioners/causation-epidemiology-[association](https://www.healthknowledge.org.uk/e-learning/epidemiology/practitioners/causation-epidemiology-[association)  
+   Link: <a href="https://www.healthknowledge.org.uk/e-learning/epidemiology/practitioners/causation-epidemiology-[association" target="_blank" rel="noopener noreferrer nofollow">https://www.healthknowledge.org.uk/e-learning/epidemiology/practitioners/causation-epidemiology-[association</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Causation in epidemiology: association and causationThe Bradford-Hill criteria are widely used in epidemiology as providing a framework a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: benlengerich.medium.com  
-   Link: [https://benlengerich.medium.com/inverse-bradford-hill-criteria-how-association-flirts-with-causality-in-real-world-evidence-and-93db480c48fe](https://benlengerich.medium.com/inverse-bradford-hill-criteria-how-association-flirts-with-causality-in-real-world-evidence-and-93db480c48fe)  
+   Link: <a href="https://benlengerich.medium.com/inverse-bradford-hill-criteria-how-association-flirts-with-causality-in-real-world-evidence-and-93db480c48fe" target="_blank" rel="noopener noreferrer nofollow">https://benlengerich.medium.com/inverse-bradford-hill-criteria-how-association-flirts-with-causality-in-real-world-evidence-and-93db480c48fe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bradford Hill Criteria: How Association Flirts with...Let&#x27;s look at how Mendelian Randomization applies these principles to use the natu...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: embryo.asu.edu  
    Title: environment and disease association or causation 1965 austin bradford hill  
-   Link: [https://embryo.asu.edu/pages/environment-and-disease-association-or-causation-1965-austin-bradford-hill](https://embryo.asu.edu/pages/environment-and-disease-association-or-causation-1965-austin-bradford-hill)  
+   Link: <a href="https://embryo.asu.edu/pages/environment-and-disease-association-or-causation-1965-austin-bradford-hill" target="_blank" rel="noopener noreferrer nofollow">https://embryo.asu.edu/pages/environment-and-disease-association-or-causation-1965-austin-bradford-hill</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or Causation?&quot; (1965), by Austin Bradford Hill23 Mar 2017 — The fourth criterion is temporality, which he defines as determining whether...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: usablebuildings.co.uk  
-   Link: [https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf](https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf)  
+   Link: <a href="https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/BradfordHillCriteria.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ocial programs, feedback loops might mean causality is bi- directional and possibly multi-...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: drbenvincent.medium.com  
    Title: In other words, the cause should come before the effect  
-   Link: [https://drbenvincent.medium.com/bradford-hills-criteria-for-causation-14fcffdef333](https://drbenvincent.medium.com/bradford-hills-criteria-for-causation-14fcffdef333)  
+   Link: <a href="https://drbenvincent.medium.com/bradford-hills-criteria-for-causation-14fcffdef333" target="_blank" rel="noopener noreferrer nofollow">https://drbenvincent.medium.com/bradford-hills-criteria-for-causation-14fcffdef333</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comBradford-Hill&#x27;s criteria for causation - Benjamin Vincent - MediumTemporal precedence: The exposure should precede the developm...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: jove.com  
-   Link: [https://www.jove.com/science-education/v/17608/criteria-for-causality-bradford-hill-criteria-i](https://www.jove.com/science-education/v/17608/criteria-for-causality-bradford-hill-criteria-i)  
+   Link: <a href="https://www.jove.com/science-education/v/17608/criteria-for-causality-bradford-hill-criteria-i" target="_blank" rel="noopener noreferrer nofollow">https://www.jove.com/science-education/v/17608/criteria-for-causality-bradford-hill-criteria-i</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Video: Criteria for Causality: Bradford Hill Criteria - I9 Jan 2025 — The temporality criterion suggests that the cause must precede the...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: philpapers.org  
    Title: Phil Papers Counterfactual theories of causation  
-   Link: [https://philpapers.org/rec/MENCTO](https://philpapers.org/rec/MENCTO)  
+   Link: <a href="https://philpapers.org/rec/MENCTO" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/MENCTO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Peter Menziesby P Menzies · 2008 · Cited by 605 — The basic idea of counterfactual theories of causation is that the meaning of causal cl...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: fiveable.me  
    Title: Bradford Hill Criteria Definition  
-   Link: [https://fiveable.me/introduction-epidemiology/key-terms/bradford-hill-criteria](https://fiveable.me/introduction-epidemiology/key-terms/bradford-hill-criteria)  
+   Link: <a href="https://fiveable.me/introduction-epidemiology/key-terms/bradford-hill-criteria" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/introduction-epidemiology/key-terms/bradford-hill-criteria</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intro to Epidemiology...Temporality is a vital aspect of the Bradford Hill Criteria because it establishes that the cause must occur befo...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/395544485_Regression_adjustment_for_causal_inference](https://www.researchgate.net/publication/395544485_Regression_adjustment_for_causal_inference)  
+   Link: <a href="https://www.researchgate.net/publication/395544485_Regression_adjustment_for_causal_inference" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395544485_Regression_adjustment_for_causal_inference</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The standard approach, logistic...Read more...</p></details>

@@ -268,15 +268,15 @@ image: /assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_o
 
 ## Introduction
 
-[Anecdotal evidence]({{ 'anecdotes/' | relative_url }}) does not automatically make a claim false. An anecdote—a personal story, individual experience, or isolated observation—can be weak evidence for a broad conclusion, but weakness of evidence is not the same thing as proof of falsity. This distinction matters because discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) often swing between two errors: treating a vivid story as decisive proof, and treating the label “anecdotal” as decisive disproof. Both moves confuse the quality of the evidence with the truth of the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/anecdotal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is anecdotalYou used a personal experience or an isolated example instead of a sound argument or compelling evidence...</span></span></span>
+Anecdotal evidence does not automatically make a claim false. An anecdote—a personal story, individual [experience]({{ 'experience/' | relative_url }}), or isolated observation—can be weak evidence for a broad conclusion, but weakness of evidence is not the same thing as proof of falsity. This distinction matters because discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) often swing between two errors: treating a vivid story as decisive proof, and treating the label “anecdotal” as decisive disproof. Both moves confuse the quality of the evidence with the truth of the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/anecdotal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is anecdotalYou used a personal experience or an isolated example instead of a sound argument or compelling evidence...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-1-dark.svg" | relative_url }}" alt="Anecdotes illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_anecdotal_overcorrec_f74a01-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within debates about fallacies and the fallacy fallacy, anecdotes are a common flashpoint. One person offers a [personal experience]({{ 'experience/' | relative_url }}) as support for a claim. Another replies, “That's just anecdotal evidence,” and acts as though the matter is settled. The first response may overstate what the anecdote proves, but the second can overstate what the anecdote fails to prove. The proper question is not whether the evidence is anecdotal, but what conclusions the anecdote can reasonably support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies... fallacy of overemphasizing anecdotal evidence. Example: Yeah, I&#x27;ve read the health warnin...</span></span></span>
+Within debates about fallacies and the fallacy fallacy, anecdotes are a common flashpoint. One person offers a personal experience as support for a claim. Another replies, “That's just anecdotal evidence,” and acts as though the matter is settled. The first response may overstate what the anecdote proves, but the second can overstate what the anecdote fails to prove. The proper question is not whether the evidence is anecdotal, but what conclusions the anecdote can reasonably support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies... fallacy of overemphasizing anecdotal evidence. Example: Yeah, I&#x27;ve read the health warnin...</span></span></span>
 
 ## What an Anecdote Can and Cannot Prove
 
-An anecdote is evidence based on individual [experience]({{ 'experience/' | relative_url }}) rather than systematic observation. Because it is not collected through controlled or representative methods, it is usually a poor basis for making broad claims about populations, trends, causes, or probabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, personal experiences...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIJudging which tests and treatments really work</span><span class="citation-popover-snippet">NCBI - NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</span></span></span>
+An anecdote is evidence based on individual experience rather than systematic observation. Because it is not collected through controlled or representative methods, it is usually a poor basis for making broad claims about populations, trends, causes, or probabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, personal experiences...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIJudging which tests and treatments really work</span><span class="citation-popover-snippet">NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</span></span></span>
 
 For example, if someone says:
 
@@ -302,7 +302,7 @@ This distinction is often lost in [debate]({{ 'debate/' | relative_url }}). Anec
 
 </div>
 
-What anecdotes generally cannot do on their own is establish how common something is, how large an effect is, or whether one factor caused another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe clinical case report: a review of its merits and limitationsby T Nissen · 2014 · Cited by 792 — The major advantages of case repor...</span></span></span>
+What anecdotes generally cannot do on their own is establish how common something is, how large an effect is, or whether one factor caused another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The clinical case report: a review of its merits and limitationsby T Nissen · 2014 · Cited by 792 — The major advantages of case repor...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n64Xgr6VDYQ" title="Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer">Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy.</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 8.6K &middot; Uploaded: January 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n64Xgr6VDYQ">Open on YouTube</a></p></div></div></div>
@@ -321,7 +321,7 @@ Yet an overcorrection is equally mistaken:
 
 &gt; “That's anecdotal evidence. Therefore eating vegetables has nothing to do with health.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aphilosopher.drmcl.com">[aphilosopher.drmcl.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aphilosopher.drmcl.com</span><span class="citation-popover-snippet">Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</span></span></span>
 
-The anecdote never proved the strong conclusion in the first place, but dismissing it does not establish the opposite conclusion. The appropriate response is that the story is insufficient by itself. To determine whether vegetables contribute to health, we need larger bodies of evidence gathered systematically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCUnderstanding the Levels of Evidence in Medical Researchby A Vatkar · 2025 · Cited by 14 — Levels in Detail · Level 1: Systematic revi...</span></span></span>
+The anecdote never proved the strong conclusion in the first place, but dismissing it does not establish the opposite conclusion. The appropriate response is that the story is insufficient by itself. To determine whether vegetables contribute to health, we need larger bodies of evidence gathered systematically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the Levels of Evidence in Medical Researchby A Vatkar · 2025 · Cited by 14 — Levels in Detail · Level 1: Systematic revi...</span></span></span>
 
 Notice the difference between three positions:
 
@@ -391,12 +391,12 @@ Anecdotes become problematic when they are treated as decisive proof of broad cl
 The most careful approach is to separate two questions:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lEtar563aTI" title="Fallacies In The Workplace: The Anecdotal Evidence Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lEtar563aTI" target="_blank" rel="noopener noreferrer">Fallacies In The Workplace: The Anecdotal Evidence Fallacy</a></p><p class="youtube-embed-meta">Channel: From the HR Desk &middot; Views: 598 &middot; Uploaded: September 2022 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lEtar563aTI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lEtar563aTI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjISO-juArY" title="Anecdotal Fallacy: A Data Point of One Is Not Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer">Anecdotal Fallacy: A Data Point of One Is Not Evidence</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design &middot; Views: 36 &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjISO-juArY">Open on YouTube</a></p></div></div></div>
 
 1. Does this anecdote provide enough evidence for the conclusion?
 2. Independently of that anecdote, is the conclusion true?
 
-Logical fallacy discussions often go astray when those questions are collapsed into one. An anecdote rarely settles a dispute, but neither does identifying something as anecdotal settle it. The proper conclusion is usually not “therefore true” or “therefore false,” but “therefore we need stronger evidence.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIJudging which tests and treatments really work</span><span class="citation-popover-snippet">NCBI - NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAnecdotes as evidence: We need guidelines for reporting...by JK Aronson · 2003 · Cited by 131 — Now the hierarchy of clinical evidenc...</span></span></span>
+Logical fallacy discussions often go astray when those questions are collapsed into one. An anecdote rarely settles a dispute, but neither does identifying something as anecdotal settle it. The proper conclusion is usually not “therefore true” or “therefore false,” but “therefore we need stronger evidence.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIJudging which tests and treatments really work</span><span class="citation-popover-snippet">NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Anecdotes as evidence: We need guidelines for reporting...by JK Aronson · 2003 · Cited by 131 — Now the hierarchy of clinical evidenc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -819,154 +819,154 @@ Logical fallacy discussions often go astray when those questions are collapsed i
 
 1. <a id="endnote-1"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/anecdotal](https://yourlogicalfallacyis.com/anecdotal)  
+   Link: <a href="https://yourlogicalfallacyis.com/anecdotal" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/anecdotal</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is anecdotalYou used a personal experience or an isolated example instead of a sound argument or compelling evidence...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, [personal experiences](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, personal experiences...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: criticalthinkingacademy.net  
    Title: Hasty Generalization  
-   Link: [https://criticalthinkingacademy.net/blog/hasty-generalization.html](https://criticalthinkingacademy.net/blog/hasty-generalization.html)  
+   Link: <a href="https://criticalthinkingacademy.net/blog/hasty-generalization.html" target="_blank" rel="noopener noreferrer nofollow">https://criticalthinkingacademy.net/blog/hasty-generalization.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply point out the sample size: &quot;You&#x27;re drawing a conclusion...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIJudging which tests and treatments really work  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK63639/](https://www.ncbi.nlm.nih.gov/books/NBK63639/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBI - NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63639/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63639/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby L Irwig · 2008 — Opinions, case reports and anecdotes all have one thing in common: they are largely based on personal exper...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: scribbr.com  
    Title: hasty generalization fallacy  
-   Link: [https://www.scribbr.com/fallacies/hasty-generalization-fallacy/](https://www.scribbr.com/fallacies/hasty-generalization-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fallacyfiles.org  
    Title: Hasty Generalization  
-   Link: [https://www.fallacyfiles.org/hastygen.html](https://www.fallacyfiles.org/hastygen.html)  
+   Link: <a href="https://www.fallacyfiles.org/hastygen.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/hastygen.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallacyHasty generalization is the fallacy of generalizing about a population based upon a sample which is too small to be repres...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe clinical case report: a review of its merits and limitationsby T Nissen · 2014 · Cited by 792 — The major advantages of case repor...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4001358/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The clinical case report: a review of its merits and limitationsby T Nissen · 2014 · Cited by 792 — The major advantages of case repor...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCUnderstanding the Levels of Evidence in Medical Researchby A Vatkar · 2025 · Cited by 14 — Levels in Detail · Level 1: Systematic revi...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12064251/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Levels of Evidence in Medical Researchby A Vatkar · 2025 · Cited by 14 — Levels in Detail · Level 1: Systematic revi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3124652/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physicians are encouraged to find the highest level of evidence to answer clinical questions.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAre case reports valuable?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11269996/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring their role in evidence...by TK Suvvari · 2024 · Cited by 9 — Despite being placed low on the evidence hierarchy, case reports...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3545337/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Case reports are indispensible for its ability to detect novelties, thereby generating new scientific hypotheses.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTips for writing a case report for the novice author  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4175810/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes a rare or unusual clinical...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAnecdotes as evidence: We need guidelines for reporting...by JK Aronson · 2003 · Cited by 131 — Now the hierarchy of clinical evidenc...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotes as evidence: We need guidelines for reporting...by JK Aronson · 2003 · Cited by 131 — Now the hierarchy of clinical evidenc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIScientific Principles and Research Practices  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK234526/](https://www.ncbi.nlm.nih.gov/books/NBK234526/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK234526/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK234526/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although its goal is to approach true explanations as closely...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallacies... fallacy of overemphasizing anecdotal evidence. Example: Yeah, I&#x27;ve read the health warnin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical Fallacies(See also &quot;Scare Tactic&quot; and &quot;The Big &#x27;But&#x27; Fallacy.&quot;) Where there&#x27;s Smoke, there&#x27;s Fire (also Hasty Conclusion...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: owl.excelsior.edu  
    Title: logical fallacies hasty generalization  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Generalization Fallacy - Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simply too small. For i...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aphilosopher.drmcl.com  
-   Link: [https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/](https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/)  
+   Link: <a href="https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/" target="_blank" rel="noopener noreferrer nofollow">https://aphilosopher.drmcl.com/2024/12/18/anecdotal-evidence-fallacy-of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence, Fallacy Of - A Philosopher&#x27;s Blog18 Dec 2024 — One difference between Hasty Generalization and Anecdotal Evidence is that the f...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SgtScholar/posts/anecdotal-evidence-refers-to-personal-experience-and-observations-of-course-we-n/1039779834916805/](https://www.facebook.com/SgtScholar/posts/anecdotal-evidence-refers-to-personal-experience-and-observations-of-course-we-n/1039779834916805/)  
+   Link: <a href="https://www.facebook.com/SgtScholar/posts/anecdotal-evidence-refers-to-personal-experience-and-observations-of-course-we-n/1039779834916805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SgtScholar/posts/anecdotal-evidence-refers-to-personal-experience-and-observations-of-course-we-n/1039779834916805/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidence refers to personal experience...ANECDOTAL FALLACY DEFINITION AND EXPLANATION: The anecdotal fallacy uses a personal e...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: opentextbooks.library.arizona.edu  
-   Link: [https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/](https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/)  
+   Link: <a href="https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalizations – Decoding DeceptionA hasty generalization is when someone draws a conclusion about a group, trend, or idea based o...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: critikid.com  
-   Link: [https://critikid.com/hasty-generalization](https://critikid.com/hasty-generalization)  
+   Link: <a href="https://critikid.com/hasty-generalization" target="_blank" rel="noopener noreferrer nofollow">https://critikid.com/hasty-generalization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty generalization fallacyIf you commit the hasty generalization fallacy, you jump to conclusions without enough evidence or draw an in...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: brookbushinstitute.com  
-   Link: [https://brookbushinstitute.com/glossary/levels-of-evidence](https://brookbushinstitute.com/glossary/levels-of-evidence)  
+   Link: <a href="https://brookbushinstitute.com/glossary/levels-of-evidence" target="_blank" rel="noopener noreferrer nofollow">https://brookbushinstitute.com/glossary/levels-of-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Levels of EvidenceLevels of evidence are proposed hierarchies of research types that intend to rank the strength and reliability of resea...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: fallacydetective.com  
-   Link: [https://www.fallacydetective.com/articles/read/short-list-of-fallacies](https://www.fallacydetective.com/articles/read/short-list-of-fallacies)  
+   Link: <a href="https://www.fallacydetective.com/articles/read/short-list-of-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacydetective.com/articles/read/short-list-of-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Short List of FallaciesHasty Generalization: Where someone generalizes about a... It is specifically ** the misuse of ** anecdotal evide...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/thelibary/posts/2301488029882862/](https://www.facebook.com/groups/thelibary/posts/2301488029882862/)  
+   Link: <a href="https://www.facebook.com/groups/thelibary/posts/2301488029882862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/thelibary/posts/2301488029882862/</a>  
 
 26. <a id="endnote-26"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/](https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/videos/most-common-fallacies-10-hasty-generalizationdefinition-and-explanation-the-hast/355802640626678/</a>  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/d38vof/how_to_explain_to_someone_that_anecdotes_dont/](https://www.reddit.com/r/askphilosophy/comments/d38vof/how_to_explain_to_someone_that_anecdotes_dont/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/d38vof/how_to_explain_to_someone_that_anecdotes_dont/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/d38vof/how_to_explain_to_someone_that_anecdotes_dont/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring personal experience fallacies. Defining anecdotes and their significance. Open App.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
    Title: 391603996 Understanding the Levels of Evidence in Medical Research  
-   Link: [https://www.researchgate.net/publication/391603996_Understanding_the_Levels_of_Evidence_in_Medical_Research](https://www.researchgate.net/publication/391603996_Understanding_the_Levels_of_Evidence_in_Medical_Research)  
+   Link: <a href="https://www.researchgate.net/publication/391603996_Understanding_the_Levels_of_Evidence_in_Medical_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391603996_Understanding_the_Levels_of_Evidence_in_Medical_Research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Level 5: Expert opinion and anecdotal evidence. These are at the bottom of the hierarchy and rely on personal. experience or...Read more...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-advertising/
 description: Focused pages that expand on Advertising.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_advertising_fallacie_a808f7
 parent_title: Advertising | Logical Fallacies

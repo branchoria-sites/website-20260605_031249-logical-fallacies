@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden
 
 ## Introduction
 
-In debates about evidence, one of the most important questions is also one of the simplest: who has to prove the claim? The answer matters because unsupported assertions can appear stronger than they are when the speaker demands that everyone else disprove them first. This manoeuvre is closely connected to the [appeal to ignorance]({{ 'ignorance/' | relative_url }}) fallacy. Instead of providing evidence for a claim, the claimant points to the absence of disproof and treats that absence as support. Philosophers and argumentation scholars consistently describe this as an unjustified shift in the burden of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span>
+In debates about evidence, one of the most important questions is also one of the simplest: who has to prove the claim? The answer matters because unsupported assertions can appear stronger than they are when the speaker demands that everyone else disprove them first. This manoeuvre is closely connected to the appeal to [ignorance]({{ 'ignorance/' | relative_url }}) fallacy. Instead of providing evidence for a claim, the claimant points to the absence of disproof and treats that absence as support. Philosophers and argumentation scholars consistently describe this as an unjustified shift in the burden of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1-dark.svg" | relative_url }}" alt="Proof Burden illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,7 +297,7 @@ Burden-shifting often exploits this gap. A claimant may argue:
 
 </div>
 
-Each statement concerns possibility, not proof. The absence of a disproof only shows that certainty is unavailable; it does not provide positive support for the original claim. Appeal-to-[ignorance]({{ 'ignorance/' | relative_url }}) reasoning arises when the speaker treats an unresolved possibility as if it were established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</span></span></span>
+Each statement concerns possibility, not proof. The absence of a disproof only shows that certainty is unavailable; it does not provide positive support for the original claim. Appeal-to-ignorance reasoning arises when the speaker treats an unresolved possibility as if it were established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</span></span></span>
 
 This distinction becomes especially important when claims are difficult or impossible to test directly. A person can always invent a proposition that cannot easily be disproved. If lack of disproof counted as proof, then countless incompatible claims would have to be accepted simultaneously. The burden-of-proof principle exists partly to prevent this problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/nothingness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">ignorance as to how it could be true.Read more</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyNothingness - Stanford Encyclopedia of Philosophyby R Sorensen · 2003 · Cited by 80 — For instance, ma...</span></span></span>
 
@@ -322,7 +322,7 @@ When someone shifts the burden of proof, attention moves away from the weakness 
 
 The flaw is that the original evidential gap never disappears. The discussion changes subjects. Instead of asking, “What evidence supports this claim?”, participants are pushed into defending themselves against an unlimited number of possibilities. Philosophers and critical-thinking texts identify this move as a common form of appeal to ignorance and misplaced burden of proof. [Texas State University+3Queensborough Community College+3oercollective.caul.edu.au]
 
-A useful warning sign is the phrase “prove me wrong.” In many contexts, it functions not as a genuine invitation to examine evidence but as an attempt to transfer responsibility away from the claimant. Failure to disprove a claim does not automatically make the claim reasonable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammarly.com">[Grammarly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammarly.com</span><span class="citation-popover-snippet">GrammarlyAppeal to Ignorance Fallacy: Definition and ExamplesDec 30, 2022 — With the appeal to ignorance fallacy, the arguer doesn&#x27;t prov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learn.academy4sc.org">[2learn.academy4sc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learn.academy4sc.org</span><span class="citation-popover-snippet">From Ignorance: Can’t Prove A ThingAn argument from ignorance, or in Latin, argumentum ad ignorantiam, places the burden of proof on the...</span></span></span>
+A useful warning sign is the phrase “prove me wrong.” In many contexts, it functions not as a genuine invitation to examine evidence but as an attempt to transfer responsibility away from the claimant. Failure to disprove a claim does not automatically make the claim reasonable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammarly.com">[Grammarly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammarly.com</span><span class="citation-popover-snippet">Appeal to Ignorance Fallacy: Definition and ExamplesDec 30, 2022 — With the appeal to ignorance fallacy, the arguer doesn&#x27;t prov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learn.academy4sc.org">[2learn.academy4sc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learn.academy4sc.org</span><span class="citation-popover-snippet">From Ignorance: Can’t Prove A ThingAn argument from ignorance, or in Latin, argumentum ad ignorantiam, places the burden of proof on the...</span></span></span>
 
 ## Why the Rule Exists
 
@@ -342,7 +342,7 @@ In governance contexts, this principle helps protect decision-making from being 
 
 Supporters of burden shifting sometimes argue that critics should provide proof because they are making a negative claim. The issue is more complicated than the slogan “you cannot prove a negative” suggests.
 
-Negative claims can sometimes be supported. For example, investigators may show that a reported event could not have occurred because records, physical evidence, or established facts contradict it. Evidence of absence can become relevant when the alleged event would normally leave detectable traces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.pub">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.pub</span><span class="citation-popover-snippet">EncyclopediaBurden of ProofNov 25, 2022 — A proof of impossibility or an evidence of absence argument are typical methods to fulfill the...</span></span></span>
+Negative claims can sometimes be supported. For example, investigators may show that a reported event could not have occurred because records, physical evidence, or established facts contradict it. Evidence of absence can become relevant when the alleged event would normally leave detectable traces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.pub">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.pub</span><span class="citation-popover-snippet">Burden of ProofNov 25, 2022 — A proof of impossibility or an evidence of absence argument are typical methods to fulfill the...</span></span></span>
 
 The key question is not whether a statement is positive or negative. The question is who is asking others to accept a disputed proposition.
 
@@ -395,7 +395,7 @@ The appeal to ignorance takes advantage of this tendency by turning uncertainty 
 In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the lesson is simple but powerful: a claim does not gain credibility merely because critics cannot disprove it. The responsibility to justify a claim belongs primarily to the person asking others to accept it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[3yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p9ezNBBcg_g" title="Appeal to Ignorance (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p9ezNBBcg_g" target="_blank" rel="noopener noreferrer">Appeal to Ignorance (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 85.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p9ezNBBcg_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p9ezNBBcg_g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WnKNcbYTlPo" title="Logical Fallacies - Shifting the burden of proof" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer">Logical Fallacies - Shifting the burden of proof</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 7.7K &middot; Uploaded: March 2015 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WnKNcbYTlPo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -820,172 +820,172 @@ In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'log
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Burden of proof (philosophy)  
-   Link: [https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29](https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/burden-of-proof](https://yourlogicalfallacyis.com/burden-of-proof)  
+   Link: <a href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/burden-of-proof</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Argument from ignorance  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: ignorance as to how it could be true.Read more  
-   Link: [https://plato.stanford.edu/entries/nothingness/](https://plato.stanford.edu/entries/nothingness/)  
+   Link: <a href="https://plato.stanford.edu/entries/nothingness/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/nothingness/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyNothingness - Stanford Encyclopedia of Philosophyby R Sorensen · 2003 · Cited by 80 — For instance, ma...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
    Title: moral arguments god  
-   Link: [https://plato.stanford.edu/entries/moral-arguments-god/](https://plato.stanford.edu/entries/moral-arguments-god/)  
+   Link: <a href="https://plato.stanford.edu/entries/moral-arguments-god/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/moral-arguments-god/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyMoral Arguments for the Existence of Godby CS Evans · 2014 · Cited by 74 — Someone, however, who belie...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10503-007-9022-6](https://link.springer.com/article/10.1007/s10503-007-9022-6)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10503-007-9022-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-007-9022-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe Burden of Proof and Its Role in Argumentationby U Hahn · 2007 · Cited by 92 — argumentation · argument from ignorance ·...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: oercollective.caul.edu.au  
-   Link: [https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/](https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/)  
+   Link: <a href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/howtothinkcritically/chapter/the-burden-of-proof-and-arguments-from-ignorance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a courtroom, the burden of proof rests with the prosecution. The...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: grammarly.com  
-   Link: [https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/](https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GrammarlyAppeal to Ignorance Fallacy: Definition and ExamplesDec 30, 2022 — With the appeal to ignorance fallacy, the arguer doesn&#x27;t prov...</p></details>
+   Link: <a href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/appeal-to-ignorance-fallacy/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Ignorance Fallacy: Definition and ExamplesDec 30, 2022 — With the appeal to ignorance fallacy, the arguer doesn&#x27;t prov...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: learn.academy4sc.org  
-   Link: [https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/](https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/)  
+   Link: <a href="https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/argument-from-ignorance-cant-prove-a-thing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Ignorance: Can’t Prove A ThingAn argument from ignorance, or in Latin, argumentum ad ignorantiam, places the burden of proof on the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: evidence legal  
-   Link: [https://plato.stanford.edu/entries/evidence-legal/](https://plato.stanford.edu/entries/evidence-legal/)  
+   Link: <a href="https://plato.stanford.edu/entries/evidence-legal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/evidence-legal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyThe Legal Concept of Evidenceby HL Ho · 2015 · Cited by 101 — This entry focuses on the modern concept...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/causation-law/](https://plato.stanford.edu/entries/causation-law/)  
+   Link: <a href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/causation-law/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyCausation in the Law - Stanford Encyclopedia of Philosophyby M Moore · 2019 · Cited by 91 — As an elem...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: encyclopedia.pub  
-   Link: [https://encyclopedia.pub/entry/36589](https://encyclopedia.pub/entry/36589)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EncyclopediaBurden of ProofNov 25, 2022 — A proof of impossibility or an evidence of absence argument are typical methods to fulfill the...</p></details>
+   Link: <a href="https://encyclopedia.pub/entry/36589" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/36589</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of ProofNov 25, 2022 — A proof of impossibility or an evidence of absence argument are typical methods to fulfill the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 419 — However, the inability of an opponent to produce a better argument...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/win2014/entries/evil/validity.html](https://plato.stanford.edu/archives/win2014/entries/evil/validity.html)  
+   Link: <a href="https://plato.stanford.edu/archives/win2014/entries/evil/validity.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2014/entries/evil/validity.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That the argument is deductively valid can be seen as follows. First, let us introduce the following abbreviations:.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Burden of Proof  
-   Link: [https://www.youtube.com/watch?v=2RRyhq_oMus](https://www.youtube.com/watch?v=2RRyhq_oMus)  
+   Link: <a href="https://www.youtube.com/watch?v=2RRyhq_oMus" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2RRyhq_oMus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Shifting the burden of proof...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=WnKNcbYTlPo](https://www.youtube.com/watch?v=WnKNcbYTlPo)  
+   Link: <a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WnKNcbYTlPo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you outsmart the fallacy that started a witch hunt? - Elizabeth Cox...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain stateme...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from IgnoranceThe assumption of a conclusion or fact based primarily on lack of evidence to the contrary. Usually best described...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Shifting-of-the-Burden-of-Proof](https://www.logicallyfallacious.com/logicalfallacies/Shifting-of-the-Burden-of-Proof)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Shifting-of-the-Burden-of-Proof" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Shifting-of-the-Burden-of-Proof</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting of the Burden of ProofShifting of the Burden of Proof. onus probandi. (also known as: burden of proof [general concept], burden...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/argumentation](https://www.merriam-webster.com/dictionary/argumentation)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/argumentation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/argumentation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningApr 6, 2026 — 1. The act or process of forming reasons and of drawing conclusions and applying them to a case in disc...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: thinkingispower.com  
-   Link: [https://thinkingispower.com/logical-fallacies/](https://thinkingispower.com/logical-fallacies/)  
+   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to the Most Common Logical FallaciesThe burden of proof fallacy frequently appears alongside the argument from ignorance fallacy, w...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: qcc.cuny.edu  
-   Link: [https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm](https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm)  
+   Link: <a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Queensborough Community CollegeThe Burden of ProofShifting the burden of proof, a special case of argumentum ad ignorantium, is the falla...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/](https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-argument-from-ignorance-aka-appeal-to-ignorancedefinition-and-exp/712845770840123/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The argument from ignorance fallacy asserts...TODAY’S FALLACY: ARGUMENT FROM IGNORANCE (AKA Appeal to ignorance) DEFINITION AND EXPLANAT...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: medium.com  
-   Link: [https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d](https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d)  
+   Link: <a href="https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/activated-thinker/thinking-error-6-appeal-to-ignorance-93f4245f789d</a>  
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40weidagang/logic-traps-the-fallacy-of-appeal-to-ignorance-54735b31c564](https://medium.com/%40weidagang/logic-traps-the-fallacy-of-appeal-to-ignorance-54735b31c564)  
+   Link: <a href="https://medium.com/%40weidagang/logic-traps-the-fallacy-of-appeal-to-ignorance-54735b31c564" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40weidagang/logic-traps-the-fallacy-of-appeal-to-ignorance-54735b31c564</a>  
 
 29. <a id="endnote-29"></a>
    Source: txst.edu  
-   Link: [https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html](https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html)  
+   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Ignorance: Department of PhilosophyAppeal to Ignorance. This fallacy occurs when one argues that their... This fallacy wrongl...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: philosophy.stackexchange.com  
    Title: is it a shifting of the burden of proof if i show evidence in favor of a posit  
-   Link: [https://philosophy.stackexchange.com/questions/114222/is-it-a-shifting-of-the-burden-of-proof-if-i-show-evidence-in-favor-of-a-posit](https://philosophy.stackexchange.com/questions/114222/is-it-a-shifting-of-the-burden-of-proof-if-i-show-evidence-in-favor-of-a-posit)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/114222/is-it-a-shifting-of-the-burden-of-proof-if-i-show-evidence-in-favor-of-a-posit" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/114222/is-it-a-shifting-of-the-burden-of-proof-if-i-show-evidence-in-favor-of-a-posit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it a &quot;shifting of the burden of proof&quot; if I show evidence in...Jun 19, 2024 — The &quot;fallacy of shifting the burden of proof&quot; is to refuse...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ypJITrfih3g](https://www.youtube.com/watch?v=ypJITrfih3g)  
+   Link: <a href="https://www.youtube.com/watch?v=ypJITrfih3g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ypJITrfih3g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Burden of Proof in PhilosophyThe burden of proof is a dialectical tool used to help determine whose job it is to provide further evid...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: philosophy.stackexchange.com  
    Title: what is the burden of proof has this principle ever been challenged  
-   Link: [https://philosophy.stackexchange.com/questions/104878/what-is-the-burden-of-proof-has-this-principle-ever-been-challenged](https://philosophy.stackexchange.com/questions/104878/what-is-the-burden-of-proof-has-this-principle-ever-been-challenged)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/104878/what-is-the-burden-of-proof-has-this-principle-ever-been-challenged" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/104878/what-is-the-burden-of-proof-has-this-principle-ever-been-challenged</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Has this principle ever been...Nov 12, 2023 — I have been surprised to find that some people doubt this principle. Onus probandi incumbi...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/scireas/ignorance.html](https://philosophy.lander.edu/scireas/ignorance.html)  
+   Link: <a href="https://philosophy.lander.edu/scireas/ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/scireas/ignorance.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageThe Appeal to IgnoranceArgumentum ad Ignorantiam: (appeal to ignorance) the fallacy that a proposition is true simply...</p></details>

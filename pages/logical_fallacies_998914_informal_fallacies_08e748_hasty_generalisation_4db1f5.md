@@ -288,7 +288,7 @@ Consider a common conversation:
 
 The anecdote may be completely accurate. Yet it does not answer the broader question of how smoking affects populations. The story highlights an exception while leaving unknown how many similar people experienced different outcomes. The evidence is therefore too narrow to support the general conclusion.
 
-Studies of persuasion have repeatedly found that anecdotes can be surprisingly influential, even when statistical evidence is available. People often give substantial weight to [personal experiences]({{ 'experience/' | relative_url }}) and testimonies because they feel concrete, human and trustworthy. Utrecht University <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.ubn.ru.nl">[Repository UBN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.ubn.ru.nl</span><span class="citation-popover-snippet">Repository UBNCombining Anecdotal and Statistical Evidence in Real-Life...25 May 2017 — The persuasiveness of anecdotal evidence and sta...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
+Studies of persuasion have repeatedly found that anecdotes can be surprisingly influential, even when statistical evidence is available. People often give substantial weight to personal experiences and testimonies because they feel concrete, human and trustworthy. Utrecht University <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.ubn.ru.nl">[Repository UBN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.ubn.ru.nl</span><span class="citation-popover-snippet">Repository UBNCombining Anecdotal and Statistical Evidence in Real-Life...25 May 2017 — The persuasiveness of anecdotal evidence and sta...</span><span class="citation-popover-meta">Published: May 2017</span></span></span>
 
 This helps explain why hasty generalisations are common in debates about health, education, [politics]({{ 'politics/' | relative_url }}) and consumer products. The speaker is often not inventing evidence; they are overextending it.
 
@@ -310,7 +310,7 @@ The distinction matters. A sample can be large but biased, or small yet reasonab
 
 ### The “law of small numbers” problem
 
-Psychologists Amos Tversky and Daniel Kahneman famously described a tendency they called the “belief in the law of small numbers”. People often assume that [small samples]({{ 'small-samples/' | relative_url }}) will closely resemble the larger population from which they come. In reality, small samples are much more likely to produce unusual or extreme results by chance alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">PMC - NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</span></span></span>
+Psychologists Amos Tversky and Daniel Kahneman famously described a tendency they called the “belief in the law of small numbers”. People often assume that [small samples]({{ 'small-samples/' | relative_url }}) will closely resemble the larger population from which they come. In reality, small samples are much more likely to produce unusual or extreme results by chance alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</span></span></span>
 
 For example:
 
@@ -412,7 +412,7 @@ These questions encourage a more cautious relationship between evidence and conc
 Hasty generalisation from anecdotes and small samples is not a failure to observe reality; it is a failure to recognise the limits of what has been observed. Personal stories can be accurate, memorable and emotionally powerful. Small samples can contain genuine information. The fallacy appears when that limited evidence is stretched into a claim about a much larger population without adequate support. Understanding the difference between a story and a pattern helps keep conclusions proportionate to the evidence and makes everyday reasoning more reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">that they both result in conclusions drawn from insufficient evidence.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Representativeness_heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Representativeness heuristic</span><span class="citation-popover-snippet">Representativeness heuristicThe representativeness heuristic is used when making judgments about the probability of an event being rep...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wwUe7T2OKQE" title="19 Common Fallacies, Explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wwUe7T2OKQE" target="_blank" rel="noopener noreferrer">19 Common Fallacies, Explained.</a></p><p class="youtube-embed-meta">Channel: Jared Henderson &middot; Views: 688.4K &middot; Uploaded: May 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wwUe7T2OKQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wwUe7T2OKQE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7kuS2ScZnHQ" title="Simpsons Logical Fallacies: Hasty Generalization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7kuS2ScZnHQ" target="_blank" rel="noopener noreferrer">Simpsons Logical Fallacies: Hasty Generalization</a></p><p class="youtube-embed-meta">Channel: Colburn Classroom &middot; Views: 199.6K &middot; Uploaded: November 2019 &middot; Length: 1 minute 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7kuS2ScZnHQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7kuS2ScZnHQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -714,150 +714,150 @@ Hasty generalisation from anecdotes and small samples is not a failure to observ
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Faulty generalization  
-   Link: [https://en.wikipedia.org/wiki/Faulty_generalization](https://en.wikipedia.org/wiki/Faulty_generalization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Faulty_generalization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Faulty_generalization</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Title: [Anecdotal evidence](&#123;&#123; 'anecdotes/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)  
+   Title: Anecdotal evidence  
+   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
 3. <a id="endnote-3"></a>
    Source: repository.ubn.ru.nl  
-   Link: [https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf](https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf)  
+   Link: <a href="https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/2066/190868/1/190868.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repository UBNCombining Anecdotal and Statistical Evidence in Real-Life...25 May 2017 — The persuasiveness of anecdotal evidence and sta...</p></details>
    Published: May 2017  
 
 4. <a id="endnote-4"></a>
    Source: stats.org.uk  
    Title: BELIE F IN THE LAW OF SMALL NUMBERS  
-   Link: [https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf](https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf)  
+   Link: <a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan we shift belief in the 'Law of Small Numbers'?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Insensitivity to sample size  
-   Link: [https://en.wikipedia.org/wiki/Insensitivity_to_sample_size](https://en.wikipedia.org/wiki/Insensitivity_to_sample_size)  
+   Link: <a href="https://en.wikipedia.org/wiki/Insensitivity_to_sample_size" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Insensitivity_to_sample_size</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2025 — Insensitivity to sample size is a cognitive bias where people estimate the probability of obtaining a sample statistic...</p></details>
    Published: August 13, 2025  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhen and why do people act on flawed science?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/](https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>that they both result in conclusions drawn from insufficient evidence.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Base rate fallacy  
-   Link: [https://en.wikipedia.org/wiki/Base_rate_fallacy](https://en.wikipedia.org/wiki/Base_rate_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Base_rate_fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate fallacyThe base rate fallacy, also called base rate neglect or base rate bias, is a type of fallacy in which people tend to...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Representativeness heuristic  
-   Link: [https://en.wikipedia.org/wiki/Representativeness_heuristic](https://en.wikipedia.org/wiki/Representativeness_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Representativeness_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Representativeness_heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Representativeness heuristicThe representativeness heuristic is used when making judgments about the probability of an event being rep...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/how-to-avoid-base-rate-fallacy/](https://www.scribbr.com/frequently-asked-questions/how-to-avoid-base-rate-fallacy/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/how-to-avoid-base-rate-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/how-to-avoid-base-rate-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>her words, [post hoc](&amp;#123;&amp;#123; &#x27;post-hoc/&#x27; | relative_url &amp;#125;&amp;#125;) fallacy involves a leap to a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribbr.com  
    Title: hasty generalization fallacy  
-   Link: [https://www.scribbr.com/fallacies/hasty-generalization-fallacy/](https://www.scribbr.com/fallacies/hasty-generalization-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: research-portal.uu.nl  
    Title: when is statistical evidence superior to anecdotal evidence in su  
-   Link: [https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/](https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/)  
+   Link: <a href="https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityWhen is Statistical Evidence Superior to Anecdotal...by H Hoeken · 2009 · Cited by 178 — Under certain conditions, sta...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/](https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/)  
+   Link: <a href="https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Farnam StreetMental Model: Bias from Insensitivity to Sample SizeOur bias from insensitivity to sample size, (aka the law of small number...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thedecisionlab.com  
    Title: Base Rate Fallacy  
-   Link: [https://thedecisionlab.com/biases/base-rate-fallacy](https://thedecisionlab.com/biases/base-rate-fallacy)  
+   Link: <a href="https://thedecisionlab.com/biases/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/base-rate-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision...Base Rate Fallacy is our tendency to give more weight to the event-specific information than we should, and sometimes eve...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: brainly.com  
-   Link: [https://brainly.com/question/43284718](https://brainly.com/question/43284718)  
+   Link: <a href="https://brainly.com/question/43284718" target="_blank" rel="noopener noreferrer nofollow">https://brainly.com/question/43284718</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Describe the mistaken belief in the &quot;law of small numbers...23 Nov 2023 — The &#x27;law of small numbers&#x27; leads to the mistaken belief that s...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971](https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971)  
+   Link: <a href="https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369977297_Revisiting_the_Belief_in_the_law_of_small_numbers_Conceptual_replication_and_extensions_Registered_Report_of_problems_reviewed_in_Tversky_and_Kahneman_1971</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Revisiting the &quot;Belief in the law of small numbers&quot;16 Jul 2023 — PDF | The belief in the law of small numbers is the phenomenon tha...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/psychology/base-rate-fallacy](https://www.ebsco.com/research-starters/psychology/base-rate-fallacy)  
+   Link: <a href="https://www.ebsco.com/research-starters/psychology/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/base-rate-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate fallacy | Psychology | Research StartersBase rate fallacy, which is also called base rate neglect, is a social science theory a...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: shortcogs.com  
-   Link: [https://www.shortcogs.com/bias/base-rate-neglect-fallacy](https://www.shortcogs.com/bias/base-rate-neglect-fallacy)  
+   Link: <a href="https://www.shortcogs.com/bias/base-rate-neglect-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.shortcogs.com/bias/base-rate-neglect-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Base rate neglect fallacy | ShortcutsThe base rate neglect fallacy, which can be seen as a cognitive bias, is in fact a group of phenomen...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/](https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: Anecdotal evidence is very much *valid* evidence.The trendy sentiment that any anecdotal evidence MUST be invalid and the only valid...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/17470218241255916](https://journals.sagepub.com/doi/10.1177/17470218241255916)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218241255916" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218241255916</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsRevisiting representativeness heuristic classic paradigmsKahneman and Tversky showed that when people make probability judge...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: viva.pressbooks.pub  
-   Link: [https://viva.pressbooks.pub/comp2/chapter/a-repository-of-fallacies/](https://viva.pressbooks.pub/comp2/chapter/a-repository-of-fallacies/)  
+   Link: <a href="https://viva.pressbooks.pub/comp2/chapter/a-repository-of-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://viva.pressbooks.pub/comp2/chapter/a-repository-of-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Another type of hasty generalization involves relying on anecdotal evidence for support. As human beings, we overestimate...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: fallacyinlogic.medium.com  
    Title: anecdotal fallacy why is the use of anecdotal evidence fallacious 192eacb5db93  
-   Link: [https://fallacyinlogic.medium.com/anecdotal-fallacy-why-is-the-use-of-anecdotal-evidence-fallacious-192eacb5db93](https://fallacyinlogic.medium.com/anecdotal-fallacy-why-is-the-use-of-anecdotal-evidence-fallacious-192eacb5db93)  
+   Link: <a href="https://fallacyinlogic.medium.com/anecdotal-fallacy-why-is-the-use-of-anecdotal-evidence-fallacious-192eacb5db93" target="_blank" rel="noopener noreferrer nofollow">https://fallacyinlogic.medium.com/anecdotal-fallacy-why-is-the-use-of-anecdotal-evidence-fallacious-192eacb5db93</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is The Use of Anecdotal Evidence Fallacious?This is a logical fallacy that arises when one draws a conclusion on the grounds of too few e...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HoMb4nKTZwg](https://www.youtube.com/watch?v=HoMb4nKTZwg)  
+   Link: <a href="https://www.youtube.com/watch?v=HoMb4nKTZwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HoMb4nKTZwg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Law of Small NumbersWe don&#x27;t get how statistics or randomness work and we treat conclusions from small samples with too much confiden...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LFi6PeD_PyA](https://www.youtube.com/watch?v=LFi6PeD_PyA)  
+   Link: <a href="https://www.youtube.com/watch?v=LFi6PeD_PyA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LFi6PeD_PyA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty generalization fallacy critical thinking anecdotal evidence [Logical fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;), part 1. Hasty generalization + anecdotal evidence...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: renascence.io  
    Title: base rate fallacy ignoring general information in favor of specifics  
-   Link: [https://www.renascence.io/journal/base-rate-fallacy-ignoring-general-information-in-favor-of-specifics](https://www.renascence.io/journal/base-rate-fallacy-ignoring-general-information-in-favor-of-specifics)  
+   Link: <a href="https://www.renascence.io/journal/base-rate-fallacy-ignoring-general-information-in-favor-of-specifics" target="_blank" rel="noopener noreferrer nofollow">https://www.renascence.io/journal/base-rate-fallacy-ignoring-general-information-in-favor-of-specifics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Base Rate Fallacy: Ignoring General Information in Favor of...2 Aug 2024 — The Base Rate Fallacy is the tendency to ignore general stati...</p></details>

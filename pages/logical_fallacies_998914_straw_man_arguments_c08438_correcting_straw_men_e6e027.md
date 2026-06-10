@@ -289,7 +289,7 @@ For example:
 
 </div>
 
-This technique matters because audiences often remember the corrected position more clearly than the allegation of fallacy. Research on straw man argumentation repeatedly treats the key issue as a misattribution of commitments: the speaker is being held responsible for a claim they did not actually advance. Restoring the original commitment is therefore the logical first step. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwc.knaw.nl">[DWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwc.knaw.nl</span><span class="citation-popover-title">DWCThe straw man fallacy</span><span class="citation-popover-snippet">November 18, 2010 — In this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in order...</span><span class="citation-popover-meta">Published: November 18, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — According to Walton (2006), the straw man is an infringem...</span></span></span>
+This technique matters because audiences often remember the corrected position more clearly than the allegation of fallacy. Research on straw man argumentation repeatedly treats the key issue as a misattribution of commitments: the speaker is being held responsible for a claim they did not actually advance. Restoring the original commitment is therefore the logical first step. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwc.knaw.nl">[DWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwc.knaw.nl</span><span class="citation-popover-title">DWCThe straw man fallacy</span><span class="citation-popover-snippet">November 18, 2010 — In this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in order...</span><span class="citation-popover-meta">Published: November 18, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe Straw Man Fallacy &#124; Springer Nature Linkby J Schumann · 2025 — According to Walton (2006), the straw man is an infringem...</span></span></span>
 
 A useful test is whether the other person could reasonably respond, “Yes, that is the position I was replying to.” If not, the correction is still too vague.
 
@@ -353,7 +353,7 @@ A constructive response might be:
 
 This approach lowers the temperature of the exchange while still correcting the record. It also leaves room for the other person to revise their interpretation without losing face.
 
-Research on quotation, reporting and reinterpretation in argumentation shows that misrepresentation frequently arises through [context]({{ 'context/' | relative_url }}) loss, ambiguity or faulty paraphrase rather than outright fabrication. Because the source of the error is not always obvious, beginning with clarification is often more effective than beginning with accusation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaFabrizio Macagno, Douglas Walton Interpreting Straw Man...The third chapter focuses on the issue of Establishing Commitments bet...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319642356_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Interpreting Straw Man Argumentation: The Pragmatics of...Straw man argumentation refers to the modification of a position by misquoting...</span></span></span>
+Research on quotation, reporting and reinterpretation in argumentation shows that misrepresentation frequently arises through [context]({{ 'context/' | relative_url }}) loss, ambiguity or faulty paraphrase rather than outright fabrication. Because the source of the error is not always obvious, beginning with clarification is often more effective than beginning with accusation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Fabrizio Macagno, Douglas Walton Interpreting Straw Man...The third chapter focuses on the issue of Establishing Commitments bet...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319642356_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Interpreting Straw Man Argumentation: The Pragmatics of...Straw man argumentation refers to the modification of a position by misquoting...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2xuT_NrmKzU" title="How NOT To Use Logical Fallacies (With Examples)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2xuT_NrmKzU" target="_blank" rel="noopener noreferrer">How NOT To Use Logical Fallacies (With Examples)</a></p><p class="youtube-embed-meta">Channel: Alex O&#x27;Connor &middot; Views: 269.0K &middot; Uploaded: November 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2xuT_NrmKzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2xuT_NrmKzU">Open on YouTube</a></p></div></div></div>
@@ -394,7 +394,7 @@ For example:
 This formula keeps attention on the genuine disagreement. It corrects the straw man without rewarding it with more attention than necessary, allowing the discussion to proceed on the basis of the actual claim rather than a distorted substitute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwc.knaw.nl">[DWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwc.knaw.nl</span><span class="citation-popover-title">DWCThe straw man fallacy</span><span class="citation-popover-snippet">November 18, 2010 — In this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in order...</span><span class="citation-popover-meta">Published: November 18, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man fallacy as...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XvD_gg1fQXI" title="Straw Man Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XvD_gg1fQXI" target="_blank" rel="noopener noreferrer">Straw Man Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Communication Coach Alexander Lyon &middot; Views: 39.4K &middot; Uploaded: September 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XvD_gg1fQXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XvD_gg1fQXI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kPn974pWYKw" title="Answering Straw-Man Arguments (Episode 26)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kPn974pWYKw" target="_blank" rel="noopener noreferrer">Answering Straw-Man Arguments (Episode 26)</a></p><p class="youtube-embed-meta">Channel: Answers in Genesis Canada &middot; Views: 1.5K &middot; Uploaded: August 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kPn974pWYKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kPn974pWYKw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -819,113 +819,113 @@ This formula keeps attention on the genuine disagreement. It corrects the straw 
 1. <a id="endnote-1"></a>
    Source: dwc.knaw.nl  
    Title: DWCThe straw man fallacy  
-   Link: [https://dwc.knaw.nl/DL/publications/PU00010685.pdf](https://dwc.knaw.nl/DL/publications/PU00010685.pdf)  
+   Link: <a href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010685.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 18, 2010 — In this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in order...</p></details>
    Published: November 18, 2010  
 
 2. <a id="endnote-2"></a>
    Source: philpapers.org  
    Title: Phil Papers The straw man fallacy  
-   Link: [https://philpapers.org/rec/WALTSM-4](https://philpapers.org/rec/WALTSM-4)  
+   Link: <a href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTSM-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man fallacy as...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3](https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-031-94094-1_3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe Straw Man Fallacy | Springer Nature Linkby J Schumann · 2025 — According to Walton (2006), the straw man is an infringem...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html](https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html)  
+   Link: <a href="https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n about but from our reasoning about each other&#x27;s reasoning.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D](https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D)  
+   Link: <a href="https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Straw Man Fallacy (Chapter 9)Jun 5, 2014 — It is said to be the fallacy of misrepresenting an...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting](https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaFabrizio Macagno, Douglas Walton Interpreting Straw Man...The third chapter focuses on the issue of Establishing Commitments bet...</p></details>
+   Link: <a href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fabrizio Macagno, Douglas Walton Interpreting Straw Man...The third chapter focuses on the issue of Establishing Commitments bet...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/319642356_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting](https://www.researchgate.net/publication/319642356_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting)  
+   Link: <a href="https://www.researchgate.net/publication/319642356_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319642356_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpreting Straw Man Argumentation: The Pragmatics of...Straw man argumentation refers to the modification of a position by misquoting...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man](https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man)  
+   Link: <a href="https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Normative and Pragmatic Model of for Assessing Straw...23 Feb 2019 — This paper builds a nine-step method for determining whether a st...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: communicationcache.com  
    Title: two forms of the straw man  
-   Link: [https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf](https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf)  
+   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — ABSTRACT: The authors identify and offer an analysis of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: [https://en.wikipedia.org/wiki/Straw_man](https://en.wikipedia.org/wiki/Straw_man)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw manA straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one ac...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: yumpu.com  
    Title: The straw man fallacy  
-   Link: [https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons](https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons)  
+   Link: <a href="https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/46650517/the-straw-man-fallacy-douglas-waltons</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Walton&#x27;s7 Apr 2014 — When an appeal is made to the claimed opinion of an expert as an authority to backup an argument, there is a...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AdamMGrant/posts/its-better-to-be-right-than-consistentto-test-your-assumptions-and-sharpen-your-/1667710063279745/](https://www.facebook.com/AdamMGrant/posts/its-better-to-be-right-than-consistentto-test-your-assumptions-and-sharpen-your-/1667710063279745/)  
+   Link: <a href="https://www.facebook.com/AdamMGrant/posts/its-better-to-be-right-than-consistentto-test-your-assumptions-and-sharpen-your-/1667710063279745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AdamMGrant/posts/its-better-to-be-right-than-consistentto-test-your-assumptions-and-sharpen-your-/1667710063279745/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adam GrantSteel Man is the opposite of the Straw Man Fallacy, in that instead of misrepresenting your opponent&#x27;s position, you try to imp...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/](https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1412114960913197/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: STRAW MAN DEFINITION...Counter the Straw Man Fallacy by addressing the original argument and correcting any misinterpre...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: novaresearch.unl.pt  
-   Link: [https://novaresearch.unl.pt/en/publications/the-strategies-of-misattribution-of-commitments/](https://novaresearch.unl.pt/en/publications/the-strategies-of-misattribution-of-commitments/)  
+   Link: <a href="https://novaresearch.unl.pt/en/publications/the-strategies-of-misattribution-of-commitments/" target="_blank" rel="noopener noreferrer nofollow">https://novaresearch.unl.pt/en/publications/the-strategies-of-misattribution-of-commitments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>strategies of misattribution of commitmentsThis chapter investigates the structure and the strategies of the straw man fallacy. A straw m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arg.tech  
-   Link: [https://arg.tech/people/chris/publications/2017/eca2017-strawman.pdf](https://arg.tech/people/chris/publications/2017/eca2017-strawman.pdf)  
+   Link: <a href="https://arg.tech/people/chris/publications/2017/eca2017-strawman.pdf" target="_blank" rel="noopener noreferrer nofollow">https://arg.tech/people/chris/publications/2017/eca2017-strawman.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v5vzCmURh7o](https://www.youtube.com/watch?v=v5vzCmURh7o)  
+   Link: <a href="https://www.youtube.com/watch?v=v5vzCmURh7o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v5vzCmURh7o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Straw Man&quot; FallacyThe first fallacy of this type that we&#x27;ll look at is more commonly known as a straw man fallacy for the sake of ge...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2189877](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2189877)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comCommitment, Types of Dialogue and Fallaciesby D Walton · 1992 · Cited by 56 — This paper explains several [informal fallacies](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) as s...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2189877" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2189877</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ssrn.comCommitment, Types of Dialogue and Fallaciesby D Walton · 1992 · Cited by 56 — This paper explains several informal fallacies as s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: papers.ssrn.com  
    Title: Quotations and Presumptions: Dialogical Effects of Misquotations  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1791570_code1242604.pdf?abstractid=1791570&mirid=1&type=2](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1791570_code1242604.pdf?abstractid=1791570&mirid=1&type=2)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1791570_code1242604.pdf?abstractid=1791570&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1791570_code1242604.pdf?abstractid=1791570&amp;mirid=1&amp;type=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Presumptions: Dialogical Effects of MisquotationsAbstract: Manipulation of quotation is shown to be a common argu- mentation tactic i...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect When and how do we deal with straw men?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227](https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0378216613001227</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A normative...by M Lewiński · 2013 · Cited by 91 — As a case in point, we analyse the straw man fallacy: a fallacy of argumentative disc...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/philosophy/comments/8cxr59/iron_man_vs_straw_man_why_you_should_build_strong/](https://www.reddit.com/r/philosophy/comments/8cxr59/iron_man_vs_straw_man_why_you_should_build_strong/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/8cxr59/iron_man_vs_straw_man_why_you_should_build_strong/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/8cxr59/iron_man_vs_straw_man_why_you_should_build_strong/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it you&#x27;ll be a long way to winning the argument. The quoted...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/want-to-have-more-productive-conversations-dont-straw-man-steel-man/1075626841228679/](https://www.facebook.com/ThinkingPowers/posts/want-to-have-more-productive-conversations-dont-straw-man-steel-man/1075626841228679/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/want-to-have-more-productive-conversations-dont-straw-man-steel-man/1075626841228679/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/want-to-have-more-productive-conversations-dont-straw-man-steel-man/1075626841228679/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and understand the opposing viewpoint without immediately...Read more...</p></details>

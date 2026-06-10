@@ -305,7 +305,7 @@ For example:
 
 The first event is limited and specific. The final prediction is broad and dramatic. What often disappears is the explanation of how occasional [exceptions]({{ 'exceptions/' | relative_url }}) become widespread abuse, why administrators cannot establish criteria, and why existing rules fail to contain the problem.
 
-The audience is invited to focus on the feared destination rather than the journey. This can create the impression that the danger is obvious even when the causal pathway remains unclear. Critical-thinking guides frequently note that slippery slope arguments become suspect when they present extreme consequences as inevitable while providing little evidence that the intervening developments will occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrSlippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">logical fallacy</span><span class="citation-popover-snippet">Logical Fallacies | Definition, Types, List &amp; ExamplesApr 20, 2023 — The slippery slope logical fallacy occurs when someone asserts that...</span></span></span>
+The audience is invited to focus on the feared destination rather than the journey. This can create the impression that the danger is obvious even when the causal pathway remains unclear. Critical-thinking guides frequently note that slippery slope arguments become suspect when they present extreme consequences as inevitable while providing little evidence that the intervening developments will occur. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">logical fallacy</span><span class="citation-popover-snippet">Logical Fallacies &#124; Definition, Types, List &amp; ExamplesApr 20, 2023 — The slippery slope logical fallacy occurs when someone asserts that...</span></span></span>
 
 The emotional contrast between a modest beginning and a frightening ending often masks the fact that the most important part of the reasoning has not been supplied.
 
@@ -314,7 +314,7 @@ The emotional contrast between a modest beginning and a frightening ending often
 
 ## What the Argument Leaves Unexplained
 
-A missing-middle slippery slope usually hides one or more unanswered questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrSlippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
+A missing-middle slippery slope usually hides one or more unanswered questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
 
 ### Why Should the Next Step Occur?
 
@@ -341,11 +341,11 @@ Each stage may be possible, but possibility is not enough. Evidence is needed fo
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_missing_middle_slope_ee5adb-Illustration-2-dark.svg" | relative_url }}" alt="Missing Middle illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_missing_middle_slope_ee5adb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_missing_middle_slope_ee5adb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Where Are the Stopping Points?
 
-Many slippery slope arguments assume there will be no opportunity to draw a line later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrSlippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
+Many slippery slope arguments assume there will be no opportunity to draw a line later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
 
 Yet real-world decisions are often made repeatedly rather than once. Legislatures revise laws. Courts establish limits. Organisations create exceptions and procedures. Administrators adjust policies.
 
-A missing-middle argument often treats these potential stopping [mechanisms]({{ 'mechanisms/' | relative_url }}) as though they do not exist. Critics of slippery slope reasoning frequently point out that human institutions are capable of making distinctions and introducing [safeguards]({{ 'safeguards/' | relative_url }}) between the first step and the feared endpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrSlippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
+A missing-middle argument often treats these potential stopping [mechanisms]({{ 'mechanisms/' | relative_url }}) as though they do not exist. Critics of slippery slope reasoning frequently point out that human institutions are capable of making distinctions and introducing [safeguards]({{ 'safeguards/' | relative_url }}) between the first step and the feared endpoint. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
 
 ### How Likely Is the Chain?
 
@@ -353,14 +353,14 @@ Another common omission involves probability.
 
 The argument may show that a sequence is conceivable but never address whether it is likely. A remote possibility can sound persuasive when presented as a certainty.
 
-This is why many logical fallacy explanations emphasise the difference between “could happen” and “will happen”. A chain reaction argument becomes weak when inevitability is assumed rather than justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">How to Support an Argument and Avoid Logical FallaciesSlippery-slope arguments are based on the idea that if one thing happens, then anot...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">logical fallacy</span><span class="citation-popover-snippet">Logical Fallacies | Definition, Types, List &amp; ExamplesApr 20, 2023 — The slippery slope logical fallacy occurs when someone asserts that...</span></span></span>
+This is why many logical fallacy explanations emphasise the difference between “could happen” and “will happen”. A chain reaction argument becomes weak when inevitability is assumed rather than justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">How to Support an Argument and Avoid Logical FallaciesSlippery-slope arguments are based on the idea that if one thing happens, then anot...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">logical fallacy</span><span class="citation-popover-snippet">Logical Fallacies &#124; Definition, Types, List &amp; ExamplesApr 20, 2023 — The slippery slope logical fallacy occurs when someone asserts that...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IoBbcU7ofZc" title="Logical Fallacies, Explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IoBbcU7ofZc" target="_blank" rel="noopener noreferrer">Logical Fallacies, Explained.</a></p><p class="youtube-embed-meta">Channel: Jared Henderson &middot; Views: 80.7K &middot; Uploaded: June 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IoBbcU7ofZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IoBbcU7ofZc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Va6CI87t9rs" title="Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer">Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope</a></p><p class="youtube-embed-meta">Channel: One Minute Economics &middot; Views: 26.9K &middot; Uploaded: April 2019 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Va6CI87t9rs">Open on YouTube</a></p></div></div></div>
 
 ## A Simple Test for Missing Links
 
-One useful way to evaluate a slippery slope claim is to ask someone to expand the middle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrSlippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
+One useful way to evaluate a slippery slope claim is to ask someone to expand the middle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Slippery Slope Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Slippery Slope Fallacy &#124; Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</span><span class="citation-popover-meta">Published: April 14, 2023</span></span></span>
 
 Suppose the claim is:
 
@@ -404,13 +404,13 @@ A stronger argument does three things.
 Advice on avoiding slippery slope errors often stresses the importance of making the chain complete. If an argument skips directly from an initial premise to an extreme conclusion, too many questions remain unanswered for the conclusion to be persuasive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://proofed.co.uk/writing-tips/academic-writing-how-to-avoid-the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proofed.co.uk">[Proofed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proofed.co.uk</span><span class="citation-popover-title">Proofed Academic Writing: How to Avoid the Slippery Slope Fallacy</span><span class="citation-popover-snippet">Explain each step of your argument as clearly as possible. If you skip straight from your first premise...Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Va6CI87t9rs" title="Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer">Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope</a></p><p class="youtube-embed-meta">Channel: One Minute Economics &middot; Views: 26.9K &middot; Uploaded: April 2019 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Va6CI87t9rs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IoBbcU7ofZc" title="Logical Fallacies, Explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IoBbcU7ofZc" target="_blank" rel="noopener noreferrer">Logical Fallacies, Explained.</a></p><p class="youtube-embed-meta">Channel: Jared Henderson &middot; Views: 80.7K &middot; Uploaded: June 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IoBbcU7ofZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IoBbcU7ofZc">Open on YouTube</a></p></div></div></div>
 
 ## The Key Insight
 
 The missing-middle problem reveals a central lesson about slippery slope reasoning: the danger is rarely in the first step or the final prediction by themselves. The weakness lies in the unexplained space between them.
 
-When an argument asks people to fear a distant outcome, the critical question is not whether that outcome would be bad. It is whether the path leading there has actually been shown. If the middle of the slope is missing, the argument may be relying more on imagination than on evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLSlippery Slope: This is a conclusion based on the premise that if A happens, then eventually thro...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">logical fallacy</span><span class="citation-popover-snippet">Logical Fallacies | Definition, Types, List &amp; ExamplesApr 20, 2023 — The slippery slope logical fallacy occurs when someone asserts that...</span></span></span>
+When an argument asks people to fear a distant outcome, the critical question is not whether that outcome would be bad. It is whether the path leading there has actually been shown. If the middle of the slope is missing, the argument may be relying more on imagination than on evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLSlippery Slope: This is a conclusion based on the premise that if A happens, then eventually thro...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">logical fallacy</span><span class="citation-popover-snippet">Logical Fallacies &#124; Definition, Types, List &amp; ExamplesApr 20, 2023 — The slippery slope logical fallacy occurs when someone asserts that...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -834,118 +834,118 @@ When an argument asks people to fear a distant outcome, the critical question is
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLSlippery Slope: This is a conclusion based on the premise that if A happens, then eventually thro...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: owl.excelsior.edu  
    Title: OWLSlippery Slope Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-slippery-slope/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLSlippery Slope Fallacy - Excelsior OWLA slippery slope fallacy occurs when someone claims that a position or decision will l...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/](https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Support an Argument and Avoid Logical FallaciesSlippery-slope arguments are based on the idea that if one thing happens, then anot...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scribbr.com  
    Title: Slippery Slope Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.com/fallacies/slippery-slope-fallacy/](https://www.scribbr.com/fallacies/slippery-slope-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrSlippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/slippery-slope-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope Fallacy | Definition &amp; ExamplesApril 14, 2023 — 14 Apr 2023 — The slippery slope fallacy is an argument that sugges...</p></details>
    Published: April 14, 2023  
 
 5. <a id="endnote-5"></a>
    Source: scribbr.com  
    Title: logical fallacy  
-   Link: [https://www.scribbr.com/fallacies/logical-fallacy/](https://www.scribbr.com/fallacies/logical-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/logical-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) | Definition, Types, List &amp; ExamplesApr 20, 2023 — The slippery slope logical fallacy occurs when someone asserts that...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: purdueglobalwriting.center  
    Title: Hasty Generalizations and Other Logical Fallacies SLIPPERY SLOPE  
-   Link: [https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/](https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This argument claims that one event, action or idea will inevitably lead to another, usually with terrible consequences. Often we encount...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: owl.excelsior.edu  
    Title: the owl logical fallacies and [social media](&#123;&#123; 'social-media/' | relative_url &#125;&#125;) arguments  
-   Link: [https://owl.excelsior.edu/blog/the-owl-logical-fallacies-and-social-media-arguments/](https://owl.excelsior.edu/blog/the-owl-logical-fallacies-and-social-media-arguments/)  
+   Link: <a href="https://owl.excelsior.edu/blog/the-owl-logical-fallacies-and-social-media-arguments/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/blog/the-owl-logical-fallacies-and-social-media-arguments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OWL, Logical Fallacies, and Social Media ArgumentsMar 14, 2018 — An explanation of eight common logical fallacies: Straw Man Fallacy, Fal...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: web.ics.purdue.edu  
    Title: Logical Fallacies  
-   Link: [https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf](https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf)  
+   Link: <a href="https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>logical fallacy is often what has happened when...Also known as the [false dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;), this insidious tactic has the appearance of forming a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
    Title: slippery slope argument  
-   Link: [https://www.britannica.com/topic/slippery-slope-argument](https://www.britannica.com/topic/slippery-slope-argument)  
+   Link: <a href="https://www.britannica.com/topic/slippery-slope-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/slippery-slope-argument</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaSlippery slope argument | Fallacy, Causality &amp; ArgumentationApr 1, 2026 — Slippery slope argument, in logic, the f...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: proofed.co.uk  
    Title: Proofed Academic Writing: How to Avoid the Slippery Slope Fallacy  
-   Link: [https://proofed.co.uk/writing-tips/academic-writing-how-to-avoid-the-slippery-slope-fallacy/](https://proofed.co.uk/writing-tips/academic-writing-how-to-avoid-the-slippery-slope-fallacy/)  
+   Link: <a href="https://proofed.co.uk/writing-tips/academic-writing-how-to-avoid-the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://proofed.co.uk/writing-tips/academic-writing-how-to-avoid-the-slippery-slope-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explain each step of your argument as clearly as possible. If you skip straight from your first premise...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: purdueglobal.edu  
    Title: Purdue Global  
-   Link: [https://www.purdueglobal.edu/](https://www.purdueglobal.edu/)  
+   Link: <a href="https://www.purdueglobal.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdueglobal.edu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Accredited Online UniversityPurdue Global is 100% online so you can fit earning a degree into your busy life. Take undergraduate cours...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/activated-thinker/thinking-error-8-slippery-slope-1ef80ee53e39](https://medium.com/activated-thinker/thinking-error-8-slippery-slope-1ef80ee53e39)  
+   Link: <a href="https://medium.com/activated-thinker/thinking-error-8-slippery-slope-1ef80ee53e39" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/activated-thinker/thinking-error-8-slippery-slope-1ef80ee53e39</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thinking Error 8#: Slippery Slope | by mohandikaThe slippery slope fallacy is when someone takes a relatively small or simple issue and i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: gilliamwritersgroup.com  
-   Link: [https://www.gilliamwritersgroup.com/blog/ad-hominem-straw-man-and-more-identifying-logical-fallacies-with-the-help-of-writing-tutors](https://www.gilliamwritersgroup.com/blog/ad-hominem-straw-man-and-more-identifying-logical-fallacies-with-the-help-of-writing-tutors)  
+   Link: <a href="https://www.gilliamwritersgroup.com/blog/ad-hominem-straw-man-and-more-identifying-logical-fallacies-with-the-help-of-writing-tutors" target="_blank" rel="noopener noreferrer nofollow">https://www.gilliamwritersgroup.com/blog/ad-hominem-straw-man-and-more-identifying-logical-fallacies-with-the-help-of-writing-tutors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Logical Fallacies with the Help of Writing Tutors11 Dec 2024 — Tutors can introduce students to specific fallacies, such as a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: purduesports.com  
-   Link: [https://purduesports.com/](https://purduesports.com/)  
+   Link: <a href="https://purduesports.com/" target="_blank" rel="noopener noreferrer nofollow">https://purduesports.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Home Page - Purdue Boilermakers - Official Athletics WebsiteThe Official Athletic Site of Purdue University, partner of WMT Digital...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: coursehero.com  
    Title: Fallacies The Writing Center University of North Carolina at Chapel Hill 1pdf  
-   Link: [https://www.coursehero.com/file/251599121/Fallacies-The-Writing-Center-University-of-North-Carolina-at-Chapel-Hill-1pdf/](https://www.coursehero.com/file/251599121/Fallacies-The-Writing-Center-University-of-North-Carolina-at-Chapel-Hill-1pdf/)  
+   Link: <a href="https://www.coursehero.com/file/251599121/Fallacies-The-Writing-Center-University-of-North-Carolina-at-Chapel-Hill-1pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.coursehero.com/file/251599121/Fallacies-The-Writing-Center-University-of-North-Carolina-at-Chapel-Hill-1pdf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Fallacies: Strengthen Your Writing Arguments...16 Sept 2025 — Slippery slope De nition:The arguer claims that a sort of chain...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: markmanson.net  
-   Link: [https://markmanson.net/logical-fallacies](https://markmanson.net/logical-fallacies)  
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Is Not Causation · 2. Slippery Slope Fallacy · 3. False Dichotomies · 4. Begging the Question · 5. Red...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pCg-SNOteQQ](https://www.youtube.com/watch?v=pCg-SNOteQQ)  
+   Link: <a href="https://www.youtube.com/watch?v=pCg-SNOteQQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pCg-SNOteQQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Logical Fallacy Explained in 11 MinutesSlippery Slope 0:53 Special Pleading 1:07 Loaded Question 1:12 False Dilemma 1:26 Strawman 1...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thinkingispower.com  
-   Link: [https://thinkingispower.com/logical-fallacies/](https://thinkingispower.com/logical-fallacies/)  
+   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whether they&#x27;re used intentionally or unintentionally, they can be quite...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/](https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-13-slippery-slope-fallacydefinition-and-explanation-the-sl/819082296883136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking on step might lead to sliding down one side of a...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186](https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186)  
+   Link: <a href="https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/columbia-university-in-the-city-of-new-york/university-writing/fallacies-purdue-owl-purdue-university/113755186</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Logical Fallacies - Purdue OWL® ResourcesSlippery Slope: A fallacy suggesting that one action will lead to a series of nega...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6nhA_i4r_-Q](https://www.youtube.com/watch?v=6nhA_i4r_-Q)  
+   Link: <a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6nhA_i4r_-Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ll action will inevitably lead to a chain of extreme and undesirable consequences...</p></details>

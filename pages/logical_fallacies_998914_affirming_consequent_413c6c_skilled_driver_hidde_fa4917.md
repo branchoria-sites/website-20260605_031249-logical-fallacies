@@ -306,9 +306,9 @@ A short period without accidents therefore provides limited information. The out
 
 One of the strongest alternative explanations is exposure. A driver who spends little time on the road has fewer opportunities to be involved in a collision than someone who drives extensively.
 
-Road-safety research routinely measures crash risk relative to exposure, such as miles travelled or hours spent driving, because raw accident counts can be misleading. More time and distance on the road generally create more opportunities for crashes to occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://swov.nl/system/files/publication-downloads/r-2002-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swov.nl">[SWOV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swov.nl</span><span class="citation-popover-snippet">SWOVThe uses of exposure and risk in road safety studiesby AS Hakkert · Cited by 185 — For the case of traffic accidents a calculation wa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-9091/5/4/54" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIExposure as Duration and Distance in Telematics Motor...by JP Boucher · 2017 · Cited by 107 — This issue is addressed in this paper...</span></span></span>
+Road-safety research routinely measures crash risk relative to exposure, such as miles travelled or hours spent driving, because raw accident counts can be misleading. More time and distance on the road generally create more opportunities for crashes to occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://swov.nl/system/files/publication-downloads/r-2002-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swov.nl">[SWOV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swov.nl</span><span class="citation-popover-snippet">The uses of exposure and risk in road safety studiesby AS Hakkert · Cited by 185 — For the case of traffic accidents a calculation wa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-9091/5/4/54" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Exposure as Duration and Distance in Telematics Motor...by JP Boucher · 2017 · Cited by 107 — This issue is addressed in this paper...</span></span></span>
 
-Insurance companies use annual mileage for a similar reason. Drivers who travel greater distances are typically considered to face greater accident exposure simply because they encounter more traffic situations. RAC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviva.co.uk">[aviva]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviva.co.uk</span><span class="citation-popover-title">mileage impacts car insurance</span><span class="citation-popover-snippet">AvivaCalculate your annual mileage for car insurance7 Feb 2025 — “Mileage bands may start from 4,000 miles annually and go up in incremen...</span></span></span> Consider two drivers:
+Insurance companies use annual mileage for a similar reason. Drivers who travel greater distances are typically considered to face greater accident exposure simply because they encounter more traffic situations. RAC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviva.co.uk">[aviva]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviva.co.uk</span><span class="citation-popover-title">mileage impacts car insurance</span><span class="citation-popover-snippet">Calculate your annual mileage for car insurance7 Feb 2025 — “Mileage bands may start from 4,000 miles annually and go up in incremen...</span></span></span> Consider two drivers:
 
 * Driver A has driven 2,000 miles over the past year and had no accidents.
 * Driver B has driven 30,000 miles over the past year and had no accidents.
@@ -319,7 +319,7 @@ The identical outcome does not carry the same evidential weight. Driver B remain
 
 The roads a person drives on also matter.
 
-A driver who mainly travels on quiet rural roads during daylight in good weather faces different challenges from someone who regularly navigates congested city centres, motorways, or severe weather conditions. Research on road safety consistently identifies environmental and road-[context]({{ 'context/' | relative_url }}) factors as important influences on crash risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2095756423000983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectFactors affecting truck driver behavior on a road safety...by BS Rashmi · 2023 · Cited by 44 — This review paper summarized...</span></span></span>
+A driver who mainly travels on quiet rural roads during daylight in good weather faces different challenges from someone who regularly navigates congested city centres, motorways, or severe weather conditions. Research on road safety consistently identifies environmental and road-[context]({{ 'context/' | relative_url }}) factors as important influences on crash risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2095756423000983" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Factors affecting truck driver behavior on a road safety...by BS Rashmi · 2023 · Cited by 44 — This review paper summarized...</span></span></span>
 
 Suppose two people both have ten accident-free years. One drove only on lightly travelled roads in favourable conditions. The other spent those years driving through heavy traffic and difficult weather. The same outcome may reflect very different combinations of skill, exposure, and circumstance.
 
@@ -819,109 +819,109 @@ An accident-free record can support the belief that someone is a good driver, bu
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: [https://en.wikipedia.org/wiki/Affirming_the_consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
 2. <a id="endnote-2"></a>
    Source: swov.nl  
-   Link: [https://swov.nl/system/files/publication-downloads/r-2002-12.pdf](https://swov.nl/system/files/publication-downloads/r-2002-12.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWOVThe uses of exposure and risk in road safety studiesby AS Hakkert · Cited by 185 — For the case of traffic accidents a calculation wa...</p></details>
+   Link: <a href="https://swov.nl/system/files/publication-downloads/r-2002-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://swov.nl/system/files/publication-downloads/r-2002-12.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The uses of exposure and risk in road safety studiesby AS Hakkert · Cited by 185 — For the case of traffic accidents a calculation wa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-9091/5/4/54](https://www.mdpi.com/2227-9091/5/4/54)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIExposure as Duration and Distance in Telematics Motor...by JP Boucher · 2017 · Cited by 107 — This issue is addressed in this paper...</p></details>
+   Link: <a href="https://www.mdpi.com/2227-9091/5/4/54" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9091/5/4/54</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure as Duration and Distance in Telematics Motor...by JP Boucher · 2017 · Cited by 107 — This issue is addressed in this paper...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: rac.co.uk  
    Title: low mileage car insurance  
-   Link: [https://www.rac.co.uk/drive/advice/know-how/low-mileage-car-insurance/](https://www.rac.co.uk/drive/advice/know-how/low-mileage-car-insurance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RACLow mileage car insurance guide31 Mar 2025 — If you&#x27;re driving long distances every day your chances of risk will increase. If your an...</p></details>
+   Link: <a href="https://www.rac.co.uk/drive/advice/know-how/low-mileage-car-insurance/" target="_blank" rel="noopener noreferrer nofollow">https://www.rac.co.uk/drive/advice/know-how/low-mileage-car-insurance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Low mileage car insurance guide31 Mar 2025 — If you&#x27;re driving long distances every day your chances of risk will increase. If your an...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2095756423000983](https://www.sciencedirect.com/science/article/pii/S2095756423000983)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectFactors affecting truck driver behavior on a road safety...by BS Rashmi · 2023 · Cited by 44 — This review paper summarized...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2095756423000983" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2095756423000983</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Factors affecting truck driver behavior on a road safety...by BS Rashmi · 2023 · Cited by 44 — This review paper summarized...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-9091/13/11/214](https://www.mdpi.com/2227-9091/13/11/214)  
+   Link: <a href="https://www.mdpi.com/2227-9091/13/11/214" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9091/13/11/214</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Driving Behavior and Insurance Pricing: A Framework for...by P Fersini · 2025 — Ferreira and Minikel (2010), adopting the approach of Bo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022437516303279](https://www.sciencedirect.com/science/article/abs/pii/S0022437516303279)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022437516303279" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022437516303279</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A validation of the low mileage bias using naturalistic...by JF Antin · 2017 · Cited by 43 — This paper evaluated the low mileage bias (...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Affirming the Consequent  
-   Link: [https://www.youtube.com/watch?v=_WDDVz-EWFw](https://www.youtube.com/watch?v=_WDDVz-EWFw)  
+   Link: <a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_WDDVz-EWFw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deductive Fallacies - Affirming the Consequent &amp; Denying the Antecedent...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: khanacademy.org  
-   Link: [https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent](https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent)  
+   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Affirming the Consequent (video)Affirming the consequent occurs when someone tries to infer the truth of the antecedent of a c...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aviva.co.uk  
    Title: mileage impacts car insurance  
-   Link: [https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/](https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AvivaCalculate your annual mileage for car insurance7 Feb 2025 — “Mileage bands may start from 4,000 miles annually and go up in incremen...</p></details>
+   Link: <a href="https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/" target="_blank" rel="noopener noreferrer nofollow">https://www.aviva.co.uk/insurance/motor/car-insurance/knowledge-centre/mileage-impacts-car-insurance/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calculate your annual mileage for car insurance7 Feb 2025 — “Mileage bands may start from 4,000 miles annually and go up in incremen...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;). (2) Accent, Amphiboly and Equivocation are examples...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: arrivealive.mobi  
-   Link: [https://www.arrivealive.mobi/driver-experience-driver-inexperience-and-road-safety](https://www.arrivealive.mobi/driver-experience-driver-inexperience-and-road-safety)  
+   Link: <a href="https://www.arrivealive.mobi/driver-experience-driver-inexperience-and-road-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.arrivealive.mobi/driver-experience-driver-inexperience-and-road-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Driver Experience, Driver Inexperience and Road SafetyInexperienced drivers tend to underestimate hazardous situations and tend to disobe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: drivewyze.com  
-   Link: [https://drivewyze.com/blog/high-risk-driving-behaviors/](https://drivewyze.com/blog/high-risk-driving-behaviors/)  
+   Link: <a href="https://drivewyze.com/blog/high-risk-driving-behaviors/" target="_blank" rel="noopener noreferrer nofollow">https://drivewyze.com/blog/high-risk-driving-behaviors/</a>  
 
 14. <a id="endnote-14"></a>
    Source: roadsafety-dss.eu  
-   Link: [https://www.roadsafety-dss.eu/assets/data/pdf/synopses/Lack_of_driving_experience_032018.pdf](https://www.roadsafety-dss.eu/assets/data/pdf/synopses/Lack_of_driving_experience_032018.pdf)  
+   Link: <a href="https://www.roadsafety-dss.eu/assets/data/pdf/synopses/Lack_of_driving_experience_032018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsafety-dss.eu/assets/data/pdf/synopses/Lack_of_driving_experience_032018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lack of driving experienceNovice driver and drivers with less years of experience in general are related to a higher accident risk than m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the ConsequentDescription: An error in [formal logic](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) where if the consequent is said to be true, the antecedent is said to be tr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/statistical-data-sets/road-safety-statistics-data-tables](https://www.gov.uk/government/statistical-data-sets/road-safety-statistics-data-tables)  
+   Link: <a href="https://www.gov.uk/government/statistical-data-sets/road-safety-statistics-data-tables" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistical-data-sets/road-safety-statistics-data-tables</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>safety statistics: data tablesRoad safety statistics: data tables. Detailed statistics about reported personal injury road collisions for...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/](https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/)  
+   Link: <a href="https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/philosophy/comments/3wxz64/logical_fallacy_affirming_the_consequent/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: car mileage plays a significant role in determining insurance premiums the more  
-   Link: [https://www.facebook.com/britanniacarleasing/posts/-car-mileage-plays-a-significant-role-in-determining-insurance-premiums-the-more/1138552038318339/](https://www.facebook.com/britanniacarleasing/posts/-car-mileage-plays-a-significant-role-in-determining-insurance-premiums-the-more/1138552038318339/)  
+   Link: <a href="https://www.facebook.com/britanniacarleasing/posts/-car-mileage-plays-a-significant-role-in-determining-insurance-premiums-the-more/1138552038318339/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/britanniacarleasing/posts/-car-mileage-plays-a-significant-role-in-determining-insurance-premiums-the-more/1138552038318339/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Britannia Car Leasing10 Jun 2025 — The more miles you drive, the greater your risk of being involved in an accident. As a result, insurer...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: rospa.com  
-   Link: [https://www.rospa.com/road-safety/road-safety-projects/young-drivers/after-the-test/newly-qualified-drivers-at-risk](https://www.rospa.com/road-safety/road-safety-projects/young-drivers/after-the-test/newly-qualified-drivers-at-risk)  
+   Link: <a href="https://www.rospa.com/road-safety/road-safety-projects/young-drivers/after-the-test/newly-qualified-drivers-at-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.rospa.com/road-safety/road-safety-projects/young-drivers/after-the-test/newly-qualified-drivers-at-risk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to manage these risks, develop safe driving habits, and avoid common accidents that affect...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html](https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/affirming-the-consequent-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the Consequent Overview, Fallacy &amp; ExamplesThe fallacy of affirming the consequent is a formal fallacy in which a reasoner make...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: GOV.UK  
    Title: reported road casualties great britain road user risk 2024 data  
-   Link: [https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-road-user-risk-2024/reported-road-casualties-great-britain-road-user-risk-2024-data](https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-road-user-risk-2024/reported-road-casualties-great-britain-road-user-risk-2024-data)  
+   Link: <a href="https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-road-user-risk-2024/reported-road-casualties-great-britain-road-user-risk-2024-data" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-road-user-risk-2024/reported-road-casualties-great-britain-road-user-risk-2024-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>road casualties Great Britain: road user risk...25 Sept 2025 — This short report presents data on those killed in reported road collisio...</p></details>

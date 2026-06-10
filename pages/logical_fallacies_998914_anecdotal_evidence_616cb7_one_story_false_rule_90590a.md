@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:29:59'
 parent_title: When Is a Story Not Enough? | Fallacy Lab
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
@@ -265,7 +266,6 @@ next_link:
   permalink: /medical-signals/
   short_title: Medical Signals
   heading_title: Can a Patient Story Warn US Early?
-date: '2026-06-05 02:29:59 '
 header:
   og_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_story_false_rule_90590a-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_story_false_rule_90590a-Illustration-1.webp
@@ -274,13 +274,13 @@ image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_sto
 
 ## Introduction
 
-A personal story can be true, sincere, and important while still failing to prove a general rule. The fallacy appears when a single case is treated as evidence of what normally happens: one successful investor becomes proof that a strategy always works, one unpleasant encounter becomes proof that a whole group behaves a certain way, or one medical recovery becomes proof that a treatment is effective. In logic, this is a form of hasty generalisation—drawing a broad conclusion from evidence that is too limited to support it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLHasty Generalization: This is a conclusion based on insufficient or biased evidence. In other wor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">hasty generalization fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</span></span></span> The problem is not the story itself. The problem is the jump from“this happened” to “this is generally true”. Understanding that jump helps explain why anecdotes can be persuasive, why they often mislead, and how to use [personal experience]({{ 'experience/' | relative_url }}) without turning it into a false rule.
+A personal story can be true, sincere, and important while still failing to prove a general rule. The fallacy appears when a single case is treated as evidence of what normally happens: one successful investor becomes proof that a strategy always works, one unpleasant encounter becomes proof that a whole group behaves a certain way, or one medical recovery becomes proof that a treatment is effective. In logic, this is a form of hasty generalisation—drawing a broad conclusion from evidence that is too limited to support it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLHasty Generalization: This is a conclusion based on insufficient or biased evidence. In other wor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">hasty generalization fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</span></span></span> The problem is not the story itself. The problem is the jump from“this happened” to “this is generally true”. Understanding that jump helps explain why anecdotes can be persuasive, why they often mislead, and how to use personal [experience]({{ 'experience/' | relative_url }}) without turning it into a false rule.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_story_false_rule_90590a-Illustration-1-dark.svg" | relative_url }}" alt="False Rule illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_story_false_rule_90590a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_story_false_rule_90590a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Leap from Single Case to General Claim
 
-A single [experience]({{ 'experience/' | relative_url }}) tells us something about one instance. A general claim, by contrast, makes a statement about a wider pattern. Moving from the first to the second requires evidence that the case is representative rather than exceptional.
+A single experience tells us something about one instance. A general claim, by contrast, makes a statement about a wider pattern. Moving from the first to the second requires evidence that the case is representative rather than exceptional.
 
 Consider the difference between these statements:
 
@@ -300,7 +300,7 @@ The mistake often happens because people unconsciously treat a vivid example as 
 
 The power of a story comes from its detail. We can picture the person, remember the events, and emotionally connect with the outcome. Unfortunately, the qualities that make a story memorable also make it easy to overweight.
 
-Psychological research on the availability heuristic shows that people frequently judge frequency and probability by how easily examples come to mind rather than by examining representative evidence. Events that are vivid, recent, dramatic, or [emotionally charged]({{ 'charged-labels/' | relative_url }}) often feel more common than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/0010028573900339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAvailability: A heuristic for judging frequency and probabilityby A Tversky · 1973 · Cited by 17442 — This paper explores a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/0010028573900339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAvailability: A heuristic for judging frequency and probabilityby A Tversky · 1973 · Cited by 17442 — This paper explores a...</span></span></span>
+Psychological research on the availability heuristic shows that people frequently judge frequency and probability by how easily examples come to mind rather than by examining representative evidence. Events that are vivid, recent, dramatic, or emotionally charged often feel more common than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/0010028573900339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Availability: A heuristic for judging frequency and probabilityby A Tversky · 1973 · Cited by 17442 — This paper explores a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/0010028573900339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Availability: A heuristic for judging frequency and probabilityby A Tversky · 1973 · Cited by 17442 — This paper explores a...</span></span></span>
 
 Several [mechanisms]({{ 'mechanisms/' | relative_url }}) reinforce the error:
 
@@ -324,7 +324,7 @@ Someone takes a supplement and later feels better. From that experience alone, i
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_story_false_rule_90590a-Illustration-2-dark.svg" | relative_url }}" alt="False Rule illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_story_false_rule_90590a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_one_story_false_rule_90590a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Social Judgments and Stereotypes
 
-Many stereotypes begin as overextended [personal experiences]({{ 'experience/' | relative_url }}). One encounter with a member of a group becomes evidence about the group as a whole. Critical-thinking resources frequently use such examples because they show how quickly limited observations can become broad and inaccurate claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">A hasty generalization...Read more...</span></span></span>
+Many stereotypes begin as overextended personal experiences. One encounter with a member of a group becomes evidence about the group as a whole. Critical-thinking resources frequently use such examples because they show how quickly limited observations can become broad and inaccurate claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">A hasty generalization...Read more...</span></span></span>
 
 ### Business and Success Stories
 
@@ -338,7 +338,7 @@ The same error can occur in reverse.
 
 Suppose strong evidence shows that a particular risk is real. Someone then points to a single person who avoided the risk and treats that case as a refutation of the broader pattern. This is simply the mirror image of the original mistake.
 
-For example, finding one lifelong smoker who lived into old age does not show that smoking is generally harmless. Educational materials on hasty generalisation commonly use this example because it highlights the difference between possibility and typicality. A single exception may show that an outcome is possible, but it says little about what usually happens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-snippet">Excelsior OWLHasty Generalization Fallacy | Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</span></span></span>
+For example, finding one lifelong smoker who lived into old age does not show that smoking is generally harmless. Educational materials on hasty generalisation commonly use this example because it highlights the difference between possibility and typicality. A single exception may show that an outcome is possible, but it says little about what usually happens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-snippet">Excelsior OWLHasty Generalization Fallacy &#124; Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</span></span></span>
 
 The key question is not whether an example exists. The key question is whether the example represents the broader reality being discussed.
 
@@ -375,7 +375,7 @@ The danger of anecdotal reasoning is not that personal stories are false. Many a
 When one story starts sounding like proof, the crucial question is simple: does this example demonstrate a pattern, or does it merely illustrate a possibility? Logical mistakes arise when that distinction disappears. A single case can open an investigation, challenge assumptions, or humanise an issue. What it cannot reliably do is establish what normally happens without broader evidence to support it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLHasty Generalization: This is a conclusion based on insufficient or biased evidence. In other wor...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b_UqIfw7Zmw" title="Hasty Generalization (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b_UqIfw7Zmw" target="_blank" rel="noopener noreferrer">Hasty Generalization (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 59.6K &middot; Uploaded: February 2014 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b_UqIfw7Zmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b_UqIfw7Zmw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8AwzQdRcDXs" title="73 – The Fallacy of the Anecdotal Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8AwzQdRcDXs" target="_blank" rel="noopener noreferrer">73 – The Fallacy of the Anecdotal Evidence</a></p><p class="youtube-embed-meta">Channel: ABC EastFlorida &middot; Views: 87 &middot; Uploaded: January 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8AwzQdRcDXs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8AwzQdRcDXs">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -800,157 +800,157 @@ When one story starts sounding like proof, the crucial question is simple: does 
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLHasty Generalization: This is a conclusion based on insufficient or biased evidence. In other wor...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: hasty generalization fallacy  
-   Link: [https://www.scribbr.com/fallacies/hasty-generalization-fallacy/](https://www.scribbr.com/fallacies/hasty-generalization-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/hasty-generalization-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples26 Apr 2023 — A hasty generalization fallacy occurs when people draw a conclusion from a sample that is too small or...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: owl.excelsior.edu  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLHasty Generalization Fallacy | Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/](https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A hasty generalization...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/0010028573900339](https://www.sciencedirect.com/science/article/pii/0010028573900339)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAvailability: A heuristic for judging frequency and probabilityby A Tversky · 1973 · Cited by 17442 — This paper explores a...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/0010028573900339" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0010028573900339</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability: A heuristic for judging frequency and probabilityby A Tversky · 1973 · Cited by 17442 — This paper explores a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/0010028573900339](https://www.sciencedirect.com/science/article/abs/pii/0010028573900339)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0010028573900339" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0010028573900339</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability: A heuristic for judging frequency and probabilityby A Tversky · 1973 · Cited by 17467 — This paper explores a judgmental he...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIThe weakness of one  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK63643/](https://www.ncbi.nlm.nih.gov/books/NBK63643/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63643/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63643/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 37 — In this chapter we discuss some of the ways in which stories can b...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow do People Judge Risk?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability may Upstage Affect in...by E Efendić · 2021 · Cited by 15 — We found that availability‐by‐recall had a stronger impact in c...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: purdueglobalwriting.center  
    Title: How to Support an Argument and Avoid [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) Anecdotal Fallacy  
-   Link: [https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/](https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal fallacy, also called a hasty generalization or jumping to conclusions, is an inductive fallacy that occurs when one instance...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: Availability Heuristic  
-   Link: [https://www.sciencedirect.com/topics/computer-science/availability-heuristic](https://www.sciencedirect.com/topics/computer-science/availability-heuristic)  
+   Link: <a href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In their study, respondents were provided...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/rhetorical_strategies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhetorical Strategies for Persuasion - Purdue OWLHasty Generalization: This is a conclusion based on insufficient or biased evidence...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: simplypsychology.org  
    Title: availability heuristic  
-   Link: [https://www.simplypsychology.org/availability-heuristic.html](https://www.simplypsychology.org/availability-heuristic.html)  
+   Link: <a href="https://www.simplypsychology.org/availability-heuristic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/availability-heuristic.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Decision Making10 Jul 2023 — The availability heuristic is a mental shortcut where individuals judge the likelihood of an event based...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: purdueglobal.edu  
    Title: Purdue Global  
-   Link: [https://www.purdueglobal.edu/](https://www.purdueglobal.edu/)  
+   Link: <a href="https://www.purdueglobal.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdueglobal.edu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Accredited Online UniversityPurdue Global is 100% online so you can fit earning a degree into your busy life. Take undergraduate cours...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Availability](https://en.wikipedia.org/wiki/Availability)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AvailabilityThe probability that an item will operate satisfactorily at a given point in time when used under stated conditions in an...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability heuristicThe availability heuristic, also known as availability bias, is a mental shortcut that relies on immediate examp...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/availability](https://www.vocabulary.com/dictionary/availability)  
+   Link: <a href="https://www.vocabulary.com/dictionary/availability" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/availability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you work at an ice cream shop, the availability of ice cream might make it hard to stick to a diet.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/availability](https://dictionary.cambridge.org/us/dictionary/english/availability)  
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/availability" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/availability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>definition | Cambridge English Dictionarythe fact that something can be bought, used, or reached, or how much it can be...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: get-alfred.ai  
    Title: availability heuristic  
-   Link: [https://get-alfred.ai/blog/availability-heuristic](https://get-alfred.ai/blog/availability-heuristic)  
+   Link: <a href="https://get-alfred.ai/blog/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Availability Heuristic: Why Memorable Events Feel CommonFeb 19, 2026 — Tversky and Kahneman (1973, Cognitive Psychology) showed that...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/availability](https://www.merriam-webster.com/dictionary/availability)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/availability" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/availability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AVAILABILITY Definition &amp; Meaning7 days ago — 1. The quality or state of being available; trying to improve the availability of affordabl...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/asklwanda/posts/healthcare-professionals-work-on-facts-and-global-population-level-evidence-wher/1616120017184518/](https://www.facebook.com/asklwanda/posts/healthcare-professionals-work-on-facts-and-global-population-level-evidence-wher/1616120017184518/)  
+   Link: <a href="https://www.facebook.com/asklwanda/posts/healthcare-professionals-work-on-facts-and-global-population-level-evidence-wher/1616120017184518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/asklwanda/posts/healthcare-professionals-work-on-facts-and-global-population-level-evidence-wher/1616120017184518/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AskLwandaANECDOTAL EVIDENCE is information based on personal stories, individual experiences, or isolated observations rather than system...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: yukaichou.com  
-   Link: [https://yukaichou.com/behavioral-analysis/availability-heuristic-tversky-kahneman-recall-bias/](https://yukaichou.com/behavioral-analysis/availability-heuristic-tversky-kahneman-recall-bias/)  
+   Link: <a href="https://yukaichou.com/behavioral-analysis/availability-heuristic-tversky-kahneman-recall-bias/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/behavioral-analysis/availability-heuristic-tversky-kahneman-recall-bias/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic: Why Recent Memories Mislead UsThe availability heuristic is a mental shortcut where a person judges the likelihoo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: guidetogrammar.org  
-   Link: [https://guidetogrammar.org/grammar/composition/logic.htm](https://guidetogrammar.org/grammar/composition/logic.htm)  
+   Link: <a href="https://guidetogrammar.org/grammar/composition/logic.htm" target="_blank" rel="noopener noreferrer nofollow">https://guidetogrammar.org/grammar/composition/logic.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic in Argumentative WritingA fallacy is an error of reasoning. It can be used against you in an argument, but if you are familiar with...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/104819729/logical-fallacies-purdue-owl-flash-cards/](https://quizlet.com/104819729/logical-fallacies-purdue-owl-flash-cards/)  
+   Link: <a href="https://quizlet.com/104819729/logical-fallacies-purdue-owl-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/104819729/logical-fallacies-purdue-owl-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies Purdue Owl FlashcardsHasty Generalization. conclusion based on insufficient or biased evidence. You are rushing to a co...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/261837093_The_clinical_case_report_A_review_of_its_merits_and_limitations](https://www.researchgate.net/publication/261837093_The_clinical_case_report_A_review_of_its_merits_and_limitations)  
+   Link: <a href="https://www.researchgate.net/publication/261837093_The_clinical_case_report_A_review_of_its_merits_and_limitations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261837093_The_clinical_case_report_A_review_of_its_merits_and_limitations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The clinical case report: A review of its merits and limitationsThe major limitations were: Lack of ability to generalize, no possibility...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
 
 27. <a id="endnote-27"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/criticalthinkingintheageofartificialintelligence/open/download?type=epub](https://ecampusontario.pressbooks.pub/criticalthinkingintheageofartificialintelligence/open/download?type=epub)  
+   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinkingintheageofartificialintelligence/open/download?type=epub" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinkingintheageofartificialintelligence/open/download?type=epub</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thinking in the Age of Artificial IntelligenceIn summary, Hall&#x27;s editorial relies heavily on logical fallacies such as hasty generalizati...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/mental-model-availability-bias/](https://fs.blog/mental-model-availability-bias/)  
+   Link: <a href="https://fs.blog/mental-model-availability-bias/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/mental-model-availability-bias/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lieve that all we can easily call to mind is reality, which distorts real probabilities...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: quizlet.com  
    Title: Logical Fallacies (Purdue OWL) Flashcards Fallacies  
-   Link: [https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/](https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common errors in reasoning that will undermine the logic of your argument. · [Slippery Slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) · Hasty Generalization · Post hoc ergo proper...</p></details>
+   Link: <a href="https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/167315004/logical-fallacies-purdue-owl-flash-cards/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common errors in reasoning that will undermine the logic of your argument. · [Slippery Slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) · Hasty Generalization · [Post hoc](&amp;#123;&amp;#123; &#x27;post-hoc/&#x27; | relative_url &amp;#125;&amp;...</p></details>

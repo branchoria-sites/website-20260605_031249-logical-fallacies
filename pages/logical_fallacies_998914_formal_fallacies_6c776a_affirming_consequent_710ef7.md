@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming
 
 ## Introduction
 
-Affirming the consequent, sometimes understood as a form of false proof from effects, is one of the most persuasive [formal fallacies]({{ 'formal-logic/' | relative_url }}) because it begins with something that often feels reasonable. The pattern is simple: a person predicts that a particular cause would produce a certain effect, observes the effect, and then treats that observation as proof that the original cause must have occurred. The mistake is not noticing that the same effect may have multiple possible causes. Logic texts identify this as an invalid argument form because the conclusion does not follow necessarily from the premises, even when the premises are true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">forms of inference, so these we may think of as deductive fallacies. They include affirming the consequent, denying the antecedent, the...</span></span></span>
+Affirming the consequent, sometimes understood as a form of false proof from effects, is one of the most persuasive formal fallacies because it begins with something that often feels reasonable. The pattern is simple: a person predicts that a particular cause would produce a certain effect, observes the effect, and then treats that observation as proof that the original cause must have occurred. The mistake is not noticing that the same effect may have multiple possible causes. Logic texts identify this as an invalid argument form because the conclusion does not follow necessarily from the premises, even when the premises are true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">forms of inference, so these we may think of as deductive fallacies. They include affirming the consequent, denying the antecedent, the...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1-dark.svg" | relative_url }}" alt="False Effects illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -308,7 +308,7 @@ The pavement may indeed be wet because of rain. However, it could also be wet be
 
 ### Why the Pattern Feels Convincing
 
-The fallacy succeeds because human reasoning often works by recognising patterns. If a cause repeatedly produces a particular effect, seeing the effect naturally brings the cause to mind. Cognitive research has found that people frequently show a tendency to reverse learned contingencies, treating “if P then Q” as though it also implied “if Q then P”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010027721001748" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe contingency symmetry bias (affirming the consequent...by M Imai · 2021 · Cited by 21 — Humans are known to possess an “...</span></span></span>
+The fallacy succeeds because human reasoning often works by recognising patterns. If a cause repeatedly produces a particular effect, seeing the effect naturally brings the cause to mind. Cognitive research has found that people frequently show a tendency to reverse learned contingencies, treating “if P then Q” as though it also implied “if Q then P”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0010027721001748" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The contingency symmetry bias (affirming the consequent...by M Imai · 2021 · Cited by 21 — Humans are known to possess an “...</span></span></span>
 
 This intuition can be useful when generating hypotheses. The problem emerges when hypothesis generation is mistaken for proof. The effect may increase the plausibility of the proposed cause, but it does not eliminate competing explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -365,9 +365,9 @@ The consequences become more significant when decisions involve guilt, liability
 
 ### Legal and Forensic Reasoning
 
-A well-known relative of affirming the consequent appears in the prosecutor's fallacy. In this error, the rarity of evidence under innocence is treated as though it directly establishes guilt. Courts and evidence specialists have repeatedly warned that the probability of observing evidence if someone is innocent is not the same thing as the probability that the person is innocent given the evidence. CEBM <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University5.1 The prosecutor&#x27;s fallacy | OpenLearnJudges and juries that are not comfortable with numbers may be at risk of misi...</span></span></span>
+A well-known relative of affirming the consequent appears in the prosecutor's fallacy. In this error, the rarity of evidence under innocence is treated as though it directly establishes guilt. Courts and evidence specialists have repeatedly warned that the probability of observing evidence if someone is innocent is not the same thing as the probability that the person is innocent given the evidence. CEBM <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University5.1 The prosecutor&#x27;s fallacy &#124; OpenLearnJudges and juries that are not comfortable with numbers may be at risk of misi...</span></span></span>
 
-Cases such as those involving Sally Clark and Lucia de Berk are frequently cited in discussions of how misunderstandings of conditional probabilities can contribute to wrongful conclusions. The issue is not that evidence is irrelevant; rather, evidence must be interpreted in the [context]({{ 'context/' | relative_url }}) of alternative explanations and background probabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">CEBMThe Prosecutor&#x27;s Fallacy16 Jul 2018 — The Prosecutor&#x27;s Fallacy is most often associated with miscarriages of justice. It&#x27;s when the p...</span></span></span>
+Cases such as those involving Sally Clark and Lucia de Berk are frequently cited in discussions of how misunderstandings of conditional probabilities can contribute to wrongful conclusions. The issue is not that evidence is irrelevant; rather, evidence must be interpreted in the [context]({{ 'context/' | relative_url }}) of alternative explanations and background probabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — The Prosecutor&#x27;s Fallacy is most often associated with miscarriages of justice. It&#x27;s when the p...</span></span></span>
 
 ### Scientific Investigation
 
@@ -747,90 +747,90 @@ Affirming the consequent is a formal fallacy because it treats an effect as proo
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>forms of inference, so these we may think of as deductive fallacies. They include affirming the consequent, denying the antecedent, the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: [https://en.wikipedia.org/wiki/Affirming_the_consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
 3. <a id="endnote-3"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical](https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical)  
+   Link: <a href="https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/fallacy-logical</a>  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010027721001748](https://www.sciencedirect.com/science/article/pii/S0010027721001748)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe contingency symmetry bias (affirming the consequent...by M Imai · 2021 · Cited by 21 — Humans are known to possess an “...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010027721001748" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010027721001748</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The contingency symmetry bias (affirming the consequent...by M Imai · 2021 · Cited by 21 — Humans are known to possess an “...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cebm.ox.ac.uk  
-   Title: the [prosecutors fallacy](&#123;&#123; 'probability-trap/' | relative_url &#125;&#125;)  
-   Link: [https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEBMThe Prosecutor&#x27;s Fallacy16 Jul 2018 — The Prosecutor&#x27;s Fallacy is most often associated with miscarriages of justice. It&#x27;s when the p...</p></details>
+   Title: the prosecutors fallacy  
+   Link: <a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Prosecutor&#x27;s Fallacy16 Jul 2018 — The Prosecutor&#x27;s Fallacy is most often associated with miscarriages of justice. It&#x27;s when the p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: open.edu  
-   Link: [https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&section=7.1](https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&section=7.1)  
+   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University5.1 The prosecutor&#x27;s fallacy | OpenLearnJudges and juries that are not comfortable with numbers may be at risk of misi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Affirming the Consequent  
-   Link: [https://www.youtube.com/watch?v=0wQ_pYnL1_E](https://www.youtube.com/watch?v=0wQ_pYnL1_E)  
+   Link: <a href="https://www.youtube.com/watch?v=0wQ_pYnL1_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0wQ_pYnL1_E</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - FALLACIES: Affirming the Consequent...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 10. <a id="endnote-10"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf you have enough evidence to affirm the consequent of a conditional and then suppose that a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAffirming the ConsequentAn error in [formal logic](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) where if the consequent is said to be true, the antecedent is said t...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/11848139/](https://pubmed.ncbi.nlm.nih.gov/11848139/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMeda pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11848139/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: britannica.com  
    Title: affirmation of the consequent  
-   Link: [https://www.britannica.com/topic/affirmation-of-the-consequent](https://www.britannica.com/topic/affirmation-of-the-consequent)  
+   Link: <a href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/affirmation-of-the-consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAffirmation of the consequent | logicApr 1, 2026 — An argument is deductively valid when the truth of the premises...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rephrasely.com  
-   Link: [https://rephrasely.com/usage/affirming-the-consequent-fallacy](https://rephrasely.com/usage/affirming-the-consequent-fallacy)  
+   Link: <a href="https://rephrasely.com/usage/affirming-the-consequent-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://rephrasely.com/usage/affirming-the-consequent-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Affirming the Consequent FallacyIt occurs when someone assumes that if the consequent of a conditional statement is tru...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: [https://www.youtube.com/watch?v=xZ_vSFFvPqU](https://www.youtube.com/watch?v=xZ_vSFFvPqU)  
+   Link: <a href="https://www.youtube.com/watch?v=xZ_vSFFvPqU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xZ_vSFFvPqU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) - Affirming the Consequent...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
    Title: arXiv Human Conditional Reasoning in Answer Set Programming  
-   Link: [https://arxiv.org/abs/2311.04412](https://arxiv.org/abs/2311.04412)  
+   Link: <a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=Dsbv5mC9WwA](https://www.youtube.com/watch?v=Dsbv5mC9WwA)  
+   Link: <a href="https://www.youtube.com/watch?v=Dsbv5mC9WwA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dsbv5mC9WwA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy of Affirming the Consequent...</p></details>

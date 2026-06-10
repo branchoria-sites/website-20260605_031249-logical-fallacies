@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dil
 
 ## Introduction
 
-A [false dilemma]({{ 'false-dilemma/' | relative_url }}), sometimes called a false dichotomy or “either-or” fallacy, traps [debate]({{ 'debate/' | relative_url }}) audiences by presenting a complex issue as though only two choices exist. In live debates this can sound powerful because it creates clarity, urgency and decisiveness. The audience is encouraged to choose between two visible options instead of asking whether other realistic alternatives have been left out. Yet many policy questions, ethical disputes and public controversies involve a range of possibilities, compromises and conditional solutions rather than a stark binary choice. A false dilemma becomes persuasive not because it proves a point, but because it simplifies the decision-making process for listeners. Excelsior OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">| False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span>
+A [false dilemma]({{ 'false-dilemma/' | relative_url }}), sometimes called a false dichotomy or “either-or” fallacy, traps [debate]({{ 'debate/' | relative_url }}) audiences by presenting a complex issue as though only two choices exist. In live debates this can sound powerful because it creates clarity, urgency and decisiveness. The audience is encouraged to choose between two visible options instead of asking whether other realistic alternatives have been left out. Yet many policy questions, ethical disputes and public controversies involve a range of possibilities, compromises and conditional solutions rather than a stark binary choice. A false dilemma becomes persuasive not because it proves a point, but because it simplifies the decision-making process for listeners. Excelsior OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-1-dark.svg" | relative_url }}" alt="False Choices illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,7 +285,7 @@ A [false dilemma]({{ 'false-dilemma/' | relative_url }}), sometimes called a fal
 * **Cognitive simplicity:** [Two options]({{ 'two-options/' | relative_url }}) are easier to evaluate than multiple alternatives.
 * **Emotional pressure:** One option is often portrayed as dangerous, irresponsible or extreme, making the preferred option seem inevitable.
 * **Time constraints:** In live exchanges, audiences rarely have time to generate missing alternatives on their own.
-* **Perceived decisiveness:** Speakers who reduce a complicated issue to a binary choice can appear confident and certain, even when the framing is misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rephrasely.com/usage/false-dichotomy-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rephrasely.com">[rephrasely]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rephrasely.com</span><span class="citation-popover-snippet">RephraselyUnderstanding the False Dichotomy Fallacy: Unlocking...A false dichotomy occurs when an argument claims that there are only tw...</span></span></span> The result is that the debate shifts from“What is the best solution?” to “Which of these two choices will you accept?” That shift often benefits the speaker who defined the choices in the first place.
+* **Perceived decisiveness:** Speakers who reduce a complicated issue to a binary choice can appear confident and certain, even when the framing is misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rephrasely.com/usage/false-dichotomy-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rephrasely.com">[rephrasely]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rephrasely.com</span><span class="citation-popover-snippet">Understanding the False Dichotomy Fallacy: Unlocking...A false dichotomy occurs when an argument claims that there are only tw...</span></span></span> The result is that the debate shifts from“What is the best solution?” to “Which of these two choices will you accept?” That shift often benefits the speaker who defined the choices in the first place.
 
 ## How False Dilemmas Distort Debate Judgement
 
@@ -295,7 +295,7 @@ Consider a debater who argues:
 
 > “Either we increase surveillance powers or we do nothing about crime.”
 
-The audience is pushed to compare increased surveillance with complete inaction. Missing from the frame are alternatives such as targeted enforcement, judicial oversight, community policing, technological [safeguards]({{ 'safeguards/' | relative_url }}) or partial reforms. The debate becomes easier to win because competing solutions have been removed before they can be considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">| False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">False Dilemma Fallacy | Examples &amp; Definition</span><span class="citation-popover-snippet">30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist) or by p...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> This distortion can appear in several forms:
+The audience is pushed to compare increased surveillance with complete inaction. Missing from the frame are alternatives such as targeted enforcement, judicial oversight, community policing, technological [safeguards]({{ 'safeguards/' | relative_url }}) or partial reforms. The debate becomes easier to win because competing solutions have been removed before they can be considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">False Dilemma Fallacy &#124; Examples &amp; Definition</span><span class="citation-popover-snippet">30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist) or by p...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> This distortion can appear in several forms:
 
 * Presenting two extremes while ignoring moderate positions.
 * Treating a spectrum as though only endpoints exist.
@@ -332,7 +332,7 @@ For example:
 
 </div>
 
-The existence of a credible third option weakens the binary framing immediately. Excelsior OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[2scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">False Dilemma Fallacy | Examples &amp; Definition</span><span class="citation-popover-snippet">30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist) or by p...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The existence of a credible third option weakens the binary framing immediately. Excelsior OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[2scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">False Dilemma Fallacy &#124; Examples &amp; Definition</span><span class="citation-popover-snippet">30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist) or by p...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-2-dark.svg" | relative_url }}" alt="False Choices illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -360,7 +360,7 @@ Many false dilemmas depend on an unstated premise. The speaker may assume:
 
 </div>
 
-Bringing those assumptions into the open often reveals that the dilemma is far less rigid than it first appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/TOMFDA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers False Dilemma: A Systematic Exposition</span><span class="citation-popover-snippet">PhilPapersFalse Dilemma: A Systematic Exposition - Taeda TomićThis article formulates six criteria for a well-grounded exposition of a fa...</span></span></span>
+Bringing those assumptions into the open often reveals that the dilemma is far less rigid than it first appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/TOMFDA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers False Dilemma: A Systematic Exposition</span><span class="citation-popover-snippet">False Dilemma: A Systematic Exposition - Taeda TomićThis article formulates six criteria for a well-grounded exposition of a fa...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4CtofTCXcYI" title="Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer">Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: LearnFree &middot; Views: 875.1K &middot; Uploaded: August 2019 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4CtofTCXcYI">Open on YouTube</a></p></div></div></div>
@@ -380,7 +380,7 @@ A dilemma can be legitimate when the available options are genuinely exhaustive 
 
 </div>
 
-In such cases, presenting two options is not misleading because the decision structure itself is binary. The key question is whether meaningful alternatives have been excluded unfairly. A two-choice frame becomes fallacious only when additional realistic possibilities exist but are concealed or dismissed without justification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">| False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span> Wikipedia Debaters sometimes overuse accusations of false dilemma by assuming every binary choice is flawed. The better test is not the number of optio <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span> ns presented but whether the speaker has accurately represented the available options.
+In such cases, presenting two options is not misleading because the decision structure itself is binary. The key question is whether meaningful alternatives have been excluded unfairly. A two-choice frame becomes fallacious only when additional realistic possibilities exist but are concealed or dismissed without justification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span> Wikipedia Debaters sometimes overuse accusations of false dilemma by assuming every binary choice is flawed. The better test is not the number of optio <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span> ns presented but whether the speaker has accurately represented the available options.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NQiHtbpa8s" title="Become A Master Of Influence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NQiHtbpa8s" target="_blank" rel="noopener noreferrer">Become A Master Of Influence</a></p><p class="youtube-embed-meta">Channel: Charisma on Command &middot; Views: 3.0M &middot; Uploaded: April 2016 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NQiHtbpa8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NQiHtbpa8s">Open on YouTube</a></p></div></div></div>
@@ -389,7 +389,7 @@ In such cases, presenting two options is not misleading because the decision str
 
 False dilemmas are dangerous because they often feel reasonable. They do not usually rely on obviously false facts. Instead, they narrow the audience's field of vision. Once listeners accept the frame, they begin comparing only the permitted options and may never ask what has been omitted.
 
-In live debate, this makes false dilemmas particularly effective. The audience hears a clean choice, sees a clear contrast and experiences the satisfaction of apparent certainty. Critical evaluation requires a slower question: not “Which of these two options is better?” but “Are these really the only options?” Excelsior OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">| False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span>
+In live debate, this makes false dilemmas particularly effective. The audience hears a clean choice, sees a clear contrast and experiences the satisfaction of apparent certainty. Critical evaluation requires a slower question: not “Which of these two options is better?” but “Are these really the only options?” Excelsior OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span>
 
 The strongest defence against the fallacy is therefore not merely identifying it by name. It is restoring the missing possibilities that the debate audience was never invited to consider.
 
@@ -482,7 +482,7 @@ The strongest defence against the fallacy is therefore not merely identifying it
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -491,46 +491,94 @@ The strongest defence against the fallacy is therefore not merely identifying it
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-choices-when-debate-choices-are-too-neat-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Contender: The Game of Presidential Debate Card Game NEW (2015)"><img src="https://i.ebayimg.com/images/g/FXcAAeSwsH9pGPCK/s-l225.jpg" alt="Listing image for The Contender: The Game of Presidential Debate Card Game NEW (2015)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-choices-when-debate-choices-are-too-neat-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">The Contender: The Game of Presidential Debate Card Game NEW (2015)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-choices-when-debate-choices-are-too-neat-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search <span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-choices-when-debate-choices-are-too-neat-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-choices-when-debate-choices-are-too-neat-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortnum &amp; Mason Dinner Party Discourse &amp; Debate Set - NEW Sealed Cards"><img src="https://i.ebayimg.com/images/g/inEAAeSwpHRqAGHJ/s-l225.jpg" alt="Listing image for Fortnum &amp; Mason Dinner Party Discourse &amp; Debate Set - NEW Sealed Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-choices-when-debate-choices-are-too-neat-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Fortnum &amp; Mason Dinner Party Discourse &amp; Debate Set - NEW Sealed Cards</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-choices-when-debate-choices-are-too-neat-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search <span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-choices-when-debate-choices-are-too-neat-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!"><img src="https://i.ebayimg.com/images/g/tMkAAeSwcLZqIFsz/s-l225.jpg" alt="Listing image for Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deep Dilemmas 200 Debate Cards Game New"><img src="https://i.ebayimg.com/images/g/JuMAAOSwOWJoN3lq/s-l225.jpg" alt="Listing image for Deep Dilemmas 200 Debate Cards Game New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Deep Dilemmas 200 Debate Cards Game New</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-choices-when-debate-choices-are-too-neat-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -606,17 +654,31 @@ The strongest defence against the fallacy is therefore not merely identifying it
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -629,42 +691,73 @@ The strongest defence against the fallacy is therefore not merely identifying it
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -679,178 +772,182 @@ The strongest defence against the fallacy is therefore not merely identifying it
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: owl.excelsior.edu  
    Title: OWLFalse Dilemma Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLFalse Dilemma Fallacy - Excelsior OWLA false dilemma is a logical fallacy that presents only two options or sides to an issu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica What Is the Either-Or Fallacy?  
-   Link: [https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy](https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</p></details>
+   Link: <a href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribbr.com  
    Title: False Dilemma Fallacy | Examples & Definition  
-   Link: [https://www.scribbr.com/fallacies/false-dilemma-fallacy/](https://www.scribbr.com/fallacies/false-dilemma-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/false-dilemma-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist) or by p...</p></details>
    Published: May 2023  
 
 4. <a id="endnote-4"></a>
    Source: microsoft.com  
    Title: false dilemma fallacy  
-   Link: [https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy)  
+   Link: <a href="https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a false dilemma fallacy? Explore...17 Dec 2024 — A false dilemma fallacy or either/or fallacy creates the illusion of only two c...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: False dilemma  
-   Link: [https://en.wikipedia.org/wiki/False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_dilemma</a>  
 
 6. <a id="endnote-6"></a>
    Source: rephrasely.com  
-   Link: [https://rephrasely.com/usage/false-dichotomy-fallacy](https://rephrasely.com/usage/false-dichotomy-fallacy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RephraselyUnderstanding the False Dichotomy Fallacy: Unlocking...A false dichotomy occurs when an argument claims that there are only tw...</p></details>
+   Link: <a href="https://rephrasely.com/usage/false-dichotomy-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://rephrasely.com/usage/false-dichotomy-fallacy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the False Dichotomy Fallacy: Unlocking...A false dichotomy occurs when an argument claims that there are only tw...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: thoughtco.com  
    Title: false dilemma fallacy 250338  
-   Link: [https://www.thoughtco.com/false-dilemma-fallacy-250338](https://www.thoughtco.com/false-dilemma-fallacy-250338)  
+   Link: <a href="https://www.thoughtco.com/false-dilemma-fallacy-250338" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/false-dilemma-fallacy-250338</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma Fallacy8 Mar 2017 — The False Dilemma fallacy occurs when an argument offers a false range of choices and requires that you...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: philpapers.org  
    Title: Phil Papers False Dilemma: A Systematic Exposition  
-   Link: [https://philpapers.org/rec/TOMFDA](https://philpapers.org/rec/TOMFDA)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersFalse Dilemma: A Systematic Exposition - Taeda TomićThis article formulates six criteria for a well-grounded exposition of a fa...</p></details>
+   Link: <a href="https://philpapers.org/rec/TOMFDA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TOMFDA</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma: A Systematic Exposition - Taeda TomićThis article formulates six criteria for a well-grounded exposition of a fa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy/Verbal-fallacies](https://www.britannica.com/topic/fallacy/Verbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;), Straw Man13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when s...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; ExamplesApr 1, 2026 — Fallacy, in logic, erroneous reasoning that has the appearance of soundness. In logic an argume...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/applied-logic](https://www.britannica.com/topic/applied-logic)  
+   Link: <a href="https://www.britannica.com/topic/applied-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applied logic | Fallacies, Varieties, &amp; FactsThe fallacy known as begging the question—in Latin petitio principii—originally meant answer...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy-of-false-cause](https://www.britannica.com/topic/fallacy-of-false-cause)  
+   Link: <a href="https://www.britannica.com/topic/fallacy-of-false-cause" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy-of-false-cause</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: False dilemma  
-   Link: [https://simple.wikipedia.org/wiki/False_dilemma](https://simple.wikipedia.org/wiki/False_dilemma)  
+   Link: <a href="https://simple.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://simple.wikipedia.org/wiki/False_dilemma</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False dilemmaFalse dilemma. informal fallacy..., or the fallacy of false choice, is a mistake in logic that allows only two possibil...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scribbr.co.uk  
    Title: Scribbr False Dilemma Fallacy | Examples & Definition  
-   Link: [https://www.scribbr.co.uk/fallacy/false-dilemma/](https://www.scribbr.co.uk/fallacy/false-dilemma/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/false-dilemma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma Fallacy | Examples &amp; Definition - Scribbr30 May 2023 — The false dilemma fallacy means presenting a limited number of optio...</p></details>
    Published: May 2023  
 
 15. <a id="endnote-15"></a>
    Source: grammarly.com  
    Title: false dilemma fallacy  
-   Link: [https://www.grammarly.com/blog/rhetorical-devices/false-dilemma-fallacy/](https://www.grammarly.com/blog/rhetorical-devices/false-dilemma-fallacy/)  
+   Link: <a href="https://www.grammarly.com/blog/rhetorical-devices/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/false-dilemma-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples4 Aug 2022 — A false dilemma is a fallacy that misrepresents an issue by presenting only two mutually exclusive op...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: logicallyfallacious.com  
    Title: Logically Fallacious False Dilemma  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma](https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousFalse Dilemma - fallaciesDescription: When only two choices are presented yet more exist, or a spectrum of possible c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — The ad hominem fallacy, which involves bringing negative aspects of an arguer...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: criticalthinkingacademy.net  
    Title: False Dilemma  
-   Link: [https://criticalthinkingacademy.net/blog/false-dilemma.html](https://criticalthinkingacademy.net/blog/false-dilemma.html)  
+   Link: <a href="https://criticalthinkingacademy.net/blog/false-dilemma.html" target="_blank" rel="noopener noreferrer nofollow">https://criticalthinkingacademy.net/blog/false-dilemma.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking AcademyAnother way to look at a False Dilemma is: It is an oversimplification that offers a limited number of options...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: study.com  
    Title: False Dilemma Fallacy | Definition, Types & Examples  
-   Link: [https://study.com/academy/lesson/video/false-dilemma-fallacy-definition-examples.html](https://study.com/academy/lesson/video/false-dilemma-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/video/false-dilemma-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/false-dilemma-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoWe call it the false dilemma fallacy when an argument limits choices to only a few options and ignores other possibilities...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/false-dichotomy](https://fallacyguide.com/fallacies/false-dichotomy)  
+   Link: <a href="https://fallacyguide.com/fallacies/false-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/false-dichotomy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dichotomy Fallacy: Definition, Examples &amp; How to Fix ItFalse dichotomy forces a choice between two options when more exist. See pat...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: finmasters.com  
-   Link: [https://finmasters.com/false-dilemma/](https://finmasters.com/false-dilemma/)  
+   Link: <a href="https://finmasters.com/false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/false-dilemma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma (Logical Fallacy): Definition and Examples✍️ A false dilemma occurs when a limited number of choices, outcomes, or views ar...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesOther researchers say a fallacy is a mistake in an argument that arises from something other...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 24. <a id="endnote-24"></a>
    Source: digitalcommons.unomaha.edu  
-   Link: [https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&[context](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&[context)  
+   Link: <a href="https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&amp;[context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Called the &#x27;False Dilemma Fallacy&#x27; (FDF)by R Conces · 2023 · Cited by 1 — Abstract: This work is a revision of the False Dilemma Fallacy...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: hoover.org  
    Title: leaving middle east fallacy false dichotomy  
-   Link: [https://www.hoover.org/research/leaving-middle-east-fallacy-false-dichotomy](https://www.hoover.org/research/leaving-middle-east-fallacy-false-dichotomy)  
+   Link: <a href="https://www.hoover.org/research/leaving-middle-east-fallacy-false-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://www.hoover.org/research/leaving-middle-east-fallacy-false-dichotomy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaving The Middle East: The Fallacy Of A False DichotomyApr 2, 2020 — In classical logic, the false dichotomy, or false dilemma, is defi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: learn.academy4sc.org  
    Title: false dilemma either love it or fear it  
-   Link: [https://learn.academy4sc.org/video/false-dilemma-either-love-it-or-fear-it/](https://learn.academy4sc.org/video/false-dilemma-either-love-it-or-fear-it/)  
+   Link: <a href="https://learn.academy4sc.org/video/false-dilemma-either-love-it-or-fear-it/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/false-dilemma-either-love-it-or-fear-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dilemma: Either Love It or Fear ItA false dilemma is a logical fallacy that claims there are only two choices when, upon closer inspectio...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/dean-r-berry-fallacy-false-dichotomy/105234286](https://www.slideshare.net/slideshow/dean-r-berry-fallacy-false-dichotomy/105234286)  
+   Link: <a href="https://www.slideshare.net/slideshow/dean-r-berry-fallacy-false-dichotomy/105234286" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/dean-r-berry-fallacy-false-dichotomy/105234286</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ents that present only two choices while excluding other...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: middlewaysociety.org  
    Title: critical thinking 10 false dichotomy  
-   Link: [https://www.middlewaysociety.org/critical-thinking-10-false-dichotomy/](https://www.middlewaysociety.org/critical-thinking-10-false-dichotomy/)  
+   Link: <a href="https://www.middlewaysociety.org/critical-thinking-10-false-dichotomy/" target="_blank" rel="noopener noreferrer nofollow">https://www.middlewaysociety.org/critical-thinking-10-false-dichotomy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking 10: False Dichotomy21 Mar 2014 — A false dichotomy assumes that a judgement that is incremental (shades of grey) is abs...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: psychologycorner.com  
    Title: What is The False Dilemma Fallacy?  
-   Link: [https://psychologycorner.com/critical-thinking-resources/what-is-the-false-dilemma-fallacy/](https://psychologycorner.com/critical-thinking-resources/what-is-the-false-dilemma-fallacy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Critical Thinking...The False Dilemma fallacy, also known as the false dichotomy, arises when an argument presents a situation as if t...</p></details>
+   Link: <a href="https://psychologycorner.com/critical-thinking-resources/what-is-the-false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologycorner.com/critical-thinking-resources/what-is-the-false-dilemma-fallacy/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking...The False Dilemma fallacy, also known as the false dichotomy, arises when an argument presents a situation as if t...</p></details>

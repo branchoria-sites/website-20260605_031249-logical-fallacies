@@ -304,9 +304,9 @@ This tactic exploits availability bias and anecdotal reasoning. A memorable stor
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_miracle_cure_ad_red_0ae349-Illustration-2-dark.svg" | relative_url }}" alt="Ad Red Flags illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_miracle_cure_ad_red_0ae349-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_miracle_cure_ad_red_0ae349-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Scientific-sounding language without scientific support
 
-Miracle-cure advertisements often imitate the appearance of science. Terms such as “[clinically proven]({{ 'clinical-claims/' | relative_url }})”, “doctor recommended”, “research-backed”, “advanced formula”, or references to unnamed studies can create an impression of legitimacy without actually demonstrating effectiveness. The FTC has repeatedly challenged marketers who used scientific language that overstated or misrepresented the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=T2H9gE4pZ5A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">FTC warns against deceptive weight loss ads</span><span class="citation-popover-snippet">Federal Trade Commission...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.ftc.gov/node/76330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Consumer AdviceFTC &amp; FDA issue warning letters to supplement sellersAds abound for products that claim to treat or prevent serious health...</span></span></span>
+Miracle-cure advertisements often imitate the appearance of science. Terms such as “clinically proven”, “doctor recommended”, “research-backed”, “advanced formula”, or references to unnamed studies can create an impression of legitimacy without actually demonstrating effectiveness. The FTC has repeatedly challenged marketers who used scientific language that overstated or misrepresented the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=T2H9gE4pZ5A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">FTC warns against deceptive weight loss ads</span><span class="citation-popover-snippet">Federal Trade Commission...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.ftc.gov/node/76330" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Consumer AdviceFTC &amp; FDA issue warning letters to supplement sellersAds abound for products that claim to treat or prevent serious health...</span></span></span>
 
-A logical fallacy frequently at work here is the appeal to authority. Instead of presenting reliable evidence, the advertisement borrows credibility from scientific terminology, experts, or institutions without establishing that the underlying claim is actually supported.
+A logical fallacy frequently at work here is the [appeal to authority]({{ 'authority/' | relative_url }}). Instead of presenting reliable evidence, the advertisement borrows credibility from scientific terminology, experts, or institutions without establishing that the underlying claim is actually supported.
 
 ### Conspiracy narratives and “suppressed cure” claims
 
@@ -334,7 +334,7 @@ This requirement directly counters several common fallacies:
 
 </div>
 
-The FTC's guidance also stresses that disclaimers cannot erase a misleading overall message. If an advertisement strongly implies that a product cures a disease, a small qualification elsewhere is unlikely to correct the deception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cooley.com">[Cooley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cooley.com</span><span class="citation-popover-title">2023 03 02 ftc revises health products compliance guidance</span><span class="citation-popover-snippet">CooleyFTC Revises Health Products Compliance Guidance2 Mar 2023 — The FTC&#x27;s misgivings regarding emerging science claims, as expressed in...</span></span></span>
+The FTC's guidance also stresses that disclaimers cannot erase a misleading overall message. If an advertisement strongly implies that a product cures a disease, a small qualification elsewhere is unlikely to correct the deception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cooley.com">[Cooley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cooley.com</span><span class="citation-popover-title">2023 03 02 ftc revises health products compliance guidance</span><span class="citation-popover-snippet">FTC Revises Health Products Compliance Guidance2 Mar 2023 — The FTC&#x27;s misgivings regarding emerging science claims, as expressed in...</span></span></span>
 
 A useful consumer question is therefore not whether a claim sounds scientific, inspiring, or plausible. It is whether the advertiser can demonstrate reliable evidence that matches the magnitude of the claim being made.
 
@@ -770,153 +770,153 @@ Miracle-cure advertising is not merely a problem of exaggerated marketing. The F
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ftc.gov  
    Title: operation cureall targets internet health fraud  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud](https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/1999/06/operation-cureall-targets-internet-health-fraud</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission&quot;Operation Cure.all&quot; Targets Internet Health Fraud24 Jun 1999 — The companies settled FTC charges that the four w...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ftc.gov  
    Title: hits internet health fraud continuation operation cureall  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall](https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2000/04/ftc-hits-internet-health-fraud-continuation-operation-cureall</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Hits Internet Health Fraud in Continuation of Operation...5 Apr 2000 — The FTC alleges that these companies...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lifesciences.mofo.com  
    Title: ftc issues updated health products claims guidance  
-   Link: [https://lifesciences.mofo.com/topics/ftc-issues-updated-health-products-claims-guidance](https://lifesciences.mofo.com/topics/ftc-issues-updated-health-products-claims-guidance)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jan 2023 — This is the first update in nearly 25 years to FTC&#x27;s guidance regarding [advertising claims](&amp;#123;&amp;#123; &#x27;ad-claims/&#x27; | relative_url &amp;#125;&amp;#125;) for dietary supplements, foods...</p></details>
+   Link: <a href="https://lifesciences.mofo.com/topics/ftc-issues-updated-health-products-claims-guidance" target="_blank" rel="noopener noreferrer nofollow">https://lifesciences.mofo.com/topics/ftc-issues-updated-health-products-claims-guidance</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jan 2023 — This is the first update in nearly 25 years to FTC&#x27;s guidance regarding advertising claims for dietary supplements, foods...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/health-claims](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claims | Federal Trade CommissionCompanies must have appropriate substantiation to back up claims for health-related products. Thr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: fda.gov  
    Title: 6 tip offs rip offs dont fall health fraud scams  
-   Link: [https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams](https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams)  
+   Link: <a href="https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/6-tip-offs-rip-offs-dont-fall-health-fraud-scams</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug Administration6 Tip-offs to Rip-offs: Don&#x27;t Fall for Health Fraud ScamsMar 4, 2021 — One product does it all. Be suspicious...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: fda.gov  
    Title: how spot health fraud  
-   Link: [https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/how-spot-health-fraud](https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/how-spot-health-fraud)  
+   Link: <a href="https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/how-spot-health-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/how-spot-health-fraud</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationHow to Spot Health Fraud8 Mar 2018 — Claims of an &quot;innovation,&quot; &quot;miracle cure,&quot; &quot;exclusive product,&quot; or...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: consumer.ftc.gov  
-   Link: [https://consumer.ftc.gov/node/76330](https://consumer.ftc.gov/node/76330)  
+   Link: <a href="https://consumer.ftc.gov/node/76330" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/node/76330</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceFTC &amp; FDA issue warning letters to supplement sellersAds abound for products that claim to treat or prevent serious health...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/media/71391](https://www.ftc.gov/media/71391)  
+   Link: <a href="https://www.ftc.gov/media/71391" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/media/71391</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Truth Behind Weight Loss AdsDo you think any of them work? Well, a miracle pill or a cream is not going to do...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: consumer.ftc.gov  
    Title: health product claims false guarantees  
-   Link: [https://consumer.ftc.gov/consumer-alerts/2020/06/health-product-claims-false-guarantees](https://consumer.ftc.gov/consumer-alerts/2020/06/health-product-claims-false-guarantees)  
+   Link: <a href="https://consumer.ftc.gov/consumer-alerts/2020/06/health-product-claims-false-guarantees" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/consumer-alerts/2020/06/health-product-claims-false-guarantees</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceHealth product claims and false guarantees25 Jun 2020 — According to the FTC, Willow Curve&#x27;s ads claimed it was an FDA-app...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cooley.com  
    Title: 2023 03 02 ftc revises health products compliance guidance  
-   Link: [https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance](https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CooleyFTC Revises Health Products Compliance Guidance2 Mar 2023 — The FTC&#x27;s misgivings regarding emerging science claims, as expressed in...</p></details>
+   Link: <a href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revises Health Products Compliance Guidance2 Mar 2023 — The FTC&#x27;s misgivings regarding emerging science claims, as expressed in...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: columbia.edu  
-   Link: [https://www.columbia.edu/~ns234/evaluatinghealthads.html](https://www.columbia.edu/~ns234/evaluatinghealthads.html)  
+   Link: <a href="https://www.columbia.edu/~ns234/evaluatinghealthads.html" target="_blank" rel="noopener noreferrer nofollow">https://www.columbia.edu/~ns234/evaluatinghealthads.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They also might cause you to delay or stop...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/downloads/forconsumers/protectyourself/healthfraud/ucm302359.pdf](https://www.fda.gov/downloads/forconsumers/protectyourself/healthfraud/ucm302359.pdf)  
+   Link: <a href="https://www.fda.gov/downloads/forconsumers/protectyourself/healthfraud/ucm302359.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/downloads/forconsumers/protectyourself/healthfraud/ucm302359.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationHealth Fraud Scams …are Everywhere&gt; Bogus dietary supplements: Many supplements offer health benefits, b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2003/07/federal-trade-commission-attacks-1-billion-deceptive-health-marketing-december](https://www.ftc.gov/news-events/news/press-releases/2003/07/federal-trade-commission-attacks-1-billion-deceptive-health-marketing-december)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2003/07/federal-trade-commission-attacks-1-billion-deceptive-health-marketing-december" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2003/07/federal-trade-commission-attacks-1-billion-deceptive-health-marketing-december</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission Attacks $1 Billion In Deceptive...Jul 10, 2003 — The FTC estimates these actions target products with a total o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: FTC warns against deceptive weight loss ads  
-   Link: [https://www.youtube.com/watch?v=T2H9gE4pZ5A](https://www.youtube.com/watch?v=T2H9gE4pZ5A)  
+   Link: <a href="https://www.youtube.com/watch?v=T2H9gE4pZ5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T2H9gE4pZ5A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/0743915620984116](https://journals.sagepub.com/doi/abs/10.1177/0743915620984116)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0743915620984116" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0743915620984116</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Long-Term Impacts of the Federal Trade Commission&#x27;s...by M Schein · 2022 · Cited by 13 — Raising Red Flags: The Change...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: [https://uk.practicallaw.thomsonreuters.com/w-019-8745?contextData=%28sc.Default%29&transitionType=Default](https://uk.practicallaw.thomsonreuters.com/w-019-8745?contextData=%28sc.Default%29&transitionType=Default)  
+   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-019-8745?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-019-8745?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and FTC Warn Companies Making Unsubstantiated...It is unlawful under the FTC Act for a business to advertise that a product can prevent...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: courses.lumenlearning.com  
    Title: health fraud  
-   Link: [https://courses.lumenlearning.com/suny-contemporaryhealth/chapter/health-fraud/](https://courses.lumenlearning.com/suny-contemporaryhealth/chapter/health-fraud/)  
+   Link: <a href="https://courses.lumenlearning.com/suny-contemporaryhealth/chapter/health-fraud/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-contemporaryhealth/chapter/health-fraud/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fraud | Contemporary Health IssuesFraudulently marketed health products can have dangerous [interactions](&amp;#123;&amp;#123; &#x27;interactions/&#x27; | relative_url &amp;#125;&amp;#125;) with medicines people are already...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: shieldsnursingcenters.com  
-   Link: [https://www.shieldsnursingcenters.com/blog/beware-of-health-scams/](https://www.shieldsnursingcenters.com/blog/beware-of-health-scams/)  
+   Link: <a href="https://www.shieldsnursingcenters.com/blog/beware-of-health-scams/" target="_blank" rel="noopener noreferrer nofollow">https://www.shieldsnursingcenters.com/blog/beware-of-health-scams/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beware of Health ScamsHealth scams usually target diseases that may have treatments for symptoms but currently have no cures. You may see...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dglaw.com  
-   Link: [https://www.dglaw.com/ftc-and-fda-sent-warning-letters-to-companies-advertising-products-that-claim-treatment-of-disease/pdf/](https://www.dglaw.com/ftc-and-fda-sent-warning-letters-to-companies-advertising-products-that-claim-treatment-of-disease/pdf/)  
+   Link: <a href="https://www.dglaw.com/ftc-and-fda-sent-warning-letters-to-companies-advertising-products-that-claim-treatment-of-disease/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/ftc-and-fda-sent-warning-letters-to-companies-advertising-products-that-claim-treatment-of-disease/pdf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC and FDA Sent Warning Letters to Companies...might violate the FTC Act by making false or unsubstantiated health claims about their a...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/write-a-catalyst/be-aware-of-miracle-cure-claims-how-to-spot-scams-17464ea8b228](https://medium.com/write-a-catalyst/be-aware-of-miracle-cure-claims-how-to-spot-scams-17464ea8b228)  
+   Link: <a href="https://medium.com/write-a-catalyst/be-aware-of-miracle-cure-claims-how-to-spot-scams-17464ea8b228" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/write-a-catalyst/be-aware-of-miracle-cure-claims-how-to-spot-scams-17464ea8b228</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Spot a “Miracle Cure” Health Scam in 3 Simple StepsLearn 3 easy steps to identify dangerous health scams and &quot;miracle cure&quot; market...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: kslaw.com  
-   Link: [https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=](https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=)  
+   Link: <a href="https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=" target="_blank" rel="noopener noreferrer nofollow">https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revises and Expands Guidance for Health Claims2 Feb 2023 — Signaling a renewed focus on consumer protection in the health claims spac...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: jonesday.com  
-   Link: [https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising](https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising)  
+   Link: <a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: aarp.org  
-   Link: [https://www.aarp.org/money/scams-fraud/health-miracle-cures/](https://www.aarp.org/money/scams-fraud/health-miracle-cures/)  
+   Link: <a href="https://www.aarp.org/money/scams-fraud/health-miracle-cures/" target="_blank" rel="noopener noreferrer nofollow">https://www.aarp.org/money/scams-fraud/health-miracle-cures/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phony &#x27;Miracle&#x27; Products Used in Health Fraud SchemesSupplements, teas and other products may be used for health fraud when scammers clai...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: dglaw.com  
-   Link: [https://www.dglaw.com/ftc-and-fda-sent-warning-letters-to-companies-advertising-products-that-claim-treatment-of-disease/](https://www.dglaw.com/ftc-and-fda-sent-warning-letters-to-companies-advertising-products-that-claim-treatment-of-disease/)  
+   Link: <a href="https://www.dglaw.com/ftc-and-fda-sent-warning-letters-to-companies-advertising-products-that-claim-treatment-of-disease/" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/ftc-and-fda-sent-warning-letters-to-companies-advertising-products-that-claim-treatment-of-disease/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC and FDA Sent Warning Letters to Companies...7 Mar 2019 — Advertisements on company websites and in [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) posts must avoid fal...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cov.com  
-   Link: [https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide](https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide)  
+   Link: <a href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — The new guidance broadly applies to all health-related claims, as opp...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: advertisinglaw.fkks.com  
    Title: ftc tells marketer to stop promoting fake miracle cure with phony endorsements  
-   Link: [https://advertisinglaw.fkks.com/post/102g4yq/ftc-tells-marketer-to-stop-promoting-fake-miracle-cure-with-phony-endorsements](https://advertisinglaw.fkks.com/post/102g4yq/ftc-tells-marketer-to-stop-promoting-fake-miracle-cure-with-phony-endorsements)  
+   Link: <a href="https://advertisinglaw.fkks.com/post/102g4yq/ftc-tells-marketer-to-stop-promoting-fake-miracle-cure-with-phony-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://advertisinglaw.fkks.com/post/102g4yq/ftc-tells-marketer-to-stop-promoting-fake-miracle-cure-with-phony-endorsements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tells Marketer to Stop Promoting Fake &quot;Miracle&quot; Cure...17 Apr 2020 — The FTC alleged that, through advertising online and in direct mail...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: loeb.com  
    Title: ftc warns nearly 700 health product marketers to avoid unsubstantiated claims  
-   Link: [https://www.loeb.com/en/insights/publications/2023/04/ftc-warns-nearly-700-health-product-marketers-to-avoid-unsubstantiated-claims](https://www.loeb.com/en/insights/publications/2023/04/ftc-warns-nearly-700-health-product-marketers-to-avoid-unsubstantiated-claims)  
+   Link: <a href="https://www.loeb.com/en/insights/publications/2023/04/ftc-warns-nearly-700-health-product-marketers-to-avoid-unsubstantiated-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.loeb.com/en/insights/publications/2023/04/ftc-warns-nearly-700-health-product-marketers-to-avoid-unsubstantiated-claims</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Warns Nearly 700 Health Product Marketers to Avoid...13 Apr 2023 — The Federal Trade Commission (FTC) warned nearly 700 health produ...</p></details>

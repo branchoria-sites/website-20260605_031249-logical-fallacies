@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:44:58'
 parent_title: Does Hypocrisy Refute the Claim? | Fallacy Lab
 parent_permalink: /tu-quoque/
 parent_nav_short_title: Tu Quoque
@@ -265,7 +266,6 @@ next_link:
   permalink: /whataboutism-82b621/
   short_title: Whataboutism
   heading_title: When Whataboutism Dodges the Real Issue
-date: '2026-06-05 01:44:58 '
 header:
   og_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-1.webp
@@ -284,7 +284,7 @@ The smoking doctor example is memorable because it separates two issues that peo
 
 First, there is the factual claim: smoking damages health. This claim can be evaluated through medical research, epidemiological studies, and clinical evidence. Physician advice to quit smoking has repeatedly been shown to help smokers stop, and the health risks of smoking are among the most extensively documented findings in medicine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7064045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Physician advice for smoking cessation</span><span class="citation-popover-snippet">PubMed CentralPhysician advice for smoking cessation - PMC - NIHby LF Stead · 2013 · Cited by 2998 — The aims of this review were to asse...</span></span></span>
 
-Second, there is the doctor's personal conduct. A doctor who smokes may be inconsistent, struggle with addiction, or fail to follow the same advice given to patients. Those facts may affect how people judge the doctor, but they do not alter the underlying evidence about tobacco use. The risks of smoking remain the same regardless of who states them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hearth.sh/guides/tu-quoque-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hearth.sh">[hearth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hearth.sh</span><span class="citation-popover-title">Tu Quoque Fallacy: Definition &amp; Examples</span><span class="citation-popover-snippet">HearthA doctor who smokes can still give correct medical advice about lung cancer. A speeding driver can still be right that speed limits...</span></span></span> This is why logic texts regularly use similar examples. Rejecting anti-smoking advice because the speaker smokes shifts attention from the reasons offered to the character of the person offering them. The argument's merits are left unexamined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy
+Second, there is the doctor's personal conduct. A doctor who smokes may be inconsistent, struggle with addiction, or fail to follow the same advice given to patients. Those facts may affect how people judge the doctor, but they do not alter the underlying evidence about tobacco use. The risks of smoking remain the same regardless of who states them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hearth.sh/guides/tu-quoque-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hearth.sh">[hearth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hearth.sh</span><span class="citation-popover-title">Tu Quoque Fallacy: Definition &amp; Examples</span><span class="citation-popover-snippet">A doctor who smokes can still give correct medical advice about lung cancer. A speeding driver can still be right that speed limits...</span></span></span> This is why logic texts regularly use similar examples. Rejecting anti-smoking advice because the speaker smokes shifts attention from the reasons offered to the character of the person offering them. The argument's merits are left unexamined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy
 
 ### Knowledge and Behaviour Often Diverge
 
@@ -292,7 +292,7 @@ The example also highlights an uncomfortable reality: people frequently know wha
 
 Doctors may understand the dangers of smoking yet still struggle with nicotine dependence. Financial advisers can overspend. Fitness trainers can neglect exercise during periods of illness or stress. Human weakness does not automatically erase expertise.
 
-Indeed, the smoking doctor may possess especially strong reasons for warning others. [Personal experience]({{ 'experience/' | relative_url }}) with addiction, failed attempts to quit, or smoking-related illness could reinforce rather than undermine the warning. The adviser’s failure to follow the advice may reveal how difficult the problem is, not that the advice is incorrect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Tu Quoque</span><span class="citation-popover-snippet">ThoughtCoTu Quoque - Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which...</span></span></span>
+Indeed, the smoking doctor may possess especially strong reasons for warning others. Personal [experience]({{ 'experience/' | relative_url }}) with addiction, failed attempts to quit, or smoking-related illness could reinforce rather than undermine the warning. The adviser’s failure to follow the advice may reveal how difficult the problem is, not that the advice is incorrect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Tu Quoque</span><span class="citation-popover-snippet">Tu Quoque - Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IEQDP2pYrmM" title="Ad Hominem (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IEQDP2pYrmM" target="_blank" rel="noopener noreferrer">Ad Hominem (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 12.7K &middot; Uploaded: February 2014 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IEQDP2pYrmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IEQDP2pYrmM">Open on YouTube</a></p></div></div></div>
@@ -307,7 +307,7 @@ to:
 
 > “Therefore the advice is false.”
 
-That conclusion does not logically follow. Philosophers and argumentation theorists classify this pattern as a form of ad hominem reasoning because it targets the speaker instead of addressing the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — The tu quoque type involves responding in ki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicTu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Textbook tu quoque arguments share...</span></span></span>
+That conclusion does not logically follow. Philosophers and argumentation theorists classify this pattern as a form of ad hominem reasoning because it targets the speaker instead of addressing the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem &#124; Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — The tu quoque type involves responding in ki...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicTu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Textbook tu quoque arguments share...</span></span></span>
 
 Consider these responses to the smoking doctor:
 
@@ -333,7 +333,7 @@ The same structure appears in many everyday arguments:
 
 </div>
 
-In each case, inconsistency may be real, but inconsistency alone does not establish that the advice is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">ScribbrWhat is ad hominem tu quoque?Ad hominem tu quoque (&#x27;you too”) is an attempt to rebut a claim by attacking its proponent on the gro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Tu Quoque</span><span class="citation-popover-snippet">ThoughtCoTu Quoque - Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which...</span></span></span>
+In each case, inconsistency may be real, but inconsistency alone does not establish that the advice is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">What is ad hominem tu quoque?Ad hominem tu quoque (&#x27;you too”) is an attempt to rebut a claim by attacking its proponent on the gro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Tu Quoque</span><span class="citation-popover-snippet">Tu Quoque - Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-2-dark.svg" | relative_url }}" alt="Smoking Doctor illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -365,7 +365,7 @@ For example:
 
 </div>
 
-But none of those points demonstrates that smoking is safe or that the medical evidence is mistaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicTu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Textbook tu quoque arguments share...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">PhilosophyAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument i...</span></span></span>
+But none of those points demonstrates that smoking is safe or that the medical evidence is mistaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicTu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Textbook tu quoque arguments share...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GbhIhA3Xstk" title="Tu Quoque Fallacy Example" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GbhIhA3Xstk" target="_blank" rel="noopener noreferrer">Tu Quoque Fallacy Example</a></p><p class="youtube-embed-meta">Channel: Philosophy Vibe &middot; Views: 22.8K &middot; Uploaded: December 2020 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GbhIhA3Xstk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GbhIhA3Xstk">Open on YouTube</a></p></div></div></div>
@@ -812,157 +812,157 @@ A doctor who smokes can still be correct that smoking harms health. The proper r
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html](https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Fallacy | Definition &amp; Examples - LessonIn response, a tu quoque argument would avoid addressing the data or evidence about how...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: hearth.sh  
    Title: Tu Quoque Fallacy: Definition & Examples  
-   Link: [https://hearth.sh/guides/tu-quoque-fallacy](https://hearth.sh/guides/tu-quoque-fallacy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HearthA doctor who smokes can still give correct medical advice about lung cancer. A speeding driver can still be right that speed limits...</p></details>
+   Link: <a href="https://hearth.sh/guides/tu-quoque-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://hearth.sh/guides/tu-quoque-fallacy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A doctor who smokes can still give correct medical advice about lung cancer. A speeding driver can still be right that speed limits...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: thoughtco.com  
    Title: Thought Co Tu Quoque  
-   Link: [https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335](https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ThoughtCoTu Quoque - Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which...</p></details>
+   Link: <a href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque - Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/ad-hominem](https://www.britannica.com/topic/ad-hominem)  
+   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; Facts5 days ago — The tu quoque type involves responding in ki...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/](https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrWhat is ad hominem tu quoque?Ad hominem tu quoque (&#x27;you too”) is an attempt to rebut a claim by attacking its proponent on the gro...</p></details>
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is ad hominem tu quoque?Ad hominem tu quoque (&#x27;you too”) is an attempt to rebut a claim by attacking its proponent on the gro...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Ad hominem is...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: study.com  
    Title: Tu Quoque Fallacy | Definition & Examples  
-   Link: [https://study.com/academy/lesson/video/look-whos-talking-tu-quoque-fallacy-definition-examples.html](https://study.com/academy/lesson/video/look-whos-talking-tu-quoque-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/video/look-whos-talking-tu-quoque-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/look-whos-talking-tu-quoque-fallacy-definition-examples.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoExamples include dismissing anti-smoking advice from a smoker or rejecting environmental policies from politicians who accept donati...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: [https://plato.stanford.edu/entries/category-mistakes/](https://plato.stanford.edu/entries/category-mistakes/)  
+   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2002/entries/logic-informal/](https://plato.stanford.edu/archives/sum2002/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic&quot; Different kinds of ad hominem (i.e., abusive, circumstantial and tu quoque ad hominem) are construed as different violations of th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/543/506](https://informallogic.ca/index.php/informal_logic/article/view/543/506)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicTu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Textbook tu quoque arguments share...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Physician advice for smoking cessation  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7064045/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7064045/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7064045/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7064045/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralPhysician advice for smoking cessation - PMC - NIHby LF Stead · 2013 · Cited by 2998 — The aims of this review were to asse...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 14. <a id="endnote-14"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAd Hominem (Tu quoque)Description: Claiming the argument is flawed by pointing out that the one making the argument i...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilosophyAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument i...</p></details>
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quoque. The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone&#x27;s argument not to perform some act must be faulty be...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: [https://en.wikipedia.org/wiki/Tu_quoque](https://en.wikipedia.org/wiki/Tu_quoque)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: finmasters.com  
    Title: Tu Quoque Fallacy  
-   Link: [https://finmasters.com/tu-quoque-fallacy/](https://finmasters.com/tu-quoque-fallacy/)  
+   Link: <a href="https://finmasters.com/tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/tu-quoque-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid because it is incon...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: rephrasely.com  
    Title: tu quoque fallacy  
-   Link: [https://rephrasely.com/usage/tu-quoque-fallacy](https://rephrasely.com/usage/tu-quoque-fallacy)  
+   Link: <a href="https://rephrasely.com/usage/tu-quoque-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://rephrasely.com/usage/tu-quoque-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The tu quoque fallacy occurs when an argument counters a claim by pointing out the hypocrisy of the opponent...Read more...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone&#x27;s argument not to perform some act must be faulty because th...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesInconsistency, moreover, may raise issues of hypocrisy or [double standards](&amp;#123;&amp;#123; &#x27;double-standards/&#x27; | relative_url &amp;#125;&amp;#125;), but it does not bear upon the argument at ha...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: learn.academy4sc.org  
-   Link: [https://learn.academy4sc.org/video/tu-quoque-you-too/](https://learn.academy4sc.org/video/tu-quoque-you-too/)  
+   Link: <a href="https://learn.academy4sc.org/video/tu-quoque-you-too/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/tu-quoque-you-too/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>quoque: You Too?!?Tu quoque is a type of ad hominem argument in which one discredits a position by asserting that the proponent has acted...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/tu-quoque](https://yourlogicalfallacyis.com/tu-quoque)  
+   Link: <a href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is commonly employed as an effective [red herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;) because it takes the heat off someone having to...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DJS7iC8NGwv/?hl=en](https://www.instagram.com/reel/DJS7iC8NGwv/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DJS7iC8NGwv/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DJS7iC8NGwv/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng whether or not it&#x27;s good advice, you respond by accusing them of not...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/cliffs-questions/8524229](https://www.cliffsnotes.com/cliffs-questions/8524229)  
+   Link: <a href="https://www.cliffsnotes.com/cliffs-questions/8524229" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/cliffs-questions/8524229</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>made the case to me that I need to lose weight, citing several health problems...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: fairlatterdaysaints.org  
    Title: by study and faith episode 4 [logical fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: [https://www.fairlatterdaysaints.org/blog/2023/07/19/by-study-and-faith-episode-4-logical-fallacies](https://www.fairlatterdaysaints.org/blog/2023/07/19/by-study-and-faith-episode-4-logical-fallacies)  
+   Link: <a href="https://www.fairlatterdaysaints.org/blog/2023/07/19/by-study-and-faith-episode-4-logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.fairlatterdaysaints.org/blog/2023/07/19/by-study-and-faith-episode-4-logical-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By Study and Faith – Episode 4: Logical FallaciesJul 19, 2023 — The Tu Quoque fallacy is committed when someone tries to justify the shor...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OxfordUniversityPressEastAfrica/posts/you-do-it-too-sound-familiarthis-common-fallacy-known-as-tu-quoque-or-the-you-to/581478654963892/](https://www.facebook.com/OxfordUniversityPressEastAfrica/posts/you-do-it-too-sound-familiarthis-common-fallacy-known-as-tu-quoque-or-the-you-to/581478654963892/)  
+   Link: <a href="https://www.facebook.com/OxfordUniversityPressEastAfrica/posts/you-do-it-too-sound-familiarthis-common-fallacy-known-as-tu-quoque-or-the-you-to/581478654963892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OxfordUniversityPressEastAfrica/posts/you-do-it-too-sound-familiarthis-common-fallacy-known-as-tu-quoque-or-the-you-to/581478654963892/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ention from the real issue and avoids accountability.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/5zneuy/why_is_the_tu_quoqueappeal_to_hypocrisy_argument/](https://www.reddit.com/r/askphilosophy/comments/5zneuy/why_is_the_tu_quoqueappeal_to_hypocrisy_argument/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/5zneuy/why_is_the_tu_quoqueappeal_to_hypocrisy_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/5zneuy/why_is_the_tu_quoqueappeal_to_hypocrisy_argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ocritical nature of said action, which the tu quoque argument...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fallacy/comments/11941yi/because_you_are_a_nurse_you_should_know_better/](https://www.reddit.com/r/fallacy/comments/11941yi/because_you_are_a_nurse_you_should_know_better/)  
+   Link: <a href="https://www.reddit.com/r/fallacy/comments/11941yi/because_you_are_a_nurse_you_should_know_better/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/11941yi/because_you_are_a_nurse_you_should_know_better/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>urse, you know smoking is bad.&quot; You are a dentist.Read more...</p></details>

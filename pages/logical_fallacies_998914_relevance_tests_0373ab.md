@@ -604,7 +604,7 @@ A reason is relevant if it helps satisfy the standard. A statistic about injury 
 
 If removing the reason makes no difference to the support for the conclusion, the reason may be decorative rather than argumentative. It might still be useful for style, context or motivation, but it should not be counted as evidence.
 
-This last question is especially effective in editing. [Argument mapping]({{ 'argument-map/' | relative_url }}) research treats arguments as structures of claims and support relations; mapping is used to reveal how premises, objections and inferences connect. The point is not the diagram itself, but the discipline of making each support relation visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
+This last question is especially effective in editing. Argument mapping research treats arguments as structures of claims and support relations; mapping is used to reveal how premises, objections and inferences connect. The point is not the diagram itself, but the discipline of making each support relation visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ENHTgvRmc24" title="Logic and critical thinking unit 5 part 2 |fallacy of relevance | Logic chapter 5 part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ENHTgvRmc24" target="_blank" rel="noopener noreferrer">Logic and critical thinking unit 5 part 2 |fallacy of relevance | Logic chapter 5 part 2</a></p><p class="youtube-embed-meta">Channel: Aplus academy &middot; Views: 23.8K &middot; Uploaded: December 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ENHTgvRmc24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ENHTgvRmc24">Open on YouTube</a></p></div></div></div>
@@ -619,7 +619,7 @@ Reason B: “Many European cities have beautiful old streets.”
 
 Reason C: “Emergency vehicles need reliable access through the centre.”
 
-Reason D: “Most people on my social media feed support the ban.”
+Reason D: “Most people on my [social media]({{ 'social-media/' | relative_url }}) feed support the ban.”
 
 Reason A is relevant to a public-health argument for reducing traffic, though it still needs more evidence about whether this ban would reduce pollution effectively. Reason B may be atmospherically appealing but does not by itself support the policy. Reason C is relevant, but possibly as an objection or design constraint rather than support. Reason D may be relevant to political feasibility within that social group, but it is weak evidence for the policy’s merits.
 
@@ -648,9 +648,9 @@ Modern computational work on fallacies and argument quality reinforces the same 
 
 ## Relevance in Practice
 
-Relevance tests are most valuable in messy real-world settings where arguments mix fact, value, identity and [emotion]({{ 'emotion/' | relative_url }}).
+Relevance tests are most valuable in messy real-world settings where arguments mix fact, value, identity and emotion.
 
-In essays, they help keep paragraphs aligned with the thesis. A paragraph may contain accurate research and still weaken the essay if it proves a different point from the one promised. Purdue OWL’s fallacy guide advises watching for irrelevant points because they undermine the logic of an argument even when the writing appears persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts...</span></span></span>
+In [essays]({{ 'essays/' | relative_url }}), they help keep paragraphs aligned with the thesis. A paragraph may contain accurate research and still weaken the essay if it proves a different point from the one promised. Purdue OWL’s fallacy guide advises watching for irrelevant points because they undermine the logic of an argument even when the writing appears persuasive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts...</span></span></span>
 
 In public debate, relevance tests help resist topic drift. When a question about evidence becomes a question about patriotism, loyalty, manners or personal motive, the test is: does this new issue bear on the truth or justification of the original claim? Sometimes it does. Often it does not.
 
@@ -1082,137 +1082,137 @@ The broader payoff is intellectual discipline. Logical fallacies often persuade 
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterRed herring. Definition: Partway through an argument, the arguer goes off on a tangent, r...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: owl.purdue.edu  
    Title: OWLToulmin Argument  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html](https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLToulmin Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Pragma-dialectics](https://en.wikipedia.org/wiki/Pragma-dialectics)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pragma-dialectics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pragma-dialectics</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: [Argument map](&#123;&#123; 'argument-map/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Argument_map](https://en.wikipedia.org/wiki/Argument_map)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2406.12402](https://arxiv.org/abs/2406.12402)  
+   Link: <a href="https://arxiv.org/abs/2406.12402" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.12402</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Assessing the Sufficiency of Arguments through Conclusion Generation  
-   Link: [https://arxiv.org/abs/2110.13495](https://arxiv.org/abs/2110.13495)  
+   Link: <a href="https://arxiv.org/abs/2110.13495" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.13495</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1708.01425](https://arxiv.org/abs/1708.01425)  
+   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Red herring  
-   Link: [https://en.wikipedia.org/wiki/Red_herring](https://en.wikipedia.org/wiki/Red_herring)  
+   Link: <a href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_herring</a>  
 
 10. <a id="endnote-10"></a>
    Source: writingcenter.unc.edu  
    Title: fallacy adjunct  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/sample-arguments-with-fallacies/fallacy-adjunct/](https://writingcenter.unc.edu/tips-and-tools/fallacies/sample-arguments-with-fallacies/fallacy-adjunct/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/sample-arguments-with-fallacies/fallacy-adjunct/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/sample-arguments-with-fallacies/fallacy-adjunct/</a>  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Logic and critical thinking unit 5 part 2 |fallacy of relevance  
-   Link: [https://www.youtube.com/watch?v=ENHTgvRmc24](https://www.youtube.com/watch?v=ENHTgvRmc24)  
+   Link: <a href="https://www.youtube.com/watch?v=ENHTgvRmc24" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ENHTgvRmc24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Red Herring  
-   Link: [https://www.youtube.com/watch?v=Af0STrY58i4](https://www.youtube.com/watch?v=Af0STrY58i4)  
+   Link: <a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Af0STrY58i4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Red Herring&quot; Fallacy...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: usiena-air.unisi.it  
    Title: Usiena Air Walton's Argumentation Schemes  
-   Link: [https://usiena-air.unisi.it/retrieve/e0feeaa8-a949-44d2-e053-6605fe0a8db0/A111.2_Lumer_Walton%E2%80%99sArgumentationSchemes_Print.pdf](https://usiena-air.unisi.it/retrieve/e0feeaa8-a949-44d2-e053-6605fe0a8db0/A111.2_Lumer_Walton%E2%80%99sArgumentationSchemes_Print.pdf)  
+   Link: <a href="https://usiena-air.unisi.it/retrieve/e0feeaa8-a949-44d2-e053-6605fe0a8db0/A111.2_Lumer_Walton%E2%80%99sArgumentationSchemes_Print.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usiena-air.unisi.it/retrieve/e0feeaa8-a949-44d2-e053-6605fe0a8db0/A111.2_Lumer_Walton%E2%80%99sArgumentationSchemes_Print.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: ojs.uwindsor.ca  
-   Link: [https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133)  
+   Link: <a href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133" target="_blank" rel="noopener noreferrer nofollow">https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133</a>  
 
 15. <a id="endnote-15"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 16. <a id="endnote-16"></a>
    Source: philosophybytheway.blogspot.com  
    Title: red herring  
-   Link: [https://philosophybytheway.blogspot.com/2022/09/red-herring.html](https://philosophybytheway.blogspot.com/2022/09/red-herring.html)  
+   Link: <a href="https://philosophybytheway.blogspot.com/2022/09/red-herring.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2022/09/red-herring.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: ca.indeed.com  
    Title: toulmin model  
-   Link: [https://ca.indeed.com/career-advice/career-development/toulmin-model](https://ca.indeed.com/career-advice/career-development/toulmin-model)  
+   Link: <a href="https://ca.indeed.com/career-advice/career-development/toulmin-model" target="_blank" rel="noopener noreferrer nofollow">https://ca.indeed.com/career-advice/career-development/toulmin-model</a>  
 
 18. <a id="endnote-18"></a>
    Source: scribbr.co.uk  
    Title: Logical Fallacies | Definition, Types, List & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/logical-fallacies/](https://www.scribbr.co.uk/fallacy/logical-fallacies/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/logical-fallacies/</a>  
 
 19. <a id="endnote-19"></a>
    Source: books.google.com  
    Title: Argumentation Schemes  
-   Link: [https://books.google.com/books/about/Argumentation_Schemes.html?id=qc3LCgAAQBAJ](https://books.google.com/books/about/Argumentation_Schemes.html?id=qc3LCgAAQBAJ)  
+   Link: <a href="https://books.google.com/books/about/Argumentation_Schemes.html?id=qc3LCgAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Argumentation_Schemes.html?id=qc3LCgAAQBAJ</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: pressbooks.calstate.edu  
-   Link: [https://pressbooks.calstate.edu/writingargumentsinstem/chapter/toulmin-argument-model/](https://pressbooks.calstate.edu/writingargumentsinstem/chapter/toulmin-argument-model/)  
+   Link: <a href="https://pressbooks.calstate.edu/writingargumentsinstem/chapter/toulmin-argument-model/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.calstate.edu/writingargumentsinstem/chapter/toulmin-argument-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Toulmin Argument Model – Writing Arguments in STEMWarrant: A warrant links data and other grounds to a claim, legitimizing the claim by s...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking](https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking)  
+   Link: <a href="https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/28763750_Argument_Maps_Improve_Critical_Thinking</a>  
 
 22. <a id="endnote-22"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf](https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf)  
+   Link: <a href="https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/wp-content/uploads/2013/10/Argument-Maps-the-Rules.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: amateurlogician.com  
-   Link: [https://amateurlogician.com/diversion-relevancy-fallacies/](https://amateurlogician.com/diversion-relevancy-fallacies/)  
+   Link: <a href="https://amateurlogician.com/diversion-relevancy-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://amateurlogician.com/diversion-relevancy-fallacies/</a>  
 
 24. <a id="endnote-24"></a>
    Source: philpeople.org  
-   Link: [https://philpeople.org/profiles/41605/publication_attributions?order=viewings&page=2](https://philpeople.org/profiles/41605/publication_attributions?order=viewings&page=2)  
+   Link: <a href="https://philpeople.org/profiles/41605/publication_attributions?order=viewings&amp;page=2" target="_blank" rel="noopener noreferrer nofollow">https://philpeople.org/profiles/41605/publication_attributions?order=viewings&amp;page=2</a>  
 
 25. <a id="endnote-25"></a>
    Source: statisticssolutions.com  
-   Link: [https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/](https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/)  
+   Link: <a href="https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.statisticssolutions.com/expanding-on-the-basic-toulmin-model-when-writing-a-literature-review/</a>  
 
 26. <a id="endnote-26"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/565716661/Critical-Thinking-Final-Review-docx](https://www.scribd.com/document/565716661/Critical-Thinking-Final-Review-docx)  
+   Link: <a href="https://www.scribd.com/document/565716661/Critical-Thinking-Final-Review-docx" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/565716661/Critical-Thinking-Final-Review-docx</a>  
 
 27. <a id="endnote-27"></a>
    Source: assessmentday.co.uk  
-   Link: [https://www.assessmentday.co.uk/free/watson-glaser/freetest1/AnalysingArguments/Free-Critical-Thinking-Test-Arguments-Solutions.pdf](https://www.assessmentday.co.uk/free/watson-glaser/freetest1/AnalysingArguments/Free-Critical-Thinking-Test-Arguments-Solutions.pdf)  
+   Link: <a href="https://www.assessmentday.co.uk/free/watson-glaser/freetest1/AnalysingArguments/Free-Critical-Thinking-Test-Arguments-Solutions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.assessmentday.co.uk/free/watson-glaser/freetest1/AnalysingArguments/Free-Critical-Thinking-Test-Arguments-Solutions.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: futurelearn.com  
-   Link: [https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131](https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131)  
+   Link: <a href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131" target="_blank" rel="noopener noreferrer nofollow">https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131</a>  
 
 29. <a id="endnote-29"></a>
    Source: ditext.com  
-   Link: [https://www.ditext.com/eemeren/pd.html](https://www.ditext.com/eemeren/pd.html)  
+   Link: <a href="https://www.ditext.com/eemeren/pd.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ditext.com/eemeren/pd.html</a>  

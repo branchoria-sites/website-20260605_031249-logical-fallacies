@@ -1026,183 +1026,183 @@ A false dilemma is not just a debate mistake; it is a way of controlling attenti
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: philpapers.org  
    Title: Phil Papers False Dilemma: A Systematic Exposition  
-   Link: [https://philpapers.org/rec/TOMFDA](https://philpapers.org/rec/TOMFDA)  
+   Link: <a href="https://philpapers.org/rec/TOMFDA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TOMFDA</a>  
 
 3. <a id="endnote-3"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/6233/5355](https://informallogic.ca/index.php/informal_logic/article/view/6233/5355)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/6233/5355" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/6233/5355</a>  
 
 4. <a id="endnote-4"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
 5. <a id="endnote-5"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: [https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html](https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: [https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-6.html](https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-6.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-6.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-6.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: [https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/text/20010920-4.html](https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/text/20010920-4.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/text/20010920-4.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/text/20010920-4.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: georgewbush-whitehouse.archives.gov  
    Title: Selected Speeches George W Bush  
-   Link: [https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/documents/Selected_Speeches_George_W_Bush.pdf](https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/documents/Selected_Speeches_George_W_Bush.pdf)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/documents/Selected_Speeches_George_W_Bush.pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/infocus/bushrecord/documents/Selected_Speeches_George_W_Bush.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: [https://georgewbush-whitehouse.archives.gov/news/releases/2002/06/text/20020611-13.html](https://georgewbush-whitehouse.archives.gov/news/releases/2002/06/text/20020611-13.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/06/text/20020611-13.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/06/text/20020611-13.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: [https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/text/20020301-6.html](https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/text/20020301-6.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/text/20020301-6.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/text/20020301-6.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: [https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-6.html](https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-6.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-6.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-6.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: [https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-2.html](https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-2.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-2.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/text/20020122-2.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: georgewbush-whitehouse.archives.gov  
-   Link: [https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-5.html](https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-5.html)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-5.html" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327-5.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/7171](https://informallogic.ca/index.php/informal_logic/article/view/7171)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/7171" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/7171</a>  
 
 15. <a id="endnote-15"></a>
    Source: informallogic.ca  
    Title: Is False Dilemma Really a Formal Fallacy?  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/8144](https://informallogic.ca/index.php/informal_logic/article/view/8144)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/8144" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/8144</a>  
 
 16. <a id="endnote-16"></a>
    Source: philpapers.org  
    Title: CONSCT 2  
-   Link: [https://philpapers.org/rec/CONSCT-2](https://philpapers.org/rec/CONSCT-2)  
+   Link: <a href="https://philpapers.org/rec/CONSCT-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/CONSCT-2</a>  
 
 17. <a id="endnote-17"></a>
    Source: writingcenter.tamu.edu  
-   Link: [https://writingcenter.tamu.edu/guides/resources/fallacies.html](https://writingcenter.tamu.edu/guides/resources/fallacies.html)  
+   Link: <a href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.tamu.edu/guides/resources/fallacies.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/middle-ground](https://yourlogicalfallacyis.com/middle-ground)  
+   Link: <a href="https://yourlogicalfallacyis.com/middle-ground" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/middle-ground</a>  
 
 19. <a id="endnote-19"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/choice-architecture](https://thedecisionlab.com/reference-guide/psychology/choice-architecture)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29572787/](https://pubmed.ncbi.nlm.nih.gov/29572787/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29572787/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29572787/</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: False dilemma  
-   Link: [https://en.wikipedia.org/wiki/False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_dilemma</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/False](https://en.wikipedia.org/wiki/False)  
+   Link: <a href="https://en.wikipedia.org/wiki/False" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
 24. <a id="endnote-24"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
 25. <a id="endnote-25"></a>
    Source: logicallyfallacious.com  
    Title: False Dilemma  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma](https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma</a>  
 
 26. <a id="endnote-26"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/false](https://dictionary.cambridge.org/us/dictionary/english/false)  
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/false" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/false</a>  
 
 27. <a id="endnote-27"></a>
    Source: flowstatesales.com  
    Title: choice architecture  
-   Link: [https://flowstatesales.com/resource-hub/choice-architecture/](https://flowstatesales.com/resource-hub/choice-architecture/)  
+   Link: <a href="https://flowstatesales.com/resource-hub/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://flowstatesales.com/resource-hub/choice-architecture/</a>  
 
 28. <a id="endnote-28"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 29. <a id="endnote-29"></a>
    Source: erudit.org  
    Title: [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: [https://www.erudit.org/en/journals/informallogic/2024-v44-n4-informallogic09844/1116150ar.pdf](https://www.erudit.org/en/journals/informallogic/2024-v44-n4-informallogic09844/1116150ar.pdf)  
+   Link: <a href="https://www.erudit.org/en/journals/informallogic/2024-v44-n4-informallogic09844/1116150ar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.erudit.org/en/journals/informallogic/2024-v44-n4-informallogic09844/1116150ar.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: askphilosophers.org  
-   Link: [https://www.askphilosophers.org/question/26292](https://www.askphilosophers.org/question/26292)  
+   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
 
 31. <a id="endnote-31"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
 32. <a id="endnote-32"></a>
    Source: library.sewanee.edu  
-   Link: [https://library.sewanee.edu/critical_thinking/fallacies](https://library.sewanee.edu/critical_thinking/fallacies)  
+   Link: <a href="https://library.sewanee.edu/critical_thinking/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://library.sewanee.edu/critical_thinking/fallacies</a>  
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: What is The False Dilemma Fallacy? | Critical Thinking Basics  
-   Link: [https://www.youtube.com/watch?v=prwI8RAzTkk](https://www.youtube.com/watch?v=prwI8RAzTkk)  
+   Link: <a href="https://www.youtube.com/watch?v=prwI8RAzTkk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=prwI8RAzTkk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: How to Recognize the Either-Or Fallacy: Climate Change Edition  
-   Link: [https://www.youtube.com/watch?v=RLLGAQvhaQs](https://www.youtube.com/watch?v=RLLGAQvhaQs)  
+   Link: <a href="https://www.youtube.com/watch?v=RLLGAQvhaQs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLLGAQvhaQs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is The False Dilemma Fallacy? | Critical Thinking Basics...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/281440293_Either_You_Are_With_Us_Or_you_are_with_the_Terrorists_US_Imperial_Hegemony_at_the_Beginning_of_the_21st_Century](https://www.researchgate.net/publication/281440293_Either_You_Are_With_Us_Or_you_are_with_the_Terrorists_US_Imperial_Hegemony_at_the_Beginning_of_the_21st_Century)  
+   Link: <a href="https://www.researchgate.net/publication/281440293_Either_You_Are_With_Us_Or_you_are_with_the_Terrorists_US_Imperial_Hegemony_at_the_Beginning_of_the_21st_Century" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281440293_Either_You_Are_With_Us_Or_you_are_with_the_Terrorists_US_Imperial_Hegemony_at_the_Beginning_of_the_21st_Century</a>  
 
 36. <a id="endnote-36"></a>
    Source: markmanson.net  
-   Link: [https://markmanson.net/logical-fallacies](https://markmanson.net/logical-fallacies)  
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MichaelWaltzForCongress/videos/george-w-bush-either-you-are-with-us-or-you-are-with-the-terrorists/1702865019911742/](https://www.facebook.com/MichaelWaltzForCongress/videos/george-w-bush-either-you-are-with-us-or-you-are-with-the-terrorists/1702865019911742/)  
+   Link: <a href="https://www.facebook.com/MichaelWaltzForCongress/videos/george-w-bush-either-you-are-with-us-or-you-are-with-the-terrorists/1702865019911742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MichaelWaltzForCongress/videos/george-w-bush-either-you-are-with-us-or-you-are-with-the-terrorists/1702865019911742/</a>  
 
 38. <a id="endnote-38"></a>
    Source: degruyterbrill.com  
-   Link: [https://www.degruyterbrill.com/de/document/doi/10.1515/9781400845347-029/html?srsltid=AfmBOooK66egkq0_lSE74xJbS4Y_DIUOt5CrSs7Bcl29IXVdnk-irBMU](https://www.degruyterbrill.com/de/document/doi/10.1515/9781400845347-029/html?srsltid=AfmBOooK66egkq0_lSE74xJbS4Y_DIUOt5CrSs7Bcl29IXVdnk-irBMU)  
+   Link: <a href="https://www.degruyterbrill.com/de/document/doi/10.1515/9781400845347-029/html?srsltid=AfmBOooK66egkq0_lSE74xJbS4Y_DIUOt5CrSs7Bcl29IXVdnk-irBMU" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/de/document/doi/10.1515/9781400845347-029/html?srsltid=AfmBOooK66egkq0_lSE74xJbS4Y_DIUOt5CrSs7Bcl29IXVdnk-irBMU</a>  
 
 39. <a id="endnote-39"></a>
    Source: pastpaperhero.com  
-   Link: [https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy](https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy)  
+   Link: <a href="https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy</a>  
 
 40. <a id="endnote-40"></a>
    Source: creationmagazine.com  
-   Link: [https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091](https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091)  
+   Link: <a href="https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091" target="_blank" rel="noopener noreferrer nofollow">https://www.creationmagazine.com/creation/2024_volume_46_issue_3/MobilePagedArticle.action?articleId=1980091</a>  
 
 41. <a id="endnote-41"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/false](https://www.merriam-webster.com/dictionary/false)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/false" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/false</a>  
 
 42. <a id="endnote-42"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html](https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html</a>  

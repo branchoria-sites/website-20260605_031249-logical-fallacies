@@ -411,13 +411,13 @@ The persuasive force comes not from evidence but from the audience's favourable 
 
 Ordinary discussions are not conducted like formal debates. People rarely stop to define every important term. As a result, meanings can drift gradually during a conversation without attracting attention.
 
-Research on fallacy detection in natural-language arguments highlights how difficult it can be to identify such reasoning errors precisely because they are embedded in ordinary language and [context]({{ 'context/' | relative_url }}) rather than explicit logical formulas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivRobust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
+Research on fallacy detection in natural-language arguments highlights how difficult it can be to identify such reasoning errors precisely because they are embedded in ordinary language and [context]({{ 'context/' | relative_url }}) rather than explicit logical formulas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Robust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
 
 ## Questions that pin down the operative meaning
 
 A practical way to expose equivocation is not to accuse someone of committing a fallacy immediately. Instead, ask clarifying questions that force the key term to become more precise.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[For arguments involving “natural”:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivRobust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[For arguments involving “natural”:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Robust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
 
 * Do you mean naturally occurring or inherently safe?
 * How does the product's origin establish its safety?
@@ -438,7 +438,7 @@ More generally, useful questions include:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What exactly does this word mean here?
-* Is the word being used in the same sense throughout the argument? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanacademy.org">[khanacademy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanacademy.org</span><span class="citation-popover-snippet">Fallacies: Equivocation (video) | FallaciesEquivocation occurs when the same word is used to express different meanings throughout an arg...</span></span></span>
+* Is the word being used in the same sense throughout the argument? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanacademy.org">[khanacademy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanacademy.org</span><span class="citation-popover-snippet">Fallacies: Equivocation (video) &#124; FallaciesEquivocation occurs when the same word is used to express different meanings throughout an arg...</span></span></span>
 * Would the conclusion still follow if we replaced the ambiguous term with a more precise phrase?
 
 </div>
@@ -446,11 +446,11 @@ More generally, useful questions include:
 Once the meanings are stated explicitly, many apparent disagreements become easier to analyse. Sometimes the argument survives clarification. Sometimes the conclusion weakens dramatically because the hidden word shift is revealed.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sQTJyHc4hHk" title="Weak Analogy (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sQTJyHc4hHk" target="_blank" rel="noopener noreferrer">Weak Analogy (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 18.8K &middot; Uploaded: February 2014 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sQTJyHc4hHk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sQTJyHc4hHk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t_OOqjsN36A" title="Episode 28: Ambiguity and Equivocation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t_OOqjsN36A" target="_blank" rel="noopener noreferrer">Episode 28: Ambiguity and Equivocation</a></p><p class="youtube-embed-meta">Channel: COMteacherapril &middot; Views: 53 &middot; Uploaded: November 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t_OOqjsN36A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t_OOqjsN36A">Open on YouTube</a></p></div></div></div>
 
 ## Spotting equivocation in everyday reasoning
 
-Equivocation is not merely a technical mistake found in logic textbooks. It is a recurring feature of public debate, advertising, workplace discussions, family disagreements, and online arguments. The fallacy works because language is flexible and because important social concepts often have multiple legitimate meanings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy Wikipedia The key diagnostic question is simple: has the central word kept the same meaning throughout the argument <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Informal fallacy</span><span class="citation-popover-snippet">Informal fallacyInformal fallacies are a type of incorrect argument in natural language.... Fallacies of ambiguity are perhaps best e...</span></span></span> If the answer is no, the reasoning may owe more to a shift in language than to a genuine logical connection. Identifying that shift often reveals that what looked like a strong argument was actually two different ideas sharing the same word. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanacademy.org">[2khanacademy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanacademy.org</span><span class="citation-popover-snippet">Fallacies: Equivocation (video) | FallaciesEquivocation occurs when the same word is used to express different meanings throughout an arg...</span></span></span>
+Equivocation is not merely a technical mistake found in logic textbooks. It is a recurring feature of public debate, advertising, workplace discussions, family disagreements, and online arguments. The fallacy works because language is flexible and because important social concepts often have multiple legitimate meanings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy Wikipedia The key diagnostic question is simple: has the central word kept the same meaning throughout the argument <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Informal fallacy</span><span class="citation-popover-snippet">Informal fallacyInformal fallacies are a type of incorrect argument in natural language.... Fallacies of ambiguity are perhaps best e...</span></span></span> If the answer is no, the reasoning may owe more to a shift in language than to a genuine logical connection. Identifying that shift often reveals that what looked like a strong argument was actually two different ideas sharing the same word. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanacademy.org">[2khanacademy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanacademy.org</span><span class="citation-popover-snippet">Fallacies: Equivocation (video) &#124; FallaciesEquivocation occurs when the same word is used to express different meanings throughout an arg...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -751,135 +751,135 @@ Equivocation is not merely a technical mistake found in logic textbooks. It is a
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Ambiguity  
-   Link: [https://plato.stanford.edu/entries/ambiguity/](https://plato.stanford.edu/entries/ambiguity/)  
+   Link: <a href="https://plato.stanford.edu/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/ambiguity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyAmbiguity - Stanford Encyclopedia of Philosophyby A Sennet · 2011 · Cited by 291 — Ambiguity is import...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Informal fallacy  
-   Link: [https://en.wikipedia.org/wiki/Informal_fallacy](https://en.wikipedia.org/wiki/Informal_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal fallacyInformal fallacies are a type of incorrect argument in natural language.... Fallacies of ambiguity are perhaps best e...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Ambiguity  
-   Link: [https://plato.stanford.edu/archives/spr2015/entries/ambiguity/](https://plato.stanford.edu/archives/spr2015/entries/ambiguity/)  
+   Link: <a href="https://plato.stanford.edu/archives/spr2015/entries/ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2015/entries/ambiguity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyAmbiguity - Stanford Encyclopedia of PhilosophyMay 16, 2011 — Philosophers interest in ambiguity has l...</p></details>
    Published: May 16, 2011  
 
 5. <a id="endnote-5"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies)  
+   Link: <a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2212.07425](https://arxiv.org/abs/2212.07425)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRobust and Explainable Identification of [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) in Natural Language ArgumentsDecember 12, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.07425</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robust and Explainable Identification of [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) in Natural Language ArgumentsDecember 12, 2022...</p></details>
    Published: December 12, 2022  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2406.12402](https://arxiv.org/abs/2406.12402)  
+   Link: <a href="https://arxiv.org/abs/2406.12402" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.12402</a>  
 
 8. <a id="endnote-8"></a>
    Source: khanacademy.org  
-   Link: [https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation](https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation)  
+   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/fallacy-of-equivocation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Equivocation (video) | FallaciesEquivocation occurs when the same word is used to express different meanings throughout an arg...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Internet](https://en.wikipedia.org/wiki/Internet)  
+   Link: <a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet carries a vast range of information services and resources, such as the interlinked hypertext documents and appli...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Equivocation](https://en.wikipedia.org/wiki/Equivocation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Equivocation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Equivocation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EquivocationIn logic, equivocation is an informal fallacy resulting in the failure to define one&#x27;s terms, or knowingly and deliberatel...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FallacyA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument that may appear to be well-rea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: philosophy.institute  
    Title: ambiguity logic root fallacies  
-   Link: [https://philosophy.institute/logic/ambiguity-logic-root-fallacies/](https://philosophy.institute/logic/ambiguity-logic-root-fallacies/)  
+   Link: <a href="https://philosophy.institute/logic/ambiguity-logic-root-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/ambiguity-logic-root-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity in Logic: The Root of Many FallaciesDec 12, 2025 — The Internet Encyclopedia of Philosophy places accent, amphiboly, and equivo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: philosophy.institute  
    Title: definitions in logic  
-   Link: [https://philosophy.institute/logic/definitions-in-logic/](https://philosophy.institute/logic/definitions-in-logic/)  
+   Link: <a href="https://philosophy.institute/logic/definitions-in-logic/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/definitions-in-logic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unraveling the Nature of Definitions in Logic14 Nov 2025 — According to the Stanford Encyclopedia of Philosophy, Aristotle directly linke...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: web.stanford.edu  
    Title: Logical Fallacies  
-   Link: [https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm](https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm)  
+   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesFallacies of Ambiguity · Equivocation: the same term is used with two different meanings · Amphiboly: the structure of a sentenc...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: [https://plato.stanford.edu/entries/category-mistakes/](https://plato.stanford.edu/entries/category-mistakes/)  
+   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 169 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Equivocation (Logical Fallacy)  
-   Link: [https://www.youtube.com/watch?v=kXlIAXx5TXE](https://www.youtube.com/watch?v=kXlIAXx5TXE)  
+   Link: <a href="https://www.youtube.com/watch?v=kXlIAXx5TXE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kXlIAXx5TXE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies - Equivocation...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=x_8xKrKw19M](https://www.youtube.com/watch?v=x_8xKrKw19M)  
+   Link: <a href="https://www.youtube.com/watch?v=x_8xKrKw19M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x_8xKrKw19M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Logic The Equivocation Fallacy..............#46...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: seop.illc.uva.nl  
    Title: word meaning  
-   Link: [https://seop.illc.uva.nl/entries/word-meaning/](https://seop.illc.uva.nl/entries/word-meaning/)  
+   Link: <a href="https://seop.illc.uva.nl/entries/word-meaning/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/word-meaning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyWord Meaningby L Gasparri · 2015 · Cited by 64 — This entry provides an overview of the way issues rel...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: inquiresabound.wordpress.com  
-   Link: [https://inquiresabound.wordpress.com/2020/12/03/equivocation/](https://inquiresabound.wordpress.com/2020/12/03/equivocation/)  
+   Link: <a href="https://inquiresabound.wordpress.com/2020/12/03/equivocation/" target="_blank" rel="noopener noreferrer nofollow">https://inquiresabound.wordpress.com/2020/12/03/equivocation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta/Inquires - WordPress.comDecember 3, 2020 — In more detail, it is a fallacious argument that exploits the ambiguity of a term or phra...</p></details>
    Published: December 3, 2020  
 
 21. <a id="endnote-21"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>utm.eduFallacies(2) Accent, Amphiboly and Equivocation are examples of fallacies of ambiguity. (3) The fallacies of illegitimate presumpt...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy/Verbal-fallacies](https://www.britannica.com/topic/fallacy/Verbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;), Straw ManApr 1, 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thro...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; Examples13 May 2026 — An argument may be fallacious in three ways: in its material content, through a misstatement of...</p></details>
    Published: May 2026  
 
 24. <a id="endnote-24"></a>
    Source: philosophybytheway.blogspot.com  
-   Link: [https://philosophybytheway.blogspot.com/2024/05/equivocation.html](https://philosophybytheway.blogspot.com/2024/05/equivocation.html)  
+   Link: <a href="https://philosophybytheway.blogspot.com/2024/05/equivocation.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2024/05/equivocation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 13, 2024 — The only fallacy of ambiguity I discussed is the conjunction fallacy, while I mentioned the sorites fallacy only in passin...</p></details>
    Published: May 13, 2024  
 
@@ -887,55 +887,55 @@ Equivocation is not merely a technical mistake found in logic textbooks. It is a
 
 25. <a id="endnote-25"></a>
    Source: philosophypages.com  
-   Link: [https://www.philosophypages.com/lg/e06c.htm](https://www.philosophypages.com/lg/e06c.htm)  
+   Link: <a href="https://www.philosophypages.com/lg/e06c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophypages.com/lg/e06c.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies of AmbiguityThe fallacies of ambiguity all involve a confusion of two or more different senses. Equivocation. An equivocation t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/equivoqu.html](https://www.fallacyfiles.org/equivoqu.html)  
+   Link: <a href="https://www.fallacyfiles.org/equivoqu.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/equivoqu.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy FilesLogical Fallacy: EquivocationThe Fallacy of Equivocation occurs when an equivocal word or phrase makes an unsound argume...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/equivocation](https://www.britannica.com/topic/equivocation)  
+   Link: <a href="https://www.britannica.com/topic/equivocation" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/equivocation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaEquivocation | logical fallacyWhereas equivocation involves the ambiguity of a single word, amphiboly consists of...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=t_OOqjsN36A](https://www.youtube.com/watch?v=t_OOqjsN36A)  
+   Link: <a href="https://www.youtube.com/watch?v=t_OOqjsN36A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t_OOqjsN36A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode 28: Ambiguity and EquivocationIn this episode, April explains linguistic ambiguity, equivocation, and the equivocation fallacy. S...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: study.com  
    Title: Equivocation Fallacy | Definition & Examples  
-   Link: [https://study.com/academy/lesson/video/equivocation-fallacy-definition-examples.html](https://study.com/academy/lesson/video/equivocation-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/video/equivocation-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/equivocation-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoEquivocation fallacy happens when a phrase or a word is applied with varying meanings at varying times within an argument, hence gen...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/argumentativeatheists/posts/3016592855304480/](https://www.facebook.com/groups/argumentativeatheists/posts/3016592855304480/)  
+   Link: <a href="https://www.facebook.com/groups/argumentativeatheists/posts/3016592855304480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/argumentativeatheists/posts/3016592855304480/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is used in an ambiguous way, with one meaning in one portion of the...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: askphilosophers.org  
    Title: I would really like to know what logic is  
-   Link: [https://www.askphilosophers.org/question/26292](https://www.askphilosophers.org/question/26292)  
+   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stanford...2 Mar 2017 — I would really like to know what logic is. The Stanford Encyclopedia of Philosophy has TOO MANY articles on...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, 1. Only man is logical. 2.Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: philosophyalevel.com  
-   Title: [informal fallacies](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) examples  
-   Link: [https://philosophyalevel.com/posts/informal-fallacies-examples/](https://philosophyalevel.com/posts/informal-fallacies-examples/)  
+   Title: informal fallacies examples  
+   Link: <a href="https://philosophyalevel.com/posts/informal-fallacies-examples/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/informal-fallacies-examples/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Fallacies: 15 Common Examples of Faulty...31 May 2023 — The Equivocation fallacy occurs when a key term or phrase is used with...</p></details>
    Published: May 2023  
 
 34. <a id="endnote-34"></a>
    Source: quillbot.com  
    Title: equivocation fallacy  
-   Link: [https://quillbot.com/blog/reasoning/equivocation-fallacy/](https://quillbot.com/blog/reasoning/equivocation-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/equivocation-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/equivocation-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Equivocation Fallacy? | Examples &amp; Definition25 Jun 2024 — The equivocation fallacy occurs when an argument&#x27;s persuasiveness reli...</p></details>

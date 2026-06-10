@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:30:40'
 parent_title: When Is a Story Not Enough? | Fallacy Lab
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
@@ -259,7 +260,6 @@ prev_link:
   permalink: /medical-signals/
   short_title: Medical Signals
   heading_title: Can a Patient Story Warn US Early?
-date: '2026-06-05 02:30:40 '
 header:
   og_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_story_availabi_1d47b8-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_story_availabi_1d47b8-Illustration-1.webp
@@ -268,7 +268,7 @@ image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_s
 
 ## Introduction
 
-A vivid story can feel like strong evidence even when it is statistically unusual. Within arguments based on anecdotes and [personal experience]({{ 'experience/' | relative_url }}), this is one of the most common ways people are misled. A dramatic account is easier to remember than a table of numbers, so the mind often treats it as more representative than it really is. The result is a subtle error: people start judging how common, likely, or typical something is based on how easily examples come to mind rather than on how often it actually occurs. Psychologists refer to this tendency as the availability heuristic, a mental shortcut first studied by Amos Tversky and Daniel Kahneman. When vivid examples are highly memorable, they can distort judgments about frequency and risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.umass.edu/biep540w/pdf/Tversky%20availability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.umass.edu">[UMass People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.umass.edu</span><span class="citation-popover-title">Conse-.Read more</span><span class="citation-popover-snippet">UMass PeopleAvailability: A heuristic for judging frequency and probabilityJanuary 19, 2005 — by A Tversky · Cited by 17494 — If the avai...</span><span class="citation-popover-meta">Published: January 19, 2005</span></span></span>
+A vivid story can feel like strong evidence even when it is statistically unusual. Within arguments based on anecdotes and personal [experience]({{ 'experience/' | relative_url }}), this is one of the most common ways people are misled. A dramatic account is easier to remember than a table of numbers, so the mind often treats it as more representative than it really is. The result is a subtle error: people start judging how common, likely, or typical something is based on how easily examples come to mind rather than on how often it actually occurs. Psychologists refer to this tendency as the availability heuristic, a mental shortcut first studied by Amos Tversky and Daniel Kahneman. When vivid examples are highly memorable, they can distort judgments about frequency and risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.umass.edu/biep540w/pdf/Tversky%20availability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.umass.edu">[UMass People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.umass.edu</span><span class="citation-popover-title">Conse-.Read more</span><span class="citation-popover-snippet">UMass PeopleAvailability: A heuristic for judging frequency and probabilityJanuary 19, 2005 — by A Tversky · Cited by 17494 — If the avai...</span><span class="citation-popover-meta">Published: January 19, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_story_availabi_1d47b8-Illustration-1-dark.svg" | relative_url }}" alt="Vivid Stories illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_story_availabi_1d47b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_story_availabi_1d47b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -276,12 +276,12 @@ This matters because many [logical fallacies]({{ 'logical-fallacies/' | relative
 
 ## How Availability Shapes Judgment
 
-The core mechanism is simple: people often estimate frequency or probability by asking themselves, consciously or not, “How many examples can I think of?” If examples come to mind quickly, the event feels common. If examples are difficult to recall, it feels rare. The problem is that ease of recall is influenced by many things besides actual frequency. Vividness, emotional impact, [novelty]({{ 'novelty/' | relative_url }}), media coverage, and personal [relevance]({{ 'relevance/' | relative_url }}) all make memories easier to retrieve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> ScienceDirect A striking anecdote therefore gains an advantage over dull but representative evidence. Consider a dramatic story about a severe side effect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">ScienceDirectAvailability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</span></span></span> from a medication. Even if the side effect is genuinely rare, the story may dominate a person's judgment because it is concrete and memorable. By contrast, a statement that “99.9% of patients experienced no serious complication” is accurate but cognitively less vivid. The memorable case can feel more informative than the larger dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">ScienceDirectAvailability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</span></span></span>
+The core mechanism is simple: people often estimate frequency or probability by asking themselves, consciously or not, “How many examples can I think of?” If examples come to mind quickly, the event feels common. If examples are difficult to recall, it feels rare. The problem is that ease of recall is influenced by many things besides actual frequency. Vividness, emotional impact, [novelty]({{ 'novelty/' | relative_url }}), media coverage, and personal [relevance]({{ 'relevance/' | relative_url }}) all make memories easier to retrieve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> ScienceDirect A striking anecdote therefore gains an advantage over dull but representative evidence. Consider a dramatic story about a severe side effect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</span></span></span> from a medication. Even if the side effect is genuinely rare, the story may dominate a person's judgment because it is concrete and memorable. By contrast, a statement that “99.9% of patients experienced no serious complication” is accurate but cognitively less vivid. The memorable case can feel more informative than the larger dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</span></span></span>
 
 Research on the availability heuristic consistently finds that people use ease of recall as a cue when judging likelihood. This shortcut often works reasonably well because common events are often easier to remember. However, it becomes unreliable when memorable events are not representative of the broader pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.umass.edu/biep540w/pdf/Tversky%20availability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.umass.edu">[UMass People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.umass.edu</span><span class="citation-popover-title">Conse-.Read more</span><span class="citation-popover-snippet">UMass PeopleAvailability: A heuristic for judging frequency and probabilityJanuary 19, 2005 — by A Tversky · Cited by 17494 — If the avai...</span><span class="citation-popover-meta">Published: January 19, 2005</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1vZDWiK_1t0" title="The Availability Heuristic (Intro Psych Tutorial #92)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1vZDWiK_1t0" target="_blank" rel="noopener noreferrer">The Availability Heuristic (Intro Psych Tutorial #92)</a></p><p class="youtube-embed-meta">Channel: PsychExamReview &middot; Views: 26.8K &middot; Uploaded: March 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1vZDWiK_1t0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1vZDWiK_1t0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OgHfG4X5DKM" title="Psychology - Heuristics &amp; Cognitive Biases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OgHfG4X5DKM" target="_blank" rel="noopener noreferrer">Psychology - Heuristics &amp; Cognitive Biases</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 1.3K &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OgHfG4X5DKM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OgHfG4X5DKM">Open on YouTube</a></p></div></div></div>
 
 ## Why Dramatic Cases Outshine Quiet Comparisons
 
@@ -289,7 +289,7 @@ The influence of vivid stories is not just about memory; it is also about compet
 
 As a result, one dramatic example can overshadow thousands of ordinary cases that attract little attention. Quiet outcomes rarely become stories. People who use a product without problems, recover normally [after treatment]({{ 'after-treatment/' | relative_url }}), or experience routine events generally leave no memorable narrative behind. The dramatic [exceptions]({{ 'exceptions/' | relative_url }}) are the cases most likely to be reported, shared, and remembered.
 
-This selection effect helps explain why perceptions of risk can become distorted. Researchers and educators frequently use examples involving shark attacks, plane crashes, or other unusual dangers. Such events receive intense attention because they are dramatic and visually imaginable. More common risks, although statistically more important, often receive less attention because they are routine and therefore less memorable. People can end up fearing rare dangers while underestimating ordinary ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://courses.eller.arizona.edu/mgmt/delaney/p_chapter11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courses.eller.arizona.edu">[courses.eller.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courses.eller.arizona.edu</span><span class="citation-popover-snippet">chapter - the availability heuristic - The University of ArizonaMarch 3, 2010 — Most people rate shark attacks as more probable than deat...</span><span class="citation-popover-meta">Published: March 3, 2010</span></span></span> FloodFlash Media coverage amplifies the same process. Repeated exposure to unusual but dramatic events increases their mental availability. Studies disc <span class="citation-chip-wrap"><a class="citation-chip" href="https://floodflash.co/the-floodflash-behavioural-science-series-availability-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floodflash.co">[floodflash.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floodflash.co</span><span class="citation-popover-snippet">FloodFlashThe FloodFlash behavioural science series: Availability Bias3 Aug 2022 — Availability bias therefore results in the exaggeratio...</span></span></span> ussed in the availability-heuristic literature show that highly publicised incidents can lead people to overestimate how frequently similar events occur in real life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Availability heuristic</span><span class="citation-popover-snippet">Availability heuristic</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.suebehaviouraldesign.com/en/blog/availability-heuristic-at-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suebehaviouraldesign.com">[SUE Behavioural Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suebehaviouraldesign.com</span><span class="citation-popover-snippet">SUE Behavioural DesignAvailability heuristic at work: Last in, first judged20 Feb 2026 — The availability heuristic is the tendency to ju...</span></span></span>
+This selection effect helps explain why perceptions of risk can become distorted. Researchers and educators frequently use examples involving shark attacks, plane crashes, or other unusual dangers. Such events receive intense attention because they are dramatic and visually imaginable. More common risks, although statistically more important, often receive less attention because they are routine and therefore less memorable. People can end up fearing rare dangers while underestimating ordinary ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://courses.eller.arizona.edu/mgmt/delaney/p_chapter11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courses.eller.arizona.edu">[courses.eller.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courses.eller.arizona.edu</span><span class="citation-popover-snippet">chapter - the availability heuristic - The University of ArizonaMarch 3, 2010 — Most people rate shark attacks as more probable than deat...</span><span class="citation-popover-meta">Published: March 3, 2010</span></span></span> FloodFlash Media coverage amplifies the same process. Repeated exposure to unusual but dramatic events increases their mental availability. Studies disc <span class="citation-chip-wrap"><a class="citation-chip" href="https://floodflash.co/the-floodflash-behavioural-science-series-availability-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: floodflash.co">[floodflash.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">floodflash.co</span><span class="citation-popover-snippet">The FloodFlash behavioural science series: Availability Bias3 Aug 2022 — Availability bias therefore results in the exaggeratio...</span></span></span> ussed in the availability-heuristic literature show that highly publicised incidents can lead people to overestimate how frequently similar events occur in real life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Availability heuristic</span><span class="citation-popover-snippet">Availability heuristic</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.suebehaviouraldesign.com/en/blog/availability-heuristic-at-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suebehaviouraldesign.com">[SUE Behavioural Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suebehaviouraldesign.com</span><span class="citation-popover-snippet">SUE Behavioural DesignAvailability heuristic at work: Last in, first judged20 Feb 2026 — The availability heuristic is the tendency to ju...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_story_availabi_1d47b8-Illustration-2-dark.svg" | relative_url }}" alt="Vivid Stories illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_story_availabi_1d47b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_vivid_story_availabi_1d47b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -299,10 +299,10 @@ One reason vivid anecdotes are persuasive is that people often treat them as if 
 
 Imagine hearing a carefully described account of one student who succeeded without attending university. The story may contain names, decisions, obstacles, and achievements. Because the example feels complete, it can create the impression that it reflects a broader pattern. Yet the relevant question is not whether the story is true but whether it is typical.
 
-The richness of a narrative can therefore conceal a critical statistical fact: one observation remains one observation. Additional details make a case more memorable, but they do not make it more representative. The strength of the memory is easily mistaken for the strength of the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">ScienceDirectAvailability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</span></span></span>
+The richness of a narrative can therefore conceal a critical statistical fact: one observation remains one observation. Additional details make a case more memorable, but they do not make it more representative. The strength of the memory is easily mistaken for the strength of the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OgHfG4X5DKM" title="Psychology - Heuristics &amp; Cognitive Biases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OgHfG4X5DKM" target="_blank" rel="noopener noreferrer">Psychology - Heuristics &amp; Cognitive Biases</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 1.3K &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OgHfG4X5DKM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OgHfG4X5DKM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1vZDWiK_1t0" title="The Availability Heuristic (Intro Psych Tutorial #92)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1vZDWiK_1t0" target="_blank" rel="noopener noreferrer">The Availability Heuristic (Intro Psych Tutorial #92)</a></p><p class="youtube-embed-meta">Channel: PsychExamReview &middot; Views: 26.8K &middot; Uploaded: March 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1vZDWiK_1t0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1vZDWiK_1t0">Open on YouTube</a></p></div></div></div>
 
 ## How to Check Whether a Story Is Typical
 
@@ -310,11 +310,16 @@ The best defence against this error is not to ignore stories but to place them i
 
 When encountering a vivid anecdote, several questions help reveal whether it deserves broader weight:
 
+
+<div class="content-enhancement content-enhancement--comparison" markdown="1">
+
 * **How common is the outcome overall?** Look for population-level evidence rather than relying on a single case.
 * **What stories are missing?** Dramatic successes and failures are often reported more than ordinary outcomes.
 * **Is the example unusual by design?** News reports, advertisements, and campaign messages frequently highlight exceptional cases precisely because they attract attention.
-* **What is the comparison group?** Knowing what happened to similar people under similar circumstances is usually more informative than knowing one person's [experience]({{ 'experience/' | relative_url }}).
+* **What is the comparison group?** Knowing what happened to similar people under similar circumstances is usually more informative than knowing one person's experience.
 * **Would the conclusion change if the story were forgotten?** If the claim collapses without the anecdote, the evidence base may be too narrow.
+
+</div>
 
 These questions shift attention from memorability to representativeness. They encourage a move from “I can easily think of an example” to “How often does this actually happen?”
 
@@ -752,113 +757,113 @@ For that reason, vivid stories are often best treated as starting points rather 
 1. <a id="endnote-1"></a>
    Source: people.umass.edu  
    Title: Conse-.Read more  
-   Link: [https://people.umass.edu/biep540w/pdf/Tversky%20availability.pdf](https://people.umass.edu/biep540w/pdf/Tversky%20availability.pdf)  
+   Link: <a href="https://people.umass.edu/biep540w/pdf/Tversky%20availability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.umass.edu/biep540w/pdf/Tversky%20availability.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UMass PeopleAvailability: A heuristic for judging frequency and probabilityJanuary 19, 2005 — by A Tversky · Cited by 17494 — If the avai...</p></details>
    Published: January 19, 2005  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Availability Heuristic  
-   Link: [https://www.sciencedirect.com/topics/computer-science/availability-heuristic](https://www.sciencedirect.com/topics/computer-science/availability-heuristic)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAvailability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/availability-heuristic</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: courses.eller.arizona.edu  
-   Link: [https://courses.eller.arizona.edu/mgmt/delaney/p_chapter11.pdf](https://courses.eller.arizona.edu/mgmt/delaney/p_chapter11.pdf)  
+   Link: <a href="https://courses.eller.arizona.edu/mgmt/delaney/p_chapter11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://courses.eller.arizona.edu/mgmt/delaney/p_chapter11.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>chapter - the availability heuristic - The University of ArizonaMarch 3, 2010 — Most people rate shark attacks as more probable than deat...</p></details>
    Published: March 3, 2010  
 
 4. <a id="endnote-4"></a>
    Source: floodflash.co  
-   Link: [https://floodflash.co/the-floodflash-behavioural-science-series-availability-bias/](https://floodflash.co/the-floodflash-behavioural-science-series-availability-bias/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FloodFlashThe FloodFlash behavioural science series: Availability Bias3 Aug 2022 — Availability bias therefore results in the exaggeratio...</p></details>
+   Link: <a href="https://floodflash.co/the-floodflash-behavioural-science-series-availability-bias/" target="_blank" rel="noopener noreferrer nofollow">https://floodflash.co/the-floodflash-behavioural-science-series-availability-bias/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The FloodFlash behavioural science series: Availability Bias3 Aug 2022 — Availability bias therefore results in the exaggeratio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
 
 6. <a id="endnote-6"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: scribbr.com  
    Title: availability heuristic  
-   Link: [https://www.scribbr.com/research-bias/availability-heuristic/](https://www.scribbr.com/research-bias/availability-heuristic/)  
+   Link: <a href="https://www.scribbr.com/research-bias/availability-heuristic/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-bias/availability-heuristic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Availability Heuristic | Example &amp; Definition7 Dec 2022 — The availability heuristic occurs when we judge the likelihood of an event...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: suebehaviouraldesign.com  
-   Link: [https://www.suebehaviouraldesign.com/en/blog/availability-heuristic-at-work/](https://www.suebehaviouraldesign.com/en/blog/availability-heuristic-at-work/)  
+   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/availability-heuristic-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/availability-heuristic-at-work/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUE Behavioural DesignAvailability heuristic at work: Last in, first judged20 Feb 2026 — The availability heuristic is the tendency to ju...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: simplypsychology.org  
    Title: availability heuristic  
-   Link: [https://www.simplypsychology.org/availability-heuristic.html](https://www.simplypsychology.org/availability-heuristic.html)  
+   Link: <a href="https://www.simplypsychology.org/availability-heuristic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/availability-heuristic.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Decision Making11 May 2026 — The availability heuristic is a mental shortcut where individuals judge the likelihood of an event based...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: study.com  
    Title: Availability Heuristic | Definition & Examples  
-   Link: [https://study.com/academy/lesson/availability-heuristic-examples-definition-quiz.html](https://study.com/academy/lesson/availability-heuristic-examples-definition-quiz.html)  
+   Link: <a href="https://study.com/academy/lesson/availability-heuristic-examples-definition-quiz.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/availability-heuristic-examples-definition-quiz.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LessonThe availability heuristic means bias occurring based on the most available memories and experiences one has.Read more...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management](https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management)  
+   Link: <a href="https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Risk and Availability Heuristic: The Role of...For example, when information about a certain disease is widely disseminated on soc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ideatovalue.com  
-   Link: [https://www.ideatovalue.com/curi/nickskillicorn/2022/10/the-availability-bias-why-we-overestimate-the-likelihood-of-scary-but-unlikely-events/](https://www.ideatovalue.com/curi/nickskillicorn/2022/10/the-availability-bias-why-we-overestimate-the-likelihood-of-scary-but-unlikely-events/)  
+   Link: <a href="https://www.ideatovalue.com/curi/nickskillicorn/2022/10/the-availability-bias-why-we-overestimate-the-likelihood-of-scary-but-unlikely-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.ideatovalue.com/curi/nickskillicorn/2022/10/the-availability-bias-why-we-overestimate-the-likelihood-of-scary-but-unlikely-events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The availability bias: Why we overestimate the likelihood of...13 Oct 2022 — The availability heuristic is a mental shortcut that means...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: associazionepsicologieurope.com  
    Title: availability heuristic how our brains trick us into misjudging danger  
-   Link: [https://associazionepsicologieurope.com/2025/04/12/availability-heuristic-how-our-brains-trick-us-into-misjudging-danger/](https://associazionepsicologieurope.com/2025/04/12/availability-heuristic-how-our-brains-trick-us-into-misjudging-danger/)  
+   Link: <a href="https://associazionepsicologieurope.com/2025/04/12/availability-heuristic-how-our-brains-trick-us-into-misjudging-danger/" target="_blank" rel="noopener noreferrer nofollow">https://associazionepsicologieurope.com/2025/04/12/availability-heuristic-how-our-brains-trick-us-into-misjudging-danger/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability heuristic: how our brains trick us into misjudging...12 Apr 2025 — For example, after watching news reports on shark attack...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375551656_Availability_Heuristics_and_Its_Applications_in_Behavioral_Economics](https://www.researchgate.net/publication/375551656_Availability_Heuristics_and_Its_Applications_in_Behavioral_Economics)  
+   Link: <a href="https://www.researchgate.net/publication/375551656_Availability_Heuristics_and_Its_Applications_in_Behavioral_Economics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375551656_Availability_Heuristics_and_Its_Applications_in_Behavioral_Economics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rotection policies, focusing on the influence of psychological factors on consumer...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: yukaichou.com  
-   Link: [https://yukaichou.com/behavioral-analysis/availability-heuristic-tversky-kahneman-recall-bias/](https://yukaichou.com/behavioral-analysis/availability-heuristic-tversky-kahneman-recall-bias/)  
+   Link: <a href="https://yukaichou.com/behavioral-analysis/availability-heuristic-tversky-kahneman-recall-bias/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/behavioral-analysis/availability-heuristic-tversky-kahneman-recall-bias/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic: Why Recent Memories Mislead UsThe availability heuristic is a memory-fluency shortcut for probability judgment...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CNC3Television/posts/getting-struck-by-lightning-or-being-knocked-down-poses-more-of-a-risk-than-bein/867713275383982/](https://www.facebook.com/CNC3Television/posts/getting-struck-by-lightning-or-being-knocked-down-poses-more-of-a-risk-than-bein/867713275383982/)  
+   Link: <a href="https://www.facebook.com/CNC3Television/posts/getting-struck-by-lightning-or-being-knocked-down-poses-more-of-a-risk-than-bein/867713275383982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CNC3Television/posts/getting-struck-by-lightning-or-being-knocked-down-poses-more-of-a-risk-than-bein/867713275383982/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of dying from lightning are 1 in 161,856 From a fired gun: 1 in...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: appinio.com  
    Title: What is Representativeness Heuristic?  
-   Link: [https://www.appinio.com/en/blog/market-research/representativeness-heuristic](https://www.appinio.com/en/blog/market-research/representativeness-heuristic)  
+   Link: <a href="https://www.appinio.com/en/blog/market-research/representativeness-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.appinio.com/en/blog/market-research/representativeness-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, ExamplesRepresentativeness bias is a cognitive bias that occurs when individuals rely heavily on stereotypes, prototypes, or...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: openjdm.github.io  
-   Link: [https://openjdm.github.io/availability_bias.html](https://openjdm.github.io/availability_bias.html)  
+   Link: <a href="https://openjdm.github.io/availability_bias.html" target="_blank" rel="noopener noreferrer nofollow">https://openjdm.github.io/availability_bias.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ent or classification by availability.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: verywellmind.com  
    Title: availability heuristic 2794824  
-   Link: [https://www.verywellmind.com/availability-heuristic-2794824](https://www.verywellmind.com/availability-heuristic-2794824)  
+   Link: <a href="https://www.verywellmind.com/availability-heuristic-2794824" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/availability-heuristic-2794824</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic: Examples and Effects on Decisions29 Oct 2025 — The availability heuristic is a type of mental shortcut that invol...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: laurafreberg.com  
-   Link: [https://laurafreberg.com/blog/?p=794](https://laurafreberg.com/blog/?p=794)  
+   Link: <a href="https://laurafreberg.com/blog/?p=794" target="_blank" rel="noopener noreferrer nofollow">https://laurafreberg.com/blog/?p=794</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Availability Heuristic and American Fear - Laura Freberg19 Oct 2009 — The availability heuristic [1] suggests that if you can imagine...</p></details>

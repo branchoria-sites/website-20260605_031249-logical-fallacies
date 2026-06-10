@@ -278,7 +278,7 @@ A weak argument and a false conclusion are not the same thing. This distinction 
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-1-dark.svg" | relative_url }}" alt="Bad vs True illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because [debate]({{ 'debate/' | relative_url }}) often goes wrong at exactly this point. Someone identifies a fallacy, then immediately jumps from “that argument is bad” to “therefore the claim is false”. The proper conclusion is usually much narrower: the claim has not been adequately proved by that argument. Whether the claim is true remains a separate question requiring further evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">PhilArchiveThe Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
+This matters because [debate]({{ 'debate/' | relative_url }}) often goes wrong at exactly this point. Someone identifies a fallacy, then immediately jumps from “that argument is bad” to “therefore the claim is false”. The proper conclusion is usually much narrower: the claim has not been adequately proved by that argument. Whether the claim is true remains a separate question requiring further evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">The Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
 
 ## Why Support and Truth Are Different Questions
 
@@ -326,7 +326,7 @@ The celebrity's endorsement is not strong evidence. Expertise matters more than 
 
 Yet the recommendation could still be sound. If clinical studies and public-health agencies independently support the same recommendation, then the conclusion may be true despite the poor argument offered on its behalf.
 
-In both examples, the reasoning fails to do the work assigned to it. The conclusion survives or falls based on separate evidence, not on the weakness of the original argument. This reflects a central insight in argumentation theory: exposing a fallacy undercuts a particular line of support, not necessarily the proposition being supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesOne widely accepted definition defines a fallacious argument as one that either is deductivel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">PhilArchiveThe Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
+In both examples, the reasoning fails to do the work assigned to it. The conclusion survives or falls based on separate evidence, not on the weakness of the original argument. This reflects a central insight in argumentation theory: exposing a fallacy undercuts a particular line of support, not necessarily the proposition being supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesOne widely accepted definition defines a fallacious argument as one that either is deductivel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">The Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-2-dark.svg" | relative_url }}" alt="Bad vs True illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -373,7 +373,7 @@ Or:
 
 This shift sounds subtle, but it changes the entire discussion. It keeps attention on what has actually been demonstrated rather than on what someone assumes follows from identifying a fallacy.
 
-A related danger is treating the mere accusation of a fallacy as sufficient refutation. Contemporary discussions of the fallacy fallacy note that critics sometimes leap from spotting a supposed error in reasoning to dismissing an entire position. The proper next step is usually to examine alternative evidence, not to declare the issue settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">PhilArchiveThe Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
+A related danger is treating the mere accusation of a fallacy as sufficient refutation. Contemporary discussions of the fallacy fallacy note that critics sometimes leap from spotting a supposed error in reasoning to dismissing an entire position. The proper next step is usually to examine alternative evidence, not to declare the issue settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">The Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-3-dark.svg" | relative_url }}" alt="Bad vs True illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -813,110 +813,110 @@ That is why [fallacy labels]({{ 'labels/' | relative_url }}) are most useful as 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: philarchive.org  
-   Link: [https://philarchive.org/archive/ABETFF-2](https://philarchive.org/archive/ABETFF-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilArchiveThe Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</p></details>
+   Link: <a href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/ABETFF-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</p></details>
    Published: November 2, 2022  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Argument from fallacy  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_fallacy](https://en.wikipedia.org/wiki/Argument_from_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_fallacy</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf](https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf)  
+   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveList of fallaciesArgument from fallacy – assumes that if an argument for some conclusion is fallacious... While the con...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=oGBO-WMrlIQ](https://www.youtube.com/watch?v=oGBO-WMrlIQ)  
+   Link: <a href="https://www.youtube.com/watch?v=oGBO-WMrlIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oGBO-WMrlIQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do Beliefs Work? (Fallacy Fallacy)...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesOne widely accepted definition defines a fallacious argument as one that either is deductivel...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/nature_fall.html](https://philosophy.lander.edu/logic/nature_fall.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageThe Nature of FallaciesA fallacy is a mistake in reasoning: an argument which either does not prove, or does not prov...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaFallacy | Logic, Definition &amp; Examples13 May 2026 — An argument may be fallacious in three ways: in its material c...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: biostim.com.au  
-   Link: [https://biostim.com.au/logical-fallacies/the-fallacy-fallacy/?srsltid=AfmBOoqy-3_3gf0i10rQFZaQO639yHCMya0uiJtvsYnyjPZRRtMZJpBK](https://biostim.com.au/logical-fallacies/the-fallacy-fallacy/?srsltid=AfmBOoqy-3_3gf0i10rQFZaQO639yHCMya0uiJtvsYnyjPZRRtMZJpBK)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BioStimIt replaces analysis with intellectual shortcutting. · It confuses argument quality with truth value. · It shuts down legitimate d...</p></details>
+   Link: <a href="https://biostim.com.au/logical-fallacies/the-fallacy-fallacy/?srsltid=AfmBOoqy-3_3gf0i10rQFZaQO639yHCMya0uiJtvsYnyjPZRRtMZJpBK" target="_blank" rel="noopener noreferrer nofollow">https://biostim.com.au/logical-fallacies/the-fallacy-fallacy/?srsltid=AfmBOoqy-3_3gf0i10rQFZaQO639yHCMya0uiJtvsYnyjPZRRtMZJpBK</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It replaces analysis with intellectual shortcutting. · It confuses argument quality with truth value. · It shuts down legitimate d...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies](https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pseudo-Logical FallaciesAppeal to Convenience: Accepting an argument because its conclusion is convenient, not necessarily true. This fal...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: actuary.org  
    Title: Here is a description of the most common types.Read more  
-   Link: [https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/](https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/)  
+   Link: <a href="https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://actuary.org/article/irrationally-yours-an-introduction-to-logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Irrationally Yours—An Introduction to Logical Fallacies1 Mar 2021 — Logical fallacies are, at best, flawed logic, but more commonly are i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: lindsey.edu  
-   Link: [https://www.lindsey.edu/academics/img/writing-center-pdfs/introduction-fallacies.pdf](https://www.lindsey.edu/academics/img/writing-center-pdfs/introduction-fallacies.pdf)  
+   Link: <a href="https://www.lindsey.edu/academics/img/writing-center-pdfs/introduction-fallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lindsey.edu/academics/img/writing-center-pdfs/introduction-fallacies.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to FallaciesA fallacy is an illogical step in the formulation of an argument. An argument in academic writing is essentially...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: qcc.cuny.edu  
    Title: Arguments Fallacies  
-   Link: [https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html](https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html)  
+   Link: <a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/ss610/Arguments-Fallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FALLACIESA fallacy is a kind of error in reasoning. The list of fallacies found here Partial List of Fallacies contains 231 names of the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Argument from Fallacy  
-   Link: [https://www.youtube.com/watch?v=tIRTfzPZ17Y](https://www.youtube.com/watch?v=tIRTfzPZ17Y)  
+   Link: <a href="https://www.youtube.com/watch?v=tIRTfzPZ17Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tIRTfzPZ17Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy 7 #logic #fallacyThe argument from fallacy (or the &quot;fallacy fallacy&quot;): reasoning that because an argument contains a fallacy, it...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: philosophy.stackexchange.com  
-   Title: question on fallicious argument [appeal to popularity](&#123;&#123; 'popularity/' | relative_url &#125;&#125;)  
-   Link: [https://philosophy.stackexchange.com/questions/84380/question-on-fallicious-argument-appeal-to-popularity](https://philosophy.stackexchange.com/questions/84380/question-on-fallicious-argument-appeal-to-popularity)  
+   Title: question on fallicious argument appeal to popularity  
+   Link: <a href="https://philosophy.stackexchange.com/questions/84380/question-on-fallicious-argument-appeal-to-popularity" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/84380/question-on-fallicious-argument-appeal-to-popularity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take these 2 arguments: When walking downtown, the majority of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11245-022-09872-4](https://link.springer.com/article/10.1007/s11245-022-09872-4)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11245-022-09872-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11245-022-09872-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>from Popularity: Their Merits and Defects in...by JA van Laar · 2023 · Cited by 2 — I define the concept of an argument from popularity...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lmamo8mE0Nk](https://www.youtube.com/watch?v=lmamo8mE0Nk)  
+   Link: <a href="https://www.youtube.com/watch?v=lmamo8mE0Nk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lmamo8mE0Nk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>31 logical fallacies in 8 minutes...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: What Bad Arguments Prove & Why  
-   Link: [https://www.youtube.com/watch?v=e69OECc4AlQ](https://www.youtube.com/watch?v=e69OECc4AlQ)  
+   Link: <a href="https://www.youtube.com/watch?v=e69OECc4AlQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=e69OECc4AlQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth and validity | Critical thinking...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: 31 logical fallacies in 8 minutes  
-   Link: [https://www.youtube.com/watch?v=Qf03U04rqGQ](https://www.youtube.com/watch?v=Qf03U04rqGQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qf03U04rqGQ</a>  

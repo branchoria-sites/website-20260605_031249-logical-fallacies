@@ -501,17 +501,17 @@ image: /assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a-overv
 
 ## Introduction
 
-Social media does not create [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), but it gives them ideal conditions to travel quickly. A weak argument can be compressed into a slogan, attached to an image, boosted by outrage, repeated by familiar accounts and rewarded with likes before anyone checks whether the reasoning holds. That is why viral claims often feel convincing even when they rely on hasty generalisation, false cause, false dilemma, ad hominem attack, straw man, [appeal to popularity]({{ 'popularity/' | relative_url }}) or misleading anecdote.
+Social media does not create [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), but it gives them ideal conditions to travel quickly. A weak argument can be compressed into a slogan, attached to an image, boosted by outrage, repeated by familiar accounts and rewarded with likes before anyone checks whether the reasoning holds. That is why viral claims often feel convincing even when they rely on hasty generalisation, false cause, [false dilemma]({{ 'false-dilemma/' | relative_url }}), ad hominem attack, straw man, appeal to popularity or misleading anecdote.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a-overview.webp" | relative_url }}" alt="Overview image for Social Media" loading="eager" decoding="sync" fetchpriority="high">
-The danger is not only that a viral post may be false. It is that the platform format can make poor reasoning look socially confirmed. A claim that has been shared thousands of times may seem more credible than a carefully sourced correction; a personal attack may feel like a rebuttal; a screenshot may look like evidence while hiding missing [context]({{ 'context/' | relative_url }}). Research on [false news]({{ 'false-news/' | relative_url }}), misinformation sharing and online outrage shows that speed, emotion, social identity and attention all shape what spreads online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — We investigated the differential diffusion of all...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureShifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</span></span></span>
+The danger is not only that a viral post may be false. It is that the platform format can make poor reasoning look socially confirmed. A claim that has been shared thousands of times may seem more credible than a carefully sourced correction; a personal attack may feel like a rebuttal; a screenshot may look like evidence while hiding missing [context]({{ 'context/' | relative_url }}). Research on [false news]({{ 'false-news/' | relative_url }}), misinformation sharing and online outrage shows that speed, emotion, social identity and attention all shape what spreads online. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — We investigated the differential diffusion of all...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</span></span></span>
 
 ## Why bad arguments travel well online
 
 A logical fallacy is a flaw in the support offered for a conclusion, not simply a claim someone dislikes. University writing guides describe fallacies as errors that weaken argument by relying on irrelevant points, missing evidence or invalid reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">OWLLogical Fallacies</span></span></span> Social media makes these errors more contagious because the usual signals of good reasoning are often stripped away. A post may show the conclusion, the emotional hook and the call to share, but not the source, method, uncertainty or alternative explanation.
 
-The 2018 study “The spread of true and false news online” examined verified true and false news stories on Twitter from 2006 to 2017 and found that falsehood diffused farther, faster, deeper and more broadly than truth. The authors also reported that false stories were more novel, and that human users, not just bots, played a central role in spreading them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — We investigated the differential diffusion of all...</span></span></span> For logical fallacies, that matters because novelty and simplicity often favour sharp claims over careful arguments. “They are hiding this from you” is easier to pass on than a qualified explanation of evidence, uncertainty and limits.
+The 2018 study “The spread of true and false news online” examined verified true and false news stories on Twitter from 2006 to 2017 and found that falsehood diffused farther, faster, deeper and more broadly than truth. The authors also reported that false stories were more novel, and that human users, not just bots, played a central role in spreading them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — We investigated the differential diffusion of all...</span></span></span> For logical fallacies, that matters because novelty and simplicity often favour sharp claims over careful arguments. “They are hiding this from you” is easier to pass on than a qualified explanation of evidence, uncertainty and limits.
 
 Online platforms also blur the difference between popularity and validity. A post with thousands of likes can tempt readers into an appeal to popularity: “so many people agree, therefore it must be true.” But engagement measures attention, not accuracy. A claim can spread because it is funny, frightening, flattering, identity-affirming or useful for attacking an opponent. None of those reactions proves that the reasoning is sound.
 
@@ -541,7 +541,7 @@ Ad hominem reasoning is powerful because it gives the audience an emotional shor
 
 [Emotion]({{ 'emotion/' | relative_url }}) is not the enemy of reasoning. Anger can be a rational response to injustice, and moral concern can motivate people to investigate real harm. The problem arises when emotional intensity is treated as proof. “This made me furious” does not mean “this is well evidenced.” “This feels evil” does not mean “the causal claim is true.” Viral fallacies often convert emotional urgency into apparent logical force.
 
-Research on moral outrage helps explain why this works. A 2021 study found that social feedback can amplify moral outrage expression online, especially in politically extreme network environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span> A 2024 Science paper reported that misinformation was associated with moral outrage and that outrage can help misinformation spread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — We investigated the differential diffusion of all...</span></span></span> This does not mean every outraged post is false. It means that outrage is a poor substitute for checking whether the argument is valid.
+Research on moral outrage helps explain why this works. A 2021 study found that social feedback can amplify moral outrage expression online, especially in politically extreme network environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNudging Social Media toward Accuracy</span><span class="citation-popover-snippet">PMCNudging Social Media toward Accuracy</span></span></span> A 2024 Science paper reported that misinformation was associated with moral outrage and that outrage can help misinformation spread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — We investigated the differential diffusion of all...</span></span></span> This does not mean every outraged post is false. It means that outrage is a poor substitute for checking whether the argument is valid.
 
 The fallacies most often helped by outrage include:
 
@@ -1051,233 +1051,233 @@ Logical fallacies spread fast online because they are often easy to feel before 
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-021-03344-2](https://www.nature.com/articles/s41586-021-03344-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureShifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-021-03344-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — The results show that subtly sh...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
 
 4. <a id="endnote-4"></a>
    Source: reutersinstitute.[politics](&#123;&#123; 'politics/' | relative_url &#125;&#125;). ox.ac.uk  
    Title: types sources and claims covid 19 misinformation  
-   Link: [https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation](https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation)  
+   Link: <a href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow">https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.06613](https://arxiv.org/abs/1802.06613)  
+   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2209.02062](https://arxiv.org/abs/2209.02062)  
+   Link: <a href="https://arxiv.org/abs/2209.02062" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.02062</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8363141/</a>  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging Social Media toward Accuracy  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9082967/</a>  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11393549/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11393549/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11393549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11393549/</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2206.15237](https://arxiv.org/abs/2206.15237)  
+   Link: <a href="https://arxiv.org/abs/2206.15237" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2206.15237</a>  
 
 11. <a id="endnote-11"></a>
    Source: guides.lib.uchicago.edu  
    Title: The SIFT Method  
-   Link: [https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322](https://guides.lib.uchicago.edu/c.php?g=1241077&p=9082322)  
+   Link: <a href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322</a>  
 
 12. <a id="endnote-12"></a>
    Source: ed.stanford.edu  
    Title: it doesn t take long learn how spot misinformation online stanford study finds  
-   Link: [https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds](https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds)  
+   Link: <a href="https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://ed.stanford.edu/news/it-doesn-t-take-long-learn-how-spot-misinformation-online-stanford-study-finds</a>  
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
    Title: About Reuters Fact Check  
-   Link: [https://www.reuters.com/fact-check/about/](https://www.reuters.com/fact-check/about/)  
+   Link: <a href="https://www.reuters.com/fact-check/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/fact-check/about/</a>  
 
 14. <a id="endnote-14"></a>
    Source: ifcncodeofprinciples.poynter.org  
-   Link: [https://ifcncodeofprinciples.poynter.org/](https://ifcncodeofprinciples.poynter.org/)  
+   Link: <a href="https://ifcncodeofprinciples.poynter.org/" target="_blank" rel="noopener noreferrer nofollow">https://ifcncodeofprinciples.poynter.org/</a>  
 
 15. <a id="endnote-15"></a>
    Source: rand.org  
-   Link: [https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search/items/international-fact-checking-network-ifcn-codes-and.html](https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search/items/international-fact-checking-network-ifcn-codes-and.html)  
+   Link: <a href="https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search/items/international-fact-checking-network-ifcn-codes-and.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/research/projects/truth-decay/fighting-disinformation/search/items/international-fact-checking-network-ifcn-codes-and.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/nature-index/topics/l4/psychological-[mechanisms](https://www.nature.com/nature-index/topics/l4/psychological-[mechanisms)  
+   Link: <a href="https://www.nature.com/nature-index/topics/l4/psychological-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/psychological-[mechanisms</a>  
 
 17. <a id="endnote-17"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41599-025-06067-1](https://www.nature.com/articles/s41599-025-06067-1)  
+   Link: <a href="https://www.nature.com/articles/s41599-025-06067-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-06067-1</a>  
 
 18. <a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2511.11108v1](https://arxiv.org/html/2511.11108v1)  
+   Link: <a href="https://arxiv.org/html/2511.11108v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.11108v1</a>  
 
 19. <a id="endnote-19"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.aap9559](https://www.science.org/doi/10.1126/science.aap9559)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceThe spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — We investigated the differential diffusion of all...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.aap9559</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 14051 — We investigated the differential diffusion of all...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.adl2829](https://www.science.org/doi/10.1126/science.adl2829)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.adl2829</a>  
 
 21. <a id="endnote-21"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 22. <a id="endnote-22"></a>
    Source: scienceofboosting.org  
    Title: Boosting Lateral Reading  
-   Link: [https://www.scienceofboosting.org/project/lateral-reading/](https://www.scienceofboosting.org/project/lateral-reading/)  
+   Link: <a href="https://www.scienceofboosting.org/project/lateral-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceofboosting.org/project/lateral-reading/</a>  
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154](https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352250X23002154</a>  
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004727272500043X](https://www.sciencedirect.com/science/article/pii/S004727272500043X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004727272500043X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004727272500043X</a>  
 
 25. <a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1364661325001731](https://www.sciencedirect.com/science/article/abs/pii/S1364661325001731)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364661325001731" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1364661325001731</a>  
 
 26. <a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S000169182500873X](https://www.sciencedirect.com/science/article/pii/S000169182500873X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S000169182500873X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S000169182500873X</a>  
 
 27. <a id="endnote-27"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2468696420300458](https://www.sciencedirect.com/science/article/pii/S2468696420300458)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2468696420300458" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468696420300458</a>  
 
 28. <a id="endnote-28"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0047272726000253](https://www.sciencedirect.com/science/article/pii/S0047272726000253)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0047272726000253</a>  
 
 29. <a id="endnote-29"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2211883724000091](https://www.sciencedirect.com/science/article/pii/S2211883724000091)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2211883724000091" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2211883724000091</a>  
 
 30. <a id="endnote-30"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1364661321000516](https://www.sciencedirect.com/science/article/pii/S1364661321000516)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1364661321000516</a>  
 
 31. <a id="endnote-31"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/social](https://dictionary.cambridge.org/dictionary/english/social)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/social" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/social</a>  
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online](https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online)  
+   Link: <a href="https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323649207_The_spread_of_true_and_false_news_online</a>  
 
 33. <a id="endnote-33"></a>
    Source: open.maricopa.edu  
    Title: logical fallacy  
-   Link: [https://open.maricopa.edu/english102open2ed/chapter/logical-fallacy/](https://open.maricopa.edu/english102open2ed/chapter/logical-fallacy/)  
+   Link: <a href="https://open.maricopa.edu/english102open2ed/chapter/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://open.maricopa.edu/english102open2ed/chapter/logical-fallacy/</a>  
 
 34. <a id="endnote-34"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1414864/full](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1414864/full)  
+   Link: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1414864/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1414864/full</a>  
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
 36. <a id="endnote-36"></a>
    Source: unr.edu  
-   Link: [https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies)  
+   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
 
 37. <a id="endnote-37"></a>
    Source: libguides.ucmerced.edu  
    Title: sift method  
-   Link: [https://libguides.ucmerced.edu/news/evaluation/sift-method](https://libguides.ucmerced.edu/news/evaluation/sift-method)  
+   Link: <a href="https://libguides.ucmerced.edu/news/evaluation/sift-method" target="_blank" rel="noopener noreferrer nofollow">https://libguides.ucmerced.edu/news/evaluation/sift-method</a>  
 
 38. <a id="endnote-38"></a>
    Source: en.pons.com  
-   Link: [https://en.pons.com/translate/english-german/social](https://en.pons.com/translate/english-german/social)  
+   Link: <a href="https://en.pons.com/translate/english-german/social" target="_blank" rel="noopener noreferrer nofollow">https://en.pons.com/translate/english-german/social</a>  
 
 39. <a id="endnote-39"></a>
    Source: sciencemediacentre.es  
    Title: outrage facilitates spread misinformation social networks  
-   Link: [https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks](https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks)  
+   Link: <a href="https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks" target="_blank" rel="noopener noreferrer nofollow">https://sciencemediacentre.es/en/outrage-facilitates-spread-misinformation-social-networks</a>  
 
 40. <a id="endnote-40"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 41. <a id="endnote-41"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
 
 42. <a id="endnote-42"></a>
    Source: help.unhcr.org  
-   Link: [https://help.unhcr.org/czech/safe-online/information/](https://help.unhcr.org/czech/safe-online/information/)  
+   Link: <a href="https://help.unhcr.org/czech/safe-online/information/" target="_blank" rel="noopener noreferrer nofollow">https://help.unhcr.org/czech/safe-online/information/</a>  
 
 43. <a id="endnote-43"></a>
    Source: science.org  
-   Link: [https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots](https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots)  
+   Link: <a href="https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/fake-news-spreads-faster-true-news-twitter-thanks-people-not-bots</a>  
 
 ### Additional References
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Quackery, Celebrity Doctors and Tik Tok Energy  
-   Link: [https://www.youtube.com/watch?v=UtkDlbLeetI](https://www.youtube.com/watch?v=UtkDlbLeetI)  
+   Link: <a href="https://www.youtube.com/watch?v=UtkDlbLeetI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UtkDlbLeetI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowdsourcing Reality: How Participatory Disinformation Is Shaping the News | News Over Noise...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WQ4qHFOvnKk](https://www.youtube.com/watch?v=WQ4qHFOvnKk)  
+   Link: <a href="https://www.youtube.com/watch?v=WQ4qHFOvnKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WQ4qHFOvnKk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The spread of rumors online: How to know what&#x27;s true or false?...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=IVgVg40zzWA](https://www.youtube.com/watch?v=IVgVg40zzWA)  
+   Link: <a href="https://www.youtube.com/watch?v=IVgVg40zzWA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IVgVg40zzWA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quackery, Celebrity Doctors and TikTok Energy - Medical Misinformation Isn&#x27;t New...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Logical Fallacies Explained: Why Adults Argue So Poorly Today  
-   Link: [https://www.youtube.com/watch?v=Hx4GtmSK6Rw](https://www.youtube.com/watch?v=Hx4GtmSK6Rw)  
+   Link: <a href="https://www.youtube.com/watch?v=Hx4GtmSK6Rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hx4GtmSK6Rw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Sneaky Logical Fallacies You Should Look Out For...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/325134730_%27News%27_spreads_faster_and_more_widely_when_it%27s_false](https://www.researchgate.net/publication/325134730_%27News%27_spreads_faster_and_more_widely_when_it%27s_false)  
+   Link: <a href="https://www.researchgate.net/publication/325134730_%27News%27_spreads_faster_and_more_widely_when_it%27s_false" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325134730_%27News%27_spreads_faster_and_more_widely_when_it%27s_false</a>  
 
 49. <a id="endnote-49"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_Accuracy-Nudge_Intervention](https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_Accuracy-Nudge_Intervention)  
+   Link: <a href="https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_Accuracy-Nudge_Intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342579856_Fighting_COVID-19_Misinformation_on_Social_Media_Experimental_Evidence_for_a_Scalable_Accuracy-Nudge_Intervention</a>  
 
 50. <a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course](https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course)  
+   Link: <a href="https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349535570_Lateral_reading_College_students_learn_to_critically_evaluate_internet_sources_in_an_online_course</a>  
 
 51. <a id="endnote-51"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/352152031_Patterns_of_Responses_to_Abusive_Ad_Hominem_Attacks_The_Case_of_Facebook_News-commenting](https://www.researchgate.net/publication/352152031_Patterns_of_Responses_to_Abusive_Ad_Hominem_Attacks_The_Case_of_Facebook_News-commenting)  
+   Link: <a href="https://www.researchgate.net/publication/352152031_Patterns_of_Responses_to_Abusive_Ad_Hominem_Attacks_The_Case_of_Facebook_News-commenting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/352152031_Patterns_of_Responses_to_Abusive_Ad_Hominem_Attacks_The_Case_of_Facebook_News-commenting</a>  
 
 52. <a id="endnote-52"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization](https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization)  
+   Link: <a href="https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401405020_Ranking_for_engagement_How_social_media_algorithms_fuel_misinformation_and_polarization</a>  
 
 53. <a id="endnote-53"></a>
    Source: falmouth.ac.uk  
-   Link: [https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news](https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news)  
+   Link: <a href="https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news" target="_blank" rel="noopener noreferrer nofollow">https://www.falmouth.ac.uk/news/5-ways-journalists-fact-check-stories-fake-news</a>  

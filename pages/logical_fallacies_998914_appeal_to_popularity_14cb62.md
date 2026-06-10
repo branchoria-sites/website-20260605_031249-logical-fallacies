@@ -505,7 +505,7 @@ Appeal to popularity is the mistake of treating widespread belief as proof that 
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-overview.webp" | relative_url }}" alt="Overview image for Popularity" loading="eager" decoding="sync" fetchpriority="high">
-This fallacy matters because crowd belief often feels like evidence. In daily life, it can appear in phrases such as “everyone knows”, “millions of people can’t be wrong”, “most voters agree”, “it’s the best-selling option”, or “all my friends think so”. Those statements may be relevant to taste, social norms, elections, market demand or language use. They become fallacious when they are used as a shortcut for factual proof. Standard logic resources therefore classify ad populum as an informal fallacy in which popular opinion is offered where proper support is needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The fallacy ad popu...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because...</span></span></span>
+This fallacy matters because crowd belief often feels like evidence. In daily life, it can appear in phrases such as “everyone knows”, “millions of people can’t be wrong”, “most voters agree”, “it’s the best-selling option”, or “all my friends think so”. Those statements may be relevant to taste, social norms, elections, market demand or language use. They become fallacious when they are used as a shortcut for factual proof. Standard logic resources therefore classify ad populum as an informal fallacy in which popular opinion is offered where proper support is needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The fallacy ad popu...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because...</span></span></span>
 
 ## Popularity Is Not the Same as Evidence
 
@@ -521,7 +521,7 @@ This is why the fallacy is best understood as a [relevance]({{ 'relevance/' | re
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Crowd Belief Feels Persuasive
 
-Appeal to popularity works because human beings often use other people’s behaviour as information. That habit is not irrational in every setting. If a restaurant is busy, a path is worn into the grass, or many experienced users warn against a tool, the crowd may be providing a useful signal. Social proof is the psychological tendency to look to others’ actions when deciding how to behave, especially under uncertainty. Cialdini’s persuasion framework describes social proof as especially influential when people are unsure and when the people being observed seem similar to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.influenceatwork.com/7-principles-of-persuasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: influenceatwork.com">[Influence at Work]</a><span class="citation-popover" role="note"><span class="citation-popover-source">influenceatwork.com</span><span class="citation-popover-title">Influence at Work Dr</span><span class="citation-popover-snippet">Robert Cialdini&#x27;s Seven Principles of Persuasion | IAWThe Sixth Principle is Social Proof. Especially when they are uncertain... many ot...</span></span></span>
+Appeal to popularity works because human beings often use other people’s behaviour as information. That habit is not irrational in every setting. If a restaurant is busy, a path is worn into the grass, or many experienced users warn against a tool, the crowd may be providing a useful signal. [Social proof]({{ 'social-proof/' | relative_url }}) is the psychological tendency to look to others’ actions when deciding how to behave, especially under uncertainty. Cialdini’s persuasion framework describes social proof as especially influential when people are unsure and when the people being observed seem similar to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.influenceatwork.com/7-principles-of-persuasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: influenceatwork.com">[Influence at Work]</a><span class="citation-popover" role="note"><span class="citation-popover-source">influenceatwork.com</span><span class="citation-popover-title">Influence at Work Dr</span><span class="citation-popover-snippet">Robert Cialdini&#x27;s Seven Principles of Persuasion &#124; IAWThe Sixth Principle is Social Proof. Especially when they are uncertain... many ot...</span></span></span>
 
 The difficulty is that social proof is a behavioural shortcut, not a truth machine. It can help people coordinate in low-stakes or uncertain situations, but it can also turn imitation into evidence. Once enough people appear to endorse a claim, later observers may infer that the crowd must know something. That inference can be reasonable when the crowd is genuinely independent, informed and responding to strong evidence. It is weak when the crowd is copying itself.
 
@@ -1035,159 +1035,159 @@ That separation is the core lesson of the appeal to popularity. Belief can show 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The fallacy ad popu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: ad populum fallacy  
-   Link: [https://www.scribbr.com/fallacies/ad-populum-fallacy/](https://www.scribbr.com/fallacies/ad-populum-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-populum-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/popular.html](https://philosophy.lander.edu/logic/popular.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv The Unfairness of Popularity Bias in Recommendation  
-   Link: [https://arxiv.org/abs/1907.13286](https://arxiv.org/abs/1907.13286)  
+   Link: <a href="https://arxiv.org/abs/1907.13286" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.13286</a>  
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: US FTC finalizes ban on companies buying and selling fake online reviews  
-   Link: [https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/](https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/)  
+   Link: <a href="https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/</a>  
 
 6. <a id="endnote-6"></a>
    Source: nber.org  
    Title: Information Cascades and Social Learning  
-   Link: [https://www.nber.org/system/files/working_papers/w28887/w28887.pdf](https://www.nber.org/system/files/working_papers/w28887/w28887.pdf)  
+   Link: <a href="https://www.nber.org/system/files/working_papers/w28887/w28887.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w28887/w28887.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: ideas.repec.org  
    Title: IDEAS/Re PEc Herd Behavior and Cascading in Capital Markets  
-   Link: [https://ideas.repec.org/p/pra/mprapa/5186.html](https://ideas.repec.org/p/pra/mprapa/5186.html)  
+   Link: <a href="https://ideas.repec.org/p/pra/mprapa/5186.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/pra/mprapa/5186.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIThe National Academies of SCIENCES  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK424919/](https://www.ncbi.nlm.nih.gov/books/NBK424919/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK424919/</a>  
 
 9. <a id="endnote-9"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0118489](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0118489)  
+   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0118489" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0118489</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0272494425000258](https://www.sciencedirect.com/science/article/abs/pii/S0272494425000258)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0272494425000258" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0272494425000258</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0969698924004958](https://www.sciencedirect.com/science/article/abs/pii/S0969698924004958)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0969698924004958" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0969698924004958</a>  
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
 13. <a id="endnote-13"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/difference-between-ad-populum-fallacy-and-appeal-to-authority-fallacy/](https://www.scribbr.com/frequently-asked-questions/difference-between-ad-populum-fallacy-and-appeal-to-authority-fallacy/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/difference-between-ad-populum-fallacy-and-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/difference-between-ad-populum-fallacy-and-appeal-to-authority-fallacy/</a>  
 
 14. <a id="endnote-14"></a>
    Source: philosophy.institute  
-   Title: navigating [informal fallacies](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) logical discourse  
-   Link: [https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/](https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/)  
+   Title: navigating informal fallacies logical discourse  
+   Link: <a href="https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/navigating-informal-fallacies-logical-discourse/</a>  
 
 15. <a id="endnote-15"></a>
    Source: psychology.town  
    Title: reevaluating aschs experiments critical perspective  
-   Link: [https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/](https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/)  
+   Link: <a href="https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/reevaluating-aschs-experiments-critical-perspective/</a>  
 
 16. <a id="endnote-16"></a>
    Source: influenceatwork.com  
    Title: Influence at Work Dr  
-   Link: [https://www.influenceatwork.com/7-principles-of-persuasion/](https://www.influenceatwork.com/7-principles-of-persuasion/)  
+   Link: <a href="https://www.influenceatwork.com/7-principles-of-persuasion/" target="_blank" rel="noopener noreferrer nofollow">https://www.influenceatwork.com/7-principles-of-persuasion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Cialdini&#x27;s Seven Principles of Persuasion | IAWThe Sixth Principle is Social Proof. Especially when they are uncertain... many ot...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: simplypsychology.org  
    Title: Simply Psychology Asch Conformity Line Experiment  
-   Link: [https://www.simplypsychology.org/asch-conformity.html](https://www.simplypsychology.org/asch-conformity.html)  
+   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Scientific consensus  
-   Link: [https://en.wikipedia.org/wiki/Scientific_consensus](https://en.wikipedia.org/wiki/Scientific_consensus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Scientific_consensus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scientific_consensus</a>  
 
 19. <a id="endnote-19"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Robert Cialdini  
-   Link: [https://www.youtube.com/watch?v=cDREln_LrME&vl=en](https://www.youtube.com/watch?v=cDREln_LrME&vl=en)  
+   Link: <a href="https://www.youtube.com/watch?v=cDREln_LrME&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cDREln_LrME&amp;vl=en</a>  
 
 21. <a id="endnote-21"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2868/2408](https://informallogic.ca/index.php/informal_logic/article/view/2868/2408)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2868/2408" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2868/2408</a>  
 
 22. <a id="endnote-22"></a>
    Source: askphilosophers.org  
-   Link: [https://www.askphilosophers.org/question/26292](https://www.askphilosophers.org/question/26292)  
+   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
 
 23. <a id="endnote-23"></a>
    Source: thinkbuthow.com  
    Title: appeal to popularity  
-   Link: [https://www.thinkbuthow.com/p/appeal-to-popularity](https://www.thinkbuthow.com/p/appeal-to-popularity)  
+   Link: <a href="https://www.thinkbuthow.com/p/appeal-to-popularity" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkbuthow.com/p/appeal-to-popularity</a>  
 
 24. <a id="endnote-24"></a>
    Source: climateforesight.eu  
    Title: Scientific consensus  
-   Link: [https://www.climateforesight.eu/seeds/scientific-consensus/](https://www.climateforesight.eu/seeds/scientific-consensus/)  
+   Link: <a href="https://www.climateforesight.eu/seeds/scientific-consensus/" target="_blank" rel="noopener noreferrer nofollow">https://www.climateforesight.eu/seeds/scientific-consensus/</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: ssa.gov  
-   Link: [https://www.ssa.gov/](https://www.ssa.gov/)  
+   Link: <a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: CRITICAL THINKING  
-   Link: [https://www.youtube.com/watch?v=aF6EHTtyYqw](https://www.youtube.com/watch?v=aF6EHTtyYqw)  
+   Link: <a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aF6EHTtyYqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/346471582_Why_Is_The_Ad_Populum_A_Fallacy](https://www.researchgate.net/publication/346471582_Why_Is_The_Ad_Populum_A_Fallacy)  
+   Link: <a href="https://www.researchgate.net/publication/346471582_Why_Is_The_Ad_Populum_A_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346471582_Why_Is_The_Ad_Populum_A_Fallacy</a>  
 
 28. <a id="endnote-28"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Common-Belief](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Common-Belief)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Common-Belief" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Common-Belief</a>  
 
 29. <a id="endnote-29"></a>
    Source: psupress.org  
-   Link: [https://www.psupress.org/books/titles/0-271-01818-6.html?srsltid=AfmBOoocjK3l5eZq1DQpVG1lE93RdjKx5bhlHXVTQYShTEYBhnF7vZg2](https://www.psupress.org/books/titles/0-271-01818-6.html?srsltid=AfmBOoocjK3l5eZq1DQpVG1lE93RdjKx5bhlHXVTQYShTEYBhnF7vZg2)  
+   Link: <a href="https://www.psupress.org/books/titles/0-271-01818-6.html?srsltid=AfmBOoocjK3l5eZq1DQpVG1lE93RdjKx5bhlHXVTQYShTEYBhnF7vZg2" target="_blank" rel="noopener noreferrer nofollow">https://www.psupress.org/books/titles/0-271-01818-6.html?srsltid=AfmBOoocjK3l5eZq1DQpVG1lE93RdjKx5bhlHXVTQYShTEYBhnF7vZg2</a>  
 
 30. <a id="endnote-30"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity</a>  
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/](https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/)  
+   Link: <a href="https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/1prwxat/can_someone_give_me_a_good_explanation_for_the/</a>  
 
 32. <a id="endnote-32"></a>
    Source: gustdebacker.com  
-   Link: [https://gustdebacker.com/cialdini-principles/](https://gustdebacker.com/cialdini-principles/)  
+   Link: <a href="https://gustdebacker.com/cialdini-principles/" target="_blank" rel="noopener noreferrer nofollow">https://gustdebacker.com/cialdini-principles/</a>  
 
 33. <a id="endnote-33"></a>
    Source: gaiadigital.nl  
-   Link: [https://www.gaiadigital.nl/en/7-principles-of-persuasion-applied-to-online-platforms/](https://www.gaiadigital.nl/en/7-principles-of-persuasion-applied-to-online-platforms/)  
+   Link: <a href="https://www.gaiadigital.nl/en/7-principles-of-persuasion-applied-to-online-platforms/" target="_blank" rel="noopener noreferrer nofollow">https://www.gaiadigital.nl/en/7-principles-of-persuasion-applied-to-online-platforms/</a>  
 
 34. <a id="endnote-34"></a>
    Source: sdmlab.psychol.cam.ac.uk  
-   Link: [https://www.sdmlab.psychol.cam.ac.uk/research/gateway-belief-model](https://www.sdmlab.psychol.cam.ac.uk/research/gateway-belief-model)  
+   Link: <a href="https://www.sdmlab.psychol.cam.ac.uk/research/gateway-belief-model" target="_blank" rel="noopener noreferrer nofollow">https://www.sdmlab.psychol.cam.ac.uk/research/gateway-belief-model</a>  

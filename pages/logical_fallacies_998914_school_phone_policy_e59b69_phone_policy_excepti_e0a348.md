@@ -358,7 +358,7 @@ These measures help distinguish a genuine accommodation from a discretionary pri
 
 ## What Existing Phone Restrictions Reveal
 
-Countries and school systems that have adopted strong phone restrictions frequently include exceptions for medical needs, disabilities or comparable circumstances. The Netherlands' classroom restrictions, for example, have been accompanied by recognised exemptions for pupils who need devices because of disabilities or medical reasons. Schools retain responsibility for defining how those exceptions operate in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurydice.eacea.ec.europa.eu">[Eurydice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurydice.eacea.ec.europa.eu</span><span class="citation-popover-title">netherlands ban mobile phones classroom</span><span class="citation-popover-snippet">EurydiceNetherlands: A ban on mobile phones in the classroom26 Jun 2025 — The ban aims to encourage discussions and social interactions w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oudersenonderwijs.nl/en/niet-gecategoriseerd/no-mobile-phones-anymore-in-primary-and-special-education-classes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oudersenonderwijs.nl">[Ouders &amp; Onderwijs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oudersenonderwijs.nl</span><span class="citation-popover-title">Schools make their own agreements about this.Read more</span><span class="citation-popover-snippet">Ouders &amp; OnderwijsNo more mobile phones in classes in primary and special...Nov 7, 2023 — Exceptions are possible: mobile phones may be...</span></span></span>
+Countries and school systems that have adopted strong phone restrictions frequently include exceptions for medical needs, disabilities or comparable circumstances. The Netherlands' classroom restrictions, for example, have been accompanied by recognised exemptions for pupils who need devices because of disabilities or medical reasons. Schools retain responsibility for defining how those exceptions operate in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurydice.eacea.ec.europa.eu">[Eurydice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurydice.eacea.ec.europa.eu</span><span class="citation-popover-title">netherlands ban mobile phones classroom</span><span class="citation-popover-snippet">Netherlands: A ban on mobile phones in the classroom26 Jun 2025 — The ban aims to encourage discussions and social interactions w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oudersenonderwijs.nl/en/niet-gecategoriseerd/no-mobile-phones-anymore-in-primary-and-special-education-classes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oudersenonderwijs.nl">[Ouders &amp; Onderwijs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oudersenonderwijs.nl</span><span class="citation-popover-title">Schools make their own agreements about this.Read more</span><span class="citation-popover-snippet">Ouders &amp; OnderwijsNo more mobile phones in classes in primary and special...Nov 7, 2023 — Exceptions are possible: mobile phones may be...</span></span></span>
 
 Similarly, recent guidance in England has moved towards an expectation of phone-free schools while continuing to acknowledge circumstances in which reasonable adjustments or specific exceptions are necessary. House of Commons Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mobile phones in schools</span><span class="citation-popover-snippet">19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationinspection.blog.gov.uk">[Ofsted Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationinspection.blog.gov.uk</span><span class="citation-popover-snippet">Ofsted EducationWhat the government&#x27;s updated guidance on mobile phones...23 Jan 2026 — The DfE guidance is clear: it expects a ban on m...</span></span></span>
 
@@ -371,7 +371,7 @@ The existence of these exemptions is significant because it demonstrates that po
 
 From a logical-fallacies perspective, medical and safeguarding exceptions expose the weakness of all-or-nothing arguments. When someone claims that a phone policy must either apply identically to every pupil or not exist at all, they overlook a range of workable alternatives.
 
-The evidence from school systems using phone restrictions suggests that strict default rules and targeted exceptions can coexist. The policy remains meaningful because the exceptions are limited and justified. At the same time, the rule becomes fairer because it recognises genuine differences in pupils' needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mobile phones in schools</span><span class="citation-popover-snippet">19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurydice.eacea.ec.europa.eu">[eurydice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurydice.eacea.ec.europa.eu</span><span class="citation-popover-title">netherlands ban mobile phones classroom</span><span class="citation-popover-snippet">EurydiceNetherlands: A ban on mobile phones in the classroom26 Jun 2025 — The ban aims to encourage discussions and social interactions w...</span></span></span> Rather than proving that phone restrictions are impossible to enforce, well-designed medical and safeguarding exemptions illustrate a broader point: effective school policies are often strongest when they avoid false choices and acknowledge legitimate exceptions.
+The evidence from school systems using phone restrictions suggests that strict default rules and targeted exceptions can coexist. The policy remains meaningful because the exceptions are limited and justified. At the same time, the rule becomes fairer because it recognises genuine differences in pupils' needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">mobile phones in schools</span><span class="citation-popover-snippet">19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurydice.eacea.ec.europa.eu">[eurydice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurydice.eacea.ec.europa.eu</span><span class="citation-popover-title">netherlands ban mobile phones classroom</span><span class="citation-popover-snippet">Netherlands: A ban on mobile phones in the classroom26 Jun 2025 — The ban aims to encourage discussions and social interactions w...</span></span></span> Rather than proving that phone restrictions are impossible to enforce, well-designed medical and safeguarding exemptions illustrate a broader point: effective school policies are often strongest when they avoid false choices and acknowledge legitimate exceptions.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_policy_excepti_e0a348-Illustration-3-dark.svg" | relative_url }}" alt="Exceptions illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_policy_excepti_e0a348-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_school_phone_policy_e59b69_phone_policy_excepti_e0a348-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -707,172 +707,172 @@ The evidence from school systems using phone restrictions suggests that strict d
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: mobile phones in schools  
-   Link: [https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools](https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools)  
+   Link: <a href="https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/mobile-phones-in-schools/mobile-phones-in-schools</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Feb 2026 — This publication provides guidance to individual schools and trusts on how to implement a policy that prohibits the use of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: commonslibrary.parliament.uk  
    Title: cbp 10241  
-   Link: [https://commonslibrary.parliament.uk/research-briefings/cbp-10241/](https://commonslibrary.parliament.uk/research-briefings/cbp-10241/)  
+   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10241/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10241/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryMobile phones in schools (England)22 Jan 2026 — There is no statute or regulation prohibiting the use of mobile p...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: anti-bullyingalliance.org.uk  
    Title: new government guidance mobile phones schools and what it means bullying  
-   Link: [https://anti-bullyingalliance.org.uk/aba-our-work/news-opinion/new-government-guidance-mobile-phones-schools-and-what-it-means-bullying](https://anti-bullyingalliance.org.uk/aba-our-work/news-opinion/new-government-guidance-mobile-phones-schools-and-what-it-means-bullying)  
+   Link: <a href="https://anti-bullyingalliance.org.uk/aba-our-work/news-opinion/new-government-guidance-mobile-phones-schools-and-what-it-means-bullying" target="_blank" rel="noopener noreferrer nofollow">https://anti-bullyingalliance.org.uk/aba-our-work/news-opinion/new-government-guidance-mobile-phones-schools-and-what-it-means-bullying</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New government guidance on mobile phones in schools...26 Jan 2026 — The government&#x27;s guidance acknowledges that mobile phone use can be...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: wrigleys.co.uk  
-   Link: [https://www.wrigleys.co.uk/news/education/updated-dfe-guidance-on-mobile-phones-in-schools/](https://www.wrigleys.co.uk/news/education/updated-dfe-guidance-on-mobile-phones-in-schools/)  
+   Link: <a href="https://www.wrigleys.co.uk/news/education/updated-dfe-guidance-on-mobile-phones-in-schools/" target="_blank" rel="noopener noreferrer nofollow">https://www.wrigleys.co.uk/news/education/updated-dfe-guidance-on-mobile-phones-in-schools/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated DfE guidance on mobile phones in schools11 Feb 2026 — Reasonable adjustments should be made to the policy for pupils with disabil...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: questions-statements.parliament.uk  
-   Link: [https://questions-statements.parliament.uk/written-questions/detail/2024-04-26/23853/](https://questions-statements.parliament.uk/written-questions/detail/2024-04-26/23853/)  
+   Link: <a href="https://questions-statements.parliament.uk/written-questions/detail/2024-04-26/23853/" target="_blank" rel="noopener noreferrer nofollow">https://questions-statements.parliament.uk/written-questions/detail/2024-04-26/23853/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentSpecial Educational Needs: ICT and Mobile Phones26 Apr 2024 — Exemptions may be required for children with specific special...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wrigleys.co.uk  
    Title: new government guidance on mobile phones in schools  
-   Link: [https://www.wrigleys.co.uk/news/education/new-government-guidance-on-mobile-phones-in-schools/](https://www.wrigleys.co.uk/news/education/new-government-guidance-on-mobile-phones-in-schools/)  
+   Link: <a href="https://www.wrigleys.co.uk/news/education/new-government-guidance-on-mobile-phones-in-schools/" target="_blank" rel="noopener noreferrer nofollow">https://www.wrigleys.co.uk/news/education/new-government-guidance-on-mobile-phones-in-schools/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This includes ensuring their policy does not disadvantage disabled pupils. Allowing a...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: amhie.com  
-   Link: [https://amhie.com/reasonable-adjustments-for-mobile-phone-bans/](https://amhie.com/reasonable-adjustments-for-mobile-phone-bans/)  
+   Link: <a href="https://amhie.com/reasonable-adjustments-for-mobile-phone-bans/" target="_blank" rel="noopener noreferrer nofollow">https://amhie.com/reasonable-adjustments-for-mobile-phone-bans/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasonable adjustments for mobile phone bansSchools are required to make reasonable adjustments for pupils with specific medical conditio...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: newsinlevels.com  
-   Link: [https://newsinlevels.com/products/dutch-government-bans-phones-in-schools-level-3/](https://newsinlevels.com/products/dutch-government-bans-phones-in-schools-level-3/)  
+   Link: <a href="https://newsinlevels.com/products/dutch-government-bans-phones-in-schools-level-3/" target="_blank" rel="noopener noreferrer nofollow">https://newsinlevels.com/products/dutch-government-bans-phones-in-schools-level-3/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dutch government bans phones in schools – level 3However, devices will be allowed if they are specifically required for digital skills le...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: educationinspection.blog.gov.uk  
-   Link: [https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/](https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/)  
+   Link: <a href="https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/" target="_blank" rel="noopener noreferrer nofollow">https://educationinspection.blog.gov.uk/2026/01/23/what-the-governments-updated-guidance-on-mobile-phones-means-for-school-inspections/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ofsted EducationWhat the government&#x27;s updated guidance on mobile phones...23 Jan 2026 — The DfE guidance is clear: it expects a ban on m...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: wrigleys.co.uk  
-   Link: [https://www.wrigleys.co.uk/news/education/mobile-phones-in-schools-guidance-to-become-statutory--what-has-changed/](https://www.wrigleys.co.uk/news/education/mobile-phones-in-schools-guidance-to-become-statutory--what-has-changed/)  
+   Link: <a href="https://www.wrigleys.co.uk/news/education/mobile-phones-in-schools-guidance-to-become-statutory--what-has-changed/" target="_blank" rel="noopener noreferrer nofollow">https://www.wrigleys.co.uk/news/education/mobile-phones-in-schools-guidance-to-become-statutory--what-has-changed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>itted, including for pupils who rely on mobile devices for medical or...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: newsinlevels.com  
-   Link: [https://www.newsinlevels.com/?p=27989&post_type=products](https://www.newsinlevels.com/?p=27989&post_type=products)  
+   Link: <a href="https://www.newsinlevels.com/?p=27989&amp;post_type=products" target="_blank" rel="noopener noreferrer nofollow">https://www.newsinlevels.com/?p=27989&amp;post_type=products</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ooms. The ban will start on January 1, 2024.Read more...</p></details>
    Published: January 1, 2024  
 
 12. <a id="endnote-12"></a>
    Source: childrenscommissioner.gov.uk  
-   Link: [https://www.childrenscommissioner.gov.uk/resource/school-phone-policies-in-england-findings-from-the-childrens-commissioners-school-and-college-survey/](https://www.childrenscommissioner.gov.uk/resource/school-phone-policies-in-england-findings-from-the-childrens-commissioners-school-and-college-survey/)  
+   Link: <a href="https://www.childrenscommissioner.gov.uk/resource/school-phone-policies-in-england-findings-from-the-childrens-commissioners-school-and-college-survey/" target="_blank" rel="noopener noreferrer nofollow">https://www.childrenscommissioner.gov.uk/resource/school-phone-policies-in-england-findings-from-the-childrens-commissioners-school-and-college-survey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>School phone policies in England: Findings from the...10 Apr 2025 — Schools should continue to have clear policies on mobile phone use...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: assets.childrenscommissioner.gov.uk  
    Title: cco school survey smartphone policies  
-   Link: [https://assets.childrenscommissioner.gov.uk/wpuploads/2025/04/cco-school-survey-smartphone-policies.pdf](https://assets.childrenscommissioner.gov.uk/wpuploads/2025/04/cco-school-survey-smartphone-policies.pdf)  
+   Link: <a href="https://assets.childrenscommissioner.gov.uk/wpuploads/2025/04/cco-school-survey-smartphone-policies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.childrenscommissioner.gov.uk/wpuploads/2025/04/cco-school-survey-smartphone-policies.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly half of secondary schools made...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: doyleclayton.co.uk  
-   Link: [https://doyleclayton.co.uk/mobile-phone-bans-in-schools-what-the-government-guidance-means-for-school-children-and-their-parents/](https://doyleclayton.co.uk/mobile-phone-bans-in-schools-what-the-government-guidance-means-for-school-children-and-their-parents/)  
+   Link: <a href="https://doyleclayton.co.uk/mobile-phone-bans-in-schools-what-the-government-guidance-means-for-school-children-and-their-parents/" target="_blank" rel="noopener noreferrer nofollow">https://doyleclayton.co.uk/mobile-phone-bans-in-schools-what-the-government-guidance-means-for-school-children-and-their-parents/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doyle ClaytonMobile phone bans in schools: what the Government...14 May 2026 — Sensible exceptions and reasonable adjustments where need...</p></details>
    Published: May 2026  
 
 15. <a id="endnote-15"></a>
    Source: warlinghamtlt.co.uk  
-   Link: [https://www.warlinghamtlt.co.uk/attachments/download.asp?file=364&type=pdf](https://www.warlinghamtlt.co.uk/attachments/download.asp?file=364&type=pdf)  
+   Link: <a href="https://www.warlinghamtlt.co.uk/attachments/download.asp?file=364&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.warlinghamtlt.co.uk/attachments/download.asp?file=364&amp;type=pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Warlingham School &amp; Sixth Form CollegePARENT GUIDE MOBILE PHONE POLICYStudents may bring a basic “brick” phone for travel safety, but it...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: stoneking.co.uk  
    Title: guidance schools mobile phones ban  
-   Link: [https://www.stoneking.co.uk/literature/e-bulletins/guidance-schools-mobile-phones-ban](https://www.stoneking.co.uk/literature/e-bulletins/guidance-schools-mobile-phones-ban)  
+   Link: <a href="https://www.stoneking.co.uk/literature/e-bulletins/guidance-schools-mobile-phones-ban" target="_blank" rel="noopener noreferrer nofollow">https://www.stoneking.co.uk/literature/e-bulletins/guidance-schools-mobile-phones-ban</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stone KingGuidance for schools on the mobile phones ban6 May 2026 — Ensure that there is a clear policy prohibiting mobile phones and sim...</p></details>
    Published: May 2026  
 
 17. <a id="endnote-17"></a>
    Source: eurydice.eacea.ec.europa.eu  
    Title: netherlands ban mobile phones classroom  
-   Link: [https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom](https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EurydiceNetherlands: A ban on mobile phones in the classroom26 Jun 2025 — The ban aims to encourage discussions and social interactions w...</p></details>
+   Link: <a href="https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom" target="_blank" rel="noopener noreferrer nofollow">https://eurydice.eacea.ec.europa.eu/news/netherlands-ban-mobile-phones-classroom</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Netherlands: A ban on mobile phones in the classroom26 Jun 2025 — The ban aims to encourage discussions and social interactions w...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: oudersenonderwijs.nl  
    Title: Schools make their own agreements about this.Read more  
-   Link: [https://oudersenonderwijs.nl/en/niet-gecategoriseerd/no-mobile-phones-anymore-in-primary-and-special-education-classes/](https://oudersenonderwijs.nl/en/niet-gecategoriseerd/no-mobile-phones-anymore-in-primary-and-special-education-classes/)  
+   Link: <a href="https://oudersenonderwijs.nl/en/niet-gecategoriseerd/no-mobile-phones-anymore-in-primary-and-special-education-classes/" target="_blank" rel="noopener noreferrer nofollow">https://oudersenonderwijs.nl/en/niet-gecategoriseerd/no-mobile-phones-anymore-in-primary-and-special-education-classes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ouders &amp; OnderwijsNo more mobile phones in classes in primary and special...Nov 7, 2023 — Exceptions are possible: mobile phones may be...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: oudersenonderwijs.nl  
-   Link: [https://oudersenonderwijs.nl/en/mobile-phone-ban/](https://oudersenonderwijs.nl/en/mobile-phone-ban/)  
+   Link: <a href="https://oudersenonderwijs.nl/en/mobile-phone-ban/" target="_blank" rel="noopener noreferrer nofollow">https://oudersenonderwijs.nl/en/mobile-phone-ban/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ouders &amp; OnderwijsBan on mobile phones in class: what is the rule?The phone ban is a national rule and applies to all schools in the Neth...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dera.ioe.ac.uk  
    Title: ioe.ac.uk Mobile phones in schools  
-   Link: [https://dera.ioe.ac.uk/id/eprint/41821/1/Mobile%20phones%20in%20schools%20-%20GOV.UK.pdf](https://dera.ioe.ac.uk/id/eprint/41821/1/Mobile%20phones%20in%20schools%20-%20GOV.UK.pdf)  
+   Link: <a href="https://dera.ioe.ac.uk/id/eprint/41821/1/Mobile%20phones%20in%20schools%20-%20GOV.UK.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dera.ioe.ac.uk/id/eprint/41821/1/Mobile%20phones%20in%20schools%20-%20GOV.UK.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>phones in schools - GOV.UK19 Jan 2026 — The Department for Education (DfE) expects schools to implement a policy whereby pupils do not ha...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: doyleclayton.co.uk  
-   Link: [https://www.doyleclayton.co.uk/resources/insights/government-guidance-on-banning-mobile-phones-in-schools-a-schools-tool-not-the-whole-toolbox/](https://www.doyleclayton.co.uk/resources/insights/government-guidance-on-banning-mobile-phones-in-schools-a-schools-tool-not-the-whole-toolbox/)  
+   Link: <a href="https://www.doyleclayton.co.uk/resources/insights/government-guidance-on-banning-mobile-phones-in-schools-a-schools-tool-not-the-whole-toolbox/" target="_blank" rel="noopener noreferrer nofollow">https://www.doyleclayton.co.uk/resources/insights/government-guidance-on-banning-mobile-phones-in-schools-a-schools-tool-not-the-whole-toolbox/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The policy must be...Read more...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399549799_Disconnect_To_Reconnect_How_Variations_between_Types_of_Smartphone_Bans_Influence_Students%27_Well-being_and_Social_Connectedness_in_Dutch_Secondary_Education](https://www.researchgate.net/publication/399549799_Disconnect_To_Reconnect_How_Variations_between_Types_of_Smartphone_Bans_Influence_Students%27_Well-being_and_Social_Connectedness_in_Dutch_Secondary_Education)  
+   Link: <a href="https://www.researchgate.net/publication/399549799_Disconnect_To_Reconnect_How_Variations_between_Types_of_Smartphone_Bans_Influence_Students%27_Well-being_and_Social_Connectedness_in_Dutch_Secondary_Education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399549799_Disconnect_To_Reconnect_How_Variations_between_Types_of_Smartphone_Bans_Influence_Students%27_Well-being_and_Social_Connectedness_in_Dutch_Secondary_Education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Variations between Types of Smartphone Bans...11 Jan 2026 — Some schools apply smartphone restrictions to the classroom only (partia...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/natalie-h-56a61a193_mobile-phone-use-in-schools-which-pupils-activity-7422292596028313600-5qvH](https://www.linkedin.com/posts/natalie-h-56a61a193_mobile-phone-use-in-schools-which-pupils-activity-7422292596028313600-5qvH)  
+   Link: <a href="https://www.linkedin.com/posts/natalie-h-56a61a193_mobile-phone-use-in-schools-which-pupils-activity-7422292596028313600-5qvH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/natalie-h-56a61a193_mobile-phone-use-in-schools-which-pupils-activity-7422292596028313600-5qvH</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DfE Guidance on Mobile Phones in Schools: Exemptions...New guidance from the Department for Education (DfE) is clear: all schools should...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: stepteachers.co.uk  
-   Link: [https://www.stepteachers.co.uk/blog/2024/04/navigating-the-new-government-guidance-on-mobile-phone-management](https://www.stepteachers.co.uk/blog/2024/04/navigating-the-new-government-guidance-on-mobile-phone-management)  
+   Link: <a href="https://www.stepteachers.co.uk/blog/2024/04/navigating-the-new-government-guidance-on-mobile-phone-management" target="_blank" rel="noopener noreferrer nofollow">https://www.stepteachers.co.uk/blog/2024/04/navigating-the-new-government-guidance-on-mobile-phone-management</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the New Government Guidance on Mobile PhoneThe UK government has provided updated guidance for schools regarding the managemen...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/one-education-ltd_safeguarding-safeguardingchildren-childprotection-activity-7422250866369400832-DEIF](https://www.linkedin.com/posts/one-education-ltd_safeguarding-safeguardingchildren-childprotection-activity-7422250866369400832-DEIF)  
+   Link: <a href="https://www.linkedin.com/posts/one-education-ltd_safeguarding-safeguardingchildren-childprotection-activity-7422250866369400832-DEIF" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/one-education-ltd_safeguarding-safeguardingchildren-childprotection-activity-7422250866369400832-DEIF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Schools to Ban Mobile Phones: DfE Guidance28 Jan 2026 — New DfE guidance states that “all schools should be mobile phone-free environm...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/jul/04/dutch-schools-phone-ban-has-improved-learning-study-finds](https://www.theguardian.com/world/2025/jul/04/dutch-schools-phone-ban-has-improved-learning-study-finds)  
+   Link: <a href="https://www.theguardian.com/world/2025/jul/04/dutch-schools-phone-ban-has-improved-learning-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/jul/04/dutch-schools-phone-ban-has-improved-learning-study-finds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since national guidelines were introduced in January 2024 advocating for phone bans in classrooms, most Dutch schools have complied. The...</p></details>
    Published: January 2024  
 
 27. <a id="endnote-27"></a>
    Source: app.croneri.co.uk  
-   Link: [https://app.croneri.co.uk/topics/ict-services-and-use-child-protection/pupil-mobile-phone-policy?topic=3890](https://app.croneri.co.uk/topics/ict-services-and-use-child-protection/pupil-mobile-phone-policy?topic=3890)  
+   Link: <a href="https://app.croneri.co.uk/topics/ict-services-and-use-child-protection/pupil-mobile-phone-policy?topic=3890" target="_blank" rel="noopener noreferrer nofollow">https://app.croneri.co.uk/topics/ict-services-and-use-child-protection/pupil-mobile-phone-policy?topic=3890</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile Phone PolicyDepartment for Education (DfE) guidance states that all schools should be mobile phone free environments. The view of...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: moorebarlow.com  
    Title: dfes updated mobile phone guidance implications for independent schools  
-   Link: [https://www.moorebarlow.com/blog/dfes-updated-mobile-phone-guidance-implications-for-independent-schools/](https://www.moorebarlow.com/blog/dfes-updated-mobile-phone-guidance-implications-for-independent-schools/)  
+   Link: <a href="https://www.moorebarlow.com/blog/dfes-updated-mobile-phone-guidance-implications-for-independent-schools/" target="_blank" rel="noopener noreferrer nofollow">https://www.moorebarlow.com/blog/dfes-updated-mobile-phone-guidance-implications-for-independent-schools/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DfE&#x27;s updated mobile phone guidance: implications for...23 Mar 2026 — The guidance reiterates the need for reasonable adjustments for pu...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: thedailystar.net  
    Title: phone ban school boosted student focus dutch government study 3933971  
-   Link: [https://www.thedailystar.net/tech-startup/news/phone-ban-school-boosted-student-focus-dutch-government-study-3933971](https://www.thedailystar.net/tech-startup/news/phone-ban-school-boosted-student-focus-dutch-government-study-3933971)  
+   Link: <a href="https://www.thedailystar.net/tech-startup/news/phone-ban-school-boosted-student-focus-dutch-government-study-3933971" target="_blank" rel="noopener noreferrer nofollow">https://www.thedailystar.net/tech-startup/news/phone-ban-school-boosted-student-focus-dutch-government-study-3933971</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phone ban in school boosted student focus: Dutch...7 Jul 2025 — The policy includes reasonable exceptions, such as for medical needs, al...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: oneeducation.co.uk  
    Title: mobile phones in schools new dfe guidance and ofsted expectations  
-   Link: [https://www.oneeducation.co.uk/mobile-phones-in-schools-new-dfe-guidance-and-ofsted-expectations/](https://www.oneeducation.co.uk/mobile-phones-in-schools-new-dfe-guidance-and-ofsted-expectations/)  
+   Link: <a href="https://www.oneeducation.co.uk/mobile-phones-in-schools-new-dfe-guidance-and-ofsted-expectations/" target="_blank" rel="noopener noreferrer nofollow">https://www.oneeducation.co.uk/mobile-phones-in-schools-new-dfe-guidance-and-ofsted-expectations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile phones in schools: New DfE guidance and Ofsted...27 Jan 2026 — Schools must, as with any other aspect of school life, consider th...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: childlawadvice.org.uk  
-   Link: [https://childlawadvice.org.uk/mobile-phones-to-be-banned-in-schools-in-england-under-government-plans/](https://childlawadvice.org.uk/mobile-phones-to-be-banned-in-schools-in-england-under-government-plans/)  
+   Link: <a href="https://childlawadvice.org.uk/mobile-phones-to-be-banned-in-schools-in-england-under-government-plans/" target="_blank" rel="noopener noreferrer nofollow">https://childlawadvice.org.uk/mobile-phones-to-be-banned-in-schools-in-england-under-government-plans/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an amendment in the House of Lords to the Children&#x27;s [Wellbeing](&amp;#123;&amp;#123; &#x27;wellbeing/&#x27; | relative_url &amp;#125;&amp;#125;) and Schools...Read more...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:46:23'
 parent_title: Is Old the Same as Right? | Fallacy Lab
 parent_permalink: /tradition/
 parent_nav_short_title: Tradition
@@ -265,7 +266,6 @@ next_link:
   permalink: /time-tested/
   short_title: Time Tested
   heading_title: What Has Time Really Tested?
-date: '2026-06-05 02:46:23 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1.webp
@@ -274,11 +274,11 @@ image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status
 
 ## Introduction
 
-Status quo bias is the tendency to prefer the current state of affairs simply because it is the current state. Within discussions of [appeal to tradition]({{ 'tradition/' | relative_url }}) and familiar practices, it helps explain why existing methods often seem safer, more sensible or less risky than proposed alternatives, even when nobody has compared the options carefully. Researchers have repeatedly found that people disproportionately stick with default choices and established arrangements, not necessarily because those options are better, but because change feels uncertain and psychologically costly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Status quo bias in decision making</span><span class="citation-popover-snippet">SpringerStatus quo bias in decision making - Springer Natureby W Samuelson · 1988 · Cited by 9272 — A series of decision-making experimen...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</span></span></span>
+Status quo bias is the tendency to prefer the current state of affairs simply because it is the current state. Within discussions of appeal to [tradition]({{ 'tradition/' | relative_url }}) and familiar practices, it helps explain why existing methods often seem safer, more sensible or less risky than proposed alternatives, even when nobody has compared the options carefully. Researchers have repeatedly found that people disproportionately stick with default choices and established arrangements, not necessarily because those options are better, but because change feels uncertain and psychologically costly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Status quo bias in decision making</span><span class="citation-popover-snippet">Status quo bias in decision making - Springer Natureby W Samuelson · 1988 · Cited by 9272 — A series of decision-making experimen...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-dark.svg" | relative_url }}" alt="Status Quo illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This bias matters because it can make familiar practices appear self-justifying. When people argue that a procedure, rule or habit should continue because it is already in place, they may be relying less on evidence and more on a cognitive preference for what feels normal. Status quo bias therefore provides one of the psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) that can make appeal-to-[tradition]({{ 'tradition/' | relative_url }}) arguments persuasive.
+This bias matters because it can make familiar practices appear self-justifying. When people argue that a procedure, rule or habit should continue because it is already in place, they may be relying less on evidence and more on a cognitive preference for what feels normal. Status quo bias therefore provides one of the psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) that can make appeal-to-tradition arguments persuasive.
 
 ## How the Current Option Gains an Unfair Advantage
 
@@ -815,180 +815,180 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
    Title: Status quo bias in decision making  
-   Link: [https://link.springer.com/article/10.1007/BF00055564](https://link.springer.com/article/10.1007/BF00055564)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerStatus quo bias in decision making - Springer Natureby W Samuelson · 1988 · Cited by 9272 — A series of decision-making experimen...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF00055564</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias in decision making - Springer Natureby W Samuelson · 1988 · Cited by 9272 — A series of decision-making experimen...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making](https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making)  
+   Link: <a href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Status quo bias  
-   Link: [https://en.wikipedia.org/wiki/Status_quo_bias](https://en.wikipedia.org/wiki/Status_quo_bias)  
+   Link: <a href="https://en.wikipedia.org/wiki/Status_quo_bias" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Status_quo_bias</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12413501/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Donation Decisions: When Deviating from the Status...by M Motsenok · 2025 — Our research contributes to the decision-making literature o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/273914178_Putting_Public_Policy_Defaults_to_the_Test_The_Case_of_Organ_Donor_Registration](https://www.researchgate.net/publication/273914178_Putting_Public_Policy_Defaults_to_the_Test_The_Case_of_Organ_Donor_Registration)  
+   Link: <a href="https://www.researchgate.net/publication/273914178_Putting_Public_Policy_Defaults_to_the_Test_The_Case_of_Organ_Donor_Registration" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273914178_Putting_Public_Policy_Defaults_to_the_Test_The_Case_of_Organ_Donor_Registration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of Organ Donor Registration | Request PDFGovernments using behavioural insights in public policy increasingly change defaults in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/375551554_An_Analysis_of_Status_Quo_Bias_and_Its_Applications_in_Behavioral_Economics](https://www.researchgate.net/publication/375551554_An_Analysis_of_Status_Quo_Bias_and_Its_Applications_in_Behavioral_Economics)  
+   Link: <a href="https://www.researchgate.net/publication/375551554_An_Analysis_of_Status_Quo_Bias_and_Its_Applications_in_Behavioral_Economics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375551554_An_Analysis_of_Status_Quo_Bias_and_Its_Applications_in_Behavioral_Economics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An Analysis of Status Quo Bias and Its Applications...2 May 2026 — Status quo bias is a common psychological bias in decision-maki...</p></details>
    Published: May 2026  
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/328137078_Omission_and_commission_in_judgment_and_decision_making_Understanding_and_linking_action-inaction_effects_using_the_concept_of_normality](https://www.researchgate.net/publication/328137078_Omission_and_commission_in_judgment_and_decision_making_Understanding_and_linking_action-inaction_effects_using_the_concept_of_normality)  
+   Link: <a href="https://www.researchgate.net/publication/328137078_Omission_and_commission_in_judgment_and_decision_making_Understanding_and_linking_action-inaction_effects_using_the_concept_of_normality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328137078_Omission_and_commission_in_judgment_and_decision_making_Understanding_and_linking_action-inaction_effects_using_the_concept_of_normality</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status-quo bias and default bias seem to represent a different phenomenon than the. action-effect and omission bias (Schweitzer...Read...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389092488_I_%27ll_have_what_I_had_before_but_with_a_cherry_on_top_leveraging_status_quo_bias_when_introducing_organizational_change](https://www.researchgate.net/publication/389092488_I_%27ll_have_what_I_had_before_but_with_a_cherry_on_top_leveraging_status_quo_bias_when_introducing_organizational_change)  
+   Link: <a href="https://www.researchgate.net/publication/389092488_I_%27ll_have_what_I_had_before_but_with_a_cherry_on_top_leveraging_status_quo_bias_when_introducing_organizational_change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389092488_I_%27ll_have_what_I_had_before_but_with_a_cherry_on_top_leveraging_status_quo_bias_when_introducing_organizational_change</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>leveraging status quo bias when introducing organizational...add a small feature that provides a “reason to change”, and employee suppor...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11301-022-00283-8](https://link.springer.com/article/10.1007/s11301-022-00283-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11301-022-00283-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of current...by ME Godefroid · 2023 · Cited by 135 — Samuelson and Zeckhauser (1988) identified the cognitive misperception of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Status Quo Bias: Why We Resist Change (3-Minute Explainer)  
-   Link: [https://www.youtube.com/watch?v=pGn0K6SrMa0](https://www.youtube.com/watch?v=pGn0K6SrMa0)  
+   Link: <a href="https://www.youtube.com/watch?v=pGn0K6SrMa0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pGn0K6SrMa0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Every Critical Thinking Trap Explained in 8 Minutes...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Every Critical Thinking Trap Explained in 8 Minutes  
-   Link: [https://www.youtube.com/watch?v=pCxu_NJBbX8](https://www.youtube.com/watch?v=pCxu_NJBbX8)  
+   Link: <a href="https://www.youtube.com/watch?v=pCxu_NJBbX8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pCxu_NJBbX8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias - Cognitive Bias Mini Series (13/20) - Mental Models...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Status Quo Bias  
-   Link: [https://www.youtube.com/watch?v=AYUH3MF12uM](https://www.youtube.com/watch?v=AYUH3MF12uM)  
+   Link: <a href="https://www.youtube.com/watch?v=AYUH3MF12uM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AYUH3MF12uM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brainy Business podcast ep 376...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Status Quo Bias | The Brainy Business podcast ep 376  
-   Link: [https://www.youtube.com/watch?v=Ox2w3EhtLB4](https://www.youtube.com/watch?v=Ox2w3EhtLB4)  
+   Link: <a href="https://www.youtube.com/watch?v=Ox2w3EhtLB4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ox2w3EhtLB4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Behavioral Finance Biases: Status Quo Bias Example...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: executiveeducation.wharton.upenn.edu  
-   Link: [https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/](https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/)  
+   Link: <a href="https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://executiveeducation.wharton.upenn.edu/thought-leadership/wharton-online-insights/status-quo-bias/</a>  
 
 15. <a id="endnote-15"></a>
    Source: rzeckhauser.scholars.harvard.edu  
    Title: Status Quo Bias in Decision Making  
-   Link: [https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making](https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making)  
+   Link: <a href="https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://rzeckhauser.scholars.harvard.edu/publications/status-quo-bias-decision-making</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quo Bias in Decision Making - Richard ZeckhauserWilliam Samuelson and Richard Zeckhauser. 1988. “Status Quo Bias in Decision Making”. Jou...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: learningloop.io  
-   Link: [https://learningloop.io/plays/psychology/status-quo-bias](https://learningloop.io/plays/psychology/status-quo-bias)  
+   Link: <a href="https://learningloop.io/plays/psychology/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://learningloop.io/plays/psychology/status-quo-bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Overcome hesitation to drive changeUse status quo bias to prompt users to change behavior when they need to - step-by-st...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/status-quo-bias](https://thedecisionlab.com/biases/status-quo-bias)  
+   Link: <a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo BiasFirst, we prefer the norm because of two other cognitive biases: loss aversion and regret avoidance. Second, we prefer the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/intervention/bias-in-organ-donation](https://thedecisionlab.com/intervention/bias-in-organ-donation)  
+   Link: <a href="https://thedecisionlab.com/intervention/bias-in-organ-donation" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/bias-in-organ-donation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabBias in organ donationResults showed that in the countries using the opt-out structure, organ donation rates were close t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: suebehaviouraldesign.com  
    Title: status quo bias at work  
-   Link: [https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/](https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/)  
+   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Every alternative is unconsciously measured against the current situation as the...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
    Title: To change or not to change?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S016726812400235X](https://www.sciencedirect.com/science/article/abs/pii/S016726812400235X)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>– Status quo bias and...by G Barokas · 2024 · Cited by 8 — In this study, we explore the relationship between SQB and subjective well-be...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S016726812400235X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S016726812400235X</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias and...by G Barokas · 2024 · Cited by 8 — In this study, we explore the relationship between SQB and subjective well-be...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/pdf/41760530.pdf](https://www.jstor.org/stable/pdf/41760530.pdf)  
+   Link: <a href="https://www.jstor.org/stable/pdf/41760530.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/pdf/41760530.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias in Decision Makingby W SAMUELSON · 1988 · Cited by 9272 — Most real decisions, unlike those of economics texts, have a st...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchprospect.com  
-   Link: [https://www.researchprospect.com/what-is-the-status-quo-bias/](https://www.researchprospect.com/what-is-the-status-quo-bias/)  
+   Link: <a href="https://www.researchprospect.com/what-is-the-status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.researchprospect.com/what-is-the-status-quo-bias/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Meaning &amp; Examples17 Jul 2023 — 2: Endowment Effect, Loss Aversion, and Status Quo Bias; 3: Causes; 4: How to Overcome...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: communicationcache.com  
-   Link: [https://www.communicationcache.com/uploads/1/0/8/8/10887248/status_quo_bias_in_decision_making.pdf](https://www.communicationcache.com/uploads/1/0/8/8/10887248/status_quo_bias_in_decision_making.pdf)  
+   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/status_quo_bias_in_decision_making.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/status_quo_bias_in_decision_making.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias in Decision MakingA series of decision-making experiments shows that individuals disproportionately stick with the status...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: verywellmind.com  
    Title: status quo bias psychological definition 4065385  
-   Link: [https://www.verywellmind.com/status-quo-bias-psychological-definition-4065385](https://www.verywellmind.com/status-quo-bias-psychological-definition-4065385)  
+   Link: <a href="https://www.verywellmind.com/status-quo-bias-psychological-definition-4065385" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/status-quo-bias-psychological-definition-4065385</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Status Quo Bias Affects Our DecisionsDec 15, 2025 — The status quo bias is a type of cognitive bias that involves the preference...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: behavioraleconomics.com  
    Title: Status quo bias  
-   Link: [https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/status-quo-bias/](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/status-quo-bias/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| The BE HubDec 4, 2024 — Status quo bias is evident when people prefer things to stay the same by doing nothing (see also inertia) or by...</p></details>
+   Link: <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/status-quo-bias/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubDec 4, 2024 — Status quo bias is evident when people prefer things to stay the same by doing nothing (see also inertia) or by...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: economicshelp.org  
    Title: status quo bias  
-   Link: [https://www.economicshelp.org/blog/glossary/status-quo-bias/](https://www.economicshelp.org/blog/glossary/status-quo-bias/)  
+   Link: <a href="https://www.economicshelp.org/blog/glossary/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.economicshelp.org/blog/glossary/status-quo-bias/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Interestingly Samuelson, W., &amp; Zeckhauser (1988) found a preference for the status quo was greater with more choices. This suggests that...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: technologyadoptionbarriers.org  
    Title: bibliography 1 5 status quo bias samuelson zeckhauser 1988  
-   Link: [https://technologyadoptionbarriers.org/bibliography-1-5-status-quo-bias-samuelson-zeckhauser-1988/](https://technologyadoptionbarriers.org/bibliography-1-5-status-quo-bias-samuelson-zeckhauser-1988/)  
+   Link: <a href="https://technologyadoptionbarriers.org/bibliography-1-5-status-quo-bias-samuelson-zeckhauser-1988/" target="_blank" rel="noopener noreferrer nofollow">https://technologyadoptionbarriers.org/bibliography-1-5-status-quo-bias-samuelson-zeckhauser-1988/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias – Samuelson &amp; Zeckhauser (1988) | TABSFor system design in organizational and consumer contexts, understanding status quo...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: scite.ai  
-   Link: [https://scite.ai/reports/status-quo-bias-in-decision-bWYj58](https://scite.ai/reports/status-quo-bias-in-decision-bWYj58)  
+   Link: <a href="https://scite.ai/reports/status-quo-bias-in-decision-bWYj58" target="_blank" rel="noopener noreferrer nofollow">https://scite.ai/reports/status-quo-bias-in-decision-bWYj58</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias in decision makingData on the selections of health plans and retirement programs by faculty members reveal that the statu...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: insidebe.com  
-   Link: [https://insidebe.com/articles/status-quo-bias/](https://insidebe.com/articles/status-quo-bias/)  
+   Link: <a href="https://insidebe.com/articles/status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://insidebe.com/articles/status-quo-bias/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Everything You Need to KnowStatus quo bias is a subconscious, cognitive bias that causes us to stick with the way things...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: stafforini.com  
-   Link: [https://stafforini.com/works/samuelson-1988-status-quo-bias/](https://stafforini.com/works/samuelson-1988-status-quo-bias/)  
+   Link: <a href="https://stafforini.com/works/samuelson-1988-status-quo-bias/" target="_blank" rel="noopener noreferrer nofollow">https://stafforini.com/works/samuelson-1988-status-quo-bias/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status quo bias in decision makingA series of decision-making experiments shows that individuals disproportionately stick with the status...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: andrewclark.co.uk  
-   Link: [https://andrewclark.co.uk/all-media/status-quo-bias-in-decision-making](https://andrewclark.co.uk/all-media/status-quo-bias-in-decision-making)  
+   Link: <a href="https://andrewclark.co.uk/all-media/status-quo-bias-in-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://andrewclark.co.uk/all-media/status-quo-bias-in-decision-making</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Product Management Book SummariesStatus Quo Bias in Decision MakingData on the selections of health plans and retirement programs by facu...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: ifo.de  
-   Link: [https://www.ifo.de/DocDL/dice-report-2016-4-li-nikolka-december.pdf](https://www.ifo.de/DocDL/dice-report-2016-4-li-nikolka-december.pdf)  
+   Link: <a href="https://www.ifo.de/DocDL/dice-report-2016-4-li-nikolka-december.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ifo.de/DocDL/dice-report-2016-4-li-nikolka-december.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>le gravitate toward the status quo because the losses weigh more heavily psychologically than the...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: jbsfm.org  
-   Link: [https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/](https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/)  
+   Link: <a href="https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/" target="_blank" rel="noopener noreferrer nofollow">https://jbsfm.org/vol3no1/biases-in-managerial-decision-making--overconfidence--status-quo--anchoring--hindsight--availability/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Games and Economic Behavior, 69(2), 411–...</p></details>
 
 4
@@ -1001,37 +1001,37 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
 34. <a id="endnote-34"></a>
    Source: emerald.com  
    Title: Remind me that I matter how self worth bias can  
-   Link: [https://www.emerald.com/jocm/article/37/8/53/1231474/Remind-me-that-I-matter-how-self-worth-bias-can](https://www.emerald.com/jocm/article/37/8/53/1231474/Remind-me-that-I-matter-how-self-worth-bias-can)  
+   Link: <a href="https://www.emerald.com/jocm/article/37/8/53/1231474/Remind-me-that-I-matter-how-self-worth-bias-can" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/jocm/article/37/8/53/1231474/Remind-me-that-I-matter-how-self-worth-bias-can</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>quo bias, Loss aversion, Organizational change, Change management, Leadership, Communication... Much of the aforementioned loss averse d...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/defaults-and-donation-decisions-2nwbeg022d.pdf](https://scispace.com/pdf/defaults-and-donation-decisions-2nwbeg022d.pdf)  
+   Link: <a href="https://scispace.com/pdf/defaults-and-donation-decisions-2nwbeg022d.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/defaults-and-donation-decisions-2nwbeg022d.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e number of individuals who decide to become...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: trainingpractice.co.nz  
    Title: the status quo bias and you  
-   Link: [https://www.trainingpractice.co.nz/post/the-status-quo-bias-and-you](https://www.trainingpractice.co.nz/post/the-status-quo-bias-and-you)  
+   Link: <a href="https://www.trainingpractice.co.nz/post/the-status-quo-bias-and-you" target="_blank" rel="noopener noreferrer nofollow">https://www.trainingpractice.co.nz/post/the-status-quo-bias-and-you</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jul 2021 — In 1988 researchers William Samuelson and Richard Zeckhauser coined the term &#x27;status quo bias&#x27;. A series of decision-making...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: ijsser.org  
-   Link: [https://ijsser.org/2025files/ijsser_10__161.pdf](https://ijsser.org/2025files/ijsser_10__161.pdf)  
+   Link: <a href="https://ijsser.org/2025files/ijsser_10__161.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsser.org/2025files/ijsser_10__161.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behavioral Economics of Organ Donationby HM Kirtikumar — Likewise, the status quo bias favors the default option, which in opt-out sy...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8349348/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to donate organs: do what you like or like what we do?by S Beraldo · 2021 · Cited by 39 — An effective method to increase the number of p...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3059787/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3059787/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3059787/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3059787/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A suboptimal bias toward accepting the status quo option in decision-making is well established behaviorally, but the underlying...Read...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: ideas.repec.org  
    Title: v1y1988i1p7 59  
-   Link: [https://ideas.repec.org/r/kap/jrisku/v1y1988i1p7-59.html](https://ideas.repec.org/r/kap/jrisku/v1y1988i1p7-59.html)  
+   Link: <a href="https://ideas.repec.org/r/kap/jrisku/v1y1988i1p7-59.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/r/kap/jrisku/v1y1988i1p7-59.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Status Quo Bias in Decision Making&quot;Status Quo Effect and Preferences Uncertainty: A Heteroscedastic Extreme Value (HEV) Model,&quot; Jurnal...</p></details>

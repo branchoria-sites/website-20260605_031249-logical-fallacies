@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:43:47'
 parent_title: Does Hypocrisy Refute the Claim? | Fallacy Lab
 parent_permalink: /tu-quoque/
 parent_nav_short_title: Tu Quoque
@@ -265,7 +266,6 @@ next_link:
   permalink: /feasibility/
   short_title: Feasibility
   heading_title: Does Hypocrisy Reveal Hidden Costs?
-date: '2026-06-05 01:43:47 '
 header:
   og_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_double_standards_rul_f06f72-Illustration-1.webp
@@ -319,7 +319,7 @@ The same logic appears in many settings:
 In each case, comparison is necessary because the complaint concerns unequal treatment. The accusation is not merely “you are hypocritical.” It is “your enforcement practices are inconsistent with the standards you claim to uphold.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commission.europa.eu">[European Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commission.europa.eu</span><span class="citation-popover-title">European Commission What is the rule of law?</span><span class="citation-popover-snippet">European CommissionUnder the rule of law, all public powers always act within the constraints set out by law, in accordance with the valu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: venice.coe.int">[2venice.coe.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">venice.coe.int</span><span class="citation-popover-snippet">Rule of Law ChecklistEquality before the law and non-discrimination. 1. Principle. Does the... Is there a perception that prosecutorial...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/36-Xv16NZ_c" title="Tu quoque: You Too?!? - Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=36-Xv16NZ_c" target="_blank" rel="noopener noreferrer">Tu quoque: You Too?!? - Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 9.2K &middot; Uploaded: September 2020 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=36-Xv16NZ_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=36-Xv16NZ_c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jqMEarZ9r8A" title="Bernadette&#x27;s Hypocrisy Exposed: What is Special Pleading? | Logical Fallacies in The Big Bang Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jqMEarZ9r8A" target="_blank" rel="noopener noreferrer">Bernadette&#x27;s Hypocrisy Exposed: What is Special Pleading? | Logical Fallacies in The Big Bang Theory</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 1.7K &middot; Uploaded: April 2024 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jqMEarZ9r8A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jqMEarZ9r8A">Open on YouTube</a></p></div></div></div>
 
 ## Selective Enforcement Versus Distraction
 
@@ -381,7 +381,7 @@ The presence of unequal outcomes alone does not prove a double standard. The key
 This is why many accusations of hypocrisy become contentious. One side sees two equivalent cases receiving different treatment. The other side argues that the cases differ in ways that matter. The [debate]({{ 'debate/' | relative_url }}) then shifts from moral [outrage]({{ 'outrage/' | relative_url }}) to the more precise question of whether the distinctions are relevant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fra.europa.eu/en/eu-charter/article/20-equality-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fra.europa.eu">[EU Agency for Fundamental Rights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fra.europa.eu</span><span class="citation-popover-title">EU Agency for Fundamental Rights Article 20</span><span class="citation-popover-snippet">EU Agency for Fundamental RightsArticle 20 - Equality before the lawArticle 16 (1) Citizens are equal before the law and public authoriti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: undp.org">[UNDP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">undp.org</span><span class="citation-popover-snippet">6. The principles of equality and non-discrimination are a.Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jqMEarZ9r8A" title="Bernadette&#x27;s Hypocrisy Exposed: What is Special Pleading? | Logical Fallacies in The Big Bang Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jqMEarZ9r8A" target="_blank" rel="noopener noreferrer">Bernadette&#x27;s Hypocrisy Exposed: What is Special Pleading? | Logical Fallacies in The Big Bang Theory</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 1.7K &middot; Uploaded: April 2024 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jqMEarZ9r8A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jqMEarZ9r8A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Men872PWMfI" title="Logcial Fallacies: Special Pleading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Men872PWMfI" target="_blank" rel="noopener noreferrer">Logcial Fallacies: Special Pleading</a></p><p class="youtube-embed-meta">Channel: Bitesize Philosophy &middot; Views: 1.7K &middot; Uploaded: August 2023 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Men872PWMfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Men872PWMfI">Open on YouTube</a></p></div></div></div>
 
 ## Selective Enforcement and Institutional Legitimacy
 
@@ -437,7 +437,7 @@ When these conditions are met, pointing out inconsistency is not merely rhetoric
 Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is the crucial lesson. Not every accusation of hypocrisy is a tu quoque fallacy. When the fairness of enforcement is itself under examination, comparisons between cases are often essential. The challenge is to determine whether the comparison exposes unequal treatment or merely shifts attention away from the issue being judged.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Men872PWMfI" title="Logcial Fallacies: Special Pleading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Men872PWMfI" target="_blank" rel="noopener noreferrer">Logcial Fallacies: Special Pleading</a></p><p class="youtube-embed-meta">Channel: Bitesize Philosophy &middot; Views: 1.7K &middot; Uploaded: August 2023 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Men872PWMfI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Men872PWMfI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/36-Xv16NZ_c" title="Tu quoque: You Too?!? - Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=36-Xv16NZ_c" target="_blank" rel="noopener noreferrer">Tu quoque: You Too?!? - Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 9.2K &middot; Uploaded: September 2020 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=36-Xv16NZ_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=36-Xv16NZ_c">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -861,154 +861,154 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
 
 1. <a id="endnote-1"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/AIKTQA](https://philpapers.org/rec/AIKTQA)  
+   Link: <a href="https://philpapers.org/rec/AIKTQA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/AIKTQA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Though textbook tu quoque arguments are fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;), many versions of arguments from hypocrisy are indirectly relevant to the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: There are  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: venice.coe.int  
-   Link: [https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf](https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf)  
+   Link: <a href="https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Check_List.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9006207/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9006207/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCReconciling the Theory and the Practice of the Rule of Law in...by J Beqiraj · 2022 · Cited by 29 — These principles are grouped into...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9006207/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9006207/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconciling the Theory and the Practice of the Rule of Law in...by J Beqiraj · 2022 · Cited by 29 — These principles are grouped into...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: undp.org  
-   Link: [https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf](https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf)  
+   Link: <a href="https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.undp.org/sites/g/files/zskgke326/files/2022-08/ENGLISH_UNDP%20Print_The%20Principle%20of%20Equality%20and%20Non-Dicrimination%20Analysis%20of%20Case%20Law%202013-2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6. The principles of equality and non-discrimination are a.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Selective enforcement  
-   Link: [https://en.wikipedia.org/wiki/Selective_enforcement](https://en.wikipedia.org/wiki/Selective_enforcement)  
+   Link: <a href="https://en.wikipedia.org/wiki/Selective_enforcement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Selective_enforcement</a>  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1755309111000037](https://www.sciencedirect.com/science/article/pii/S1755309111000037)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1755309111000037" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1755309111000037</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Selective enforcement of regulationby D Chen · 2011 · Cited by 90 — Selective enforcement occurs when law enforcers derail the course of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: [https://en.wikipedia.org/wiki/Tu_quoque](https://en.wikipedia.org/wiki/Tu_quoque)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: category mistakes  
-   Link: [https://plato.stanford.edu/entries/category-mistakes/](https://plato.stanford.edu/entries/category-mistakes/)  
+   Link: <a href="https://plato.stanford.edu/entries/category-mistakes/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/category-mistakes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mistakes - Stanford Encyclopedia of Philosophyby O Magidor · 2019 · Cited by 172 — Category mistakes are sentences such as &#x27;The number tw...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: review.law.stanford.edu  
    Title: Marshall 72 Stan. L. Rev. 1421  
-   Link: [https://review.law.stanford.edu/wp-content/uploads/sites/3/2020/05/Marshall-72-Stan.-L.-Rev.-1421.pdf](https://review.law.stanford.edu/wp-content/uploads/sites/3/2020/05/Marshall-72-Stan.-L.-Rev.-1421.pdf)  
+   Link: <a href="https://review.law.stanford.edu/wp-content/uploads/sites/3/2020/05/Marshall-72-Stan.-L.-Rev.-1421.pdf" target="_blank" rel="noopener noreferrer nofollow">https://review.law.stanford.edu/wp-content/uploads/sites/3/2020/05/Marshall-72-Stan.-L.-Rev.-1421.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Protection Clause protects generally against the law being applied differently against people of...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html](https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Fallacies - Stanford Encyclopedia of Philosophy9. At (2010, 179) Walton says that a fallacy is an argument that seems to be correct bu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/543/506](https://informallogic.ca/index.php/informal_logic/article/view/543/506)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
 
 14. <a id="endnote-14"></a>
    Source: fra.europa.eu  
    Title: EU Agency for Fundamental Rights Article 20  
-   Link: [https://fra.europa.eu/en/eu-charter/article/20-equality-law](https://fra.europa.eu/en/eu-charter/article/20-equality-law)  
+   Link: <a href="https://fra.europa.eu/en/eu-charter/article/20-equality-law" target="_blank" rel="noopener noreferrer nofollow">https://fra.europa.eu/en/eu-charter/article/20-equality-law</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Agency for Fundamental RightsArticle 20 - Equality before the lawArticle 16 (1) Citizens are equal before the law and public authoriti...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: commission.europa.eu  
    Title: European Commission What is the rule of law?  
-   Link: [https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en](https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en)  
+   Link: <a href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/upholding-rule-law/rule-law/what-rule-law_en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionUnder the rule of law, all public powers always act within the constraints set out by law, in accordance with the valu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIf the fallacious attack points out some despicable trait of the arguer, it also may be calle...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html](https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/look-whos-talking-tu-quoque-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Fallacy | Definition &amp; Examples - LessonMore precisely, the tu quoque fallacy, a circumstantial ad hominem, attempts to counter...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: finmasters.com  
    Title: Tu Quoque Fallacy  
-   Link: [https://finmasters.com/tu-quoque-fallacy/](https://finmasters.com/tu-quoque-fallacy/)  
+   Link: <a href="https://finmasters.com/tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/tu-quoque-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid because it is incon...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thoughtco.com  
    Title: Tu Quoque  
-   Link: [https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335](https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335)  
+   Link: <a href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which does not attack a per...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesInconsistency, moreover, may raise issues of hypocrisy or double standards, but it does not bear upon the argument at ha...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Tu quoque)Description: Claiming the argument is flawed by pointing out that the one making the argument is not acting consist...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/401073238_Selective_Enforcement_in_the_Criminal_Justice_System_Between_Discretion_and_Abuse_of_Authority](https://www.researchgate.net/publication/401073238_Selective_Enforcement_in_the_Criminal_Justice_System_Between_Discretion_and_Abuse_of_Authority)  
+   Link: <a href="https://www.researchgate.net/publication/401073238_Selective_Enforcement_in_the_Criminal_Justice_System_Between_Discretion_and_Abuse_of_Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401073238_Selective_Enforcement_in_the_Criminal_Justice_System_Between_Discretion_and_Abuse_of_Authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Selective Enforcement in the Criminal Justice System10 Apr 2026 — Selective enforcement has been shown to undermine the principles...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: legalblogs.wolterskluwer.com  
-   Link: [https://legalblogs.wolterskluwer.com/competition-blog/rethinking-the-rule-of-law-in-eu-economic-governance-insights-from-the-2025-report/](https://legalblogs.wolterskluwer.com/competition-blog/rethinking-the-rule-of-law-in-eu-economic-governance-insights-from-the-2025-report/)  
+   Link: <a href="https://legalblogs.wolterskluwer.com/competition-blog/rethinking-the-rule-of-law-in-eu-economic-governance-insights-from-the-2025-report/" target="_blank" rel="noopener noreferrer nofollow">https://legalblogs.wolterskluwer.com/competition-blog/rethinking-the-rule-of-law-in-eu-economic-governance-insights-from-the-2025-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Rule of Law in EU Economic Governance29 Jul 2025 — Legal certainty, equal treatment, and impartial enforcement are essential for busi...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: dergipark.org.tr  
-   Link: [https://dergipark.org.tr/en/download/article-file/5316284](https://dergipark.org.tr/en/download/article-file/5316284)  
+   Link: <a href="https://dergipark.org.tr/en/download/article-file/5316284" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/download/article-file/5316284</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>argument, commonly dismissed as a fallacy or an obsolete defence in international...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/cliffs-questions/8524229](https://www.cliffsnotes.com/cliffs-questions/8524229)  
+   Link: <a href="https://www.cliffsnotes.com/cliffs-questions/8524229" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/cliffs-questions/8524229</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>made the case to me that I need to lose weight, citing several health problems...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: europeanlawinstitute.eu  
-   Link: [https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Charter_of_Fundamental_Constitutional_Principles_of_a_European_Democracy.pdf](https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Charter_of_Fundamental_Constitutional_Principles_of_a_European_Democracy.pdf)  
+   Link: <a href="https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Charter_of_Fundamental_Constitutional_Principles_of_a_European_Democracy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/ELI_Charter_of_Fundamental_Constitutional_Principles_of_a_European_Democracy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Principle 25: Equality before the law. Everyone is equal...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the personal decisions of the advice givers...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reneual.eu  
-   Link: [https://www.reneual.eu/projects-and-publications/reneual-2-0?catid=2&id=21&view=article](https://www.reneual.eu/projects-and-publications/reneual-2-0?catid=2&id=21&view=article)  
+   Link: <a href="https://www.reneual.eu/projects-and-publications/reneual-2-0?catid=2&amp;id=21&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://www.reneual.eu/projects-and-publications/reneual-2-0?catid=2&amp;id=21&amp;view=article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bitrary measures, even when exercising their discretion.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance](https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance)  
+   Link: <a href="https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/593058/Tu_quoque_arguments_subjunctive_inconsistency_and_questions_of_relevance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>scourse, particularly in political and ethical contexts.Read more...</p></details>

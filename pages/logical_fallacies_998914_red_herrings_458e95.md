@@ -568,7 +568,7 @@ A **straw man** distorts someone’s position and attacks the distorted version.
 
 A **red herring** does not have to distort the opponent’s claim. It may simply leave it behind. If the reply is, “This industry employs thousands of people,” the statement may be true, but it does not answer whether tighter regulation is justified.
 
-An **irrelevant conclusion**, sometimes associated with ignoratio elenchi, reaches a conclusion that does not address the point at issue. Walton’s classification is helpful because it treats the red herring as especially tied to diversion: the arguer interjects a distracting controversy that leads the audience away from the original line of discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.uwindsor.ca">[ojs.uwindsor.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.uwindsor.ca</span><span class="citation-popover-snippet">Classification of Fallacies of Relevance | Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case wher...</span></span></span>
+An **irrelevant conclusion**, sometimes associated with ignoratio elenchi, reaches a conclusion that does not address the point at issue. Walton’s classification is helpful because it treats the red herring as especially tied to diversion: the arguer interjects a distracting controversy that leads the audience away from the original line of discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.uwindsor.ca">[ojs.uwindsor.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.uwindsor.ca</span><span class="citation-popover-snippet">Classification of Fallacies of Relevance &#124; Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case wher...</span></span></span>
 
 The distinction matters in practice. Calling every irrelevant remark a red herring can make discussion sloppy. A person may simply misunderstand the question, draw the wrong conclusion, or use weak evidence. A red herring is clearest when the new material actively pulls the dialogue onto a different track.
 
@@ -584,7 +584,7 @@ B: “What about the misleading statements made by the opposition five years ago
 
 B may have raised a legitimate issue for a broader discussion about political honesty. But unless it helps answer whether this minister misled people, it diverts attention. The original claim still stands or falls on its own evidence.
 
-Recent computational argumentation research treats whataboutism as a difficult phenomenon because the phrase “what about” is not automatically fallacious. A 2024 study on detecting whataboutism in online discourse notes that researchers must distinguish between whataboutism as propaganda or deflection and “what about” constructions used for legitimate framing or context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivPaying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</span><span class="citation-popover-meta">Published: February 15, 2024</span></span></span>
+Recent computational argumentation research treats whataboutism as a difficult phenomenon because the phrase “what about” is not automatically fallacious. A 2024 study on detecting whataboutism in online discourse notes that researchers must distinguish between whataboutism as propaganda or deflection and “what about” constructions used for legitimate framing or context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</span><span class="citation-popover-meta">Published: February 15, 2024</span></span></span>
 
 That caution is important. Not every comparison is a dodge. The relevance test is whether the comparison helps resolve the issue, reveals a rule being applied inconsistently, or merely moves attention away from an uncomfortable answer.
 
@@ -1060,117 +1060,117 @@ The practical defence is to make relevance explicit. Name the original question,
 
 1. <a id="endnote-1"></a>
    Source: ojs.uwindsor.ca  
-   Link: [https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133](https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133)  
+   Link: <a href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133" target="_blank" rel="noopener noreferrer nofollow">https://ojs.uwindsor.ca/index.php/informal_logic/article/view/2133</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classification of Fallacies of Relevance | Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case wher...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2402.09934](https://arxiv.org/abs/2402.09934)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPaying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.09934</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</p></details>
    Published: February 15, 2024  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Dead cat strategy  
-   Link: [https://en.wikipedia.org/wiki/Dead_cat_strategy](https://en.wikipedia.org/wiki/Dead_cat_strategy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dead_cat_strategy</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Red herring  
-   Link: [https://en.wikipedia.org/wiki/Red_herring](https://en.wikipedia.org/wiki/Red_herring)  
+   Link: <a href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_herring</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Chewbacca defense  
-   Link: [https://en.wikipedia.org/wiki/Chewbacca_defense](https://en.wikipedia.org/wiki/Chewbacca_defense)  
+   Link: <a href="https://en.wikipedia.org/wiki/Chewbacca_defense" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chewbacca_defense</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Whataboutism](https://en.wikipedia.org/wiki/Whataboutism)  
+   Link: <a href="https://en.wikipedia.org/wiki/Whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Whataboutism</a>  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Red Herring  
-   Link: [https://www.youtube.com/watch?v=Af0STrY58i4](https://www.youtube.com/watch?v=Af0STrY58i4)  
+   Link: <a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Af0STrY58i4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Red Herring&quot; Fallacy Explained in 2 Minutes...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesIgnoratio Elenchi. See Irrelevant Conclusion... If you produce a smokescreen by bringing up...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - The Writing CenterThis handout discusses common logical fallacies that you may encounter in your own writin...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
 12. <a id="endnote-12"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/7304](https://informallogic.ca/index.php/informal_logic/article/view/7304)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/7304" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/7304</a>  
 
 13. <a id="endnote-13"></a>
    Source: unr.edu  
-   Link: [https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies)  
+   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
 
 14. <a id="endnote-14"></a>
    Source: sciencelearn.org.nz  
    Title: red herring  
-   Link: [https://www.sciencelearn.org.nz/images/red-herring](https://www.sciencelearn.org.nz/images/red-herring)  
+   Link: <a href="https://www.sciencelearn.org.nz/images/red-herring" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencelearn.org.nz/images/red-herring</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: informallogic.ca  
    Title: [Informal Logic](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;) Classification of Fallacies of Relevance!  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/download/2133/1577](https://informallogic.ca/index.php/informal_logic/article/download/2133/1577)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/download/2133/1577" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/download/2133/1577</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Logicby D Walton · 2004 · Cited by 31 — A key difference cited is that in a case where the red herring fallacy has been committe...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: 19 Common Fallacies, Explained  
-   Link: [https://www.youtube.com/watch?v=wwUe7T2OKQE](https://www.youtube.com/watch?v=wwUe7T2OKQE)  
+   Link: <a href="https://www.youtube.com/watch?v=wwUe7T2OKQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wwUe7T2OKQE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red herring logical fallacy relevance diversion Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY Wireless Philosophy...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Red Herring Fallacies: Lesson and Activity  
-   Link: [https://www.youtube.com/watch?v=3mK5CPzc85k](https://www.youtube.com/watch?v=3mK5CPzc85k)  
+   Link: <a href="https://www.youtube.com/watch?v=3mK5CPzc85k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3mK5CPzc85k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Red Herring Fallacy: Definition &amp; Examples (Easy Explanation)...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DetroitNews/posts/deadcatting-is-a-political-strategy-of-saying-something-extreme-to-divert-the-at/1324222583075342/](https://www.facebook.com/DetroitNews/posts/deadcatting-is-a-political-strategy-of-saying-something-extreme-to-divert-the-at/1324222583075342/)  
+   Link: <a href="https://www.facebook.com/DetroitNews/posts/deadcatting-is-a-political-strategy-of-saying-something-extreme-to-divert-the-at/1324222583075342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DetroitNews/posts/deadcatting-is-a-political-strategy-of-saying-something-extreme-to-divert-the-at/1324222583075342/</a>  
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/dead-cat-strategy-why-we-dont-chase-brian-tinsman-xkxbe](https://www.linkedin.com/pulse/dead-cat-strategy-why-we-dont-chase-brian-tinsman-xkxbe)  
+   Link: <a href="https://www.linkedin.com/pulse/dead-cat-strategy-why-we-dont-chase-brian-tinsman-xkxbe" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/dead-cat-strategy-why-we-dont-chase-brian-tinsman-xkxbe</a>  
 
 20. <a id="endnote-20"></a>
    Source: tvtropes.org  
-   Link: [https://tvtropes.org/pmwiki/pmwiki.php/Main/ChewbaccaDefense](https://tvtropes.org/pmwiki/pmwiki.php/Main/ChewbaccaDefense)  
+   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/ChewbaccaDefense" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Main/ChewbaccaDefense</a>  
 
 21. <a id="endnote-21"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/363396369/critical-thinking-relevance-red-herring-fallacies-flash-cards/](https://quizlet.com/363396369/critical-thinking-relevance-red-herring-fallacies-flash-cards/)  
+   Link: <a href="https://quizlet.com/363396369/critical-thinking-relevance-red-herring-fallacies-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/363396369/critical-thinking-relevance-red-herring-fallacies-flash-cards/</a>  
 
 22. <a id="endnote-22"></a>
    Source: amateurlogician.com  
-   Link: [https://amateurlogician.com/diversion-relevancy-fallacies/](https://amateurlogician.com/diversion-relevancy-fallacies/)  
+   Link: <a href="https://amateurlogician.com/diversion-relevancy-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://amateurlogician.com/diversion-relevancy-fallacies/</a>  
 
 23. <a id="endnote-23"></a>
    Source: philpeople.org  
-   Link: [https://philpeople.org/profiles/41605/publication_attributions?order=viewings&page=2](https://philpeople.org/profiles/41605/publication_attributions?order=viewings&page=2)  
+   Link: <a href="https://philpeople.org/profiles/41605/publication_attributions?order=viewings&amp;page=2" target="_blank" rel="noopener noreferrer nofollow">https://philpeople.org/profiles/41605/publication_attributions?order=viewings&amp;page=2</a>  
 
 24. <a id="endnote-24"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/red-herring/](https://effectiviology.com/red-herring/)  
+   Link: <a href="https://effectiviology.com/red-herring/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/red-herring/</a>  

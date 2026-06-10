@@ -537,16 +537,16 @@ A weak sample is not only a small sample. It can also be a biased one. A biased 
 
 This is why “I have hundreds of examples” is not always a strong defence. Hundreds of complaints on a review site may reveal real problems among complainants, but they do not automatically show what most customers experienced. Hundreds of posts from one online community may show the views of that community, but not of a whole country. A large dataset collected from whoever chooses to respond can still be misleading if the people most likely to respond are unusually angry, enthusiastic, wealthy, online, available, politically engaged, or otherwise different from the group being described.
 
-The famous 1936 [Literary Digest]({{ 'digest-poll/' | relative_url }}) poll is a memorable case because it shows that size alone cannot save a bad sample. The magazine received about 2.4 million returned ballots and still wrongly predicted that Republican Alf Landon would defeat Franklin D. Roosevelt. Historical accounts highlight two problems: the sample frame leaned towards people reachable through sources such as telephone and car-registration lists, and the poll depended on voluntary responses, creating room for response bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathcenter.oxford.emory.edu">[Math Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathcenter.oxford.emory.edu</span><span class="citation-popover-title">historical Blunders</span><span class="citation-popover-snippet">historical Blunders</span></span></span>
+The famous 1936 Literary [Digest poll]({{ 'digest-poll/' | relative_url }}) is a memorable case because it shows that size alone cannot save a bad sample. The magazine received about 2.4 million returned ballots and still wrongly predicted that Republican Alf Landon would defeat Franklin D. Roosevelt. Historical accounts highlight two problems: the sample frame leaned towards people reachable through sources such as telephone and car-registration lists, and the poll depended on voluntary responses, creating room for response bias. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mathcenter.oxford.emory.edu">[Math Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mathcenter.oxford.emory.edu</span><span class="citation-popover-title">historical Blunders</span><span class="citation-popover-snippet">historical Blunders</span></span></span>
 
 That example is useful beyond polling. It shows the difference between **quantity** and **representativeness**. A million examples drawn from the wrong place may be weaker evidence than a much smaller sample designed to include the right range of people or cases. Modern survey organisations therefore pay close attention to how participants are reached, not merely how many responses are collected. Pew Research Center, for instance, describes using address-based sampling and multiple response modes in its National Public Opinion Reference Survey methodology, including mail, online, paper and phone options, to reduce coverage problems that could arise from relying on one channel alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">Pew Research Center Methodology</span><span class="citation-popover-snippet">Pew Research Center Methodology</span></span></span>
 
 Biased examples commonly enter arguments through:
 
-* **[Convenience samples]({{ 'bad-samples-69cbd5/' | relative_url }}):** evidence from whoever was easiest to reach.
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
+* **Convenience samples:** evidence from whoever was easiest to reach.
 * **Voluntary responses:** evidence from people motivated enough to speak up.
 * **Survivorship bias:** evidence from cases that remain visible after failures have disappeared.
 * **Availability bias:** evidence from examples that are vivid, recent, dramatic or personally memorable.
@@ -569,18 +569,18 @@ The cognitive version of this problem is sometimes discussed as belief in the �
 
 In everyday [debate]({{ 'debate/' | relative_url }}), this creates a recognisable pattern:
 
-1. A striking example is noticed.
-2. The example feels meaningful because it is vivid or [emotionally charged]({{ 'charged-labels/' | relative_url }}).
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
+1. A striking example is noticed.
+2. The example feels meaningful because it is vivid or emotionally charged.
 3. Similar examples are easier to remember than counterexamples.
 4. The speaker upgrades the claim from “this happened” to “this is what usually happens”.
 5. The conclusion starts to sound like common sense rather than an inference from limited evidence.
 
 </div>
 
-This does not mean [personal experience]({{ 'experience/' | relative_url }}) is worthless. Personal experience can identify harms that official data missed, expose problems that deserve investigation, and give human meaning to statistics. The mistake is using experience as if it automatically measures prevalence. A personal story may show that something can happen; it does not by itself show how often it happens, who it happens to, or whether it is typical.
+This does not mean personal [experience]({{ 'experience/' | relative_url }}) is worthless. Personal experience can identify harms that official data missed, expose problems that deserve investigation, and give human meaning to statistics. The mistake is using experience as if it automatically measures prevalence. A personal story may show that something can happen; it does not by itself show how often it happens, who it happens to, or whether it is typical.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-2-dark.svg" | relative_url }}" alt="Bad Samples illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -588,7 +588,7 @@ This does not mean [personal experience]({{ 'experience/' | relative_url }}) is 
 
 There is no single sample size that makes every generalisation safe. “Enough” depends on the claim being made. A claim about a narrow, uniform group needs less evidence than a claim about a large, diverse population. A claim about a dramatic effect may need fewer observations than a claim about a subtle difference. A claim used for a high-stakes decision needs stronger evidence than a casual working guess.
 
-Statistics guidance on sample size makes this context-dependence clear: researchers consider the target population, the parameter being estimated, population variability, desired precision, cost, prior knowledge and practical feasibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itl.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itl.nist.gov</span><span class="citation-popover-snippet">Open source on nist.gov.</span></span></span> In medical and experimental settings, sample size also affects the risk of missing real effects or reporting unstable results; a widely cited “Statistics in Brief” article describes sample size as a major determinant of the risk of false-negative findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span></span></span>
+Statistics guidance on sample size makes this context-dependence clear: researchers consider the target population, the parameter being estimated, population variability, desired precision, cost, prior knowledge and practical [feasibility]({{ 'feasibility/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itl.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itl.nist.gov</span><span class="citation-popover-snippet">Open source on nist.gov.</span></span></span> In medical and experimental settings, sample size also affects the risk of missing real effects or reporting unstable results; a widely cited “Statistics in Brief” article describes sample size as a major determinant of the risk of false-negative findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span></span></span>
 
 For ordinary arguments, the practical standard is less technical but still disciplined. Before accepting a generalisation, ask:
 
@@ -613,7 +613,7 @@ A better generalisation matches its wording to its evidence. Instead of saying �
 
 Hasty generalisations are common in public debate because public arguments often reward speed, vividness and confidence. A single viral video becomes “what people are like now”. A dramatic local crime becomes proof of a national trend. A few bad encounters become a judgement about a profession, generation, nationality or political group. The sample is memorable, but the conclusion outruns it.
 
-Polling and survey examples show why this matters. The American Association for Public Opinion Research’s work on non-probability sampling stresses that such methods vary widely and require careful assessment before researchers use them to make claims about a larger population. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aapor.org">[AAPOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aapor.org</span><span class="citation-popover-title">NPS TF Report Final 7 revised FNL 6 22 13 1</span><span class="citation-popover-snippet">NPS TF Report Final 7 revised FNL 6 22 13 1</span></span></span> More recent research on nonprobability samples makes a similar point: they can be useful when limitations are assessed, mitigated and clearly communicated, but their unknown selection mechanisms can lead to spurious conclusions, and very large nonprobability datasets can be “effectively” much smaller than they appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv We need to talk about nonprobability samples</span><span class="citation-popover-snippet">arXiv We need to talk about nonprobability samples</span></span></span>
+Polling and survey examples show why this matters. The American [Association]({{ 'association/' | relative_url }}) for Public Opinion Research’s work on non-probability sampling stresses that such methods vary widely and require careful assessment before researchers use them to make claims about a larger population. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aapor.org">[AAPOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aapor.org</span><span class="citation-popover-title">NPS TF Report Final 7 revised FNL 6 22 13 1</span><span class="citation-popover-snippet">NPS TF Report Final 7 revised FNL 6 22 13 1</span></span></span> More recent research on nonprobability samples makes a similar point: they can be useful when limitations are assessed, mitigated and clearly communicated, but their unknown selection mechanisms can lead to spurious conclusions, and very large nonprobability datasets can be “effectively” much smaller than they appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv We need to talk about nonprobability samples</span><span class="citation-popover-snippet">arXiv We need to talk about nonprobability samples</span></span></span>
 
 This distinction is useful for evaluating modern evidence. Online reviews, social-media posts, call-in polls, petition signatures, comment sections and platform analytics can reveal real signals. They can show what certain active groups care about, what complaints recur, or what experiences deserve closer attention. But they are usually weak evidence for claims about everyone, because the route into the sample is not neutral.
 
@@ -639,7 +639,7 @@ Careful wording also prevents a useful observation from turning into a fallacy. 
 
 </div>
 
-The final version does not pretend to be a perfect census. It gives enough information for the reader to judge the claim: sample size, recruitment [relevance]({{ 'relevance/' | relative_url }}), observed pattern and conclusion strength. That is the opposite of a hasty generalisation. It does not hide the sample; it lets the sample carry only the weight it can bear.
+The final version does not pretend to be a perfect census. It gives enough information for the reader to judge the claim: sample size, recruitment relevance, observed pattern and conclusion strength. That is the opposite of a hasty generalisation. It does not hide the sample; it lets the sample carry only the weight it can bear.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-3-dark.svg" | relative_url }}" alt="Bad Samples illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -1050,144 +1050,144 @@ The most reliable version of the lesson is modest but powerful: examples are not
 
 1. <a id="endnote-1"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/](https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Title: PMCSampling Bias and Potential Threats to External Validity  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/)  
+   Title: PMCSampling Bias and Potential [Threats](&#123;&#123; 'threats/' | relative_url &#125;&#125;) to External Validity  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8904875/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When conducting surveys, researchers often choose 1...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: itl.nist.gov  
-   Link: [https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm](https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm)  
+   Link: <a href="https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itl.nist.gov/div898/handbook/ppc/section3/ppc333.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: stats.org.uk  
    Title: BELIE F IN THE LAW OF SMALL NUMBERS  
-   Link: [https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf](https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf)  
+   Link: <a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan we shift belief in the 'Law of Small Numbers'?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCStatistics in Brief: The Importance of Sample Size  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2493004/</a>  
 
 7. <a id="endnote-7"></a>
    Source: aapor.org  
    Title: NPS TF Report Final 7 revised FNL 6 22 13 1  
-   Link: [https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf](https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf)  
+   Link: <a href="https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aapor.org/wp-content/uploads/2022/11/NPS_TF_Report_Final_7_revised_FNL_6_22_13-1.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv We need to talk about nonprobability samples  
-   Link: [https://arxiv.org/abs/2210.07298](https://arxiv.org/abs/2210.07298)  
+   Link: <a href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.07298</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2772906024005089](https://www.sciencedirect.com/science/article/pii/S2772906024005089)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2772906024005089" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2772906024005089</a>  
 
 10. <a id="endnote-10"></a>
    Source: itl.nist.gov  
-   Link: [https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm](https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm)  
+   Link: <a href="https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: nvlpubs.nist.gov  
    Title: jresv47n6p491 A1b  
-   Link: [https://nvlpubs.nist.gov/nistpubs/jres/47/jresv47n6p491_A1b.pdf](https://nvlpubs.nist.gov/nistpubs/jres/47/jresv47n6p491_A1b.pdf)  
+   Link: <a href="https://nvlpubs.nist.gov/nistpubs/jres/47/jresv47n6p491_A1b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/jres/47/jresv47n6p491_A1b.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0169534723000058](https://www.sciencedirect.com/science/article/pii/S0169534723000058)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0169534723000058" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169534723000058</a>  
 
 13. <a id="endnote-13"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFallacies - UNC Writing CenterHasty generalization. Definition: Making assumptions about a whole group or range of case...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mathcenter.oxford.emory.edu  
    Title: historical Blunders  
-   Link: [https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/](https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/)  
+   Link: <a href="https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/" target="_blank" rel="noopener noreferrer nofollow">https://mathcenter.oxford.emory.edu/site/math117/historicalBlunders/</a>  
 
 16. <a id="endnote-16"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Methodology  
-   Link: [https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/](https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/)  
+   Link: <a href="https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/</a>  
 
 17. <a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/representative](https://dictionary.cambridge.org/dictionary/english/representative)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/representative" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/representative</a>  
 
 18. <a id="endnote-18"></a>
    Source: opentextbooks.library.arizona.edu  
    Title: hasty generalizations  
-   Link: [https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/](https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/)  
+   Link: <a href="https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.library.arizona.edu/decodingdeception/chapter/hasty-generalizations/</a>  
 
 19. <a id="endnote-19"></a>
    Source: pewresearch.org  
    Title: comparing two types of online survey samples  
-   Link: [https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/](https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/)  
+   Link: <a href="https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2023/09/07/comparing-two-types-of-online-survey-samples/</a>  
 
 20. <a id="endnote-20"></a>
    Source: linguee.nl  
-   Link: [https://www.linguee.nl/engels-nederlands/vertaling/representative.html](https://www.linguee.nl/engels-nederlands/vertaling/representative.html)  
+   Link: <a href="https://www.linguee.nl/engels-nederlands/vertaling/representative.html" target="_blank" rel="noopener noreferrer nofollow">https://www.linguee.nl/engels-nederlands/vertaling/representative.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: gymglish.com  
-   Link: [https://www.gymglish.com/en/gymglish/english-translation/representative](https://www.gymglish.com/en/gymglish/english-translation/representative)  
+   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/representative" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/representative</a>  
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: What is Hasty Generalization? (Easiest Explanation)  
-   Link: [https://www.youtube.com/watch?v=zXystSfiClI](https://www.youtube.com/watch?v=zXystSfiClI)  
+   Link: <a href="https://www.youtube.com/watch?v=zXystSfiClI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zXystSfiClI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 What is hasty generalization? [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) Explained #25...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: What is hasty generalization? Logical Fallacies Explained #25  
-   Link: [https://www.youtube.com/watch?v=ZK-DMZziTMw](https://www.youtube.com/watch?v=ZK-DMZziTMw)  
+   Link: <a href="https://www.youtube.com/watch?v=ZK-DMZziTMw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZK-DMZziTMw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Hasty Generalization (Logical Fallacy)...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/8285370/Belief_in_the_law_of_small_numbers](https://www.academia.edu/8285370/Belief_in_the_law_of_small_numbers)  
+   Link: <a href="https://www.academia.edu/8285370/Belief_in_the_law_of_small_numbers" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8285370/Belief_in_the_law_of_small_numbers</a>  
 
 25. <a id="endnote-25"></a>
    Source: bookdown.org  
-   Link: [https://bookdown.org/pkaldunn/SRM-Textbook/Sampling.html](https://bookdown.org/pkaldunn/SRM-Textbook/Sampling.html)  
+   Link: <a href="https://bookdown.org/pkaldunn/SRM-Textbook/Sampling.html" target="_blank" rel="noopener noreferrer nofollow">https://bookdown.org/pkaldunn/SRM-Textbook/Sampling.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: delighted.com  
-   Link: [https://delighted.com/blog/avoid-7-types-sampling-response-survey-bias](https://delighted.com/blog/avoid-7-types-sampling-response-survey-bias)  
+   Link: <a href="https://delighted.com/blog/avoid-7-types-sampling-response-survey-bias" target="_blank" rel="noopener noreferrer nofollow">https://delighted.com/blog/avoid-7-types-sampling-response-survey-bias</a>  
 
 27. <a id="endnote-27"></a>
    Source: sarid-ins.com  
-   Link: [https://sarid-ins.com/sample-size-representativeness-in-research/](https://sarid-ins.com/sample-size-representativeness-in-research/)  
+   Link: <a href="https://sarid-ins.com/sample-size-representativeness-in-research/" target="_blank" rel="noopener noreferrer nofollow">https://sarid-ins.com/sample-size-representativeness-in-research/</a>  
 
 28. <a id="endnote-28"></a>
    Source: olebo.github.io  
-   Link: [https://olebo.github.io/textbook/ch/02/design_dewey_truman.html](https://olebo.github.io/textbook/ch/02/design_dewey_truman.html)  
+   Link: <a href="https://olebo.github.io/textbook/ch/02/design_dewey_truman.html" target="_blank" rel="noopener noreferrer nofollow">https://olebo.github.io/textbook/ch/02/design_dewey_truman.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/hasty](https://www.merriam-webster.com/dictionary/hasty)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/hasty" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/hasty</a>  
 
 30. <a id="endnote-30"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization](https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Hasty-Generalization</a>  
 
 31. <a id="endnote-31"></a>
    Source: tckpublishing.com  
-   Link: [https://www.tckpublishing.com/hasty-generalization/](https://www.tckpublishing.com/hasty-generalization/)  
+   Link: <a href="https://www.tckpublishing.com/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.tckpublishing.com/hasty-generalization/</a>  

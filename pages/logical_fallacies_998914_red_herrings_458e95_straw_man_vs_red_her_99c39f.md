@@ -356,7 +356,7 @@ This follows the classic pattern of exaggerating a moderate recommendation into 
 The statement may be true, but it does not address the recommendation about walking.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZggiwS7iv2A" title="Red Herring (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer">Red Herring (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 32.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZggiwS7iv2A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kl48A9Y5ls8" title="Red Herring vs. Straw Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kl48A9Y5ls8" target="_blank" rel="noopener noreferrer">Red Herring vs. Straw Man</a></p><p class="youtube-embed-meta">Channel: Mike Coste &middot; Views: 17.2K &middot; Uploaded: October 2011 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kl48A9Y5ls8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kl48A9Y5ls8">Open on YouTube</a></p></div></div></div>
 
 ## Why the Confusion Happens
 
@@ -377,7 +377,7 @@ Second, speakers sometimes combine the fallacies. A person may first misrepresen
 
 The first sentence attacks a distorted position; the second changes the subject. The audience may perceive one continuous response even though two distinct fallacies have occurred.
 
-Third, emotional appeals can disguise both tactics. [Anger]({{ 'anger/' | relative_url }}), loyalty, fear, or sympathy may draw attention away from whether the response actually engaged with the argument. Research on fallacy detection consistently finds that identifying the specific error often requires tracing how the response relates to the original claim rather than focusing on the emotional force of the language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivRobust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
+Third, emotional appeals can disguise both tactics. [Anger]({{ 'anger/' | relative_url }}), loyalty, fear, or sympathy may draw attention away from whether the response actually engaged with the argument. Research on fallacy detection consistently finds that identifying the specific error often requires tracing how the response relates to the original claim rather than focusing on the emotional force of the language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Robust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-3-dark.svg" | relative_url }}" alt="Straw Man illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -403,7 +403,7 @@ A useful shortcut is:
 * **Red herring:** "That doesn't answer the question."
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kl48A9Y5ls8" title="Red Herring vs. Straw Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kl48A9Y5ls8" target="_blank" rel="noopener noreferrer">Red Herring vs. Straw Man</a></p><p class="youtube-embed-meta">Channel: Mike Coste &middot; Views: 17.2K &middot; Uploaded: October 2011 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kl48A9Y5ls8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kl48A9Y5ls8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xreo5LDLU0o" title="Straw man fallacy vs. fallacy of missing the point vs. the red herring fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xreo5LDLU0o" target="_blank" rel="noopener noreferrer">Straw man fallacy vs. fallacy of missing the point vs. the red herring fallacy</a></p><p class="youtube-embed-meta">Channel: Karin Howe &middot; Views: 2.5K &middot; Uploaded: January 2017 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xreo5LDLU0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xreo5LDLU0o">Open on YouTube</a></p></div></div></div>
 
 ## The Key Test
 
@@ -837,138 +837,138 @@ Both derail reasoning, but they do so in different ways: one fights a counterfei
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: fsw.pressbooks.pub  
-   Link: [https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/](https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/)  
+   Link: <a href="https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://fsw.pressbooks.pub/enc1101/chapter/logical-emotional-and-ethical-fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical, Emotional, and Ethical FallaciesStraw man: The writer rebuts a competing claim by offering an exaggerated or oversimplified vers...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2212.07425](https://arxiv.org/abs/2212.07425)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRobust and Explainable Identification of [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) in Natural Language ArgumentsDecember 12, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.07425</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robust and Explainable Identification of [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) in Natural Language ArgumentsDecember 12, 2022...</p></details>
    Published: December 12, 2022  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.04293](https://arxiv.org/abs/2404.04293)  
+   Link: <a href="https://arxiv.org/abs/2404.04293" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.04293</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Straw_man](https://en.wikipedia.org/wiki/Straw_man)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw manA straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one ac...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Straw (film)  
-   Link: [https://en.wikipedia.org/wiki/Straw_%28film%29](https://en.wikipedia.org/wiki/Straw_%28film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_%28film%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw (film)Straw is a 2025 American psychological crime drama film written, produced and directed by Tyler Perry. The film stars Tara...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Texas](https://en.wikipedia.org/wiki/Texas)  
+   Link: <a href="https://en.wikipedia.org/wiki/Texas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Texas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TexasTexas has a coastline on the Gulf of Mexico to the southeast. Covering 268,596 square miles (695,660 km2) and with an estimated p...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Red herring  
-   Link: [https://en.wikipedia.org/wiki/Red_herring](https://en.wikipedia.org/wiki/Red_herring)  
+   Link: <a href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Red_herring</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red herringA red herring is something that misleads or distracts from a relevant or important question. [1] It may be either a logical...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FallacyA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument that may appear to be well-rea...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: web.ics.purdue.edu  
    Title: Logical Fallacies  
-   Link: [https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf](https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf)  
+   Link: <a href="https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.ics.purdue.edu/~drkelly/LogicalFallacies.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This fallacy has the same function as an ad hominem, but applies instead...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: txst.edu  
-   Link: [https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html](https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html)  
+   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: txst.edu  
    Title: Examples:.Read more  
-   Link: [https://www.txst.edu/philosophy/student-resources/informal-fallacies/red-herring.html](https://www.txst.edu/philosophy/student-resources/informal-fallacies/red-herring.html)  
+   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/red-herring.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/red-herring.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas State UniversityRed Herring: Department of PhilosophyThis fallacy consists in diverting attention from the real issue by focusing...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy/Verbal-fallacies](https://www.britannica.com/topic/fallacy/Verbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/fallacy/Verbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy/Verbal-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ambiguity, Red Herring, Straw ManMay 13, 2026 — These fallacies, called fallacies of ambiguity, arise when the conclusion is achieved thr...</p></details>
    Published: May 13, 2026  
 
 15. <a id="endnote-15"></a>
    Source: writingcenter.tamu.edu  
-   Link: [https://writingcenter.tamu.edu/guides/resources/fallacies.html](https://writingcenter.tamu.edu/guides/resources/fallacies.html)  
+   Link: <a href="https://writingcenter.tamu.edu/guides/resources/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.tamu.edu/guides/resources/fallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University Writing CenterThis fallacy often takes the form of name-calling. The term ad hominem means “to the man” or “to the person.” Ex...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Black-or-White fallacy or Black-White fallacy is a [False Dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;) Fallacy that limits you unfairly to only two choices, as if you were mad...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: markmanson.net  
-   Link: [https://markmanson.net/logical-fallacies](https://markmanson.net/logical-fallacies)  
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Logical Fallacies That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a person made of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: txst.edu  
-   Link: [https://www.txst.edu/philosophy/student-resources/informal-fallacies/ad-hominem.html](https://www.txst.edu/philosophy/student-resources/informal-fallacies/ad-hominem.html)  
+   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/ad-hominem.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/ad-hominem.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem: Department of PhilosophyThis fallacy occurs when, instead of addressing someone&#x27;s argument or position, one irrelevantly att...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/npkc7/eli5_all_the_common_logical_fallacies_that_you/](https://www.reddit.com/r/explainlikeimfive/comments/npkc7/eli5_all_the_common_logical_fallacies_that_you/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/npkc7/eli5_all_the_common_logical_fallacies_that_you/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/npkc7/eli5_all_the_common_logical_fallacies_that_you/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: All the common &quot;logical fallacies&quot; that you see people...Red Herring, Straw man, ad hominem, etc. Basically, all the common... Fo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: josephparis.me  
-   Link: [https://josephparis.me/my-articles/effective-arguing-beware-of-logical-red-herrings/](https://josephparis.me/my-articles/effective-arguing-beware-of-logical-red-herrings/)  
+   Link: <a href="https://josephparis.me/my-articles/effective-arguing-beware-of-logical-red-herrings/" target="_blank" rel="noopener noreferrer nofollow">https://josephparis.me/my-articles/effective-arguing-beware-of-logical-red-herrings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Arguing; Beware of Logical Red-HerringsAppeal to Authority is a very superficial yet pervasive technique for persuasion which w...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: txst.edu  
-   Link: [https://www.txst.edu/philosophy/student-resources/informal-fallacies/false-dilemma.html](https://www.txst.edu/philosophy/student-resources/informal-fallacies/false-dilemma.html)  
+   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/false-dilemma.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/false-dilemma.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma: Department of PhilosophyThis fallacy occurs when one reasons from an either-or position and you haven&#x27;t considered all re...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/665027492/logical-fallacies-flash-cards/](https://quizlet.com/665027492/logical-fallacies-flash-cards/)  
+   Link: <a href="https://quizlet.com/665027492/logical-fallacies-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/665027492/logical-fallacies-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies FlashcardsStudy with Quizlet and memorize flashcards containing terms like red herring, red herring, [Tu Quoque](&amp;#123;&amp;#123; &#x27;tu-quoque/&#x27; | relative_url &amp;#125;&amp;#125;) and more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: newslit.org  
-   Link: [https://newslit.org/wp-content/uploads/2021/01/LogicalFallacies-Poster.pdf](https://newslit.org/wp-content/uploads/2021/01/LogicalFallacies-Poster.pdf)  
+   Link: <a href="https://newslit.org/wp-content/uploads/2021/01/LogicalFallacies-Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/wp-content/uploads/2021/01/LogicalFallacies-Poster.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical fallaciesFalse dilemma. A logical fallacy in which an either/or proposition is set up when there are actually more options availa...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Master List of Logical FallaciesThe Straw Man (also &quot;The Straw Person&quot; &quot;&quot;The Straw Figure&quot;): The fallacy of setting up a phony, weak, ext...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/straw](https://www.dictionary.com/browse/straw)  
+   Link: <a href="https://www.dictionary.com/browse/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/straw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STRAW Definition &amp; MeaningSTRAW definition: a single stalk or stem, especially of certain species of grain, chiefly wheat, rye, oats, and...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/straw](https://www.merriam-webster.com/dictionary/straw)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/straw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STRAW Definition &amp; MeaningThe meaning of STRAW is stalks of grain after threshing; broadly: dry stalky plant residue used like grain str...</p></details>

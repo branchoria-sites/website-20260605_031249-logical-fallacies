@@ -278,7 +278,7 @@ Celebrity endorsements are a common feature of modern [advertising]({{ 'advertis
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_celebrity_borrowed_a_31c417-Illustration-1-dark.svg" | relative_url }}" alt="Celebrity Ads illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_celebrity_borrowed_a_31c417-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_celebrity_borrowed_a_31c417-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader study of [advertising fallacies]({{ 'advertising/' | relative_url }}), celebrity endorsements matter because they can encourage consumers to substitute borrowed authority for genuine evidence. A famous face may help attract attention or communicate a brand image, but fame alone does not demonstrate that a medicine works, a financial service is reliable, or a skincare product will produce the advertised results. Understanding how this transfer of trust operates helps consumers separate emotional appeal from actual support for a claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6591 — The model shows how meanings pass from celebrity to product and fr...</span></span></span>
+Within the broader study of advertising fallacies, celebrity endorsements matter because they can encourage consumers to substitute borrowed authority for genuine evidence. A famous face may help attract attention or communicate a brand image, but fame alone does not demonstrate that a medicine works, a financial service is reliable, or a skincare product will produce the advertised results. Understanding how this transfer of trust operates helps consumers separate emotional appeal from actual support for a claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jcr/article/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic Who Is the Celebrity Endorser?</span><span class="citation-popover-snippet">Cultural Foundations of the...by G McCracken · 1989 · Cited by 6591 — The model shows how meanings pass from celebrity to product and fr...</span></span></span>
 
 ## How Endorsement Transfers Trust
 
@@ -312,7 +312,7 @@ The problem emerges when expertise is assumed rather than demonstrated. An actor
 
 Advertising often blurs these distinctions. The positive reputation earned in one domain can spill over into unrelated domains. Consumers may unconsciously treat a celebrity's success as a general marker of reliability, even though expertise is usually narrow and [context]({{ 'context/' | relative_url }})-specific.
 
-Research on influencer marketing similarly suggests that perceived fit between the endorser and the product category affects persuasive power. Audiences respond differently when the source appears relevant to the product being promoted. Even then, [relevance]({{ 'relevance/' | relative_url }}) does not replace independent evidence for the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivExamining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</span></span></span>
+Research on influencer marketing similarly suggests that perceived fit between the endorser and the product category affects persuasive power. Audiences respond differently when the source appears relevant to the product being promoted. Even then, [relevance]({{ 'relevance/' | relative_url }}) does not replace independent evidence for the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Examining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</span></span></span>
 
 ## Payment, Sponsorship and Hidden Incentives
 
@@ -322,7 +322,7 @@ Many endorsements are paid promotions. Others involve free products, equity stak
 
 Advertising regulators have increasingly focused on transparency. The US Federal Trade Commission's Endorsement Guides require disclosure of material connections between advertisers and endorsers so that consumers understand when a recommendation is sponsored. The underlying principle is that endorsements should be honest and should not create misleading impressions about independence or objectivity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span>
 
-The growth of influencer marketing has made this issue more visible. Sponsored posts can resemble ordinary personal recommendations, making it difficult for audiences to distinguish advertising from genuine personal opinion. Studies of affiliate marketing and influencer content have found that disclosure practices are often inconsistent and that many users do not fully recognise promotional relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivExamining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</span></span></span>
+The growth of influencer marketing has made this issue more visible. Sponsored posts can resemble ordinary personal recommendations, making it difficult for audiences to distinguish advertising from genuine personal opinion. Studies of affiliate marketing and influencer content have found that disclosure practices are often inconsistent and that many users do not fully recognise promotional relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Examining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</span></span></span>
 
 The persuasive effect of celebrity endorsement becomes stronger when consumers forget that the speaker may be acting as a paid marketer rather than as an independent evaluator.
 
@@ -346,7 +346,7 @@ The second does not automatically establish the first. Even if the celebrity gen
 Regulatory guidance reflects this concern by emphasising that endorsements should not convey misleading claims and that advertisers must possess support for claims reasonably implied by endorsements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6i2DGt7BvWk" title="Appeal to authority fallacy - Don&#x27;t Vote Sequel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6i2DGt7BvWk" target="_blank" rel="noopener noreferrer">Appeal to authority fallacy - Don&#x27;t Vote Sequel</a></p><p class="youtube-embed-meta">Channel: Radical Apathy &middot; Views: 26.1K &middot; Uploaded: March 2016 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6i2DGt7BvWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6i2DGt7BvWk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZgQYvu76siE" title="The Power of Celebrity Endorsements and Influencers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZgQYvu76siE" target="_blank" rel="noopener noreferrer">The Power of Celebrity Endorsements and Influencers</a></p><p class="youtube-embed-meta">Channel: ElizabethNickerson &middot; Views: 21.0K &middot; Uploaded: June 2019 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZgQYvu76siE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZgQYvu76siE">Open on YouTube</a></p></div></div></div>
 
 ## What High-Profile Failures Reveal
 
@@ -357,7 +357,7 @@ The promotion of the Fyre Festival by numerous celebrities and influencers becam
 Such cases are useful because they expose the difference between attention and evidence. Celebrity involvement may increase visibility, excitement and trust, but those effects do not guarantee product quality, safety or performance.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mgqM6xeZHNM" title="The Authority Fallacy | Idea Channel | PBS Digital Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mgqM6xeZHNM" target="_blank" rel="noopener noreferrer">The Authority Fallacy | Idea Channel | PBS Digital Studios</a></p><p class="youtube-embed-meta">Channel: PBS Idea Channel &middot; Views: 213.2K &middot; Uploaded: October 2014 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mgqM6xeZHNM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mgqM6xeZHNM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lwItkwJk6KM" title="Fallacy: Appeal to Authority" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lwItkwJk6KM" target="_blank" rel="noopener noreferrer">Fallacy: Appeal to Authority</a></p><p class="youtube-embed-meta">Channel: FOX HOUND &middot; Views: 44.2K &middot; Uploaded: October 2014 &middot; Length: 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lwItkwJk6KM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lwItkwJk6KM">Open on YouTube</a></p></div></div></div>
 
 ## Questions to Ask Before Accepting the Claim
 
@@ -814,129 +814,129 @@ Fame can communicate aspiration, identity and emotional appeal. It cannot, by it
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
    Title: Academic Who Is the Celebrity Endorser?  
-   Link: [https://academic.oup.com/jcr/article/16/3/310/1818800](https://academic.oup.com/jcr/article/16/3/310/1818800)  
+   Link: <a href="https://academic.oup.com/jcr/article/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcr/article/16/3/310/1818800</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Foundations of the...by G McCracken · 1989 · Cited by 6591 — The model shows how meanings pass from celebrity to product and fr...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788](https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2211973623000788</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An integrative approach to examining the celebrity...by SJ Lee · 2023 · Cited by 48 — The meaning transfer model (MTM) is a key theory t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: academic.oup.com  
    Title: Academic Who Is the Celebrity Endorser?  
-   Link: [https://academic.oup.com/jcr/article-abstract/16/3/310/1818800](https://academic.oup.com/jcr/article-abstract/16/3/310/1818800)  
+   Link: <a href="https://academic.oup.com/jcr/article-abstract/16/3/310/1818800" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jcr/article-abstract/16/3/310/1818800</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Foundations of the...by G McCracken · 1989 · Cited by 6623 — The model shows how meanings pass from celebrity to product and fr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect How does celebrity meaning transfer?  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1057740811001045](https://www.sciencedirect.com/science/article/abs/pii/S1057740811001045)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1057740811001045" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1057740811001045</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the...by FM Miller · 2012 · Cited by 251 — The results support, at the individual level, McCracken&#x27;s theoretical axiom con...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2208.02453](https://arxiv.org/abs/2208.02453)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExamining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</p></details>
+   Link: <a href="https://arxiv.org/abs/2208.02453" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.02453</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Impact of Source-product Congruence and Sponsorship Disclosure on the Communicative Effectiveness of Instagram Influen...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1809.00620](https://arxiv.org/abs/1809.00620)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEndorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.00620</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements on Social Media: An Empirical Study of Affiliate Marketing Disclosures on YouTube and PinterestSeptember 3, 2018...</p></details>
    Published: September 3, 2018  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1803.08488](https://arxiv.org/abs/1803.08488)  
+   Link: <a href="https://arxiv.org/abs/1803.08488" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.08488</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.04383](https://arxiv.org/abs/2603.04383)  
+   Link: <a href="https://arxiv.org/abs/2603.04383" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.04383</a>  
 
 9. <a id="endnote-9"></a>
    Source: wired.com  
    Title: Blame the Fyre Festival Fiasco on the Plague of Celebrity Influencers  
-   Link: [https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers](https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers)  
+   Link: <a href="https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/05/blame-fyre-festival-fiasco-plague-celebrity-influencers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ja Rule and Billy McFarland, the main faces behind the festival, initially bore the blame, but it later pointed towards numerous influenc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — This guidance doesn&#x27;t provide a safe harbor from po...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews</a>  
 
 12. <a id="endnote-12"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials](https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials)  
+   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-[testimonials</a>  
 
 13. <a id="endnote-13"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements](https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements)  
+   Link: <a href="https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/topics/truth-advertising/advertisement-endorsements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionAdvertisement EndorsementsThe FTC&#x27;s Endorsement Guides: Being Up-Front With Consumers. Endorsements are an import...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/89088004/Cultural-Meaning](https://www.scribd.com/document/89088004/Cultural-Meaning)  
+   Link: <a href="https://www.scribd.com/document/89088004/Cultural-Meaning" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/89088004/Cultural-Meaning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cultural Meaning | PDF | Self | CelebrityCelebrity endorsement is, in fact, a special instance ofa more general processof meaning transfe...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bookdown.org  
    Title: celebrity endorsement  
-   Link: [https://bookdown.org/mike/marketing_research/celebrity-endorsement.html](https://bookdown.org/mike/marketing_research/celebrity-endorsement.html)  
+   Link: <a href="https://bookdown.org/mike/marketing_research/celebrity-endorsement.html" target="_blank" rel="noopener noreferrer nofollow">https://bookdown.org/mike/marketing_research/celebrity-endorsement.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Source credibility and source attractiveness model are criticized. Meaning transfer model is then proposed to explain the effectiveness o...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255)  
+   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 CFR Part 255 -- Guides Concerning Use of...The Guides address the application of section 5 of the FTC Act, 15 USC 45, to the use of e...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: [https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising](https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising)  
+   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guides Concerning the Use of Endorsements and...26 Jul 2023 — The Federal Trade Commission (FTC or Commission) is adopting revised Guide...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: jean-pfiffelmann.com  
-   Link: [https://www.jean-pfiffelmann.com/brand-meaning-transfer-model/](https://www.jean-pfiffelmann.com/brand-meaning-transfer-model/)  
+   Link: <a href="https://www.jean-pfiffelmann.com/brand-meaning-transfer-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.jean-pfiffelmann.com/brand-meaning-transfer-model/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brand Meaning Transfer Modelby J Pfiffelmann — The Brand Meaning Transfer Model proposed by McCracken conceptualizes how cultural meaning...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/274328416/McCracken-1989-Endorsement-Process](https://www.scribd.com/document/274328416/McCracken-1989-Endorsement-Process)  
+   Link: <a href="https://www.scribd.com/document/274328416/McCracken-1989-Endorsement-Process" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/274328416/McCracken-1989-Endorsement-Process</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Celebrity Endorsement: Meaning Transfer Model | PDF | SelfThe meaning transfer model posits that celebrities are effective endorsers beca...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3669894_code2204844.pdf?abstractid=3669894&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3669894_code2204844.pdf?abstractid=3669894&mirid=1)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3669894_code2204844.pdf?abstractid=3669894&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3669894_code2204844.pdf?abstractid=3669894&amp;mirid=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>guides for social media influencers on endorsements...These guides are particularly important in social media posts so that a reader kno...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4VKn50yl/](https://ouci.dntb.gov.ua/en/works/4VKn50yl/)  
+   Link: <a href="https://ouci.dntb.gov.ua/en/works/4VKn50yl/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4VKn50yl/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>meaning transfer in celebrity endorsementsthe authors aim to investigate the basic components of the “Meaning Transfer Model” proposed by...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: wakeforestlawreview.com  
-   Link: [https://www.wakeforestlawreview.com/wp-content/uploads/2019/09/Carr_FTC-Guides.pdf](https://www.wakeforestlawreview.com/wp-content/uploads/2019/09/Carr_FTC-Guides.pdf)  
+   Link: <a href="https://www.wakeforestlawreview.com/wp-content/uploads/2019/09/Carr_FTC-Guides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wakeforestlawreview.com/wp-content/uploads/2019/09/Carr_FTC-Guides.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ftc guides for social media influencersEven if less than the majority of consumers are misled, the endorsement may be considered deceptiv...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: healthlawadvisor.com  
-   Link: [https://www.healthlawadvisor.com/influencers-brand-ambassadors-and-marketers-take-note-ftc-has-finalized-updates-to-its-endorsement-guides](https://www.healthlawadvisor.com/influencers-brand-ambassadors-and-marketers-take-note-ftc-has-finalized-updates-to-its-endorsement-guides)  
+   Link: <a href="https://www.healthlawadvisor.com/influencers-brand-ambassadors-and-marketers-take-note-ftc-has-finalized-updates-to-its-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow">https://www.healthlawadvisor.com/influencers-brand-ambassadors-and-marketers-take-note-ftc-has-finalized-updates-to-its-endorsement-guides</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Has Finalized Updates to Its Endorsement GuidesAug 8, 2023 — The FTC proposed changing the Endorsement Guide&#x27;s definition of “endorse...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hklaw.com  
-   Link: [https://www.hklaw.com/en/insights/publications/2010/04/tougher-new-ftc-ad-guides-for-celebrity-endorsemen](https://www.hklaw.com/en/insights/publications/2010/04/tougher-new-ftc-ad-guides-for-celebrity-endorsemen)  
+   Link: <a href="https://www.hklaw.com/en/insights/publications/2010/04/tougher-new-ftc-ad-guides-for-celebrity-endorsemen" target="_blank" rel="noopener noreferrer nofollow">https://www.hklaw.com/en/insights/publications/2010/04/tougher-new-ftc-ad-guides-for-celebrity-endorsemen</a>  
 
 25. <a id="endnote-25"></a>
    Source: fenwick.com  
-   Link: [https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements](https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements)  
+   Link: <a href="https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements" target="_blank" rel="noopener noreferrer nofollow">https://www.fenwick.com/insights/publications/ftc-announces-updated-advertising-guides-to-combat-deceptive-reviews-and-endorsements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Announces Updated Endorsement Guides to Combat…25 Jul 2023 — The Guides set forth general principles for evaluating endorsements and...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-loaded/
 description: Focused pages that expand on Loaded Words.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_loaded_language_f9a858
 parent_title: Loaded Words | Logical Fallacies

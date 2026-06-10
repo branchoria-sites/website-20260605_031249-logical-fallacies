@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-sports-false/
 description: Focused pages that expand on Sports Cause.
-date: '2026-06-05'
+date: '2026-06-10'
 layout: default
 parent_basename: logical_fallacies_998914_sports_false_cause_f4fada
 parent_title: Sports Cause | Logical Fallacies

@@ -509,17 +509,17 @@ When evaluating arguments, expert testimony can often seem persuasive—but rely
 
 An appeal to authority becomes a fallacy **when the expert’s standing is treated as sufficient proof of the claim without substantive evidence**. In its simplest form this translates to the pattern: *“Person X is an authority on topic Y; X says claim Z is true; therefore Z is true.”* While this feels persuasive, it does not by itself establish the truth of Z.⁤ <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious Appeal to Authority</span><span class="citation-popover-snippet">Logically FallaciousAppeal to Authority - Logically Fallacious...</span></span></span>
 
-However, the mere involvement of an expert does not automatically make an argument fallacious. Philosophers and critical thinkers note that *expert testimony can be a reasonable part of good reasoning* if certain conditions are met, such as qualified expertise, consensus in the field, and relevant evidence backing the conclusion.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+However, the mere involvement of an expert does not automatically make an argument fallacious. Philosophers and critical thinkers note that *expert testimony can be a reasonable part of good reasoning* if certain conditions are met, such as qualified expertise, consensus in the field, and relevant evidence backing the conclusion.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 
 ## Relevant Expertise: What Counts as an Authority?
 
 Experts are not interchangeable: their authority depends on **[relevance]({{ 'relevance/' | relative_url }})** and **domain specificity**:
 
-* **Domain relevance:** A medical doctor is authoritative on health issues but not on, say, financial markets. Citing them outside their field weakens the argument.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
-* **Identified credentials:** Vague references like “experts say…” are weak, because without identification you cannot assess the expert’s actual qualifications.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJune 16, 2023...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
+* **Domain relevance:** A medical doctor is authoritative on health issues but not on, say, financial markets. Citing them outside their field weakens the argument.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+* **Identified credentials:** Vague references like “experts say…” are weak, because without identification you cannot assess the expert’s actual qualifications.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 16, 2023...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
 * **Consensus and dispute:** Even genuine experts may disagree; when there is no clear consensus, appealing to a single expert as the definitive voice is weak support.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</span></span></span>
 
-Experts also vary in credibility due to biases, funding influences, and methodological disagreements, and these factors can diminish the weight their opinions carry in argumentation.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+Experts also vary in credibility due to biases, funding influences, and methodological disagreements, and these factors can diminish the weight their opinions carry in argumentation.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-1-dark.svg" | relative_url }}" alt="Authority illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -527,8 +527,8 @@ Experts also vary in credibility due to biases, funding influences, and methodol
 
 A common source of fallacious appeals is **misusing or misquoting authorities**:
 
-* **False authority:** Citing someone with no real expertise in the relevant area—such as celebrities endorsing scientific claims—demonstrates this fallacy clearly.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
-* **Anonymous authority:** Attributing a claim to “experts” without naming them or showing their reasoning prevents verification and renders the appeal weak or fallacious.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJune 16, 2023...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
+* **False authority:** Citing someone with no real expertise in the relevant area—such as celebrities endorsing scientific claims—demonstrates this fallacy clearly.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+* **Anonymous authority:** Attributing a claim to “experts” without naming them or showing their reasoning prevents verification and renders the appeal weak or fallacious.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 16, 2023...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
 * **Biased or vested-interest authority:** Experts who have financial or ideological stakes in a conclusion may be less reliable and can mislead if their status is taken as evidence without scrutiny.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</span></span></span>
 
 In each case, the trouble is not that an authority was cited, but that the expert’s relevance, trustworthiness, or link to evidence is insufficiently established.
@@ -538,7 +538,7 @@ In each case, the trouble is not that an authority was cited, but that the exper
 
 ## Why Expert Opinion Alone Is Weak Support
 
-Philosophers of logic emphasise that arguments from expert opinion are **inductively weak unless they significantly increase the likelihood of truth** relative to other evidence. Simply pointing to an expert does not, by itself, offer grounding in data, reasoning, or independent verification. In fact, research suggests expert judgments can be only modestly more accurate than chance without supporting evidence and systematic evaluation.⁤ <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicWhy Arguments from Expert Opinion are Weak Arguments | Informal LogicMarch 15, 2013...</span><span class="citation-popover-meta">Published: March 15, 2013</span></span></span>
+Philosophers of logic emphasise that arguments from expert opinion are **inductively weak unless they significantly increase the likelihood of truth** relative to other evidence. Simply pointing to an expert does not, by itself, offer grounding in data, reasoning, or independent verification. In fact, research suggests expert judgments can be only modestly more accurate than chance without supporting evidence and systematic evaluation.⁤ <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/3656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicWhy Arguments from Expert Opinion are Weak Arguments &#124; Informal LogicMarch 15, 2013...</span><span class="citation-popover-meta">Published: March 15, 2013</span></span></span>
 
 From the standpoint of [formal logic]({{ 'formal-logic/' | relative_url }}), an appeal to authority is never a deductively valid proof—**even a genuine expert might be wrong**. The fallacy lies in substituting the expert’s status for actual justification, not in citing expertise per se.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://critical-thinking.org.uk/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critical-thinking.org.uk">[critical-thinking.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critical-thinking.org.uk</span><span class="citation-popover-title">Appeal to Authority</span><span class="citation-popover-snippet">July 24, 2014...</span><span class="citation-popover-meta">Published: July 24, 2014</span></span></span>
 
@@ -1010,69 +1010,69 @@ Expert opinion plays an important role in everyday reasoning and decision-making
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Argument from authority  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_authority](https://en.wikipedia.org/wiki/Argument_from_authority)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: Appeal to Authority Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22](https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</p></details>
+   Link: <a href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</p></details>
    Published: June 15, 2023  
 
 3. <a id="endnote-3"></a>
    Source: scribbr.com  
    Title: Appeal to Authority Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/](https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJune 15, 2023...</p></details>
    Published: June 15, 2023  
 
 4. <a id="endnote-4"></a>
    Source: critical-thinking.org.uk  
    Title: Appeal to Authority  
-   Link: [https://critical-thinking.org.uk/appeal-to-authority](https://critical-thinking.org.uk/appeal-to-authority)  
+   Link: <a href="https://critical-thinking.org.uk/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://critical-thinking.org.uk/appeal-to-authority</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2014...</p></details>
    Published: July 24, 2014  
 
 6. <a id="endnote-6"></a>
    Source: logicallyfallacious.com  
    Title: Logically Fallacious Appeal to Authority  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAppeal to Authority - Logically Fallacious...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Appeal to Authority Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/](https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJune 16, 2023...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-appeal-to-authority-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJune 16, 2023...</p></details>
    Published: June 16, 2023  
 
 8. <a id="endnote-8"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/3656](https://informallogic.ca/index.php/informal_logic/article/view/3656)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/3656" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3656</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicWhy Arguments from Expert Opinion are Weak Arguments | Informal LogicMarch 15, 2013...</p></details>
    Published: March 15, 2013  
 
 9. <a id="endnote-9"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/blog/how-to-spot-an-appeal-to-authority-fallacy](https://www.logicallyfallacious.com/blog/how-to-spot-an-appeal-to-authority-fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-spot-an-appeal-to-authority-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-an-appeal-to-authority-fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousHow to Spot an Appeal to Authority Fallacy | Logically FallaciousApril 23, 2026...</p></details>
    Published: April 23, 2026  
 
 10. <a id="endnote-10"></a>
    Source: logicalfallacies.org  
    Title: Appeal To Authority  
-   Link: [https://www.logicalfallacies.org/appeal-to-authority.html](https://www.logicalfallacies.org/appeal-to-authority.html)  
+   Link: <a href="https://www.logicalfallacies.org/appeal-to-authority.html" target="_blank" rel="noopener noreferrer nofollow">https://www.logicalfallacies.org/appeal-to-authority.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples | LFAPPEAL TO AUTHORITY informal Fallacy The fallacy of appeal to authority (also known as argumentum ad verecundia...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: logicallyfallacious.com  
    Title: Appeal to False Authority  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-False-Authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically Fallacious← Back to all fallacies APPEAL TO FALSE AUTHORITY (also known as: appeal to doubtful authority, appeal to dubious aut...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribbr.co.uk  
-   Link: [https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/](https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/)  
+   Link: <a href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</p></details>
 
 ### Additional References
@@ -1080,62 +1080,62 @@ Expert opinion plays an important role in everyday reasoning and decision-making
 13. <a id="endnote-13"></a>
    Source: philpapers.org  
    Title: Moti Mizrahi, Why Arguments from Expert Opinion are Weak Arguments  
-   Link: [https://philpapers.org/rec/MIZWAF](https://philpapers.org/rec/MIZWAF)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersJanuary 1, 2013 — WHY ARGUMENTS FROM EXPERT OPINION ARE WEAK ARGUMENTS Moti Mizrahi [Informal Logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) 33 (1):57-79 (2013) @article...</p></details>
+   Link: <a href="https://philpapers.org/rec/MIZWAF" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/MIZWAF</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2013 — WHY ARGUMENTS FROM EXPERT OPINION ARE WEAK ARGUMENTS Moti Mizrahi [Informal Logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) 33 (1):57-79 (2013) @article...</p></details>
    Published: January 1, 2013  
 
 14. <a id="endnote-14"></a>
    Source: icriticalthinking.org  
    Title: Appeal to Authority – International Critical Thinking Foundation  
-   Link: [https://icriticalthinking.org/library/appeal-to-authority/](https://icriticalthinking.org/library/appeal-to-authority/)  
+   Link: <a href="https://icriticalthinking.org/library/appeal-to-authority/" target="_blank" rel="noopener noreferrer nofollow">https://icriticalthinking.org/library/appeal-to-authority/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Awdhesh Singh / November 15, 2024 APPEAL TO AUTHORITY Appeal to authority, also known as an appeal to false or unqualified authority, mea...</p></details>
    Published: November 15, 2024  
 
 15. <a id="endnote-15"></a>
    Source: thoughtco.com  
    Title: Logical Fallacies: Appeal to Authority  
-   Link: [https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336](https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336)  
+   Link: <a href="https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/logical-fallacies-appeal-to-authority-250336</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2021 — FALLACIES OF RELEVANCE: APPEAL TO AUTHORITY Overview and Introduction By Austin Cline Austin Cline Writer * M.A., Prince...</p></details>
    Published: March 31, 2021  
 
 16. <a id="endnote-16"></a>
    Source: entish.org  
    Title: A Fallacy Recognition Handbook  
-   Link: [https://www.entish.org/fallacies.html](https://www.entish.org/fallacies.html)  
+   Link: <a href="https://www.entish.org/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.entish.org/fallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 27, 2004 — APPEAL TO AUTHORITY Also Known as: Fallacious Appeal to Authority, Misuse of Authority, Irrelevant Authority, Questionab...</p></details>
    Published: March 27, 2004  
 
 17. <a id="endnote-17"></a>
    Source: mindinsight.io  
    Title: Appeal to Authority Fallacy  
-   Link: [https://mindinsight.io/pages/appeal-to-authority](https://mindinsight.io/pages/appeal-to-authority)  
+   Link: <a href="https://mindinsight.io/pages/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://mindinsight.io/pages/appeal-to-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MindInsight⚡ Logical Fallacy APPEAL TO AUTHORITY FALLACY When expertise doesn&#x27;t match the claim: The fallacy of accepting something as tr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10503-011-9225-8](https://link.springer.com/article/10.1007/s10503-011-9225-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10503-011-9225-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-011-9225-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment of Argumentation from Expert Opinion | Argumentation | Springer Nature LinkJuly 26, 2011 — THE ASSESSMENT OF ARGUMENTATION FRO...</p></details>
    Published: July 26, 2011  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Appeal to Authority: When trusting experts becomes a logical fallacy  
-   Link: [https://www.youtube.com/watch?v=WsON5mGeVto](https://www.youtube.com/watch?v=WsON5mGeVto)  
+   Link: <a href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WsON5mGeVto</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority (Misunderstood Fallacies)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-authority](https://fallacyguide.com/fallacies/appeal-to-authority)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority (Argument from Authority) Fallacy: Definition, Examples &amp; How to Fix ItTHE APPEAL TO AUTHORITY (ARGUMENT FROM AUTHORI...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Appeal to Authority (Misunderstood Fallacies)  
-   Link: [https://www.youtube.com/watch?v=ns305L-he40](https://www.youtube.com/watch?v=ns305L-he40)  
+   Link: <a href="https://www.youtube.com/watch?v=ns305L-he40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ns305L-he40</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(How) You Fail At Thinking!: The Authority Argument...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Fallacies: Appeal to Authority  
-   Link: [https://www.youtube.com/watch?v=3PDrnZoM3nA](https://www.youtube.com/watch?v=3PDrnZoM3nA)  
+   Link: <a href="https://www.youtube.com/watch?v=3PDrnZoM3nA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3PDrnZoM3nA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority: When trusting experts becomes a logical fallacy...</p></details>

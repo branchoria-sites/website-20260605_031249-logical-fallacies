@@ -331,7 +331,7 @@ A classic form is:
 
 </div>
 
-The conclusion is absurd, but the structure mirrors many less obvious arguments. The broad category “mammals” does not create identity between every subgroup within it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/undistributed-middle-fallacy-1692453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co The Logic Fallacy of the Undistributed Middle</span><span class="citation-popover-snippet">ThoughtCoThe Logic Fallacy of the Undistributed MiddleMay 11, 2025 — The undistributed middle is a logical fallacy of deduction in which...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
+The conclusion is absurd, but the structure mirrors many less obvious arguments. The broad category “mammals” does not create identity between every subgroup within it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/undistributed-middle-fallacy-1692453" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co The Logic Fallacy of the Undistributed Middle</span><span class="citation-popover-snippet">The Logic Fallacy of the Undistributed MiddleMay 11, 2025 — The undistributed middle is a logical fallacy of deduction in which...</span><span class="citation-popover-meta">Published: May 11, 2025</span></span></span>
 
 ### Social and Political Reasoning
 
@@ -781,168 +781,168 @@ The undistributed middle demonstrates that a common category does not automatica
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The semi-logical...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/middle_fall.html](https://philosophy.lander.edu/logic/middle_fall.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/middle_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/middle_fall.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Syllogistic Fallacies: Fallacy of the Undistributed Middle TermThe Fallacy of the Undistributed Middle Term occurs when the middle term i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: study.com  
    Title: categorical logic definition importance examples  
-   Link: [https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html](https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/categorical-logic-definition-importance-examples.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All dogs are mammals. Therefore, all cats are dogs. This syllogism commits the fallacy of the undistributed middle term...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: britannica.com  
    Title: distribution logic  
-   Link: [https://www.britannica.com/topic/distribution-logic](https://www.britannica.com/topic/distribution-logic)  
+   Link: <a href="https://www.britannica.com/topic/distribution-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/distribution-logic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaDistribution | Formal Systems, Deductive Reasoning...6 Feb 2026 — Distribution, in syllogistics, the application...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/undistributed](https://www.merriam-webster.com/dictionary/undistributed)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/undistributed" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/undistributed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ng information about every member of the class named.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thoughtco.com  
    Title: Thought Co The Logic Fallacy of the Undistributed Middle  
-   Link: [https://www.thoughtco.com/undistributed-middle-fallacy-1692453](https://www.thoughtco.com/undistributed-middle-fallacy-1692453)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ThoughtCoThe Logic Fallacy of the Undistributed MiddleMay 11, 2025 — The undistributed middle is a logical fallacy of deduction in which...</p></details>
+   Link: <a href="https://www.thoughtco.com/undistributed-middle-fallacy-1692453" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/undistributed-middle-fallacy-1692453</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic Fallacy of the Undistributed MiddleMay 11, 2025 — The undistributed middle is a logical fallacy of deduction in which...</p></details>
    Published: May 11, 2025  
 
 7. <a id="endnote-7"></a>
    Source: web.stanford.edu  
-   Link: [https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm](https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm)  
+   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesFallacy of Four Terms: a syllogism has four terms · Undistributed Middle: two separate categories are said to be connect...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: stanford.edu  
-   Link: [https://www.stanford.edu/](https://www.stanford.edu/)  
+   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: medieval syllogism  
-   Link: [https://plato.stanford.edu/entries/medieval-syllogism/](https://plato.stanford.edu/entries/medieval-syllogism/)  
+   Link: <a href="https://plato.stanford.edu/entries/medieval-syllogism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/medieval-syllogism/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories of the Syllogismby H Lagerlund · 2004 · Cited by 62 — In the first figure, IA, OA, and OI have an undistributed middle...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/logic-manyvalued/](https://plato.stanford.edu/entries/logic-manyvalued/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-manyvalued/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-manyvalued/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stanford.eduMany-Valued Logic - Stanford Encyclopedia of Philosophyby J Marcos · 2026 · Cited by 1 — They are proper sublogics: there are...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
    Title: aristotle noncontradiction  
-   Link: [https://plato.stanford.edu/entries/aristotle-noncontradiction/](https://plato.stanford.edu/entries/aristotle-noncontradiction/)  
+   Link: <a href="https://plato.stanford.edu/entries/aristotle-noncontradiction/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/aristotle-noncontradiction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on Non-contradictionby P Gottlieb · 2007 · Cited by 162 — According to Aristotle, the principle of non-contradiction is a principle of sc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: news.stanford.edu  
    Title: how to concentrate focus expert tips advice  
-   Link: [https://news.stanford.edu/stories/2026/05/how-to-concentrate-focus-expert-tips-advice](https://news.stanford.edu/stories/2026/05/how-to-concentrate-focus-expert-tips-advice)  
+   Link: <a href="https://news.stanford.edu/stories/2026/05/how-to-concentrate-focus-expert-tips-advice" target="_blank" rel="noopener noreferrer nofollow">https://news.stanford.edu/stories/2026/05/how-to-concentrate-focus-expert-tips-advice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to concentrate in an ever-distracted world...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2015/entries/fallacies/notes.html](https://plato.stanford.edu/archives/fall2015/entries/fallacies/notes.html)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2015/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2015/entries/fallacies/notes.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>See Corcoran (1974), Smith (1997), and Irwin and Fine (1996). 4. Whately (1875) has...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: philosophy.institute  
    Title: common fallacies categorical syllogisms  
-   Link: [https://philosophy.institute/logic/common-fallacies-categorical-syllogisms/](https://philosophy.institute/logic/common-fallacies-categorical-syllogisms/)  
+   Link: <a href="https://philosophy.institute/logic/common-fallacies-categorical-syllogisms/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/common-fallacies-categorical-syllogisms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Fallacies in Categorical Syllogisms29 Dec 2025 — This post walks through the most common fallacies in categorical syllogisms – und...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: philosophy.lander.edu  
    Title: nature fall  
-   Link: [https://philosophy.lander.edu/logic/nature_fall.html](https://philosophy.lander.edu/logic/nature_fall.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature of Fallacies∴ Rousseau is not an educational authority. This translation results in the fallacy of the undistributed middle. Moreo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle](https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Fallacy-of-the-Undistributed-Middle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousFallacy of (the) Undistributed MiddleA formal fallacy in a categorical syllogism where the middle term, or the term t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Syllogism](https://en.wikipedia.org/wiki/Syllogism)  
+   Link: <a href="https://en.wikipedia.org/wiki/Syllogism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Syllogism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SyllogismA syllogism is a kind of logical argument that applies deductive reasoning to arrive at a conclusion based on two proposition...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: suchanek.co  
-   Link: [https://suchanek.co/p/the-fallacy-of-the-undistributed](https://suchanek.co/p/the-fallacy-of-the-undistributed)  
+   Link: <a href="https://suchanek.co/p/the-fallacy-of-the-undistributed" target="_blank" rel="noopener noreferrer nofollow">https://suchanek.co/p/the-fallacy-of-the-undistributed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy of the Undistributed Middle - Tim SuchanekOct 11, 2023 — It occurs when the middle term in a categorical syllogism isn&#x27;t dist...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Fallacy of the undistributed middle  
-   Link: [https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle](https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy_of_the_undistributed_middle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy of the undistributed middle... middle term in a categorical syllogism is not distributed in either the minor premise or the ma...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sciencedaily.com  
-   Link: [https://www.sciencedaily.com/releases/2026/05/260528074028.htm](https://www.sciencedaily.com/releases/2026/05/260528074028.htm)  
+   Link: <a href="https://www.sciencedaily.com/releases/2026/05/260528074028.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2026/05/260528074028.htm</a>  
 
 21. <a id="endnote-21"></a>
    Source: fiveable.me  
    Title: Fallacy of the Undistributed Middle  
-   Link: [https://fiveable.me/formal-logic-i/key-terms/fallacy-of-the-undistributed-middle](https://fiveable.me/formal-logic-i/key-terms/fallacy-of-the-undistributed-middle)  
+   Link: <a href="https://fiveable.me/formal-logic-i/key-terms/fallacy-of-the-undistributed-middle" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/formal-logic-i/key-terms/fallacy-of-the-undistributed-middle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of the undistributed middle occurs when a syllogism contains a middle term that is not distributed in at least one of the pre...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesUndistributed Middle. In syllogistic logic, failing to distribute the middle term over at lea...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: naturalistphilosophy.wordpress.com  
-   Link: [https://naturalistphilosophy.wordpress.com/tag/logic/](https://naturalistphilosophy.wordpress.com/tag/logic/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| The Philosophy CornerLogically, if we take Modus Ponens to be a substitute for a hypothetical syllogism, then undistributed middle is a...</p></details>
+   Link: <a href="https://naturalistphilosophy.wordpress.com/tag/logic/" target="_blank" rel="noopener noreferrer nofollow">https://naturalistphilosophy.wordpress.com/tag/logic/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Philosophy CornerLogically, if we take Modus Ponens to be a substitute for a hypothetical syllogism, then undistributed middle is a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: amateurlogician.com  
-   Link: [https://amateurlogician.com/fallacies-introduction/](https://amateurlogician.com/fallacies-introduction/)  
+   Link: <a href="https://amateurlogician.com/fallacies-introduction/" target="_blank" rel="noopener noreferrer nofollow">https://amateurlogician.com/fallacies-introduction/</a>  
 
 25. <a id="endnote-25"></a>
    Source: philosophy.stackexchange.com  
    Title: what is the difference between law of excluded middle and principle of bivalence  
-   Link: [https://philosophy.stackexchange.com/questions/3268/what-is-the-difference-between-law-of-excluded-middle-and-principle-of-bivalence](https://philosophy.stackexchange.com/questions/3268/what-is-the-difference-between-law-of-excluded-middle-and-principle-of-bivalence)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/3268/what-is-the-difference-between-law-of-excluded-middle-and-principle-of-bivalence" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/3268/what-is-the-difference-between-law-of-excluded-middle-and-principle-of-bivalence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the difference between Law of Excluded Middle...Jul 10, 2012 — Law of Excluded Middle: In logic, the law of excluded middle (or the p...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/212807754/Rules-and-Fallacies-for-Categorical-Syllogisms](https://www.scribd.com/doc/212807754/Rules-and-Fallacies-for-Categorical-Syllogisms)  
+   Link: <a href="https://www.scribd.com/doc/212807754/Rules-and-Fallacies-for-Categorical-Syllogisms" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/212807754/Rules-and-Fallacies-for-Categorical-Syllogisms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The middle term must be distributed at least once to connect the major and minor...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: bookdown.org  
-   Link: [https://bookdown.org/rlridenour/ct-text/categorical-logic.html](https://bookdown.org/rlridenour/ct-text/categorical-logic.html)  
+   Link: <a href="https://bookdown.org/rlridenour/ct-text/categorical-logic.html" target="_blank" rel="noopener noreferrer nofollow">https://bookdown.org/rlridenour/ct-text/categorical-logic.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here is an example: All Dogs are mammals. All mammals are animals. All dogs are...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: testbook.com  
-   Link: [https://testbook.com/question-answer/the-fallacy-committed-in-the-argumentall-t--62fca9668d063ca9a0c95253](https://testbook.com/question-answer/the-fallacy-committed-in-the-argumentall-t--62fca9668d063ca9a0c95253)  
+   Link: <a href="https://testbook.com/question-answer/the-fallacy-committed-in-the-argumentall-t--62fca9668d063ca9a0c95253" target="_blank" rel="noopener noreferrer nofollow">https://testbook.com/question-answer/the-fallacy-committed-in-the-argumentall-t--62fca9668d063ca9a0c95253</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r and major premises to avoid the formal fallacy known as the undistributed middle.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: faculty.fiu.edu  
    Title: Categorical Syllogisms, Venn Diagrams and Rules for Testing  
-   Link: [https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/Categorical%20Syllogisms%2C%20Venn%20Diagrams%20and%20Rules%20for%20Testing.htm](https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/Categorical%20Syllogisms%2C%20Venn%20Diagrams%20and%20Rules%20for%20Testing.htm)  
+   Link: <a href="https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/Categorical%20Syllogisms%2C%20Venn%20Diagrams%20and%20Rules%20for%20Testing.htm" target="_blank" rel="noopener noreferrer nofollow">https://faculty.fiu.edu/~harrisk/Notes/Critical%20Thinking/Categorical%20Syllogisms%2C%20Venn%20Diagrams%20and%20Rules%20for%20Testing.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Syllogism, Venn Diagrams and Rules...A Categorical Syllogism is a two premised deductive argument whose every claim is a categorical cla...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: testbook.com  
-   Link: [https://testbook.com/question-answer/name-the-fallacy-committed-in-the-statements-below--621f738d013951392a537a8f](https://testbook.com/question-answer/name-the-fallacy-committed-in-the-statements-below--621f738d013951392a537a8f)  
+   Link: <a href="https://testbook.com/question-answer/name-the-fallacy-committed-in-the-statements-below--621f738d013951392a537a8f" target="_blank" rel="noopener noreferrer nofollow">https://testbook.com/question-answer/name-the-fallacy-committed-in-the-statements-below--621f738d013951392a537a8f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in standard form syllogisms whenever the term appearing in both premises is...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/442356012/Rule-and-Fallacies-of-catogerical-preposition-doc](https://www.scribd.com/document/442356012/Rule-and-Fallacies-of-catogerical-preposition-doc)  
+   Link: <a href="https://www.scribd.com/document/442356012/Rule-and-Fallacies-of-catogerical-preposition-doc" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/442356012/Rule-and-Fallacies-of-catogerical-preposition-doc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy: Undistributed middle. Example: All sharks are fish. All...Read more...</p></details>

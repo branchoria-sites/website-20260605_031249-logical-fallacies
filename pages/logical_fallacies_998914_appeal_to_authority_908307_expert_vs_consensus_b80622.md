@@ -278,7 +278,7 @@ When people encounter a technical question they cannot evaluate directly, they o
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-1-dark.svg" | relative_url }}" alt="Expert Consensus illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because appeals to authority become especially vulnerable when an argument treats one respected figure as decisive while ignoring the wider state of expert knowledge. Understanding why consensus normally carries greater weight helps readers avoid both blind trust in famous experts and the opposite mistake of dismissing expertise altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely...</span></span></span>
+This distinction matters because appeals to authority become especially vulnerable when an argument treats one respected figure as decisive while ignoring the wider state of expert knowledge. Understanding why consensus normally carries greater weight helps readers avoid both blind trust in famous experts and the opposite mistake of dismissing expertise altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely...</span></span></span>
 
 ## Why Isolated Experts Can Mislead
 
@@ -316,7 +316,7 @@ Consensus deserves greater weight than a lone expert for several reasons.
 
 **Professional criticism is built in.** Researchers gain recognition by identifying weaknesses in existing explanations. A consensus therefore develops despite incentives to challenge prevailing ideas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</span></span></span>
 
-**Institutional review adds scrutiny.** Organisations such as the National Academies produce consensus reports that synthesise evidence through structured expert review rather than relying on the judgement of a single authority. These reports are designed to represent evidence-based collective assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIThe National Academies of SCIENCES</span><span class="citation-popover-snippet">MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Reports typically include findings, co...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dev.nap.edu/new/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dev.nap.edu">[2dev.nap.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dev.nap.edu</span><span class="citation-popover-snippet">New Releases | The National Academies PressConsensus Study Reports: Consensus Study Reports published by the National Academies of Scienc...</span></span></span>
+**Institutional review adds scrutiny.** Organisations such as the National Academies produce consensus reports that synthesise evidence through structured expert review rather than relying on the judgement of a single authority. These reports are designed to represent evidence-based collective assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIThe National Academies of SCIENCES</span><span class="citation-popover-snippet">MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Reports typically include findings, co...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dev.nap.edu/new/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dev.nap.edu">[2dev.nap.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dev.nap.edu</span><span class="citation-popover-snippet">New Releases &#124; The National Academies PressConsensus Study Reports: Consensus Study Reports published by the National Academies of Scienc...</span></span></span>
 
 For this reason, many critical-thinking guides distinguish between "an expert says" and "the relevant expert community broadly agrees". The latter is usually much stronger evidence, even though it remains open to revision if new evidence emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Appeal to AuthorityIt&#x27;s important to note that this fallacy should not be used to dismiss the claims of experts, or scientific consensus....</span></span></span>
 
@@ -339,7 +339,7 @@ The existence of past consensus errors therefore does not imply that isolated ex
 
 Expert disagreement is real, but its significance depends on the field and the question being asked.
 
-Some areas of science exhibit broad agreement on core conclusions while continuing to [debate]({{ 'debate/' | relative_url }}) details. Research on expert disagreement has found that outsiders often perceive more disagreement than specialists themselves report. Experts may strongly dispute [mechanisms]({{ 'mechanisms/' | relative_url }}), interpretations, or policy implications while still agreeing on fundamental findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDivergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</span></span></span>
+Some areas of science exhibit broad agreement on core conclusions while continuing to [debate]({{ 'debate/' | relative_url }}) details. Research on expert disagreement has found that outsiders often perceive more disagreement than specialists themselves report. Experts may strongly dispute [mechanisms]({{ 'mechanisms/' | relative_url }}), interpretations, or policy implications while still agreeing on fundamental findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</span></span></span>
 
 When encountering conflicting expert claims, several questions are useful:
 
@@ -356,7 +356,7 @@ When encountering conflicting expert claims, several questions are useful:
 
 These questions shift attention away from prestige and towards the structure of expert agreement itself.
 
-A practical rule is that disagreement among a handful of specialists does not necessarily undermine a well-established consensus. Conversely, when a field genuinely lacks consensus, appeals to any single authority become weaker because the relevant experts themselves remain divided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — The logic of appeals to credibl...</span></span></span>
+A practical rule is that disagreement among a handful of specialists does not necessarily undermine a well-established consensus. Conversely, when a field genuinely lacks consensus, appeals to any single authority become weaker because the relevant experts themselves remain divided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — The logic of appeals to credibl...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-3-dark.svg" | relative_url }}" alt="Expert Consensus illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_expert_vs_consensus_b80622-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -792,135 +792,135 @@ When evaluating claims, it is generally more rational to ask, "What does the fie
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Scientific consensus  
-   Link: [https://en.wikipedia.org/wiki/Scientific_consensus](https://en.wikipedia.org/wiki/Scientific_consensus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Scientific_consensus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Scientific_consensus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 30, 2025 — Scientific consensus is the collective judgment, position, and opinion of the vast majority of active, qualified expe...</p></details>
    Published: December 30, 2025  
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
-   Title: appeal to authority fallacy  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/](https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAppeal to Authority Fallacy | Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely...</p></details>
+   Title: [appeal to authority](&#123;&#123; 'authority/' | relative_url &#125;&#125;) fallacy  
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority Fallacy | Definition &amp; ExamplesJun 15, 2023 — Appeal to authority fallacy occurs when we accept a claim merely...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Argument from authority  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_authority](https://en.wikipedia.org/wiki/Argument_from_authority)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
 
 4. <a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIThe National Academies of SCIENCES  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK424919/](https://www.ncbi.nlm.nih.gov/books/NBK424919/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK424919/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Reports typically include findings, co...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: dev.nap.edu  
-   Link: [https://dev.nap.edu/new/](https://dev.nap.edu/new/)  
+   Link: <a href="https://dev.nap.edu/new/" target="_blank" rel="noopener noreferrer nofollow">https://dev.nap.edu/new/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Releases | The National Academies PressConsensus Study Reports: Consensus Study Reports published by the National Academies of Scienc...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/appeal-to-authority](https://yourlogicalfallacyis.com/appeal-to-authority)  
+   Link: <a href="https://yourlogicalfallacyis.com/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/appeal-to-authority</a>  
 
 7. <a id="endnote-7"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/](https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — The logic of appeals to credibl...</p></details>
+   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — The logic of appeals to credibl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Helicobacter pylori: Consensus and Controversy  
-   Link: [https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy](https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy)  
+   Link: <a href="https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11263817_Helicobacter_pylori_Consensus_and_Controversy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infection leads to a range of subclinical and clinical outcomes that depend on...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: darmzentrum-bern.ch  
-   Link: [https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf](https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf)  
+   Link: <a href="https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.darmzentrum-bern.ch/fileadmin/darmzentrum/Education/Bible_Class/2020/Acid_disease_stomach/Maastricht_V_2017.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Darmzentrum BernManagement of Helicobacter pylori infection—the...by F Bazzoli · 2016 · Cited by 4178 — In the Maastricht V/Florence Con...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.01889](https://arxiv.org/abs/1802.01889)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDivergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</p></details>
+   Link: <a href="https://arxiv.org/abs/1802.01889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.01889</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Divergent Perspectives on Expert Disagreement: Preliminary Evidence from Climate Science, Climate Policy, Astrophysics, and Public O...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358790324_Widespread_use_of_National_Academies_consensus_reports_by_the_American_public](https://www.researchgate.net/publication/358790324_Widespread_use_of_National_Academies_consensus_reports_by_the_American_public)  
+   Link: <a href="https://www.researchgate.net/publication/358790324_Widespread_use_of_National_Academies_consensus_reports_by_the_American_public" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358790324_Widespread_use_of_National_Academies_consensus_reports_by_the_American_public</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ation, although they lack evidence for this.Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/process](https://www.nationalacademies.org/process)  
+   Link: <a href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/process</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesProcessThe National Academies bring together the nation&#x27;s leading experts through rigorous, evidence-based processes to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nap.nationalacademies.org  
    Title: National Academies Publications Consensus Study Report  
-   Link: [https://nap.nationalacademies.org/resource/25303/R%26R.pdf](https://nap.nationalacademies.org/resource/25303/R%26R.pdf)  
+   Link: <a href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nap.nationalacademies.org/resource/25303/R%26R.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Academies PublicationsConsensus Study Report - PublicationsOne of the pathways by which the scientific community confirms the va...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/authority.html](https://philosophy.lander.edu/logic/authority.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/authority.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/authority.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Verecundiam (Argument from Authority) Explained with...Argumentum ad Verecundiam Fallacy (argument from inappropr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thelogicofscience.com  
    Title: the rules of logic part 6 appealing to authority vs deferring to experts  
-   Link: [https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/](https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/)  
+   Link: <a href="https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/" target="_blank" rel="noopener noreferrer nofollow">https://thelogicofscience.com/2015/03/20/the-rules-of-logic-part-6-appealing-to-authority-vs-deferring-to-experts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Logic of ScienceAppealing to Authority vs. Deferring to ExpertsMar 20, 2015 — A good rule of thumb is that you don&#x27;t need to be an ex...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb](https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb)  
+   Link: <a href="https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40madmegalomaniac/appeal-to-authority-ought-to-include-expert-consensus-727eb92ce0eb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority ought to include Expert ConsensusDeferring an argument to authority is rational. Arguing that something is true becau...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-authority](https://fallacyguide.com/fallacies/appeal-to-authority)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideAppeal to Authority (Argument from Authority) FallacyAppeal to authority treats an expert&#x27;s word as proof without eviden...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: web-archive.southampton.ac.uk  
-   Link: [https://web-archive.southampton.ac.uk/cogprints.org/677/1/ulcers.htm](https://web-archive.southampton.ac.uk/cogprints.org/677/1/ulcers.htm)  
+   Link: <a href="https://web-archive.southampton.ac.uk/cogprints.org/677/1/ulcers.htm" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/677/1/ulcers.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>P Thagard · Cited by 139 — This paper is the first of two that discuss the development and reception of the bacterial theory of ulcers fr...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=RSi-IQ0APxw](http://www.youtube.com/watch?v=RSi-IQ0APxw)  
+   Link: <a href="http://www.youtube.com/watch?v=RSi-IQ0APxw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RSi-IQ0APxw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific consensus appeal to authority fallacy Is An Appeal To A Scientific Consensus Fallacious? | Mark-OR | Atheist [Experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) 25.43...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: philosophy.stackexchange.com  
    Title: I googled a lot but didn't find any discrete difference between them  
-   Link: [https://philosophy.stackexchange.com/questions/91672/logical-fallacies-difference-between-appeal-to-popularity-and-appeal-to-authori](https://philosophy.stackexchange.com/questions/91672/logical-fallacies-difference-between-appeal-to-popularity-and-appeal-to-authori)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Difference between [Appeal to popularity](&amp;#123;&amp;#123; &#x27;popularity/&#x27; | relative_url &amp;#125;&amp;#125;)...14 Jun 2022 — What is the difference between Ad populum and Ad Verecundiam?...</p></details>
+   Link: <a href="https://philosophy.stackexchange.com/questions/91672/logical-fallacies-difference-between-appeal-to-popularity-and-appeal-to-authori" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/91672/logical-fallacies-difference-between-appeal-to-popularity-and-appeal-to-authori</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies: Difference between Appeal to popularity...14 Jun 2022 — What is the difference between Ad populum and Ad Verecundiam?...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: philosophy.stackexchange.com  
    Title: is any appeal to legitimate authority a fallacy  
-   Link: [https://philosophy.stackexchange.com/questions/136563/is-any-appeal-to-legitimate-authority-a-fallacy](https://philosophy.stackexchange.com/questions/136563/is-any-appeal-to-legitimate-authority-a-fallacy)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/136563/is-any-appeal-to-legitimate-authority-a-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/136563/is-any-appeal-to-legitimate-authority-a-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[duplicate]23 Feb 2026 — Yes, if you are trying to say that it is certainly true. But the word of a legitimate authority is a legitimate...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/](https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/)  
+   Link: <a href="https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/centrist/comments/14qo05a/appealing_to_expert_consensus_is_not_an_appeal_to/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ity&#x27;. The reason people see the appeal to authority...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pdfs.semanticscholar.org  
-   Link: [https://pdfs.semanticscholar.org/2cb0/c3511ea624f93d530e816848eae668ba2b30.pdf](https://pdfs.semanticscholar.org/2cb0/c3511ea624f93d530e816848eae668ba2b30.pdf)  
+   Link: <a href="https://pdfs.semanticscholar.org/2cb0/c3511ea624f93d530e816848eae668ba2b30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/2cb0/c3511ea624f93d530e816848eae668ba2b30.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some guidelines encourage more aggressive H pylori...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ds-wordpress.haverford.edu  
    Title: expert opinionappeal to authority  
-   Link: [https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/](https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/)  
+   Link: <a href="https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/" target="_blank" rel="noopener noreferrer nofollow">https://ds-wordpress.haverford.edu/psych2015/projects/chapter/expert-opinionappeal-to-authority/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Opinion/Appeal to Authority | Science ExposedNot all appeals to authority are fallacious; if the authority that is appealed to is an expe...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=3CiqA4srays](http://www.youtube.com/watch?v=3CiqA4srays)  
+   Link: <a href="http://www.youtube.com/watch?v=3CiqA4srays" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3CiqA4srays</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Authority: When trusting experts becomes a logical fallacy...</p></details>

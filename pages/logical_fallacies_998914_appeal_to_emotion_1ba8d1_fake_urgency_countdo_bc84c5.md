@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:23:10'
 parent_title: When Does Emotion Replace Evidence? | Fallacy Lab
 parent_permalink: /emotion/
 parent_nav_short_title: Emotion
@@ -265,7 +266,6 @@ next_link:
   permalink: /fear-appeals/
   short_title: Fear Appeals
   heading_title: When Fear Warns but Does Not Prove
-date: '2026-06-05 02:23:10 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fake_urgency_countdo_bc84c5-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_fake_urgency_countdo_bc84c5-Illustration-1.webp
@@ -298,7 +298,7 @@ Manufactured urgency is different. The deadline exists primarily as a psychologi
 
 The logical problem is subtle but important. A genuine deadline provides information relevant to the decision. A fabricated deadline attempts to substitute emotional pressure for evaluation. Instead of asking whether the product is worth buying, the consumer is encouraged to ask whether they can afford to miss the opportunity. Arnall Golden Gregory LLP <span class="citation-chip-wrap"><a class="citation-chip" href="https://competition-bureau.canada.ca/en/deceptive-marketing-practices/types-deceptive-marketing-practices/fake-urgency-cues" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: competition-bureau.canada.ca">[2competition-bureau.canada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">competition-bureau.canada.ca</span><span class="citation-popover-title">Fake urgency cues</span><span class="citation-popover-snippet">They try to trick or manipulate you into making a choice that you might not have otherwise made.Read more...</span></span></span>
 
-From a reasoning perspective, the countdown itself is not evidence that the product is valuable, useful, reliable, or appropriately priced. It is merely a prompt to act quickly. When urgency is detached from reality, it becomes an [appeal to emotion]({{ 'emotion/' | relative_url }}) rather than a relevant reason.
+From a reasoning perspective, the countdown itself is not evidence that the product is valuable, useful, reliable, or appropriately priced. It is merely a prompt to act quickly. When urgency is detached from reality, it becomes an appeal to [emotion]({{ 'emotion/' | relative_url }}) rather than a relevant reason.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HNW93_ixJLA" title="Flash sales and countdown timers keep you buying - can we outsmart these tactics? | Deep Dive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HNW93_ixJLA" target="_blank" rel="noopener noreferrer">Flash sales and countdown timers keep you buying - can we outsmart these tactics? | Deep Dive</a></p><p class="youtube-embed-meta">Channel: CNA &middot; Views: 10.9K &middot; Uploaded: May 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HNW93_ixJLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HNW93_ixJLA">Open on YouTube</a></p></div></div></div>
@@ -309,9 +309,9 @@ Fake urgency exploits several well-documented tendencies in human decision-makin
 
 First, people often value opportunities more highly when they appear scarce. A product framed as difficult to obtain can seem more desirable than the same product presented without scarcity cues. Second, time pressure reduces the likelihood that consumers will compare alternatives, read reviews, or inspect terms and conditions. Third, the fear of missing out can make potential losses feel more significant than potential gains.
 
-Researchers studying online shopping have found that dark patterns frequently rely on scarcity and urgency cues to steer consumers toward purchases they might not otherwise make. Large-scale analyses of thousands of shopping sites have documented recurring use of countdown timers, low-stock warnings, and similar pressure tactics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.07032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites</span><span class="citation-popover-snippet">arXivDark Patterns at Scale: Findings from a Crawl of 11K Shopping WebsitesJuly 16, 2019...</span><span class="citation-popover-meta">Published: July 16, 2019</span></span></span>
+Researchers studying online shopping have found that dark patterns frequently rely on scarcity and urgency cues to steer consumers toward purchases they might not otherwise make. Large-scale analyses of thousands of shopping sites have documented recurring use of countdown timers, low-stock warnings, and similar pressure tactics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1907.07032" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites</span><span class="citation-popover-snippet">Dark Patterns at Scale: Findings from a Crawl of 11K Shopping WebsitesJuly 16, 2019...</span><span class="citation-popover-meta">Published: July 16, 2019</span></span></span>
 
-The persuasive force comes from [emotion]({{ 'emotion/' | relative_url }}) rather than evidence. The consumer's attention shifts from “Is this a good purchase?” to “What if I lose the chance?” That shift is precisely why fake urgency belongs within the broader family of appeals to emotion and persuasive pressure.
+The persuasive force comes from emotion rather than evidence. The consumer's attention shifts from “Is this a good purchase?” to “What if I lose the chance?” That shift is precisely why fake urgency belongs within the broader family of appeals to emotion and persuasive pressure.
 
 ## Scarcity Cues, Dark Patterns, and Consumer Pressure
 
@@ -321,7 +321,7 @@ Common examples include:
 
 **Countdown timers.** A clock signals that an offer is about to disappear. If the deadline is fictitious or automatically resets, the timer functions as a pressure device rather than a truthful disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.deceptive.design/types/fake-urgency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deceptive.design">[deceptive.design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deceptive.design</span><span class="citation-popover-snippet">Fake urgencyThe Shopify app “Hurrify” is made by a company called Twozillas. It can be used to create various fake urgency messages, one...</span></span></span>
 
-**Low-stock messages.** Statements such as “Only two left” can be useful if accurate. If untrue, they create a false impression of scarcity and encourage rushed purchases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.agg.com/news-insights/publications/the-ftc-blacklists-dark-patterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agg.com">[Arnall Golden Gregory LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agg.com</span><span class="citation-popover-title">the ftc blacklists dark patterns</span><span class="citation-popover-snippet">Arnall Golden Gregory LLPThe FTC Blacklists Dark Patterns | News &amp; Insights3 Mar 2023 — The third dark pattern named in the FTC&#x27;s report...</span></span></span>
+**Low-stock messages.** Statements such as “Only two left” can be useful if accurate. If untrue, they create a false impression of scarcity and encourage rushed purchases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.agg.com/news-insights/publications/the-ftc-blacklists-dark-patterns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: agg.com">[Arnall Golden Gregory LLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">agg.com</span><span class="citation-popover-title">the ftc blacklists dark patterns</span><span class="citation-popover-snippet">Arnall Golden Gregory LLPThe FTC Blacklists Dark Patterns &#124; News &amp; Insights3 Mar 2023 — The third dark pattern named in the FTC&#x27;s report...</span></span></span>
 
 **High-demand notifications.** Claims that dozens of people are viewing or purchasing an item may be intended to create social pressure. Investigations have found instances where such signals were not grounded in actual consumer behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/amazon-online-retail-dark-patterns" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">While some tactics are straightforward, such as offering free shipping over certain amounts, others, known as &quot;dark patterns,&quot; are more d...</span></span></span>
 
@@ -799,136 +799,136 @@ Fake urgency therefore illustrates a recurring pattern in appeals to emotion and
 1. <a id="endnote-1"></a>
    Source: competition-bureau.canada.ca  
    Title: Fake urgency cues  
-   Link: [https://competition-bureau.canada.ca/en/deceptive-marketing-practices/types-deceptive-marketing-practices/fake-urgency-cues](https://competition-bureau.canada.ca/en/deceptive-marketing-practices/types-deceptive-marketing-practices/fake-urgency-cues)  
+   Link: <a href="https://competition-bureau.canada.ca/en/deceptive-marketing-practices/types-deceptive-marketing-practices/fake-urgency-cues" target="_blank" rel="noopener noreferrer nofollow">https://competition-bureau.canada.ca/en/deceptive-marketing-practices/types-deceptive-marketing-practices/fake-urgency-cues</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They try to trick or manipulate you into making a choice that you might not have otherwise made.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: agg.com  
    Title: the ftc blacklists dark patterns  
-   Link: [https://www.agg.com/news-insights/publications/the-ftc-blacklists-dark-patterns/](https://www.agg.com/news-insights/publications/the-ftc-blacklists-dark-patterns/)  
+   Link: <a href="https://www.agg.com/news-insights/publications/the-ftc-blacklists-dark-patterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.agg.com/news-insights/publications/the-ftc-blacklists-dark-patterns/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arnall Golden Gregory LLPThe FTC Blacklists Dark Patterns | News &amp; Insights3 Mar 2023 — The third dark pattern named in the FTC&#x27;s report...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/amazon-online-retail-dark-patterns](https://www.wired.com/story/amazon-online-retail-dark-patterns)  
+   Link: <a href="https://www.wired.com/story/amazon-online-retail-dark-patterns" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/amazon-online-retail-dark-patterns</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>While some tactics are straightforward, such as offering free shipping over certain amounts, others, known as &quot;dark patterns,&quot; are more d...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites  
-   Link: [https://arxiv.org/abs/1907.07032](https://arxiv.org/abs/1907.07032)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDark Patterns at Scale: Findings from a Crawl of 11K Shopping WebsitesJuly 16, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1907.07032" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1907.07032</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Patterns at Scale: Findings from a Crawl of 11K Shopping WebsitesJuly 16, 2019...</p></details>
    Published: July 16, 2019  
 
 5. <a id="endnote-5"></a>
    Source: deceptive.design  
-   Link: [https://www.deceptive.design/types/fake-urgency](https://www.deceptive.design/types/fake-urgency)  
+   Link: <a href="https://www.deceptive.design/types/fake-urgency" target="_blank" rel="noopener noreferrer nofollow">https://www.deceptive.design/types/fake-urgency</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake urgencyThe Shopify app “Hurrify” is made by a company called Twozillas. It can be used to create various fake urgency messages, one...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: consumerproductslawwatch.com  
-   Link: [https://www.consumerproductslawwatch.com/2023/08/01/its-the-final-countdownor-is-it-cma-issues-decision-on-online-pressure-selling-tactics/](https://www.consumerproductslawwatch.com/2023/08/01/its-the-final-countdownor-is-it-cma-issues-decision-on-online-pressure-selling-tactics/)  
+   Link: <a href="https://www.consumerproductslawwatch.com/2023/08/01/its-the-final-countdownor-is-it-cma-issues-decision-on-online-pressure-selling-tactics/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerproductslawwatch.com/2023/08/01/its-the-final-countdownor-is-it-cma-issues-decision-on-online-pressure-selling-tactics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CMA issues decision on online pressure-selling tactics1 Aug 2023 — The CMA publicly called upon Emma Sleep to change its selling practice...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ftc.gov  
    Title: P214800+Dark+Patterns+Report.14.2022+ +FINAL  
-   Link: [https://www.ftc.gov/system/files/ftc_gov/pdf/P214800%2BDark%2BPatterns%2BReport%2B9.14.2022%2B-%2BFINAL.pdf](https://www.ftc.gov/system/files/ftc_gov/pdf/P214800%2BDark%2BPatterns%2BReport%2B9.14.2022%2B-%2BFINAL.pdf)  
+   Link: <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/P214800%2BDark%2BPatterns%2BReport%2B9.14.2022%2B-%2BFINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/P214800%2BDark%2BPatterns%2BReport%2B9.14.2022%2B-%2BFINAL.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionBringing Dark Patterns to Light1 Sept 2022 — In this Staff Report, we discuss key topics from the workshop and ac...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
    Title: report shows rise sophisticated dark patterns designed trick trap consumers  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-report-shows-rise-sophisticated-dark-patterns-designed-trick-trap-consumers](https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-report-shows-rise-sophisticated-dark-patterns-designed-trick-trap-consumers)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-report-shows-rise-sophisticated-dark-patterns-designed-trick-trap-consumers" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-report-shows-rise-sophisticated-dark-patterns-designed-trick-trap-consumers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Report Shows Rise in Sophisticated Dark Patterns...15 Sept 2022 — The Federal Trade Commission released a re...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ftc.gov  
    Title: bringing dark patterns light  
-   Link: [https://www.ftc.gov/reports/bringing-dark-patterns-light](https://www.ftc.gov/reports/bringing-dark-patterns-light)  
+   Link: <a href="https://www.ftc.gov/reports/bringing-dark-patterns-light" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/reports/bringing-dark-patterns-light</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bringing Dark Patterns to LightSep 15, 2022 — Shopping · Technology · [Advertising](&amp;#123;&amp;#123; &#x27;advertising/&#x27; | relative_url &amp;#125;&amp;#125;) and Marketing... FTC Report Shows Rise in Sophisticate...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: lewissilkin.com  
-   Link: [https://www.lewissilkin.com/insights/2026/05/29/uk-consumer-law-revolution-emma-sleep-case-is-partly-settled-but-the-other-part-102mx9f](https://www.lewissilkin.com/insights/2026/05/29/uk-consumer-law-revolution-emma-sleep-case-is-partly-settled-but-the-other-part-102mx9f)  
+   Link: <a href="https://www.lewissilkin.com/insights/2026/05/29/uk-consumer-law-revolution-emma-sleep-case-is-partly-settled-but-the-other-part-102mx9f" target="_blank" rel="noopener noreferrer nofollow">https://www.lewissilkin.com/insights/2026/05/29/uk-consumer-law-revolution-emma-sleep-case-is-partly-settled-but-the-other-part-102mx9f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lewis SilkinUK Consumer Law Revolution: Emma Sleep case is partly...2 days ago — Emma Sleep deployed a range of misleading sales tactics...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: commission.europa.eu  
-   Link: [https://commission.europa.eu/news-and-media/news/eu-check-reveals-misleading-sales-practices-online-2026-03-26_en](https://commission.europa.eu/news-and-media/news/eu-check-reveals-misleading-sales-practices-online-2026-03-26_en)  
+   Link: <a href="https://commission.europa.eu/news-and-media/news/eu-check-reveals-misleading-sales-practices-online-2026-03-26_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/news-and-media/news/eu-check-reveals-misleading-sales-practices-online-2026-03-26_en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Main findings. out of...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: portal-cec.consumo.gob.es  
    Title: one three retailers fails provide accurate information about online  
-   Link: [https://portal-cec.consumo.gob.es/en/comunicacion/noticias/2026/one-three-retailers-fails-provide-accurate-information-about-online](https://portal-cec.consumo.gob.es/en/comunicacion/noticias/2026/one-three-retailers-fails-provide-accurate-information-about-online)  
+   Link: <a href="https://portal-cec.consumo.gob.es/en/comunicacion/noticias/2026/one-three-retailers-fails-provide-accurate-information-about-online" target="_blank" rel="noopener noreferrer nofollow">https://portal-cec.consumo.gob.es/en/comunicacion/noticias/2026/one-three-retailers-fails-provide-accurate-information-about-online</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Centro Europeo del Consumidor en EspañaOne in three retailers fails to provide accurate information...30 Mar 2026 — The Consumer Protect...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: commission.europa.eu  
    Title: eu Sweeps  
-   Link: [https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/sweeps_en](https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/sweeps_en)  
+   Link: <a href="https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/sweeps_en" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/sweeps_en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionConsumer protection authorities concluded that at least 37% of the checked websites potentially violate the Unfair Com...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nsw.gov.au  
    Title: Dark Patterns  
-   Link: [https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns](https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns)  
+   Link: <a href="https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns" target="_blank" rel="noopener noreferrer nofollow">https://www.nsw.gov.au/departments-and-agencies/fair-trading/dark-patterns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fair TradingThis page describes common dark patterns you will encounter online, so you can identify and avoid them when shopping online.R...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: ccs.gov.sg  
-   Link: [https://www.ccs.gov.sg/consumer-protection/fair-trading-practices/know-more-about-dark-patterns/](https://www.ccs.gov.sg/consumer-protection/fair-trading-practices/know-more-about-dark-patterns/)  
+   Link: <a href="https://www.ccs.gov.sg/consumer-protection/fair-trading-practices/know-more-about-dark-patterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.ccs.gov.sg/consumer-protection/fair-trading-practices/know-more-about-dark-patterns/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Know More About Dark PatternsThis practice is known as Fake Ranking (also known as False Hierarchy). Even when consumers have specific pr...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: maverick-law.com  
-   Link: [https://www.maverick-law.com/en/blogs/european-consumer-regulators-launch-offensive-against-dark-patterns-closer-monitoring-of-manipulative-digital-practices.html](https://www.maverick-law.com/en/blogs/european-consumer-regulators-launch-offensive-against-dark-patterns-closer-monitoring-of-manipulative-digital-practices.html)  
+   Link: <a href="https://www.maverick-law.com/en/blogs/european-consumer-regulators-launch-offensive-against-dark-patterns-closer-monitoring-of-manipulative-digital-practices.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maverick-law.com/en/blogs/european-consumer-regulators-launch-offensive-against-dark-patterns-closer-monitoring-of-manipulative-digital-practices.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European consumer regulators launch offensive against...Apr 4, 2023 — The UCP Directive contains a blacklist of commercial practices tha...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cs.ru.nl  
-   Link: [https://www.cs.ru.nl/masters-theses/2022/J_Tiemessen___The_time_is_ticking%3A_the_effect_of_deceptive_countdown_timers_on_consumers%27_buying_behavior_and_experience.pdf](https://www.cs.ru.nl/masters-theses/2022/J_Tiemessen___The_time_is_ticking%3A_the_effect_of_deceptive_countdown_timers_on_consumers%27_buying_behavior_and_experience.pdf)  
+   Link: <a href="https://www.cs.ru.nl/masters-theses/2022/J_Tiemessen___The_time_is_ticking%3A_the_effect_of_deceptive_countdown_timers_on_consumers%27_buying_behavior_and_experience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ru.nl/masters-theses/2022/J_Tiemessen___The_time_is_ticking%3A_the_effect_of_deceptive_countdown_timers_on_consumers%27_buying_behavior_and_experience.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effect of deceptive countdown timers on consumers&#x27;...by JH Tiemessen · 2022 · Cited by 8 — However, we consider the effect of countdown...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/when-discounts-deceive-lurking-dark-patterns-dr-leanne-rkalc](https://www.linkedin.com/pulse/when-discounts-deceive-lurking-dark-patterns-dr-leanne-rkalc)  
+   Link: <a href="https://www.linkedin.com/pulse/when-discounts-deceive-lurking-dark-patterns-dr-leanne-rkalc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/when-discounts-deceive-lurking-dark-patterns-dr-leanne-rkalc</a>  
 
 19. <a id="endnote-19"></a>
    Source: oecd.org  
    Title: six dark patterns used to manipulate you when shopping online  
-   Link: [https://www.oecd.org/en/blogs/2024/09/six-dark-patterns-used-to-manipulate-you-when-shopping-online.html](https://www.oecd.org/en/blogs/2024/09/six-dark-patterns-used-to-manipulate-you-when-shopping-online.html)  
+   Link: <a href="https://www.oecd.org/en/blogs/2024/09/six-dark-patterns-used-to-manipulate-you-when-shopping-online.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/blogs/2024/09/six-dark-patterns-used-to-manipulate-you-when-shopping-online.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Six &#x27;dark patterns&#x27; used to manipulate you when shopping...16 Sept 2024 — The OECD report Dark Commercial Patterns explores how these de...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reedsmith.com  
    Title: dark patterns lead to enforcement spotlight key compliance steps for businesses  
-   Link: [https://www.reedsmith.com/articles/dark-patterns-lead-to-enforcement-spotlight-key-compliance-steps-for-businesses/](https://www.reedsmith.com/articles/dark-patterns-lead-to-enforcement-spotlight-key-compliance-steps-for-businesses/)  
+   Link: <a href="https://www.reedsmith.com/articles/dark-patterns-lead-to-enforcement-spotlight-key-compliance-steps-for-businesses/" target="_blank" rel="noopener noreferrer nofollow">https://www.reedsmith.com/articles/dark-patterns-lead-to-enforcement-spotlight-key-compliance-steps-for-businesses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark patterns lead to enforcement spotlight26 Feb 2026 — In September 2024, CalPrivacy issued guidance cautioning businesses to review th...</p></details>
    Published: September 2024  
 
 21. <a id="endnote-21"></a>
    Source: traverssmith.com  
    Title: online sales do countdown timers break consumer law cma investigates emma sleep  
-   Link: [https://www.traverssmith.com/knowledge/knowledge-container/online-sales-do-countdown-timers-break-consumer-law-cma-investigates-emma-sleep/](https://www.traverssmith.com/knowledge/knowledge-container/online-sales-do-countdown-timers-break-consumer-law-cma-investigates-emma-sleep/)  
+   Link: <a href="https://www.traverssmith.com/knowledge/knowledge-container/online-sales-do-countdown-timers-break-consumer-law-cma-investigates-emma-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://www.traverssmith.com/knowledge/knowledge-container/online-sales-do-countdown-timers-break-consumer-law-cma-investigates-emma-sleep/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Online sales: do countdown timers break consumer law?12 Dec 2022 — False claims of time scarcity to elicit consumer action are specifical...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: debevoisedatablog.com  
    Title: dark patterns what are they and how can companies avoid regulatory scrutiny  
-   Link: [https://www.debevoisedatablog.com/2022/10/12/dark-patterns-what-are-they-and-how-can-companies-avoid-regulatory-scrutiny/](https://www.debevoisedatablog.com/2022/10/12/dark-patterns-what-are-they-and-how-can-companies-avoid-regulatory-scrutiny/)  
+   Link: <a href="https://www.debevoisedatablog.com/2022/10/12/dark-patterns-what-are-they-and-how-can-companies-avoid-regulatory-scrutiny/" target="_blank" rel="noopener noreferrer nofollow">https://www.debevoisedatablog.com/2022/10/12/dark-patterns-what-are-they-and-how-can-companies-avoid-regulatory-scrutiny/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dark Patterns: What Are They and How Can Companies...Oct 12, 2022 — false countdown timers and claims that a product or service is almos...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sidley.com  
    Title: new uk consumer rules herald stricter enforcement and significant fines  
-   Link: [https://www.sidley.com/en/insights/newsupdates/2025/04/new-uk-consumer-rules-herald-stricter-enforcement-and-significant-fines](https://www.sidley.com/en/insights/newsupdates/2025/04/new-uk-consumer-rules-herald-stricter-enforcement-and-significant-fines)  
+   Link: <a href="https://www.sidley.com/en/insights/newsupdates/2025/04/new-uk-consumer-rules-herald-stricter-enforcement-and-significant-fines" target="_blank" rel="noopener noreferrer nofollow">https://www.sidley.com/en/insights/newsupdates/2025/04/new-uk-consumer-rules-herald-stricter-enforcement-and-significant-fines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New UK Consumer Rules Herald Stricter Enforcement and...Apr 8, 2025 — Unfair Commercial Practices Guidance: This document helps business...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: druces.com  
-   Link: [https://druces.com/the-regulation-of-online-choice-architecture-from-user-[experience](https://druces.com/the-regulation-of-online-choice-architecture-from-user-[experience)  
+   Link: <a href="https://druces.com/the-regulation-of-online-choice-architecture-from-user-[experience" target="_blank" rel="noopener noreferrer nofollow">https://druces.com/the-regulation-of-online-choice-architecture-from-user-[experience</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Another commercial practice which now been has a strong enforcement track record against it is the practice...</p></details>

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:30:19'
 parent_title: When Is a Story Not Enough? | Fallacy Lab
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
@@ -259,7 +260,6 @@ next_link:
   permalink: /fair-use/
   short_title: Fair Use
   heading_title: How to Use Stories Without Cherry Picking
-date: '2026-06-05 02:30:19 '
 header:
   og_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-1.webp
@@ -316,9 +316,9 @@ A useful thought experiment is to ask: would the same recovery story seem convin
 
 Another reason anecdotes can mislead is that improvement in symptoms is not always the same as improvement in the underlying condition.
 
-Research on placebo effects shows that expectations, care, reassurance, and the treatment [experience]({{ 'experience/' | relative_url }}) itself can influence how people perceive symptoms such as pain, fatigue, anxiety, and nausea. A person may genuinely feel better after receiving an inactive treatment. The improvement is real from the patient's perspective, but it does not necessarily demonstrate that the treatment altered the disease process itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect | NCCIH</span><span class="citation-popover-snippet">NIHThe placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe placebo effect: illness and interpersonal healing</span><span class="citation-popover-snippet">placebo effect: illness and interpersonal healing - PMCby FG Miller · 2009 · Cited by 342 — We suggest the hypothesis that the placebo ef...</span></span></span>
+Research on placebo effects shows that expectations, care, reassurance, and the treatment [experience]({{ 'experience/' | relative_url }}) itself can influence how people perceive symptoms such as pain, fatigue, anxiety, and nausea. A person may genuinely feel better after receiving an inactive treatment. The improvement is real from the patient's perspective, but it does not necessarily demonstrate that the treatment altered the disease process itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect &#124; NCCIH</span><span class="citation-popover-snippet">The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe placebo effect: illness and interpersonal healing</span><span class="citation-popover-snippet">placebo effect: illness and interpersonal healing - PMCby FG Miller · 2009 · Cited by 342 — We suggest the hypothesis that the placebo ef...</span></span></span>
 
-For example, placebo effects are often strongest for symptoms influenced by perception and expectation. They can reduce the experience of pain or discomfort without curing the underlying illness. Health authorities and medical researchers therefore distinguish between symptom relief and evidence that a treatment changes the course of a disease. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect | NCCIH</span><span class="citation-popover-snippet">NIHThe placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">the power of the placebo effect</span><span class="citation-popover-snippet">power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</span></span></span>
+For example, placebo effects are often strongest for symptoms influenced by perception and expectation. They can reduce the experience of pain or discomfort without curing the underlying illness. Health authorities and medical researchers therefore distinguish between symptom relief and evidence that a treatment changes the course of a disease. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect &#124; NCCIH</span><span class="citation-popover-snippet">The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">the power of the placebo effect</span><span class="citation-popover-snippet">power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</span></span></span>
 
 This distinction is important because a treatment may appear successful in personal testimony even when the apparent success comes largely from symptom changes, natural healing, or both.
 
@@ -364,7 +364,7 @@ A convincing causal claim requires attention to successes and failures, not only
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-3-dark.svg" | relative_url }}" alt="After Treatment illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Could symptom changes reflect expectation or placebo effects?
 
-Feeling better can be meaningful and beneficial, but it does not automatically show that the treatment altered the disease mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect | NCCIH</span><span class="citation-popover-snippet">NIHThe placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">the power of the placebo effect</span><span class="citation-popover-snippet">power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</span></span></span>
+Feeling better can be meaningful and beneficial, but it does not automatically show that the treatment altered the disease mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-title">NCCIHPlacebo Effect &#124; NCCIH</span><span class="citation-popover-snippet">The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: health.harvard.edu">[Harvard Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">health.harvard.edu</span><span class="citation-popover-title">the power of the placebo effect</span><span class="citation-popover-snippet">power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</span></span></span>
 
 ### Were other factors changing at the same time?
 
@@ -379,7 +379,7 @@ The strongest support comes from systematic comparisons that test whether treate
 
 ## The Takeaway
 
-A person who recovers after using a remedy may be describing a genuine experience. The logical mistake arises when that experience is treated as proof that the remedy caused the recovery. Natural healing, symptom fluctuation, placebo effects, concurrent changes, and selective reporting can all create the appearance of effectiveness. The lesson is not that [personal experiences]({{ 'experience/' | relative_url }}) are worthless, but that they are incomplete. To know whether a treatment truly caused improvement, we need comparisons that reveal what would have happened otherwise. Anecdotes can point towards a possibility; they cannot, by themselves, establish a cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
+A person who recovers after using a remedy may be describing a genuine experience. The logical mistake arises when that experience is treated as proof that the remedy caused the recovery. Natural healing, symptom fluctuation, placebo effects, concurrent changes, and selective reporting can all create the appearance of effectiveness. The lesson is not that personal experiences are worthless, but that they are incomplete. To know whether a treatment truly caused improvement, we need comparisons that reveal what would have happened otherwise. Anecdotes can point towards a possibility; they cannot, by themselves, establish a cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -803,114 +803,114 @@ A person who recovers after using a remedy may be describing a genuine experienc
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBad evidence  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK63649/](https://www.ncbi.nlm.nih.gov/books/NBK63649/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63649/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Health Choices - NCBI Bookshelf - NIHby L Irwig · 2008 · Cited by 37 — But we already know the dangers of assuming cause and effect...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBe sceptical  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK63648/](https://www.ncbi.nlm.nih.gov/books/NBK63648/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — [Anecdotal evidence](&amp;#123;&amp;#123; &#x27;anecdotes/&#x27; | relative_url &amp;#125;&amp;#125;) can sound compelling, but is not a valid guide...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63648/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cureus.com  
    Title: 408370 the placebo effect in medicine and clinical practice a narrative review  
-   Link: [https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf](https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf)  
+   Link: <a href="https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/408370-the-placebo-effect-in-medicine-and-clinical-practice-a-narrative-review.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research should...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nccih.nih.gov  
    Title: NCCIHPlacebo Effect | NCCIH  
-   Link: [https://www.nccih.nih.gov/health/placebo-effect](https://www.nccih.nih.gov/health/placebo-effect)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHThe placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</p></details>
+   Link: <a href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/placebo-effect</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe placebo effect: illness and interpersonal healing  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2814126/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>placebo effect: illness and interpersonal healing - PMCby FG Miller · 2009 · Cited by 342 — We suggest the hypothesis that the placebo ef...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: health.harvard.edu  
    Title: the power of the placebo effect  
-   Link: [https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect](https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect)  
+   Link: <a href="https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/newsletter_article/the-power-of-the-placebo-effect</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>power of the placebo effect22 Jul 2024 — The idea that your brain can convince your body a fake treatment is the real thing - the so-call...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Signaling Theory of Symptoms: An Evolutionary  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10480909/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10480909/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby L Steinkopf · 2015 · Cited by 65 — However, this phenomenon, known as the placebo effect, does not usually cure the disease, but ra...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10480909/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10480909/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Steinkopf · 2015 · Cited by 65 — However, this phenomenon, known as the placebo effect, does not usually cure the disease, but ra...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cancer.gov  
    Title: Complementary and Alternative Medicine (CAM)  
-   Link: [https://www.cancer.gov/about-cancer/treatment/cam](https://www.cancer.gov/about-cancer/treatment/cam)  
+   Link: <a href="https://www.cancer.gov/about-cancer/treatment/cam" target="_blank" rel="noopener noreferrer nofollow">https://www.cancer.gov/about-cancer/treatment/cam</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCI31 Oct 2024 — Modest pain improvements were seen, although a placebo effect could not be ruled out. These are healing systems and beli...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/](https://www.nccih.nih.gov/)  
+   Link: <a href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We conduct and support research and provide information about complementary health products and practices in the [context](&amp;#123;&amp;#123; &#x27;context/&#x27; | relative_url &amp;#125;&amp;#125;) of whole person...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: courses.lumenlearning.com  
    Title: placebo effect  
-   Link: [https://courses.lumenlearning.com/suny-hvcc-healthpsychology/chapter/placebo-effect/](https://courses.lumenlearning.com/suny-hvcc-healthpsychology/chapter/placebo-effect/)  
+   Link: <a href="https://courses.lumenlearning.com/suny-hvcc-healthpsychology/chapter/placebo-effect/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-hvcc-healthpsychology/chapter/placebo-effect/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effect | Health PsychologyThe placebo effect is the concept that patients will perceive an improvement after being treated with an inert...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: recoverytrial.net  
-   Link: [https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19](https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19)  
+   Link: <a href="https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19" target="_blank" rel="noopener noreferrer nofollow">https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No clinical benefit from use of hydroxychloroquine in...5 Jun 2020 — The RECOVERY Trial has shown that hydroxychloroquine is not an effe...</p></details>
    Published: june 2020  
 
 12. <a id="endnote-12"></a>
    Source: clinicaltrials.gov  
-   Link: [https://clinicaltrials.gov/study/NCT01878019](https://clinicaltrials.gov/study/NCT01878019)  
+   Link: <a href="https://clinicaltrials.gov/study/NCT01878019" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT01878019</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Naloxone is used to treat overdoses of painkilling drugs like morphine. It may be able...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: clinicaltrials.gov  
-   Link: [https://clinicaltrials.gov/study/NCT00065715](https://clinicaltrials.gov/study/NCT00065715)  
+   Link: <a href="https://clinicaltrials.gov/study/NCT00065715" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT00065715</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ical trial to gain access to a medical product that has not been approved...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 375016737 Placebo Effects Through the Lens of Translational Research  
-   Link: [https://www.researchgate.net/publication/375016737_Placebo_Effects_Through_the_Lens_of_Translational_Research](https://www.researchgate.net/publication/375016737_Placebo_Effects_Through_the_Lens_of_Translational_Research)  
+   Link: <a href="https://www.researchgate.net/publication/375016737_Placebo_Effects_Through_the_Lens_of_Translational_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375016737_Placebo_Effects_Through_the_Lens_of_Translational_Research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Placebo Effects Through the Lens of Translational Research27 Oct 2023 — This book sheds light on the translation of current mechanistic r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jstor.org  
    Title: Clinical theories of placebo effects. Clinical theories of placebo  
-   Link: [https://www.jstor.org/stable/27238634](https://www.jstor.org/stable/27238634)  
+   Link: <a href="https://www.jstor.org/stable/27238634" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/27238634</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Placebos in chronic pain: evidence, theory, ethics, and use...by TJ Kaptchuk · 2020 · Cited by 220 — Specifically focused on chronic pai...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: informedhealthchoices.org  
-   Link: [https://informedhealthchoices.org/wp-content/uploads/2022/11/KeyConceptPoster1.3_SecondarySchoolHealth_EN_forDownload.pdf](https://informedhealthchoices.org/wp-content/uploads/2022/11/KeyConceptPoster1.3_SecondarySchoolHealth_EN_forDownload.pdf)  
+   Link: <a href="https://informedhealthchoices.org/wp-content/uploads/2022/11/KeyConceptPoster1.3_SecondarySchoolHealth_EN_forDownload.pdf" target="_blank" rel="noopener noreferrer nofollow">https://informedhealthchoices.org/wp-content/uploads/2022/11/KeyConceptPoster1.3_SecondarySchoolHealth_EN_forDownload.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Often this is because the reason (the basis) for the claim is not trustworthy. You should...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6013051/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6013051/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6013051/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6013051/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>neuroscience of placebo effects: connecting context...by TD Wager · 2015 · Cited by 1076 — For some, the presence of a placebo effect su...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: avma.org.uk  
    Title: Thana et al 2025 Aftermath of health related harm qual study  
-   Link: [https://www.avma.org.uk/wp-content/uploads/Thana-et-al-2025-Aftermath-of-health-related-harm-qual-study.pdf](https://www.avma.org.uk/wp-content/uploads/Thana-et-al-2025-Aftermath-of-health-related-harm-qual-study.pdf)  
+   Link: <a href="https://www.avma.org.uk/wp-content/uploads/Thana-et-al-2025-Aftermath-of-health-related-harm-qual-study.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.avma.org.uk/wp-content/uploads/Thana-et-al-2025-Aftermath-of-health-related-harm-qual-study.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What do people do in the aftermath of healthcare-related harm...by L Thana · 2025 · Cited by 1 — This study aims to explore the experien...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: chiro.org  
-   Link: [https://chiro.org/research/ABSTRACTS/Implications_of_Placebo_and_Nocebo.shtml](https://chiro.org/research/ABSTRACTS/Implications_of_Placebo_and_Nocebo.shtml)  
+   Link: <a href="https://chiro.org/research/ABSTRACTS/Implications_of_Placebo_and_Nocebo.shtml" target="_blank" rel="noopener noreferrer nofollow">https://chiro.org/research/ABSTRACTS/Implications_of_Placebo_and_Nocebo.shtml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cts should lead to better treatment outcomes with fewer side effects.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/325725713_Implications_of_Placebo_and_Nocebo_Effects_for_Clinical_Practice_Expert_Consensus](https://www.researchgate.net/publication/325725713_Implications_of_Placebo_and_Nocebo_Effects_for_Clinical_Practice_Expert_Consensus)  
+   Link: <a href="https://www.researchgate.net/publication/325725713_Implications_of_Placebo_and_Nocebo_Effects_for_Clinical_Practice_Expert_Consensus" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325725713_Implications_of_Placebo_and_Nocebo_Effects_for_Clinical_Practice_Expert_Consensus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cts should lead to better treatment outcomes with fewer side effects.Read more...</p></details>

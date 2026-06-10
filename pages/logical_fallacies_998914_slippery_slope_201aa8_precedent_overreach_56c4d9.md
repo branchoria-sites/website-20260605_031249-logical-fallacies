@@ -294,13 +294,13 @@ The core mechanism is straightforward. A speaker argues:
 
 </div>
 
-The crucial step is the third one. Consistency does not mean treating all cases alike. It means treating materially similar cases alike. Legal and administrative systems routinely ask whether differences between cases matter to the rule being applied. If they do, different outcomes can still be justified without abandoning consistency. Stanford Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityWeek 3: 2.3.2 Distinguishing | OpenLearnThe main device for avoiding binding precedent is that of distinguishing the p...</span></span></span>
+The crucial step is the third one. Consistency does not mean treating all cases alike. It means treating materially similar cases alike. Legal and administrative systems routinely ask whether differences between cases matter to the rule being applied. If they do, different outcomes can still be justified without abandoning consistency. Stanford Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityWeek 3: 2.3.2 Distinguishing &#124; OpenLearnThe main device for avoiding binding precedent is that of distinguishing the p...</span></span></span>
 
-This is why many scholars treat precedent-based slippery slope arguments as neither automatically valid nor automatically fallacious. The strength of the argument depends on whether meaningful distinctions are likely to survive after the first decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/STEPSS-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Precedent Slippery Slopes</span><span class="citation-popover-snippet">Katharina Stevensby K Stevens · 2023 · Cited by 2 — This chapter discusses slippery slope arguments that are used in the context of commo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">Pure UVAThe slippery slope argumentby GA den Hartogh · Cited by 66 — If the appeal to a pernicious precedent is a valid form of argument...</span></span></span>
+This is why many scholars treat precedent-based slippery slope arguments as neither automatically valid nor automatically fallacious. The strength of the argument depends on whether meaningful distinctions are likely to survive after the first decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/STEPSS-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Precedent Slippery Slopes</span><span class="citation-popover-snippet">Katharina Stevensby K Stevens · 2023 · Cited by 2 — This chapter discusses slippery slope arguments that are used in the context of commo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">The slippery slope argumentby GA den Hartogh · Cited by 66 — If the appeal to a pernicious precedent is a valid form of argument...</span></span></span>
 
 ## What Precedent Claims Get Right
 
-Precedent arguments are not baseless fears. Institutions often care deeply about predictability, fairness, and equal treatment. If one person receives a benefit, exemption, or right, others may reasonably ask why they should be treated differently. A precedent can create pressure to justify future distinctions rather than simply asserting them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hallellis.co.uk/doctrine-of-precedent-court-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hallellis.co.uk">[Hallellis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hallellis.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ceb.com/blog/legal-precedent-how-to-leverage-past-decisions-in-current-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceb.com">[CEB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceb.com</span><span class="citation-popover-title">How to Leverage Past Decisions in Current Cases</span><span class="citation-popover-snippet">CEBPrecedent serves key functions in the legal system: it ensures stability and predictability, allowing individuals and businesses to an...</span></span></span>
+Precedent arguments are not baseless fears. Institutions often care deeply about predictability, fairness, and equal treatment. If one person receives a benefit, exemption, or right, others may reasonably ask why they should be treated differently. A precedent can create pressure to justify future distinctions rather than simply asserting them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hallellis.co.uk/doctrine-of-precedent-court-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hallellis.co.uk">[Hallellis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hallellis.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ceb.com/blog/legal-precedent-how-to-leverage-past-decisions-in-current-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceb.com">[CEB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceb.com</span><span class="citation-popover-title">How to Leverage Past Decisions in Current Cases</span><span class="citation-popover-snippet">Precedent serves key functions in the legal system: it ensures stability and predictability, allowing individuals and businesses to an...</span></span></span>
 
 This pressure matters because decision-makers generally want to avoid arbitrary treatment. An exception can therefore change the argumentative landscape. Future claimants may point to the earlier decision and argue that denying them the same treatment would be unfair.
 
@@ -342,7 +342,7 @@ The first argument assumes that any animal-related exception eliminates future b
 
 A precedent-based slippery slope often gains persuasive force by quietly shifting from relevant similarity to superficial similarity. Once that shift occurs, every later case appears to belong inside the same category, even when decision-makers could reasonably define narrower criteria.
 
-This is closely related to what legal systems call distinguishing a case. Rather than rejecting precedent entirely, decision-makers explain why the earlier ruling involved different material facts. Distinguishing is not an escape from consistency; it is one of the main ways consistency is maintained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityWeek 3: 2.3.2 Distinguishing | OpenLearnThe main device for avoiding binding precedent is that of distinguishing the p...</span></span></span>
+This is closely related to what legal systems call distinguishing a case. Rather than rejecting precedent entirely, decision-makers explain why the earlier ruling involved different material facts. Distinguishing is not an escape from consistency; it is one of the main ways consistency is maintained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityWeek 3: 2.3.2 Distinguishing &#124; OpenLearnThe main device for avoiding binding precedent is that of distinguishing the p...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_precedent_overreach_56c4d9-Illustration-2-dark.svg" | relative_url }}" alt="Precedent illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_precedent_overreach_56c4d9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_precedent_overreach_56c4d9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -356,12 +356,12 @@ Yet real governance systems possess several tools for limiting precedents:
 * **Eligibility criteria:** Policymakers can define conditions that must be met before an exception applies.
 * **Review [mechanisms]({{ 'mechanisms/' | relative_url }}):** Later cases can be evaluated individually rather than automatically approved.
 * **Distinguishing practices:** Courts and agencies can identify legally significant differences between situations.
-* **Rule revision:** Legislatures and regulators can clarify boundaries if ambiguity emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityWeek 3: 2.3.2 Distinguishing | OpenLearnThe main device for avoiding binding precedent is that of distinguishing the p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hallellis.co.uk/doctrine-of-precedent-court-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hallellis.co.uk">[hallellis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hallellis.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Because these mechanisms exist, the mere existence of one precedent does not prove that every future claim will succeed.
+* **Rule revision:** Legislatures and regulators can clarify boundaries if ambiguity emerges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityWeek 3: 2.3.2 Distinguishing &#124; OpenLearnThe main device for avoiding binding precedent is that of distinguishing the p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hallellis.co.uk/doctrine-of-precedent-court-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hallellis.co.uk">[hallellis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hallellis.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Because these mechanisms exist, the mere existence of one precedent does not prove that every future claim will succeed.
 
 This does not mean line-drawing is always easy. Some categories genuinely become difficult to defend once an exception is recognised. But a slippery slope argument must show why the distinction will fail, not merely assume that it will.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yxylBjtzMNQ" title="Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer">Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 175.8K &middot; Uploaded: December 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yxylBjtzMNQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t2ePCnSyQ4w" title="Slippery Slope Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer">Slippery Slope Fallacy</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 34.8K &middot; Uploaded: February 2014 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t2ePCnSyQ4w">Open on YouTube</a></p></div></div></div>
 
 ## Examples Where Lines Can Still Be Drawn
 
@@ -401,10 +401,10 @@ The concern gains force when:
 
 </div>
 
-In such situations, the institution may genuinely struggle to defend a limiting rule. Scholars discussing slippery slopes often emphasise that the important issue is the mechanism connecting the first decision to later ones. A warning becomes stronger when it explains why distinctions will erode over time rather than merely predicting that they will. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uclalawreview.org">[UCLA Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uclalawreview.org</span><span class="citation-popover-snippet">An initial, seemingly acceptable argument and decision;. 2. A &quot;danger case&quot;-a later argument and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">Pure UVAThe slippery slope argumentby GA den Hartogh · Cited by 66 — If the appeal to a pernicious precedent is a valid form of argument...</span></span></span>
+In such situations, the institution may genuinely struggle to defend a limiting rule. Scholars discussing slippery slopes often emphasise that the important issue is the mechanism connecting the first decision to later ones. A warning becomes stronger when it explains why distinctions will erode over time rather than merely predicting that they will. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uclalawreview.org">[UCLA Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uclalawreview.org</span><span class="citation-popover-snippet">An initial, seemingly acceptable argument and decision;. 2. A &quot;danger case&quot;-a later argument and...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.uva.nl">[Pure UVA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.uva.nl</span><span class="citation-popover-snippet">The slippery slope argumentby GA den Hartogh · Cited by 66 — If the appeal to a pernicious precedent is a valid form of argument...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t2ePCnSyQ4w" title="Slippery Slope Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer">Slippery Slope Fallacy</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 34.8K &middot; Uploaded: February 2014 &middot; Length: 1 minute 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t2ePCnSyQ4w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t2ePCnSyQ4w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dm9utktcMFw" title="Ways to avoid precedent by overruling, reversing and distinguishing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dm9utktcMFw" target="_blank" rel="noopener noreferrer">Ways to avoid precedent by overruling, reversing and distinguishing</a></p><p class="youtube-embed-meta">Channel: LearnLaw with Hannah &middot; Views: 1.8K &middot; Uploaded: November 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dm9utktcMFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dm9utktcMFw">Open on YouTube</a></p></div></div></div>
 
 ## The Key Question Behind Precedent-Based Slippery Slopes
 
@@ -414,7 +414,7 @@ Instead, the central question is: what principle allows the first case while exc
 
 If a convincing principle exists, then consistency may support the initial exception without requiring the feared expansion. If no principled distinction can be articulated, the slippery slope concern becomes more credible.
 
-The fallacy arises when an argument skips this analysis and assumes that one exception automatically rewrites the rule. Precedent matters because institutions value consistency, but consistency is not the same thing as treating every vaguely similar case identically. The ability to identify relevant differences is precisely what allows precedents to guide future decisions without making every future outcome unavoidable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/STEPSS-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Precedent Slippery Slopes</span><span class="citation-popover-snippet">Katharina Stevensby K Stevens · 2023 · Cited by 2 — This chapter discusses slippery slope arguments that are used in the context of commo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/entries/legal-reas-prec/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">legal reas prec</span><span class="citation-popover-snippet">Analogy involves an earlier decision being followed in a...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityWeek 3: 2.3.2 Distinguishing | OpenLearnThe main device for avoiding binding precedent is that of distinguishing the p...</span></span></span>
+The fallacy arises when an argument skips this analysis and assumes that one exception automatically rewrites the rule. Precedent matters because institutions value consistency, but consistency is not the same thing as treating every vaguely similar case identically. The ability to identify relevant differences is precisely what allows precedents to guide future decisions without making every future outcome unavoidable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/STEPSS-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Precedent Slippery Slopes</span><span class="citation-popover-snippet">Katharina Stevensby K Stevens · 2023 · Cited by 2 — This chapter discusses slippery slope arguments that are used in the context of commo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/entries/legal-reas-prec/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">legal reas prec</span><span class="citation-popover-snippet">Analogy involves an earlier decision being followed in a...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open UniversityWeek 3: 2.3.2 Distinguishing &#124; OpenLearnThe main device for avoiding binding precedent is that of distinguishing the p...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -838,137 +838,137 @@ The fallacy arises when an argument skips this analysis and assumes that one exc
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: legal reas prec  
-   Link: [https://plato.stanford.edu/entries/legal-reas-prec/](https://plato.stanford.edu/entries/legal-reas-prec/)  
+   Link: <a href="https://plato.stanford.edu/entries/legal-reas-prec/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/legal-reas-prec/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analogy involves an earlier decision being followed in a...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: open.edu  
-   Link: [https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&section=2.3.2](https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&section=2.3.2)  
+   Link: <a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=68344&amp;section=2.3.2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open UniversityWeek 3: 2.3.2 Distinguishing | OpenLearnThe main device for avoiding binding precedent is that of distinguishing the p...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scholarship.law.unc.edu  
-   Link: [https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=3133&[context](https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=3133&[context)  
+   Link: <a href="https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=3133&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.unc.edu/cgi/viewcontent.cgi?article=3133&amp;[context</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNC Law Scholarship RepositoryThe Nature of Precedentby E Maltz · 1988 · Cited by 327 — As already noted, all cases will be similar to th...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: philpapers.org  
    Title: Phil Papers Precedent Slippery Slopes  
-   Link: [https://philpapers.org/rec/STEPSS-3](https://philpapers.org/rec/STEPSS-3)  
+   Link: <a href="https://philpapers.org/rec/STEPSS-3" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/STEPSS-3</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Katharina Stevensby K Stevens · 2023 · Cited by 2 — This chapter discusses slippery slope arguments that are used in the context of commo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pure.uva.nl  
-   Link: [https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf](https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pure UVAThe slippery slope argumentby GA den Hartogh · Cited by 66 — If the appeal to a pernicious precedent is a valid form of argument...</p></details>
+   Link: <a href="https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/1964247/28071_60._Slippery_Slope.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The slippery slope argumentby GA den Hartogh · Cited by 66 — If the appeal to a pernicious precedent is a valid form of argument...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ceb.com  
    Title: How to Leverage Past Decisions in Current Cases  
-   Link: [https://ceb.com/blog/legal-precedent-how-to-leverage-past-decisions-in-current-cases/](https://ceb.com/blog/legal-precedent-how-to-leverage-past-decisions-in-current-cases/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CEBPrecedent serves key functions in the legal system: it ensures stability and predictability, allowing individuals and businesses to an...</p></details>
+   Link: <a href="https://ceb.com/blog/legal-precedent-how-to-leverage-past-decisions-in-current-cases/" target="_blank" rel="noopener noreferrer nofollow">https://ceb.com/blog/legal-precedent-how-to-leverage-past-decisions-in-current-cases/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Precedent serves key functions in the legal system: it ensures stability and predictability, allowing individuals and businesses to an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: www2.law.ucla.edu  
    Title: School of Law The Mechanisms of the Slippery Slope  
-   Link: [https://www2.law.ucla.edu/Volokh/slippery.pdf](https://www2.law.ucla.edu/Volokh/slippery.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — recognizes a new exception to [free speech](&amp;#123;&amp;#123; &#x27;free-speech/&#x27; | relative_url &amp;#125;&amp;#125;) protect...</p></details>
    Published: November 26, 2012  
 
 8. <a id="endnote-8"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/archive/JEFSSA.pdf](https://philpapers.org/archive/JEFSSA.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersThis is the pre-peer reviewed version of the following...by A Jefferson · 2014 · Cited by 38 — Slippery slopes that occur in j...</p></details>
+   Link: <a href="https://philpapers.org/archive/JEFSSA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/archive/JEFSSA.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the pre-peer reviewed version of the following...by A Jefferson · 2014 · Cited by 38 — Slippery slopes that occur in j...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2018/entries/legal-reas-prec/index.html](https://plato.stanford.edu/archives/fall2018/entries/legal-reas-prec/index.html)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2018/entries/legal-reas-prec/index.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2018/entries/legal-reas-prec/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Analogy in Legal Reasoning20 Jun 2006 — Precedent involves an earlier decision being followed in a later case because both cases are...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Slippery Slope  
-   Link: [https://www.youtube.com/watch?v=yxylBjtzMNQ](https://www.youtube.com/watch?v=yxylBjtzMNQ)  
+   Link: <a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yxylBjtzMNQ</a>  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Ways to avoid precedent by overruling, reversing and distinguishing  
-   Link: [https://www.youtube.com/watch?v=dm9utktcMFw](https://www.youtube.com/watch?v=dm9utktcMFw)  
+   Link: <a href="https://www.youtube.com/watch?v=dm9utktcMFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dm9utktcMFw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Doctrine of Precedent | English Legal System...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Doctrine of Precedent | English Legal System  
-   Link: [https://www.youtube.com/watch?v=FP-OZ_3CW6w](https://www.youtube.com/watch?v=FP-OZ_3CW6w)  
+   Link: <a href="https://www.youtube.com/watch?v=FP-OZ_3CW6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FP-OZ_3CW6w</a>  
 
 13. <a id="endnote-13"></a>
    Source: hallellis.co.uk  
-   Link: [https://hallellis.co.uk/doctrine-of-precedent-court-cases/](https://hallellis.co.uk/doctrine-of-precedent-court-cases/)  
+   Link: <a href="https://hallellis.co.uk/doctrine-of-precedent-court-cases/" target="_blank" rel="noopener noreferrer nofollow">https://hallellis.co.uk/doctrine-of-precedent-court-cases/</a>  
 
 14. <a id="endnote-14"></a>
    Source: uclalawreview.org  
-   Link: [https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf](https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf)  
+   Link: <a href="https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/wp-content/uploads/2019/09/24_51UCLALRev5392003-2004.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An initial, seemingly acceptable argument and decision;. 2. A &quot;danger case&quot;-a later argument and...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Slippery slope  
-   Link: [https://en.wikipedia.org/wiki/Slippery_slope](https://en.wikipedia.org/wiki/Slippery_slope)  
+   Link: <a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slopeThe core of the slippery slope argument is that a specific decision under [debate](&amp;#123;&amp;#123; &#x27;debate/&#x27; | relative_url &amp;#125;&amp;#125;) is likely to result in unintended conse...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/10qel0m/cmv_when_discussing_laws_court_decisions_and/](https://www.reddit.com/r/changemyview/comments/10qel0m/cmv_when_discussing_laws_court_decisions_and/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/10qel0m/cmv_when_discussing_laws_court_decisions_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/10qel0m/cmv_when_discussing_laws_court_decisions_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When discussing laws, court decisions, and other things...CMV: When discussing laws, court decisions, and other things impacted by legal...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: econfaculty.gmu.edu  
-   Link: [https://econfaculty.gmu.edu/pboettke/workshop/spring05/Rizzo.pdf](https://econfaculty.gmu.edu/pboettke/workshop/spring05/Rizzo.pdf)  
+   Link: <a href="https://econfaculty.gmu.edu/pboettke/workshop/spring05/Rizzo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://econfaculty.gmu.edu/pboettke/workshop/spring05/Rizzo.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(SSA) is an argument about how the acceptance of one argument (regarding a decision, act, or policy) may lead to the acceptance of...Rea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: supremecourt.uk  
    Title: Default Rules in Common Law Lord Sales 5fbadbd54a  
-   Link: [https://supremecourt.uk/uploads/Default_Rules_in_Common_Law_Lord_Sales_5fbadbd54a.pdf](https://supremecourt.uk/uploads/Default_Rules_in_Common_Law_Lord_Sales_5fbadbd54a.pdf)  
+   Link: <a href="https://supremecourt.uk/uploads/Default_Rules_in_Common_Law_Lord_Sales_5fbadbd54a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://supremecourt.uk/uploads/Default_Rules_in_Common_Law_Lord_Sales_5fbadbd54a.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court UKRules in the Common Law: Substantive Rules and Precedent24 Mar 2023 — The common law is itself, in a sense, a collection...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Precedent and the Rule of Law  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8643603/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8643603/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby S Lewis · 2021 · Cited by 105 — In the civil law [tradition](&amp;#123;&amp;#123; &#x27;tradition/&#x27; | relative_url &amp;#125;&amp;#125;), precedents are often used in order to tip the balance in favour of part...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8643603/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8643603/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Lewis · 2021 · Cited by 105 — In the civil law [tradition](&amp;#123;&amp;#123; &#x27;tradition/&#x27; | relative_url &amp;#125;&amp;#125;), precedents are often used in order to tip the balance in favour of part...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: scribbr.co.uk  
    Title: Slippery Slope Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/](https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scribbr17 Apr 2023 — The slippery slope fallacy is an argument that suggests an initial event will inevitably cause another undesirable e...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-slippery-slope-fallacy/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Apr 2023 — The slippery slope fallacy is an argument that suggests an initial event will inevitably cause another undesirable e...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/greg.koukl/posts/slippery-slope-arguments-link-one-way-of-thinking-to-an-unintended-consequence-t/1434657585122868/](https://www.facebook.com/greg.koukl/posts/slippery-slope-arguments-link-one-way-of-thinking-to-an-unintended-consequence-t/1434657585122868/)  
+   Link: <a href="https://www.facebook.com/greg.koukl/posts/slippery-slope-arguments-link-one-way-of-thinking-to-an-unintended-consequence-t/1434657585122868/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/greg.koukl/posts/slippery-slope-arguments-link-one-way-of-thinking-to-an-unintended-consequence-t/1434657585122868/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>events and lead to an extreme or undesirable outcome. The...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: marcellodibello.com  
-   Link: [https://www.marcellodibello.com/PHI370/resources/SchauerPrecedent.pdf](https://www.marcellodibello.com/PHI370/resources/SchauerPrecedent.pdf)  
+   Link: <a href="https://www.marcellodibello.com/PHI370/resources/SchauerPrecedent.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellodibello.com/PHI370/resources/SchauerPrecedent.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3.1 Precedent in Two DirectionsLike vertical precedent, stare decisis—horizontal precedent—is about following the decisions of oth- ers...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: legal.thomsonreuters.com  
    Title: the doctrine of stare decisis  
-   Link: [https://legal.thomsonreuters.com/blog/the-doctrine-of-stare-decisis/](https://legal.thomsonreuters.com/blog/the-doctrine-of-stare-decisis/)  
+   Link: <a href="https://legal.thomsonreuters.com/blog/the-doctrine-of-stare-decisis/" target="_blank" rel="noopener noreferrer nofollow">https://legal.thomsonreuters.com/blog/the-doctrine-of-stare-decisis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomson Reuters LegalStare decisis: Definition, examples and critical analysis5 Nov 2024 — Stare decisis, meaning in Latin “to stand by t...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: papers.ssrn.com  
    Title: SSRN ID1445308 code383968  
-   Link: [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&mirid=1&type=2](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&mirid=1&type=2)  
+   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1445308_code383968.pdf?abstractid=1445308&amp;mirid=1&amp;type=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>slope argumentsA first additional requirement for calling an argument a slippery slope argument can be distilled from this: sequential ev...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: harvardlawreview.org  
-   Link: [https://harvardlawreview.org/?p=16979](https://harvardlawreview.org/?p=16979)  
+   Link: <a href="https://harvardlawreview.org/?p=16979" target="_blank" rel="noopener noreferrer nofollow">https://harvardlawreview.org/?p=16979</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Paradox of Precedent About Precedent10 Jan 2025 — When the Supreme Court overrules or declines to overrule a past decision, it typica...</p></details>

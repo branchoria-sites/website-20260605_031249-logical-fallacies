@@ -268,11 +268,11 @@ image: /assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_infor
 
 ## Introduction
 
-Information cascades help explain how a [bandwagon]({{ 'bandwagon/' | relative_url }}) can emerge even when the crowd possesses very little reliable information. In the context of [appeal to popularity]({{ 'popularity/' | relative_url }}), the key insight is that widespread agreement may not reflect independent evidence gathered by many people. Instead, it may reflect a chain of imitation in which later individuals copy earlier visible choices and gradually stop relying on their own private knowledge. Once this process begins, a belief can appear strongly supported simply because many people repeat it, even though the apparent consensus originated from a small amount of information or even an early mistake. Research on social learning and informational cascades has shown that collective behaviour can become both highly uniform and surprisingly fragile because it rests on imitation rather than independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
+Information cascades help explain how a [bandwagon]({{ 'bandwagon/' | relative_url }}) can emerge even when the crowd possesses very little reliable information. In the [context]({{ 'context/' | relative_url }}) of appeal to popularity, the key insight is that widespread agreement may not reflect independent evidence gathered by many people. Instead, it may reflect a chain of imitation in which later individuals copy earlier visible choices and gradually stop relying on their own private knowledge. Once this process begins, a belief can appear strongly supported simply because many people repeat it, even though the apparent consensus originated from a small amount of information or even an early mistake. Research on social learning and informational cascades has shown that collective behaviour can become both highly uniform and surprisingly fragile because it rests on imitation rather than independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-1-dark.svg" | relative_url }}" alt="Cascades illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Understanding cascades is important because they reveal a hidden weakness in crowd belief. A large number of people may agree, yet the agreement itself may contain far less information than it appears to contain. This helps explain why popularity is not reliable proof of truth and why bandwagon reasoning can become a logical fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
+Understanding cascades is important because they reveal a hidden weakness in crowd belief. A large number of people may agree, yet the agreement itself may contain far less information than it appears to contain. This helps explain why popularity is not reliable proof of truth and why bandwagon reasoning can become a logical fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
 
 ## How Early Choices Trigger Later Imitation
 
@@ -289,13 +289,13 @@ This is one route by which a bandwagon forms. The growing number of adherents lo
 
 ## Why Private Knowledge Can Disappear in a Cascade
 
-A central feature of information cascades is that private information gradually stops influencing public outcomes. Researchers describe cascades as situations in which people eventually ignore their own information and simply follow observed behaviour. At that point, new knowledge entering the system no longer changes visible decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e2.wpmucdn.com">[bpb-us-e2.wpmucdn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e2.wpmucdn.com</span><span class="citation-popover-title">Information cascades</span><span class="citation-popover-snippet">CDNAn information cascade occurs when individuals, having observed the actions and possibly payoffs of those ahead of them, take the same...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</span></span></span>
+A central feature of information cascades is that private information gradually stops influencing public outcomes. Researchers describe cascades as situations in which people eventually ignore their own information and simply follow observed behaviour. At that point, new knowledge entering the system no longer changes visible decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpb-us-e2.wpmucdn.com">[bpb-us-e2.wpmucdn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpb-us-e2.wpmucdn.com</span><span class="citation-popover-title">Information cascades</span><span class="citation-popover-snippet">CDNAn information cascade occurs when individuals, having observed the actions and possibly payoffs of those ahead of them, take the same...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</span></span></span>
 
 This creates a paradox. As more people join the bandwagon, outsiders often become more confident that the crowd must be correct. Yet the opposite may be true. The later participants may not be contributing independent evidence at all. They may merely be echoing earlier choices. A crowd of one thousand people can therefore embody much less information than it appears to contain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Cascades and Social Learningby S Bikhchandani · 2023 · Cited by 190 — We review the theory of information cascades and social learning, a...</span></span></span>
 
 Another important consequence is fragility. Because cascades may be built on a small informational foundation, they can collapse quickly when credible new evidence appears. A belief that seemed overwhelmingly accepted may reverse direction once people realise that others were also following the crowd rather than independently confirming the claim. Researchers have repeatedly highlighted this fragility as one of the defining characteristics of informational cascades. SSRN <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">v62y2024i3p1040 93</span><span class="citation-popover-snippet">IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</span></span></span>
 
-For the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this point is crucial. An appeal to popularity assumes that widespread acceptance itself supports a claim. Information cascade theory shows why that assumption can fail: the popularity may not represent many independent judgements at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
+For the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this point is crucial. An appeal to popularity assumes that widespread acceptance itself supports a claim. Information cascade theory shows why that assumption can fail: the popularity may not represent many independent judgements at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-2-dark.svg" | relative_url }}" alt="Cascades illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_information_cascades_f8ecb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -303,7 +303,7 @@ For the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}),
 
 ### Financial Markets
 
-Financial markets provide some of the most discussed examples of cascade behaviour. Investors often observe what other investors are buying and selling. If enough early participants move in one direction, later investors may interpret those actions as evidence of hidden information. This can contribute to herding behaviour, speculative bubbles, or rapid shifts in market sentiment. The literature on informational cascades has frequently used investment decisions as an illustration of how rational imitation can produce collective errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/2647037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">However, conventional industrial organiza-.Read more</span><span class="citation-popover-snippet">JSTORSushil Bikhchandani, David Hirshleifer and Ivo Welchby S Bikhchandani · 1998 · Cited by 3233 — The theory of informational cascades...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaltodoc.aalto.fi">[Aaltodoc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaltodoc.aalto.fi</span><span class="citation-popover-snippet">AaltodocA basic theory of rational herd behavior and informational...by N Tuominen · 2017 · Cited by 9 — The basic theories of rational...</span></span></span>
+Financial markets provide some of the most discussed examples of cascade behaviour. Investors often observe what other investors are buying and selling. If enough early participants move in one direction, later investors may interpret those actions as evidence of hidden information. This can contribute to herding behaviour, speculative bubbles, or rapid shifts in market sentiment. The literature on informational cascades has frequently used investment decisions as an illustration of how rational imitation can produce collective errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/2647037" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-title">However, conventional industrial organiza-.Read more</span><span class="citation-popover-snippet">Sushil Bikhchandani, David Hirshleifer and Ivo Welchby S Bikhchandani · 1998 · Cited by 3233 — The theory of informational cascades...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaltodoc.aalto.fi">[Aaltodoc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaltodoc.aalto.fi</span><span class="citation-popover-snippet">A basic theory of rational herd behavior and informational...by N Tuominen · 2017 · Cited by 9 — The basic theories of rational...</span></span></span>
 
 ### Queues and Consumer Choice
 
@@ -330,7 +330,7 @@ Information cascades do not prove that crowds are usually wrong. Often, observin
 
 When evaluating a popular claim, the critical question is not merely how many people believe it, but how those people reached that belief. If the apparent consensus arose through a cascade, then thousands of endorsements may ultimately trace back to a small number of early signals. What looks like strong evidence may therefore be little more than a chain of imitation. SSRN <span class="citation-chip-wrap"><a class="citation-chip" href="https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: snap.stanford.edu">[Stanford Network Analysis Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">snap.stanford.edu</span><span class="citation-popover-snippet">Stanford Network Analysis ProjectA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11090 — In...</span></span></span>
 
-This is why information cascades occupy an important place in understanding appeal to popularity. They provide a concrete mechanism showing how large crowds can appear informed even when the underlying evidence is thin, making the bandwagon effect persuasive without making it logically sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? | Definition &amp; Examples</span><span class="citation-popover-snippet">ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</span></span></span>
+This is why information cascades occupy an important place in understanding appeal to popularity. They provide a concrete mechanism showing how large crowds can appear informed even when the underlying evidence is thin, making the bandwagon effect persuasive without making it logically sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr What Is Ad Populum Fallacy? &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</span><span class="citation-popover-meta">Published: June 20, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n14qsp2C9Tw" title="Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer">Don&#x27;t Be a Sheep: The Ad Populum Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Ontology Explained: Philosophy and AI &middot; Views: 372 &middot; Uploaded: October 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n14qsp2C9Tw">Open on YouTube</a></p></div></div></div>
@@ -758,173 +758,173 @@ This is why information cascades occupy an important place in understanding appe
 1. <a id="endnote-1"></a>
    Source: ideas.repec.org  
    Title: v62y2024i3p1040 93  
-   Link: [https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html](https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html)  
+   Link: <a href="https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/aea/jeclit/v62y2024i3p1040-93.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of information cascades...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1286306</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11099 — We argue that localized conform...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ideas.repec.org  
    Title: v100y1992i5p992 1026  
-   Link: [https://ideas.repec.org/a/ucp/jpolec/v100y1992i5p992-1026.html](https://ideas.repec.org/a/ucp/jpolec/v100y1992i5p992-1026.html)  
+   Link: <a href="https://ideas.repec.org/a/ucp/jpolec/v100y1992i5p992-1026.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/ucp/jpolec/v100y1992i5p992-1026.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11108 — An informational cascade...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: snap.stanford.edu  
-   Link: [https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf](https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf)  
+   Link: <a href="https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf" target="_blank" rel="noopener noreferrer nofollow">https://snap.stanford.edu/class/cs224w-readings/bikhchandani92fads.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Network Analysis ProjectA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11090 — In...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Information Cascades and Social Learning  
-   Link: [https://arxiv.org/abs/2105.11044](https://arxiv.org/abs/2105.11044)  
+   Link: <a href="https://arxiv.org/abs/2105.11044" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.11044</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Authors:Sushil Bikhchandani, David Hirshleifer, Omer Tamuz, Ivo Welch. View a PDF of the paper...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bpb-us-e2.wpmucdn.com  
    Title: Information cascades  
-   Link: [https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf](https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf)  
+   Link: <a href="https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpb-us-e2.wpmucdn.com/sites.uci.edu/dist/c/362/files/2017/01/Palgrave-information-cascades-Online-version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CDNAn information cascade occurs when individuals, having observed the actions and possibly payoffs of those ahead of them, take the same...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: econpapers.repec.org  
    Title: Sushil Bikhchandani, David Hirshleifer and Ivo Welch.Read more  
-   Link: [https://econpapers.repec.org/RePEc%3Aucp%3Ajpolec%3Av%3A100%3Ay%3A1992%3Ai%3A5%3Ap%3A992-1026](https://econpapers.repec.org/RePEc%3Aucp%3Ajpolec%3Av%3A100%3Ay%3A1992%3Ai%3A5%3Ap%3A992-1026)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EconPapersA Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11076 — A Theory of Fads, Fashion...</p></details>
+   Link: <a href="https://econpapers.repec.org/RePEc%3Aucp%3Ajpolec%3Av%3A100%3Ay%3A1992%3Ai%3A5%3Ap%3A992-1026" target="_blank" rel="noopener noreferrer nofollow">https://econpapers.repec.org/RePEc%3Aucp%3Ajpolec%3Av%3A100%3Ay%3A1992%3Ai%3A5%3Ap%3A992-1026</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Fads, Fashion, Custom, and Cultural Change...by S Bikhchandani · 1992 · Cited by 11076 — A Theory of Fads, Fashion...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851678</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cascades and Social Learningby S Bikhchandani · 2023 · Cited by 190 — We review the theory of information cascades and social learning, a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: jstor.org  
    Title: However, conventional industrial organiza-.Read more  
-   Link: [https://www.jstor.org/stable/2647037](https://www.jstor.org/stable/2647037)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORSushil Bikhchandani, David Hirshleifer and Ivo Welchby S Bikhchandani · 1998 · Cited by 3233 — The theory of informational cascades...</p></details>
+   Link: <a href="https://www.jstor.org/stable/2647037" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2647037</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sushil Bikhchandani, David Hirshleifer and Ivo Welchby S Bikhchandani · 1998 · Cited by 3233 — The theory of informational cascades...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2006.00765](https://arxiv.org/abs/2006.00765)  
+   Link: <a href="https://arxiv.org/abs/2006.00765" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.00765</a>  
 
 11. <a id="endnote-11"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779644</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cascades in Banerjee (1992), Bikhchandani...by I Welch · 1992 · Cited by 1 — The early information cascades paper of Banerjee (1992) is...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/p/cla/levarc/1193.html](https://ideas.repec.org/p/cla/levarc/1193.html)  
+   Link: <a href="https://ideas.repec.org/p/cla/levarc/1193.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/cla/levarc/1193.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theory of Fads, Fashion, Custom and cultural change as...by S Bikhchandani · 2010 · Cited by 4 — The authors argue that localized confor...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Bandwagon Effect: How Popularity Drives Behavior (2 Minutes)  
-   Link: [https://www.youtube.com/watch?v=C9S5nFHcvSA](https://www.youtube.com/watch?v=C9S5nFHcvSA)  
+   Link: <a href="https://www.youtube.com/watch?v=C9S5nFHcvSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C9S5nFHcvSA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information Cascade...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Information Cascade  
-   Link: [https://www.youtube.com/watch?v=tHE3pBbc_zI](https://www.youtube.com/watch?v=tHE3pBbc_zI)  
+   Link: <a href="https://www.youtube.com/watch?v=tHE3pBbc_zI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tHE3pBbc_zI</a>  
 
 15. <a id="endnote-15"></a>
    Source: aeaweb.org  
-   Link: [https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472](https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472)  
+   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Fjel.20241472</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Economic AssociationInformation Cascades and Social Learningby S Bikhchandani · 2024 · Cited by 190 — We review the theory of in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribbr.co.uk  
    Title: Scribbr What Is Ad Populum Fallacy? | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/](https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrWhat Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/the-ad-populum-fallacy/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Ad Populum Fallacy? | Definition &amp; Examples - ScribbrJune 20, 2023 — 20 Jun 2023 — Ad populum fallacy is arguing that a cl...</p></details>
    Published: June 20, 2023  
 
 17. <a id="endnote-17"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/popular.html](https://philosophy.lander.edu/logic/popular.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/popular.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/popular.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd Populum: Appeal to PopularityThe ad populum argument claims a conclusion is true because most, all, or even an eli...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aeaweb.org  
-   Link: [https://www.aeaweb.org/articles?id=10.1257%2Fjep.12.3.151](https://www.aeaweb.org/articles?id=10.1257%2Fjep.12.3.151)  
+   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2Fjep.12.3.151" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Fjep.12.3.151</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Economic AssociationLearning from the Behavior of Others: Conformity, Fads...by S Bikhchandani · 1998 · Cited by 3238 — Learni...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aaltodoc.aalto.fi  
-   Link: [https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104](https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AaltodocA basic theory of rational herd behavior and informational...by N Tuominen · 2017 · Cited by 9 — The basic theories of rational...</p></details>
+   Link: <a href="https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104" target="_blank" rel="noopener noreferrer nofollow">https://aaltodoc.aalto.fi/items/cc635ac1-d964-4e68-aaab-a32ccebb8104</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A basic theory of rational herd behavior and informational...by N Tuominen · 2017 · Cited by 9 — The basic theories of rational...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Information](https://en.wikipedia.org/wiki/Information)  
+   Link: <a href="https://en.wikipedia.org/wiki/Information" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Information</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InformationInformation is an abstract concept that refers to something which has the power to inform. At the most fundamental level, i...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/information](https://dictionary.cambridge.org/dictionary/english/information)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary7 days ago — Information is an uncountable noun meaning &#x27;facts about someone or something&#x27;. It is...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/information" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/information</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — Information is an uncountable noun meaning &#x27;facts about someone or something&#x27;. It is...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pages.gseis.ucla.edu  
-   Link: [https://pages.gseis.ucla.edu/faculty/bates/articles/information.html](https://pages.gseis.ucla.edu/faculty/bates/articles/information.html)  
+   Link: <a href="https://pages.gseis.ucla.edu/faculty/bates/articles/information.html" target="_blank" rel="noopener noreferrer nofollow">https://pages.gseis.ucla.edu/faculty/bates/articles/information.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Batesby CRC Press — Roughly speaking, information is that commodity capable of yielding knowledge, and what information a signal carri...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gymglish.com  
-   Link: [https://www.gymglish.com/en/gymglish/english-translation/information](https://www.gymglish.com/en/gymglish/english-translation/information)  
+   Link: <a href="https://www.gymglish.com/en/gymglish/english-translation/information" target="_blank" rel="noopener noreferrer nofollow">https://www.gymglish.com/en/gymglish/english-translation/information</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningInformation definition in English...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: everydayconcepts.io  
-   Link: [https://everydayconcepts.io/information-cascade](https://everydayconcepts.io/information-cascade)  
+   Link: <a href="https://everydayconcepts.io/information-cascade" target="_blank" rel="noopener noreferrer nofollow">https://everydayconcepts.io/information-cascade</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Information CascadeEconomists Sushil Bikhchandani, David Hirshleifer, and Ivo Welch formalized the theory in their 1992 paper &quot;A Theory o...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/information](https://www.merriam-webster.com/dictionary/information)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/information" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/information</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INFORMATION Definition &amp; Meaning6 days ago — The meaning of INFORMATION is knowledge gained from investigation, study, or instruction. Ho...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Popularity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PopularityUsing the popularity of a premise or proposition as evidence for its truthfulness. This is a fallacy which is very di...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: theinformation.com  
-   Link: [https://www.theinformation.com/](https://www.theinformation.com/)  
+   Link: <a href="https://www.theinformation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.theinformation.com/</a>  
 
 28. <a id="endnote-28"></a>
    Source: deusdiapente.wordpress.com  
-   Link: [https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/](https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/)  
+   Link: <a href="https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/" target="_blank" rel="noopener noreferrer nofollow">https://deusdiapente.wordpress.com/2012/09/03/logical-fallacies-as-weak-bayesian-evidence-argumentum-ad-populum-appeal-to-popularity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies As Weak Bayesian Evidence3 Sept 2012 — Appeal to popularity, of course, is a logical fallacy because in bare bones logic the co...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=n14qsp2C9Tw](https://www.youtube.com/watch?v=n14qsp2C9Tw)  
+   Link: <a href="https://www.youtube.com/watch?v=n14qsp2C9Tw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n14qsp2C9Tw</a>  
 
 30. <a id="endnote-30"></a>
    Source: blogs.cornell.edu  
    Title: informational cascades and related thoughts on local rationality  
-   Link: [https://blogs.cornell.edu/info2040/2021/11/05/informational-cascades-and-related-thoughts-on-local-rationality/](https://blogs.cornell.edu/info2040/2021/11/05/informational-cascades-and-related-thoughts-on-local-rationality/)  
+   Link: <a href="https://blogs.cornell.edu/info2040/2021/11/05/informational-cascades-and-related-thoughts-on-local-rationality/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.cornell.edu/info2040/2021/11/05/informational-cascades-and-related-thoughts-on-local-rationality/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cascades and Related Thoughts on Local...5 Nov 2021 — Informational cascade is explained as a model with systemic fragility which to cer...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: sites.uci.edu  
-   Link: [https://sites.uci.edu/dhirshle/files/2011/02/Learning-from-the-Behavior-of-Others-Conformity-Fads-and-Informational-Cascades.pdf](https://sites.uci.edu/dhirshle/files/2011/02/Learning-from-the-Behavior-of-Others-Conformity-Fads-and-Informational-Cascades.pdf)  
+   Link: <a href="https://sites.uci.edu/dhirshle/files/2011/02/Learning-from-the-Behavior-of-Others-Conformity-Fads-and-Informational-Cascades.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.uci.edu/dhirshle/files/2011/02/Learning-from-the-Behavior-of-Others-Conformity-Fads-and-Informational-Cascades.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UCI SitesConformity, Fads, and Informational Cascadesby S Bikhchandani · 1998 · Cited by 3233 — Learning from the Behavior of Others: Con...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-bandwagon-fallac/25684558261152363/](https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-bandwagon-fallac/25684558261152363/)  
+   Link: <a href="https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-bandwagon-fallac/25684558261152363/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/charles.ebune/posts/argumentum-ad-populum-also-known-as-the-appeal-to-the-people-or-bandwagon-fallac/25684558261152363/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y where something is claimed to be true or good simply because...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: fallacyguide.com  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-popularity](https://fallacyguide.com/fallacies/appeal-to-popularity)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-popularity" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-popularity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy GuideAppeal to Popularity Fallacy: Definition, Examples &amp; How to Fix ItAppeals to popularity turn headcount into evidence and...</p></details>

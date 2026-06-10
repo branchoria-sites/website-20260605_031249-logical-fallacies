@@ -330,7 +330,7 @@ This is why striking anecdotes often feel more convincing than they deserve. A d
 
 A single memorable story often has more emotional impact than a table of numbers.
 
-Suppose a person hears one powerful account of a medical treatment apparently working wonders. That story may feel more persuasive than a study involving thousands of patients. Yet [anecdotal evidence]({{ 'anecdotes/' | relative_url }}) lacks the comparison groups and broader [context]({{ 'context/' | relative_url }}) needed to determine whether the treatment truly caused the outcome. The same issue applies to crime stories, consumer experiences, investment successes, and political examples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/13163/chapter/7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-title">National Academies Chapter: Reference Guide on Statistics--David H</span><span class="citation-popover-snippet">Kaye and...Anecdotal evidence usually amounts to reports that events of one kind are followed by events of another kind. Typically, the...</span></span></span>
+Suppose a person hears one powerful account of a medical treatment apparently working wonders. That story may feel more persuasive than a study involving thousands of patients. Yet anecdotal evidence lacks the comparison groups and broader [context]({{ 'context/' | relative_url }}) needed to determine whether the treatment truly caused the outcome. The same issue applies to crime stories, consumer experiences, investment successes, and political examples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/13163/chapter/7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-title">National Academies Chapter: Reference Guide on Statistics--David H</span><span class="citation-popover-snippet">Kaye and...Anecdotal evidence usually amounts to reports that events of one kind are followed by events of another kind. Typically, the...</span></span></span>
 
 Research on persuasion shows that people frequently give substantial weight to individual examples, even when statistical evidence provides a stronger basis for general conclusions. Anecdotes are easier to imagine, easier to remember, and easier to discuss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2017.1312195" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineCombining Anecdotal and Statistical Evidence in Real-Life...by J Hornikx · 2018 · Cited by 42 — The present artic...</span></span></span>
 
@@ -360,7 +360,7 @@ EvidenceReasonable conclusionUnreasonable conclusionThree delayed deliveriesThes
 
 The problem is often not that the conclusion is impossible. It is that the evidence is too limited to justify confidence in such a broad statement.
 
-Statistical methodology emphasises that sample adequacy depends on the question being asked, the variability of the population, and the precision required. There is no universal sample size that automatically makes a conclusion reliable. Nevertheless, larger and more representative samples generally support broader claims more effectively than smaller ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">PMC - NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sample_size_determination" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Sample size determinationSample size determination or estimation is the act of choosing the number of observations or replicates to in...</span></span></span>
+Statistical methodology emphasises that sample adequacy depends on the question being asked, the variability of the population, and the precision required. There is no universal sample size that automatically makes a conclusion reliable. Nevertheless, larger and more representative samples generally support broader claims more effectively than smaller ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sample_size_determination" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Sample size determinationSample size determination or estimation is the act of choosing the number of observations or replicates to in...</span></span></span>
 
 ## When Small Samples Justify Caution, Not Certainty
 
@@ -412,12 +412,17 @@ The first approach recognises uncertainty. The second assumes certainty before t
 
 Several warning signs often indicate that small samples are being turned into sweeping claims:
 
+
+<div class="content-enhancement content-enhancement--example" markdown="1">
+
 * **The sample can be counted on one hand.**
 * **The examples are highly emotional or memorable.**
 * **No information is provided about the wider population.**
 * **Words such as “all”, “most”, “always”, or “never” appear suddenly.**
-* **The argument relies mainly on [personal experience]({{ 'experience/' | relative_url }}).**
+* **The argument relies mainly on personal experience.**
 * **No attempt is made to check whether the examples are typical.**
+
+</div>
 
 When these features appear together, the risk of hasty generalisation increases substantially.
 
@@ -820,135 +825,135 @@ The central mechanism of this fallacy is a mismatch between evidence and conclus
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow sample size influences research outcomes  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Very small samples undermine the internal and external validity of a study.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: stats.org.uk  
    Title: BELIE F IN THE LAW OF SMALL NUMBERS  
-   Link: [https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf](https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf)  
+   Link: <a href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan we shift belief in the 'Law of Small Numbers'?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DVM Bishop · 2022 · Cited by 8 — One cognitive bias demonstrated by Tversky &amp; Kahneman [1] is the &#x27;belief in the law of small...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Insensitivity to sample size  
-   Link: [https://en.wikipedia.org/wiki/Insensitivity_to_sample_size](https://en.wikipedia.org/wiki/Insensitivity_to_sample_size)  
+   Link: <a href="https://en.wikipedia.org/wiki/Insensitivity_to_sample_size" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Insensitivity_to_sample_size</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 13, 2025 — Insensitivity to sample size is a cognitive bias where people estimate the probability of obtaining a sample statistic...</p></details>
    Published: August 13, 2025  
 
 5. <a id="endnote-5"></a>
    Source: catalogofbias.org  
-   Link: [https://catalogofbias.org/biases/wrong-sample-size-bias/](https://catalogofbias.org/biases/wrong-sample-size-bias/)  
+   Link: <a href="https://catalogofbias.org/biases/wrong-sample-size-bias/" target="_blank" rel="noopener noreferrer nofollow">https://catalogofbias.org/biases/wrong-sample-size-bias/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wrong sample size biasWhen small sample size is used, the risk is high that observations will be due to chance, something studies with la...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Sample_size_determination](https://en.wikipedia.org/wiki/Sample_size_determination)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sample_size_determination" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sample_size_determination</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample size determinationSample size determination or estimation is the act of choosing the number of observations or replicates to in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/17470218241255916](https://journals.sagepub.com/doi/10.1177/17470218241255916)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218241255916" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218241255916</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting representativeness heuristic classic paradigmsKahneman and Tversky showed that when people make probability judgements, they t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Representativeness heuristic  
-   Link: [https://en.wikipedia.org/wiki/Representativeness_heuristic](https://en.wikipedia.org/wiki/Representativeness_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Representativeness_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Representativeness_heuristic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Representativeness heuristicThe representativeness heuristic works by comparing an event to a prototype or stereotype that we already...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: methods.sagepub.com  
    Title: 22 nonprobability sampling  
-   Link: [https://methods.sagepub.com/hnbk/edvol/the-sage-handbook-of-survey-methodology/chpt/22-nonprobability-sampling](https://methods.sagepub.com/hnbk/edvol/the-sage-handbook-of-survey-methodology/chpt/22-nonprobability-sampling)  
+   Link: <a href="https://methods.sagepub.com/hnbk/edvol/the-sage-handbook-of-survey-methodology/chpt/22-nonprobability-sampling" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/hnbk/edvol/the-sage-handbook-of-survey-methodology/chpt/22-nonprobability-sampling</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>sagepub.comNon-probability SamplingAnother advantage of probability samples – which is of extreme practical value – is that the confidenc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Why Small Samples Fool Us: The Law of Small Numbers Explained  
-   Link: [https://www.youtube.com/watch?v=A4p3QILDFso](https://www.youtube.com/watch?v=A4p3QILDFso)  
+   Link: <a href="https://www.youtube.com/watch?v=A4p3QILDFso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A4p3QILDFso</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Law of Small Numbers...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Law of Small Numbers  
-   Link: [https://www.youtube.com/watch?v=HoMb4nKTZwg](https://www.youtube.com/watch?v=HoMb4nKTZwg)  
+   Link: <a href="https://www.youtube.com/watch?v=HoMb4nKTZwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HoMb4nKTZwg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Anecdotal Evidence? (Easiest Explanation)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalacademies.org  
    Title: National Academies Chapter: Reference Guide on Statistics--David H  
-   Link: [https://www.nationalacademies.org/read/13163/chapter/7](https://www.nationalacademies.org/read/13163/chapter/7)  
+   Link: <a href="https://www.nationalacademies.org/read/13163/chapter/7" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/13163/chapter/7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kaye and...Anecdotal evidence usually amounts to reports that events of one kind are followed by events of another kind. Typically, the...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/0163853X.2017.1312195](https://www.tandfonline.com/doi/full/10.1080/0163853X.2017.1312195)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2017.1312195" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2017.1312195</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineCombining Anecdotal and Statistical Evidence in Real-Life...by J Hornikx · 2018 · Cited by 42 — The present artic...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: necsus-ejms.org  
    Title: Anecdotal evidence  
-   Link: [https://necsus-ejms.org/anecdotal-evidence/](https://necsus-ejms.org/anecdotal-evidence/)  
+   Link: <a href="https://necsus-ejms.org/anecdotal-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://necsus-ejms.org/anecdotal-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NECSUSby S Cubitt — In the anecdotal method we seek distinctions at least as much as we seek shared features, the nuances that make one r...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/2982094](https://www.jstor.org/stable/2982094)  
+   Link: <a href="https://www.jstor.org/stable/2982094" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2982094</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical Assessments as Evidenceby SE Fienberg · 1982 · Cited by 36 — Although there have been other isolated uses of probabilistic an...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: itl.nist.gov  
-   Link: [https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm](https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm)  
+   Link: <a href="https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nist.gov7.2.2.2. Sample sizes requiredThe table below gives sample sizes for a two-sided test of hypothesis that the mean is a given valu...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fs.blog  
-   Link: [https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/](https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/)  
+   Link: <a href="https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/" target="_blank" rel="noopener noreferrer nofollow">https://fs.blog/mental-model-bias-from-insensitivity-to-sample-size/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Farnam StreetMental Model: Bias from Insensitivity to Sample SizeOur bias from insensitivity to sample size, (aka the law of small number...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: leanscape.io  
-   Link: [https://leanscape.io/the-importance-of-identifying-the-right-sample-size-for-business-improvement](https://leanscape.io/the-importance-of-identifying-the-right-sample-size-for-business-improvement)  
+   Link: <a href="https://leanscape.io/the-importance-of-identifying-the-right-sample-size-for-business-improvement" target="_blank" rel="noopener noreferrer nofollow">https://leanscape.io/the-importance-of-identifying-the-right-sample-size-for-business-improvement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Choose the Right Sample Size for ImprovementA study with a small sample size may not have enough power to detect statistically sig...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: beyonduxdesign.com  
-   Link: [https://www.beyonduxdesign.com/cognition-catalog/insensitivity-to-sample-size/](https://www.beyonduxdesign.com/cognition-catalog/insensitivity-to-sample-size/)  
+   Link: <a href="https://www.beyonduxdesign.com/cognition-catalog/insensitivity-to-sample-size/" target="_blank" rel="noopener noreferrer nofollow">https://www.beyonduxdesign.com/cognition-catalog/insensitivity-to-sample-size/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Insensitivity to Sample SizeTversky and Kahneman showed that people often ignore the size of the sample when making judgments based on st...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness](https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness)  
+   Link: <a href="https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226764072_Anecdotal_Statistical_and_Causal_Evidence_Their_Perceived_and_Actual_Persuasiveness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Anecdotal, Statistical, and Causal Evidence: Their...In this article, we define anecdotal evidence (also known as narrative eviden...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: lpwm.com  
-   Link: [https://lpwm.com/behavioral-finance/sample-size-neglect](https://lpwm.com/behavioral-finance/sample-size-neglect)  
+   Link: <a href="https://lpwm.com/behavioral-finance/sample-size-neglect" target="_blank" rel="noopener noreferrer nofollow">https://lpwm.com/behavioral-finance/sample-size-neglect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample Size NeglectSample size neglect is a bias where one evaluates statistical information and arrives at an erroneous conclusion after...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/322862980_Significance_Errors_Power_and_Sample_Size_The_Blocking_and_Tackling_of_Statistics](https://www.researchgate.net/publication/322862980_Significance_Errors_Power_and_Sample_Size_The_Blocking_and_Tackling_of_Statistics)  
+   Link: <a href="https://www.researchgate.net/publication/322862980_Significance_Errors_Power_and_Sample_Size_The_Blocking_and_Tackling_of_Statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322862980_Significance_Errors_Power_and_Sample_Size_The_Blocking_and_Tackling_of_Statistics</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/529807464111948/posts/2317017425390934/](https://www.facebook.com/groups/529807464111948/posts/2317017425390934/)  
+   Link: <a href="https://www.facebook.com/groups/529807464111948/posts/2317017425390934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/529807464111948/posts/2317017425390934/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Small and large sample sizes in statisticsSmall Sample: If the sample size n is less than 30 (n&lt;30), it is known as small sample. In case...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: andrewclark.co.uk  
-   Link: [https://andrewclark.co.uk/all-media/belief-in-the-law-of-small-numbers](https://andrewclark.co.uk/all-media/belief-in-the-law-of-small-numbers)  
+   Link: <a href="https://andrewclark.co.uk/all-media/belief-in-the-law-of-small-numbers" target="_blank" rel="noopener noreferrer nofollow">https://andrewclark.co.uk/all-media/belief-in-the-law-of-small-numbers</a>  
 
 25. <a id="endnote-25"></a>
    Source: statisticsbyjim.com  
-   Link: [https://statisticsbyjim.com/basics/sample-size/](https://statisticsbyjim.com/basics/sample-size/)  
+   Link: <a href="https://statisticsbyjim.com/basics/sample-size/" target="_blank" rel="noopener noreferrer nofollow">https://statisticsbyjim.com/basics/sample-size/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample Size Essentials: The Foundation of Reliable StatisticsUnderstand the importance of sample size in statistical analysis. Learn how...</p></details>

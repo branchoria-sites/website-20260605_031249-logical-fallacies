@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:24:10'
 parent_title: Is New Always Better? | Fallacy Lab
 parent_permalink: /novelty/
 parent_nav_short_title: Novelty
@@ -259,7 +260,6 @@ next_link:
   permalink: /medical-proof/
   short_title: Medical Proof
   heading_title: When New Treatments Outrun the Evidence
-date: '2026-06-05 02:24:10 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1.webp
@@ -268,11 +268,11 @@ image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_
 
 ## Introduction
 
-When people debate whether to keep an existing system or adopt a new one, they often fall into a symmetrical pair of errors. The [appeal to novelty]({{ 'novelty/' | relative_url }}) assumes that the new option is better because it is new. The [appeal to tradition]({{ 'tradition/' | relative_url }}) assumes that the existing option is better because it has been around longer. Both mistakes substitute age for evidence. A fair comparison asks a different question: what does each option improve, preserve, risk, and cost?
+When people debate whether to keep an existing system or adopt a new one, they often fall into a symmetrical pair of errors. The [appeal to novelty]({{ 'novelty/' | relative_url }}) assumes that the new option is better because it is new. The appeal to [tradition]({{ 'tradition/' | relative_url }}) assumes that the existing option is better because it has been around longer. Both mistakes substitute age for evidence. A fair comparison asks a different question: what does each option improve, preserve, risk, and cost?
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-dark.svg" | relative_url }}" alt="Fair Comparison illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In practice, better decisions come from comparing outcomes against a clear baseline, identifying transition costs, and defining success and failure before implementation begins. Whether the subject is public policy, digital government, healthcare processes, education reform, or organisational technology, the strongest arguments are grounded in measurable effects rather than assumptions about modernity or [tradition]({{ 'tradition/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectiviology.com">[2effectiviology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectiviology.com</span><span class="citation-popover-snippet">med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</span></span></span>
+In practice, better decisions come from comparing outcomes against a clear baseline, identifying transition costs, and defining success and failure before implementation begins. Whether the subject is public policy, digital government, healthcare processes, education reform, or organisational technology, the strongest arguments are grounded in measurable effects rather than assumptions about modernity or tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectiviology.com">[2effectiviology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectiviology.com</span><span class="citation-popover-snippet">med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</span></span></span>
 
 ## How Appeal to Novelty and Appeal to Tradition Make Matching Mistakes
 
@@ -307,10 +307,10 @@ Before replacing an existing policy, process, or technology, decision-makers sho
 
 The baseline matters because improvements are often selective. A new system may improve one metric while worsening another. A digital platform might increase speed but reduce transparency. A policy reform might lower administrative costs while creating new compliance burdens. Judging only the advertised benefit creates an unfair comparison because it ignores trade-offs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span>
 
-Large-scale digital transformation programmes illustrate this point. International organisations such as the OECD emphasise measurement frameworks precisely because modernisation efforts must be evaluated against defined objectives rather than assumed to succeed simply because they involve newer technologies. What matters is not the presence of digital tools but whether they improve outcomes that can actually be measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 3</span><span class="citation-popover-snippet">OECDThe OECD Going Digital Measurement Roadmap 202613 Mar 2026 — The OECD Going Digital Measurement Roadmap (the Roadmap) aims to support...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Measuring the Digital TransformationA Roadmap for the Future provides new insights into the state of the digital transformation by mappin...</span></span></span>
+Large-scale digital transformation programmes illustrate this point. International organisations such as the OECD emphasise measurement frameworks precisely because modernisation efforts must be evaluated against defined objectives rather than assumed to succeed simply because they involve newer technologies. What matters is not the presence of digital tools but whether they improve outcomes that can actually be measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 3</span><span class="citation-popover-snippet">The OECD Going Digital Measurement Roadmap 202613 Mar 2026 — The OECD Going Digital Measurement Roadmap (the Roadmap) aims to support...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Measuring the Digital TransformationA Roadmap for the Future provides new insights into the state of the digital transformation by mappin...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5jiTWnyliQY" title="Appeal to Tradition | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer">Appeal to Tradition | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 3.1K &middot; Uploaded: January 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5jiTWnyliQY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SJWvTZ3h18E" title="Avoiding the Appeal to Novelty: When New Isn&#x27;t Always Better" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer">Avoiding the Appeal to Novelty: When New Isn&#x27;t Always Better</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design &middot; Views: 53 &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SJWvTZ3h18E">Open on YouTube</a></p></div></div></div>
 
 ### Looking Beyond Headline Benefits
 
@@ -387,7 +387,7 @@ The same principle applies to organisational reforms, educational initiatives, h
 Baselines also reduce selective reporting. If success criteria are agreed beforehand, advocates cannot simply switch to whichever metric looks best after implementation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SJWvTZ3h18E" title="Avoiding the Appeal to Novelty: When New Isn&#x27;t Always Better" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer">Avoiding the Appeal to Novelty: When New Isn&#x27;t Always Better</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design &middot; Views: 53 &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SJWvTZ3h18E">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EuBy2QPCh1s" title="Why New Isn&#x27;t Always Better (Appeal to Novelty Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EuBy2QPCh1s" target="_blank" rel="noopener noreferrer">Why New Isn&#x27;t Always Better (Appeal to Novelty Fallacy)</a></p><p class="youtube-embed-meta">Channel: Boonmind &middot; Views: 582 &middot; Uploaded: October 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EuBy2QPCh1s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EuBy2QPCh1s">Open on YouTube</a></p></div></div></div>
 
 ## Why Failure Criteria Matter Before Adoption
 
@@ -436,7 +436,7 @@ If clear answers exist, the argument is probably based on comparative evidence. 
 Fair comparison does not favour old systems or new ones. It favours systems that perform better when measured against relevant goals, realistic costs, and observable outcomes. That principle provides a more reliable guide to decision-making than either enthusiasm for novelty or attachment to tradition.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EuBy2QPCh1s" title="Why New Isn&#x27;t Always Better (Appeal to Novelty Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EuBy2QPCh1s" target="_blank" rel="noopener noreferrer">Why New Isn&#x27;t Always Better (Appeal to Novelty Fallacy)</a></p><p class="youtube-embed-meta">Channel: Boonmind &middot; Views: 582 &middot; Uploaded: October 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EuBy2QPCh1s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EuBy2QPCh1s">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5jiTWnyliQY" title="Appeal to Tradition | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer">Appeal to Tradition | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 3.1K &middot; Uploaded: January 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5jiTWnyliQY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -861,131 +861,131 @@ Fair comparison does not favour old systems or new ones. It favours systems that
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Appeal to novelty  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_novelty](https://en.wikipedia.org/wiki/Appeal_to_novelty)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_novelty</a>  
 
 2. <a id="endnote-2"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/appeal-to-novelty-fallacy/](https://effectiviology.com/appeal-to-novelty-fallacy/)  
+   Link: <a href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/appeal-to-novelty-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
    Title: How to measure the status quo bias?  
-   Link: [https://link.springer.com/article/10.1007/s11301-022-00283-8](https://link.springer.com/article/10.1007/s11301-022-00283-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11301-022-00283-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11301-022-00283-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of current...by ME Godefroid · 2023 · Cited by 143 — The Status Quo Bias (SQB) describes an individual&#x27;s preference to avoid ch...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: oecd.org  
    Title: component 3  
-   Link: [https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html](https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDThe OECD Going Digital Measurement Roadmap 202613 Mar 2026 — The OECD Going Digital Measurement Roadmap (the Roadmap) aims to support...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The OECD Going Digital Measurement Roadmap 202613 Mar 2026 — The OECD Going Digital Measurement Roadmap (the Roadmap) aims to support...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html](https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Digital TransformationA Roadmap for the Future provides new insights into the state of the digital transformation by mappin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
    Title: digital government index 1edec44e  
-   Link: [https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html](https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/digital-government-index_1edec44e.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital government index: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive over...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mdpi.com  
    Title: Are Nations Ready for Digital Transformation?  
-   Link: [https://www.mdpi.com/2227-7099/13/6/152](https://www.mdpi.com/2227-7099/13/6/152)  
+   Link: <a href="https://www.mdpi.com/2227-7099/13/6/152" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7099/13/6/152</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>R Chinoracky · 2025 · Cited by 9 — The OECD and World Bank have documented that digital adoption boosts productivity and growth...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: itu.int  
-   Link: [https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf)  
+   Link: <a href="https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A ROADMAP TOWARD A COMMON FRAMEWORK FOR...5 Mar 2020 — in the long term, low-skilled workers are most likely to bear the cost of digital...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2071-1050/14/13/8188](https://www.mdpi.com/2071-1050/14/13/8188)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIKeeping Things as They Are: How Status Quo Biases and...by B Hofman · 2022 · Cited by 32 — Status quo bias, the tendency to remain i...</p></details>
+   Link: <a href="https://www.mdpi.com/2071-1050/14/13/8188" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/14/13/8188</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping Things as They Are: How Status Quo Biases and...by B Hofman · 2022 · Cited by 32 — Status quo bias, the tendency to remain i...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/digital-transformation.html](https://www.oecd.org/en/topics/digital-transformation.html)  
+   Link: <a href="https://www.oecd.org/en/topics/digital-transformation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/digital-transformation.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital transformationEncompassing the integration of technology into financial services, digital finance is revolutionising how people m...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: legalinstruments.oecd.org  
    Title: OECD LEGAL 0380  
-   Link: [https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0380](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0380)  
+   Link: <a href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0380" target="_blank" rel="noopener noreferrer nofollow">https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0380</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Council on Digital Technologies...4 Jun 2025 — RECOGNISING the interlinkages between the digital and green transitions and their...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Avoiding the Appeal to Novelty: When New Isn't Always Better  
-   Link: [https://www.youtube.com/watch?v=SJWvTZ3h18E](https://www.youtube.com/watch?v=SJWvTZ3h18E)  
+   Link: <a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SJWvTZ3h18E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Tradition | [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Appeal to Tradition | Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=5jiTWnyliQY](https://www.youtube.com/watch?v=5jiTWnyliQY)  
+   Link: <a href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5jiTWnyliQY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Tradition Fallacy...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/status-quo-bias](https://thedecisionlab.com/biases/status-quo-bias)  
+   Link: <a href="https://thedecisionlab.com/biases/status-quo-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/status-quo-bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo BiasThe status quo bias describes our preference for the current state of affairs, resulting in resistance to change.Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: learn.academy4sc.org  
-   Link: [https://learn.academy4sc.org/video/appeal-to-novelty-a-cutting-edge-fallacy/](https://learn.academy4sc.org/video/appeal-to-novelty-a-cutting-edge-fallacy/)  
+   Link: <a href="https://learn.academy4sc.org/video/appeal-to-novelty-a-cutting-edge-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/appeal-to-novelty-a-cutting-edge-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Novelty: A Cutting Edge FallacyAn appeal to novelty is a logical fallacy in which a proposal is claimed to be better because it...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: beyonduxdesign.com  
-   Link: [https://www.beyonduxdesign.com/cognition-catalog/appeal-to-novelty/](https://www.beyonduxdesign.com/cognition-catalog/appeal-to-novelty/)  
+   Link: <a href="https://www.beyonduxdesign.com/cognition-catalog/appeal-to-novelty/" target="_blank" rel="noopener noreferrer nofollow">https://www.beyonduxdesign.com/cognition-catalog/appeal-to-novelty/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to NoveltyAppeal to Novelty does not have a single point of origin. Research in organizational psychology has explored how busines...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nesslabs.com  
-   Link: [https://nesslabs.com/novelty-fallacy](https://nesslabs.com/novelty-fallacy)  
+   Link: <a href="https://nesslabs.com/novelty-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/novelty-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Novelty fallacy: why new isn&#x27;t always betterThe novelty bias is a form of informal logical fallacy, where we consider that something is b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Novelty</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to NoveltyClaiming that something that is new or modern is superior to the status quo, based exclusively on its newness...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: fallacyinlogic.medium.com  
    Title: what is the appeal to novelty fallacy definition and examples 5f227432acc5  
-   Link: [https://fallacyinlogic.medium.com/what-is-the-appeal-to-novelty-fallacy-definition-and-examples-5f227432acc5?source=user_profile---------9----------------------------](https://fallacyinlogic.medium.com/what-is-the-appeal-to-novelty-fallacy-definition-and-examples-5f227432acc5?source=user_profile---------9----------------------------)  
+   Link: <a href="https://fallacyinlogic.medium.com/what-is-the-appeal-to-novelty-fallacy-definition-and-examples-5f227432acc5?source=user_profile---------9----------------------------" target="_blank" rel="noopener noreferrer nofollow">https://fallacyinlogic.medium.com/what-is-the-appeal-to-novelty-fallacy-definition-and-examples-5f227432acc5?source=user_profile---------9----------------------------</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesAppeal to novelty is a logical fallacy, or an error in reasoning, that is based on the assumption that novel (new)...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: davidpublisher.com  
-   Link: [https://www.davidpublisher.com/Public/uploads/Contribute/65f00058c7536.pdf](https://www.davidpublisher.com/Public/uploads/Contribute/65f00058c7536.pdf)  
+   Link: <a href="https://www.davidpublisher.com/Public/uploads/Contribute/65f00058c7536.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.davidpublisher.com/Public/uploads/Contribute/65f00058c7536.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ias in these different circumstances and the mechanism about how Status Quo Bias...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: profrjstarr.com  
-   Link: [https://profrjstarr.com/cognitive-biases/status-quo-bias-why-we-prefer-the-familiar-even-when-it-doesnt-work](https://profrjstarr.com/cognitive-biases/status-quo-bias-why-we-prefer-the-familiar-even-when-it-doesnt-work)  
+   Link: <a href="https://profrjstarr.com/cognitive-biases/status-quo-bias-why-we-prefer-the-familiar-even-when-it-doesnt-work" target="_blank" rel="noopener noreferrer nofollow">https://profrjstarr.com/cognitive-biases/status-quo-bias-why-we-prefer-the-familiar-even-when-it-doesnt-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Status Quo Bias: Why We Prefer the Familiar—Even When...Status quo bias makes us favor familiar situations, systems, and routines—even w...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: innovationmanagement.se  
    Title: how status quo bias can kill innovation  
-   Link: [https://innovationmanagement.se/2013/03/26/how-status-quo-bias-can-kill-innovation/](https://innovationmanagement.se/2013/03/26/how-status-quo-bias-can-kill-innovation/)  
+   Link: <a href="https://innovationmanagement.se/2013/03/26/how-status-quo-bias-can-kill-innovation/" target="_blank" rel="noopener noreferrer nofollow">https://innovationmanagement.se/2013/03/26/how-status-quo-bias-can-kill-innovation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Mar 2013 — Status quo bias may also explain why some companies innovate constantly, while others struggle to maintain a process of con...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: theccc.org.uk  
    Title: the seventh carbon budget  
-   Link: [https://www.theccc.org.uk/publication/the-seventh-carbon-budget/](https://www.theccc.org.uk/publication/the-seventh-carbon-budget/)  
+   Link: <a href="https://www.theccc.org.uk/publication/the-seventh-carbon-budget/" target="_blank" rel="noopener noreferrer nofollow">https://www.theccc.org.uk/publication/the-seventh-carbon-budget/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Feb 2025 — Compared to the baseline, both transitions provide a net increase in private and social benefits, equivalent to £700/hectar...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/370701091_A_Study_of_Psychological_Mechanisms_and_Relevant_Application_Research_of_Status_Quo_Bias](https://www.researchgate.net/publication/370701091_A_Study_of_Psychological_Mechanisms_and_Relevant_Application_Research_of_Status_Quo_Bias)  
+   Link: <a href="https://www.researchgate.net/publication/370701091_A_Study_of_Psychological_Mechanisms_and_Relevant_Application_Research_of_Status_Quo_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370701091_A_Study_of_Psychological_Mechanisms_and_Relevant_Application_Research_of_Status_Quo_Bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We call it status quo...Read more...</p></details>

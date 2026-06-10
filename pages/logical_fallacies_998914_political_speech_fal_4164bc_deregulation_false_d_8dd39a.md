@@ -278,7 +278,7 @@ image: /assets/images/logical_fallacies_998914_political_speech_fal_4164bc_dereg
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1-dark.svg" | relative_url }}" alt="Deregulation illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within [political speech]({{ 'politics/' | relative_url }}), this fallacy is particularly influential because regulatory policy is often technical and difficult for non-specialists to evaluate. Simplified narratives are easier to communicate than nuanced discussions of costs, benefits and institutional design. As a result, debates that should focus on evidence frequently become contests between competing extremes.
+Within political speech, this fallacy is particularly influential because regulatory policy is often technical and difficult for non-specialists to evaluate. Simplified narratives are easier to communicate than nuanced discussions of costs, benefits and institutional design. As a result, debates that should focus on evidence frequently become contests between competing extremes.
 
 ## How Complex Regulatory Choices Become Two-Option Claims
 
@@ -296,7 +296,7 @@ A false dilemma emerges when a speaker compresses a broad policy spectrum into a
 
 </div>
 
-These claims create rhetorical clarity but frequently distort the actual policy landscape. Research on regulatory reform consistently shows that governments employ numerous intermediate approaches, including regulatory simplification, targeted exemptions, risk-based enforcement, performance standards, self-certification systems, sunset reviews and hybrid regulatory models. Regulatory reform is therefore not synonymous with complete deregulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kdi.re.kr">[KDI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kdi.re.kr</span><span class="citation-popover-snippet">Regulatory Reform, The lessons from implementation in...The trade-specific regulatory agenda offers some helpful examples of the potenti...</span></span></span> [3OECD 3OECD]
+These claims create rhetorical clarity but frequently distort the actual policy landscape. Research on regulatory reform consistently shows that governments employ numerous intermediate approaches, including regulatory simplification, targeted exemptions, risk-based enforcement, performance standards, self-certification systems, sunset reviews and hybrid regulatory models. Regulatory reform is therefore not synonymous with complete deregulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kdi.re.kr">[KDI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kdi.re.kr</span><span class="citation-popover-snippet">gulatory Reform, The lessons from implementation in...The trade-specific regulatory agenda offers some helpful examples of the potenti...</span></span></span> [3OECD 3OECD]
 
 The attraction of the binary frame is political as much as logical. It allows advocates to align their preferred position with positive values such as freedom, growth or safety while associating alternatives with failure or danger. Once the [debate]({{ 'debate/' | relative_url }}) is framed as a choice between prosperity and stagnation, or liberty and control, many potentially viable middle-ground options disappear from public discussion.
 
@@ -335,9 +335,9 @@ A binary narrative can therefore conceal the very evidence needed to judge wheth
 
 One of the most important omissions in false dilemma rhetoric is the possibility of regulatory redesign.
 
-Scholars and practitioners have long discussed alternatives that transcend the simple regulation-versus-deregulation divide. Responsive regulation, risk-based regulation, performance-based standards and periodic regulatory review all represent efforts to improve outcomes without embracing either total control or complete market freedom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnbraithwaite.com">[John Braithwaite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnbraithwaite.com</span><span class="citation-popover-snippet">John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDRegulatory reformFor example, ill-consulted reforms have led to undue burdens that have caused protests and voter dissatisfaction; po...</span></span></span>
+Scholars and practitioners have long discussed alternatives that transcend the simple regulation-versus-deregulation divide. Responsive regulation, risk-based regulation, performance-based standards and periodic regulatory review all represent efforts to improve outcomes without embracing either total control or complete market freedom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnbraithwaite.com">[John Braithwaite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnbraithwaite.com</span><span class="citation-popover-snippet">John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Regulatory reformFor example, ill-consulted reforms have led to undue burdens that have caused protests and voter dissatisfaction; po...</span></span></span>
 
-For example, a debate about environmental compliance might be framed publicly as a choice between burdensome regulation and unrestricted industrial activity. Yet policymakers may have additional options, including emissions trading systems, targeted monitoring, outcome-based standards or simplified reporting requirements. OECD reviews have highlighted such alternatives as examples of regulatory innovation that do not fit neatly into either side of a binary framing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDTaking Stock of Regulatory Reformby A MULTIDISCIPLINARY — The trade-specific regulatory agenda offers some helpful examples of the po...</span></span></span>
+For example, a debate about environmental compliance might be framed publicly as a choice between burdensome regulation and unrestricted industrial activity. Yet policymakers may have additional options, including emissions trading systems, targeted monitoring, outcome-based standards or simplified reporting requirements. OECD reviews have highlighted such alternatives as examples of regulatory innovation that do not fit neatly into either side of a binary framing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Taking Stock of Regulatory Reformby A MULTIDISCIPLINARY — The trade-specific regulatory agenda offers some helpful examples of the po...</span></span></span>
 
 The existence of these middle positions demonstrates why the forced-choice narrative is often misleading.
 
@@ -819,92 +819,92 @@ Recognising the false dilemma does not determine whether a particular deregulati
 
 1. <a id="endnote-1"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html](https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDRegulatory reformFor example, ill-consulted reforms have led to undue burdens that have caused protests and voter dissatisfaction; po...</p></details>
+   Link: <a href="https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/regulatory-reform.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory reformFor example, ill-consulted reforms have led to undue burdens that have caused protests and voter dissatisfaction; po...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: economics.mit.edu  
-   Link: [https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf](https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf)  
+   Link: <a href="https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf" target="_blank" rel="noopener noreferrer nofollow">https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joskow Alfred...by PL Joskow · 2009 — Whatever conclusions one comes to about the need for and nature of regulation or deregulation or r...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDTaking Stock of Regulatory Reformby A MULTIDISCIPLINARY — The trade-specific regulatory agenda offers some helpful examples of the po...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2008/11/taking-stock-of-regulatory-reform_g1gh9f57/9789264056572-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking Stock of Regulatory Reformby A MULTIDISCIPLINARY — The trade-specific regulatory agenda offers some helpful examples of the po...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: kdi.re.kr  
-   Link: [https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf](https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory Reform, The lessons from implementation in...The trade-specific regulatory agenda offers some helpful examples of the potenti...</p></details>
+   Link: <a href="https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.kdi.re.kr/upload/7669/jacobzone-0502.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>gulatory Reform, The lessons from implementation in...The trade-specific regulatory agenda offers some helpful examples of the potenti...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: regulatoryreform.com  
-   Link: [https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf](https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf)  
+   Link: <a href="https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf" target="_blank" rel="noopener noreferrer nofollow">https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory Policies in OECD CountriesFor example, the OECD Report on Regulatory Reform in Denmark noted concerns that the use of a centra...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
    Title: First, it summarises the evidence on the evolution of regulatory  
-   Link: [https://www.oecd.org/en/publications/the-implementation-and-the-effects-of-regulatory-reform_413754754615.html](https://www.oecd.org/en/publications/the-implementation-and-the-effects-of-regulatory-reform_413754754615.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDThe Implementation and the Effects of Regulatory Reformby R Gönenç · 2000 · Cited by 227 — This paper reviews trends, outcomes and is...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/the-implementation-and-the-effects-of-regulatory-reform_413754754615.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/the-implementation-and-the-effects-of-regulatory-reform_413754754615.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Implementation and the Effects of Regulatory Reformby R Gönenç · 2000 · Cited by 227 — This paper reviews trends, outcomes and is...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: fmg.ac.uk  
-   Link: [https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf](https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf)  
+   Link: <a href="https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fmg.ac.uk/sites/default/files/publications/DP765.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Determinants of Regulatory Reformby S Djankov · 2017 · Cited by 8 — Changes in insolvency, labor law and minority shareholder protections...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: johnbraithwaite.com  
-   Link: [https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf](https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf)  
+   Link: <a href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow">https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: uu.nl  
-   Link: [https://www.uu.nl/sites/default/files/rebo_use_dp_2010_10-18.pdf](https://www.uu.nl/sites/default/files/rebo_use_dp_2010_10-18.pdf)  
+   Link: <a href="https://www.uu.nl/sites/default/files/rebo_use_dp_2010_10-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uu.nl/sites/default/files/rebo_use_dp_2010_10-18.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>REVIEW OF ECONOMIC THEORIES OF REGULATIONAbstract. This paper reviews the economic theories of regulation. It discusses the public and pr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: worldometers.info  
-   Link: [https://www.worldometers.info/world-map/](https://www.worldometers.info/world-map/)  
+   Link: <a href="https://www.worldometers.info/world-map/" target="_blank" rel="noopener noreferrer nofollow">https://www.worldometers.info/world-map/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World MapMap of the World with the names of all countries, territories and major cities, with borders. Zoomable political map of the worl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cerge-ei.cz  
-   Link: [https://www.cerge-ei.cz/pdf/wp/Wp424.pdf](https://www.cerge-ei.cz/pdf/wp/Wp424.pdf)  
+   Link: <a href="https://www.cerge-ei.cz/pdf/wp/Wp424.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cerge-ei.cz/pdf/wp/Wp424.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227378701_Deregulation_vs_Re-regulation](https://www.researchgate.net/publication/227378701_Deregulation_vs_Re-regulation)  
+   Link: <a href="https://www.researchgate.net/publication/227378701_Deregulation_vs_Re-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227378701_Deregulation_vs_Re-regulation</a>  
 
 13. <a id="endnote-13"></a>
    Source: oecdecoscope.blog  
-   Link: [https://oecdecoscope.blog/2025/12/10/regulating-smarter-oecd-economic-outlook-recommendations-on-regulatory-policy-reforms/](https://oecdecoscope.blog/2025/12/10/regulating-smarter-oecd-economic-outlook-recommendations-on-regulatory-policy-reforms/)  
+   Link: <a href="https://oecdecoscope.blog/2025/12/10/regulating-smarter-oecd-economic-outlook-recommendations-on-regulatory-policy-reforms/" target="_blank" rel="noopener noreferrer nofollow">https://oecdecoscope.blog/2025/12/10/regulating-smarter-oecd-economic-outlook-recommendations-on-regulatory-policy-reforms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulating smarter: OECD Economic Outlook...10 Dec 2025 — The summary highlights that smarter regulatory policy, such as reforms that si...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Wg-pFtvsvmo](https://www.youtube.com/watch?v=Wg-pFtvsvmo)  
+   Link: <a href="https://www.youtube.com/watch?v=Wg-pFtvsvmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wg-pFtvsvmo</a>  
 
 15. <a id="endnote-15"></a>
    Source: europeanpapers.eu  
    Title: limited politicisation strengthening undermining economic regulation eu  
-   Link: [https://www.europeanpapers.eu/e-journal/limited-politicisation-strengthening-undermining-economic-regulation-eu](https://www.europeanpapers.eu/e-journal/limited-politicisation-strengthening-undermining-economic-regulation-eu)  
+   Link: <a href="https://www.europeanpapers.eu/e-journal/limited-politicisation-strengthening-undermining-economic-regulation-eu" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanpapers.eu/e-journal/limited-politicisation-strengthening-undermining-economic-regulation-eu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Limited Politicisation: Strengthening, Not Undermining...by G Tagiuri · 2026 — This article is a contribution to a Special Section that...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bruegel.org  
-   Link: [https://www.bruegel.org/policy-brief/efficiency-and-distribution-european-unions-digital-deregulation-push](https://www.bruegel.org/policy-brief/efficiency-and-distribution-european-unions-digital-deregulation-push)  
+   Link: <a href="https://www.bruegel.org/policy-brief/efficiency-and-distribution-european-unions-digital-deregulation-push" target="_blank" rel="noopener noreferrer nofollow">https://www.bruegel.org/policy-brief/efficiency-and-distribution-european-unions-digital-deregulation-push</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reduce the burden of EU digital regulation, regardless of whether it involves lowering...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/240300175_The_Implementation_and_the_Effects_of_Regulatory_Reform_Past_Experience_and_Current_Issues](https://www.researchgate.net/publication/240300175_The_Implementation_and_the_Effects_of_Regulatory_Reform_Past_Experience_and_Current_Issues)  
+   Link: <a href="https://www.researchgate.net/publication/240300175_The_Implementation_and_the_Effects_of_Regulatory_Reform_Past_Experience_and_Current_Issues" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/240300175_The_Implementation_and_the_Effects_of_Regulatory_Reform_Past_Experience_and_Current_Issues</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Implementation and the Effects of Regulatory ReformThis article reviews trends, outcomes and issues in regulatory reform in OECD coun...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bear.warrington.ufl.edu  
    Title: Regulatory Impact Analysis OECD  
-   Link: [https://bear.warrington.ufl.edu/centers/purc/docs//PAPERS/TRAINING/Jamaica/July2006/advancedreadings/Regulatory_Impact_Analysis_OECD.pdf](https://bear.warrington.ufl.edu/centers/purc/docs//PAPERS/TRAINING/Jamaica/July2006/advancedreadings/Regulatory_Impact_Analysis_OECD.pdf)  
+   Link: <a href="https://bear.warrington.ufl.edu/centers/purc/docs//PAPERS/TRAINING/Jamaica/July2006/advancedreadings/Regulatory_Impact_Analysis_OECD.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bear.warrington.ufl.edu/centers/purc/docs//PAPERS/TRAINING/Jamaica/July2006/advancedreadings/Regulatory_Impact_Analysis_OECD.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regulatory Impact Analysis in OECD Countriesby D Rodrigo · 2005 · Cited by 17 — The emergence of regulatory reform and deregulation in th...</p></details>

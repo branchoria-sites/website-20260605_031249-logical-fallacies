@@ -240,6 +240,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 01:29:08'
 parent_title: Fallacy Lab
 parent_permalink: /logical-fallacies/
 parent_nav_short_title: Fallacy Lab
@@ -492,7 +493,6 @@ next_link:
   permalink: /argument-map/
   short_title: Argument Map
   heading_title: Can You Map the Reasoning?
-date: '2026-06-05 01:29:08 '
 header:
   og_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7-overview-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7-overview.webp
@@ -501,7 +501,7 @@ image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7-overvie
 
 ## Introduction
 
-Anecdotes and [personal experience]({{ 'experience/' | relative_url }}) are not worthless. A story can reveal what happened to one person, make an abstract issue easier to understand, or point researchers towards a question worth testing. The fallacy begins when a story is asked to do more than it can support: “It happened to me, so it must be generally true,” or “I know one counterexample, so the wider evidence must be wrong.”
+Anecdotes and personal [experience]({{ 'experience/' | relative_url }}) are not worthless. A story can reveal what happened to one person, make an abstract issue easier to understand, or point researchers towards a question worth testing. The fallacy begins when a story is asked to do more than it can support: “It happened to me, so it must be generally true,” or “I know one counterexample, so the wider evidence must be wrong.”
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7-overview.webp" | relative_url }}" alt="Overview image for Anecdotes" loading="eager" decoding="sync" fetchpriority="high">
@@ -509,7 +509,7 @@ Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a
 
 ## What anecdotes show
 
-An anecdote is evidence about a case. It can show that a particular person reports a particular [experience]({{ 'experience/' | relative_url }}), that a possible event is worth noticing, or that a general issue has a human face. That is often valuable. A patient’s description of a side effect, a worker’s account of a safety failure, or a student’s story about an inaccessible classroom can reveal something that a broad statistic might hide.
+An anecdote is evidence about a case. It can show that a particular person reports a particular experience, that a possible event is worth noticing, or that a general issue has a human face. That is often valuable. A patient’s description of a side effect, a worker’s account of a safety failure, or a student’s story about an inaccessible classroom can reveal something that a broad statistic might hide.
 
 The key is to state the claim at the right size. “This happened to me after I used the product” is much weaker than “this product causes the same result for most people,” but it is still meaningful as a starting point. In medicine, for example, case reports and anecdotal reports of suspected adverse drug reactions are often treated as signals: they can suggest that something deserves closer investigation, even though they do not carry the same force as controlled trials or systematic reviews. Jeffrey Aronson argued in the *BMJ* that anecdotal reports of adverse reactions have functions different from randomised controlled trials and should be reported with appropriate guidelines rather than simply dismissed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -1039,252 +1039,252 @@ This approach preserves what personal experience can genuinely contribute while 
 1. <a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLLogical Fallacies  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/</a>  
 
 3. <a id="endnote-3"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBad evidence  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK63649/](https://www.ncbi.nlm.nih.gov/books/NBK63649/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63649/</a>  
 
 4. <a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIThe weakness of one  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK63643/](https://www.ncbi.nlm.nih.gov/books/NBK63643/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63643/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63643/</a>  
 
 5. <a id="endnote-5"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/](https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/how-to-support-an-argument-and-avoid-logical-fallacies/</a>  
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s40800-017-0053-0](https://link.springer.com/article/10.1007/s40800-017-0053-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s40800-017-0053-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s40800-017-0053-0</a>  
 
 7. <a id="endnote-7"></a>
    Source: cioms.ch  
    Title: Practical Aspects of Signal Detection in Pharmacovigilance  
-   Link: [https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf](https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf)  
+   Link: <a href="https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cioms.ch/wp-content/uploads/2018/03/WG8-Signal-Detection.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: asa.org.uk  
    Title: ASATestimonials and endorsements  
-   Link: [https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html](https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/testimonials-and-endorsements.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: asa.org.uk  
    Title: claims in testimonials and endorsements  
-   Link: [https://www.asa.org.uk/advice-online/claims-in-testimonials-and-endorsements.html](https://www.asa.org.uk/advice-online/claims-in-testimonials-and-endorsements.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/claims-in-testimonials-and-endorsements.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/claims-in-testimonials-and-endorsements.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: ecfr.gov  
-   Link: [https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255)  
+   Link: <a href="https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-16/chapter-I/subchapter-B/part-255</a>  
 
 11. <a id="endnote-11"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/326/7403/1346](https://www.bmj.com/content/326/7403/1346)  
+   Link: <a href="https://www.bmj.com/content/326/7403/1346" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/326/7403/1346</a>  
 
 12. <a id="endnote-12"></a>
    Source: blogs.bmj.com  
    Title: trusting evidence over anecdote clinical decision making in the era of covid 19  
-   Link: [https://blogs.bmj.com/bmj/2020/07/23/trusting-evidence-over-anecdote-clinical-decision-making-in-the-era-of-covid-19/](https://blogs.bmj.com/bmj/2020/07/23/trusting-evidence-over-anecdote-clinical-decision-making-in-the-era-of-covid-19/)  
+   Link: <a href="https://blogs.bmj.com/bmj/2020/07/23/trusting-evidence-over-anecdote-clinical-decision-making-in-the-era-of-covid-19/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmj/2020/07/23/trusting-evidence-over-anecdote-clinical-decision-making-in-the-era-of-covid-19/</a>  
 
 13. <a id="endnote-13"></a>
    Source: ebm.bmj.com  
-   Link: [https://ebm.bmj.com/](https://ebm.bmj.com/)  
+   Link: <a href="https://ebm.bmj.com/" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/</a>  
 
 14. <a id="endnote-14"></a>
    Source: blogs.bmj.com  
    Title: miles sibley we need to change the hierarchy of evidence based medicine  
-   Link: [https://blogs.bmj.com/bmj/2020/11/27/miles-sibley-we-need-to-change-the-hierarchy-of-evidence-based-medicine/](https://blogs.bmj.com/bmj/2020/11/27/miles-sibley-we-need-to-change-the-hierarchy-of-evidence-based-medicine/)  
+   Link: <a href="https://blogs.bmj.com/bmj/2020/11/27/miles-sibley-we-need-to-change-the-hierarchy-of-evidence-based-medicine/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmj/2020/11/27/miles-sibley-we-need-to-change-the-hierarchy-of-evidence-based-medicine/</a>  
 
 15. <a id="endnote-15"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/362/bmj.k2799](https://www.bmj.com/content/362/bmj.k2799)  
+   Link: <a href="https://www.bmj.com/content/362/bmj.k2799" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/362/bmj.k2799</a>  
 
 16. <a id="endnote-16"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/316/7139/1230.short](https://www.bmj.com/content/316/7139/1230.short)  
+   Link: <a href="https://www.bmj.com/content/316/7139/1230.short" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/316/7139/1230.short</a>  
 
 17. <a id="endnote-17"></a>
    Source: ebm.bmj.com  
-   Link: [https://ebm.bmj.com/content/23/2/60](https://ebm.bmj.com/content/23/2/60)  
+   Link: <a href="https://ebm.bmj.com/content/23/2/60" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/23/2/60</a>  
 
 18. <a id="endnote-18"></a>
    Source: blogs.bmj.com  
    Title: are we losing our humanity in medicines quest for pure science  
-   Link: [https://blogs.bmj.com/bmj/2021/09/02/are-we-losing-our-humanity-in-medicines-quest-for-pure-science/](https://blogs.bmj.com/bmj/2021/09/02/are-we-losing-our-humanity-in-medicines-quest-for-pure-science/)  
+   Link: <a href="https://blogs.bmj.com/bmj/2021/09/02/are-we-losing-our-humanity-in-medicines-quest-for-pure-science/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmj/2021/09/02/are-we-losing-our-humanity-in-medicines-quest-for-pure-science/</a>  
 
 19. <a id="endnote-19"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/15/10/e104236](https://bmjopen.bmj.com/content/15/10/e104236)  
+   Link: <a href="https://bmjopen.bmj.com/content/15/10/e104236" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/15/10/e104236</a>  
 
 20. <a id="endnote-20"></a>
    Source: bmjopen.bmj.com  
    Title: e103538.draft revisions  
-   Link: [https://bmjopen.bmj.com/content/bmjopen/15/11/e103538.draft-revisions.pdf](https://bmjopen.bmj.com/content/bmjopen/15/11/e103538.draft-revisions.pdf)  
+   Link: <a href="https://bmjopen.bmj.com/content/bmjopen/15/11/e103538.draft-revisions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/bmjopen/15/11/e103538.draft-revisions.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: blogs.bmj.com  
-   Link: [https://blogs.bmj.com/bmj/2017/10/20/christine-stirling-move-over-rct-time-for-a-revised-approach-to-evidence-based-medicine/](https://blogs.bmj.com/bmj/2017/10/20/christine-stirling-move-over-rct-time-for-a-revised-approach-to-evidence-based-medicine/)  
+   Link: <a href="https://blogs.bmj.com/bmj/2017/10/20/christine-stirling-move-over-rct-time-for-a-revised-approach-to-evidence-based-medicine/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bmj/2017/10/20/christine-stirling-move-over-rct-time-for-a-revised-approach-to-evidence-based-medicine/</a>  
 
 22. <a id="endnote-22"></a>
    Source: bmjopen.bmj.com  
-   Link: [https://bmjopen.bmj.com/content/4/12/e006199](https://bmjopen.bmj.com/content/4/12/e006199)  
+   Link: <a href="https://bmjopen.bmj.com/content/4/12/e006199" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/4/12/e006199</a>  
 
 23. <a id="endnote-23"></a>
    Source: bmj.com  
    Title: rapid responses  
-   Link: [https://www.bmj.com/content/328/7438/476/rapid-responses](https://www.bmj.com/content/328/7438/476/rapid-responses)  
+   Link: <a href="https://www.bmj.com/content/328/7438/476/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/328/7438/476/rapid-responses</a>  
 
 24. <a id="endnote-24"></a>
    Source: bmj.com  
    Title: unreliability scientific papers evidence  
-   Link: [https://www.bmj.com/rapid-response/2011/10/30/unreliability-scientific-papers-evidence](https://www.bmj.com/rapid-response/2011/10/30/unreliability-scientific-papers-evidence)  
+   Link: <a href="https://www.bmj.com/rapid-response/2011/10/30/unreliability-scientific-papers-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/rapid-response/2011/10/30/unreliability-scientific-papers-evidence</a>  
 
 25. <a id="endnote-25"></a>
    Source: bmj.com  
    Title: rapid responses  
-   Link: [https://www.bmj.com/content/332/7537/335/rapid-responses](https://www.bmj.com/content/332/7537/335/rapid-responses)  
+   Link: <a href="https://www.bmj.com/content/332/7537/335/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/332/7537/335/rapid-responses</a>  
 
 26. <a id="endnote-26"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/](https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
 
 27. <a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/24836931/](https://pubmed.ncbi.nlm.nih.gov/24836931/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24836931/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24836931/</a>  
 
 28. <a id="endnote-28"></a>
    Source: research-portal.uu.nl  
    Title: when is statistical evidence superior to anecdotal evidence in su  
-   Link: [https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/](https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/)  
+   Link: <a href="https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/</a>  
 
 29. <a id="endnote-29"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: [https://en.wikipedia.org/wiki/Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
 
 32. <a id="endnote-32"></a>
    Source: writingcenter.unc.edu  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
 33. <a id="endnote-33"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/36278821/](https://pubmed.ncbi.nlm.nih.gov/36278821/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36278821/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36278821/</a>  
 
 34. <a id="endnote-34"></a>
    Source: salesrepository.com  
    Title: anecdotal evidence  
-   Link: [https://salesrepository.com/fallacies/anecdotal-evidence](https://salesrepository.com/fallacies/anecdotal-evidence)  
+   Link: <a href="https://salesrepository.com/fallacies/anecdotal-evidence" target="_blank" rel="noopener noreferrer nofollow">https://salesrepository.com/fallacies/anecdotal-evidence</a>  
 
 35. <a id="endnote-35"></a>
    Source: sciencedirect.com  
    Title: Availability Heuristic  
-   Link: [https://www.sciencedirect.com/topics/computer-science/availability-heuristic](https://www.sciencedirect.com/topics/computer-science/availability-heuristic)  
+   Link: <a href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/availability-heuristic</a>  
 
 36. <a id="endnote-36"></a>
    Source: pubmed-ncbi-nlm-nih-gov.proxy.lib.wayne.edu  
-   Link: [https://pubmed-ncbi-nlm-nih-gov.proxy.lib.wayne.edu/30357270/](https://pubmed-ncbi-nlm-nih-gov.proxy.lib.wayne.edu/30357270/)  
+   Link: <a href="https://pubmed-ncbi-nlm-nih-gov.proxy.lib.wayne.edu/30357270/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed-ncbi-nlm-nih-gov.proxy.lib.wayne.edu/30357270/</a>  
 
 37. <a id="endnote-37"></a>
    Source: tasmanic.eu  
    Title: anecdotal fallacy  
-   Link: [https://www.tasmanic.eu/blog/anecdotal-fallacy/](https://www.tasmanic.eu/blog/anecdotal-fallacy/)  
+   Link: <a href="https://www.tasmanic.eu/blog/anecdotal-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.tasmanic.eu/blog/anecdotal-fallacy/</a>  
 
 38. <a id="endnote-38"></a>
    Source: pubmed-ncbi-nlm-nih-gov.ezaccess.libraries.psu.edu  
-   Link: [https://pubmed-ncbi-nlm-nih-gov.ezaccess.libraries.psu.edu/18472999/](https://pubmed-ncbi-nlm-nih-gov.ezaccess.libraries.psu.edu/18472999/)  
+   Link: <a href="https://pubmed-ncbi-nlm-nih-gov.ezaccess.libraries.psu.edu/18472999/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed-ncbi-nlm-nih-gov.ezaccess.libraries.psu.edu/18472999/</a>  
 
 39. <a id="endnote-39"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 40. <a id="endnote-40"></a>
    Source: pubmed-ncbi-nlm-nih-gov.ezproxy.its.uu.se  
-   Link: [https://pubmed-ncbi-nlm-nih-gov.ezproxy.its.uu.se/30220634/](https://pubmed-ncbi-nlm-nih-gov.ezproxy.its.uu.se/30220634/)  
+   Link: <a href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.its.uu.se/30220634/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed-ncbi-nlm-nih-gov.ezproxy.its.uu.se/30220634/</a>  
 
 41. <a id="endnote-41"></a>
    Source: pubmed-ncbi-nlm-nih-gov.treadwell.idm.oclc.org  
-   Link: [https://pubmed-ncbi-nlm-nih-gov.treadwell.idm.oclc.org/35119373/](https://pubmed-ncbi-nlm-nih-gov.treadwell.idm.oclc.org/35119373/)  
+   Link: <a href="https://pubmed-ncbi-nlm-nih-gov.treadwell.idm.oclc.org/35119373/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed-ncbi-nlm-nih-gov.treadwell.idm.oclc.org/35119373/</a>  
 
 42. <a id="endnote-42"></a>
    Source: simplypsychology.org  
    Title: availability heuristic  
-   Link: [https://www.simplypsychology.org/availability-heuristic.html](https://www.simplypsychology.org/availability-heuristic.html)  
+   Link: <a href="https://www.simplypsychology.org/availability-heuristic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/availability-heuristic.html</a>  
 
 43. <a id="endnote-43"></a>
    Source: pubmed-ncbi-nlm-nih-gov.ezproxy.icr.ac.uk  
-   Link: [https://pubmed-ncbi-nlm-nih-gov.ezproxy.icr.ac.uk/30025757/](https://pubmed-ncbi-nlm-nih-gov.ezproxy.icr.ac.uk/30025757/)  
+   Link: <a href="https://pubmed-ncbi-nlm-nih-gov.ezproxy.icr.ac.uk/30025757/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed-ncbi-nlm-nih-gov.ezproxy.icr.ac.uk/30025757/</a>  
 
 44. <a id="endnote-44"></a>
    Source: pubmed-ncbi-nlm-nih-gov.proxy.library.vanderbilt.edu  
-   Link: [https://pubmed-ncbi-nlm-nih-gov.proxy.library.vanderbilt.edu/20531182/](https://pubmed-ncbi-nlm-nih-gov.proxy.library.vanderbilt.edu/20531182/)  
+   Link: <a href="https://pubmed-ncbi-nlm-nih-gov.proxy.library.vanderbilt.edu/20531182/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed-ncbi-nlm-nih-gov.proxy.library.vanderbilt.edu/20531182/</a>  
 
 45. <a id="endnote-45"></a>
    Source: thedecisionlab.com  
    Title: Base Rate Fallacy  
-   Link: [https://thedecisionlab.com/biases/base-rate-fallacy](https://thedecisionlab.com/biases/base-rate-fallacy)  
+   Link: <a href="https://thedecisionlab.com/biases/base-rate-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/base-rate-fallacy</a>  
 
 ### Additional References
 
 46. <a id="endnote-46"></a>
    Source: youtube.com  
    Title: What is Anecdotal fallacy? [Definition and Example]  
-   Link: [https://www.youtube.com/watch?v=qwT-8vbMpps](https://www.youtube.com/watch?v=qwT-8vbMpps)  
+   Link: <a href="https://www.youtube.com/watch?v=qwT-8vbMpps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qwT-8vbMpps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the HASH GENERALIZATION FALLACY?...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Hasty Generalization Fallacy: Lesson and Activity  
-   Link: [https://www.youtube.com/watch?v=BrISNrKCu9A](https://www.youtube.com/watch?v=BrISNrKCu9A)  
+   Link: <a href="https://www.youtube.com/watch?v=BrISNrKCu9A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BrISNrKCu9A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Anecdotal fallacy? [Definition and Example] - Understanding Cognitive Biases...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/mmwr/preview/mmwrhtml/su5401a11.htm](https://www.cdc.gov/mmwr/preview/mmwrhtml/su5401a11.htm)  
+   Link: <a href="https://www.cdc.gov/mmwr/preview/mmwrhtml/su5401a11.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/mmwr/preview/mmwrhtml/su5401a11.htm</a>  
 
 49. <a id="endnote-49"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf](https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf)  
+   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf</a>  
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
    Title: Fallacies In The Workplace: The Anecdotal Evidence Fallacy  
-   Link: [https://www.youtube.com/watch?v=lEtar563aTI](https://www.youtube.com/watch?v=lEtar563aTI)  
+   Link: <a href="https://www.youtube.com/watch?v=lEtar563aTI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lEtar563aTI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasty Generalization Fallacy: Lesson and Activity...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: What is Anecdotal Evidence? (Easiest Explanation)  
-   Link: [https://www.youtube.com/watch?v=H2gJXpOb2Vo](https://www.youtube.com/watch?v=H2gJXpOb2Vo)  
+   Link: <a href="https://www.youtube.com/watch?v=H2gJXpOb2Vo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=H2gJXpOb2Vo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies In The Workplace: The Anecdotal Evidence Fallacy...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: federalregister.gov  
    Title: guides concerning the use of endorsements and testimonials in advertising  
-   Link: [https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising](https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising)  
+   Link: <a href="https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2023/07/26/2023-14795/guides-concerning-the-use-of-endorsements-and-testimonials-in-advertising</a>  
 
 53. <a id="endnote-53"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/18348847/Meta_Analytic_Evidence_for_the_Persuasive_Effect_of_Narrative_on_Beliefs_Attitudes_Intentions_and_Behaviors](https://www.academia.edu/18348847/Meta_Analytic_Evidence_for_the_Persuasive_Effect_of_Narrative_on_Beliefs_Attitudes_Intentions_and_Behaviors)  
+   Link: <a href="https://www.academia.edu/18348847/Meta_Analytic_Evidence_for_the_Persuasive_Effect_of_Narrative_on_Beliefs_Attitudes_Intentions_and_Behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/18348847/Meta_Analytic_Evidence_for_the_Persuasive_Effect_of_Narrative_on_Beliefs_Attitudes_Intentions_and_Behaviors</a>  
 
 54. <a id="endnote-54"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence](https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence)  
+   Link: <a href="https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10699067_Anecdotes_as_evidence</a>  
 
 55. <a id="endnote-55"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions](https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions)  
+   Link: <a href="https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380077387_Base_Rate_Neglect_Bias_Can_it_be_Observed_in_HRM_Decisions_and_Can_it_be_Decreased_by_Visually_Presenting_the_Base_Rates_in_HRM_Decisions</a>  

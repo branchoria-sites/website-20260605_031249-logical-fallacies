@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:32:38'
 parent_title: Are You Being Pressured to Join? | Fallacy Lab
 parent_permalink: /bandwagon/
 parent_nav_short_title: Bandwagon
@@ -265,7 +266,6 @@ next_link:
   permalink: /reach-vs-truth/
   short_title: Reach vs Truth
   heading_title: When Popularity Is Not Proof
-date: '2026-06-05 02:32:38 '
 header:
   og_image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-1.webp
@@ -341,11 +341,11 @@ A common mistake is assuming that widespread agreement automatically indicates t
 
 Imagine a rumour spreading through a network. The tenth person who repeats it may appear to provide additional confirmation. In reality, all ten individuals may ultimately trace their belief to a single original source. What looks like ten pieces of evidence may be only one piece echoed repeatedly.
 
-Researchers studying social influence have found that communication among group members can reduce the diversity that makes crowd judgement effective. When individuals observe others' answers and revise their own accordingly, opinions often converge. The resulting consensus can appear stronger while becoming less informative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASHow social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[Network Dynamics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-snippet">Network Dynamics GroupNetwork dynamics of social influence in the wisdom of crowdsby J Beckera · Cited by 519 — Recent experimental evide...</span></span></span>
+Researchers studying social influence have found that communication among group members can reduce the diversity that makes crowd judgement effective. When individuals observe others' answers and revise their own accordingly, opinions often converge. The resulting consensus can appear stronger while becoming less informative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">How social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndg.asc.upenn.edu">[Network Dynamics Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndg.asc.upenn.edu</span><span class="citation-popover-snippet">Network Dynamics GroupNetwork dynamics of social influence in the wisdom of crowdsby J Beckera · Cited by 519 — Recent experimental evide...</span></span></span>
 
 This creates a paradox. Agreement becomes more visible precisely as its evidential value may decline.
 
-The danger is especially acute in environments where people can easily see what others believe before forming their own views. Online ratings, viral posts, trending topics, and public vote counts can create [cascades]({{ 'cascades/' | relative_url }}) in which individuals infer that others know something important. Once enough people make that inference, a self-reinforcing herd can emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com | The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">Behavioral Economics.com | The BE Hub Social proof</span><span class="citation-popover-snippet">It is also sometimes referred to as a heuristic.Read more...</span></span></span>
+The danger is especially acute in environments where people can easily see what others believe before forming their own views. Online ratings, viral posts, trending topics, and public vote counts can create [cascades]({{ 'cascades/' | relative_url }}) in which individuals infer that others know something important. Once enough people make that inference, a self-reinforcing herd can emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">Behavioral Economics.com &#124; The BE Hub Social proof</span><span class="citation-popover-snippet">It is also sometimes referred to as a heuristic.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TYIh4MkcfJA" title="Asch Conformity Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TYIh4MkcfJA" target="_blank" rel="noopener noreferrer">Asch Conformity Experiment</a></p><p class="youtube-embed-meta">Channel: eqivideos &middot; Views: 3.0M &middot; Uploaded: December 2007 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TYIh4MkcfJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TYIh4MkcfJA">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ The danger is especially acute in environments where people can easily see what 
 
 An important nuance is that a consensus can occasionally reach the correct answer even when people are following one another. The problem is not that conformity always produces false beliefs. The problem is that conformity can weaken the reliability of the process that generated those beliefs.
 
-Studies of social influence show mixed outcomes. Some research finds that interaction can improve collective judgement when accurate individuals exert greater influence or when information is distributed effectively throughout a network. Other studies find that social influence can reduce crowd accuracy by encouraging convergence around mistaken estimates. The effect depends heavily on who influences whom and how information flows through the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCNetwork dynamics of social influence in the wisdom of crowdsby J Becker · 2017 · Cited by 520 — We present theoretical predictions and...</span></span></span> 2arXiv
+Studies of social influence show mixed outcomes. Some research finds that interaction can improve collective judgement when accurate individuals exert greater influence or when information is distributed effectively throughout a network. Other studies find that social influence can reduce crowd accuracy by encouraging convergence around mistaken estimates. The effect depends heavily on who influences whom and how information flows through the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Network dynamics of social influence in the wisdom of crowdsby J Becker · 2017 · Cited by 520 — We present theoretical predictions and...</span></span></span> 2arXiv
 
 This means that consensus alone is an incomplete signal. A reader, voter, manager, or consumer should care not only about the existence of agreement but also about the process that produced it.
 
@@ -382,11 +382,11 @@ A consensus that survives these questions is often worth treating as meaningful 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-3-dark.svg" | relative_url }}" alt="Group Knows illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Link to the Bandwagon Fallacy
 
-Informational conformity occupies an important boundary within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}). Trusting a knowledgeable group is not automatically an [appeal to popularity]({{ 'popularity/' | relative_url }}). People often have good reasons to defer to others.
+Informational conformity occupies an important boundary within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}). Trusting a knowledgeable group is not automatically an appeal to popularity. People often have good reasons to defer to others.
 
 The bandwagon fallacy arises when the mere fact of agreement is treated as proof. Informational conformity becomes reasonable when consensus serves as evidence that many competent, relatively independent people have examined the issue. It becomes fallacious when the crowd's size substitutes for investigating how that agreement was formed.
 
-The practical lesson is simple: the crowd can be informative, but its value depends less on how many people agree than on whether those people arrived there independently, knowledgeably, and in contact with the relevant facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">PNASHow social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</span></span></span>
+The practical lesson is simple: the crowd can be informative, but its value depends less on how many people agree than on whether those people arrived there independently, knowledgeably, and in contact with the relevant facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">How social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -810,129 +810,129 @@ The practical lesson is simple: the crowd can be informative, but its value depe
 1. <a id="endnote-1"></a>
    Source: opentextbc.ca  
    Title: We base our  
-   Link: [https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/](https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/)  
+   Link: <a href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</p></details>
    Published: January 26, 2022  
 
 2. <a id="endnote-2"></a>
    Source: behavioraleconomics.com  
    Title: Behavioral Economics.com | The BE Hub [Social proof](&#123;&#123; 'social-proof/' | relative_url &#125;&#125;)  
-   Link: [https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/](https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/)  
+   Link: <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is also sometimes referred to as a heuristic.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: psychology.town  
    Title: understanding conformity factors experiments  
-   Link: [https://psychology.town/advanced-social/understanding-conformity-factors-experiments/](https://psychology.town/advanced-social/understanding-conformity-factors-experiments/)  
+   Link: <a href="https://psychology.town/advanced-social/understanding-conformity-factors-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/advanced-social/understanding-conformity-factors-experiments/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Conformity: Factors and Experiments in...30 Oct 2025 — Informational social influence occurs when people conform because t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Wisdom of the crowd  
-   Link: [https://en.wikipedia.org/wiki/Wisdom_of_the_crowd](https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)  
+   Link: <a href="https://en.wikipedia.org/wiki/Wisdom_of_the_crowd" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wisdom_of_the_crowd</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCNetwork dynamics of social influence in the wisdom of crowdsby J Becker · 2017 · Cited by 520 — We present theoretical predictions and...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5495222/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Network dynamics of social influence in the wisdom of crowdsby J Becker · 2017 · Cited by 520 — We present theoretical predictions and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.1008636108](https://www.pnas.org/doi/10.1073/pnas.1008636108)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASHow social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</p></details>
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.1008636108" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.1008636108</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How social influence can undermine the wisdom of crowd...by J Lorenz · 2011 · Cited by 1550 — We demonstrate by experimental evidenc...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv When social influence promotes the wisdom of crowds  
-   Link: [https://arxiv.org/abs/2006.12471](https://arxiv.org/abs/2006.12471)  
+   Link: <a href="https://arxiv.org/abs/2006.12471" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.12471</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv How social influence affects the wisdom of crowds in influence networks  
-   Link: [https://arxiv.org/abs/2204.13610](https://arxiv.org/abs/2204.13610)  
+   Link: <a href="https://arxiv.org/abs/2204.13610" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2204.13610</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Social proof  
-   Link: [https://en.wikipedia.org/wiki/Social_proof](https://en.wikipedia.org/wiki/Social_proof)  
+   Link: <a href="https://en.wikipedia.org/wiki/Social_proof" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Social_proof</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social proofSocial proof (or informational social influence) is a psychological and social phenomenon wherein people copy the actions...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Title: [Asch conformity](&#123;&#123; 'the-asch-conformity-experiments/' | relative_url &#125;&#125;) experiments  
-   Link: [https://en.wikipedia.org/wiki/Asch_conformity_experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch conformity experimentsIn psychology, the Asch conformity experiments were a series of studies testing the Asch paradigm, directed...</p></details>
+   Title: Asch conformity experiments  
+   Link: <a href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Asch_conformity_experiments</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch conformity experimentsIn psychology, [the Asch conformity experiments](&amp;#123;&amp;#123; &#x27;the-asch-conformity-experiments/&#x27; | relative_url &amp;#125;&amp;#125;) were a series of studies testing the Asch paradigm, directed...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: psychology.town  
    Title: asch conformity line length experiments  
-   Link: [https://psychology.town/social/asch-conformity-line-length-experiments/](https://psychology.town/social/asch-conformity-line-length-experiments/)  
+   Link: <a href="https://psychology.town/social/asch-conformity-line-length-experiments/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/social/asch-conformity-line-length-experiments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Asch&#x27;s Line and Length Experiments14 Nov 2025 — Explore Solomon Asch&#x27;s conformity experiments: social influence, group pressure, a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ndg.asc.upenn.edu  
-   Link: [https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf](https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf)  
+   Link: <a href="https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ndg.asc.upenn.edu/wp-content/uploads/2017/06/PNAS-2017-1615978114-Collective-Intelligence.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Network Dynamics GroupNetwork dynamics of social influence in the wisdom of crowdsby J Beckera · Cited by 519 — Recent experimental evide...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: 5harad.com  
    Title: wisdom of crowds  
-   Link: [https://5harad.com/papers/wisdom-of-crowds.pdf](https://5harad.com/papers/wisdom-of-crowds.pdf)  
+   Link: <a href="https://5harad.com/papers/wisdom-of-crowds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://5harad.com/papers/wisdom-of-crowds.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We conclude our analysis by investigating the wisdom-of- crowd effect in the presence of social influence.Read m...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: psychstory.co.uk  
-   Link: [https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity](https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity)  
+   Link: <a href="https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/social-influence/asch-variables-affecting-conformity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASCH: VARIABLES AFFECTING CONFORMITYThis demonstrates informational social influence, as individuals used others as a source of informati...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/asch-conformity.html](https://www.simplypsychology.org/asch-conformity.html)  
+   Link: <a href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/asch-conformity.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Asch Conformity Line Experimentby S McLeod · Cited by 2 — Solomon Asch experimented with investigating the extent to which social pressur...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/normative-informational-social-influence.html](https://www.simplypsychology.org/normative-informational-social-influence.html)  
+   Link: <a href="https://www.simplypsychology.org/normative-informational-social-influence.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/normative-informational-social-influence.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Normative &amp; Informational Social Influenceby S McLeod · Cited by 3 — Normative social influence is where a person conforms to fit in with...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/gb/519102228/social-influence-flash-cards/](https://quizlet.com/gb/519102228/social-influence-flash-cards/)  
+   Link: <a href="https://quizlet.com/gb/519102228/social-influence-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/gb/519102228/social-influence-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Influence FlashcardsExplain Informational Social Influence (ISI)- Explanations for conformity. Informational Social Influence is a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cradall.org  
    Title: How People Learn Brain Mind [Experience](&#123;&#123; 'experience/' | relative_url &#125;&#125;) and School Expanded Edition  
-   Link: [https://cradall.org/sites/default/files/How%20People%20Learn-Brain_Mind_Experience_and%20School%20-%20Expanded%20Edition.pdf](https://cradall.org/sites/default/files/How%20People%20Learn-Brain_Mind_Experience_and%20School%20-%20Expanded%20Edition.pdf)  
+   Link: <a href="https://cradall.org/sites/default/files/How%20People%20Learn-Brain_Mind_Experience_and%20School%20-%20Expanded%20Edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cradall.org/sites/default/files/How%20People%20Learn-Brain_Mind_Experience_and%20School%20-%20Expanded%20Edition.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How People Learn: Brain, Mind, Experience, and Schoolby E Edition · Cited by 33054 — NOTICE: The project that is the subject of this repo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: leadershipiq.com  
    Title: the herding effect how group behavior shapes decision making  
-   Link: [https://www.leadershipiq.com/blogs/leadershipiq/the-herding-effect-how-group-behavior-shapes-decision-making](https://www.leadershipiq.com/blogs/leadershipiq/the-herding-effect-how-group-behavior-shapes-decision-making)  
+   Link: <a href="https://www.leadershipiq.com/blogs/leadershipiq/the-herding-effect-how-group-behavior-shapes-decision-making" target="_blank" rel="noopener noreferrer nofollow">https://www.leadershipiq.com/blogs/leadershipiq/the-herding-effect-how-group-behavior-shapes-decision-making</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Herding Effect: How Group Behavior Shapes Decision...26 Oct 2025 — The study found an asymmetry: positive social influence led to si...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 369708064 Conformity and Group Performance  
-   Link: [https://www.researchgate.net/publication/369708064_Conformity_and_Group_Performance](https://www.researchgate.net/publication/369708064_Conformity_and_Group_Performance)  
+   Link: <a href="https://www.researchgate.net/publication/369708064_Conformity_and_Group_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369708064_Conformity_and_Group_Performance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Conformity and Group Performance5 Aug 2023 — This research provides evidence regarding the causal effect of group conformity on tas...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: verywellmind.com  
    Title: Verywell Mind What Is Conformity?  
-   Link: [https://www.verywellmind.com/what-is-conformity-2795889](https://www.verywellmind.com/what-is-conformity-2795889)  
+   Link: <a href="https://www.verywellmind.com/what-is-conformity-2795889" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-conformity-2795889</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Types, Psychology Research12 Mar 2026 — Conformity can be caused by informational influence when people follow those they bel...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: biorxiv.org  
    Title: 2025.11.30.691476v1.full text  
-   Link: [https://www.biorxiv.org/content/10.64898/2025.11.30.691476v1.full-text](https://www.biorxiv.org/content/10.64898/2025.11.30.691476v1.full-text)  
+   Link: <a href="https://www.biorxiv.org/content/10.64898/2025.11.30.691476v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.biorxiv.org/content/10.64898/2025.11.30.691476v1.full-text</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Informational and Normative Influence on Conformity in...3 Dec 2025 — This preregistered study examined whether adults with autism spect...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-022-20551-7](https://www.nature.com/articles/s41598-022-20551-7)  
+   Link: <a href="https://www.nature.com/articles/s41598-022-20551-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-022-20551-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The distribution of initial estimates moderates the effect...by A Almaatouq · 2022 · Cited by 14 — We find that the wisdom of crowds cri...</p></details>

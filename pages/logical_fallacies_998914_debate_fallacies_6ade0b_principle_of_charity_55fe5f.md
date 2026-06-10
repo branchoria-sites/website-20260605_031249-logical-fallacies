@@ -278,7 +278,7 @@ Before accusing an opponent of using a logical fallacy, a skilled debater should
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_principle_of_charity_55fe5f-Illustration-1-dark.svg" | relative_url }}" alt="Charity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_principle_of_charity_55fe5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_principle_of_charity_55fe5f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within live [debate]({{ 'debate/' | relative_url }}), this principle has special importance. Time pressure encourages participants to seize on awkward wording, incomplete phrasing, or poorly expressed examples. Yet a fallacy charge is strongest when it survives charitable reconstruction. If an argument still fails after being interpreted in its most reasonable form, the criticism is far more persuasive and much harder to dismiss as unfair. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2364/1806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">ARTICLE S</span><span class="citation-popover-snippet">ARTICLES - Informal LogicApril 9, 2009 — by D Jacquette · 1996 · Cited by 23 — The principle of charity enjoins us to critically evaluate...</span><span class="citation-popover-meta">Published: April 9, 2009</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe Dialectical Principle of Charity: A Procedure for a Critical...24 Apr 2023 — This paper aims to discuss a well-known concept...</span></span></span>
+Within live [debate]({{ 'debate/' | relative_url }}), this principle has special importance. Time pressure encourages participants to seize on awkward wording, incomplete phrasing, or poorly expressed examples. Yet a fallacy charge is strongest when it survives charitable reconstruction. If an argument still fails after being interpreted in its most reasonable form, the criticism is far more persuasive and much harder to dismiss as unfair. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2364/1806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">ARTICLE S</span><span class="citation-popover-snippet">ARTICLES - Informal LogicApril 9, 2009 — by D Jacquette · 1996 · Cited by 23 — The principle of charity enjoins us to critically evaluate...</span><span class="citation-popover-meta">Published: April 9, 2009</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09615-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Dialectical Principle of Charity: A Procedure for a Critical...24 Apr 2023 — This paper aims to discuss a well-known concept...</span></span></span>
 
 ## Why Charity Comes Before Fallacy Labels
 
@@ -288,7 +288,7 @@ In practical debate, this means asking a simple question before announcing a fal
 
 * Is this really the argument the speaker intended to make?
 
-Many fallacy accusations fail at this stage. A speaker may have expressed an idea imprecisely, omitted a premise, or used shorthand that an audience can reasonably reconstruct. Jumping immediately to “straw man”, “[false dilemma]({{ 'false-dilemma/' | relative_url }})”, or “hasty generalisation” risks attacking an interpretation that the speaker would reject. Charitable reconstruction reduces this risk. informallogic.ca PhilPapers The result is a higher standard of criticism. Instead of asking whether the weakest reading is flawed <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALNDR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">The rules are based on Grice&#x27;s</span><span class="citation-popover-snippet">PhilPapersDouglas Walton, New Dialectical Rules For Ambiguityby D Walton · 2000 · Cited by 19 — A set often rules is proposed for dealing...</span></span></span>, the critic asks whether the strongest reasonable reading is flawed.
+Many fallacy accusations fail at this stage. A speaker may have expressed an idea imprecisely, omitted a premise, or used shorthand that an audience can reasonably reconstruct. Jumping immediately to “straw man”, “[false dilemma]({{ 'false-dilemma/' | relative_url }})”, or “hasty generalisation” risks attacking an interpretation that the speaker would reject. Charitable reconstruction reduces this risk. informallogic.ca PhilPapers The result is a higher standard of criticism. Instead of asking whether the weakest reading is flawed <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALNDR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[philpapers.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">The rules are based on Grice&#x27;s</span><span class="citation-popover-snippet">Douglas Walton, New Dialectical Rules For Ambiguityby D Walton · 2000 · Cited by 19 — A set often rules is proposed for dealing...</span></span></span>, the critic asks whether the strongest reasonable reading is flawed.
 
 ## Find the Strongest Intended Claim
 
@@ -304,7 +304,7 @@ Taken literally, this sounds like a universal claim about causation. A critic mi
 
 The revised version is more precise and often closer to what the speaker actually intended. Only after identifying that stronger interpretation should a critic evaluate whether the supporting evidence is sufficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbooks.rug.nl">[Open Textbook Platform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbooks.rug.nl</span><span class="citation-popover-title">This is the opposite of what we</span><span class="citation-popover-snippet">Open Textbook PlatformPrinciple of Charity – Migration: A Philosophical Toolkitby F de Rijk · 2024 · Cited by 1 — This is often referred...</span></span></span> 2philosophy.lander.edu
 
-This approach aligns with broader traditions in [informal logic]({{ 'informal-logic/' | relative_url }}) and argumentation theory, which emphasise reconstructing arguments before judging them. An argument cannot be fairly assessed until its premises, conclusion, and implicit assumptions have been identified as accurately as possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Non-technical in.Read more</span><span class="citation-popover-snippet">ResearchGateInformal Logic: A PRAGMATIC APPROACH, Second EditionJuly 2, 2008 — Informal Logic is an introductory guidebook to the basic p...</span><span class="citation-popover-meta">Published: July 2, 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall1999/entries/davidson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Donald Davidson</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyDonald Davidson - Stanford Encyclopedia of PhilosophyMay 29, 1996 — Charity is, in this respect, both...</span><span class="citation-popover-meta">Published: May 29, 1996</span></span></span>
+This approach aligns with broader traditions in [informal logic]({{ 'informal-logic/' | relative_url }}) and argumentation theory, which emphasise reconstructing arguments before judging them. An argument cannot be fairly assessed until its premises, conclusion, and implicit assumptions have been identified as accurately as possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Non-technical in.Read more</span><span class="citation-popover-snippet">Informal Logic: A PRAGMATIC APPROACH, Second EditionJuly 2, 2008 — Informal Logic is an introductory guidebook to the basic p...</span><span class="citation-popover-meta">Published: July 2, 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/fall1999/entries/davidson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Donald Davidson</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyDonald Davidson - Stanford Encyclopedia of PhilosophyMay 29, 1996 — Charity is, in this respect, both...</span><span class="citation-popover-meta">Published: May 29, 1996</span></span></span>
 
 In live debates, a useful test is:
 
@@ -728,207 +728,207 @@ In debate strategy, this practice serves both fairness and effectiveness. It pre
 
 1. <a id="endnote-1"></a>
    Source: rep.routledge.com  
-   Link: [https://www.rep.routledge.com/articles/thematic/charity-principle-of/v-1](https://www.rep.routledge.com/articles/thematic/charity-principle-of/v-1)  
+   Link: <a href="https://www.rep.routledge.com/articles/thematic/charity-principle-of/v-1" target="_blank" rel="noopener noreferrer nofollow">https://www.rep.routledge.com/articles/thematic/charity-principle-of/v-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>routledge.comCharity, principle ofThe principle of charity governs the interpretation of the beliefs and utterances of others. It urges c...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/intro/charity.shtml](https://philosophy.lander.edu/intro/charity.shtml)  
+   Link: <a href="https://philosophy.lander.edu/intro/charity.shtml" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/intro/charity.shtml</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Principle of CharityThe principle of charity is a presumption often made in philosophy whereby preconceptions about an argument, a to...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: informallogic.ca  
    Title: ARTICLE S  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2364/1806](https://informallogic.ca/index.php/informal_logic/article/view/2364/1806)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2364/1806" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2364/1806</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ARTICLES - Informal LogicApril 9, 2009 — by D Jacquette · 1996 · Cited by 23 — The principle of charity enjoins us to critically evaluate...</p></details>
    Published: April 9, 2009  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10503-023-09615-8](https://link.springer.com/article/10.1007/s10503-023-09615-8)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe Dialectical Principle of Charity: A Procedure for a Critical...24 Apr 2023 — This paper aims to discuss a well-known concept...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10503-023-09615-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09615-8</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dialectical Principle of Charity: A Procedure for a Critical...24 Apr 2023 — This paper aims to discuss a well-known concept...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10503-023-09605-w](https://link.springer.com/article/10.1007/s10503-023-09605-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09605-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Donald Davidson  
-   Link: [https://plato.stanford.edu/archives/fall1999/entries/davidson/](https://plato.stanford.edu/archives/fall1999/entries/davidson/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall1999/entries/davidson/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1999/entries/davidson/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyDonald Davidson - Stanford Encyclopedia of PhilosophyMay 29, 1996 — Charity is, in this respect, both...</p></details>
    Published: May 29, 1996  
 
 7. <a id="endnote-7"></a>
    Source: informallogic.ca  
    Title: New Dialectical Rules For Ambiguity  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2280](https://informallogic.ca/index.php/informal_logic/article/view/2280)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2280" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2280</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Logicby D Walton · 2000 · Cited by 19 — The rules are meant to be applied to a given argument used in a given case, and to resol...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: philpapers.org  
    Title: The rules are based on Grice's  
-   Link: [https://philpapers.org/rec/WALNDR](https://philpapers.org/rec/WALNDR)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersDouglas Walton, New Dialectical Rules For Ambiguityby D Walton · 2000 · Cited by 19 — A set often rules is proposed for dealing...</p></details>
+   Link: <a href="https://philpapers.org/rec/WALNDR" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALNDR</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas Walton, New Dialectical Rules For Ambiguityby D Walton · 2000 · Cited by 19 — A set often rules is proposed for dealing...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Non-technical in.Read more  
-   Link: [https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf](https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateInformal Logic: A PRAGMATIC APPROACH, Second EditionJuly 2, 2008 — Informal Logic is an introductory guidebook to the basic p...</p></details>
+   Link: <a href="https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Douglas_Walton/publication/243765154_Informal_Logic_A_Handbook_for_Critical_Argumentation/links/5fc39613299bf104cf90477c/Informal-Logic-A-Handbook-for-Critical-Argumentation.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Logic: A PRAGMATIC APPROACH, Second EditionJuly 2, 2008 — Informal Logic is an introductory guidebook to the basic p...</p></details>
    Published: July 2, 2008  
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Pragma-dialectics](https://en.wikipedia.org/wiki/Pragma-dialectics)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pragma-dialectics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pragma-dialectics</a>  
 
 12. <a id="endnote-12"></a>
    Source: folia.unifr.ch  
-   Link: [https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=](https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=)  
+   Link: <a href="https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=" target="_blank" rel="noopener noreferrer nofollow">https://folia.unifr.ch/documents/323882/files/2014-oswaldlewinski-lang.pdf?download=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pragmatics, cognitive heuristics and the straw man fallacyby M Lewiński · Cited by 48 — cognitive “mistake” that makes an unreasonable st...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/263381133_Frans_van_Eemeren_Bart_Garssen_Bert_Meuffels_Fallacies_and_Judgments_of_Reasonableness_Empirical_Research_Concerning_the_Pragma-Dialectical_Discussion_Rules](https://www.researchgate.net/publication/263381133_Frans_van_Eemeren_Bart_Garssen_Bert_Meuffels_Fallacies_and_Judgments_of_Reasonableness_Empirical_Research_Concerning_the_Pragma-Dialectical_Discussion_Rules)  
+   Link: <a href="https://www.researchgate.net/publication/263381133_Frans_van_Eemeren_Bart_Garssen_Bert_Meuffels_Fallacies_and_Judgments_of_Reasonableness_Empirical_Research_Concerning_the_Pragma-Dialectical_Discussion_Rules" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263381133_Frans_van_Eemeren_Bart_Garssen_Bert_Meuffels_Fallacies_and_Judgments_of_Reasonableness_Empirical_Research_Concerning_the_Pragma-Dialectical_Discussion_Rules</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Frans van Eemeren, Bart Garssen, &amp; Bert Meuffelsproaches, pragma-dialectics does not regard fallacies as formally inval...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ethics.org.au  
    Title: ethics explainer the principle of charity  
-   Link: [https://ethics.org.au/ethics-explainer-the-principle-of-charity/](https://ethics.org.au/ethics-explainer-the-principle-of-charity/)  
+   Link: <a href="https://ethics.org.au/ethics-explainer-the-principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://ethics.org.au/ethics-explainer-the-principle-of-charity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ETHICS CENTREEthics explainer: The principle of charityAug 5, 2024 — The principle of charity suggests we should assume good intentio...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10](https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10)  
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unreasonable discussion moves, and legitimate personal attacks are invariably considered reasonable. The “disguised” abusive attacks pres...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Principle of charity  
-   Link: [https://en.wikipedia.org/wiki/Principle_of_charity](https://en.wikipedia.org/wiki/Principle_of_charity)  
+   Link: <a href="https://en.wikipedia.org/wiki/Principle_of_charity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Principle_of_charity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Principle of charityThe principle of charity or charitable interpretation requires interpreting a speaker&#x27;s statements in the most rat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Principle](https://en.wikipedia.org/wiki/Principle)  
+   Link: <a href="https://en.wikipedia.org/wiki/Principle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Principle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PrincipleA principle may relate to a fundamental truth or proposition that serves as the foundation for a system of beliefs or behavio...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368474532_The_Pragma-Dialectical_Approach_to_the_Fallacies_Revisited](https://www.researchgate.net/publication/368474532_The_Pragma-Dialectical_Approach_to_the_Fallacies_Revisited)  
+   Link: <a href="https://www.researchgate.net/publication/368474532_The_Pragma-Dialectical_Approach_to_the_Fallacies_Revisited" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368474532_The_Pragma-Dialectical_Approach_to_the_Fallacies_Revisited</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pragma-Dialectical Approach to the Fallacies RevisitedFeb 13, 2023 — This culminates in a discussion of the exploitation of hidden fa...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: philosophy.lander.edu  
    Title: nature fall  
-   Link: [https://philosophy.lander.edu/logic/nature_fall.html](https://philosophy.lander.edu/logic/nature_fall.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature of FallaciesA fallacy is a mistake in reasoning: an argument which either does not prove, or does not provide evidence for, its co...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Ad hominem is a case in point, for there are many instance...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2156/1600](https://informallogic.ca/index.php/informal_logic/article/view/2156/1600)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2156/1600" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2156/1600</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Review - Advances in Pragma-Dialectics - Informal Logicby D Hitchcock · 2003 · Cited by 4 — 64, on a 7-point scale with 1 as ver...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Principle of Charity | Giving Reasons Ch 6  
-   Link: [https://www.youtube.com/watch?v=AOBEOsUuFBQ](https://www.youtube.com/watch?v=AOBEOsUuFBQ)  
+   Link: <a href="https://www.youtube.com/watch?v=AOBEOsUuFBQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AOBEOsUuFBQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 The Principle of Charity...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Principle of Charity  
-   Link: [https://www.youtube.com/watch?v=LZZ7tQnI2-M](https://www.youtube.com/watch?v=LZZ7tQnI2-M)  
+   Link: <a href="https://www.youtube.com/watch?v=LZZ7tQnI2-M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LZZ7tQnI2-M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 The Principle of Charity...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Principle of Charity  
-   Link: [https://www.youtube.com/watch?v=Ix1VTiMXph4](https://www.youtube.com/watch?v=Ix1VTiMXph4)  
+   Link: <a href="https://www.youtube.com/watch?v=Ix1VTiMXph4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ix1VTiMXph4</a>  
 
 25. <a id="endnote-25"></a>
    Source: opentextbooks.rug.nl  
    Title: This is the opposite of what we  
-   Link: [https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/](https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/)  
+   Link: <a href="https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://opentextbooks.rug.nl/philosophymigration/chapter/principle-of-charity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Textbook PlatformPrinciple of Charity – Migration: A Philosophical Toolkitby F de Rijk · 2024 · Cited by 1 — This is often referred...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/principle](https://dictionary.cambridge.org/dictionary/english/principle)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarya basic idea or rule that explains or controls how something happens or works: the principles of...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/principle" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/principle</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya basic idea or rule that explains or controls how something happens or works: the principles of...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: intelligentspeculation.com  
    Title: the principle of charity  
-   Link: [https://www.intelligentspeculation.com/blog/the-principle-of-charity](https://www.intelligentspeculation.com/blog/the-principle-of-charity)  
+   Link: <a href="https://www.intelligentspeculation.com/blog/the-principle-of-charity" target="_blank" rel="noopener noreferrer nofollow">https://www.intelligentspeculation.com/blog/the-principle-of-charity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Principle of CharityApr 16, 2019 — The Principle of Charity demands that one interprets a speaker&#x27;s statement(s) in the most rational way...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/principle](https://www.merriam-webster.com/dictionary/principle)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/principle" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/principle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PRINCIPLE Definition &amp; MeaningThe meaning of PRINCIPLE is a comprehensive and fundamental law, doctrine, or assumption. How to use princi...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: anekawarnapendidikan.wordpress.com  
    Title: a systematic theory of argumentation by frans h van eemeren1  
-   Link: [https://anekawarnapendidikan.wordpress.com/wp-content/uploads/2014/04/a-systematic-theory-of-argumentation-by-frans-h-van-eemeren1.pdf](https://anekawarnapendidikan.wordpress.com/wp-content/uploads/2014/04/a-systematic-theory-of-argumentation-by-frans-h-van-eemeren1.pdf)  
+   Link: <a href="https://anekawarnapendidikan.wordpress.com/wp-content/uploads/2014/04/a-systematic-theory-of-argumentation-by-frans-h-van-eemeren1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anekawarnapendidikan.wordpress.com/wp-content/uploads/2014/04/a-systematic-theory-of-argumentation-by-frans-h-van-eemeren1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic Theory of Argumentation: The pragma-...for a reasonable discussion.6 It is the task of argumentation theorists to explain how...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/principle-of-charity/](https://effectiviology.com/principle-of-charity/)  
+   Link: <a href="https://effectiviology.com/principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/principle-of-charity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>interpreting someone&#x27;s statement, you should assume that the best possible...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: donaldrobertson.name  
    Title: ad hominem arguments and the principle of charity  
-   Link: [https://donaldrobertson.name/2016/12/24/ad-hominem-arguments-and-the-principle-of-charity/](https://donaldrobertson.name/2016/12/24/ad-hominem-arguments-and-the-principle-of-charity/)  
+   Link: <a href="https://donaldrobertson.name/2016/12/24/ad-hominem-arguments-and-the-principle-of-charity/" target="_blank" rel="noopener noreferrer nofollow">https://donaldrobertson.name/2016/12/24/ad-hominem-arguments-and-the-principle-of-charity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 24, 2016 — The Principle of Charity involves giving other people the benefit of the doubt, assuming they&#x27;re not stupid, and interpret...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/8t1hko/what_is_the_origin_of_the_principle_of/](https://www.reddit.com/r/askphilosophy/comments/8t1hko/what_is_the_origin_of_the_principle_of/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/8t1hko/what_is_the_origin_of_the_principle_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/8t1hko/what_is_the_origin_of_the_principle_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ntary of someone else&#x27;s argument, you should criticize the best...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: lesswrong.com  
    Title: don t apply the principle of charity to yourself  
-   Link: [https://www.lesswrong.com/posts/DwtsDbtPCzr9ArcxH/don-t-apply-the-principle-of-charity-to-yourself](https://www.lesswrong.com/posts/DwtsDbtPCzr9ArcxH/don-t-apply-the-principle-of-charity-to-yourself)  
+   Link: <a href="https://www.lesswrong.com/posts/DwtsDbtPCzr9ArcxH/don-t-apply-the-principle-of-charity-to-yourself" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/DwtsDbtPCzr9ArcxH/don-t-apply-the-principle-of-charity-to-yourself</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Apply the Principle of Charity to Yourself19 Nov 2011 — In philosophy, the Principle of Charity is a technique in which you evaluat...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-M2BIh-cqz4](https://www.youtube.com/watch?v=-M2BIh-cqz4)  
+   Link: <a href="https://www.youtube.com/watch?v=-M2BIh-cqz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-M2BIh-cqz4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frans van Eemeren, Plenary, CADAAD 2008. 1.9K views · 11 years ago...more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: apologetics315.com  
    Title: book review informal logic by douglas walton  
-   Link: [https://apologetics315.com/2009/05/book-review-informal-logic-by-douglas-walton/](https://apologetics315.com/2009/05/book-review-informal-logic-by-douglas-walton/)  
+   Link: <a href="https://apologetics315.com/2009/05/book-review-informal-logic-by-douglas-walton/" target="_blank" rel="noopener noreferrer nofollow">https://apologetics315.com/2009/05/book-review-informal-logic-by-douglas-walton/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When arguments or meanings are not clearly communicated, charity should be involved...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Principal VS Principle  
-   Link: [https://www.youtube.com/watch?v=LO6WFZ9XwNw](https://www.youtube.com/watch?v=LO6WFZ9XwNw)  
+   Link: <a href="https://www.youtube.com/watch?v=LO6WFZ9XwNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LO6WFZ9XwNw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Commonly Confused English Words...A principal is a basic rule or belief that guides how we act or how we make decisions...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: bmartin.cc  
-   Link: [https://www.bmartin.cc/pubs/09-4apcei/4apcei-Robinson.pdf](https://www.bmartin.cc/pubs/09-4apcei/4apcei-Robinson.pdf)  
+   Link: <a href="https://www.bmartin.cc/pubs/09-4apcei/4apcei-Robinson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bmartin.cc/pubs/09-4apcei/4apcei-Robinson.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It may be more...Read more...</p></details>

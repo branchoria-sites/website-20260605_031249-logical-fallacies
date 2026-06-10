@@ -826,74 +826,74 @@ The central question is not whether an argument presents two options. The centra
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: False dilemma  
-   Link: [https://en.wikipedia.org/wiki/False_dilemma](https://en.wikipedia.org/wiki/False_dilemma)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_dilemma</a>  
 
 2. <a id="endnote-2"></a>
    Source: wiki.c2.com  
-   Link: [https://wiki.c2.com/?FalseDichotomy=](https://wiki.c2.com/?FalseDichotomy=)  
+   Link: <a href="https://wiki.c2.com/?FalseDichotomy=" target="_blank" rel="noopener noreferrer nofollow">https://wiki.c2.com/?FalseDichotomy=</a>  
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — Two competing conce...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — It suggests that philosophy needs an [informal logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) to add...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: web.stanford.edu  
    Title: Logical Fallacies  
-   Link: [https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm](https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm)  
+   Link: <a href="https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/~jonahw/PWR1/LogicalFallacies.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesFalse Dilemma: two choices are given when in fact there are three options; From Ignorance: because something is not known to be...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesBut the false dilemma fallacy is due to false premises. Still other... The fallacy is called...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: seop.illc.uva.nl  
-   Link: [https://seop.illc.uva.nl/entries/contradiction/](https://seop.illc.uva.nl/entries/contradiction/)  
+   Link: <a href="https://seop.illc.uva.nl/entries/contradiction/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/contradiction/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyContradictionby LR Horn · 2006 · Cited by 130 — The law of contradictories is such that if one contrad...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/propositional-logic-sentential-logic/](https://iep.utm.edu/propositional-logic-sentential-logic/)  
+   Link: <a href="https://iep.utm.edu/propositional-logic-sentential-logic/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/propositional-logic-sentential-logic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyPropositional Logic(Disjunctive syllogism is sometimes also called “modus tollendo ponens” or... fals...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribbr.co.uk  
    Title: False Dilemma Fallacy | Examples & Definition  
-   Link: [https://www.scribbr.co.uk/fallacy/false-dilemma/](https://www.scribbr.co.uk/fallacy/false-dilemma/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scribbr30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist)...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/false-dilemma/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist)...</p></details>
    Published: May 2023  
 
 10. <a id="endnote-10"></a>
    Source: microsoft.com  
    Title: false dilemma fallacy  
-   Link: [https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy)  
+   Link: <a href="https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/false-dilemma-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a false dilemma fallacy? Explore...17 Dec 2024 — A type of logical fallacy that misrepresents an issue by presenting only two op...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: logicallyfallacious.com  
    Title: False Dilemma  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma](https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fallaciesDescription: When only two choices are presented yet more exist, or a spectrum of possible choices exists between two extremes...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: owl.excelsior.edu  
    Title: logical fallacies false dilemma  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-false-dilemma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dilemma Fallacy - Excelsior OWLA false dilemma is a logical fallacy that presents only two options or sides to an issue when there are ac...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribbr.com  
    Title: false dilemma fallacy  
-   Link: [https://www.scribbr.com/fallacies/false-dilemma-fallacy/](https://www.scribbr.com/fallacies/false-dilemma-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/false-dilemma-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Definition30 May 2023 — The false dilemma fallacy means presenting a limited number of options as if they were the only option...</p></details>
    Published: May 2023  
 
@@ -901,53 +901,53 @@ The central question is not whether an argument presents two options. The centra
 
 14. <a id="endnote-14"></a>
    Source: pastpaperhero.com  
-   Link: [https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy](https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy)  
+   Link: <a href="https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy" target="_blank" rel="noopener noreferrer nofollow">https://www.pastpaperhero.com/resources/lsac-lsat-common-logical-fallacies-and-reasoning-errors-false-dilemma-and-dichotomy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common logical fallacies and reasoning errorsFalse dilemma occurs when an argument illegitimately limits options to two; Dichotomy errors...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf](https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf)  
+   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is incorrect argumentation in logic and rhetoric resulting in a lack of validity, or more generally, a lack of...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2688029951255361/posts/6694802633911386/](https://www.facebook.com/groups/2688029951255361/posts/6694802633911386/)  
+   Link: <a href="https://www.facebook.com/groups/2688029951255361/posts/6694802633911386/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2688029951255361/posts/6694802633911386/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a false dichotomy in logical fallacyA false dichotomy (or false dilemma) is a logical fallacy in which a limited number of choice...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/black-or-white](https://yourlogicalfallacyis.com/black-or-white)  
+   Link: <a href="https://yourlogicalfallacyis.com/black-or-white" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/black-or-white</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is black or whiteYou presented two alternative states as the only possibilities, when in fact more possibilities exi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: philosophy.stackexchange.com  
    Title: which of common rules of inference are rejected on some philosophical grounds  
-   Link: [https://philosophy.stackexchange.com/questions/68932/which-of-common-rules-of-inference-are-rejected-on-some-philosophical-grounds](https://philosophy.stackexchange.com/questions/68932/which-of-common-rules-of-inference-are-rejected-on-some-philosophical-grounds)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/68932/which-of-common-rules-of-inference-are-rejected-on-some-philosophical-grounds" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/68932/which-of-common-rules-of-inference-are-rejected-on-some-philosophical-grounds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of common rules of inference are rejected on some...7 Dec 2019 — Disjunction introduction jointly with disjunctive syllogism {p∨q,¬p} ⊢...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: digitalcommons.unomaha.edu  
-   Link: [https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&[context](https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&[context)  
+   Link: <a href="https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.unomaha.edu/cgi/viewcontent.cgi?article=1029&amp;[context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Called the &#x27;False Dilemma Fallacy&#x27; (FDF)by R Conces · 2023 · Cited by 1 — Abstract: This work is a revision of the False Dilemma Fallacy...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-9-false-choicedefinition-and-explanation-the-false-choice-/810469734411059/](https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-9-false-choicedefinition-and-explanation-the-false-choice-/810469734411059/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-9-false-choicedefinition-and-explanation-the-false-choice-/810469734411059/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-9-false-choicedefinition-and-explanation-the-false-choice-/810469734411059/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the options that are presented are collectively exhaustive.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
    Title: What Is the Either-Or Fallacy?  
-   Link: [https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy](https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| False Dilemma, Dichotomy...The either-or fallacy, also called a false dilemma, is a logical error that happens when someone presents...</p></details>
+   Link: <a href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>False Dilemma, Dichotomy...The either-or fallacy, also called a false dilemma, is a logical error that happens when someone presents...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: False Dilemma: Either Love it or Fear it  
-   Link: [https://www.youtube.com/watch?v=iZ3u8sP8tDo](https://www.youtube.com/watch?v=iZ3u8sP8tDo)  
+   Link: <a href="https://www.youtube.com/watch?v=iZ3u8sP8tDo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iZ3u8sP8tDo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic Series...A false dilemma is a logical fallacy that claims are only two choices when upon closer inspection they&#x27;re more possibilit...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: st.network  
-   Link: [https://st.network/analysis/top/the-false-dilemma-why-would-you-accept-not-having-a-choice.html](https://st.network/analysis/top/the-false-dilemma-why-would-you-accept-not-having-a-choice.html)  
+   Link: <a href="https://st.network/analysis/top/the-false-dilemma-why-would-you-accept-not-having-a-choice.html" target="_blank" rel="noopener noreferrer nofollow">https://st.network/analysis/top/the-false-dilemma-why-would-you-accept-not-having-a-choice.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The false dilemma: Are there really only two choices?10 Aug 2020 — This fallacy contains the false supposition that, in a given matter, t...</p></details>

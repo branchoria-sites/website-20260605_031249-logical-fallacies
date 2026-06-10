@@ -300,7 +300,7 @@ A common pattern looks like this:
 
 </div>
 
-The debate becomes a dispute about argument categories rather than a search for better information.
+The [debate]({{ 'debate/' | relative_url }}) becomes a dispute about argument categories rather than a search for better information.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dP5imeWMDVg" title="Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dP5imeWMDVg" target="_blank" rel="noopener noreferrer">Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Philosophy Vibe &middot; Views: 68.0K &middot; Uploaded: April 2018 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dP5imeWMDVg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dP5imeWMDVg">Open on YouTube</a></p></div></div></div>
@@ -484,7 +484,7 @@ The central question remains the same after any callout: what does the available
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -494,111 +494,36 @@ The central question remains the same after any callout: what does the available
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019"><img src="https://i.ebayimg.com/images/g/dZkAAOSwaNRc0NyW/s-l225.jpg" alt="Listing image for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny T-shirt Social Commentary Truth Lie Satire Critical Thinking Philosophy"><img src="{{ '/assets/images/marketplace-covers/2be4963e8fdeb559c05b.jpg' | relative_url }}" alt="Listing image for Funny T-shirt Social Commentary Truth Lie Satire Critical Thinking Philosophy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny T-shirt Social Commentary Truth Lie Satire Critical Thinking Philosophy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,15 +531,15 @@ The central question remains the same after any callout: what does the available
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Critical Thinking T Shirt"><img src="{{ '/assets/images/marketplace-covers/8ff415e72f99f7c42e2c.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Critical Thinking T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster"><img src="https://i.ebayimg.com/images/g/as0AAeSw3JRp0vdN/s-l225.jpg" alt="Listing image for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Critical Thinking T Shirt</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -622,15 +547,15 @@ The central question remains the same after any callout: what does the available
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent"><img src="{{ '/assets/images/marketplace-covers/8053bfddef267988f55d.jpg' | relative_url }}" alt="Listing image for EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSw3w1p1~TM/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -638,15 +563,15 @@ The central question remains the same after any callout: what does the available
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Is Now Extremism T-Shirt, Patriot Not Marxist, Patriotic Shirt"><img src="{{ '/assets/images/marketplace-covers/f0d15004219be947bebf.jpg' | relative_url }}" alt="Listing image for Critical Thinking Is Now Extremism T-Shirt, Patriot Not Marxist, Patriotic Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="https://i.ebayimg.com/images/g/TFEAAOSwCm9nqP-h/s-l225.jpg" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Is Now Extremism T-Shirt, Patriot Not Marxist, Patriotic Shirt</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -654,7 +579,7 @@ The central question remains the same after any callout: what does the available
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=callouts-why-online-fallacy-callouts-go-wrong-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-online-fallacy-callouts-go-wrong-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="why-online-fallacy-callouts-go-wrong-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -731,17 +656,31 @@ The central question remains the same after any callout: what does the available
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -754,42 +693,73 @@ The central question remains the same after any callout: what does the available
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -804,180 +774,184 @@ The central question remains the same after any callout: what does the available
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Argument from fallacy  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_fallacy](https://en.wikipedia.org/wiki/Argument_from_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_fallacy</a>  
 
 2. <a id="endnote-2"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/3035/2419](https://informallogic.ca/index.php/informal_logic/article/view/3035/2419)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/3035/2419" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/3035/2419</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Abstract: Popular textbook treat- ment...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: journals.openedition.org  
-   Link: [https://journals.openedition.org/aad/9587](https://journals.openedition.org/aad/9587)  
+   Link: <a href="https://journals.openedition.org/aad/9587" target="_blank" rel="noopener noreferrer nofollow">https://journals.openedition.org/aad/9587</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenEdition JournalsThe Fallacy Guide: From the Critique of Fallacies to a...by N Ariel · 2025 — This approach typically involves brief...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 368159154 Social Justice Fallacies of Argument and Persistent Bias  
-   Link: [https://www.researchgate.net/publication/368159154_Social_Justice_Fallacies_of_Argument_and_Persistent_Bias](https://www.researchgate.net/publication/368159154_Social_Justice_Fallacies_of_Argument_and_Persistent_Bias)  
+   Link: <a href="https://www.researchgate.net/publication/368159154_Social_Justice_Fallacies_of_Argument_and_Persistent_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368159154_Social_Justice_Fallacies_of_Argument_and_Persistent_Bias</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Justice, Fallacies of Argument, and Persistent Bias2 Feb 2023 — The fallacies approach to argument evaluation can exacerbate probl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: inria.hal.science  
-   Link: [https://inria.hal.science/hal-03351649](https://inria.hal.science/hal-03351649)  
+   Link: <a href="https://inria.hal.science/hal-03351649" target="_blank" rel="noopener noreferrer nofollow">https://inria.hal.science/hal-03351649</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>we present them using the pragma-dialectical theory of argumentation.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ijcai.org  
-   Link: [https://www.ijcai.org/proceedings/2022/0575.pdf](https://www.ijcai.org/proceedings/2022/0575.pdf)  
+   Link: <a href="https://www.ijcai.org/proceedings/2022/0575.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ijcai.org/proceedings/2022/0575.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies play a prominent role in argumentation since antiquity due to their contribution to argu- mentation in critical thinking...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cydcampus.admin.ch  
-   Link: [https://www.cydcampus.admin.ch/dam/de/sd-web/-N1QWdAkjjNb/Robust%20and%20explainable%20identification%20of%20logical%20fallacies%20in%20natural%20language%20arguments.pdf](https://www.cydcampus.admin.ch/dam/de/sd-web/-N1QWdAkjjNb/Robust%20and%20explainable%20identification%20of%20logical%20fallacies%20in%20natural%20language%20arguments.pdf)  
+   Link: <a href="https://www.cydcampus.admin.ch/dam/de/sd-web/-N1QWdAkjjNb/Robust%20and%20explainable%20identification%20of%20logical%20fallacies%20in%20natural%20language%20arguments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cydcampus.admin.ch/dam/de/sd-web/-N1QWdAkjjNb/Robust%20and%20explainable%20identification%20of%20logical%20fallacies%20in%20natural%20language%20arguments.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robust and explainable identification of logical fallacies in...by Z Souratia · 2023 · Cited by 40 — A logical fallacy is a logical mist...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Appeal to the stone  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_the_stone](https://en.wikipedia.org/wiki/Appeal_to_the_stone)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_the_stone" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_the_stone</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/220607810_Logical_Fallacies_as_Informational_Shortcuts](https://www.researchgate.net/publication/220607810_Logical_Fallacies_as_Informational_Shortcuts)  
+   Link: <a href="https://www.researchgate.net/publication/220607810_Logical_Fallacies_as_Informational_Shortcuts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220607810_Logical_Fallacies_as_Informational_Shortcuts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Logical Fallacies as Informational ShortcutsThe paper argues that the two best known formal logical fallacies, namely denying the a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fallacy/comments/1r5amum/what_is_the_fallacy_called_when_a_debate_is/](https://www.reddit.com/r/fallacy/comments/1r5amum/what_is_the_fallacy_called_when_a_debate_is/)  
+   Link: <a href="https://www.reddit.com/r/fallacy/comments/1r5amum/what_is_the_fallacy_called_when_a_debate_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fallacy/comments/1r5amum/what_is_the_fallacy_called_when_a_debate_is/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ly B. Let&#x27;s assume B is negative. Valid responses to this would be...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/The10thDentist/comments/1n0vxr4/most_fallacies_called_out_online_are_actually/](https://www.reddit.com/r/The10thDentist/comments/1n0vxr4/most_fallacies_called_out_online_are_actually/)  
+   Link: <a href="https://www.reddit.com/r/The10thDentist/comments/1n0vxr4/most_fallacies_called_out_online_are_actually/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/The10thDentist/comments/1n0vxr4/most_fallacies_called_out_online_are_actually/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>authority, slippery slope, whataboutism, moving the goal...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pages.saclay.inria.fr  
    Title: 3 Fallacies on Reddit  
-   Link: [https://pages.saclay.inria.fr/oana.balalau/pdf/fallaciesReddit.pdf](https://pages.saclay.inria.fr/oana.balalau/pdf/fallaciesReddit.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Down the Invisible Wall of [Informal Fallacies](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) in...by SY Sahai · Cited by 47 — In addition, we target fallacies in online conversations...</p></details>
+   Link: <a href="https://pages.saclay.inria.fr/oana.balalau/pdf/fallaciesReddit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pages.saclay.inria.fr/oana.balalau/pdf/fallaciesReddit.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Down the Invisible Wall of Informal Fallacies in...by SY Sahai · Cited by 47 — In addition, we target fallacies in online conversations...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=dP5imeWMDVg](https://www.youtube.com/watch?v=dP5imeWMDVg)  
+   Link: <a href="https://www.youtube.com/watch?v=dP5imeWMDVg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dP5imeWMDVg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies Explained: Why Bad Arguments Fail - YouTube...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Logical Fallacies Explained: Why Adults Argue So Poorly Today  
-   Link: [https://www.youtube.com/watch?v=Hx4GtmSK6Rw](https://www.youtube.com/watch?v=Hx4GtmSK6Rw)  
+   Link: <a href="https://www.youtube.com/watch?v=Hx4GtmSK6Rw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Hx4GtmSK6Rw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy Fallacy | Kushagra Dubey | TEDxNPSIS Singapore Youth - YouTube...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vB2Zzbn55Qo](https://www.youtube.com/watch?v=vB2Zzbn55Qo)  
+   Link: <a href="https://www.youtube.com/watch?v=vB2Zzbn55Qo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vB2Zzbn55Qo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Reasoning and Debating Ideas Clearly - YouTube...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesA fallacy is a kind of error in reasoning. The list of fallacies below contains 231 names of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: newslit.org  
-   Link: [https://newslit.org/news-and-research/logical-fallacies-and-discourse/](https://newslit.org/news-and-research/logical-fallacies-and-discourse/)  
+   Link: <a href="https://newslit.org/news-and-research/logical-fallacies-and-discourse/" target="_blank" rel="noopener noreferrer nofollow">https://newslit.org/news-and-research/logical-fallacies-and-discourse/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News Literacy ProjectEvaluating arguments and identifying logical fallaciesAugust 15, 2018 — 15 Aug 2018 — [False dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;): An argument sug...</p></details>
    Published: August 15, 2018  
 
 19. <a id="endnote-19"></a>
    Source: persuasion.community  
-   Link: [https://www.persuasion.community/p/why-i-stopped-believing-in-fallacies](https://www.persuasion.community/p/why-i-stopped-believing-in-fallacies)  
+   Link: <a href="https://www.persuasion.community/p/why-i-stopped-believing-in-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.persuasion.community/p/why-i-stopped-believing-in-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by Maarten Boudry17 Feb 2026 — They began to see fallacies everywhere. Instead of engaging with the substance of an argument, they hurled...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: research.com  
-   Link: [https://research.com/research/logical-fallacies-examples](https://research.com/research/logical-fallacies-examples)  
+   Link: <a href="https://research.com/research/logical-fallacies-examples" target="_blank" rel="noopener noreferrer nofollow">https://research.com/research/logical-fallacies-examples</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ided because they invalidate conclusions and arguments.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical FallaciesFallacies are fake or deceptive arguments, &quot;junk cognition,&quot; that is, arguments that seem irrefutable but prove...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: futurelearn.com  
-   Link: [https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131](https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131)  
+   Link: <a href="https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131" target="_blank" rel="noopener noreferrer nofollow">https://www.futurelearn.com/info/courses/logical-and-critical-thinking/0/steps/9131</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Argue Against Common FallaciesThe common fallacies are usefully divided into three categories: Fallacies of [Relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;), Fallacies o...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies](https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pseudo-Logical FallaciesArgument by Dismissal: An argument is rejected without saying why. The person who is rejecting the argument may h...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: chroniclesofstrength.com  
-   Link: [https://www.chroniclesofstrength.com/7-fallacies-you-should-know-before-getting-into-an-online-debate/](https://www.chroniclesofstrength.com/7-fallacies-you-should-know-before-getting-into-an-online-debate/)  
+   Link: <a href="https://www.chroniclesofstrength.com/7-fallacies-you-should-know-before-getting-into-an-online-debate/" target="_blank" rel="noopener noreferrer nofollow">https://www.chroniclesofstrength.com/7-fallacies-you-should-know-before-getting-into-an-online-debate/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· 2) WhatAboutIsm. · 3) Argument from silence. · 4) Appeals to Force or...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsLitProject/posts/%EF%B8%8F-when-you-see-a-post-online-making-a-flimsy-argument-theres-a-good-chance-its-e/856021999892834/](https://www.facebook.com/NewsLitProject/posts/%EF%B8%8F-when-you-see-a-post-online-making-a-flimsy-argument-theres-a-good-chance-its-e/856021999892834/)  
+   Link: <a href="https://www.facebook.com/NewsLitProject/posts/%EF%B8%8F-when-you-see-a-post-online-making-a-flimsy-argument-theres-a-good-chance-its-e/856021999892834/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsLitProject/posts/%EF%B8%8F-when-you-see-a-post-online-making-a-flimsy-argument-theres-a-good-chance-its-e/856021999892834/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>adicts the argument. The *Cherry Picking* fallacy occurs when...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: guides.lib.uiowa.edu  
    Title: Evaluating Online Information: Logical Fallacies  
-   Link: [https://guides.lib.uiowa.edu/c.php?g=849536&p=6077643](https://guides.lib.uiowa.edu/c.php?g=849536&p=6077643)  
+   Link: <a href="https://guides.lib.uiowa.edu/c.php?g=849536&amp;p=6077643" target="_blank" rel="noopener noreferrer nofollow">https://guides.lib.uiowa.edu/c.php?g=849536&amp;p=6077643</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In a logical fallacy, the arguer does not provide enough evidence to support their claim.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11522166/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11522166/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11522166/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11522166/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to poor arguments: The interplay of cognitive...by PM Marin · 2024 · Cited by 17 — The strongest cognitive predictors of correctly recog...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.06613](https://arxiv.org/abs/1802.06613)  
+   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Fallacies Explained: Why Bad Arguments Fail  
-   Link: [https://www.youtube.com/watch?v=6pAyt2Xx7-g](https://www.youtube.com/watch?v=6pAyt2Xx7-g)  
+   Link: <a href="https://www.youtube.com/watch?v=6pAyt2Xx7-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6pAyt2Xx7-g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies Explained: Why Adults Argue So Poorly Today - YouTube...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/am/pii/S0950705123001685](https://www.sciencedirect.com/science/article/am/pii/S0950705123001685)  
+   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S0950705123001685" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S0950705123001685</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robust and explainable identification of logical fallacies in...by Z Sourati · 2023 · Cited by 40 — A logical fallacy is a logical mista...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: scholar.google.co.th  
    Title: google.co.th‪Catherine E Hundleby‬  
-   Link: [https://scholar.google.co.th/citations?hl=th&user=RA980ecAAAAJ](https://scholar.google.co.th/citations?hl=th&user=RA980ecAAAAJ)  
+   Link: <a href="https://scholar.google.co.th/citations?hl=th&amp;user=RA980ecAAAAJ" target="_blank" rel="noopener noreferrer nofollow">https://scholar.google.co.th/citations?hl=th&amp;user=RA980ecAAAAJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>‪Google Scholar‬The authority of the fallacies approach to argument evaluation. C Hundleby. Informal Logic 30 (3), 2010. 78, 2010; Where...</p></details>

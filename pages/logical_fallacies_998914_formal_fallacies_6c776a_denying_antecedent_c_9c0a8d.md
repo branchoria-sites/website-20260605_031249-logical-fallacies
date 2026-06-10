@@ -408,7 +408,7 @@ This pattern creates blind spots because the argument prematurely closes investi
 
 In everyday reasoning, people often prefer a single explanation because it reduces uncertainty. Yet many real systems—technical, social, biological, and economic—are characterised by multiple interacting causes. A conclusion becomes unreliable when it depends on ignoring those alternatives.
 
-Research in reasoning and logic education notes that people frequently draw invalid conditional inferences in ordinary thinking even though those inferences are not deductively valid. Human reasoning often fills gaps with background assumptions that are not explicitly stated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">arXivHuman Conditional Reasoning in Answer Set ProgrammingNovember 8, 2023...</span><span class="citation-popover-meta">Published: November 8, 2023</span></span></span>
+Research in reasoning and logic education notes that people frequently draw invalid conditional inferences in ordinary thinking even though those inferences are not deductively valid. Human reasoning often fills gaps with background assumptions that are not explicitly stated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">Human Conditional Reasoning in Answer Set ProgrammingNovember 8, 2023...</span><span class="citation-popover-meta">Published: November 8, 2023</span></span></span>
 
 ## Denying the Antecedent Versus Valid Reasoning
 
@@ -564,7 +564,7 @@ The safest corrective is to remember that an “if–then” statement usually i
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -573,78 +573,94 @@ The safest corrective is to remember that an “if–then” statement usually i
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster"><img src="{{ '/assets/images/marketplace-covers/f53b5ef9808c94d6a4f1.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Signed Photo Framed &amp; COA Auto Critical Thinking Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/c34d599e1b85f5f07f53.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019"><img src="https://i.ebayimg.com/images/g/dZkAAOSwaNRc0NyW/s-l225.jpg" alt="Listing image for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking - NEW Classroom Reading and Writing Poster"><img src="{{ '/assets/images/marketplace-covers/d35949cdde79a8a0f862.jpg' | relative_url }}" alt="Listing image for Critical Thinking - NEW Classroom Reading and Writing Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2aMAAeSwQYlp1Tf6/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking - NEW Classroom Reading and Writing Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c8bc7042d38cd131035.jpg' | relative_url }}" alt="Listing image for Critical Thinking Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking poster">Search <span data-ebay-domain-label>eBay.com</span>: critical thinking poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=critical+thinking+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=other-causes-the-fallacy-that-rules-out-too-much-logical-fallacies-critical-thinking-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-fallacy-that-rules-out-too-much-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="the-fallacy-that-rules-out-too-much-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -720,17 +736,31 @@ The safest corrective is to remember that an “if–then” statement usually i
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -743,42 +773,73 @@ The safest corrective is to remember that an “if–then” statement usually i
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -793,173 +854,177 @@ The safest corrective is to remember that an “if–then” statement usually i
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: openstax.org  
    Title: Open Stax5.4 Types of Inferences  
-   Link: [https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences](https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences)  
+   Link: <a href="https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/introduction-philosophy/pages/5-4-types-of-inferences</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>5.4 Types of Inferences - Introduction to Philosophy15 Jun 2022 — Here are two common invalid inference forms: Affirming the Consequent...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Denying the antecedent  
-   Link: [https://en.wikipedia.org/wiki/Denying_the_antecedent](https://en.wikipedia.org/wiki/Denying_the_antecedent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Denying_the_antecedent</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Necessity and sufficiency  
-   Link: [https://en.wikipedia.org/wiki/Necessity_and_sufficiency](https://en.wikipedia.org/wiki/Necessity_and_sufficiency)  
+   Link: <a href="https://en.wikipedia.org/wiki/Necessity_and_sufficiency" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Necessity_and_sufficiency</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1, 2026 — Example 1: &quot;John is a king&quot; implies that John is male. · Example 2: A number&#x27;s being divisible by 4 is sufficient (but not...</p></details>
    Published: May 1, 2026  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Modus tollens  
-   Link: [https://en.wikipedia.org/wiki/Modus_tollens](https://en.wikipedia.org/wiki/Modus_tollens)  
+   Link: <a href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Modus_tollens</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Human Conditional Reasoning in Answer Set Programming  
-   Link: [https://arxiv.org/abs/2311.04412](https://arxiv.org/abs/2311.04412)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHuman Conditional Reasoning in Answer Set ProgrammingNovember 8, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Conditional Reasoning in Answer Set ProgrammingNovember 8, 2023...</p></details>
    Published: November 8, 2023  
 
 6. <a id="endnote-6"></a>
    Source: openstax.org  
    Title: 7.4 Critical Thinking  
-   Link: [https://openstax.org/books/college-success/pages/7-4-critical-thinking](https://openstax.org/books/college-success/pages/7-4-critical-thinking)  
+   Link: <a href="https://openstax.org/books/college-success/pages/7-4-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/college-success/pages/7-4-critical-thinking</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>College Success27 Mar 2020 — One component to keep in mind to guide your critical thinking is to determine the situation. What problem ar...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: openstax.org  
    Title: 2.7 Logical Arguments  
-   Link: [https://openstax.org/books/contemporary-mathematics/pages/2-7-logical-arguments](https://openstax.org/books/contemporary-mathematics/pages/2-7-logical-arguments)  
+   Link: <a href="https://openstax.org/books/contemporary-mathematics/pages/2-7-logical-arguments" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-7-logical-arguments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contemporary Mathematics22 Mar 2023 — The conditional statement can also be described as, “If antecedent, then consequent.”This is where...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: openstax.org  
    Title: Ch. 2 Key Concepts  
-   Link: [https://openstax.org/books/contemporary-mathematics/pages/2-key-concepts](https://openstax.org/books/contemporary-mathematics/pages/2-key-concepts)  
+   Link: <a href="https://openstax.org/books/contemporary-mathematics/pages/2-key-concepts" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-key-concepts</a>  
 
 9. <a id="endnote-9"></a>
    Source: openstax.org  
-   Title: 5.5 [Informal Fallacies](&#123;&#123; 'informal-logic/' | relative_url &#125;&#125;)  
-   Link: [https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies](https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies)  
+   Title: 5.5 Informal Fallacies  
+   Link: <a href="https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/introduction-philosophy/pages/5-5-informal-fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Philosophy15 Jun 2022 — In fallacies of [relevance](&amp;#123;&amp;#123; &#x27;relevance/&#x27; | relative_url &amp;#125;&amp;#125;), the arguer presents evidence that is not relevant for logically establ...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: openstax.org  
    Title: If Giacomo works with Faheem, then Faheem is not a software engineer.Read more  
-   Link: [https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional](https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional)  
+   Link: <a href="https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional</a>  
 
 11. <a id="endnote-11"></a>
    Source: openstax.org  
    Title: 2.5 Equivalent Statements  
-   Link: [https://openstax.org/books/contemporary-mathematics/pages/2-5-equivalent-statements](https://openstax.org/books/contemporary-mathematics/pages/2-5-equivalent-statements)  
+   Link: <a href="https://openstax.org/books/contemporary-mathematics/pages/2-5-equivalent-statements" target="_blank" rel="noopener noreferrer nofollow">https://openstax.org/books/contemporary-mathematics/pages/2-5-equivalent-statements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contemporary MathematicsMar 22, 2023 — The inverse has the form, “if ~ p ~ p, then ~ q ~ q,” so the inverse is: &quot;If Harry is not a wiza...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: [https://en.wikipedia.org/wiki/Affirming_the_consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affirming the consequentA related fallacy is denying the antecedent. Two related valid forms of logical argument include modus tollens...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesYou are using this fallacy if you deny the antecedent of a conditional and then suppose that...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the AntecedentThe arguer has committed a formal fallacy, and the argument is invalid because the truth of the premises does not g...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: quillbot.com  
    Title: denying the antecedent  
-   Link: [https://quillbot.com/blog/reasoning/denying-the-antecedent/](https://quillbot.com/blog/reasoning/denying-the-antecedent/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/denying-the-antecedent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples &amp; Definition22 Jul 2024 — Denying the antecedent is the fallacy of assuming that if the initial condition (P) is not met, the ex...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: research.ed.ac.uk  
-   Link: [https://www.research.ed.ac.uk/files/28378747/Duarte_DAlmeida_MacDonald_2016_IL_denying_the_antecedent.pdf](https://www.research.ed.ac.uk/files/28378747/Duarte_DAlmeida_MacDonald_2016_IL_denying_the_antecedent.pdf)  
+   Link: <a href="https://www.research.ed.ac.uk/files/28378747/Duarte_DAlmeida_MacDonald_2016_IL_denying_the_antecedent.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/files/28378747/Duarte_DAlmeida_MacDonald_2016_IL_denying_the_antecedent.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the antecedent - Edinburgh Research Explorerby LD D&#x27;Almeida · 2016 · Cited by 3 — Abstract: In this paper we examine two challenges to th...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/4469/3777](https://informallogic.ca/index.php/informal_logic/article/view/4469/3777)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4469/3777" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4469/3777</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the Antecedent - Informal Logicby LD d’Almeida · 2016 · Cited by 3 — Abstract: In this paper we examine two challenges to the ort...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: afterall.net  
-   Link: [https://afterall.net/illogic/non-sequitur/denying-the-antecedent/](https://afterall.net/illogic/non-sequitur/denying-the-antecedent/)  
+   Link: <a href="https://afterall.net/illogic/non-sequitur/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow">https://afterall.net/illogic/non-sequitur/denying-the-antecedent/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying the Antecedent | Illogic at Afterall.netJan 1, 2026 — Any argument of the following form is invalid: (1) If A then B (2) Not A (3...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: fiveable.me  
    Title: Denying the Antecedent  
-   Link: [https://fiveable.me/formal-logic-ii/key-terms/denying-the-antecedent](https://fiveable.me/formal-logic-ii/key-terms/denying-the-antecedent)  
+   Link: <a href="https://fiveable.me/formal-logic-ii/key-terms/denying-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://fiveable.me/formal-logic-ii/key-terms/denying-the-antecedent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Formal Logic](&amp;#123;&amp;#123; &#x27;formal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) IIDenying the antecedent is a formal fallacy that occurs when one assumes that if the antecedent of a conditional statement...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/denial-of-the-antecedent](https://www.britannica.com/topic/denial-of-the-antecedent)  
+   Link: <a href="https://www.britannica.com/topic/denial-of-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/denial-of-the-antecedent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denial of the antecedent | logicAmong the best known are denying the antecedent (“If A, then B; not-A; therefore, not-B”) and affirming t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: homeworkforyou.com  
-   Link: [https://www.homeworkforyou.com/static_media/uploadedfiles/1733569814_39407__391..pdf](https://www.homeworkforyou.com/static_media/uploadedfiles/1733569814_39407__391..pdf)  
+   Link: <a href="https://www.homeworkforyou.com/static_media/uploadedfiles/1733569814_39407__391..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.homeworkforyou.com/static_media/uploadedfiles/1733569814_39407__391..pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denying The Antecedent FallacyIt is essential to know this fallacy to grasp the root of such wrong conclusions; misleading causal inferen...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesA fallacy is an invalid form of argument, an instance of incorrect reasoning. Below is a list of common fallacies.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: diales.com  
-   Link: [https://www.diales.com/fr/news/the-fallacy-of-affirming-the-consequent](https://www.diales.com/fr/news/the-fallacy-of-affirming-the-consequent)  
+   Link: <a href="https://www.diales.com/fr/news/the-fallacy-of-affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.diales.com/fr/news/the-fallacy-of-affirming-the-consequent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The fallacy of affirming the consequentThe &#x27;affirming the consequent&#x27; fallacy can occur within expert testimony when a subject matter exp...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: oercollective.caul.edu.au  
-   Link: [https://oercollective.caul.edu.au/howtothinkcritically/chapter/basic-structural-fallacies/](https://oercollective.caul.edu.au/howtothinkcritically/chapter/basic-structural-fallacies/)  
+   Link: <a href="https://oercollective.caul.edu.au/howtothinkcritically/chapter/basic-structural-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/howtothinkcritically/chapter/basic-structural-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>structural fallacies – How to Think CriticallyThis section looks at three common structural fallacies: The fallacy of affirming the conse...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=h83bzYAfgrM](https://www.youtube.com/watch?v=h83bzYAfgrM)  
+   Link: <a href="https://www.youtube.com/watch?v=h83bzYAfgrM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h83bzYAfgrM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrapositive of a Conditional StatementThe contrapositive of &quot;p implies q&quot; is &quot;not q implies not p&quot;. It looks quite different, but in f...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: study.com  
-   Link: [https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html](https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html)  
+   Link: <a href="https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/learn/lesson/denying-antecedent-fallacy-examples.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/x8qa2z/i_do_not_understand_logic_and_arguments_modus/](https://www.reddit.com/r/askphilosophy/comments/x8qa2z/i_do_not_understand_logic_and_arguments_modus/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/x8qa2z/i_do_not_understand_logic_and_arguments_modus/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/x8qa2z/i_do_not_understand_logic_and_arguments_modus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ng the Consequent (invalid!): if P, then Q. Q. Therefore, P.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: helpfulprofessor.com  
-   Link: [https://helpfulprofessor.com/denying-the-antecedent-fallacy-examples/](https://helpfulprofessor.com/denying-the-antecedent-fallacy-examples/)  
+   Link: <a href="https://helpfulprofessor.com/denying-the-antecedent-fallacy-examples/" target="_blank" rel="noopener noreferrer nofollow">https://helpfulprofessor.com/denying-the-antecedent-fallacy-examples/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cy is understood as a logical error involving an if-then statement...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: khanacademy.org  
-   Link: [https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/denying-the-antecedent](https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/denying-the-antecedent)  
+   Link: <a href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/denying-the-antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/denying-the-antecedent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>firming the consequent means asserting John will want to marry...</p></details>

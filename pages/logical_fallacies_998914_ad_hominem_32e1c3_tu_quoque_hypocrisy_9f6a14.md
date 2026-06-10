@@ -11,25 +11,25 @@ sibling_basenames:
 tags:
 - logical-fallacies
 - ad-hominem
-- tu-quoque-hypocrisy
+- tu-quoque-hypocrisy-9-f6-a14
 keywords:
 - logical-fallacies
 - ad-hominem
-- tu-quoque-hypocrisy
+- tu-quoque-hypocrisy-9-f6-a14
 affiliate_category: logical-fallacies
 show_ads: true
 description: Tu quoque, often translated as “you too”, is a form of ad hominem argument that tries to dismiss a claim, criticism or recommendation by pointing out that...
 hero_summary: Tu quoque, often translated as “you too”, is a form of ad hominem argument that tries to dismiss a claim, criticism or recommendation by pointing out that the person making it is inconsistent, hypocritical or guilty of similar behaviour. The move feels powerful because hypocrisy is often irritating and can undermine trust.
 layout: default
-permalink: /tu-quoque-hypocrisy/
+permalink: /tu-quoque-hypocrisy-9-f6-a14/
 sidebar_expanded_urls:
 - /logical-fallacies/
 - /ad-hominem/
-nav_short_title: Tu Quoque Hypocrisy
-title: Tu Quoque Hypocrisy
-title_full: Tu Quoque Hypocrisy | Ad Hominem
-display_title_short: Tu Quoque Hypocrisy
-display_title: Tu Quoque Hypocrisy
+nav_short_title: Tu Quoque Hypocrisy 9 F6 A14
+title: Tu Quoque Hypocrisy 9 F6 A14
+title_full: Tu Quoque Hypocrisy 9 F6 A14 | Ad Hominem
+display_title_short: Tu Quoque Hypocrisy 9 F6 A14
+display_title: Tu Quoque Hypocrisy 9 F6 A14
 source_count: 47
 infographic_count: 3
 output_language: English
@@ -262,7 +262,7 @@ image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypoc
 [Tu quoque]({{ 'tu-quoque/' | relative_url }}), often translated as “you too”, is a form of ad hominem argument that tries to dismiss a claim, criticism or recommendation by pointing out that the person making it is inconsistent, hypocritical or guilty of similar behaviour. The move feels powerful because hypocrisy is often irritating and can undermine trust. However, hypocrisy and falsehood are different issues. A person may fail to follow their own advice while the advice itself remains sound. Pointing out inconsistency can expose a character flaw, but it does not automatically disprove the argument being made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy Wikipedia Within the broader family of personalised debate tactics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tu quoque</span><span class="citation-popover-snippet">Tu quoque</span></span></span>, tu quoque shifts attention away from the merits of a claim and towards the conduct of the speaker. The central question becomes not “Is this argument correct?” but “Does this person live up to it?” That shift is the source of the fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-1-dark.svg" | relative_url }}" alt="Tu Quoque Hypocrisy illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-1-dark.svg" | relative_url }}" alt="Tu Quoque Hypocrisy 9 F6 A14 illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the “you too” move claims
 
 The basic structure of tu quoque is simple:
@@ -289,7 +289,7 @@ This is why tu quoque is also known as the appeal to hypocrisy. Rather than answ
 
 </div>
 
-The second statement may reveal inconsistency. It does not establish that reducing emissions is ineffective, unnecessary or undesirable. The original claim still requires its own evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[2psychologycorner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Tu Quoque Fallacy?</span><span class="citation-popover-snippet">| Critical Thinking BasicsThis fallacy arises when a person attempts to dismiss criticism by accusing the critic of hypocrisy, rather tha...</span></span></span>
+The second statement may reveal inconsistency. It does not establish that reducing emissions is ineffective, unnecessary or undesirable. The original claim still requires its own evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[2psychologycorner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Tu Quoque Fallacy?</span><span class="citation-popover-snippet">Critical Thinking BasicsThis fallacy arises when a person attempts to dismiss criticism by accusing the critic of hypocrisy, rather tha...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IEQDP2pYrmM" title="Ad Hominem (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IEQDP2pYrmM" target="_blank" rel="noopener noreferrer">Ad Hominem (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 12.7K &middot; Uploaded: February 2014 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IEQDP2pYrmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IEQDP2pYrmM">Open on YouTube</a></p></div></div></div>
@@ -298,7 +298,7 @@ The second statement may reveal inconsistency. It does not establish that reduci
 
 The core error in tu quoque is confusing the source of a claim with the truth of a claim. Facts, evidence and reasoning do not become false merely because the person presenting them behaves badly.
 
-Consider medical advice. If a doctor who smokes warns patients that smoking increases the risk of disease, the doctor's personal habit may damage their credibility. Yet the scientific evidence about smoking remains exactly the same. Rejecting the advice solely because the doctor is inconsistent would be irrational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Ad hominem | Religion and Philosophy | Research StartersThe third kind of ad hominem is known as tu quoque, a Latin phrase meaning &quot;you...</span></span></span> The distinction can be expressed in three separate questions:
+Consider medical advice. If a doctor who smokes warns patients that smoking increases the risk of disease, the doctor's personal habit may damage their credibility. Yet the scientific evidence about smoking remains exactly the same. Rejecting the advice solely because the doctor is inconsistent would be irrational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Ad hominem &#124; Religion and Philosophy &#124; Research StartersThe third kind of ad hominem is known as tu quoque, a Latin phrase meaning &quot;you...</span></span></span> The distinction can be expressed in three separate questions:
 
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
@@ -323,10 +323,10 @@ Despite being fallacious, tu quoque is often rhetorically effective because it e
 
 **It offers a quick escape.** Responding to criticism can require difficult justification. Accusing the critic of hypocrisy is often easier than answering the criticism itself.
 
-**It creates symmetry.** If both sides appear flawed, audiences may conclude that no further evaluation is necessary, even when one side's argument remains stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[Your Logical Fallacy Is]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">It is commonly employed as an effective red herring because it takes the heat off someone having to...Read more...</span></span></span> Wikipedia This helps explain why appeals to hypocrisy are common in politics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tu quoque</span><span class="citation-popover-snippet">Tu quoque</span></span></span>, ethical disputes and public controversies. A [debate]({{ 'debate/' | relative_url }}) about whether a policy is effective can rapidly become a debate about who has violated their own principles. The original issue may disappear entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[2psychologycorner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Tu Quoque Fallacy?</span><span class="citation-popover-snippet">| Critical Thinking BasicsThis fallacy arises when a person attempts to dismiss criticism by accusing the critic of hypocrisy, rather tha...</span></span></span>
+**It creates symmetry.** If both sides appear flawed, audiences may conclude that no further evaluation is necessary, even when one side's argument remains stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[Your Logical Fallacy Is]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">It is commonly employed as an effective red herring because it takes the heat off someone having to...Read more...</span></span></span> Wikipedia This helps explain why appeals to hypocrisy are common in politics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tu quoque</span><span class="citation-popover-snippet">Tu quoque</span></span></span>, ethical disputes and public controversies. A [debate]({{ 'debate/' | relative_url }}) about whether a policy is effective can rapidly become a debate about who has violated their own principles. The original issue may disappear entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[2psychologycorner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Tu Quoque Fallacy?</span><span class="citation-popover-snippet">Critical Thinking BasicsThis fallacy arises when a person attempts to dismiss criticism by accusing the critic of hypocrisy, rather tha...</span></span></span>
 
 
-<img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-2-dark.svg" | relative_url }}" alt="Tu Quoque Hypocrisy illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-2-dark.svg" | relative_url }}" alt="Tu Quoque Hypocrisy 9 F6 A14 illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When hypocrisy actually matters
 
 The existence of the fallacy does not mean hypocrisy is always irrelevant.
@@ -361,7 +361,7 @@ When confronted with a tu quoque response, the most productive approach is to se
 A useful sequence is:
 
 
-<img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-3-dark.svg" | relative_url }}" alt="Tu Quoque Hypocrisy illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-3-dark.svg" | relative_url }}" alt="Tu Quoque Hypocrisy 9 F6 A14 illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -379,7 +379,7 @@ Or:
 
 > “Even if I have been inconsistent, that does not tell us whether the policy works.”
 
-This response neither denies the hypocrisy nor allows it to replace evaluation of the claim. It keeps the discussion focused on the issue that actually needs to be decided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[2psychologycorner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Tu Quoque Fallacy?</span><span class="citation-popover-snippet">| Critical Thinking BasicsThis fallacy arises when a person attempts to dismiss criticism by accusing the critic of hypocrisy, rather tha...</span></span></span>
+This response neither denies the hypocrisy nor allows it to replace evaluation of the claim. It keeps the discussion focused on the issue that actually needs to be decided. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[2psychologycorner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Tu Quoque Fallacy?</span><span class="citation-popover-snippet">Critical Thinking BasicsThis fallacy arises when a person attempts to dismiss criticism by accusing the critic of hypocrisy, rather tha...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_RgwJBnRuyk" title="Critical Reasoning and Informal Fallacies: Ad Hominem and Tu Quoque Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_RgwJBnRuyk" target="_blank" rel="noopener noreferrer">Critical Reasoning and Informal Fallacies: Ad Hominem and Tu Quoque Fallacies</a></p><p class="youtube-embed-meta">Channel: Christopher Stratman &middot; Views: 51 &middot; Uploaded: September 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_RgwJBnRuyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_RgwJBnRuyk">Open on YouTube</a></p></div></div></div>
@@ -810,141 +810,141 @@ Tu quoque succeeds by making hypocrisy look like refutation. Yet inconsistency a
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves not accepting a view or a recommendation because the espouser him...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Tu quoque  
-   Link: [https://en.wikipedia.org/wiki/Tu_quoque](https://en.wikipedia.org/wiki/Tu_quoque)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
 
 3. <a id="endnote-3"></a>
    Source: psychologycorner.com  
    Title: What is The Tu Quoque Fallacy?  
-   Link: [https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/](https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| Critical Thinking BasicsThis fallacy arises when a person attempts to dismiss criticism by accusing the critic of hypocrisy, rather tha...</p></details>
+   Link: <a href="https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologycorner.com/critical-thinking-resources/what-is-the-tu-quoque-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking BasicsThis fallacy arises when a person attempts to dismiss criticism by accusing the critic of hypocrisy, rather tha...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/sum2002/entries/logic-informal/](https://plato.stanford.edu/archives/sum2002/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic&quot; Different kinds of ad hominem (i.e., abusive, circumstantial and tu quoque ad hominem)...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/win2004/entries/logic-informal/](https://plato.stanford.edu/archives/win2004/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic&quot; Different kinds of ad hominem (abusive, tu quoque, and circumstantial ad hominem) are...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominem | Religion and Philosophy | Research StartersThe third kind of ad hominem is known as tu quoque, a Latin phrase meaning &quot;you...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: grammarly.com  
    Title: appeal to hypocrisy  
-   Link: [https://www.grammarly.com/blog/rhetorical-devices/appeal-to-hypocrisy/](https://www.grammarly.com/blog/rhetorical-devices/appeal-to-hypocrisy/)  
+   Link: <a href="https://www.grammarly.com/blog/rhetorical-devices/appeal-to-hypocrisy/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/rhetorical-devices/appeal-to-hypocrisy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Appeal to Hypocrisy Fallacy, Explained28 Nov 2022 — The appeal to hypocrisy fallacy is the logical fallacy of attempting to discredit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/543/506](https://informallogic.ca/index.php/informal_logic/article/view/543/506)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/543/506</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Abstract: Though textbook tu quoque arguments are...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Whataboutism](https://en.wikipedia.org/wiki/Whataboutism)  
+   Link: <a href="https://en.wikipedia.org/wiki/Whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Whataboutism</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.06613](https://arxiv.org/abs/1802.06613)  
+   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2209.02062](https://arxiv.org/abs/2209.02062)  
+   Link: <a href="https://arxiv.org/abs/2209.02062" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2209.02062</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem refers to several types of arguments where the speaker attacks the character, motive, or some other attribute of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2003/entries/logic-informal/](https://plato.stanford.edu/archives/sum2003/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2003/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LogicNov 11, 2002 — According to Van Eemeren and Grootendorst [1992], an instance of ad hominem is a violation of the first rule for crit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html](https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Fallacies - Stanford Encyclopedia of PhilosophyThe scheme that Walton prefers is much more complicated (2010, 168) but the present abb...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fallacy of Tu Quoque occurs in our reasoning if we conclude that someone&#x27;s argument not to perform some act must be faulty because th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/tu-quoque](https://yourlogicalfallacyis.com/tu-quoque)  
+   Link: <a href="https://yourlogicalfallacyis.com/tu-quoque" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/tu-quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is commonly employed as an effective [red herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;) because it takes the heat off someone having to...Read more...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/whataboutism](https://www.britannica.com/topic/whataboutism)  
+   Link: <a href="https://www.britannica.com/topic/whataboutism" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/whataboutism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Examples, Etymology, Logical...13 May 2026 — As a form of tu quoque (Latin: “you also”) argument, they divert attention from...</p></details>
    Published: May 2026  
 
 18. <a id="endnote-18"></a>
    Source: finmasters.com  
    Title: Tu Quoque Fallacy  
-   Link: [https://finmasters.com/tu-quoque-fallacy/](https://finmasters.com/tu-quoque-fallacy/)  
+   Link: <a href="https://finmasters.com/tu-quoque-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/tu-quoque-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid because it is incon...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: blog.homeforfiction.com  
    Title: appeal to hypocrisy fallacy  
-   Link: [https://blog.homeforfiction.com/2018/12/27/appeal-to-hypocrisy-fallacy/](https://blog.homeforfiction.com/2018/12/27/appeal-to-hypocrisy-fallacy/)  
+   Link: <a href="https://blog.homeforfiction.com/2018/12/27/appeal-to-hypocrisy-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://blog.homeforfiction.com/2018/12/27/appeal-to-hypocrisy-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Hypocrisy: the Tu Quoque FallacyDec 27, 2018 — The Appeal to Hypocrisy is an attempt to ameliorate one&#x27;s argument with parameters that...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: learn.academy4sc.org  
-   Link: [https://learn.academy4sc.org/video/tu-quoque-you-too/](https://learn.academy4sc.org/video/tu-quoque-you-too/)  
+   Link: <a href="https://learn.academy4sc.org/video/tu-quoque-you-too/" target="_blank" rel="noopener noreferrer nofollow">https://learn.academy4sc.org/video/tu-quoque-you-too/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ted contradictory to their stated position...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: fallacyinlogic.medium.com  
    Title: tu quoque fallacy definition and examples b21bc5db8183  
-   Link: [https://fallacyinlogic.medium.com/tu-quoque-fallacy-definition-and-examples-b21bc5db8183](https://fallacyinlogic.medium.com/tu-quoque-fallacy-definition-and-examples-b21bc5db8183)  
+   Link: <a href="https://fallacyinlogic.medium.com/tu-quoque-fallacy-definition-and-examples-b21bc5db8183" target="_blank" rel="noopener noreferrer nofollow">https://fallacyinlogic.medium.com/tu-quoque-fallacy-definition-and-examples-b21bc5db8183</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quoque Fallacy — Definition and ExamplesTu quoque is a fallacy in which someone asserts that their opponent&#x27;s argument must be invalid be...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: paraphrasetool.com  
    Title: appeal to hypocrisy fallacy  
-   Link: [https://paraphrasetool.com/usage/appeal-to-hypocrisy-fallacy](https://paraphrasetool.com/usage/appeal-to-hypocrisy-fallacy)  
+   Link: <a href="https://paraphrasetool.com/usage/appeal-to-hypocrisy-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://paraphrasetool.com/usage/appeal-to-hypocrisy-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Appeal to Hypocrisy Fallacy1 Apr 2024 — One common fallacy that can derail discussions and diminish persuasive power is...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/](https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>at they uphold a double standard...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: philosophy.stackexchange.com  
    Title: does hypocrisy invalidate an argument  
-   Link: [https://philosophy.stackexchange.com/questions/11459/does-hypocrisy-invalidate-an-argument](https://philosophy.stackexchange.com/questions/11459/does-hypocrisy-invalidate-an-argument)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/11459/does-hypocrisy-invalidate-an-argument" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/11459/does-hypocrisy-invalidate-an-argument</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hypocrisy invalidate an argument?10 May 2014 — I was listening to a political podcast and David Poltz (one of the presenters) said of an...</p></details>
    Published: May 2014  
 
 25. <a id="endnote-25"></a>
    Source: study.com  
    Title: Tu Quoque Fallacy | Definition & Examples  
-   Link: [https://study.com/academy/lesson/video/look-whos-talking-tu-quoque-fallacy-definition-examples.html](https://study.com/academy/lesson/video/look-whos-talking-tu-quoque-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/video/look-whos-talking-tu-quoque-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/video/look-whos-talking-tu-quoque-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VideoIt&#x27;s an appeal to hypocrisy &amp;middot; It diverts attention from the actual truth of a claim &amp;middot; The validity of an argument stan...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: philosophy.stackexchange.com  
-   Link: [https://philosophy.stackexchange.com/questions/64515/when-is-pointing-out-a-persons-hypocrisy-not-considered-to-be-a-logical-fallacy](https://philosophy.stackexchange.com/questions/64515/when-is-pointing-out-a-persons-hypocrisy-not-considered-to-be-a-logical-fallacy)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/64515/when-is-pointing-out-a-persons-hypocrisy-not-considered-to-be-a-logical-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/64515/when-is-pointing-out-a-persons-hypocrisy-not-considered-to-be-a-logical-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arguments are not necessarily physical actions. In this way I can argue about act x is wrong in an argument even...Read more...</p></details>

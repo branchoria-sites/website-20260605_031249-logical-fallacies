@@ -578,7 +578,7 @@ In everyday reasoning, denying the antecedent often appears as premature dismiss
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a-Illustration-2-dark.svg" | relative_url }}" alt="Formal Logic illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Undistributed Middle
 
-The fallacy of the [undistributed middle]({{ 'shared-category/' | relative_url }}) belongs to categorical syllogisms: arguments about classes such as “all”, “some” and “none”. Its classic structure is:
+The fallacy of the undistributed middle belongs to categorical syllogisms: arguments about classes such as “all”, “some” and “none”. Its classic structure is:
 
 All A are C.
 
@@ -605,7 +605,7 @@ The everyday version is easy to miss: two things can share a feature without bei
 
 Some formal mistakes arise from mishandling words such as “all”, “some”, “none” and “there exists”. A common error is moving too quickly from a universal statement to a particular existence claim. For example, “All unicorns have horns” does not prove that unicorns exist. It only states what would be true if anything belonged to that category.
 
-This kind of problem is sometimes discussed under quantificational or existential fallacies. The general issue is that logical form changes when an argument moves between [universal claims]({{ 'existence-errors/' | relative_url }}) and existence claims. “All members of this group have property X” is not the same as “there is at least one member of this group.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/quanfall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This kind of problem is sometimes discussed under quantificational or existential fallacies. The general issue is that logical form changes when an argument moves between universal claims and existence claims. “All members of this group have property X” is not the same as “there is at least one member of this group.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/quanfall.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These errors matter in technical, legal and policy contexts because a small shift in quantity can change the claim completely. “All approved applicants met the threshold” does not mean “all applicants who met the threshold were approved.” “Some risks are manageable” does not mean “all risks are manageable.” The structure of the quantifier controls the strength of the conclusion.
 
@@ -653,7 +653,7 @@ This distinction helps avoid overcorrecting. A doctor, investigator or engineer 
 The same issue appears in legal and forensic reasoning. Evidence may be far more likely under one hypothesis than another, but that does not allow the listener to reverse conditional probabilities casually. Modern forensic discussions increasingly emphasise careful expression of likelihood ratios and avoidance of the prosecutor’s fallacy, because the way the conditional is framed can change how strongly evidence appears to support a conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">arXiv Human Conditional Reasoning in Answer Set Programming</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WZhj9S6axuo" title="Logical Fallacies Part 1: Formal and Informal Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WZhj9S6axuo" target="_blank" rel="noopener noreferrer">Logical Fallacies Part 1: Formal and Informal Fallacies</a></p><p class="youtube-embed-meta">Channel: Professor Dave Explains &middot; Views: 46.0K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WZhj9S6axuo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WZhj9S6axuo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ukWyom3OcEg" title="Formal and Informal Logic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ukWyom3OcEg" target="_blank" rel="noopener noreferrer">Formal and Informal Logic</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 45.4K &middot; Uploaded: January 2014 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ukWyom3OcEg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ukWyom3OcEg">Open on YouTube</a></p></div></div></div>
 
 ## How to Test for Invalid Argument Structure
 
@@ -750,7 +750,7 @@ For a conditional argument, ask:
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -760,111 +760,36 @@ For a conditional argument, ask:
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Merch Incredible True Story Album Spacesuits Rap Music Logic Poster 36x12"><img src="{{ '/assets/images/marketplace-covers/c2f4c4b884ba35577708.jpg' | relative_url }}" alt="Listing image for Logic Merch Incredible True Story Album Spacesuits Rap Music Logic Poster 36x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 FOR 2- Anti Social Sarcastic Introvert Humor Badge Metal Enamel Pins Gift Idea"><img src="https://i.ebayimg.com/images/g/-ZcAAeSwfw9ocMex/s-l225.jpg" alt="Listing image for 3 FOR 2- Anti Social Sarcastic Introvert Humor Badge Metal Enamel Pins Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logic Merch Incredible True Story Album Spacesuits Rap Music Logic Poster 36x12</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">3 FOR 2- Anti Social Sarcastic Introvert Humor Badge Metal Enamel Pins Gift Idea</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.com</span>: logic poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning enamel pin</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Merch Middle Fingers Jump Photo Rap Posters Laminated Poster 16x24"><img src="{{ '/assets/images/marketplace-covers/75f8ca042e7a41a67866.jpg' | relative_url }}" alt="Listing image for Logic Merch Middle Fingers Jump Photo Rap Posters Laminated Poster 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logic Merch Middle Fingers Jump Photo Rap Posters Laminated Poster 16x24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.com</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Signed Logic (Lot Of 5) Posters Everybody Documentary No Pressure YSIV AUTOGRAPH"><img src="{{ '/assets/images/marketplace-covers/dcafa75c4412bcb47f8a.jpg' | relative_url }}" alt="Listing image for Signed Logic (Lot Of 5) Posters Everybody Documentary No Pressure YSIV AUTOGRAPH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Signed Logic (Lot Of 5) Posters Everybody Documentary No Pressure YSIV AUTOGRAPH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.com</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph"><img src="{{ '/assets/images/marketplace-covers/336c2efac293d00ca557.jpg' | relative_url }}" alt="Listing image for Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logic – The Incredible True Story Signed Poster 24x36 | Authentic Autograph</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.com</span>: logic poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-logic-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic Street Preachers Critical Thinking T Shirt"><img src="{{ '/assets/images/marketplace-covers/8ff415e72f99f7c42e2c.jpg' | relative_url }}" alt="Listing image for Manic Street Preachers Critical Thinking T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manic Street Preachers Critical Thinking T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -872,15 +797,15 @@ For a conditional argument, ask:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking Shirt Adult Humor Graphic Tshirt Novelty Sarcastic Sarcasm Tee"><img src="{{ '/assets/images/marketplace-covers/11989d6bfd4ca3eb2496.jpg' | relative_url }}" alt="Listing image for Critical Thinking Shirt Adult Humor Graphic Tshirt Novelty Sarcastic Sarcasm Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I SEE NO GOOD REASON TO ACT MY AGE Cool Funny Quote Enamel Pin Badge Brooch"><img src="https://i.ebayimg.com/images/g/U8MAAeSw9kppC3vn/s-l225.jpg" alt="Listing image for I SEE NO GOOD REASON TO ACT MY AGE Cool Funny Quote Enamel Pin Badge Brooch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking Shirt Adult Humor Graphic Tshirt Novelty Sarcastic Sarcasm Tee</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">I SEE NO GOOD REASON TO ACT MY AGE Cool Funny Quote Enamel Pin Badge Brooch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning enamel pin</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -888,15 +813,15 @@ For a conditional argument, ask:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Critical Thinking The Other Nation Sarcastic Humor Graphic Novelty Funny T Shirt"><img src="{{ '/assets/images/marketplace-covers/7f8efc53d45340c392f5.jpg' | relative_url }}" alt="Listing image for Critical Thinking The Other Nation Sarcastic Humor Graphic Novelty Funny T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be The Reason Enamel Pin Badge Inspirational Quote Mental Health Seen Heard Valu"><img src="https://i.ebayimg.com/images/g/yBEAAeSwKidpwsfl/s-l225.jpg" alt="Listing image for Be The Reason Enamel Pin Badge Inspirational Quote Mental Health Seen Heard Valu" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking The Other Nation Sarcastic Humor Graphic Novelty Funny T Shirt</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Be The Reason Enamel Pin Badge Inspirational Quote Mental Health Seen Heard Valu</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning enamel pin</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -904,15 +829,15 @@ For a conditional argument, ask:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent"><img src="{{ '/assets/images/marketplace-covers/8053bfddef267988f55d.jpg' | relative_url }}" alt="Listing image for EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 FOR 2 - Cute PIN Badge Metal Enamel Badges Pins Gift Idea Stocking Fillers UK"><img src="https://i.ebayimg.com/images/g/-ZcAAeSwfw9ocMex/s-l225.jpg" alt="Listing image for 3 FOR 2 - Cute PIN Badge Metal Enamel Badges Pins Gift Idea Stocking Fillers UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">EAT SLEEP THINK T-SHIRT - critical thinking philosophy university intelligent</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">3 FOR 2 - Cute PIN Badge Metal Enamel Badges Pins Gift Idea Stocking Fillers UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning enamel pin</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -920,7 +845,7 @@ For a conditional argument, ask:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=formal-logic-when-the-structure-makes-reasoning-fail-logical-fallacies-critical-thinking-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-structure-makes-reasoning-fail-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="when-the-structure-makes-reasoning-fail-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -997,17 +922,31 @@ For a conditional argument, ask:
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -1020,42 +959,73 @@ For a conditional argument, ask:
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -1070,17 +1040,21 @@ For a conditional argument, ask:
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 3. Does it deny Q and conclude not-P? That is usually valid. 4. Does it affirm Q and conclude P? That is affirming the consequent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacies.online">[fallacies.online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacies.online</span><span class="citation-popover-title">affirming the consequent</span><span class="citation-popover-snippet">affirming the consequent</span></span></span> 5. Does it deny P and conclude not-Q? That is denying the antecedent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: answersingenesis.org">[answersingenesis.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">answersingenesis.org</span><span class="citation-popover-title">formal fallacies</span><span class="citation-popover-snippet">formal fallacies</span></span></span>
 
 For a category argument, ask whether the middle category truly connects the two groups or merely describes something they share. If two groups are both inside a larger class, that does not prove they are the same group.
@@ -1093,7 +1067,7 @@ The simplest stress test is this: can the premises be true while the conclusion 
 
 Formal fallacies are the cleanest examples of how reasoning can fail because of structure alone. They do not require deep knowledge of the subject matter to diagnose; the error can often be seen once the argument is reduced to its form.
 
-That makes them especially valuable as a foundation for understanding [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) more broadly. [Informal fallacies]({{ 'informal-logic/' | relative_url }}) often depend on context, definitions, evidence or relevance. Formal fallacies show the stricter case: even if the language is clear, the premises sound plausible and the conclusion feels believable, the argument can still fail because the inferential bridge is broken.
+That makes them especially valuable as a foundation for understanding [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) more broadly. Informal fallacies often depend on [context]({{ 'context/' | relative_url }}), definitions, evidence or relevance. Formal fallacies show the stricter case: even if the language is clear, the premises sound plausible and the conclusion feels believable, the argument can still fail because the inferential bridge is broken.
 
 The reader’s lasting habit should be structural, not label-driven. Before asking whether a claim is persuasive, ask what form of support is being offered. Does the conclusion genuinely follow, or has the argument quietly converted a clue into proof, a sufficient condition into a necessary one, or a shared feature into an identity? That question is the practical core of recognising formal fallacies.
 
@@ -1102,230 +1076,230 @@ The reader’s lasting habit should be structural, not label-driven. Before aski
 1. <a id="endnote-1"></a>
    Source: open.library.okstate.edu  
    Title: Logic and the Study of Arguments – Critical Thinking  
-   Link: [https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/](https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/)  
+   Link: <a href="https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/criticalthinking/chapter/__unknown__/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An argument is valid if it is impossible for the premises to be true and the conclusion false. To put validity in...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — Formal fallacies ar...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pimaopen.pressbooks.pub  
-   Link: [https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/](https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/)  
+   Link: <a href="https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/introphilosophy/chapter/1-2-arguments-types-of-reasoning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1.2 Arguments – Types of Reasoning - Pima Open Digital Pressby K Eldred · 2024 — A deductive argument is valid when: If all its premises...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cebm.ox.ac.uk  
    Title: the prosecutors fallacy  
-   Link: [https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy](https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy)  
+   Link: <a href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy</a>  
 
 5. <a id="endnote-5"></a>
    Source: pimaopen.pressbooks.pub  
-   Link: [https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/](https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/)  
+   Link: <a href="https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/intrologic/chapter/2-2-logical-fallacies/</a>  
 
 6. <a id="endnote-6"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/quanfall.html](https://www.fallacyfiles.org/quanfall.html)  
+   Link: <a href="https://www.fallacyfiles.org/quanfall.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/quanfall.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Human Conditional Reasoning in Answer Set Programming  
-   Link: [https://arxiv.org/abs/2311.04412](https://arxiv.org/abs/2311.04412)  
+   Link: <a href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2311.04412</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2502.03217](https://arxiv.org/abs/2502.03217)  
+   Link: <a href="https://arxiv.org/abs/2502.03217" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.03217</a>  
 
 9. <a id="endnote-9"></a>
    Source: pimaopen.pressbooks.pub  
-   Link: [https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/](https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/)  
+   Link: <a href="https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/" target="_blank" rel="noopener noreferrer nofollow">https://pimaopen.pressbooks.pub/intrologic/chapter/1-3-types-of-arguments-deductive-and-inductive/</a>  
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html](https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/fallacies/notes.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall1997/entries/logic-informal/](https://plato.stanford.edu/archives/fall1997/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall1997/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall1997/entries/logic-informal/</a>  
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: feminism argumentation  
-   Link: [https://plato.stanford.edu/entries/feminism-argumentation/](https://plato.stanford.edu/entries/feminism-argumentation/)  
+   Link: <a href="https://plato.stanford.edu/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/feminism-argumentation/</a>  
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/win2004/entries/logic-informal/](https://plato.stanford.edu/archives/win2004/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
 
 16. <a id="endnote-16"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2002/entries/logic-informal/](https://plato.stanford.edu/archives/sum2002/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.03217v1](https://arxiv.org/html/2502.03217v1)  
+   Link: <a href="https://arxiv.org/html/2502.03217v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.03217v1</a>  
 
 18. <a id="endnote-18"></a>
    Source: open.library.okstate.edu  
    Title: chapter 10 propositional logic [truth tables](&#123;&#123; 'truth-table/' | relative_url &#125;&#125;) and truth trees  
-   Link: [https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/](https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/)  
+   Link: <a href="https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/logicandcriticalthinkingexercises/chapter/chapter-10-propositional-logic-truth-tables-and-truth-trees/</a>  
 
 19. <a id="endnote-19"></a>
    Source: open.edu  
-   Link: [https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&section=7.1](https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&section=7.1)  
+   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=170658&amp;section=7.1</a>  
 
 20. <a id="endnote-20"></a>
    Source: austlii.edu.au  
-   Link: [https://www.austlii.edu.au/au/journals/AUJlLegPhil/2011/5.pdf](https://www.austlii.edu.au/au/journals/AUJlLegPhil/2011/5.pdf)  
+   Link: <a href="https://www.austlii.edu.au/au/journals/AUJlLegPhil/2011/5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.austlii.edu.au/au/journals/AUJlLegPhil/2011/5.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: philosophy.institute  
    Title: understanding fallacies reasoning errors  
-   Link: [https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/](https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/)  
+   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
 
 22. <a id="endnote-22"></a>
    Source: fallacies.online  
-   Link: [https://fallacies.online/wiki/logic/formal_fallacies/existential](https://fallacies.online/wiki/logic/formal_fallacies/existential)  
+   Link: <a href="https://fallacies.online/wiki/logic/formal_fallacies/existential" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/existential</a>  
 
 23. <a id="endnote-23"></a>
    Source: fallacies.online  
    Title: affirming the consequent  
-   Link: [https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent](https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent)  
+   Link: <a href="https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://fallacies.online/wiki/logic/formal_fallacies/affirming_the_consequent</a>  
 
 24. <a id="endnote-24"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies)  
+   Link: <a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/fallacies</a>  
 
 25. <a id="endnote-25"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Affirming the consequent  
-   Link: [https://en.wikipedia.org/wiki/Affirming_the_consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Affirming_the_consequent</a>  
 
 27. <a id="endnote-27"></a>
    Source: stat.berkeley.edu  
-   Link: [https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm](https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm)  
+   Link: <a href="https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.stat.berkeley.edu/~stark/SticiGui/Text/reasoning.htm</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Modus tollens  
-   Link: [https://en.wikipedia.org/wiki/Modus_tollens](https://en.wikipedia.org/wiki/Modus_tollens)  
+   Link: <a href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Modus_tollens</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Denying the antecedent  
-   Link: [https://en.wikipedia.org/wiki/Denying_the_antecedent](https://en.wikipedia.org/wiki/Denying_the_antecedent)  
+   Link: <a href="https://en.wikipedia.org/wiki/Denying_the_antecedent" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Denying_the_antecedent</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fallacy](https://en.wikipedia.org/wiki/Fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fallacy</a>  
 
 31. <a id="endnote-31"></a>
    Source: askphilosophers.org  
-   Link: [https://www.askphilosophers.org/question/26292](https://www.askphilosophers.org/question/26292)  
+   Link: <a href="https://www.askphilosophers.org/question/26292" target="_blank" rel="noopener noreferrer nofollow">https://www.askphilosophers.org/question/26292</a>  
 
 32. <a id="endnote-32"></a>
    Source: answersingenesis.org  
    Title: formal fallacies  
-   Link: [https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY](https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY)  
+   Link: <a href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY" target="_blank" rel="noopener noreferrer nofollow">https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOor6h3Lslp-kOqo_1_x_y6G22zL10FByUrIMG-RdwuK-Z58tumJY</a>  
 
 33. <a id="endnote-33"></a>
    Source: answersingenesis.org  
    Title: formal fallacies  
-   Link: [https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR](https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR)  
+   Link: <a href="https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR" target="_blank" rel="noopener noreferrer nofollow">https://answersingenesis.org/logic/formal-fallacies/?srsltid=AfmBOoocXZOXlzBNG_X4tMuID-FNQ3OjSzFmKqniJVu97HgA0AOuK4xR</a>  
 
 34. <a id="endnote-34"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
 
 35. <a id="endnote-35"></a>
    Source: germanna.edu  
    Title: Logical Fallacies  
-   Link: [https://germanna.edu/sites/default/files/2025-01/Logical%20Fallacies.pdf](https://germanna.edu/sites/default/files/2025-01/Logical%20Fallacies.pdf)  
+   Link: <a href="https://germanna.edu/sites/default/files/2025-01/Logical%20Fallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://germanna.edu/sites/default/files/2025-01/Logical%20Fallacies.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: scribbr.co.uk  
    Title: Logical Fallacies | Definition, Types, List & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/logical-fallacies/](https://www.scribbr.co.uk/fallacy/logical-fallacies/)  
+   Link: <a href="https://www.scribbr.co.uk/fallacy/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/logical-fallacies/</a>  
 
 37. <a id="endnote-37"></a>
    Source: owl.purdue.edu  
-   Link: [https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html)  
+   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
 39. <a id="endnote-39"></a>
    Source: quillbot.com  
    Title: denying the antecedent  
-   Link: [https://quillbot.com/blog/reasoning/denying-the-antecedent/](https://quillbot.com/blog/reasoning/denying-the-antecedent/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/denying-the-antecedent/</a>  
 
 40. <a id="endnote-40"></a>
    Source: quillbot.com  
    Title: affirming the consequent  
-   Link: [https://quillbot.com/blog/reasoning/affirming-the-consequent/](https://quillbot.com/blog/reasoning/affirming-the-consequent/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/affirming-the-consequent/</a>  
 
 ### Additional References
 
 41. <a id="endnote-41"></a>
    Source: pressbooks.openeducationalberta.ca  
    Title: Pressbooks Validity and Soundness – A Brief  
-   Link: [https://pressbooks.openeducationalberta.ca/saitintrophil/chapter/1-7-soundness/](https://pressbooks.openeducationalberta.ca/saitintrophil/chapter/1-7-soundness/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PressbooksValidity and Soundness – A Brief Introduction to PhilosophyA sound argument is a valid argument that has all true premises. Tha...</p></details>
+   Link: <a href="https://pressbooks.openeducationalberta.ca/saitintrophil/chapter/1-7-soundness/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.openeducationalberta.ca/saitintrophil/chapter/1-7-soundness/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Validity and Soundness – A Brief Introduction to PhilosophyA sound argument is a valid argument that has all true premises. Tha...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
    Title: Deductive Fallacies  
-   Link: [https://www.youtube.com/watch?v=LV1vkT6QrlE](https://www.youtube.com/watch?v=LV1vkT6QrlE)  
+   Link: <a href="https://www.youtube.com/watch?v=LV1vkT6QrlE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LV1vkT6QrlE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic 101 (#48): Affirming the Consequent...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
    Title: Affirming the Consequent: A Formal Fallacy  
-   Link: [https://www.youtube.com/watch?v=85QJZdbgEoc](https://www.youtube.com/watch?v=85QJZdbgEoc)  
+   Link: <a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=85QJZdbgEoc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy 102 - Week 10 - Chapter 8: Formal Fallacies and Fallacies of Language...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: lrcfs-ap2.dundee.ac.uk  
-   Link: [https://lrcfs-ap2.dundee.ac.uk/lr_book/prosecutor-fallacy.html](https://lrcfs-ap2.dundee.ac.uk/lr_book/prosecutor-fallacy.html)  
+   Link: <a href="https://lrcfs-ap2.dundee.ac.uk/lr_book/prosecutor-fallacy.html" target="_blank" rel="noopener noreferrer nofollow">https://lrcfs-ap2.dundee.ac.uk/lr_book/prosecutor-fallacy.html</a>  
 
 45. <a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/11513471_The_Prosecutor%27s_Fallacy_-_A_Pitfall_in_Interpreting_Probabilities_in_Forensic_Evidence](https://www.researchgate.net/publication/11513471_The_Prosecutor%27s_Fallacy_-_A_Pitfall_in_Interpreting_Probabilities_in_Forensic_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/11513471_The_Prosecutor%27s_Fallacy_-_A_Pitfall_in_Interpreting_Probabilities_in_Forensic_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11513471_The_Prosecutor%27s_Fallacy_-_A_Pitfall_in_Interpreting_Probabilities_in_Forensic_Evidence</a>  
 
 46. <a id="endnote-46"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent](https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent</a>  
 
 47. <a id="endnote-47"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/DebateEvolution/comments/wq62lh/affirming_the_consequent/](https://www.reddit.com/r/DebateEvolution/comments/wq62lh/affirming_the_consequent/)  
+   Link: <a href="https://www.reddit.com/r/DebateEvolution/comments/wq62lh/affirming_the_consequent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateEvolution/comments/wq62lh/affirming_the_consequent/</a>  
 
 48. <a id="endnote-48"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent](https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Denying-the-Antecedent</a>  
 
 49. <a id="endnote-49"></a>
    Source: smw.ch  
-   Link: [https://smw.ch/index.php/smw/article/download/1609/2103?inline=1](https://smw.ch/index.php/smw/article/download/1609/2103?inline=1)  
+   Link: <a href="https://smw.ch/index.php/smw/article/download/1609/2103?inline=1" target="_blank" rel="noopener noreferrer nofollow">https://smw.ch/index.php/smw/article/download/1609/2103?inline=1</a>  
 
 50. <a id="endnote-50"></a>
    Source: changingminds.org  
-   Link: [https://changingminds.org/disciplines/argument/fallacies/fallacies_latin.htm](https://changingminds.org/disciplines/argument/fallacies/fallacies_latin.htm)  
+   Link: <a href="https://changingminds.org/disciplines/argument/fallacies/fallacies_latin.htm" target="_blank" rel="noopener noreferrer nofollow">https://changingminds.org/disciplines/argument/fallacies/fallacies_latin.htm</a>  

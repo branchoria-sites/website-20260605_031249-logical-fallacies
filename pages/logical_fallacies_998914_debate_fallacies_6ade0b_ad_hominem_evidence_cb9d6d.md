@@ -302,12 +302,12 @@ Even if the criticism contains some truth about the person, it does not automati
 
 Ad hominem attacks succeed because people naturally use credibility cues when evaluating information. Research examining reactions to scientific claims found that attacks on a source's competence, motives, or integrity can reduce confidence in a claim even when the underlying evidence has not been directly challenged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Here we are concerned with three forms of ad hominem attack:...Read more...</span></span></span>
 
-This creates a strategic danger. Once a debate becomes a contest over personalities, audiences may forget the original question entirely. Researchers studying online argumentation have also found that controversial exchanges frequently deteriorate into personal attacks, pulling participants away from substantive disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivBefore Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
+This creates a strategic danger. Once a debate becomes a contest over personalities, audiences may forget the original question entirely. Researchers studying online argumentation have also found that controversial exchanges frequently deteriorate into personal attacks, pulling participants away from substantive disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
 
 The debater's objective is therefore not merely to identify the fallacy but to stop the audience from treating the attack as if it answered the original claim.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qBkj-AYYg7w" title="CRITICAL THINKING - Fallacies: Ad Hominem [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Ad Hominem [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 458.3K &middot; Uploaded: September 2014 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qBkj-AYYg7w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cIvJojEzvCc" title="How To Handle Ad Hominem Attacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cIvJojEzvCc" target="_blank" rel="noopener noreferrer">How To Handle Ad Hominem Attacks</a></p><p class="youtube-embed-meta">Channel: Dad Who Knows Things &middot; Views: 1.6K &middot; Uploaded: March 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cIvJojEzvCc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cIvJojEzvCc">Open on YouTube</a></p></div></div></div>
 
 ## Use a One-Sentence Deflection
 
@@ -360,7 +360,7 @@ Evidence recovery restores the correct burden:
 
 </div>
 
-In debate terms, the burden remains on the person challenging the claim to show why the claim fails. Merely raising suspicion about the speaker does not discharge that burden. The issue remains undecided until the evidence itself is addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivBefore Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
+In debate terms, the burden remains on the person challenging the claim to show why the claim fails. Merely raising suspicion about the speaker does not discharge that burden. The issue remains undecided until the evidence itself is addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</span><span class="citation-popover-meta">Published: February 19, 2018</span></span></span>
 
 A concise recovery statement might be:
 
@@ -369,7 +369,7 @@ A concise recovery statement might be:
 That single question often exposes whether any substantive rebuttal has been offered at all.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wnbK76m691I" title="CRITICAL THINKING - Fallacies: Introduction to Ad Hominem Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wnbK76m691I" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Introduction to Ad Hominem Fallacies</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 88.1K &middot; Uploaded: January 2015 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wnbK76m691I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wnbK76m691I">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SLFLYMdw_wU" title="What is the Ad Hominem Fallacy? (Easy Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SLFLYMdw_wU" target="_blank" rel="noopener noreferrer">What is the Ad Hominem Fallacy? (Easy Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 1.6K &middot; Uploaded: February 2025 &middot; Length: 2 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SLFLYMdw_wU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SLFLYMdw_wU">Open on YouTube</a></p></div></div></div>
 
 ## When Personal Information Really Is Relevant
 
@@ -760,139 +760,139 @@ The essential strategic insight is that a personal attack rarely needs a persona
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
 2. <a id="endnote-2"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument is criticiz...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: owl.excelsior.edu  
    Title: OWLAd Hominem Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-ad-hominem/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLAd Hominem Fallacy - Excelsior OWLAn ad hominem fallacy occurs when someone attacks the person instead of attacking his or h...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: informallogic.ca  
    Title: Virtue argumentation theo-.Read more  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/4330/3706](https://informallogic.ca/index.php/informal_logic/article/view/4330/3706)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4330/3706" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4330/3706</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Virtues, Evidence, and Ad Hominem Arguments - Informal Logicby P Bondy · 2015 · Cited by 20 — Abstract: Argumentation theorists are begin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: catholic.com  
    Title: what an ad hominem argument is not  
-   Link: [https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not](https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not)  
+   Link: <a href="https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.com/magazine/online-edition/what-an-ad-hominem-argument-is-not</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic AnswersWhat an Ad Hominem Argument Is Not15 Aug 2016 — It is considered a fallacy or error in reasoning because it tries to refu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5790247/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here we are concerned with three forms of ad hominem attack:...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.06613](https://arxiv.org/abs/1802.06613)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivBefore Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</p></details>
+   Link: <a href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1802.06613</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web ArgumentationFebruary 19, 2018...</p></details>
    Published: February 19, 2018  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv"Nice Try, Kiddo": Investigating Ad Hominems in Dialogue Responses  
-   Link: [https://arxiv.org/abs/2010.12820](https://arxiv.org/abs/2010.12820)  
+   Link: <a href="https://arxiv.org/abs/2010.12820" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2010.12820</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Burden of Persuasion in Argumentation  
-   Link: [https://arxiv.org/abs/2009.10244](https://arxiv.org/abs/2009.10244)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivBurden of Persuasion in ArgumentationSeptember 22, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2009.10244" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2009.10244</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Burden of Persuasion in ArgumentationSeptember 22, 2020...</p></details>
    Published: September 22, 2020  
 
 10. <a id="endnote-10"></a>
    Source: inoculation.science  
    Title: Science Videos  
-   Link: [https://inoculation.science/inoculation-videos/ad-hominem-attack/](https://inoculation.science/inoculation-videos/ad-hominem-attack/)  
+   Link: <a href="https://inoculation.science/inoculation-videos/ad-hominem-attack/" target="_blank" rel="noopener noreferrer nofollow">https://inoculation.science/inoculation-videos/ad-hominem-attack/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Videos - Ad-hominem AttacksAn ad hominem attack is when someone attacks the person making an argument, instead of addressing the argument...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribbr.com  
    Title: ad hominem fallacy  
-   Link: [https://www.scribbr.com/fallacies/ad-hominem-fallacy/](https://www.scribbr.com/fallacies/ad-hominem-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExamplesApr 21, 2023 — Ad hominem fallacy is a group of argumentation strategies that focus on the person making an argument...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dialnet.unirioja.es  
-   Link: [https://dialnet.unirioja.es/descarga/articulo/3963501.pdf](https://dialnet.unirioja.es/descarga/articulo/3963501.pdf)  
+   Link: <a href="https://dialnet.unirioja.es/descarga/articulo/3963501.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dialnet.unirioja.es/descarga/articulo/3963501.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some ad hominem arguments attack a person who is not a participant in the dis- cussion. And the ad hominem...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribbr.co.uk  
    Title: Scribbr Ad Hominem Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/ad-hominem/](https://www.scribbr.co.uk/fallacy/ad-hominem/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrAd Hominem Fallacy | Definition &amp; Examples - Scribbr24 Apr 2023 — Ad hominem fallacy (or ad hominem) is an attempt to discredit so...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/ad-hominem/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem Fallacy | Definition &amp; Examples - Scribbr24 Apr 2023 — Ad hominem fallacy (or ad hominem) is an attempt to discredit so...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 15. <a id="endnote-15"></a>
    Source: rpmministries.org  
    Title: ad hominem attacks  
-   Link: [https://rpmministries.org/2025/07/ad-hominem-attacks/](https://rpmministries.org/2025/07/ad-hominem-attacks/)  
+   Link: <a href="https://rpmministries.org/2025/07/ad-hominem-attacks/" target="_blank" rel="noopener noreferrer nofollow">https://rpmministries.org/2025/07/ad-hominem-attacks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When Their Arguments Are Weak, People Attack People18 Jul 2025 — They seek to attack a person&#x27;s character, motives, or other attributes i...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/ad-hominem](https://yourlogicalfallacyis.com/ad-hominem)  
+   Link: <a href="https://yourlogicalfallacyis.com/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/ad-hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is ad hominemAd hominem attacks can take the form of overtly attacking somebody, or more subtly casting doubt on the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dare.uva.nl  
-   Link: [https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2](https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2)  
+   Link: <a href="https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2" target="_blank" rel="noopener noreferrer nofollow">https://dare.uva.nl/id/3621b5b5-4e7b-4f95-8e71-2ed6087960e2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>disguised &#x27;abusive ad hominem&#x27; empirically investigatedIn this paper it is argued that this paradox can be explained by analysing abusive...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/15j1inu/ad_hominem_when_people_use_personal_attacks_in/](https://www.reddit.com/r/skeptic/comments/15j1inu/ad_hominem_when_people_use_personal_attacks_in/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/15j1inu/ad_hominem_when_people_use_personal_attacks_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/15j1inu/ad_hominem_when_people_use_personal_attacks_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An ad hominem is when someone says &quot;you are wrong because you are ugly.&quot; Insulting someone is not automatically...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: elilyons.medium.com  
    Title: the cases when ad hominem arguments are not a fallacy c49e49316710  
-   Link: [https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710](https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710)  
+   Link: <a href="https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710" target="_blank" rel="noopener noreferrer nofollow">https://elilyons.medium.com/the-cases-when-ad-hominem-arguments-are-not-a-fallacy-c49e49316710</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cases When Ad Hominem Arguments are Not a FallacyAd hominem arguments work when they represent a collection of events so complex, that al...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/](https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/)  
+   Link: <a href="https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/emmanuel.mwamba.35/posts/ad-hominem-attack-the-person-not-the-ideasargumentum-ad-hominem-latin-typically-/10226890691474003/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ically this term refers to a rhetorical strategy where the speaker attacks...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: humanities.mcmaster.ca  
-   Link: [https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm](https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm)  
+   Link: <a href="https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The abusive ad hominem is pure abuse; it points...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: thephilosophyforum.com  
    Title: ad hominem ad schmominem  
-   Link: [https://thephilosophyforum.com/discussion/11278/ad-hominem-ad-schmominem](https://thephilosophyforum.com/discussion/11278/ad-hominem-ad-schmominem)  
+   Link: <a href="https://thephilosophyforum.com/discussion/11278/ad-hominem-ad-schmominem" target="_blank" rel="noopener noreferrer nofollow">https://thephilosophyforum.com/discussion/11278/ad-hominem-ad-schmominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominem, Ad Schmominem26 Jun 2021 — First off – the term “ad hominem” refers to an argument. An insult is an insult, not an ad hominem...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: CRITICA L THINKING  
-   Link: [https://www.youtube.com/watch?v=qBkj-AYYg7w](https://www.youtube.com/watch?v=qBkj-AYYg7w)  
+   Link: <a href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qBkj-AYYg7w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Ad Hominem [HD]the ad hominem fallacy, which is an informal fallacy that arises when someone attacks the p...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: In other  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>case of the [slippery slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) and the ad hominem argumentsby M Lillo-Unglaube · 2014 · Cited by 13 — In an “Ad hominem” argument, it is the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13194-025-00707-8](https://link.springer.com/article/10.1007/s13194-025-00707-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s13194-025-00707-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13194-025-00707-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hominem arguments in scientific discoursesby LP Schäfer · 2026 — Ad hominem arguments have no bearing on the truth-values of scientific t...</p></details>

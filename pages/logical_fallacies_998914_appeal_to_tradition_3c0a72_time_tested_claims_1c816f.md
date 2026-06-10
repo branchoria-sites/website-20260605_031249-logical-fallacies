@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:26:18'
 parent_title: Is Old the Same as Right? | Fallacy Lab
 parent_permalink: /tradition/
 parent_nav_short_title: Tradition
@@ -265,7 +266,6 @@ next_link:
   permalink: /traditional-roles/
   short_title: Traditional Roles
   heading_title: Does Tradition Make Roles Fair?
-date: '2026-06-05 02:26:18 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_time_tested_claims_1c816f-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_time_tested_claims_1c816f-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_time_t
 
 ## Introduction
 
-When people defend a custom by calling it “time-tested”, they often assume that long survival is evidence of quality. Sometimes it is. A practice that has persisted across generations may contain accumulated [experience]({{ 'experience/' | relative_url }}), practical knowledge, or solutions to recurring problems. The logical mistake occurs when longevity itself is treated as proof. In discussions about the [appeal to tradition]({{ 'tradition/' | relative_url }}), the crucial question is not whether something has lasted, but what exactly its survival has tested.
+When people defend a custom by calling it “time-tested”, they often assume that long survival is evidence of quality. Sometimes it is. A practice that has persisted across generations may contain accumulated [experience]({{ 'experience/' | relative_url }}), practical knowledge, or solutions to recurring problems. The logical mistake occurs when longevity itself is treated as proof. In discussions about the appeal to [tradition]({{ 'tradition/' | relative_url }}), the crucial question is not whether something has lasted, but what exactly its survival has tested.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_time_tested_claims_1c816f-Illustration-1-dark.svg" | relative_url }}" alt="Time Tested illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_time_tested_claims_1c816f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_time_tested_claims_1c816f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,13 +282,13 @@ Time can reveal certain kinds of information. It can show whether a practice is 
 
 ## Why Endurance Is Not the Same as Evidence
 
-A [tradition]({{ 'tradition/' | relative_url }})'s age is a historical fact. Its value is a separate question.
+A tradition's age is a historical fact. Its value is a separate question.
 
 The appeal to tradition often skips over the missing link between those two ideas. A custom may survive for reasons unrelated to its effectiveness. It may continue because changing it is expensive, because institutions reward conformity, because people are familiar with it, or because alternatives never received a fair trial. Long survival alone does not identify which of these explanations is responsible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_tradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to tradition</span><span class="citation-popover-snippet">Appeal to tradition</span></span></span>
 
-A useful comparison is the concept of path dependence. Economists and historians use this term to describe situations where earlier decisions shape later possibilities. Once a system becomes established, switching to another system may be difficult even if superior alternatives exist. In such cases, persistence reflects historical momentum rather than demonstrated superiority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ada8832b0-b5b1-48a9-9d41-c25de88980e1/files/m4a38baa88776a396ad4d21e9746b59f1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Oxford University Research ArchivePath Dependence, its critics, and the quest for &#x27;historical...by P David · 2000 · Cited by 1605 — The...</span></span></span>
+A useful comparison is the concept of path dependence. Economists and historians use this term to describe situations where earlier decisions shape later possibilities. Once a system becomes established, switching to another system may be difficult even if superior alternatives exist. In such cases, persistence reflects historical momentum rather than demonstrated superiority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ada8832b0-b5b1-48a9-9d41-c25de88980e1/files/m4a38baa88776a396ad4d21e9746b59f1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchivePath Dependence, its critics, and the quest for &#x27;historical...by P David · 2000 · Cited by 1605 — The...</span></span></span>
 
-The familiar QWERTY keyboard is frequently discussed in debates about path dependence. Whether or not every claim made about QWERTY is correct, the broader lesson remains important: a system can become entrenched because of coordination, compatibility, training costs, and historical sequence rather than because it is objectively optimal. Persistence alone does not settle the question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ada8832b0-b5b1-48a9-9d41-c25de88980e1/files/m4a38baa88776a396ad4d21e9746b59f1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Oxford University Research ArchivePath Dependence, its critics, and the quest for &#x27;historical...by P David · 2000 · Cited by 1605 — The...</span></span></span>
+The familiar QWERTY keyboard is frequently discussed in debates about path dependence. Whether or not every claim made about QWERTY is correct, the broader lesson remains important: a system can become entrenched because of coordination, compatibility, training costs, and historical sequence rather than because it is objectively optimal. Persistence alone does not settle the question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ada8832b0-b5b1-48a9-9d41-c25de88980e1/files/m4a38baa88776a396ad4d21e9746b59f1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchivePath Dependence, its critics, and the quest for &#x27;historical...by P David · 2000 · Cited by 1605 — The...</span></span></span>
 
 ## What Has Actually Been Tested?
 
@@ -825,82 +825,82 @@ In either case, the focus shifts from a logical fallacy to a genuine evaluation 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Appeal to tradition  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_tradition](https://en.wikipedia.org/wiki/Appeal_to_tradition)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_tradition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_tradition</a>  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/5201279_Path_Dependence_and_the_Quest_for_Historical_Economics_One_More_chorus_of_Ballad_of_QWERTY](https://www.researchgate.net/publication/5201279_Path_Dependence_and_the_Quest_for_Historical_Economics_One_More_chorus_of_Ballad_of_QWERTY)  
+   Link: <a href="https://www.researchgate.net/publication/5201279_Path_Dependence_and_the_Quest_for_Historical_Economics_One_More_chorus_of_Ballad_of_QWERTY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5201279_Path_Dependence_and_the_Quest_for_Historical_Economics_One_More_chorus_of_Ballad_of_QWERTY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Path Dependence and the Quest for Historical EconomicsThe term path dependence (PD) here refers to a dynamic property of allocative proce...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Survivorship bias and attrition effects in performance  
-   Link: [https://www.researchgate.net/publication/222506221_Survivorship_bias_and_attrition_effects_in_performance_persistence](https://www.researchgate.net/publication/222506221_Survivorship_bias_and_attrition_effects_in_performance_persistence)  
+   Link: <a href="https://www.researchgate.net/publication/222506221_Survivorship_bias_and_attrition_effects_in_performance_persistence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222506221_Survivorship_bias_and_attrition_effects_in_performance_persistence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Survivorship bias and attrition effects in performance...February 1, 1999 — 5 May 2026 — When survival depends on perf...</p></details>
    Published: February 1, 1999  
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/380183206_Survivorship_Care_for_People_Affected_by_Advanced_or_Metastatic_Cancer_MASCC-ASCO_Standards_and_Practice_Recommendations](https://www.researchgate.net/publication/380183206_Survivorship_Care_for_People_Affected_by_Advanced_or_Metastatic_Cancer_MASCC-ASCO_Standards_and_Practice_Recommendations)  
+   Link: <a href="https://www.researchgate.net/publication/380183206_Survivorship_Care_for_People_Affected_by_Advanced_or_Metastatic_Cancer_MASCC-ASCO_Standards_and_Practice_Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380183206_Survivorship_Care_for_People_Affected_by_Advanced_or_Metastatic_Cancer_MASCC-ASCO_Standards_and_Practice_Recommendations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MASCC-ASCO Standards and Practice RecommendationsThe recently published MASCC-ASCO Standards and Practice Recommendations set out standar...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Appeal to Tradition | [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;)  
-   Link: [https://www.youtube.com/watch?v=5jiTWnyliQY](https://www.youtube.com/watch?v=5jiTWnyliQY)  
+   Link: <a href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5jiTWnyliQY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Path Dependency | Explained in 2 min...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ora.ox.ac.uk  
-   Link: [https://ora.ox.ac.uk/objects/uuid%3Ada8832b0-b5b1-48a9-9d41-c25de88980e1/files/m4a38baa88776a396ad4d21e9746b59f1](https://ora.ox.ac.uk/objects/uuid%3Ada8832b0-b5b1-48a9-9d41-c25de88980e1/files/m4a38baa88776a396ad4d21e9746b59f1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford University Research ArchivePath Dependence, its critics, and the quest for &#x27;historical...by P David · 2000 · Cited by 1605 — The...</p></details>
+   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Ada8832b0-b5b1-48a9-9d41-c25de88980e1/files/m4a38baa88776a396ad4d21e9746b59f1" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Ada8832b0-b5b1-48a9-9d41-c25de88980e1/files/m4a38baa88776a396ad4d21e9746b59f1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchivePath Dependence, its critics, and the quest for &#x27;historical...by P David · 2000 · Cited by 1605 — The...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/fallacy-appeal-to-traditiondefinition-and-explanation-the-appeal-to-tradition-fa/599753345482700/](https://www.facebook.com/ThinkingPowers/posts/fallacy-appeal-to-traditiondefinition-and-explanation-the-appeal-to-tradition-fa/599753345482700/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/fallacy-appeal-to-traditiondefinition-and-explanation-the-appeal-to-tradition-fa/599753345482700/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/fallacy-appeal-to-traditiondefinition-and-explanation-the-appeal-to-tradition-fa/599753345482700/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The appeal to tradition fallacy asserts that something is...FALLACY: APPEAL TO TRADITION DEFINITION AND EXPLANATION: The appeal to tradi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: esgs.free.fr  
-   Link: [https://esgs.free.fr/uk/log12.htm](https://esgs.free.fr/uk/log12.htm)  
+   Link: <a href="https://esgs.free.fr/uk/log12.htm" target="_blank" rel="noopener noreferrer nofollow">https://esgs.free.fr/uk/log12.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Survivorship-Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Survivorship-Fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Survivorship-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Survivorship-Fallacy</a>  
 
 10. <a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/biases/survivorship-bias](https://thedecisionlab.com/biases/survivorship-bias)  
+   Link: <a href="https://thedecisionlab.com/biases/survivorship-bias" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/survivorship-bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Survivorship biasSurvivorship bias is a cognitive shortcut that occurs when a visible successful subgroup is mistaken as an entire group...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: mdanderson.org  
-   Link: [https://www.mdanderson.org/cancerwise/remission--cancer-free--no-evidence-of-disease--what-is-the-difference-when-talking-about-cancer-treatment-effectiveness-and-results.h00-159460845.html](https://www.mdanderson.org/cancerwise/remission--cancer-free--no-evidence-of-disease--what-is-the-difference-when-talking-about-cancer-treatment-effectiveness-and-results.h00-159460845.html)  
+   Link: <a href="https://www.mdanderson.org/cancerwise/remission--cancer-free--no-evidence-of-disease--what-is-the-difference-when-talking-about-cancer-treatment-effectiveness-and-results.h00-159460845.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdanderson.org/cancerwise/remission--cancer-free--no-evidence-of-disease--what-is-the-difference-when-talking-about-cancer-treatment-effectiveness-and-results.h00-159460845.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remission, cancer-free, no evidence of disease: What&#x27;s the...12 May 2021 — What does the term “remission” actually mean?...</p></details>
    Published: May 2021  
 
 12. <a id="endnote-12"></a>
    Source: jons-online.com  
-   Link: [https://www.jons-online.com/articles/survivorship-care-plans-initial-evidence-of-impact-on-distress-and-self-efficacy-among-high-risk-cancer-survivors](https://www.jons-online.com/articles/survivorship-care-plans-initial-evidence-of-impact-on-distress-and-self-efficacy-among-high-risk-cancer-survivors)  
+   Link: <a href="https://www.jons-online.com/articles/survivorship-care-plans-initial-evidence-of-impact-on-distress-and-self-efficacy-among-high-risk-cancer-survivors" target="_blank" rel="noopener noreferrer nofollow">https://www.jons-online.com/articles/survivorship-care-plans-initial-evidence-of-impact-on-distress-and-self-efficacy-among-high-risk-cancer-survivors</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>es that survivorship care plans (SCPs) may not yield improvements in cancer survivors&#x27; patient-reported...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=7QZcLkbSW_8](https://www.youtube.com/watch?v=7QZcLkbSW_8)  
+   Link: <a href="https://www.youtube.com/watch?v=7QZcLkbSW_8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7QZcLkbSW_8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Tradition FallacyCritical Thinking: The Fallacy of Appeal to Pity. Critical Thinking, Logic, and Argumentation (ReasonIO) &amp;midd...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ppesydney.net  
-   Link: [https://www.ppesydney.net/](https://www.ppesydney.net/)  
+   Link: <a href="https://www.ppesydney.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.ppesydney.net/</a>  
 
 15. <a id="endnote-15"></a>
    Source: naepcjournal.org  
-   Link: [https://www.naepcjournal.org/issue/47/survivorship-presumptions-and-estates/](https://www.naepcjournal.org/issue/47/survivorship-presumptions-and-estates/)  
+   Link: <a href="https://www.naepcjournal.org/issue/47/survivorship-presumptions-and-estates/" target="_blank" rel="noopener noreferrer nofollow">https://www.naepcjournal.org/issue/47/survivorship-presumptions-and-estates/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shed, by clear and convincing evidence, that they survived the other by...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: paecon.net  
-   Link: [https://www.paecon.net/PAEReview/issue53/whole53.pdf](https://www.paecon.net/PAEReview/issue53/whole53.pdf)  
+   Link: <a href="https://www.paecon.net/PAEReview/issue53/whole53.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.paecon.net/PAEReview/issue53/whole53.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ch in-built motor of development and so suffered repeatedly...Read more...</p></details>

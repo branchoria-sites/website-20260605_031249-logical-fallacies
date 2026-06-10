@@ -1022,183 +1022,183 @@ The best antidote is disciplined modesty. Instead of asking missing evidence to 
 
 1. <a id="endnote-1"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/311/7003/485](https://www.bmj.com/content/311/7003/485)  
+   Link: <a href="https://www.bmj.com/content/311/7003/485" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/311/7003/485</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistics notes: Absence of evidence is not evidence of absence BMJ 1995; 311:485 doi:10.1136/bmj.311.7003.485...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAbsence of evidence is not evidence of absence  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/](https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC351831/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, we need to have some rules for deciding when we are fairly sure that we...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/archives/fall2019/entries/logic-informal/](https://plato.stanford.edu/archives/fall2019/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
 
 4. <a id="endnote-4"></a>
    Source: philarchive.org  
    Title: Phil Archive Inference from absence: the case of archaeology  
-   Link: [https://philarchive.org/archive/WALIFA](https://philarchive.org/archive/WALIFA)  
+   Link: <a href="https://philarchive.org/archive/WALIFA" target="_blank" rel="noopener noreferrer nofollow">https://philarchive.org/archive/WALIFA</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.04587](https://arxiv.org/abs/2305.04587)  
+   Link: <a href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.04587</a>  
 
 6. <a id="endnote-6"></a>
    Source: ks.echr.coe.int  
    Title: ECHR-KSArticle 6 (criminal) Presumption of innocence  
-   Link: [https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence](https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence)  
+   Link: <a href="https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence" target="_blank" rel="noopener noreferrer nofollow">https://ks.echr.coe.int/documents/d/echr-ks/presumption-of-innocence</a>  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8620171/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8620171/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8620171/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8620171/</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2210.13865](https://arxiv.org/abs/2210.13865)  
+   Link: <a href="https://arxiv.org/abs/2210.13865" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.13865</a>  
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: legal probabilism  
-   Link: [https://plato.stanford.edu/archives/sum2021/entries/legal-probabilism/](https://plato.stanford.edu/archives/sum2021/entries/legal-probabilism/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2021/entries/legal-probabilism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2021/entries/legal-probabilism/</a>  
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/spr2013/entries/logic-informal/](https://plato.stanford.edu/archives/spr2013/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/spr2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2013/entries/logic-informal/</a>  
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/sum2025/entries/assertion/](https://plato.stanford.edu/archives/sum2025/entries/assertion/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2025/entries/assertion/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2025/entries/assertion/</a>  
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/anarchism/](https://plato.stanford.edu/entries/anarchism/)  
+   Link: <a href="https://plato.stanford.edu/entries/anarchism/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/anarchism/</a>  
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: temporal parts  
-   Link: [https://plato.stanford.edu/archives/fall2025/entries/temporal-parts/](https://plato.stanford.edu/archives/fall2025/entries/temporal-parts/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2025/entries/temporal-parts/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2025/entries/temporal-parts/</a>  
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/presupposition/](https://plato.stanford.edu/entries/presupposition/)  
+   Link: <a href="https://plato.stanford.edu/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/presupposition/</a>  
 
 16. <a id="endnote-16"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/328/7438/476?page=1&panels_ajax_tab_tab=bmj_related_rapid_responses&panels_ajax_tab_trigger=rapid-responses](https://www.bmj.com/content/328/7438/476?page=1&panels_ajax_tab_tab=bmj_related_rapid_responses&panels_ajax_tab_trigger=rapid-responses)  
+   Link: <a href="https://www.bmj.com/content/328/7438/476?page=1&amp;panels_ajax_tab_tab=bmj_related_rapid_responses&amp;panels_ajax_tab_trigger=rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/328/7438/476?page=1&amp;panels_ajax_tab_tab=bmj_related_rapid_responses&amp;panels_ajax_tab_trigger=rapid-responses</a>  
 
 17. <a id="endnote-17"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/342/bmj.d3126](https://www.bmj.com/content/342/bmj.d3126)  
+   Link: <a href="https://www.bmj.com/content/342/bmj.d3126" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/342/bmj.d3126</a>  
 
 18. <a id="endnote-18"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/311/7003/485/rr](https://www.bmj.com/content/311/7003/485/rr)  
+   Link: <a href="https://www.bmj.com/content/311/7003/485/rr" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/311/7003/485/rr</a>  
 
 19. <a id="endnote-19"></a>
    Source: bmj.com  
    Title: rapid responses  
-   Link: [https://www.bmj.com/content/343/bmj.d3340/rapid-responses](https://www.bmj.com/content/343/bmj.d3340/rapid-responses)  
+   Link: <a href="https://www.bmj.com/content/343/bmj.d3340/rapid-responses" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/343/bmj.d3340/rapid-responses</a>  
 
 20. <a id="endnote-20"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain stateme...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: informallogic.ca  
    Title: Informal Logic On Arguments from Ignorance  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/4697/4356](https://informallogic.ca/index.php/informal_logic/article/view/4697/4356)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/4697/4356" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/4697/4356</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicOn Arguments from Ignorance - Informal LogicMay 30, 2018 — by MD Hinton · 2018 · Cited by 15 — Abstract: The purpose of thi...</p></details>
    Published: May 30, 2018  
 
 22. <a id="endnote-22"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/ignorant.html](https://www.fallacyfiles.org/ignorant.html)  
+   Link: <a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Evidence of absence  
-   Link: [https://en.wikipedia.org/wiki/Evidence_of_absence](https://en.wikipedia.org/wiki/Evidence_of_absence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Evidence_of_absence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Evidence_of_absence</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Presumption of innocence  
-   Link: [https://en.wikipedia.org/wiki/Presumption_of_innocence](https://en.wikipedia.org/wiki/Presumption_of_innocence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presumption_of_innocence</a>  
 
 25. <a id="endnote-25"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/absence](https://dictionary.cambridge.org/dictionary/english/absence)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/absence" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/absence</a>  
 
 26. <a id="endnote-26"></a>
    Source: resolve.cambridge.org  
    Title: the presumption of innocence  
-   Link: [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/68FB4EDCF7374BEBB19966E8B9592B19/9781139093606c7_p199-240_CBO.pdf/the-presumption-of-innocence.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/68FB4EDCF7374BEBB19966E8B9592B19/9781139093606c7_p199-240_CBO.pdf/the-presumption-of-innocence.pdf)  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/68FB4EDCF7374BEBB19966E8B9592B19/9781139093606c7_p199-240_CBO.pdf/the-presumption-of-innocence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/68FB4EDCF7374BEBB19966E8B9592B19/9781139093606c7_p199-240_CBO.pdf/the-presumption-of-innocence.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: anesthesia.healthsci.mcmaster.ca  
    Title: absence of evidence is not evidence of absence  
-   Link: [https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf](https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf)  
+   Link: <a href="https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anesthesia.healthsci.mcmaster.ca/wp-content/uploads/2022/08/absence-of-evidence-is-not-evidence-of-absence.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/ignorance.html](https://philosophy.lander.edu/logic/ignorance.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/ignorance.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
 
 30. <a id="endnote-30"></a>
    Source: qcc.cuny.edu  
    Title: Burden of Proof  
-   Link: [https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm](https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm)  
+   Link: <a href="https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_5_ARGUMENTS_EXPERIENCE/Burden-of-Proof.htm</a>  
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Absence of Evidence Isn't Evidence of Absence--Writing Notes  
-   Link: [https://www.youtube.com/watch?v=u7T_5-1N930](https://www.youtube.com/watch?v=u7T_5-1N930)  
+   Link: <a href="https://www.youtube.com/watch?v=u7T_5-1N930" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u7T_5-1N930</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking: The Fallacy of Argument From Ignorance...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/DebateReligion/comments/dx4ux4/absence_of_evidence_is_not_evidence_of_absence_is/](https://www.reddit.com/r/DebateReligion/comments/dx4ux4/absence_of_evidence_is_not_evidence_of_absence_is/)  
+   Link: <a href="https://www.reddit.com/r/DebateReligion/comments/dx4ux4/absence_of_evidence_is_not_evidence_of_absence_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateReligion/comments/dx4ux4/absence_of_evidence_is_not_evidence_of_absence_is/</a>  
 
 33. <a id="endnote-33"></a>
    Source: labxchange.org  
-   Link: [https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803](https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803)  
+   Link: <a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803</a>  
 
 34. <a id="endnote-34"></a>
    Source: edge.org  
-   Link: [https://www.edge.org/response-detail/10824](https://www.edge.org/response-detail/10824)  
+   Link: <a href="https://www.edge.org/response-detail/10824" target="_blank" rel="noopener noreferrer nofollow">https://www.edge.org/response-detail/10824</a>  
 
 35. <a id="endnote-35"></a>
    Source: effectiviology.com  
-   Link: [https://effectiviology.com/absence-of-evidence-is-not-evidence-of-absence/](https://effectiviology.com/absence-of-evidence-is-not-evidence-of-absence/)  
+   Link: <a href="https://effectiviology.com/absence-of-evidence-is-not-evidence-of-absence/" target="_blank" rel="noopener noreferrer nofollow">https://effectiviology.com/absence-of-evidence-is-not-evidence-of-absence/</a>  
 
 36. <a id="endnote-36"></a>
    Source: txst.edu  
-   Link: [https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html](https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html)  
+   Link: <a href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html" target="_blank" rel="noopener noreferrer nofollow">https://www.txst.edu/philosophy/student-resources/informal-fallacies/appeal-to-ignorance.html</a>  
 
 37. <a id="endnote-37"></a>
    Source: howtowriteaphd.org  
-   Link: [https://howtowriteaphd.org/hypothesis.html](https://howtowriteaphd.org/hypothesis.html)  
+   Link: <a href="https://howtowriteaphd.org/hypothesis.html" target="_blank" rel="noopener noreferrer nofollow">https://howtowriteaphd.org/hypothesis.html</a>  
 
 38. <a id="endnote-38"></a>
    Source: cps.gov.uk  
-   Link: [https://www.cps.gov.uk/about-cps/how-a-criminal-case-works](https://www.cps.gov.uk/about-cps/how-a-criminal-case-works)  
+   Link: <a href="https://www.cps.gov.uk/about-cps/how-a-criminal-case-works" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/about-cps/how-a-criminal-case-works</a>  
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/b0rygm/is_absence_of_evidence_evidence_of_absence/](https://www.reddit.com/r/askphilosophy/comments/b0rygm/is_absence_of_evidence_evidence_of_absence/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/b0rygm/is_absence_of_evidence_evidence_of_absence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/b0rygm/is_absence_of_evidence_evidence_of_absence/</a>  
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/](https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/</a>  

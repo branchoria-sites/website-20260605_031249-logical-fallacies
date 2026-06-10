@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_l
 
 ## Introduction
 
-In live [debate]({{ 'debate/' | relative_url }}), naming a fallacy is often less important than explaining the mistake. A label such as “straw man”, “[false dilemma]({{ 'false-dilemma/' | relative_url }})”, or “ad hominem” can be useful shorthand, but it only helps an audience if they also understand what reasoning step failed and why that failure matters. Argumentation scholars generally treat fallacies as defects in the process of resolving a disagreement, not as magic words that end a discussion. A fallacy label identifies a problem; an explanation shows the audience the problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe Pragma-Dialectical Theory of ArgumentationThis chapter discusses the pragma-dialectical approach developed in the Netherlands...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">more...</span></span></span>
+In live [debate]({{ 'debate/' | relative_url }}), naming a fallacy is often less important than explaining the mistake. A label such as “straw man”, “[false dilemma]({{ 'false-dilemma/' | relative_url }})”, or “ad hominem” can be useful shorthand, but it only helps an audience if they also understand what reasoning step failed and why that failure matters. Argumentation scholars generally treat fallacies as defects in the process of resolving a disagreement, not as magic words that end a discussion. A fallacy label identifies a problem; an explanation shows the audience the problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Pragma-Dialectical Theory of ArgumentationThis chapter discusses the pragma-dialectical approach developed in the Netherlands...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-1-dark.svg" | relative_url }}" alt="Labels illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -321,7 +321,7 @@ There is also a strategic risk. Public arguments sometimes turn into disputes ab
 
 This risk is especially clear with commonly misunderstood fallacies. The ad hominem label, for example, is often applied too broadly. Not every criticism of a person is fallacious. The key question is whether the personal criticism is being used as a substitute for answering the argument. Determining that requires explanation, not merely naming the category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span>
 
-Research and theory on argumentation repeatedly emphasise that the central issue is whether a move advances or obstructs reasonable discussion. Simply attaching a fallacy name does not demonstrate that the move actually failed that test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe Pragma-Dialectical Theory of ArgumentationThis chapter discusses the pragma-dialectical approach developed in the Netherlands...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">more...</span></span></span>
+Research and theory on argumentation repeatedly emphasise that the central issue is whether a move advances or obstructs reasonable discussion. Simply attaching a fallacy name does not demonstrate that the move actually failed that test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Pragma-Dialectical Theory of ArgumentationThis chapter discusses the pragma-dialectical approach developed in the Netherlands...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
 In live debate, jargon can also create an image problem. Audiences may perceive repeated fallacy-calling as scorekeeping rather than reasoning. A speaker who constantly announces labels can appear more interested in winning technical points than answering the underlying issue.
 
@@ -341,7 +341,7 @@ They ask:
 
 Instead of saying:
 
-> “That is an [appeal to popularity]({{ 'popularity/' | relative_url }}).”
+> “That is an appeal to popularity.”
 
 They ask:
 
@@ -372,7 +372,7 @@ Persuasion depends on showing the audience a defect, not merely naming one.
 
 A fallacy label functions like a diagnosis. A plain-language explanation functions like evidence for that diagnosis. Without the second step, listeners must trust the speaker's expertise rather than see the problem for themselves.
 
-This distinction mirrors a broader insight from argumentation theory. The goal is not merely to identify violations but to demonstrate how those violations interfere with the evaluation of a claim. A discussion advances when participants make reasoning visible. It stalls when participants trade accusations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Pragma-Dialectical Procedure for a Critical DiscussionPDF | According to the pragma-dialectical ideal of reasonableness, in case of a d...</span></span></span>
+This distinction mirrors a broader insight from argumentation theory. The goal is not merely to identify violations but to demonstrate how those violations interfere with the evaluation of a claim. A discussion advances when participants make reasoning visible. It stalls when participants trade accusations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Pragma-Dialectical Procedure for a Critical DiscussionPDF &#124; According to the pragma-dialectical ideal of reasonableness, in case of a d...</span></span></span>
 
 Consider two responses:
 
@@ -503,7 +503,7 @@ The practical lesson is simple: a fallacy label is a shortcut, not an argument. 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -512,78 +512,94 @@ The practical lesson is simple: a fallacy label is a shortcut, not an argument. 
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Rules Student Education Inspiration Sign Teacher School Metal Plaque"><img src="{{ '/assets/images/marketplace-covers/2343d3639bef5e1b0bcb.jpg' | relative_url }}" alt="Listing image for Classroom Rules Student Education Inspiration Sign Teacher School Metal Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster"><img src="https://i.ebayimg.com/images/g/as0AAeSw3JRp0vdN/s-l225.jpg" alt="Listing image for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Classroom Rules Student Education Inspiration Sign Teacher School Metal Plaque</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate classroom sign">Search <span data-ebay-domain-label>eBay.com</span>: debate classroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Classroom Decor Sign, High Middle School Classroom Decor English Math Scie"><img src="{{ '/assets/images/marketplace-covers/4583226446ff67e0b21a.jpg' | relative_url }}" alt="Listing image for Funny Classroom Decor Sign, High Middle School Classroom Decor English Math Scie" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSw3w1p1~TM/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Classroom Decor Sign, High Middle School Classroom Decor English Math Scie</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate classroom sign">Search <span data-ebay-domain-label>eBay.com</span>: debate classroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TIN SIGN new 8x12 Voice argue argument classroom law student lawyer debate (CC)"><img src="{{ '/assets/images/marketplace-covers/218c0486b8de0e67386d.jpg' | relative_url }}" alt="Listing image for TIN SIGN new 8x12 Voice argue argument classroom law student lawyer debate (CC)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019"><img src="https://i.ebayimg.com/images/g/dZkAAOSwaNRc0NyW/s-l225.jpg" alt="Listing image for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">TIN SIGN new 8x12 Voice argue argument classroom law student lawyer debate (CC)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate classroom sign">Search <span data-ebay-domain-label>eBay.com</span>: debate classroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classroom Decor Sign The “A-Z “Classroom Encouraging Words From Teacher Sz12x8"><img src="{{ '/assets/images/marketplace-covers/8d2b6437db61fb524e09.jpg' | relative_url }}" alt="Listing image for Classroom Decor Sign The “A-Z “Classroom Encouraging Words From Teacher Sz12x8" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="https://i.ebayimg.com/images/g/TFEAAOSwCm9nqP-h/s-l225.jpg" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Classroom Decor Sign The “A-Z “Classroom Encouraging Words From Teacher Sz12x8</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate classroom sign">Search <span data-ebay-domain-label>eBay.com</span>: debate classroom sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=debate+classroom+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labels-6f7ad9-should-you-name-the-fallacy-logical-fallacies-debate-classroom-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-name-the-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="should-you-name-the-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -659,17 +675,31 @@ The practical lesson is simple: a fallacy label is a shortcut, not an argument. 
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -682,42 +712,73 @@ The practical lesson is simple: a fallacy label is a shortcut, not an argument. 
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -732,125 +793,129 @@ The practical lesson is simple: a fallacy label is a shortcut, not an argument. 
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10](https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe Pragma-Dialectical Theory of ArgumentationThis chapter discusses the pragma-dialectical approach developed in the Netherlands...</p></details>
+   Link: <a href="https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pragma-Dialectical Theory of ArgumentationThis chapter discusses the pragma-dialectical approach developed in the Netherlands...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10503-023-09605-w](https://link.springer.com/article/10.1007/s10503-023-09605-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10503-023-09605-w</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: philpapers.org  
    Title: VANFIP 2  
-   Link: [https://philpapers.org/rec/VANFIP-2](https://philpapers.org/rec/VANFIP-2)  
+   Link: <a href="https://philpapers.org/rec/VANFIP-2" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/VANFIP-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies in pragma-dialectical perspective.by FH Van Eemeren · 1987 · Cited by 319 — In the pragma-dialectical approach, fallacies are c...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion](https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion)  
+   Link: <a href="https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226696541_A_Pragma-Dialectical_Procedure_for_a_Critical_Discussion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Pragma-Dialectical Procedure for a Critical DiscussionPDF | According to the pragma-dialectical ideal of reasonableness, in case of a d...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368474532_The_Pragma-Dialectical_Approach_to_the_Fallacies_Revisited](https://www.researchgate.net/publication/368474532_The_Pragma-Dialectical_Approach_to_the_Fallacies_Revisited)  
+   Link: <a href="https://www.researchgate.net/publication/368474532_The_Pragma-Dialectical_Approach_to_the_Fallacies_Revisited" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368474532_The_Pragma-Dialectical_Approach_to_the_Fallacies_Revisited</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pragma-Dialectical Approach to the Fallacies RevisitedFeb 13, 2023 — This article explains the design and development of the pragma-d...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: humanities.mcmaster.ca  
-   Link: [https://www.humanities.mcmaster.ca/~hitchckd/advances.htm](https://www.humanities.mcmaster.ca/~hitchckd/advances.htm)  
+   Link: <a href="https://www.humanities.mcmaster.ca/~hitchckd/advances.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.mcmaster.ca/~hitchckd/advances.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in Pragma-DialecticsVan Eemeren and Grootendorst (1992) propose ten rules for the conduct of this type of conversation, called a “critica...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical FallaciesFallacies are fake or deceptive arguments, &quot;junk cognition,&quot; that is, arguments that seem irrefutable but prove...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies](https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Pseudo-Logical-Fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pseudo-Logical FallaciesThis is a complex topic in epistemology and too nuanced to call simply label a fallacy. See argument from ignoran...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: viva.pressbooks.pub  
-   Link: [https://viva.pressbooks.pub/phi220ethics/chapter/identifying-fallacious-reasoning/](https://viva.pressbooks.pub/phi220ethics/chapter/identifying-fallacious-reasoning/)  
+   Link: <a href="https://viva.pressbooks.pub/phi220ethics/chapter/identifying-fallacious-reasoning/" target="_blank" rel="noopener noreferrer nofollow">https://viva.pressbooks.pub/phi220ethics/chapter/identifying-fallacious-reasoning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We call a fallacy an error of reasoning if it occurs accidentally; we call it a trick of reasoning if a speaker or...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/ad-hominem-fallacy-latin-for-to-the-person-the-ad-hominem-fallacy-is-a-personal-/421297576259194/](https://www.facebook.com/ThinkingPowers/posts/ad-hominem-fallacy-latin-for-to-the-person-the-ad-hominem-fallacy-is-a-personal-/421297576259194/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/ad-hominem-fallacy-latin-for-to-the-person-the-ad-hominem-fallacy-is-a-personal-/421297576259194/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/ad-hominem-fallacy-latin-for-to-the-person-the-ad-hominem-fallacy-is-a-personal-/421297576259194/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Essentially, instead of addressing the substance of an argument, someone is attempting to discredit the argument...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: anekawarnapendidikan.wordpress.com  
    Title: a systematic theory of argumentation by frans h van eemeren1  
-   Link: [https://anekawarnapendidikan.wordpress.com/wp-content/uploads/2014/04/a-systematic-theory-of-argumentation-by-frans-h-van-eemeren1.pdf](https://anekawarnapendidikan.wordpress.com/wp-content/uploads/2014/04/a-systematic-theory-of-argumentation-by-frans-h-van-eemeren1.pdf)  
+   Link: <a href="https://anekawarnapendidikan.wordpress.com/wp-content/uploads/2014/04/a-systematic-theory-of-argumentation-by-frans-h-van-eemeren1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://anekawarnapendidikan.wordpress.com/wp-content/uploads/2014/04/a-systematic-theory-of-argumentation-by-frans-h-van-eemeren1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic Theory of Argumentation: The pragma-...In this approach, pragmatic and dialectical insights are combined by con- ceiving a cr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: download.mmag.hrz.tu-darmstadt.de  
-   Link: [https://download.mmag.hrz.tu-darmstadt.de/media/FB20/Dekanat/Publikationen/UKP/2018_NAACL_BeforeName_IH-HW-IG-BS.pdf](https://download.mmag.hrz.tu-darmstadt.de/media/FB20/Dekanat/Publikationen/UKP/2018_NAACL_BeforeName_IH-HW-IG-BS.pdf)  
+   Link: <a href="https://download.mmag.hrz.tu-darmstadt.de/media/FB20/Dekanat/Publikationen/UKP/2018_NAACL_BeforeName_IH-HW-IG-BS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://download.mmag.hrz.tu-darmstadt.de/media/FB20/Dekanat/Publikationen/UKP/2018_NAACL_BeforeName_IH-HW-IG-BS.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But even when debating rules are strictly enforced and fallacious...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Can you outsmart this logical fallacy?  
-   Link: [https://www.youtube.com/watch?v=Ghbkv0MKV-w](https://www.youtube.com/watch?v=Ghbkv0MKV-w)  
+   Link: <a href="https://www.youtube.com/watch?v=Ghbkv0MKV-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ghbkv0MKV-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Naming fallacies versus explaining them debate Logical Fallacy EXPOSED 💣 Daily Dose Of Wisdom...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4266019/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>case of the slippery slope and the ad hominem argumentsby M Lillo-Unglaube · 2014 · Cited by 13 — Following this approach, the ad hominem...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aclanthology.org  
    Title: 2025.argmining 1.1  
-   Link: [https://aclanthology.org/2025.argmining-1.1.pdf](https://aclanthology.org/2025.argmining-1.1.pdf)  
+   Link: <a href="https://aclanthology.org/2025.argmining-1.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.argmining-1.1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>van Eemeren and. Rob Grootendorst. You are specifically concerned with fallacies in Pragma Di-.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: How to Spot [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) (Featuring Joe Rogan and Ben Shapiro)  
-   Link: [https://www.youtube.com/watch?v=P3w6LTkRCZQ](https://www.youtube.com/watch?v=P3w6LTkRCZQ)  
+   Link: <a href="https://www.youtube.com/watch?v=P3w6LTkRCZQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P3w6LTkRCZQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Can you outsmart this logical fallacy? - Alex Gendler...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>

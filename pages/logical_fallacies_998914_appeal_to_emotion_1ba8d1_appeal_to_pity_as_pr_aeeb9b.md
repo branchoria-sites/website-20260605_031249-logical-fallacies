@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:22:23'
 parent_title: When Does Emotion Replace Evidence? | Fallacy Lab
 parent_permalink: /emotion/
 parent_nav_short_title: Emotion
@@ -265,7 +266,6 @@ next_link:
   permalink: /threats/
   short_title: Threats
   heading_title: Why Threats Are Not Evidence
-date: '2026-06-05 02:22:23 '
 header:
   og_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_appeal_to_pity_as_pr_aeeb9b-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_appeal_to_pity_as_pr_aeeb9b-Illustration-1.webp
@@ -284,7 +284,7 @@ This distinction matters because many important decisions involve both evidence 
 
 The mechanism behind the fallacy is a shift in the question being answered.
 
-A factual question asks: *What evidence supports this claim?* An appeal to pity quietly substitutes a different question: *How bad would I feel if I rejected this person?* When the substitution succeeds, the audience stops evaluating evidence and starts evaluating suffering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoking feelings of guilt o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-[emotion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span>
+A factual question asks: *What evidence supports this claim?* An appeal to pity quietly substitutes a different question: *How bad would I feel if I rejected this person?* When the substitution succeeds, the audience stops evaluating evidence and starts evaluating suffering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to pity</span><span class="citation-popover-snippet">Fallacy &#124; Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoking feelings of guilt o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to emotion</span><span class="citation-popover-snippet">Fallacy &#124; Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</span></span></span>
 
 The classic structure looks like this:
 
@@ -309,7 +309,7 @@ For example:
 
 </div>
 
-In each case, the hardship may be genuine. What is missing is a logical connection between the hardship and the conclusion being asserted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The handout provides definitions, examples...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad misericordiam</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad misericordiam | logicFeb 13, 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguin...</span></span></span>
+In each case, the hardship may be genuine. What is missing is a logical connection between the hardship and the conclusion being asserted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The handout provides definitions, examples...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad misericordiam</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad misericordiam &#124; logicFeb 13, 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguin...</span></span></span>
 
 A useful test is to ask whether the conclusion would still require evidence even if everyone agreed the suffering was real. If the answer is yes, pity is not functioning as evidence.
 
@@ -350,10 +350,10 @@ A student's illness, financial difficulties or family crisis may justify flexibi
 
 Legal systems frequently distinguish questions of guilt from questions of punishment.
 
-A defence lawyer may properly argue that a defendant's circumstances deserve consideration during sentencing. The fallacy emerges when sympathy for the defendant or family is used as evidence that the defendant did not commit the act in question. Encyclopaedia Britannica uses the courtroom setting as a classic illustration of appeal to pity: an attorney seeks sympathy for a client rather than providing evidence relevant to innocence or guilt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad misericordiam</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad misericordiam | logicFeb 13, 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguin...</span></span></span>
+A defence lawyer may properly argue that a defendant's circumstances deserve consideration during sentencing. The fallacy emerges when sympathy for the defendant or family is used as evidence that the defendant did not commit the act in question. Encyclopaedia Britannica uses the courtroom setting as a classic illustration of appeal to pity: an attorney seeks sympathy for a client rather than providing evidence relevant to innocence or guilt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad misericordiam</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad misericordiam &#124; logicFeb 13, 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguin...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LShYAhqpwJ0" title="Appeal to Force (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LShYAhqpwJ0" target="_blank" rel="noopener noreferrer">Appeal to Force (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 16.4K &middot; Uploaded: February 2014 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LShYAhqpwJ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LShYAhqpwJ0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWbM1pvFqhc" title="Understanding Fallacies: The Logic of Flawed Arguments - Essay Example" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWbM1pvFqhc" target="_blank" rel="noopener noreferrer">Understanding Fallacies: The Logic of Flawed Arguments - Essay Example</a></p><p class="youtube-embed-meta">Channel: Essay Zone &middot; Views: 33 &middot; Uploaded: September 2025 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWbM1pvFqhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWbM1pvFqhc">Open on YouTube</a></p></div></div></div>
 
 ### Hiring and Employment
 
@@ -368,7 +368,7 @@ Public arguments frequently feature compelling personal stories.
 Individual stories can reveal important consequences of policies and help audiences understand human impacts. Problems arise when a single moving case is treated as proof of a broader factual claim without supporting evidence. A heartbreaking story may show that something happened; it does not necessarily show how common it is, what caused it, or whether a proposed solution will work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 417 — The fallacy ad mise...</span></span></span> Encyclopedia of Philosophy
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jWbM1pvFqhc" title="Understanding Fallacies: The Logic of Flawed Arguments - Essay Example" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jWbM1pvFqhc" target="_blank" rel="noopener noreferrer">Understanding Fallacies: The Logic of Flawed Arguments - Essay Example</a></p><p class="youtube-embed-meta">Channel: Essay Zone &middot; Views: 33 &middot; Uploaded: September 2025 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jWbM1pvFqhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jWbM1pvFqhc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LShYAhqpwJ0" title="Appeal to Force (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LShYAhqpwJ0" target="_blank" rel="noopener noreferrer">Appeal to Force (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 16.4K &middot; Uploaded: February 2014 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LShYAhqpwJ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LShYAhqpwJ0">Open on YouTube</a></p></div></div></div>
 
 ## Why Real Suffering Can Still Mislead
 
@@ -822,173 +822,173 @@ The goal is not to become indifferent. Good reasoning does not require ignoring 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Fallacies  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 417 — The fallacy ad mise...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
    Title: argumentum ad misericordiam  
-   Link: [https://www.britannica.com/topic/argumentum-ad-misericordiam](https://www.britannica.com/topic/argumentum-ad-misericordiam)  
+   Link: <a href="https://www.britannica.com/topic/argumentum-ad-misericordiam" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-misericordiam</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaArgumentum ad misericordiam | logicFeb 13, 2026 — an appeal “to pity”), as when a trial lawyer, rather than arguin...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 96 — Appeals to pit...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scribbr.com  
    Title: appeal to pity  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-pity/](https://www.scribbr.com/fallacies/appeal-to-pity/)  
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-pity/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-pity/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy | Definition &amp; ExamplesAug 7, 2023 — The appeal to pity fallacy is an attempt to persuade others by provoking feelings of guilt o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: scribbr.com  
-   Title: [appeal to emotion](&#123;&#123; 'emotion/' | relative_url &#125;&#125;)  
-   Link: [https://www.scribbr.com/fallacies/appeal-to-[emotion](https://www.scribbr.com/fallacies/appeal-to-[emotion)  
+   Title: appeal to [emotion](&#123;&#123; 'emotion/' | relative_url &#125;&#125;)  
+   Link: <a href="https://www.scribbr.com/fallacies/appeal-to-emotion/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/appeal-to-emotion/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy | Definition &amp; ExamplesJul 26, 2023 — Appeal to emotion fallacy occurs when someone attempts to convince another person by evokin...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Applied logic  
-   Link: [https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies](https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies)  
+   Link: <a href="https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic/Nonverbal-fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaApplied logic - Nonverbal FallaciesSome so-called fallacies are not mistakes in reasoning but rather illicit rheto...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: britannica.com  
    Title: argumentum ad verecundiam  
-   Link: [https://www.britannica.com/topic/argumentum-ad-verecundiam](https://www.britannica.com/topic/argumentum-ad-verecundiam)  
+   Link: <a href="https://www.britannica.com/topic/argumentum-ad-verecundiam" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argumentum-ad-verecundiam</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>logicFeb 13, 2026 — Argument ad verecundiam (an appeal “to awe”), which seeks to secure acceptance of the conclusion on the grounds of it...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; ExamplesFeb 13, 2026 — An argument may be fallacious in three ways: in its material content, through a misstatement o...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: britannica.com  
    Title: argument logic  
-   Link: [https://www.britannica.com/topic/argument-logic](https://www.britannica.com/topic/argument-logic)  
+   Link: <a href="https://www.britannica.com/topic/argument-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/argument-logic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument | logic1 Apr 2026 — Erroneous arguments are called fallacies in logic (see fallacy). In mathematics, an argument is a variable i...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: britannica.com  
    Title: circular argument  
-   Link: [https://www.britannica.com/topic/circular-argument](https://www.britannica.com/topic/circular-argument)  
+   Link: <a href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/circular-argument</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Examples, &amp; FactsFeb 13, 2026 — A circular argument&#x27;s premise explicitly or implicitly assumes that its conclusion i...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/applied-logic](https://www.britannica.com/topic/applied-logic)  
+   Link: <a href="https://www.britannica.com/topic/applied-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/applied-logic</a>  
 
 12. <a id="endnote-12"></a>
    Source: britannica.com  
    Title: What Is the Either-Or Fallacy?  
-   Link: [https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy](https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| [False Dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;), Dichotomy...13 Feb 2026 — The either-or fallacy presents only two options as the only possibilities, ignoring other alt...</p></details>
+   Link: <a href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[False Dilemma](&amp;#123;&amp;#123; &#x27;false-dilemma/&#x27; | relative_url &amp;#125;&amp;#125;), Dichotomy...13 Feb 2026 — The either-or fallacy presents only [two options](&amp;#123;&amp;#123; &#x27;two-options/&#x27; | relative_url &amp;#125;&amp;#125;) as the only possibilities, i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribbr.com  
    Title: What is argumentum ad misericordiam?  
-   Link: [https://www.scribbr.com/frequently-asked-questions/what-is-argumentum-ad-misericordiam/](https://www.scribbr.com/frequently-asked-questions/what-is-argumentum-ad-misericordiam/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/what-is-argumentum-ad-misericordiam/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/what-is-argumentum-ad-misericordiam/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FallaciesArgumentum ad misericordiam (Latin for “argument from pity or misery”) is another name for appeal to pity fallacy. It occurs whe...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2013/entries/logic-informal/](https://plato.stanford.edu/archives/fall2013/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ad hominem (“against the person”), slippery slope, ad bacculum (“appeal to force”), ad misericordiam (“appeal to pity”), “hasty...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: seop.illc.uva.nl  
-   Link: [https://seop.illc.uva.nl/entries/fallacies/](https://seop.illc.uva.nl/entries/fallacies/)  
+   Link: <a href="https://seop.illc.uva.nl/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies29 May 2015 — The fallacy ad misericordiam is a companion to the ad baculum fallacy: it occur...</p></details>
    Published: May 2015  
 
 16. <a id="endnote-16"></a>
    Source: philosophy.lander.edu  
    Title: Philosophy Home Page Argumentum ad Misericordiam  
-   Link: [https://philosophy.lander.edu/logic/misery.html](https://philosophy.lander.edu/logic/misery.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/misery.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/misery.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageArgumentum ad MisericordiamAbstract: The ad misericordiam fallacy illicitly appeals to pity or a related emotion such...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Fallacies  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The handout provides definitions, examples...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem, Appeal to Pity, and Affirming the Consequent are all fallacies of relevance. (2) Accent, Amphiboly and Equivocation are examples...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Appeal to pity  
-   Link: [https://en.wikipedia.org/wiki/Appeal_to_pity](https://en.wikipedia.org/wiki/Appeal_to_pity)  
+   Link: <a href="https://en.wikipedia.org/wiki/Appeal_to_pity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Appeal_to_pity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to pityAn appeal to pity (also called argumentum ad misericordiam) is a fallacy in which someone improperly appeals to pity or...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical FallaciesThe Appeal to Pity: (also, &quot;Argumentum ad Miserecordiam&quot;): The fallacy of urging an audience to “root for the un...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pt.scribd.com  
    Title: Ad Misericordiam Logic  
-   Link: [https://pt.scribd.com/presentation/435595176/Ad-Misericordiam-Logic](https://pt.scribd.com/presentation/435595176/Ad-Misericordiam-Logic)  
+   Link: <a href="https://pt.scribd.com/presentation/435595176/Ad-Misericordiam-Logic" target="_blank" rel="noopener noreferrer nofollow">https://pt.scribd.com/presentation/435595176/Ad-Misericordiam-Logic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Misericordiam Fallacy | PDFThe document defines and discusses the argumentum ad misericordiam fallacy, also known as an appeal to pity...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: studocu.com  
-   Link: [https://www.studocu.com/row/document/malawi-university-of-business-and-applied-science/social-psychology/fallacies-the-writing-center/146492340](https://www.studocu.com/row/document/malawi-university-of-business-and-applied-science/social-psychology/fallacies-the-writing-center/146492340)  
+   Link: <a href="https://www.studocu.com/row/document/malawi-university-of-business-and-applied-science/social-psychology/fallacies-the-writing-center/146492340" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/row/document/malawi-university-of-business-and-applied-science/social-psychology/fallacies-the-writing-center/146492340</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies The Writing CenterIf, however, we try to get readers to agree with us simply by impressing them with a famous name or by appeal...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity](https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Pity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to PityDescription: The attempt to distract from the truth of the conclusion by the use of pity. Logical Forms: Person 1 is accuse...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: montgomerycollege.edu  
-   Link: [https://www.montgomerycollege.edu/_documents/academics/support/learning-centers/writing-reading-learning-ctr-rockville/student-resources-tech/fallacies.pdf](https://www.montgomerycollege.edu/_documents/academics/support/learning-centers/writing-reading-learning-ctr-rockville/student-resources-tech/fallacies.pdf)  
+   Link: <a href="https://www.montgomerycollege.edu/_documents/academics/support/learning-centers/writing-reading-learning-ctr-rockville/student-resources-tech/fallacies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.montgomerycollege.edu/_documents/academics/support/learning-centers/writing-reading-learning-ctr-rockville/student-resources-tech/fallacies.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RHETORIC FallaciesArgumentum Ad Misericordiam (Appeal To Pity):​ appealing to a person&#x27;s unfortunate circumstance as a way of getting som...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: unr.edu  
-   Link: [https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies)  
+   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
 
 26. <a id="endnote-26"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40matt.drabek/when-is-it-a-fallacy-to-appeal-to-emotion-cdbb520e230b](https://medium.com/%40matt.drabek/when-is-it-a-fallacy-to-appeal-to-emotion-cdbb520e230b)  
+   Link: <a href="https://medium.com/%40matt.drabek/when-is-it-a-fallacy-to-appeal-to-emotion-cdbb520e230b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40matt.drabek/when-is-it-a-fallacy-to-appeal-to-emotion-cdbb520e230b</a>  
 
 27. <a id="endnote-27"></a>
    Source: fallacyguide.com  
    Title: •Impact: Appeal to Pity distorts reasoning by Feeling sorry for someone  
-   Link: [https://fallacyguide.com/fallacies/appeal-to-pity](https://fallacyguide.com/fallacies/appeal-to-pity)  
+   Link: <a href="https://fallacyguide.com/fallacies/appeal-to-pity" target="_blank" rel="noopener noreferrer nofollow">https://fallacyguide.com/fallacies/appeal-to-pity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Pity Fallacy: Definition, Examples &amp; How to Fix ItDefinition: Seeks agreement by invoking sympathy rather than offering relevan...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: quizlet.com  
    Title: [Logical Fallacies](&#123;&#123; 'logical-fallacies/' | relative_url &#125;&#125;) (The Writing Center, UNC-Chapel Hill)(D) Appeal to Pity  
-   Link: [https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/](https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/)  
+   Link: <a href="https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A fallacy in which someone tries to win support for an argument or idea by exploiting one&#x27;s opponent&#x27;s feelings of pity or guilt. (D)...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html](https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/appeal-to-pity-fallacy-definition-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Pity Fallacy | Definition &amp; Examples - LessonExample of an appeal to pity fallacy: My children will starve if you fire me, boss...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: coursehero.com  
-   Link: [https://www.coursehero.com/file/251599121/Fallacies-The-Writing-Center-University-of-North-Carolina-at-Chapel-Hill-1pdf/](https://www.coursehero.com/file/251599121/Fallacies-The-Writing-Center-University-of-North-Carolina-at-Chapel-Hill-1pdf/)  
+   Link: <a href="https://www.coursehero.com/file/251599121/Fallacies-The-Writing-Center-University-of-North-Carolina-at-Chapel-Hill-1pdf/" target="_blank" rel="noopener noreferrer nofollow">https://www.coursehero.com/file/251599121/Fallacies-The-Writing-Center-University-of-North-Carolina-at-Chapel-Hill-1pdf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Fallacies: Strengthen Your Writing Arguments...Sep 16, 2025 — Fallacies - The Writing Center • University of North Carolina...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: thoughtco.com  
    Title: Definition and Examples of Argumentum Ad Misericordiam  
-   Link: [https://www.thoughtco.com/what-is-ad-misericordiam-1688966](https://www.thoughtco.com/what-is-ad-misericordiam-1688966)  
+   Link: <a href="https://www.thoughtco.com/what-is-ad-misericordiam-1688966" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/what-is-ad-misericordiam-1688966</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2025 — When an appeal to sympathy or pity is highly exaggerated or irrelevant to the issue at hand, ​ad misericordiam is regarded...</p></details>
    Published: May 17, 2025  

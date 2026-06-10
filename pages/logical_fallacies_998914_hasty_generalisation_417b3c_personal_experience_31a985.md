@@ -278,13 +278,13 @@ Personal experience is powerful evidence that something happened. If a person sa
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_personal_experience_31a985-Illustration-1-dark.svg" | relative_url }}" alt="Experience illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_personal_experience_31a985-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_personal_experience_31a985-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader family of weak-sample fallacies, personal anecdotes are especially persuasive because they are vivid, memorable, and emotionally engaging. Research on [anecdotal evidence]({{ 'anecdotes/' | relative_url }}) consistently finds that personal stories can strongly influence beliefs and decisions, sometimes even when broader statistical evidence points in a different direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhen and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either artificial or...</span></span></span> The challenge is not to ignore experience, but to use it appropriately.
+Within the broader family of weak-sample fallacies, personal anecdotes are especially persuasive because they are vivid, memorable, and emotionally engaging. Research on anecdotal evidence consistently finds that personal stories can strongly influence beliefs and decisions, sometimes even when broader statistical evidence points in a different direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhen and why do people act on flawed science?</span><span class="citation-popover-snippet">Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either artificial or...</span></span></span> The challenge is not to ignore experience, but to use it appropriately.
 
 ## What Anecdotes Are Good Evidence For
 
 A personal story can establish that an event occurred, or at least that someone sincerely reports it occurred. In many contexts, this is valuable information.
 
-If a customer reports that a product failed, the anecdote is evidence that at least one customer encountered a problem. If a patient describes an unexpected reaction to a treatment, the account may identify a possible issue worth investigating. If multiple people independently report similar experiences, those reports can help researchers, journalists, regulators, or organisations identify patterns that deserve further study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/9818068/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedUsing anecdotal information in evidence-based health careby MW Enkin · 1998 · Cited by 146 — Anecdotal information should not be co...</span></span></span>
+If a customer reports that a product failed, the anecdote is evidence that at least one customer encountered a problem. If a patient describes an unexpected reaction to a treatment, the account may identify a possible issue worth investigating. If multiple people independently report similar experiences, those reports can help researchers, journalists, regulators, or organisations identify patterns that deserve further study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/9818068/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using anecdotal information in evidence-based health careby MW Enkin · 1998 · Cited by 146 — Anecdotal information should not be co...</span></span></span>
 
 This is why personal experience often plays an important role in discovering problems. Many investigations begin with individual reports rather than large datasets. An anecdote can function as:
 
@@ -324,7 +324,7 @@ Suppose someone says, “I had three delayed trains this week, so the rail syste
 
 A similar issue appears in debates about healthcare, education, policing, consumer products, and public policy. Individual experiences can reveal what is possible. They do not automatically reveal what is typical.
 
-Researchers distinguish between evidence that demonstrates occurrence and evidence that estimates prevalence. To know how common something is, we need information about a wider population, collected in a way that is not dominated by unusual cases or selective reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv We need to talk about nonprobability samples</span><span class="citation-popover-snippet">arXivWe need to talk about nonprobability samplesOctober 13, 2022...</span><span class="citation-popover-meta">Published: October 13, 2022</span></span></span>
+Researchers distinguish between evidence that demonstrates occurrence and evidence that estimates prevalence. To know how common something is, we need information about a wider population, collected in a way that is not dominated by unusual cases or selective reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv We need to talk about nonprobability samples</span><span class="citation-popover-snippet">We need to talk about nonprobability samplesOctober 13, 2022...</span><span class="citation-popover-meta">Published: October 13, 2022</span></span></span>
 
 A useful comparison is:
 
@@ -334,7 +334,7 @@ The fallacy occurs when evidence suited to the first two questions is treated as
 
 ## Why Our Own Experiences Feel More Representative Than They Are
 
-People naturally place great weight on personal experience because it is direct and emotionally meaningful. Psychological research suggests that vivid and easily recalled examples often influence judgments more strongly than abstract statistics. This tendency is closely related to the availability heuristic, a mental shortcut in which people estimate likelihood based on how easily examples come to mind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/availability-heuristic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">availability heuristic</span><span class="citation-popover-snippet">and Decision Making10 Jul 2023 — The availability heuristic is a mental shortcut where individuals judge the likelihood of an event based...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/bias-in-research/availability-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr The Availability Heuristic | Example &amp; Definition</span><span class="citation-popover-snippet">The Availability Heuristic | Example &amp; Definition - Scribbr7 Dec 2022 — The availability heuristic occurs when we judge the likelihood of...</span></span></span> That creates several common errors.
+People naturally place great weight on personal experience because it is direct and emotionally meaningful. Psychological research suggests that vivid and easily recalled examples often influence judgments more strongly than abstract statistics. This tendency is closely related to the availability heuristic, a mental shortcut in which people estimate likelihood based on how easily examples come to mind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/availability-heuristic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">availability heuristic</span><span class="citation-popover-snippet">and Decision Making10 Jul 2023 — The availability heuristic is a mental shortcut where individuals judge the likelihood of an event based...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/bias-in-research/availability-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">Scribbr The Availability Heuristic &#124; Example &amp; Definition</span><span class="citation-popover-snippet">The Availability Heuristic &#124; Example &amp; Definition - Scribbr7 Dec 2022 — The availability heuristic occurs when we judge the likelihood of...</span></span></span> That creates several common errors.
 
 **Unusual events become mentally prominent.** A dramatic failure is often remembered more clearly than dozens of ordinary successes.
 
@@ -400,7 +400,7 @@ People sometimes respond to criticism of anecdotal reasoning by saying, “But I
 
 A large collection of stories can certainly be more informative than a single story. However, quantity alone does not solve the sampling problem.
 
-For example, online reviews, complaint forums, activist groups, support communities, and social-media discussions often gather people who have strong reasons to participate. Such collections may reveal important problems, but they do not automatically represent everyone affected by an issue. A thousand reports drawn from a highly selective group can still produce misleading estimates of prevalence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv We need to talk about nonprobability samples</span><span class="citation-popover-snippet">arXivWe need to talk about nonprobability samplesOctober 13, 2022...</span><span class="citation-popover-meta">Published: October 13, 2022</span></span></span>
+For example, online reviews, complaint forums, activist groups, support communities, and social-media discussions often gather people who have strong reasons to participate. Such collections may reveal important problems, but they do not automatically represent everyone affected by an issue. A thousand reports drawn from a highly selective group can still produce misleading estimates of prevalence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv We need to talk about nonprobability samples</span><span class="citation-popover-snippet">We need to talk about nonprobability samplesOctober 13, 2022...</span><span class="citation-popover-meta">Published: October 13, 2022</span></span></span>
 
 The critical question is not merely how many stories exist, but how those stories were collected.
 
@@ -423,7 +423,7 @@ The second usually requires additional evidence.
 Keeping those questions separate prevents a common form of hasty generalisation. Personal experience remains valuable because it identifies real events, real harms, and real benefits. Yet understanding how common those experiences are requires moving beyond the anecdote and examining the broader population. That distinction allows personal stories to inform reasoning without allowing them to dominate it.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b_UqIfw7Zmw" title="Hasty Generalization (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b_UqIfw7Zmw" target="_blank" rel="noopener noreferrer">Hasty Generalization (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 59.6K &middot; Uploaded: February 2014 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b_UqIfw7Zmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b_UqIfw7Zmw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jQXAsRsMl78" title="What is Anecdotal Evidence? (Easy Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jQXAsRsMl78" target="_blank" rel="noopener noreferrer">What is Anecdotal Evidence? (Easy Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 658 &middot; Uploaded: February 2025 &middot; Length: 3 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jQXAsRsMl78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jQXAsRsMl78">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -848,134 +848,134 @@ Keeping those questions separate prevents a common form of hasty generalisation.
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhen and why do people act on flawed science?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8023527/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by AL Michal · 2021 · Cited by 39 — In particular, the presence of anecdotal evidence can serve as a powerful barrier for s...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either artificial or...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6867225/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6867225/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCShould we continue pairing the term &#x27;anecdotal&#x27; with evidence?by R Atenstaedt · 2019 · Cited by 3 — Generally, anecdotal evidence is r...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6867225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6867225/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Should we continue pairing the term &#x27;anecdotal&#x27; with evidence?by R Atenstaedt · 2019 · Cited by 3 — Generally, anecdotal evidence is r...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv We need to talk about nonprobability samples  
-   Link: [https://arxiv.org/abs/2210.07298](https://arxiv.org/abs/2210.07298)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivWe need to talk about nonprobability samplesOctober 13, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2210.07298" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.07298</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We need to talk about nonprobability samplesOctober 13, 2022...</p></details>
    Published: October 13, 2022  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow do People Judge Risk?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9292208/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability may Upstage Affect in...by E Efendić · 2021 · Cited by 15 — We found that availability‐by‐recall had a stronger impact in c...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: forbes.com  
    Title: availability heuristic what it is and how to overcome it  
-   Link: [https://www.forbes.com/sites/brycehoffman/2024/04/06/availability-heuristic-what-it-is-and-how-to-overcome-it/](https://www.forbes.com/sites/brycehoffman/2024/04/06/availability-heuristic-what-it-is-and-how-to-overcome-it/)  
+   Link: <a href="https://www.forbes.com/sites/brycehoffman/2024/04/06/availability-heuristic-what-it-is-and-how-to-overcome-it/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/brycehoffman/2024/04/06/availability-heuristic-what-it-is-and-how-to-overcome-it/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic: What It Is And How To Overcome ItApr 6, 2024 — The availability heuristic (or availability bias) refers to our te...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/9818068/](https://pubmed.ncbi.nlm.nih.gov/9818068/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedUsing anecdotal information in evidence-based health careby MW Enkin · 1998 · Cited by 146 — Anecdotal information should not be co...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/9818068/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/9818068/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using anecdotal information in evidence-based health careby MW Enkin · 1998 · Cited by 146 — Anecdotal information should not be co...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thedecisionlab.com  
    Title: The Decision Lab Availability Heuristic  
-   Link: [https://thedecisionlab.com/biases/availability-heuristic](https://thedecisionlab.com/biases/availability-heuristic)  
+   Link: <a href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribbr.co.uk  
    Title: Scribbr The Availability Heuristic | Example & Definition  
-   Link: [https://www.scribbr.co.uk/bias-in-research/availability-bias/](https://www.scribbr.co.uk/bias-in-research/availability-bias/)  
+   Link: <a href="https://www.scribbr.co.uk/bias-in-research/availability-bias/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/bias-in-research/availability-bias/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Availability Heuristic | Example &amp; Definition - Scribbr7 Dec 2022 — The availability heuristic occurs when we judge the likelihood of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Availability Heuristic  
-   Link: [https://www.sciencedirect.com/topics/computer-science/availability-heuristic](https://www.sciencedirect.com/topics/computer-science/availability-heuristic)  
+   Link: <a href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/computer-science/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic - an overviewThe availability heuristic refers to the tendency to assess the probability of an event based on the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: simplypsychology.org  
    Title: availability heuristic  
-   Link: [https://www.simplypsychology.org/availability-heuristic.html](https://www.simplypsychology.org/availability-heuristic.html)  
+   Link: <a href="https://www.simplypsychology.org/availability-heuristic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/availability-heuristic.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Decision Making10 Jul 2023 — The availability heuristic is a mental shortcut where individuals judge the likelihood of an event based...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Anecdotal evidence  
-   Link: [https://en.wikipedia.org/wiki/Anecdotal_evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anecdotal_evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidenceAnecdotal evidence (or anecdata [1]) is evidence based on descriptions and reports of individual, personal experien...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Availability heuristic  
-   Link: [https://en.wikipedia.org/wiki/Availability_heuristic](https://en.wikipedia.org/wiki/Availability_heuristic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Availability_heuristic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Availability_heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability heuristicThe availability heuristic, also known as availability bias, is a mental shortcut that relies on immediate examp...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: study.com  
    Title: Availability Heuristic | Definition & Examples  
-   Link: [https://study.com/academy/lesson/availability-heuristic-examples-definition-quiz.html](https://study.com/academy/lesson/availability-heuristic-examples-definition-quiz.html)  
+   Link: <a href="https://study.com/academy/lesson/availability-heuristic-examples-definition-quiz.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/availability-heuristic-examples-definition-quiz.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LessonThe availability heuristic means bias occurring based on the most available memories and experiences one has.Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/availability](https://www.merriam-webster.com/dictionary/availability)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/availability" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/availability</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AVAILABILITY Definition &amp; Meaning5 days ago — 1. The quality or state of being available; trying to improve the availability of affordabl...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/](https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/n9dl9s/cmv_anecdotal_evidence_is_very_much_valid_evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: Anecdotal evidence is very much *valid* evidence.The trendy sentiment that any anecdotal evidence MUST be invalid and the only valid...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management](https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management)  
+   Link: <a href="https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Availability in Risk Perception and ManagementThe availability heuristic is a common mental shortcut, indicating that when pe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/](https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/)  
+   Link: <a href="https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unbiasedscipod/posts/anecdotal-evidence-is-data-collected-in-a-non-scientific-manner-to-assert-specif/403464464775223/</a>  
 
 19. <a id="endnote-19"></a>
    Source: thinkinsights.net  
-   Link: [https://thinkinsights.net/strategy/availability-heuristic](https://thinkinsights.net/strategy/availability-heuristic)  
+   Link: <a href="https://thinkinsights.net/strategy/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow">https://thinkinsights.net/strategy/availability-heuristic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability HeuristicAvailability heuristic describes our tendency to judge events by the ease with which we can recall similar events...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: buildingthemind.com  
-   Link: [https://buildingthemind.com/the-availability-heuristic-why-vivid-events-feel-more-probable-than-they-actually-are/](https://buildingthemind.com/the-availability-heuristic-why-vivid-events-feel-more-probable-than-they-actually-are/)  
+   Link: <a href="https://buildingthemind.com/the-availability-heuristic-why-vivid-events-feel-more-probable-than-they-actually-are/" target="_blank" rel="noopener noreferrer nofollow">https://buildingthemind.com/the-availability-heuristic-why-vivid-events-feel-more-probable-than-they-actually-are/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Vivid Events Feel More Probable Than They Actually AreApr 30, 2026 — The availability heuristic is one of the most pervasive and cons...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: research-portal.uu.nl  
    Title: when is statistical evidence superior to anecdotal evidence in su  
-   Link: [https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/](https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/)  
+   Link: <a href="https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/when-is-statistical-evidence-superior-to-anecdotal-evidence-in-su/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityWhen is Statistical Evidence Superior to Anecdotal...by H Hoeken · 2009 · Cited by 178 — Under certain conditions, sta...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: deanfrancispress.com  
    Title: The Impact of the Availability Heuristic on Decision-Making  
-   Link: [https://www.deanfrancispress.com/index.php/hc/article/download/2210/HC004102.pdf/9032](https://www.deanfrancispress.com/index.php/hc/article/download/2210/HC004102.pdf/9032)  
+   Link: <a href="https://www.deanfrancispress.com/index.php/hc/article/download/2210/HC004102.pdf/9032" target="_blank" rel="noopener noreferrer nofollow">https://www.deanfrancispress.com/index.php/hc/article/download/2210/HC004102.pdf/9032</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: The present essay will consider the availability heuristic, a cognitive bias whereby individuals&#x27; judgment regarding the likeli...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: vaia.com  
-   Link: [https://www.vaia.com/en-us/explanations/psychology/cognitive-psychology/availability-heuristic/](https://www.vaia.com/en-us/explanations/psychology/cognitive-psychology/availability-heuristic/)  
+   Link: <a href="https://www.vaia.com/en-us/explanations/psychology/cognitive-psychology/availability-heuristic/" target="_blank" rel="noopener noreferrer nofollow">https://www.vaia.com/en-us/explanations/psychology/cognitive-psychology/availability-heuristic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Availability Heuristic: Psychology &amp; Examples | VaiaNov 27, 2024 — How can the availability heuristic affect decision-making?...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/sathishsampath_availabilityheuristic-cognitivebias-riskperception-activity-7429531631138549760--83C](https://www.linkedin.com/posts/sathishsampath_availabilityheuristic-cognitivebias-riskperception-activity-7429531631138549760--83C)  
+   Link: <a href="https://www.linkedin.com/posts/sathishsampath_availabilityheuristic-cognitivebias-riskperception-activity-7429531631138549760--83C" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/sathishsampath_availabilityheuristic-cognitivebias-riskperception-activity-7429531631138549760--83C</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bility Heuristic is a cognitive bias where we estimate the...</p></details>

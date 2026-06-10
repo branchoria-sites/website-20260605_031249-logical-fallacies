@@ -278,7 +278,7 @@ Policy arguments often sound complete because they include statistics, expert en
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In [argument mapping]({{ 'argument-map/' | relative_url }}), these hidden assumptions are often called [warrants]({{ 'warrants/' | relative_url }}): the missing links that explain why the evidence is supposed to support the conclusion. Research on argument reasoning shows that such warrants are frequently left implicit, requiring readers to reconstruct them before the argument can be properly assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/N18-1175.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">ACL Anthology Identification and Reconstruction of Implicit Warrants</span><span class="citation-popover-snippet">To comprehend an argu- ment, one must analyze its warrant, which ex- plains why its claim...</span></span></span>
+In argument mapping, these hidden assumptions are often called [warrants]({{ 'warrants/' | relative_url }}): the missing links that explain why the evidence is supposed to support the conclusion. Research on argument reasoning shows that such warrants are frequently left implicit, requiring readers to reconstruct them before the argument can be properly assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/N18-1175.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">ACL Anthology Identification and Reconstruction of Implicit Warrants</span><span class="citation-popover-snippet">To comprehend an argu- ment, one must analyze its warrant, which ex- plains why its claim...</span></span></span>
 
 ## What Assumptions Make This Policy Argument Work?
 
@@ -355,7 +355,7 @@ These concern how people will respond.
 
 </div>
 
-Policy-design research notes that different policy tools rely on different behavioural assumptions about how people make choices and what obstacles prevent compliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/13876988.2020.1808465" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Comparing Behavioral Assumptions of Policy ToolsThe article provides a comparative framework for art...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/346118288_Comparing_Behavioral_Assumptions_of_Policy_Tools_Framework_for_Policy_Designers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Comparing Behavioral Assumptions of Policy Tools6 Oct 2020 — PDF | The article provides a comparative framework for articulating as...</span></span></span>
+Policy-design research notes that different policy tools rely on different behavioural assumptions about how people make choices and what obstacles prevent compliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/13876988.2020.1808465" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Comparing Behavioral Assumptions of Policy ToolsThe article provides a comparative framework for art...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/346118288_Comparing_Behavioral_Assumptions_of_Policy_Tools_Framework_for_Policy_Designers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Comparing Behavioral Assumptions of Policy Tools6 Oct 2020 — PDF &#124; The article provides a comparative framework for articulating as...</span></span></span>
 
 **Implementation assumptions**
 
@@ -444,7 +444,7 @@ When evaluating a claim, separate:
 * Can the intervention realistically be implemented?
 * Will implementation produce the predicted result?
 
-Recent work on policy [feasibility]({{ 'feasibility/' | relative_url }}) argues that assumptions about practicality can themselves become hidden premises. Sometimes reforms are dismissed because feasibility concerns are assumed rather than demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s43508-026-00140-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerThe feasibility syndrome: a challenge to public policyby P Ren · 2026 — This article advances the concept of the feasibility synd...</span></span></span>
+Recent work on policy [feasibility]({{ 'feasibility/' | relative_url }}) argues that assumptions about practicality can themselves become hidden premises. Sometimes reforms are dismissed because feasibility concerns are assumed rather than demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s43508-026-00140-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The feasibility syndrome: a challenge to public policyby P Ren · 2026 — This article advances the concept of the feasibility synd...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RUJX0FLdgGA" title="How to extract implicit assumptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RUJX0FLdgGA" target="_blank" rel="noopener noreferrer">How to extract implicit assumptions</a></p><p class="youtube-embed-meta">Channel: Dr. Marc Champagne, philosopher &middot; Views: 31.7K &middot; Uploaded: January 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RUJX0FLdgGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RUJX0FLdgGA">Open on YouTube</a></p></div></div></div>
@@ -504,7 +504,7 @@ Public-policy research repeatedly documents cases where policies generate side e
 
 A pilot project often receives exceptional attention, funding, and oversight.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://lobehub.com/de/skills/curiositech-windags-skills-toulmin-argument-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lobehub.com">[The hidden assumption is:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lobehub.com</span><span class="citation-popover-title">curiositech windags skills toulmin argument analysis</span><span class="citation-popover-snippet">toulmin-argument-analysis | Skills M...14 May 2026 — Warrants are almost always unstated. Your job is to surface the hidden assumption th...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://lobehub.com/de/skills/curiositech-windags-skills-toulmin-argument-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lobehub.com">[The hidden assumption is:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lobehub.com</span><span class="citation-popover-title">curiositech windags skills toulmin argument analysis</span><span class="citation-popover-snippet">toulmin-argument-analysis &#124; Skills M...14 May 2026 — Warrants are almost always unstated. Your job is to surface the hidden assumption th...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 > “Results observed on a small scale will remain unchanged when expanded.”
 
@@ -974,139 +974,139 @@ When analysing a policy intervention, the most revealing question is often not w
 
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1708.01425](https://arxiv.org/abs/1708.01425)  
+   Link: <a href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.01425</a>  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/346118288_Comparing_Behavioral_Assumptions_of_Policy_Tools_Framework_for_Policy_Designers](https://www.researchgate.net/publication/346118288_Comparing_Behavioral_Assumptions_of_Policy_Tools_Framework_for_Policy_Designers)  
+   Link: <a href="https://www.researchgate.net/publication/346118288_Comparing_Behavioral_Assumptions_of_Policy_Tools_Framework_for_Policy_Designers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/346118288_Comparing_Behavioral_Assumptions_of_Policy_Tools_Framework_for_Policy_Designers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Comparing Behavioral Assumptions of Policy Tools6 Oct 2020 — PDF | The article provides a comparative framework for articulating as...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: evans.uw.edu  
    Title: [PDF] 29 Theoretical foundations and design principles to improve policy  
-   Link: [https://evans.uw.edu/wp-content/uploads/2020/09/sandfort_2018_pa_handbook.pdf](https://evans.uw.edu/wp-content/uploads/2020/09/sandfort_2018_pa_handbook.pdf)  
+   Link: <a href="https://evans.uw.edu/wp-content/uploads/2020/09/sandfort_2018_pa_handbook.pdf" target="_blank" rel="noopener noreferrer nofollow">https://evans.uw.edu/wp-content/uploads/2020/09/sandfort_2018_pa_handbook.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 16, 2018 — While improving public value outcomes through policy and program implementation are desirable, the existing system dynami...</p></details>
    Published: July 16, 2018  
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Policy implementation  
-   Link: [https://www.researchgate.net/publication/284831523_Policy_implementation](https://www.researchgate.net/publication/284831523_Policy_implementation)  
+   Link: <a href="https://www.researchgate.net/publication/284831523_Policy_implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/284831523_Policy_implementation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Policy implementation - ResearchGateSeptember 20, 2021 — This chapter regards policy formulation and implementation as closely rela...</p></details>
    Published: September 20, 2021  
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43508-026-00140-4](https://link.springer.com/article/10.1007/s43508-026-00140-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerThe feasibility syndrome: a challenge to public policyby P Ren · 2026 — This article advances the concept of the feasibility synd...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s43508-026-00140-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43508-026-00140-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The feasibility syndrome: a challenge to public policyby P Ren · 2026 — This article advances the concept of the feasibility synd...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: rand.org  
    Title: PEA3956 1  
-   Link: [https://www.rand.org/pubs/perspectives/PEA3956-1.html](https://www.rand.org/pubs/perspectives/PEA3956-1.html)  
+   Link: <a href="https://www.rand.org/pubs/perspectives/PEA3956-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/perspectives/PEA3956-1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Often, the way the questions are...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/policyandsociety/article/38/1/14/6403979](https://academic.oup.com/policyandsociety/article/38/1/14/6403979)  
+   Link: <a href="https://academic.oup.com/policyandsociety/article/38/1/14/6403979" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/policyandsociety/article/38/1/14/6403979</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, designers ought to be aware of the underlying assumptions...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/05/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_ebf351bd/6cb52de2-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/05/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_ebf351bd/6cb52de2-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/05/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_ebf351bd/6cb52de2-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/05/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_ebf351bd/6cb52de2-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Good Practice Principles for Mainstreaming Behavioural Public PolicyApplying a behavioural lens equips policymakers with a more rea...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: lindau-nobel.org  
    Title: Lindau Nobel Laureate Meetings Public Policy and Its Unintended Effects  
-   Link: [https://www.lindau-nobel.org/blog-public-policy-and-its-unintended-effects/](https://www.lindau-nobel.org/blog-public-policy-and-its-unintended-effects/)  
+   Link: <a href="https://www.lindau-nobel.org/blog-public-policy-and-its-unintended-effects/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindau-nobel.org/blog-public-policy-and-its-unintended-effects/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lindau Nobel Laureate MeetingsPublic Policy and Its Unintended EffectsSeptember 6, 2022 — Policy changes frequently have side effects or...</p></details>
    Published: September 6, 2022  
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/325447185_The_Argument_Reasoning_Comprehension_Task_Identification_and_Reconstruction_of_Implicit_Warrants](https://www.researchgate.net/publication/325447185_The_Argument_Reasoning_Comprehension_Task_Identification_and_Reconstruction_of_Implicit_Warrants)  
+   Link: <a href="https://www.researchgate.net/publication/325447185_The_Argument_Reasoning_Comprehension_Task_Identification_and_Reconstruction_of_Implicit_Warrants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/325447185_The_Argument_Reasoning_Comprehension_Task_Identification_and_Reconstruction_of_Implicit_Warrants</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Argument Reasoning Comprehension TaskArgument Reasoning Comprehension Task (Habernal et al., 2018) focuses on identifying and reconst...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aclanthology.org  
    Title: ACL Anthology Identification and Reconstruction of Implicit Warrants  
-   Link: [https://aclanthology.org/N18-1175.pdf](https://aclanthology.org/N18-1175.pdf)  
+   Link: <a href="https://aclanthology.org/N18-1175.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/N18-1175.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To comprehend an argu- ment, one must analyze its warrant, which ex- plains why its claim...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/13876988.2020.1808465](https://www.tandfonline.com/doi/full/10.1080/13876988.2020.1808465)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/13876988.2020.1808465" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/13876988.2020.1808465</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Comparing Behavioral Assumptions of Policy ToolsThe article provides a comparative framework for art...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bankofengland.co.uk  
    Title: pra approach to cost benefit analysis statement of policy  
-   Link: [https://www.bankofengland.co.uk/prudential-regulation/publication/2024/december/pra-approach-to-cost-benefit-analysis-statement-of-policy](https://www.bankofengland.co.uk/prudential-regulation/publication/2024/december/pra-approach-to-cost-benefit-analysis-statement-of-policy)  
+   Link: <a href="https://www.bankofengland.co.uk/prudential-regulation/publication/2024/december/pra-approach-to-cost-benefit-analysis-statement-of-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.bankofengland.co.uk/prudential-regulation/publication/2024/december/pra-approach-to-cost-benefit-analysis-statement-of-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A key step is to identify and evidence the causal chains through which a...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/2600519](https://www.jstor.org/stable/2600519)  
+   Link: <a href="https://www.jstor.org/stable/2600519" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/2600519</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Graphical Argument Analysisby TF Homer-Dixon · 1989 · Cited by 30 — In terms of advantages, we suggested that the method adapts well to i...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: chds.us  
-   Link: [https://www.chds.us/coursefiles/NS4081/lectures/methods_policy_analysis/Policy_analysis_script_v1.pdf](https://www.chds.us/coursefiles/NS4081/lectures/methods_policy_analysis/Policy_analysis_script_v1.pdf)  
+   Link: <a href="https://www.chds.us/coursefiles/NS4081/lectures/methods_policy_analysis/Policy_analysis_script_v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.chds.us/coursefiles/NS4081/lectures/methods_policy_analysis/Policy_analysis_script_v1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Module on Policy Analysis and Policy Options AnalysisPolicy Analysis and Policy Options Analysis are related methodologies designed to ev...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/behavioural-assumptions-of-policy-tools-2lrkzyzszb.pdf](https://scispace.com/pdf/behavioural-assumptions-of-policy-tools-2lrkzyzszb.pdf)  
+   Link: <a href="https://scispace.com/pdf/behavioural-assumptions-of-policy-tools-2lrkzyzszb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/behavioural-assumptions-of-policy-tools-2lrkzyzszb.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Assumptions of Policy ToolsIncentive policy tools manipulate the tangible benefits, costs, and probabilities that policy desig...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Economic theory supports this premise,  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3758756/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3758756/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMore Is Not Always Better: Intuitions About Effective Public Policy...Public policies often appear to be developed using an assumptio...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3758756/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3758756/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>More Is Not Always Better: Intuitions About Effective Public Policy...Public policies often appear to be developed using an assumptio...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: lobehub.com  
    Title: curiositech windags skills toulmin argument analysis  
-   Link: [https://lobehub.com/de/skills/curiositech-windags-skills-toulmin-argument-analysis](https://lobehub.com/de/skills/curiositech-windags-skills-toulmin-argument-analysis)  
+   Link: <a href="https://lobehub.com/de/skills/curiositech-windags-skills-toulmin-argument-analysis" target="_blank" rel="noopener noreferrer nofollow">https://lobehub.com/de/skills/curiositech-windags-skills-toulmin-argument-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>toulmin-argument-analysis | Skills M...14 May 2026 — Warrants are almost always unstated. Your job is to surface the hidden assumption th...</p></details>
    Published: May 2026  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=724vj-_8Hyg](https://www.youtube.com/watch?v=724vj-_8Hyg)  
+   Link: <a href="https://www.youtube.com/watch?v=724vj-_8Hyg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=724vj-_8Hyg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying Behavioral Insights to the Design of Public Policy - YouTubeApril 19, 2021 — The Political Causes and Policy Consequences of the...</p></details>
    Published: April 19, 2021  
 
 20. <a id="endnote-20"></a>
    Source: download.mmag.hrz.tu-darmstadt.de  
    Title: Both warrants are plausible and lexically  
-   Link: [https://download.mmag.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/UKP/2018_NAACL_ArgumentReasoning_IH-HW-IG-BS.pdf](https://download.mmag.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/UKP/2018_NAACL_ArgumentReasoning_IH-HW-IG-BS.pdf)  
+   Link: <a href="https://download.mmag.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/UKP/2018_NAACL_ArgumentReasoning_IH-HW-IG-BS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://download.mmag.hrz.tu-darmstadt.de/pub/FB20/Dekanat/Publikationen/UKP/2018_NAACL_ArgumentReasoning_IH-HW-IG-BS.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument Reasoning Comprehension Task - Index of /by I Habernal · Cited by 222 — Given an argument with a claim and a premise, the goal i...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: justicepolicynetwork.com  
-   Link: [https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf](https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf)  
+   Link: <a href="https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide for Policy AnalysisA practical guide for policy analysis: the eightfold path to more effective problem solving / Eugen...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: repub.eur.nl  
    Title: Policy analysis centrally  
-   Link: [https://repub.eur.nl/pub/19062/wp317.pdf](https://repub.eur.nl/pub/19062/wp317.pdf)  
+   Link: <a href="https://repub.eur.nl/pub/19062/wp317.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repub.eur.nl/pub/19062/wp317.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROPOSAL FOR TEACHING ARGUMENTATION...by D Gasper · 2000 · Cited by 49 — I focus here on policy wording as argumentation, where policy t...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: mcpmarket.com  
    Title: toulmin argument analysis  
-   Link: [https://mcpmarket.com/tools/skills/toulmin-argument-analysis](https://mcpmarket.com/tools/skills/toulmin-argument-analysis)  
+   Link: <a href="https://mcpmarket.com/tools/skills/toulmin-argument-analysis" target="_blank" rel="noopener noreferrer nofollow">https://mcpmarket.com/tools/skills/toulmin-argument-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Claude Code Skill20 May 2026 — By making implicit assumptions explicit, it helps users build more defensible cases and identify exactly w...</p></details>
    Published: May 2026  
 
 24. <a id="endnote-24"></a>
    Source: samples.jblearning.com  
    Title: 9781284126983 CH05  
-   Link: [https://samples.jblearning.com/9781284126372/9781284126983_CH05.pdf](https://samples.jblearning.com/9781284126372/9781284126983_CH05.pdf)  
+   Link: <a href="https://samples.jblearning.com/9781284126372/9781284126983_CH05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://samples.jblearning.com/9781284126372/9781284126983_CH05.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>jblearning.com[PDF] Public Policy Design - JBLearningIn addition to understanding the types and roles of tools in formulating policy, pro...</p></details>

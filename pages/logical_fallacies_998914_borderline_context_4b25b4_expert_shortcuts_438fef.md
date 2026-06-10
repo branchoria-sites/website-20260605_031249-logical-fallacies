@@ -274,11 +274,11 @@ image: /assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_
 
 ## Introduction
 
-In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), an appeal to authority is often presented as a mistake. Yet many everyday decisions would be impossible without relying on expert judgement. Most people cannot independently evaluate the safety of a bridge, the effectiveness of a medical treatment, or the details of a climate model. In such cases, consulting specialists is not a fallacious shortcut but a practical way of accessing evidence that would otherwise be inaccessible. The key question is not whether an expert is cited, but whether the expert's authority is functioning as a reliable indicator of underlying evidence. Expert opinion is a form of defeasible reasoning: it provides provisional support that remains open to challenge, revision, and further evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">testimony episprob</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyEpistemological Problems of Testimonyby N Leonard · 2021 · Cited by 104 — So much of what we know abou...</span></span></span>
+In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), an [appeal to authority]({{ 'authority/' | relative_url }}) is often presented as a mistake. Yet many everyday decisions would be impossible without relying on expert judgement. Most people cannot independently evaluate the safety of a bridge, the effectiveness of a medical treatment, or the details of a climate model. In such cases, consulting specialists is not a fallacious shortcut but a practical way of accessing evidence that would otherwise be inaccessible. The key question is not whether an expert is cited, but whether the expert's authority is functioning as a reliable indicator of underlying evidence. Expert opinion is a form of defeasible reasoning: it provides provisional support that remains open to challenge, revision, and further evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">testimony episprob</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyEpistemological Problems of Testimonyby N Leonard · 2021 · Cited by 104 — So much of what we know abou...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-1-dark.svg" | relative_url }}" alt="Expert Shortcuts illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This makes appeals to expertise a classic borderline case. The same argumentative move can be reasonable when it connects an audience to specialised knowledge and unreasonable when it asks them to accept a claim purely because of status or prestige. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">PhilPapersAppeal to Expert Opinion: Arguments From AuthorityWalton&#x27;s new pragmatic approach analyzes that appeal as a distinctive form of...</span></span></span>
+This makes appeals to expertise a classic borderline case. The same argumentative move can be reasonable when it connects an audience to specialised knowledge and unreasonable when it asks them to accept a claim purely because of status or prestige. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Appeal to Expert Opinion: Arguments From AuthorityWalton&#x27;s new pragmatic approach analyzes that appeal as a distinctive form of...</span></span></span>
 
 ## When Should You Trust an Expert?
 
@@ -290,7 +290,7 @@ An appeal to expertise is generally strongest when several conditions are met:
 * The claim falls within that field of expertise.
 * The expert has access to the relevant evidence.
 * The opinion is consistent with the available body of knowledge.
-* The audience is invited to treat the opinion as evidence rather than unquestionable truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — These questions illustrate a ke...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers For example]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">PhilPapersAppeal to Expert Opinion: Arguments From AuthorityWalton&#x27;s new pragmatic approach analyzes that appeal as a distinctive form of...</span></span></span>, relying on a structural engineer's assessment of a building is normally reasonable because the engineer possesses specialised knowledge and methods that non-specialists lack. The argument does not work because the engineer is important; it works because the engineer's training provides a reliable connection to relevant evidence.
+* The audience is invited to treat the opinion as evidence rather than unquestionable truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — These questions illustrate a ke...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers For example]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Appeal to Expert Opinion: Arguments From AuthorityWalton&#x27;s new pragmatic approach analyzes that appeal as a distinctive form of...</span></span></span>, relying on a structural engineer's assessment of a building is normally reasonable because the engineer possesses specialised knowledge and methods that non-specialists lack. The argument does not work because the engineer is important; it works because the engineer's training provides a reliable connection to relevant evidence.
 
 ## Relevant Expertise Versus Borrowed Status
 
@@ -298,7 +298,7 @@ One of the most common confusions is treating fame, success, or authority in one
 
 A Nobel Prize-winning physicist may deserve attention when discussing physics, but the same credentials do not automatically make that person an authority on economics, nutrition, or public policy. Similarly, a celebrity doctor may possess medical expertise yet have no special authority regarding engineering or constitutional law.
 
-Argumentation theorists who study appeals to expert opinion emphasise that expertise is domain-specific. The central question is not whether someone is impressive but whether they possess relevant competence for the claim being made. Walton's influential work on expert-opinion arguments treats this as one of the critical questions that must be asked before accepting an appeal to authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">PhilPapersAppeal to Expert Opinion: Arguments From AuthorityWalton&#x27;s new pragmatic approach analyzes that appeal as a distinctive form of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Appeal_to_Expert_Opinion.html?id=6UxyS_4GXAkC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Appeal to Expert Opinion</span><span class="citation-popover-snippet">157. Drawing Inferences from Expert Opinion. 159. More. Questioning an Expert Opinion. 23. The Problem of...Read more...</span></span></span>
+Argumentation theorists who study appeals to expert opinion emphasise that expertise is domain-specific. The central question is not whether someone is impressive but whether they possess relevant competence for the claim being made. Walton's influential work on expert-opinion arguments treats this as one of the critical questions that must be asked before accepting an appeal to authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Appeal to Expert Opinion: Arguments From AuthorityWalton&#x27;s new pragmatic approach analyzes that appeal as a distinctive form of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://books.google.com/books/about/Appeal_to_Expert_Opinion.html?id=6UxyS_4GXAkC" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-title">Appeal to Expert Opinion</span><span class="citation-popover-snippet">157. Drawing Inferences from Expert Opinion. 159. More. Questioning an Expert Opinion. 23. The Problem of...Read more...</span></span></span>
 
 A useful rule is that expertise travels poorly across domains. The further a claim moves from the expert's recognised field, the weaker the appeal becomes.
 
@@ -333,7 +333,7 @@ Modern knowledge systems depend on intellectual division of labour. Patients rel
 
 The reasonable appeal to expertise therefore functions as an evidence shortcut. Instead of recreating years of training and research, the audience uses expert judgement as a proxy for evidence. The shortcut is justified when there are good reasons to think the proxy tracks reality.
 
-The important point is that the shortcut remains connected to evidence. The audience is not being asked to believe a claim because a powerful person said it. They are being asked to treat specialised judgement as a summary of evidence that they cannot easily evaluate themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — These questions illustrate a ke...</span></span></span>
+The important point is that the shortcut remains connected to evidence. The audience is not being asked to believe a claim because a powerful person said it. They are being asked to treat specialised judgement as a summary of evidence that they cannot easily evaluate themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — These questions illustrate a ke...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-3-dark.svg" | relative_url }}" alt="Expert Shortcuts illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,12 +366,12 @@ An unhealthy appeal discourages those questions by treating expertise as infalli
 
 When encountering an appeal to expertise, a useful test is to ask whether the authority points toward evidence or replaces it.
 
-The appeal is usually reasonable if the expert is qualified in the relevant field, independent of obvious conflicts of interest, informed by the relevant evidence, and broadly aligned with other knowledgeable specialists. It becomes increasingly weak when credentials are irrelevant, consensus is absent, evidence is hidden, or authority alone is expected to settle the matter. Springer <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — These questions illustrate a ke...</span></span></span>
+The appeal is usually reasonable if the expert is qualified in the relevant field, independent of obvious conflicts of interest, informed by the relevant evidence, and broadly aligned with other knowledgeable specialists. It becomes increasingly weak when credentials are irrelevant, consensus is absent, evidence is hidden, or authority alone is expected to settle the matter. Springer <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[2eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — These questions illustrate a ke...</span></span></span>
 
 In borderline fallacy cases, this distinction is crucial. Expert opinion is not a loophole that allows arguments to bypass evidence. Rather, it is a practical mechanism for accessing evidence indirectly. The appeal remains rational precisely because expertise is treated as a fallible but often reliable guide to what the evidence shows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psupress.org/books/titles/0-271-01694-9.html?srsltid=AfmBOorAgxMvCur5TQDHUVDLy9vYneVnIVRtLyG-KCM_AQ5FyR6gTh1G" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psupress.org">[psupress.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psupress.org</span><span class="citation-popover-snippet">gument, with an accompanying set of appropriate critical questions matching the...Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WsON5mGeVto" title="Appeal to Authority: When trusting experts becomes a logical fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer">Appeal to Authority: When trusting experts becomes a logical fallacy</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 6.1K &middot; Uploaded: January 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WsON5mGeVto">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6h0eyv3Tmc" title="Appeal to Authority is Not a Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6h0eyv3Tmc" target="_blank" rel="noopener noreferrer">Appeal to Authority is Not a Fallacy</a></p><p class="youtube-embed-meta">Channel: Benjamin McLean (MrBenMcLean) &middot; Views: 4.6K &middot; Uploaded: November 2016 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6h0eyv3Tmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6h0eyv3Tmc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -796,220 +796,220 @@ In borderline fallacy cases, this distinction is crucial. Expert opinion is not 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: testimony episprob  
-   Link: [https://plato.stanford.edu/entries/testimony-episprob/](https://plato.stanford.edu/entries/testimony-episprob/)  
+   Link: <a href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/testimony-episprob/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyEpistemological Problems of Testimonyby N Leonard · 2021 · Cited by 104 — So much of what we know abou...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/WALATE](https://philpapers.org/rec/WALATE)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersAppeal to Expert Opinion: Arguments From AuthorityWalton&#x27;s new pragmatic approach analyzes that appeal as a distinctive form of...</p></details>
+   Link: <a href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALATE</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeal to Expert Opinion: Arguments From AuthorityWalton&#x27;s new pragmatic approach analyzes that appeal as a distinctive form of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: psupress.org  
-   Link: [https://www.psupress.org/books/titles/0-271-01694-9.html?srsltid=AfmBOorAgxMvCur5TQDHUVDLy9vYneVnIVRtLyG-KCM_AQ5FyR6gTh1G](https://www.psupress.org/books/titles/0-271-01694-9.html?srsltid=AfmBOorAgxMvCur5TQDHUVDLy9vYneVnIVRtLyG-KCM_AQ5FyR6gTh1G)  
+   Link: <a href="https://www.psupress.org/books/titles/0-271-01694-9.html?srsltid=AfmBOorAgxMvCur5TQDHUVDLy9vYneVnIVRtLyG-KCM_AQ5FyR6gTh1G" target="_blank" rel="noopener noreferrer nofollow">https://www.psupress.org/books/titles/0-271-01694-9.html?srsltid=AfmBOorAgxMvCur5TQDHUVDLy9vYneVnIVRtLyG-KCM_AQ5FyR6gTh1G</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>gument, with an accompanying set of appropriate critical questions matching the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/](https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eCampusOntario PressbooksAppeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — These questions illustrate a ke...</p></details>
+   Link: <a href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — These questions illustrate a ke...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: books.google.com  
    Title: Appeal to Expert Opinion  
-   Link: [https://books.google.com/books/about/Appeal_to_Expert_Opinion.html?id=6UxyS_4GXAkC](https://books.google.com/books/about/Appeal_to_Expert_Opinion.html?id=6UxyS_4GXAkC)  
+   Link: <a href="https://books.google.com/books/about/Appeal_to_Expert_Opinion.html?id=6UxyS_4GXAkC" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Appeal_to_Expert_Opinion.html?id=6UxyS_4GXAkC</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>157. Drawing Inferences from Expert Opinion. 159. More. Questioning an Expert Opinion. 23. The Problem of...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPublic Conceptions of Scientific Consensus  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9289351/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9289351/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9289351/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9289351/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recent science communication...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: philpapers.org  
-   Link: [https://philpapers.org/rec/WALAFE](https://philpapers.org/rec/WALAFE)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersArgument from Expert Opinion as Legal Evidence: Critical...Argument from Expert Opinion as Legal Evidence: Critical Questions...</p></details>
+   Link: <a href="https://philpapers.org/rec/WALAFE" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALAFE</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from Expert Opinion as Legal Evidence: Critical...Argument from Expert Opinion as Legal Evidence: Critical Questions...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-981-97-9222-1_7](https://link.springer.com/chapter/10.1007/978-981-97-9222-1_7)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerSpecifying “Experts” and “Consensus” | Springer Nature Linkby A Jorm · 2024 · Cited by 2 — This chapter looks at how expert conse...</p></details>
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-981-97-9222-1_7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-981-97-9222-1_7</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Specifying “Experts” and “Consensus” | Springer Nature Linkby A Jorm · 2024 · Cited by 2 — This chapter looks at how expert conse...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: expert.it  
    Title: Benvenuto nel negozio online di Expert  
-   Link: [https://www.expert.it/it/it/exp/](https://www.expert.it/it/it/exp/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ExpertBenvenuto nel negozio online di Expert - Gli esperti siamo noi. Acquista ora il tuo Smartphone, TV, Elettrodomestico e molto altro...</p></details>
+   Link: <a href="https://www.expert.it/it/it/exp/" target="_blank" rel="noopener noreferrer nofollow">https://www.expert.it/it/it/exp/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benvenuto nel negozio online di Expert - Gli esperti siamo noi. Acquista ora il tuo Smartphone, TV, Elettrodomestico e molto altro...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: walton.com  
-   Link: [https://walton.com/](https://walton.com/)  
+   Link: <a href="https://walton.com/" target="_blank" rel="noopener noreferrer nofollow">https://walton.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walton Global |Since 1979, Walton has been passionate about land and its impact on all aspects of real estate, serving landowners, builde...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: expert.ai  
-   Link: [https://www.expert.ai/it/](https://www.expert.ai/it/)  
+   Link: <a href="https://www.expert.ai/it/" target="_blank" rel="noopener noreferrer nofollow">https://www.expert.ai/it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI per Capire i Dati e Decidere MeglioMigliora la performance e riduci i rischi con l&#x27;AI enterprise efficace e affidabile di expert.ai. T...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-981-97-9222-1_5](https://link.springer.com/chapter/10.1007/978-981-97-9222-1_5)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-981-97-9222-1_5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-981-97-9222-1_5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consensus to Guide Practice and Policyby A Jorm · 2024 — This chapter looks at how deliberative consensus is often used to making evidenc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/26919/chapter/3](https://www.nationalacademies.org/read/26919/chapter/3)  
+   Link: <a href="https://www.nationalacademies.org/read/26919/chapter/3" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26919/chapter/3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesRead &quot;Reference Manual on Scientific EvidenceRead chapter How Science Works: The 4th edition of the Reference Manual on...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/27894/chapter/4](https://www.nationalacademies.org/read/27894/chapter/4)  
+   Link: <a href="https://www.nationalacademies.org/read/27894/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 2 Defining Misinformation About ScienceDebates and dissenting views are built into the process of science wher...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/process](https://www.nationalacademies.org/process)  
+   Link: <a href="https://www.nationalacademies.org/process" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/process</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ProcessThe National Academies&#x27; work is grounded in facts, evidence... Our peer-reviewed reports present the evidence-based consensus of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nap.nationalacademies.org  
    Title: National Academies Consensus Study Report  
-   Link: [https://nap.nationalacademies.org/resource/25303/R%26R.pdf](https://nap.nationalacademies.org/resource/25303/R%26R.pdf)  
+   Link: <a href="https://nap.nationalacademies.org/resource/25303/R%26R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nap.nationalacademies.org/resource/25303/R%26R.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Report - National Academies PressOne of the pathways by which the scientific community confirms the validity of a new scientific di...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: [https://it.wikipedia.org/wiki/Expert](https://it.wikipedia.org/wiki/Expert)  
+   Link: <a href="https://it.wikipedia.org/wiki/Expert" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Expert</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ExpertExpert è un gruppo svizzero di grande distribuzione organizzata specializzato in elettronica di consumo, elettrodomestici, infor...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/guidelines-for-the-review-of-products-of-the-national-academies-of-sciences-engineering-and-medicine](https://www.nationalacademies.org/guidelines-for-the-review-of-products-of-the-national-academies-of-sciences-engineering-and-medicine)  
+   Link: <a href="https://www.nationalacademies.org/guidelines-for-the-review-of-products-of-the-national-academies-of-sciences-engineering-and-medicine" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/guidelines-for-the-review-of-products-of-the-national-academies-of-sciences-engineering-and-medicine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cademy of Engineering, and National Academy of Medicine...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/publications/27894](https://www.nationalacademies.org/publications/27894)  
+   Link: <a href="https://www.nationalacademies.org/publications/27894" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/27894</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding and Addressing Misinformation About...2024 · Cited by 48 — Proactive solutions are needed to address misinformation about...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/principles-and-practices-that-guide-our-work](https://www.nationalacademies.org/principles-and-practices-that-guide-our-work)  
+   Link: <a href="https://www.nationalacademies.org/principles-and-practices-that-guide-our-work" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/principles-and-practices-that-guide-our-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Latest News and Stories. The latest news and stories...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/27894/chapter/8](https://www.nationalacademies.org/read/27894/chapter/8)  
+   Link: <a href="https://www.nationalacademies.org/read/27894/chapter/8" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/27894/chapter/8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter: 6 Impacts of Misinformation About ScienceMisinformation has the potential to disrupt the ability of individuals to make informed...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nationalacademies.org  
    Title: can science help people make decisions  
-   Link: [https://www.nationalacademies.org/news/can-science-help-people-make-decisions](https://www.nationalacademies.org/news/can-science-help-people-make-decisions)  
+   Link: <a href="https://www.nationalacademies.org/news/can-science-help-people-make-decisions" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/can-science-help-people-make-decisions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Latest News and Stories. The latest news...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nationalacademies.org  
    Title: new report recommends research agenda for effective science communication  
-   Link: [https://www.nationalacademies.org/news/new-report-recommends-research-agenda-for-effective-science-communication](https://www.nationalacademies.org/news/new-report-recommends-research-agenda-for-effective-science-communication)  
+   Link: <a href="https://www.nationalacademies.org/news/new-report-recommends-research-agenda-for-effective-science-communication" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/new-report-recommends-research-agenda-for-effective-science-communication</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Latest News and Stories. The latest news...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/projects/consensusadvisory-activity](https://www.nationalacademies.org/projects/consensusadvisory-activity)  
+   Link: <a href="https://www.nationalacademies.org/projects/consensusadvisory-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/consensusadvisory-activity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consensus StudiesThe National Academies of Sciences, Engineering, and Medicine will establish an ad hoc committee to conduct a study to r...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/news/national-academies-publish-new-report-reviewing-evidence-for-greenhouse-gas-emissions-and-u-s-climate-health-and-welfare](https://www.nationalacademies.org/news/national-academies-publish-new-report-reviewing-evidence-for-greenhouse-gas-emissions-and-u-s-climate-health-and-welfare)  
+   Link: <a href="https://www.nationalacademies.org/news/national-academies-publish-new-report-reviewing-evidence-for-greenhouse-gas-emissions-and-u-s-climate-health-and-welfare" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/news/national-academies-publish-new-report-reviewing-evidence-for-greenhouse-gas-emissions-and-u-s-climate-health-and-welfare</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Latest News and Stories. The latest news...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/publications/26919?page=235](https://www.nationalacademies.org/publications/26919?page=235)  
+   Link: <a href="https://www.nationalacademies.org/publications/26919?page=235" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/publications/26919?page=235</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Manual on Scientific Evidence: Fourth EditionOur peer-reviewed reports present the evidence-based consensus of committees of ex...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/projects/HMD-HSP-21-16](https://www.nationalacademies.org/projects/HMD-HSP-21-16)  
+   Link: <a href="https://www.nationalacademies.org/projects/HMD-HSP-21-16" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/HMD-HSP-21-16</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Creating a Framework for Emerging Science, Technology...Our peer-reviewed reports present the evidence-based consensus of committees of...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nationalcar.com  
-   Link: [https://www.nationalcar.com/en/home.html](https://www.nationalcar.com/en/home.html)  
+   Link: <a href="https://www.nationalcar.com/en/home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcar.com/en/home.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Car Rental: Fast &amp; Convenient Car Rental at 1500+...National Car Rental has worldwide locations in the United States, Canada, E...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK425720/](https://www.ncbi.nlm.nih.gov/books/NBK425720/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK425720/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK425720/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Academies of Sciences, Engineering, and Medicine; Committee on Science...Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK424919/](https://www.ncbi.nlm.nih.gov/books/NBK424919/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK424919/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK424919/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Academies of SCIENCES - MEDICINE - NCBIReports document the evidence-based consensus of an authoring committee of experts. Repor...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: dictionary.com  
-   Link: [https://www.dictionary.com/browse/walton](https://www.dictionary.com/browse/walton)  
+   Link: <a href="https://www.dictionary.com/browse/walton" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/walton</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningWALTON definition: Ernest Thomas Sinton 1903–95, Irish physicist: Nobel Prize 1951. See examples of Walton used in a...</p></details>
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: tuttiprezzi.it  
-   Link: [https://www.tuttiprezzi.it/expert.html](https://www.tuttiprezzi.it/expert.html)  
+   Link: <a href="https://www.tuttiprezzi.it/expert.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tuttiprezzi.it/expert.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EXPERT VOLANTINO NUOVE OFFERTE E PROMOZIONI...Sfoglia il Volantino con Offerte Sconti Prezzi e Promozioni del negozio EXPERT di Roma e L...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/walton-global](https://www.linkedin.com/company/walton-global)  
+   Link: <a href="https://www.linkedin.com/company/walton-global" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/walton-global</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walton GlobalWalton Global is a privately-owned, leading land asset management and global real estate investment company that concentrate...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: reasoninglab.com  
-   Link: [https://www.reasoninglab.com/patterns-of-argument/argumentation-schemes/waltons-argumentation-schemes/](https://www.reasoninglab.com/patterns-of-argument/argumentation-schemes/waltons-argumentation-schemes/)  
+   Link: <a href="https://www.reasoninglab.com/patterns-of-argument/argumentation-schemes/waltons-argumentation-schemes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reasoninglab.com/patterns-of-argument/argumentation-schemes/waltons-argumentation-schemes/</a>  
 
 36. <a id="endnote-36"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/27510144/Arguments_from_Authority_and_Expert_Opinion_in_Computational_Argumentation_Systems](https://www.academia.edu/27510144/Arguments_from_Authority_and_Expert_Opinion_in_Computational_Argumentation_Systems)  
+   Link: <a href="https://www.academia.edu/27510144/Arguments_from_Authority_and_Expert_Opinion_in_Computational_Argumentation_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/27510144/Arguments_from_Authority_and_Expert_Opinion_in_Computational_Argumentation_Systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Arguments from Authority and Expert Opinion in...Oct 11, 2025 — In this paper we presented the scheme and critical questions for a...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: trovaprezzi.it  
-   Link: [https://www.trovaprezzi.it/volantini/expert](https://www.trovaprezzi.it/volantini/expert)  
+   Link: <a href="https://www.trovaprezzi.it/volantini/expert" target="_blank" rel="noopener noreferrer nofollow">https://www.trovaprezzi.it/volantini/expert</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Che si tratti di computer, smart TV, smartphone o console di ultima generazione, i volantini Expert sono...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: whitehouse.gov  
-   Link: [https://www.whitehouse.gov/briefings-statements/2025/05/remarks-by-director-kratsios-at-the-national-academy-of-sciences/](https://www.whitehouse.gov/briefings-statements/2025/05/remarks-by-director-kratsios-at-the-national-academy-of-sciences/)  
+   Link: <a href="https://www.whitehouse.gov/briefings-statements/2025/05/remarks-by-director-kratsios-at-the-national-academy-of-sciences/" target="_blank" rel="noopener noreferrer nofollow">https://www.whitehouse.gov/briefings-statements/2025/05/remarks-by-director-kratsios-at-the-national-academy-of-sciences/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 19, 2025 — At the heart of the practices that make up Gold Standard Science is a suspicion of blind consensus and a celebration of in...</p></details>
    Published: May 19, 2025  
 
 39. <a id="endnote-39"></a>
    Source: waltonemc.com  
-   Link: [https://www.waltonemc.com/](https://www.waltonemc.com/)  
+   Link: <a href="https://www.waltonemc.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.waltonemc.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walton EMC: HomeWalton EMC is one of the largest of almost 1,000 electric cooperatives in the country. Our mission is to provide reliable...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems](https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems)  
+   Link: <a href="https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walton and Koszowy (2017) regarded arguments based on expert opinion as a type of...Read more...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: waltonbd.com  
    Title: Walton manufactures the best price Refrigerator, Freezers,  
-   Link: [https://waltonbd.com/](https://waltonbd.com/)  
+   Link: <a href="https://waltonbd.com/" target="_blank" rel="noopener noreferrer nofollow">https://waltonbd.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walton Group| Best Electrical, Electronics &amp; IT products...Walton is the latest best Multinational Electrical &amp; Electronics industry in...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: researchgate.net  
    Title: Douglas Walton, Appeal to Expert Opinion  
-   Link: [https://www.researchgate.net/publication/220539259_Douglas_Walton_Appeal_to_Expert_Opinion_-_Arguments_from_Authority](https://www.researchgate.net/publication/220539259_Douglas_Walton_Appeal_to_Expert_Opinion_-_Arguments_from_Authority)  
+   Link: <a href="https://www.researchgate.net/publication/220539259_Douglas_Walton_Appeal_to_Expert_Opinion_-_Arguments_from_Authority" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220539259_Douglas_Walton_Appeal_to_Expert_Opinion_-_Arguments_from_Authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>paper describes the process by which a formerly strong precedent may be weakened by over time, identifying five reasoni...</p></details>

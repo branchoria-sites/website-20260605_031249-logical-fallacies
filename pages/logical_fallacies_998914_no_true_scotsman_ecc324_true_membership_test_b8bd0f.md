@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:20:32'
 parent_title: Are Definitions Moving to Escape Evidence? | Fallacy Lab
 parent_permalink: /no-true/
 parent_nav_short_title: No True
@@ -265,7 +266,6 @@ next_link:
   permalink: /persuasive-words/
   short_title: Persuasive Words
   heading_title: When Definitions Carry Hidden Judgment
-date: '2026-06-05 02:20:32 '
 header:
   og_image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_true_membership_test_b8bd0f-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_true_membership_test_b8bd0f-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_true_memb
 
 ## Introduction
 
-A membership claim becomes more trustworthy when the rule for membership is stated before any dispute arises, applied consistently to all cases, and left open to genuine counterexamples. That principle is especially important when assessing arguments that risk falling into the [No True Scotsman]({{ 'no-true/' | relative_url }}) pattern. The problem is not that groups can never have standards. Religious traditions, professions, political parties, clubs, and nations often do have legitimate criteria for membership. The problem arises when those criteria change only after an inconvenient example appears. In that situation, the definition stops functioning as a test and starts functioning as a shield against evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
+A membership claim becomes more trustworthy when the rule for membership is stated before any dispute arises, applied consistently to all cases, and left open to genuine counterexamples. That principle is especially important when assessing arguments that risk falling into the [No True]({{ 'no-true/' | relative_url }}) Scotsman pattern. The problem is not that groups can never have standards. Religious traditions, professions, political parties, clubs, and nations often do have legitimate criteria for membership. The problem arises when those criteria change only after an inconvenient example appears. In that situation, the definition stops functioning as a test and starts functioning as a shield against evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_true_membership_test_b8bd0f-Illustration-1-dark.svg" | relative_url }}" alt="Membership Tests illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_true_membership_test_b8bd0f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_true_membership_test_b8bd0f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -303,7 +303,7 @@ A useful implementation test is to document membership criteria before examining
 
 ## What Makes Exclusion Fair Rather Than Fallacious?
 
-Not every exclusion is a [No True]({{ 'no-true/' | relative_url }}) Scotsman fallacy. Some exclusions are justified because the category genuinely has [boundaries]({{ 'boundaries/' | relative_url }}).
+Not every exclusion is a No True Scotsman fallacy. Some exclusions are justified because the category genuinely has [boundaries]({{ 'boundaries/' | relative_url }}).
 
 The key question is whether the standard is independent of the claim being defended.
 
@@ -331,7 +331,7 @@ Now consider a claim such as:
 
 </div>
 
-The category has been redefined to match the desired conclusion. Membership is no longer determined by independent criteria but by agreement with the claim itself. This is the hallmark of the No True Scotsman move. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">ScribbrNo True Scotsman Fallacy | Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">oup from a counterexample by shifting the definition of the...Read more...</span></span></span>
+The category has been redefined to match the desired conclusion. Membership is no longer determined by independent criteria but by agreement with the claim itself. This is the hallmark of the No True Scotsman move. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">oup from a counterexample by shifting the definition of the...Read more...</span></span></span>
 
 A practical safeguard is to separate two questions:
 
@@ -404,7 +404,7 @@ When confronted with a "real member" argument, a compact checklist helps prevent
 
 </div>
 
-If the answers are mostly yes, the membership claim is likely being tested fairly. If the answers are mostly no, the argument may be redefining the category to avoid admitting a counterexample. That is precisely the danger the No True Scotsman fallacy highlights: not the existence of standards, but the temptation to invent them only when evidence becomes inconvenient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[2scribbr.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">No True Scotsman Fallacy | Definition &amp; Examples</span><span class="citation-popover-snippet">Scribbr5 Jun 2023 — The no true Scotsman fallacy is the attempt to defend a generalisation by denying the validity of any counterexamples...</span></span></span>
+If the answers are mostly yes, the membership claim is likely being tested fairly. If the answers are mostly no, the argument may be redefining the category to avoid admitting a counterexample. That is precisely the danger the No True Scotsman fallacy highlights: not the existence of standards, but the temptation to invent them only when evidence becomes inconvenient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.co.uk/fallacy/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[2scribbr.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-title">No True Scotsman Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">5 Jun 2023 — The no true Scotsman fallacy is the attempt to defend a generalisation by denying the validity of any counterexamples...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -828,153 +828,153 @@ If the answers are mostly yes, the membership claim is likely being tested fairl
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: No true Scotsman  
-   Link: [https://en.wikipedia.org/wiki/No_true_Scotsman](https://en.wikipedia.org/wiki/No_true_Scotsman)  
+   Link: <a href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/No_true_Scotsman</a>  
 
 2. <a id="endnote-2"></a>
    Source: scribbr.com  
    Title: no true scotsman fallacy  
-   Link: [https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/](https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribbrNo True Scotsman Fallacy | Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</p></details>
+   Link: <a href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy | Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: everydayconcepts.io  
    Title: no true scotsman  
-   Link: [https://everydayconcepts.io/no-true-scotsman](https://everydayconcepts.io/no-true-scotsman)  
+   Link: <a href="https://everydayconcepts.io/no-true-scotsman" target="_blank" rel="noopener noreferrer nofollow">https://everydayconcepts.io/no-true-scotsman</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>British philosopher Antony Flew coined the term in his 1975 book Thinking About Thinking. He illustrated the fallacy with a story: a Scot...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Antony Flew  
-   Link: [https://en.wikipedia.org/wiki/Antony_Flew](https://en.wikipedia.org/wiki/Antony_Flew)  
+   Link: <a href="https://en.wikipedia.org/wiki/Antony_Flew" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Antony_Flew</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antony FlewAt this time, he developed one of his most famous arguments, the No true Scotsman fallacy in his 1975 book, Thinking About...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: scribbr.com  
-   Link: [https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/](https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/)  
+   Link: <a href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>oup from a counterexample by shifting the definition of the...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)  
+   Link: <a href="https://en.wikipedia.org/wiki/Falsifiability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falsifiability</a>  
 
 7. <a id="endnote-7"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis](https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis)  
+   Link: <a href="https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/34279472/Is_Flews_No_True_Scotsman_Fallacy_a_True_Fallacy_A_Contextual_Analysis</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Is Flew&#x27;s No True Scotsman Fallacy a...The paper argues that the No True Scotsman Move is often treated as a persuasive de...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scribbr.co.uk  
    Title: No True Scotsman Fallacy | Definition & Examples  
-   Link: [https://www.scribbr.co.uk/fallacy/no-true-scotsman/](https://www.scribbr.co.uk/fallacy/no-true-scotsman/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scribbr5 Jun 2023 — The no true Scotsman fallacy is the attempt to defend a generalisation by denying the validity of any counterexamples...</p></details>
+   Link: <a href="https://www.scribbr.co.uk/fallacy/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/fallacy/no-true-scotsman/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Jun 2023 — The no true Scotsman fallacy is the attempt to defend a generalisation by denying the validity of any counterexamples...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Religion and the No True Scotsman Fallacy  
-   Link: [https://www.youtube.com/watch?v=_g9pdWyAaDs](https://www.youtube.com/watch?v=_g9pdWyAaDs)  
+   Link: <a href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_g9pdWyAaDs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: No True Scotsman  
-   Link: [https://www.youtube.com/watch?v=0_NCtdOKQ04](https://www.youtube.com/watch?v=0_NCtdOKQ04)  
+   Link: <a href="https://www.youtube.com/watch?v=0_NCtdOKQ04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0_NCtdOKQ04</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacy (Episode 53)...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/scotsman.html](https://www.fallacyfiles.org/scotsman.html)  
+   Link: <a href="https://www.fallacyfiles.org/scotsman.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/scotsman.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The No-True-Scotsman FallacyThe &quot;no-true-Scotsman&quot; type of redefinition usually occurs in the course of an argument or [debate](&amp;#123;&amp;#123; &#x27;debate/&#x27; | relative_url &amp;#125;&amp;#125;) among two o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ru.scribd.com  
    Title: No true Scotsman  
-   Link: [https://ru.scribd.com/document/734350253/No-true-Scotsman](https://ru.scribd.com/document/734350253/No-true-Scotsman)  
+   Link: <a href="https://ru.scribd.com/document/734350253/No-true-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://ru.scribd.com/document/734350253/No-true-Scotsman</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the No True Scotsman Fallacy | PDFThe &#x27;No true Scotsman&#x27; fallacy is an informal logical fallacy where an individual modifies a claim to e...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bachelorprint.com  
    Title: no true scotsman fallacy  
-   Link: [https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/](https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/)  
+   Link: <a href="https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/fallacies/no-true-scotsman-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>~ Definition &amp; ExamplesJul 17, 2024 — The term was coined by the philosopher Antony Flew in his book from 1971, where he describes a hypo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bachelorprint.com  
    Title: no true scotsman fallacy  
-   Link: [https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/](https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/)  
+   Link: <a href="https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.bachelorprint.com/ca/fallacies/no-true-scotsman-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>~ Definition &amp; ExamplesJul 17, 2024 — The no true Scotsman fallacy, also known as the “appeal to purity fallacy,” is an informal logical...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: quillbot.com  
    Title: no true scotsman fallacy  
-   Link: [https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/](https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/no-true-scotsman-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cite this...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: diplomacy.edu  
    Title: No true Scotsman  
-   Link: [https://www.diplomacy.edu/blog/no-true-scotsman/](https://www.diplomacy.edu/blog/no-true-scotsman/)  
+   Link: <a href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/blog/no-true-scotsman/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diplo25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-exa...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: faithalone.org  
    Title: no true scotsman  
-   Link: [https://faithalone.org/blog/no-true-scotsman/](https://faithalone.org/blog/no-true-scotsman/)  
+   Link: <a href="https://faithalone.org/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow">https://faithalone.org/blog/no-true-scotsman/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Apr 2026 — In the 1970s, British philosopher Antony Flew coined the phrase, “No true Scotsman.” This expression stands for a well-know...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: kids.kiddle.co  
    Title: Antony Flew  
-   Link: [https://kids.kiddle.co/Antony_Flew](https://kids.kiddle.co/Antony_Flew)  
+   Link: <a href="https://kids.kiddle.co/Antony_Flew" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Antony_Flew</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flew Facts for KidsIn 2003, he signed the Humanist Manifesto III. He also came up with the idea of the No true Scotsman fallacy. However...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts](https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Moving-the-Goalposts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moving the GoalpostsExample #2: Perhaps the most classic example of this fallacy is the argument for the existence of God. Due to the und...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html](https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html)  
+   Link: <a href="https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/no-true-scotsman-fallacy-in-philosophy.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman Fallacy in PhilosophyThe No True Scotsman (NTS) fallacy is an error in logic wherein one person defends a generalization...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman](https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/No-True-Scotsman</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No True ScotsmanVariations: The more generic appeal to purity can be seen when the claim is that someone &quot;does not have enough of&quot; someth...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/CharacterRant/comments/t26e9d/no_true_scotsman_a_frequently_misused_term/](https://www.reddit.com/r/CharacterRant/comments/t26e9d/no_true_scotsman_a_frequently_misused_term/)  
+   Link: <a href="https://www.reddit.com/r/CharacterRant/comments/t26e9d/no_true_scotsman_a_frequently_misused_term/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CharacterRant/comments/t26e9d/no_true_scotsman_a_frequently_misused_term/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No True Scotsman: a frequently misused termNo true Scotsman, or appeal to purity, is an informal fallacy in which one attempts to protect...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/](https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is No True Scotsman a fallacy?: r/askphilosophyA No True Scotsman is when one retroactively modifies an initial claim in order to pr...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/](https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/)  
+   Link: <a href="https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/changemyview/comments/psnb0h/cmv_the_no_true_scotsman_fallacy_is_not_a_fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CMV: The &quot;No true Scotsman&quot; fallacy is not a fallacyThe &quot;No True Scotsman&quot; fallacy arises when one party attributes a certain quality to...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: tvtropes.org  
-   Link: [https://tvtropes.org/pmwiki/pmwiki.php/Main/NoTrueScotsman](https://tvtropes.org/pmwiki/pmwiki.php/Main/NoTrueScotsman)  
+   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/NoTrueScotsman" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Main/NoTrueScotsman</a>  
 
 26. <a id="endnote-26"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603](https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603)  
+   Link: <a href="https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/study-guides/no-true-scotsman-08d084ac-8459-4344-89f9-b7d54e7e0603</a>  
 
 27. <a id="endnote-27"></a>
    Source: rephrasely.com  
-   Link: [https://rephrasely.com/usage/no-true-scotsman-fallacy](https://rephrasely.com/usage/no-true-scotsman-fallacy)  
+   Link: <a href="https://rephrasely.com/usage/no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow">https://rephrasely.com/usage/no-true-scotsman-fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The term &quot;No True Scotsman&quot; was coined by British philosopher Antony Flew in his 1971 paper, &quot;A Fallacy of the No True Scotsman Variety.R...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: philosophyunleashed.com  
    Title: 84 no true argument how a basic fallacy stops criticism and prevents peace  
-   Link: [https://www.philosophyunleashed.com/theblog/84-no-true-argument-how-a-basic-fallacy-stops-criticism-and-prevents-peace](https://www.philosophyunleashed.com/theblog/84-no-true-argument-how-a-basic-fallacy-stops-criticism-and-prevents-peace)  
+   Link: <a href="https://www.philosophyunleashed.com/theblog/84-no-true-argument-how-a-basic-fallacy-stops-criticism-and-prevents-peace" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophyunleashed.com/theblog/84-no-true-argument-how-a-basic-fallacy-stops-criticism-and-prevents-peace</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NO TRUE ARGUMENT - How A Basic Fallacy Stops...May 24, 2021 — Also known as an &quot;appeal to purity&quot;, the &quot;no true Scotsman&quot; fallacy makes...</p></details>
    Published: May 24, 2021  

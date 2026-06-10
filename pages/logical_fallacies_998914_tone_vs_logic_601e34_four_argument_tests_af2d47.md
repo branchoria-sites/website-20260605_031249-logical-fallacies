@@ -328,7 +328,7 @@ Logical evaluation is not the only legitimate concern in public discussion.
 
 An argument can be logically valid while still raising ethical concerns. Imagine a campaign that accurately identifies a social problem but does so through ridicule or humiliation. The evidence may be sound, yet many people would judge the method ethically objectionable because it treats individuals as targets rather than participants in discussion.
 
-Likewise, ethical concerns are not identical to practical concerns. A communication strategy may be respectful but ineffective. Another may persuade large audiences while encouraging prejudice or hostility. Research on persuasion consistently shows that emotional cues, credibility signals, and rhetorical framing can influence people independently of strict argumentative quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43039-023-00077-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerDeveloping persuasive systems for marketing: the interplay of...by A Braca · 2023 · Cited by 118 — This paper presents a compreh...</span></span></span>
+Likewise, ethical concerns are not identical to practical concerns. A communication strategy may be respectful but ineffective. Another may persuade large audiences while encouraging prejudice or hostility. Research on persuasion consistently shows that emotional cues, credibility signals, and rhetorical framing can influence people independently of strict argumentative quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s43039-023-00077-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Developing persuasive systems for marketing: the interplay of...by A Braca · 2023 · Cited by 118 — This paper presents a compreh...</span></span></span>
 
 This distinction explains why people can disagree about an argument without actually disagreeing about its logic.
 
@@ -373,7 +373,7 @@ The first attempts to use [emotion]({{ 'emotion/' | relative_url }}) as evidence
 Keeping those judgments distinct allows communities to maintain civility without pretending that civility determines truth.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NKEhdsnKKHs" title="How to Argue - Philosophical Reasoning: Crash Course Philosophy #2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer">How to Argue - Philosophical Reasoning: Crash Course Philosophy #2</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 5.3M &middot; Uploaded: February 2016 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NKEhdsnKKHs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LNkibDGjQq8" title="Critical Thinking and Arguing: Study Hall Composition #8: ASU + Crash Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LNkibDGjQq8" target="_blank" rel="noopener noreferrer">Critical Thinking and Arguing: Study Hall Composition #8: ASU + Crash Course</a></p><p class="youtube-embed-meta">Channel: Arizona State University &middot; Views: 46.3K &middot; Uploaded: May 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LNkibDGjQq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LNkibDGjQq8">Open on YouTube</a></p></div></div></div>
 
 ## How moderators can address tone without dodging claims
 
@@ -411,10 +411,10 @@ Clear moderation identifies the category involved:
 
 Each label refers to a different kind of problem. Combining them obscures what actually went wrong.
 
-Research on online argumentation and moderation increasingly treats appropriateness, argument quality, and civility as related but distinct dimensions, precisely because communities struggle when all forms of evaluation are collapsed together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.14935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Modeling Appropriate Language in Argumentation</span><span class="citation-popover-snippet">arXivModeling Appropriate Language in ArgumentationMay 24, 2023...</span><span class="citation-popover-meta">Published: May 24, 2023</span></span></span>
+Research on online argumentation and moderation increasingly treats appropriateness, argument quality, and civility as related but distinct dimensions, precisely because communities struggle when all forms of evaluation are collapsed together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.14935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Modeling Appropriate Language in Argumentation</span><span class="citation-popover-snippet">Modeling Appropriate Language in ArgumentationMay 24, 2023...</span><span class="citation-popover-meta">Published: May 24, 2023</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LNkibDGjQq8" title="Critical Thinking and Arguing: Study Hall Composition #8: ASU + Crash Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LNkibDGjQq8" target="_blank" rel="noopener noreferrer">Critical Thinking and Arguing: Study Hall Composition #8: ASU + Crash Course</a></p><p class="youtube-embed-meta">Channel: Arizona State University &middot; Views: 46.3K &middot; Uploaded: May 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LNkibDGjQq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LNkibDGjQq8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NKEhdsnKKHs" title="How to Argue - Philosophical Reasoning: Crash Course Philosophy #2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer">How to Argue - Philosophical Reasoning: Crash Course Philosophy #2</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 5.3M &middot; Uploaded: February 2016 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NKEhdsnKKHs">Open on YouTube</a></p></div></div></div>
 
 ### Avoid treating persuasion as proof
 
@@ -857,140 +857,140 @@ A single statement can pass one test and fail another. That possibility is not a
 
 1. <a id="endnote-1"></a>
    Source: ai.rug.nl  
-   Link: [https://www.ai.rug.nl/~verheij/publications/pdf/walton2001.pdf](https://www.ai.rug.nl/~verheij/publications/pdf/walton2001.pdf)  
+   Link: <a href="https://www.ai.rug.nl/~verheij/publications/pdf/walton2001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ai.rug.nl/~verheij/publications/pdf/walton2001.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Dialectic....12 Jul 2001 — A central topic in the theory of argumentation is argument evaluation. For any particular argument, t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: read.aupress.ca  
-   Link: [https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf](https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf)  
+   Link: <a href="https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf" target="_blank" rel="noopener noreferrer nofollow">https://read.aupress.ca/read/critical-thinking-logic-and-argument/section/d25311a8-3222-4d6a-97da-2797dfecbabf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 15. Fallacies of Emotional BiasThe fallacy of appeal to pity occurs when we attempt to evoke feelings of pity or compassion in or...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s43039-023-00077-0](https://link.springer.com/article/10.1007/s43039-023-00077-0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerDeveloping persuasive systems for marketing: the interplay of...by A Braca · 2023 · Cited by 118 — This paper presents a compreh...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s43039-023-00077-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s43039-023-00077-0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing persuasive systems for marketing: the interplay of...by A Braca · 2023 · Cited by 118 — This paper presents a compreh...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Tone policing  
-   Link: [https://en.wikipedia.org/wiki/Tone_policing](https://en.wikipedia.org/wiki/Tone_policing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tone_policing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tone_policing</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Modeling Appropriate Language in Argumentation  
-   Link: [https://arxiv.org/abs/2305.14935](https://arxiv.org/abs/2305.14935)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivModeling Appropriate Language in ArgumentationMay 24, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2305.14935" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.14935</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling Appropriate Language in ArgumentationMay 24, 2023...</p></details>
    Published: May 24, 2023  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2212.07425](https://arxiv.org/abs/2212.07425)  
+   Link: <a href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.07425</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Argumentation theory  
-   Link: [https://en.wikipedia.org/wiki/Argumentation_theory](https://en.wikipedia.org/wiki/Argumentation_theory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argumentation_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argumentation_theory</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Argumentation theoryArgumentation theory is the interdisciplinary study of how conclusions can be supported or undermined by premises...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13194-025-00707-8](https://link.springer.com/article/10.1007/s13194-025-00707-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s13194-025-00707-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13194-025-00707-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hominem arguments in scientific discoursesby LP Schäfer · 2026 — Ad hominem arguments have no bearing on the truth-values of scientific t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2604.07028v2](https://arxiv.org/html/2604.07028v2)  
+   Link: <a href="https://arxiv.org/html/2604.07028v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2604.07028v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategic Persuasion with Trait-Conditioned Multi-Agent...25 May 2026 — In this paper, we introduce the Strategic Courtroom Framework, a...</p></details>
    Published: May 2026  
 
 11. <a id="endnote-11"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 14. <a id="endnote-14"></a>
    Source: trendsettercase.wordpress.com  
-   Link: [https://trendsettercase.wordpress.com/2017/05/20/fighting-fallacies-the-abusive-ad-hominem/](https://trendsettercase.wordpress.com/2017/05/20/fighting-fallacies-the-abusive-ad-hominem/)  
+   Link: <a href="https://trendsettercase.wordpress.com/2017/05/20/fighting-fallacies-the-abusive-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://trendsettercase.wordpress.com/2017/05/20/fighting-fallacies-the-abusive-ad-hominem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fallacies | The Abusive Ad Hominem20 May 2017 — The abusive ad hominem fallacy is another informal fallacy, and like the straw man, it&#x27;s...</p></details>
    Published: May 2017  
 
 15. <a id="endnote-15"></a>
    Source: scribbr.com  
    Title: ad hominem fallacy  
-   Link: [https://www.scribbr.com/fallacies/ad-hominem-fallacy/](https://www.scribbr.com/fallacies/ad-hominem-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/ad-hominem-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Examples21 Apr 2023 — The ad hominem fallacy is a logical fallacy, specifically a fallacy of relevance, i.e, the argument ra...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical FallaciesThe Ad Hominem Argument (also, &quot;Personal attack,&quot; &quot;Poisoning the well&quot;): The fallacy of attempting to refute an...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/VBpolitics/posts/2952836414888048/](https://www.facebook.com/groups/VBpolitics/posts/2952836414888048/)  
+   Link: <a href="https://www.facebook.com/groups/VBpolitics/posts/2952836414888048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/VBpolitics/posts/2952836414888048/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing tone and conduct in public conflictIf others would like their own tone, conduct, or public engagement evaluated using this same...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: assets.cambridge.org  
-   Link: [https://assets.cambridge.org/97805218/86178/excerpt/9780521886178_excerpt.pdf](https://assets.cambridge.org/97805218/86178/excerpt/9780521886178_excerpt.pdf)  
+   Link: <a href="https://assets.cambridge.org/97805218/86178/excerpt/9780521886178_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97805218/86178/excerpt/9780521886178_excerpt.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge AssetsArgument as reasoned dialogueThe goal of this book is to help the reader use critical methods to impar- tially and reason...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: psupress.org  
-   Link: [https://www.psupress.org/books/titles/978-0-271-02177-5.html?srsltid=AfmBOooCy5W-4j0YojYjjPR3Efu7TfPB53rIfQTYJZHIVdhIOzJQfINd](https://www.psupress.org/books/titles/978-0-271-02177-5.html?srsltid=AfmBOooCy5W-4j0YojYjjPR3Efu7TfPB53rIfQTYJZHIVdhIOzJQfINd)  
+   Link: <a href="https://www.psupress.org/books/titles/978-0-271-02177-5.html?srsltid=AfmBOooCy5W-4j0YojYjjPR3Efu7TfPB53rIfQTYJZHIVdhIOzJQfINd" target="_blank" rel="noopener noreferrer nofollow">https://www.psupress.org/books/titles/978-0-271-02177-5.html?srsltid=AfmBOooCy5W-4j0YojYjjPR3Efu7TfPB53rIfQTYJZHIVdhIOzJQfINd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Argumentation and Evidence By Douglas WaltonA leading expert in [informal logic](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;), Douglas Walton turns his attention in this new book...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/ad-hominem](https://www.britannica.com/topic/ad-hominem)  
+   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
 
 21. <a id="endnote-21"></a>
    Source: humanities.mcmaster.ca  
-   Link: [https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm](https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm)  
+   Link: <a href="https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.humanities.mcmaster.ca/~hitchckd/adhominemissa.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is said to consist generically in a response to someone&#x27;s statement or argument by an attack on that...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: markmanson.net  
-   Link: [https://markmanson.net/logical-fallacies](https://markmanson.net/logical-fallacies)  
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Is Not Causation · 2. [Slippery Slope](&amp;#123;&amp;#123; &#x27;slippery-slope/&#x27; | relative_url &amp;#125;&amp;#125;) Fallacy · 3. False Dichotomies · 4. Begging the Question · 5. Red...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: slacowan.com  
    Title: compassionate commenting vs tone policing a case study and rebuttal  
-   Link: [https://slacowan.com/2023/11/02/compassionate-commenting-vs-tone-policing-a-case-study-and-rebuttal/](https://slacowan.com/2023/11/02/compassionate-commenting-vs-tone-policing-a-case-study-and-rebuttal/)  
+   Link: <a href="https://slacowan.com/2023/11/02/compassionate-commenting-vs-tone-policing-a-case-study-and-rebuttal/" target="_blank" rel="noopener noreferrer nofollow">https://slacowan.com/2023/11/02/compassionate-commenting-vs-tone-policing-a-case-study-and-rebuttal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Compassionate Commenting vs Tone Policing2 Nov 2023 — Tone policing is a form of egoism, a protecting of the self and one&#x27;s own feelings...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: thinkingispower.com  
-   Link: [https://thinkingispower.com/logical-fallacies/](https://thinkingispower.com/logical-fallacies/)  
+   Link: <a href="https://thinkingispower.com/logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thinkingispower.com/logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>legitimate expert makes claims contrary to the consensus. But if you&#x27;re...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: blog.apaonline.org  
    Title: tone policing and the assertion of authority  
-   Link: [https://blog.apaonline.org/2022/05/10/tone-policing-and-the-assertion-of-authority/](https://blog.apaonline.org/2022/05/10/tone-policing-and-the-assertion-of-authority/)  
+   Link: <a href="https://blog.apaonline.org/2022/05/10/tone-policing-and-the-assertion-of-authority/" target="_blank" rel="noopener noreferrer nofollow">https://blog.apaonline.org/2022/05/10/tone-policing-and-the-assertion-of-authority/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apaonline.orgTone-Policing and the Assertion of Authority | Blog of the APA10 May 2022 — Tone policing is when someone (usually a privile...</p></details>
    Published: May 2022  
 
 26. <a id="endnote-26"></a>
    Source: sciencedirect.com  
    Title: Act as you preach!  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0148296324003722](https://www.sciencedirect.com/science/article/pii/S0148296324003722)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0148296324003722" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0148296324003722</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authentic brand purpose versus “woke...by N Walter · 2024 · Cited by 59 — Therefore, the aim of this research is to investigate how diff...</p></details>

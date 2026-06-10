@@ -244,9 +244,9 @@ sibling_links:
   short_title: Science Effects
   heading_title: Can attacking a scientist change beliefs?
 - basename: logical_fallacies_998914_ad_hominem_32e1c3_tu_quoque_hypocrisy_9f6a14
-  title: Tu Quoque Hypocrisy | Ad Hominem
-  permalink: /tu-quoque-hypocrisy/
-  short_title: Tu Quoque Hypocrisy
+  title: Tu Quoque Hypocrisy 9 F6 A14 | Ad Hominem
+  permalink: /tu-quoque-hypocrisy-9-f6-a14/
+  short_title: Tu Quoque Hypocrisy 9 F6 A14
 up_link:
   basename: logical_fallacies_998914_ad_hominem_32e1c3
   title: Ad Hominem | Logical Fallacies
@@ -271,7 +271,7 @@ Guilt by association is a form of ad hominem reasoning in which a claim, person 
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1-dark.svg" | relative_url }}" alt="Association illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This fallacy is especially persuasive because humans naturally use associations as shortcuts. If a disliked group supports an idea, many people feel suspicious of the idea itself. Yet the truth of a proposition does not change according to who else happens to agree with it. A weak social link may justify further investigation, but it cannot by itself establish that an argument is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Butte-Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span>
+This fallacy is especially persuasive because humans naturally use associations as shortcuts. If a disliked group supports an idea, many people feel suspicious of the idea itself. Yet the truth of a proposition does not change according to who else happens to agree with it. A weak social link may justify further investigation, but it cannot by itself establish that an argument is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span>
 
 ## Strong links versus weak links
 
@@ -301,7 +301,7 @@ The weakness becomes clearer when reversed. A respected scientist and a conspira
 
 Guilt by association works because it exploits emotional reactions that are often stronger than analytical reasoning.
 
-When audiences hear the name of a disliked organisation, political movement or public figure, existing feelings can be transferred to the target of the argument. Propaganda researchers have long described this process as a transfer mechanism: the emotional reputation of one thing is attached to another, encouraging acceptance or rejection without careful evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Butte-Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College
+When audiences hear the name of a disliked organisation, political movement or public figure, existing feelings can be transferred to the target of the argument. Propaganda researchers have long described this process as a transfer mechanism: the emotional reputation of one thing is attached to another, encouraging acceptance or rejection without careful evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College
 
 Several psychological tendencies reinforce the effect:
 
@@ -315,7 +315,7 @@ Several psychological tendencies reinforce the effect:
 
 </div>
 
-Because these shortcuts operate quickly, audiences may never reach the stage of evaluating the underlying reasons. The association itself becomes the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Butte-Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophybytheway.blogspot.com">[Philosophy by the Way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophybytheway.blogspot.com</span><span class="citation-popover-title">guilt by association</span><span class="citation-popover-snippet">Sep 29, 2025 — Guilt by association is a kind of heuristic, or mental shortcut, that people use to decide which companies share their val...</span></span></span>
+Because these shortcuts operate quickly, audiences may never reach the stage of evaluating the underlying reasons. The association itself becomes the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophybytheway.blogspot.com">[Philosophy by the Way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophybytheway.blogspot.com</span><span class="citation-popover-title">guilt by association</span><span class="citation-popover-snippet">Sep 29, 2025 — Guilt by association is a kind of heuristic, or mental shortcut, that people use to decide which companies share their val...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-2-dark.svg" | relative_url }}" alt="Association illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -788,210 +788,210 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
 1. <a id="endnote-1"></a>
    Source: owl.excelsior.edu  
    Title: OWLGuilt by Association Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLGuilt by Association Fallacy - Excelsior OWLA guilt by association fallacy occurs when someone connects an opponent to a dem...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/guiltbya.html](https://www.fallacyfiles.org/guiltbya.html)  
+   Link: <a href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/guiltbya.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: butte.edu  
    Title: Glenn Community College Fallacies and Propaganda  
-   Link: [https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html](https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Butte-Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</p></details>
+   Link: <a href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/sum2002/entries/logic-informal/](https://plato.stanford.edu/archives/sum2002/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2002/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/archives/fall2014/entries/logic-informal/](https://plato.stanford.edu/archives/fall2014/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2014/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Example: Ad Hominem. Different approaches to fallacies can be illustrated with the fallacy ad hominem. Consider as a first example a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Association fallacy  
-   Link: [https://en.wikipedia.org/wiki/Association_fallacy](https://en.wikipedia.org/wiki/Association_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Association_fallacy</a>  
 
 9. <a id="endnote-9"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/nature_fall.html](https://philosophy.lander.edu/logic/nature_fall.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/nature_fall.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/nature_fall.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nature of FallaciesA fallacy is a mistake in reasoning: an argument which either does not prove, or does not provide evidence for, it...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: philosophy.institute  
-   Link: [https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/](https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/)  
+   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Fallacies: Errors in ReasoningDec 9, 2025 — The fallacy arises when personal characteristics are used as a substitute for e...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Guilt by association  
-   Link: [https://simple.wikipedia.org/wiki/Guilt_by_association](https://simple.wikipedia.org/wiki/Guilt_by_association)  
+   Link: <a href="https://simple.wikipedia.org/wiki/Guilt_by_association" target="_blank" rel="noopener noreferrer nofollow">https://simple.wikipedia.org/wiki/Guilt_by_association</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by associationThis logical fallacy often occurs when negative traits or behaviors of one person are presumed to apply to another...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Informal fallacy  
-   Link: [https://en.wikipedia.org/wiki/Informal_fallacy](https://en.wikipedia.org/wiki/Informal_fallacy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Informal_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Informal_fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal fallacyInformal fallacies are a type of incorrect argument in natural language. The source of the error is not necessarily du...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/[politics](https://www.encyclopedia.com/[politics)  
+   Link: <a href="https://www.encyclopedia.com/[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/[politics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt By AssociationThe United States Supreme Court frequently proclaims that guilt by association has no place in our constitutional sys...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — The ad hominem fallacy involves bringing negative aspects of an ar...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: stanford.edu  
-   Link: [https://www.stanford.edu/](https://www.stanford.edu/)  
+   Link: <a href="https://www.stanford.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.stanford.edu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityExplore the possibilities of a Stanford education as you map out your college journey. We look for distinctive student...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2003/entries/logic-informal/](https://plato.stanford.edu/archives/fall2003/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic11 Nov 2002 — In assessing ordinary arguments, it may more simply be said that fallacies are common patterns of poor reasoning which...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/spr2017/entries/logic-informal/](https://plato.stanford.edu/archives/spr2017/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/spr2017/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2017/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophy25 Nov 1996 — In contrast, fallacies like ad hominem, two wrongs reasoning, guilt by associati...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2013/entries/logic-informal/](https://plato.stanford.edu/archives/fall2013/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Consider as a first example a remark adapted from a Danish...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/win2004/entries/logic-informal/](https://plato.stanford.edu/archives/win2004/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LogicOne attempt to use traditional fallacies as a way to define good argument schema (by treating ad hominem, guilt by association, appe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Critical Thinking: The Fallacy of Ad Hominem (Guilt By Association)  
-   Link: [https://www.youtube.com/watch?v=XInuneqdJRM](https://www.youtube.com/watch?v=XInuneqdJRM)  
+   Link: <a href="https://www.youtube.com/watch?v=XInuneqdJRM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XInuneqdJRM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association Fallacy...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Guilt by Association Fallacy  
-   Link: [https://www.youtube.com/watch?v=cqTVxALYKd8](https://www.youtube.com/watch?v=cqTVxALYKd8)  
+   Link: <a href="https://www.youtube.com/watch?v=cqTVxALYKd8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cqTVxALYKd8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association | [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Guilt by Association | Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=mIHEV0cCgMc](https://www.youtube.com/watch?v=mIHEV0cCgMc)  
+   Link: <a href="https://www.youtube.com/watch?v=mIHEV0cCgMc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mIHEV0cCgMc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL THINKING - Fallacies: Introduction to Ad Hominem Fallacies...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem (Guilt by Association)When the source is viewed negatively because of its association with another person or group who is alre...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: philosophybytheway.blogspot.com  
    Title: guilt by association  
-   Link: [https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html](https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html)  
+   Link: <a href="https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 29, 2025 — Guilt by association is a kind of heuristic, or mental shortcut, that people use to decide which companies share their val...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: legaldictionary.net  
    Title: Guilt by Association  
-   Link: [https://legaldictionary.net/guilt-by-association/](https://legaldictionary.net/guilt-by-association/)  
+   Link: <a href="https://legaldictionary.net/guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow">https://legaldictionary.net/guilt-by-association/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Examples, Cases, Processes19 Mar 2019 — The term “guilt by association” refers to the idea that an individual is guilty of a...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: kids.kiddle.co  
-   Link: [https://kids.kiddle.co/Association_fallacy](https://kids.kiddle.co/Association_fallacy)  
+   Link: <a href="https://kids.kiddle.co/Association_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Association_fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fallacy Facts for KidsThe association fallacy is a type of logical mistake in thinking. It happens when someone says that a quality of on...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: transfercredit.org  
-   Link: [https://www.transfercredit.org/blog/humanities/guilt-by-association-fallacy-explained-with-examples](https://www.transfercredit.org/blog/humanities/guilt-by-association-fallacy-explained-with-examples)  
+   Link: <a href="https://www.transfercredit.org/blog/humanities/guilt-by-association-fallacy-explained-with-examples" target="_blank" rel="noopener noreferrer nofollow">https://www.transfercredit.org/blog/humanities/guilt-by-association-fallacy-explained-with-examples</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association Fallacy Explained with ExamplesThis article explains guilt by association, shows how media and debates use it, and g...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: study.com  
-   Link: [https://study.com/academy/lesson/guilt-by-association-fallacy-definition-and-examples.html](https://study.com/academy/lesson/guilt-by-association-fallacy-definition-and-examples.html)  
+   Link: <a href="https://study.com/academy/lesson/guilt-by-association-fallacy-definition-and-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/guilt-by-association-fallacy-definition-and-examples.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilt by Association Fallacy: Definition and ExamplesThe guilt by association fallacy is a logical fallacy that aims to discredit a propo...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: philosophicalsociety.com  
-   Link: [https://www.philosophicalsociety.com/HTML/LogicalFallacies.html](https://www.philosophicalsociety.com/HTML/LogicalFallacies.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesAn appeal to authority is ordinarily one good way to buttress a line of thought. The practice becomes fallacious when on...</p></details>
+   Link: <a href="https://www.philosophicalsociety.com/HTML/LogicalFallacies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.philosophicalsociety.com/HTML/LogicalFallacies.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical FallaciesAn [appeal to authority](&amp;#123;&amp;#123; &#x27;authority/&#x27; | relative_url &amp;#125;&amp;#125;) is ordinarily one good way to buttress a line of thought. The practice becomes fallacious when on...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/exjw/comments/sig3d9/association_fallacy_a_jw_way_of_thinking_that_is/](https://www.reddit.com/r/exjw/comments/sig3d9/association_fallacy_a_jw_way_of_thinking_that_is/)  
+   Link: <a href="https://www.reddit.com/r/exjw/comments/sig3d9/association_fallacy_a_jw_way_of_thinking_that_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/exjw/comments/sig3d9/association_fallacy_a_jw_way_of_thinking_that_is/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A typical one is &quot;guilt by association&quot;. For example the classic &quot;tight pants&quot; talk:.Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: finmasters.com  
-   Link: [https://finmasters.com/circumstantial-ad-hominem/](https://finmasters.com/circumstantial-ad-hominem/)  
+   Link: <a href="https://finmasters.com/circumstantial-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/circumstantial-ad-hominem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2023 — Circumstantial ad hominem occurs when someone argues that their opponent&#x27;s argument must be invalid because his or her pos...</p></details>
    Published: May 23, 2023  
 
 35. <a id="endnote-35"></a>
    Source: philosophyalevel.com  
-   Title: Examples are straw man, [circular reasoning](&#123;&#123; 'circularity/' | relative_url &#125;&#125;), and ad  
-   Link: [https://philosophyalevel.com/posts/informal-fallacies-examples/](https://philosophyalevel.com/posts/informal-fallacies-examples/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Informal Fallacies](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;): 15 Common Examples of Faulty...31 May 2023 — Informal fallacies are errors in reasoning that depend on context, not...</p></details>
+   Title: Examples are straw man, circular reasoning, and ad  
+   Link: <a href="https://philosophyalevel.com/posts/informal-fallacies-examples/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/informal-fallacies-examples/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal Fallacies: 15 Common Examples of Faulty...31 May 2023 — Informal fallacies are errors in reasoning that depend on context, not...</p></details>
    Published: May 2023  
 
 36. <a id="endnote-36"></a>
    Source: philpapers.org  
    Title: GBA is the erroneous logic that just because  
-   Link: [https://philpapers.org/rec/KOLGBA](https://philpapers.org/rec/KOLGBA)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersLeigh Kolb, Guilt by Associationby L Kolb · 2018 · Cited by 1 — This chapter focuses on one of the common fallacies in Western...</p></details>
+   Link: <a href="https://philpapers.org/rec/KOLGBA" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/KOLGBA</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leigh Kolb, Guilt by Associationby L Kolb · 2018 · Cited by 1 — This chapter focuses on one of the common fallacies in Western...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: thelogicofscience.com  
    Title: the rules of logic part 3 logical fallacies  
-   Link: [https://thelogicofscience.com/2015/01/27/the-rules-of-logic-part-3-logical-fallacies/](https://thelogicofscience.com/2015/01/27/the-rules-of-logic-part-3-logical-fallacies/)  
+   Link: <a href="https://thelogicofscience.com/2015/01/27/the-rules-of-logic-part-3-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://thelogicofscience.com/2015/01/27/the-rules-of-logic-part-3-logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rules of Logic Part 3: Logical FallaciesJan 27, 2015 — This occurs when you argue that a position is true or valid because of the peo...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23208768/](https://pubmed.ncbi.nlm.nih.gov/23208768/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23208768/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23208768/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by association and honor by association: the role of...by M Molet · 2013 · Cited by 27 — Guilt by association and honor by association a...</p></details>

@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_straw_man_arguments_c08438_exagge
 
 ## Introduction
 
-Exaggeration is one of the most common ways a straw man argument is created. Instead of responding to a measured claim, an opponent inflates it into a far more radical position and then attacks that stronger-sounding version. A proposal to limit something becomes a proposal to ban it. A request for caution becomes opposition to all progress. A criticism of one policy becomes hostility toward an entire institution. The result is a [debate]({{ 'debate/' | relative_url }}) that appears decisive while never addressing the original point. Argumentation scholars describe straw man reasoning as the misrepresentation of another person's commitments in order to refute a position they did not actually defend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">PhilPapersThe straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</span></span></span>
+Exaggeration is one of the most common ways a straw man argument is created. Instead of responding to a measured claim, an opponent inflates it into a far more radical position and then attacks that stronger-sounding version. A proposal to limit something becomes a proposal to ban it. A request for caution becomes opposition to all progress. A criticism of one policy becomes hostility toward an entire institution. The result is a [debate]({{ 'debate/' | relative_url }}) that appears decisive while never addressing the original point. Argumentation scholars describe straw man reasoning as the misrepresentation of another person's commitments in order to refute a position they did not actually defend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_exaggerated_straw_me_85022b-Illustration-1-dark.svg" | relative_url }}" alt="Exaggeration illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_exaggerated_straw_me_85022b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_exaggerated_straw_me_85022b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -309,7 +309,7 @@ Second, exaggeration simplifies complex disagreements. Real disputes often invol
 Third, exaggeration can trigger emotional reactions. A listener may react strongly to a claim about banning something, destroying an industry or undermining public safety, even when no such proposal was made. The emotional response then attaches itself to the original speaker unfairly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XCrOde-JYs0" title="The Story of Ebola" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XCrOde-JYs0" target="_blank" rel="noopener noreferrer">The Story of Ebola</a></p><p class="youtube-embed-meta">Channel: Global Health Media Project &middot; Views: 88.1M &middot; Uploaded: June 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XCrOde-JYs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XCrOde-JYs0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jbkSRLYSojo" title="Hans Rosling&#x27;s 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jbkSRLYSojo" target="_blank" rel="noopener noreferrer">Hans Rosling&#x27;s 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC</a></p><p class="youtube-embed-meta">Channel: BBC &middot; Views: 11.4M &middot; Uploaded: November 2010 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jbkSRLYSojo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jbkSRLYSojo">Open on YouTube</a></p></div></div></div>
 
 ## Common Debate Examples and Warning Signs
 
@@ -355,10 +355,10 @@ An exaggerated straw man typically looks like:
 
 The first formulation asks whether a consequence follows. The second simply attributes the consequence as an established commitment.
 
-Argumentation theorists emphasise that evaluating alleged straw men requires attention to what a speaker is actually committed to defending within the [context]({{ 'context/' | relative_url }}) of the discussion. A criticism is legitimate when it engages those commitments; it becomes fallacious when it substitutes new commitments that were never accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">PhilPapersThe straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</span></span></span>
+Argumentation theorists emphasise that evaluating alleged straw men requires attention to what a speaker is actually committed to defending within the [context]({{ 'context/' | relative_url }}) of the discussion. A criticism is legitimate when it engages those commitments; it becomes fallacious when it substitutes new commitments that were never accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jbkSRLYSojo" title="Hans Rosling&#x27;s 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jbkSRLYSojo" target="_blank" rel="noopener noreferrer">Hans Rosling&#x27;s 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC</a></p><p class="youtube-embed-meta">Channel: BBC &middot; Views: 11.4M &middot; Uploaded: November 2010 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jbkSRLYSojo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jbkSRLYSojo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RUwS1uAdUcI" title="Hans Rosling: Debunking third-world myths with the best stats you&#x27;ve ever seen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RUwS1uAdUcI" target="_blank" rel="noopener noreferrer">Hans Rosling: Debunking third-world myths with the best stats you&#x27;ve ever seen</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.2M &middot; Uploaded: January 2007 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RUwS1uAdUcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RUwS1uAdUcI">Open on YouTube</a></p></div></div></div>
 
 ## How to Restate the Real Position
 
@@ -369,7 +369,7 @@ Instead, return to the original position.
 A useful approach is:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RUwS1uAdUcI" title="Hans Rosling: Debunking third-world myths with the best stats you&#x27;ve ever seen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RUwS1uAdUcI" target="_blank" rel="noopener noreferrer">Hans Rosling: Debunking third-world myths with the best stats you&#x27;ve ever seen</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.2M &middot; Uploaded: January 2007 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RUwS1uAdUcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RUwS1uAdUcI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jG1VNSCsP5Q" title="The Story of Cholera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jG1VNSCsP5Q" target="_blank" rel="noopener noreferrer">The Story of Cholera</a></p><p class="youtube-embed-meta">Channel: Global Health Media Project &middot; Views: 70.1M &middot; Uploaded: December 2011 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jG1VNSCsP5Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jG1VNSCsP5Q">Open on YouTube</a></p></div></div></div>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -824,106 +824,106 @@ The practical effect is that moderate positions can be made to appear unreasonab
 1. <a id="endnote-1"></a>
    Source: philpapers.org  
    Title: Phil Papers The straw man fallacy  
-   Link: [https://philpapers.org/rec/WALTSM-4](https://philpapers.org/rec/WALTSM-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PhilPapersThe straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</p></details>
+   Link: <a href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/WALTSM-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 110 — In this paper, an analysis is given of the straw man...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D](https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D)  
+   Link: <a href="https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Straw Man Fallacy (Chapter 9)Jun 5, 2014 — It is said to be the fallacy of misrepresenting an...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: owl.excelsior.edu  
    Title: OWLStraw Man Fallacy  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/strawman](https://yourlogicalfallacyis.com/strawman)  
+   Link: <a href="https://yourlogicalfallacyis.com/strawman" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/strawman</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is strawmanYou misrepresented someone&#x27;s argument to make it easier to attack. By exaggerating, misrepresenting, or j...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: writingcenter.unc.edu  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterIn the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position and tries to score points by kno...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: communicationcache.com  
    Title: two forms of the straw man  
-   Link: [https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf](https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf)  
+   Link: <a href="https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.communicationcache.com/uploads/1/0/8/8/10887248/two_forms_of_the_straw_man.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Communication CacheTwo Forms of the Straw Manby R TALISSE · 2006 · Cited by 132 — According to a widely accepted characterization, one co...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: markmanson.net  
-   Link: [https://markmanson.net/logical-fallacies](https://markmanson.net/logical-fallacies)  
+   Link: <a href="https://markmanson.net/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://markmanson.net/logical-fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mark Manson8 [Logical Fallacies](&amp;#123;&amp;#123; &#x27;logical-fallacies/&#x27; | relative_url &amp;#125;&amp;#125;) That Mess Us All UpThis is called the “straw man” fallacy because, like replacing a real person with a per...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Straw man  
-   Link: [https://en.wikipedia.org/wiki/Straw_man](https://en.wikipedia.org/wiki/Straw_man)  
+   Link: <a href="https://en.wikipedia.org/wiki/Straw_man" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Straw_man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Straw manA straw man fallacy (sometimes written as strawman) is the informal fallacy of refuting an argument different from the one ac...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribbr.com  
    Title: straw man fallacy  
-   Link: [https://www.scribbr.com/fallacies/straw-man-fallacy/](https://www.scribbr.com/fallacies/straw-man-fallacy/)  
+   Link: <a href="https://www.scribbr.com/fallacies/straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/fallacies/straw-man-fallacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Straw Man Fallacy? | Definition &amp; ExamplesApr 12, 2023 — Straw man fallacy is the distortion of someone else&#x27;s argument (instead...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: libguides.eur.nl  
-   Link: [https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation](https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation)  
+   Link: <a href="https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation" target="_blank" rel="noopener noreferrer nofollow">https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>information &amp; data: Argumentation26 Mar 2025 — In the straw man fallacy, the arguer sets up a weak version of the opponent&#x27;s position and...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man](https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man)  
+   Link: <a href="https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331066577_Diagnosing_Misattribution_of_Commitments_A_Normative_and_Pragmatic_Model_of_for_Assessing_Straw_Man</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Normative and Pragmatic Model of for Assessing Straw...Feb 23, 2019 — PDF | This paper builds a nine-step method for determining wheth...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/4d1pli/eli5_what_is_a_straw_man_argument/](https://www.reddit.com/r/explainlikeimfive/comments/4d1pli/eli5_what_is_a_straw_man_argument/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/4d1pli/eli5_what_is_a_straw_man_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/4d1pli/eli5_what_is_a_straw_man_argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What is a &#x27;Straw Man&#x27; argument?: r/explainlikeimfiveIt means that you&#x27;re not arguing against what your opponent actually said, but...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/](https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1evp0tf/eli5_what_is_a_strawman_argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eli5 what is a strawman argument?: r/explainlikeimfiveIt&#x27;s usually a distortion or exaggeration of your opponents views. Opponent: &quot;Sear...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rottentomatoes.com  
-   Link: [https://www.rottentomatoes.com/m/straw](https://www.rottentomatoes.com/m/straw)  
+   Link: <a href="https://www.rottentomatoes.com/m/straw" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/straw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STRAWA single mother&#x27;s world unravels in chaos as her day goes from bad to worse to catastrophic as she struggles to care for her ill dau...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1156570343134328/](https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1156570343134328/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1156570343134328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/todays-fallacy-straw-mandefinition-and-explanation-a-straw-man-argument-misrepre/1156570343134328/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TODAY&#x27;S FALLACY: STRAW MAN DEFINITION...... Straw Man fallacy. This informal fallacy involves replacing an opponent&#x27;s actual position wi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: deverbovitae.com  
-   Link: [https://www.deverbovitae.com/articles/strawman/](https://www.deverbovitae.com/articles/strawman/)  
+   Link: <a href="https://www.deverbovitae.com/articles/strawman/" target="_blank" rel="noopener noreferrer nofollow">https://www.deverbovitae.com/articles/strawman/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strawman ArgumentThe “straw man” fallacious argument takes place when a person refutes an argument which was not actually made but wa...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dwc.knaw.nl  
-   Link: [https://dwc.knaw.nl/DL/publications/PU00010685.pdf](https://dwc.knaw.nl/DL/publications/PU00010685.pdf)  
+   Link: <a href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dwc.knaw.nl/DL/publications/PU00010685.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The straw man fallacyIn this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in orde...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askphilosophy/comments/1n4ovpp/what_makes_strawman_a_fallacy/](https://www.reddit.com/r/askphilosophy/comments/1n4ovpp/what_makes_strawman_a_fallacy/)  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1n4ovpp/what_makes_strawman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1n4ovpp/what_makes_strawman_a_fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What makes strawman a fallacy?: r/askphilosophyI&#x27;m genuinely struggling to identify what&#x27;s the exact property of fallaciousness on the s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-14-straw-man-fallacydefinition-and-explanation-a-straw-man/823604086430957/](https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-14-straw-man-fallacydefinition-and-explanation-a-straw-man/823604086430957/)  
+   Link: <a href="https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-14-straw-man-fallacydefinition-and-explanation-a-straw-man/823604086430957/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ThinkingPowers/posts/most-common-fallacies-14-straw-man-fallacydefinition-and-explanation-a-straw-man/823604086430957/</a>  
 
 20. <a id="endnote-20"></a>
    Source: quizlet.com  
    Title: Logical Fallacies (The Writing Center, UNC-Chapel Hill)(D) Straw Man  
-   Link: [https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/](https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/)  
+   Link: <a href="https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/201912983/logical-fallacies-the-writing-center-unc-chapel-hill-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The arguer sets up a weak version of the opponent&#x27;s position and tries to score points by knocking it down. (D) [Red Herring](&amp;#123;&amp;#123; &#x27;red-herring/&#x27; | relative_url &amp;#125;&amp;#125;). Partway thro...</p></details>

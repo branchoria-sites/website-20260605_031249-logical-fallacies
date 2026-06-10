@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:58:14'
 parent_title: Will One Extension Ruin the Rules? | Fallacy Lab
 parent_permalink: /deadlines/
 parent_nav_short_title: Deadlines
@@ -265,7 +266,6 @@ next_link:
   permalink: /precedent-bb651f/
   short_title: Precedent
   heading_title: Does One Extension Force the Next?
-date: '2026-06-05 02:58:14 '
 header:
   og_image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-1.webp
@@ -301,7 +301,7 @@ Some objections to extensions are grounded in real risks rather than speculative
 
 A common problem arises when extension requests depend heavily on personal relationships. Individuals with supportive supervisors, sympathetic lecturers, or greater confidence in navigating bureaucracy may receive accommodations that others never discover are available.
 
-In such situations, fairness is threatened because access to flexibility depends on social position rather than relevant circumstances. Transparency research consistently identifies visibility of procedures and access to decision-makers as important [safeguards]({{ 'safeguards/' | relative_url }}) against unequal outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDProcedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
+In such situations, fairness is threatened because access to flexibility depends on social position rather than relevant circumstances. Transparency research consistently identifies visibility of procedures and access to decision-makers as important [safeguards]({{ 'safeguards/' | relative_url }}) against unequal outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuSlhlTl93g" title="Fairness in Practice: Aspects of Procedural Fairness Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuSlhlTl93g" target="_blank" rel="noopener noreferrer">Fairness in Practice: Aspects of Procedural Fairness Webinar</a></p><p class="youtube-embed-meta">Channel: BC Ombudsperson&#x27;s Office &middot; Views: 3.5K &middot; Uploaded: December 2017 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuSlhlTl93g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuSlhlTl93g">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ One administrator might regard caring responsibilities as sufficient justificati
 
 Fairness problems multiply when extension decisions are not recorded or explained.
 
-If applicants cannot see how decisions are made, they cannot determine whether the process is being applied consistently. Hidden exceptions also make it difficult for organisations to detect patterns of favouritism, bias, or unequal treatment. Transparency contributes to consistency and predictability precisely because it allows decisions to be compared against established standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDProcedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
+If applicants cannot see how decisions are made, they cannot determine whether the process is being applied consistently. Hidden exceptions also make it difficult for organisations to detect patterns of favouritism, bias, or unequal treatment. Transparency contributes to consistency and predictability precisely because it allows decisions to be compared against established standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-2-dark.svg" | relative_url }}" alt="Fairness Risk illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,7 +337,7 @@ A single extension request may signal a broader fairness problem when several wa
 These warning signs identify concrete [mechanisms]({{ 'mechanisms/' | relative_url }}) by which an extension system can become unfair. They are stronger arguments than abstract predictions that “the deadline will soon mean nothing.”
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ar39s8NQXUM" title="Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer">Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 5.9K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ar39s8NQXUM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nvm7Ur7yumY" title="Fairness by Design Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nvm7Ur7yumY" target="_blank" rel="noopener noreferrer">Fairness by Design Webinar</a></p><p class="youtube-embed-meta">Channel: BC Ombudsperson&#x27;s Office &middot; Views: 418 &middot; Uploaded: March 2023 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nvm7Ur7yumY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nvm7Ur7yumY">Open on YouTube</a></p></div></div></div>
 
 ## Why Equality Sometimes Requires Extensions
 
@@ -348,7 +348,7 @@ For example, disability accommodations often include extensions, additional cons
 This is why fairness debates should focus on relevant differences rather than identical treatment. If two cases differ in ways that matter to the purpose of the rule, different outcomes may be justified. What threatens fairness is not recognising relevant differences but applying them inconsistently.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6nhA_i4r_-Q" title="The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer">The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 2.1K &middot; Uploaded: May 2025 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6nhA_i4r_-Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ar39s8NQXUM" title="Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer">Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 5.9K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ar39s8NQXUM">Open on YouTube</a></p></div></div></div>
 
 ## How Consistent Criteria Protect Both Sides
 
@@ -370,7 +370,7 @@ Effective systems typically answer several questions in advance:
 
 When these questions are answered publicly, decision-makers retain flexibility while reducing arbitrariness. Consistent criteria also protect those who oppose an extension. They can be confident that the decision was made according to known rules rather than favouritism.
 
-Research and policy guidance across administrative and educational settings repeatedly link fairness to transparency, predictability, consistency, and documented procedures. These safeguards make it possible to grant justified extensions without undermining confidence in the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDProcedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lshtm.ac.uk">[LSHTM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lshtm.ac.uk</span><span class="citation-popover-title">ademic manual chapter 07</span><span class="citation-popover-snippet">LSHTM Academic Manual 2025-26 - Chapter 7This procedure is intended to be fair, consistent and transparent, whilst forming part of a fram...</span></span></span>
+Research and policy guidance across administrative and educational settings repeatedly link fairness to transparency, predictability, consistency, and documented procedures. These safeguards make it possible to grant justified extensions without undermining confidence in the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lshtm.ac.uk">[LSHTM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lshtm.ac.uk</span><span class="citation-popover-title">ademic manual chapter 07</span><span class="citation-popover-snippet">ademic Manual 2025-26 - Chapter 7This procedure is intended to be fair, consistent and transparent, whilst forming part of a fram...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-3-dark.svg" | relative_url }}" alt="Fairness Risk illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -380,7 +380,7 @@ The most important question is not whether one person received extra time. It is
 
 A slippery slope argument claims that an exception will inevitably produce unfairness. A fairness analysis asks whether the decision-making process already contains mechanisms that prevent unequal treatment. When criteria are transparent, reasons are documented, and similar cases are handled similarly, an extension may strengthen fairness rather than weaken it. When discretion is opaque, inconsistent, or selectively available, the fairness risk is genuine.
 
-The difference lies not in the exception itself, but in the quality of the process governing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDProcedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
+The difference lies not in the exception itself, but in the quality of the process governing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -803,106 +803,106 @@ The difference lies not in the exception itself, but in the quality of the proce
 
 1. <a id="endnote-1"></a>
    Source: alrc.gov.au  
-   Link: [https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/](https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/)  
+   Link: <a href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDProcedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: oiahe.org.uk  
-   Link: [https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/](https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/)  
+   Link: <a href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow">https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disability and requests for additional consideration - OIAHEExtensions to coursework submission [deadlines](&amp;#123;&amp;#123; &#x27;deadlines/&#x27; | relative_url &amp;#125;&amp;#125;);; Alternative methods of assess...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: www2.law.ucla.edu  
    Title: School of Law The Mechanisms of the Slippery Slope  
-   Link: [https://www2.law.ucla.edu/Volokh/slippery.pdf](https://www2.law.ucla.edu/Volokh/slippery.pdf)  
+   Link: <a href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www2.law.ucla.edu/Volokh/slippery.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slope risks might also be hidden - especially from aver- age voters - by information...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: qmul.ac.uk  
    Title: Extenuating Circumstances Policy  
-   Link: [https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf](https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf)  
+   Link: <a href="https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.qmul.ac.uk/governance-and-legal-services/media/dgls-media/policy/current-policies/Extenuating-Circumstances-Policy.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jun 2025 — a) Provide an extension to a written coursework deadline. Extensions would normally be a maximum 7 calendar days. Exception...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: decisions.scc-csc.ca  
    Title: SCC Decisions R. v. J.J  
-   Link: [https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do)  
+   Link: <a href="https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do" target="_blank" rel="noopener noreferrer nofollow">https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/19428/index.do</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SCC DecisionsR. v. J.J. - SCC Cases30 Jun 2022 — It is no answer simply to impugn a concern as a “slippery slope” argument. After all, so...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: claytonutz.com  
    Title: public law essentials procedural fairness  
-   Link: [https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness](https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness)  
+   Link: <a href="https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness" target="_blank" rel="noopener noreferrer nofollow">https://www.claytonutz.com/insights/2024/december/public-law-essentials-procedural-fairness</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Law Essentials: Procedural fairness2 Dec 2024 — Procedural fairness in administrative decision-making relates to the fairness of t...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lshtm.ac.uk  
    Title: ademic manual chapter 07  
-   Link: [https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf](https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LSHTM Academic Manual 2025-26 - Chapter 7This procedure is intended to be fair, consistent and transparent, whilst forming part of a fram...</p></details>
+   Link: <a href="https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ademic Manual 2025-26 - Chapter 7This procedure is intended to be fair, consistent and transparent, whilst forming part of a fram...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: diokami.wordpress.com  
    Title: fairness slippery slope  
-   Link: [https://diokami.wordpress.com/2015/03/10/fairness-slippery-slope/](https://diokami.wordpress.com/2015/03/10/fairness-slippery-slope/)  
+   Link: <a href="https://diokami.wordpress.com/2015/03/10/fairness-slippery-slope/" target="_blank" rel="noopener noreferrer nofollow">https://diokami.wordpress.com/2015/03/10/fairness-slippery-slope/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery Slope - Titivillus - WordPress.com10 Mar 2015 — A fairness slippery slope argument is one that exploits the vagueness of a categ...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskAcademiaUK/comments/1ih1dwu/derby_uni_have_removed_reasonable_adjustments_is/](https://www.reddit.com/r/AskAcademiaUK/comments/1ih1dwu/derby_uni_have_removed_reasonable_adjustments_is/)  
+   Link: <a href="https://www.reddit.com/r/AskAcademiaUK/comments/1ih1dwu/derby_uni_have_removed_reasonable_adjustments_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskAcademiaUK/comments/1ih1dwu/derby_uni_have_removed_reasonable_adjustments_is/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Derby Uni have removed reasonable adjustmentsWhile I agree that offering automatic extensions to every deadline may not be a reasonable a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Slippery_slope](https://en.wikipedia.org/wiki/Slippery_slope)  
+   Link: <a href="https://en.wikipedia.org/wiki/Slippery_slope" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Slippery_slope</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slippery slopeThe core of the slippery slope argument is that a specific decision under [debate](&amp;#123;&amp;#123; &#x27;debate/&#x27; | relative_url &amp;#125;&amp;#125;) is likely to result in unintended conse...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: realaw.blog  
-   Link: [https://realaw.blog/2025/01/17/triggering-access-to-justice-the-relation-between-the-duty-to-give-reasons-and-time-limits-in-administrative-litigation-in-italy-germany-and-france-by-flaminia-aperio-bella/](https://realaw.blog/2025/01/17/triggering-access-to-justice-the-relation-between-the-duty-to-give-reasons-and-time-limits-in-administrative-litigation-in-italy-germany-and-france-by-flaminia-aperio-bella/)  
+   Link: <a href="https://realaw.blog/2025/01/17/triggering-access-to-justice-the-relation-between-the-duty-to-give-reasons-and-time-limits-in-administrative-litigation-in-italy-germany-and-france-by-flaminia-aperio-bella/" target="_blank" rel="noopener noreferrer nofollow">https://realaw.blog/2025/01/17/triggering-access-to-justice-the-relation-between-the-duty-to-give-reasons-and-time-limits-in-administrative-litigation-in-italy-germany-and-france-by-flaminia-aperio-bella/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Triggering access to justice: the relation between the duty...17 Jan 2025 — This blog post focuses on time limits in administrative liti...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bryanschwartzlaw.com  
-   Link: [https://www.bryanschwartzlaw.com/a-win-for-fairness-in-the-u-s-supreme-court-administrative-filing-deadlines-are-not-generally-jurisdictional-requirements/](https://www.bryanschwartzlaw.com/a-win-for-fairness-in-the-u-s-supreme-court-administrative-filing-deadlines-are-not-generally-jurisdictional-requirements/)  
+   Link: <a href="https://www.bryanschwartzlaw.com/a-win-for-fairness-in-the-u-s-supreme-court-administrative-filing-deadlines-are-not-generally-jurisdictional-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://www.bryanschwartzlaw.com/a-win-for-fairness-in-the-u-s-supreme-court-administrative-filing-deadlines-are-not-generally-jurisdictional-requirements/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Supreme Court: Administrative Filing Deadlines are Not Generally Jurisdictional Requirements. The United States...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: canlii.org  
-   Link: [https://www.canlii.org/en/commentary/doc/2024CanLIIDocs31](https://www.canlii.org/en/commentary/doc/2024CanLIIDocs31)  
+   Link: <a href="https://www.canlii.org/en/commentary/doc/2024CanLIIDocs31" target="_blank" rel="noopener noreferrer nofollow">https://www.canlii.org/en/commentary/doc/2024CanLIIDocs31</a>  
 
 15. <a id="endnote-15"></a>
    Source: scope.org.uk  
    Title: reasonable adjustments college university  
-   Link: [https://www.scope.org.uk/advice-and-support/reasonable-adjustments-college-university](https://www.scope.org.uk/advice-and-support/reasonable-adjustments-college-university)  
+   Link: <a href="https://www.scope.org.uk/advice-and-support/reasonable-adjustments-college-university" target="_blank" rel="noopener noreferrer nofollow">https://www.scope.org.uk/advice-and-support/reasonable-adjustments-college-university</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reasonable adjustments in college and university26 Aug 2025 — Under the Equality Act, disabled students have rights to reasonable adjustm...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: hallandwilcox.com.au  
-   Link: [https://hallandwilcox.com.au/news/regulating-the-discretion-to-extend-time-applying-statutory-extension-of-time-provisions/](https://hallandwilcox.com.au/news/regulating-the-discretion-to-extend-time-applying-statutory-extension-of-time-provisions/)  
+   Link: <a href="https://hallandwilcox.com.au/news/regulating-the-discretion-to-extend-time-applying-statutory-extension-of-time-provisions/" target="_blank" rel="noopener noreferrer nofollow">https://hallandwilcox.com.au/news/regulating-the-discretion-to-extend-time-applying-statutory-extension-of-time-provisions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ringe upon the general right of access to the courts.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: yalelawandpolicy.org  
    Title: 6 mooney deadlines in civil litigation  
-   Link: [https://yalelawandpolicy.org/sites/default/files/YLPR/6_mooney_deadlines_in_civil_litigation.pdf](https://yalelawandpolicy.org/sites/default/files/YLPR/6_mooney_deadlines_in_civil_litigation.pdf)  
+   Link: <a href="https://yalelawandpolicy.org/sites/default/files/YLPR/6_mooney_deadlines_in_civil_litigation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://yalelawandpolicy.org/sites/default/files/YLPR/6_mooney_deadlines_in_civil_litigation.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deadlines in Civil Litigationby J Mooney · 2019 · Cited by 4 — But the new weighing principles would provide a more equitable normative b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: edwebcontent.ed.ac.uk  
    Title: exceptional circumstances policy final  
-   Link: [https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/exceptional_circumstances_policy_-_final.pdf](https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/exceptional_circumstances_policy_-_final.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EdWeb ContentExceptional Circumstances Policy16 Sept 2024 — 1.1 The purpose of this policy is to ensure a fair and consistent response to...</p></details>
+   Link: <a href="https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/exceptional_circumstances_policy_-_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edwebcontent.ed.ac.uk/sites/default/files/atoms/files/exceptional_circumstances_policy_-_final.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Web ContentExceptional Circumstances Policy16 Sept 2024 — 1.1 The purpose of this policy is to ensure a fair and consistent response to...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: europeanpapers.eu  
    Title: A Journal on Law and Integration, Vol  
-   Link: [https://www.europeanpapers.eu/sites/default/files/EP_eJ_2021_2.pdf](https://www.europeanpapers.eu/sites/default/files/EP_eJ_2021_2.pdf)  
+   Link: <a href="https://www.europeanpapers.eu/sites/default/files/EP_eJ_2021_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanpapers.eu/sites/default/files/EP_eJ_2021_2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6, 2021, No 2... precedent for the K 3/21 ruling. This [tu quoque](&amp;#123;&amp;#123; &#x27;tu-quoque/&#x27; | relative_url &amp;#125;&amp;#125;) argument is unfounded, as the two rulings reveal a number of dis- simila...</p></details>

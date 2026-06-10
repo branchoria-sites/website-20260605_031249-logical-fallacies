@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:08:24'
 parent_title: What Is the Wording Sneaking In? | Fallacy Lab
 parent_permalink: /loaded-words/
 parent_nav_short_title: Loaded Words
@@ -265,7 +266,6 @@ next_link:
   permalink: /loaded-questions/
   short_title: Loaded Questions
   heading_title: When Does a Question Smuggle In an Answer?
-date: '2026-06-05 02:08:24 '
 header:
   og_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1.webp
@@ -274,7 +274,7 @@ image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hid
 
 ## Introduction
 
-Many arguments rely on background assumptions, and that is not automatically a problem. Communication would be impossible if every speaker had to defend every premise from first principles. The difficulty arises when an argument depends on an assumption that is controversial, unsupported, or hidden from view. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), especially those involving [loaded language]({{ 'loaded-words/' | relative_url }}) and presuppositions, the most important question is often not “What evidence was given?” but “What must already be true for this argument to work?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">4.05: Check the Argument&#x27;s Assumptions</span><span class="citation-popover-snippet">Humanities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Many arguments rely on background assumptions, and that is not automatically a problem. Communication would be impossible if every speaker had to defend every premise from first principles. The difficulty arises when an argument depends on an assumption that is controversial, unsupported, or hidden from view. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), especially those involving loaded language and presuppositions, the most important question is often not “What evidence was given?” but “What must already be true for this argument to work?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">4.05: Check the Argument&#x27;s Assumptions</span><span class="citation-popover-snippet">ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -310,11 +310,11 @@ The hidden premise is not the word “unnatural” itself. The crucial assumptio
 Hidden assumptions often become easier to see when a claim seems to jump too quickly from a fact to a judgement. The missing link is usually the assumption that needs attention.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/liDxHecnXC8" title="Analysing Arguments Tutorial - How to Answer Arguments Critical Thinking Q&#x27;s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=liDxHecnXC8" target="_blank" rel="noopener noreferrer">Analysing Arguments Tutorial - How to Answer Arguments Critical Thinking Q&#x27;s</a></p><p class="youtube-embed-meta">Channel: AssessmentDay &middot; Views: 28.9K &middot; Uploaded: May 2018 &middot; Length: 3 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=liDxHecnXC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=liDxHecnXC8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BRflpIUqYiI" title="Complex Question (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BRflpIUqYiI" target="_blank" rel="noopener noreferrer">Complex Question (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 21.3K &middot; Uploaded: February 2014 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BRflpIUqYiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BRflpIUqYiI">Open on YouTube</a></p></div></div></div>
 
 ## A Simple Diagnostic: Ask “What Must Be True?”
 
-One of the most effective methods for uncovering assumptions is to ask what must be true for the argument to succeed. Educational resources on argument analysis consistently emphasise that evaluating assumptions is a core test of argument strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">4.05: Check the Argument&#x27;s Assumptions</span><span class="citation-popover-snippet">Humanities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+One of the most effective methods for uncovering assumptions is to ask what must be true for the argument to succeed. Educational resources on argument analysis consistently emphasise that evaluating assumptions is a core test of argument strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">4.05: Check the Argument&#x27;s Assumptions</span><span class="citation-popover-snippet">ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 Suppose someone argues:
 
@@ -375,7 +375,7 @@ Separating these elements improves argument evaluation because evidence can be c
 One practical method is to write the argument in three parts:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BRflpIUqYiI" title="Complex Question (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BRflpIUqYiI" target="_blank" rel="noopener noreferrer">Complex Question (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 21.3K &middot; Uploaded: February 2014 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BRflpIUqYiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BRflpIUqYiI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/07mehbgE5jc" title="Identifying Premises and Conclusions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=07mehbgE5jc" target="_blank" rel="noopener noreferrer">Identifying Premises and Conclusions</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 391.9K &middot; Uploaded: January 2013 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=07mehbgE5jc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=07mehbgE5jc">Open on YouTube</a></p></div></div></div>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -429,7 +429,7 @@ Because these assumptions operate beneath the surface of the argument, they can 
 Before accepting an argument, ask:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/07mehbgE5jc" title="Identifying Premises and Conclusions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=07mehbgE5jc" target="_blank" rel="noopener noreferrer">Identifying Premises and Conclusions</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 391.9K &middot; Uploaded: January 2013 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=07mehbgE5jc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=07mehbgE5jc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YrXZO_wwX6c" title="Critical Thinking #6: Implicit Premises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YrXZO_wwX6c" target="_blank" rel="noopener noreferrer">Critical Thinking #6: Implicit Premises</a></p><p class="youtube-embed-meta">Channel: David Pakman Show &middot; Views: 22.9K &middot; Uploaded: March 2018 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YrXZO_wwX6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YrXZO_wwX6c">Open on YouTube</a></p></div></div></div>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -867,163 +867,163 @@ These questions shift attention from persuasive wording to argumentative structu
 1. <a id="endnote-1"></a>
    Source: human.libretexts.org  
    Title: 4.05: Check the Argument's Assumptions  
-   Link: [https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions](https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</p></details>
+   Link: <a href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</p></details>
    Published: May 2025  
 
 2. <a id="endnote-2"></a>
    Source: iu.pressbooks.pub  
-   Link: [https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/](https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/)  
+   Link: <a href="https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/" target="_blank" rel="noopener noreferrer nofollow">https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ent, but that is left implicit or unstated.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: philosophy.hku.hk  
-   Link: [https://philosophy.hku.hk/think/arg/hidden.php](https://philosophy.hku.hk/think/arg/hidden.php)  
+   Link: <a href="https://philosophy.hku.hk/think/arg/hidden.php" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.hku.hk/think/arg/hidden.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[A07] Hidden AssumptionsWhen people give arguments sometimes certain assumptions are left implicit. Example: Cloning human beings is wro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: condor.depaul.edu  
-   Link: [https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html](https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html)  
+   Link: <a href="https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html" target="_blank" rel="noopener noreferrer nofollow">https://condor.depaul.edu/jmaresh/think/Critical_Thinking_print.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Critical ThinkingContrasting Assumptions. If two sides are arguing from different assumptions, it is very effective to focus o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: wrestling-with-philosophy.com  
    Title: In an argument, the conclusion should follow from the premises.Read more  
-   Link: [https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/](https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/)  
+   Link: <a href="https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/" target="_blank" rel="noopener noreferrer nofollow">https://wrestling-with-philosophy.com/2013/01/28/critical-thinking-defining-an-argument-premises-and-conclusions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wrestling with PhilosophyCritical Thinking: Defining an Argument, Premises, and...28 Jan 2013 — The premises are independent reasons and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Loaded question  
-   Link: [https://en.wikipedia.org/wiki/Loaded_question](https://en.wikipedia.org/wiki/Loaded_question)  
+   Link: <a href="https://en.wikipedia.org/wiki/Loaded_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Loaded_question</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Presupposition](https://en.wikipedia.org/wiki/Presupposition)  
+   Link: <a href="https://en.wikipedia.org/wiki/Presupposition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Presupposition</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Begging the question  
-   Link: [https://en.wikipedia.org/wiki/Begging_the_question](https://en.wikipedia.org/wiki/Begging_the_question)  
+   Link: <a href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Begging_the_question</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Begging the questionIn modern philosophical usage, it has come to refer to an argument in which the premises assume the conclusion wit...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesFallacy of many questions (complex question, fallacy of presuppositions, loaded question, plurium interrogationum) –...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: [Argument map](&#123;&#123; 'argument-map/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Argument_map](https://en.wikipedia.org/wiki/Argument_map)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_map</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument mapThe purpose of mapping is to uncover the logical structure of arguments, identify unstated assumptions, evaluate the suppo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: my.uq.edu.au  
-   Link: [https://my.uq.edu.au/information-and-services/student-support/study-skills-and-learning-advice/general-study-skills/critical-reading-and-analysis](https://my.uq.edu.au/information-and-services/student-support/study-skills-and-learning-advice/general-study-skills/critical-reading-and-analysis)  
+   Link: <a href="https://my.uq.edu.au/information-and-services/student-support/study-skills-and-learning-advice/general-study-skills/critical-reading-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://my.uq.edu.au/information-and-services/student-support/study-skills-and-learning-advice/general-study-skills/critical-reading-and-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reading and analysisQuestion as you read · Look for links · Evaluate the argument · Assess the source of the information · Identify gaps...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition)  
+   Link: <a href="https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/presupposition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PresuppositionAccording to the presupposition thesis, both (2) and (3) presuppose (4). Hence, if (4) is false, then (2) and (3) must lack...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/critical-thinking/](https://iep.utm.edu/critical-thinking/)  
+   Link: <a href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/critical-thinking/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesYou use this fallacy when you frame a question so that some controversial presupposition is m...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/complex.html](https://philosophy.lander.edu/logic/complex.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/complex.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/complex.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageFallacy of Complex QuestionThe complex question fallacy is usually resolved by challenging the false or dubious presu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Complex Question is a form of Begging the Question. Composition. The Compositi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 417 — Two competing conceptions of fallacies are that they are false but...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/fall2013/entries/presupposition/](https://plato.stanford.edu/archives/fall2013/entries/presupposition/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/presupposition/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/presupposition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyApr 1, 2011 — We discuss presupposition, the phenomenon whereby speakers mark linguistically the infor...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/fallacy](https://www.britannica.com/topic/fallacy)  
+   Link: <a href="https://www.britannica.com/topic/fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic, Definition &amp; Examples13 Feb 2026 — An argument may be fallacious in three ways: in its material content, through a misstatement of...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: archive.learnhigher.ac.uk  
-   Link: [https://archive.learnhigher.ac.uk/resources/files/Critical%20thinking/8%20Critical%20Thinking.pdf](https://archive.learnhigher.ac.uk/resources/files/Critical%20thinking/8%20Critical%20Thinking.pdf)  
+   Link: <a href="https://archive.learnhigher.ac.uk/resources/files/Critical%20thinking/8%20Critical%20Thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.learnhigher.ac.uk/resources/files/Critical%20thinking/8%20Critical%20Thinking.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Thinking | The LearnHigherDoes the argument follow – e.g. does a particular premise really lead to the conclusion offered? 2.4 W...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: learn1.open.ac.uk  
-   Link: [https://learn1.open.ac.uk/mod/oublog/view.php?user=25823](https://learn1.open.ac.uk/mod/oublog/view.php?user=25823)  
+   Link: <a href="https://learn1.open.ac.uk/mod/oublog/view.php?user=25823" target="_blank" rel="noopener noreferrer nofollow">https://learn1.open.ac.uk/mod/oublog/view.php?user=25823</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blogs | learn122 Jul 2020 — Critical writing. = Critical thinking. And then consider that: Critical reading = argument analysis. And: Cri...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/54599119/Critical-Reasoning-1](https://www.scribd.com/document/54599119/Critical-Reasoning-1)  
+   Link: <a href="https://www.scribd.com/document/54599119/Critical-Reasoning-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/54599119/Critical-Reasoning-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Reasoning Assumption Strategies | PDF | ArgumentIt discusses how to identify assumptions, strengthen or weaken arguments, make i...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: readlite.in  
-   Link: [https://readlite.in/reading-rituals/argument-assumptions](https://readlite.in/reading-rituals/argument-assumptions)  
+   Link: <a href="https://readlite.in/reading-rituals/argument-assumptions" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/reading-rituals/argument-assumptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find Hidden AssumptionsArgument assumptions are unstated beliefs that must be true for a claim to hold. They&#x27;re the invisible bridges bet...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: quizlet.com  
-   Link: [https://quizlet.com/548330619/logic-fallacies-of-presupposition-flash-cards/](https://quizlet.com/548330619/logic-fallacies-of-presupposition-flash-cards/)  
+   Link: <a href="https://quizlet.com/548330619/logic-fallacies-of-presupposition-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/548330619/logic-fallacies-of-presupposition-flash-cards/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic Fallacies of Presupposition FlashcardsA subgroup of the fallacies of presumption. These arguments contain hidden assumptions that m...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy](https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Complex-Question-Fallacy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Question FallacyDescription: A question that has a presupposition built in, which implies something but protects the one asking t...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sussex.ac.uk  
-   Link: [https://www.sussex.ac.uk/skills-hub/critical-thinking](https://www.sussex.ac.uk/skills-hub/critical-thinking)  
+   Link: <a href="https://www.sussex.ac.uk/skills-hub/critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.ac.uk/skills-hub/critical-thinking</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SussexCritical thinking: Skills HubA valid argument needs two conditions: All the premises upon which the argument is base...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: studocu.com  
    Title: Critical Thinking: Analysis of Arguments & Assumptions Uploaded by; 1  
-   Link: [https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598](https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598)  
+   Link: <a href="https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-gb/document/city-university-of-london/critical-thinking/critical-thinking-arguments-and-assumptions/21928598</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is an [exaggeration](&amp;#123;&amp;#123; &#x27;exaggeration/&#x27; | relative_url &amp;#125;&amp;#125;)?; 2. What is over generalization?; 3. What is reconstructing an argument?; 4. What is a premise and a conclusi...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: prep4gmat.com  
    Title: gmat critical reasoning finding the hidden assumptions  
-   Link: [https://prep4gmat.com/blog_subdomain/gmat-critical-reasoning-finding-the-hidden-assumptions/](https://prep4gmat.com/blog_subdomain/gmat-critical-reasoning-finding-the-hidden-assumptions/)  
+   Link: <a href="https://prep4gmat.com/blog_subdomain/gmat-critical-reasoning-finding-the-hidden-assumptions/" target="_blank" rel="noopener noreferrer nofollow">https://prep4gmat.com/blog_subdomain/gmat-critical-reasoning-finding-the-hidden-assumptions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GMAT critical reasoning: Finding the hidden assumptions28 Nov 2021 — An assumption is simply an unstated premise in an argument – though...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: readlite.in  
-   Link: [https://readlite.in/concepts/identify-hidden-assumptions](https://readlite.in/concepts/identify-hidden-assumptions)  
+   Link: <a href="https://readlite.in/concepts/identify-hidden-assumptions" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/identify-hidden-assumptions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authors rarely spell out every step of their reasoning — they assume...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/271920521360867/posts/548414493711467/](https://www.facebook.com/groups/271920521360867/posts/548414493711467/)  
+   Link: <a href="https://www.facebook.com/groups/271920521360867/posts/548414493711467/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/271920521360867/posts/548414493711467/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying assumptions in critical thinking passages for...✒️Assumption: The missing link between the premise(s) and the conclusion...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: prepairo.ai  
-   Link: [https://prepairo.ai/gre/blogs/critical-reasoning-strategies-gre-arguments-assumptions-evidence](https://prepairo.ai/gre/blogs/critical-reasoning-strategies-gre-arguments-assumptions-evidence)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PrepAiroCritical Reasoning Strategies for GRE | Arguments &amp;...23 Dec 2025 — The Assumptions: The unstated beliefs that connect premises...</p></details>
+   Link: <a href="https://prepairo.ai/gre/blogs/critical-reasoning-strategies-gre-arguments-assumptions-evidence" target="_blank" rel="noopener noreferrer nofollow">https://prepairo.ai/gre/blogs/critical-reasoning-strategies-gre-arguments-assumptions-evidence</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Reasoning Strategies for GRE | Arguments &amp;...23 Dec 2025 — The Assumptions: The unstated beliefs that connect premises...</p></details>

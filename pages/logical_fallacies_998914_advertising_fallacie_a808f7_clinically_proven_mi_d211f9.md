@@ -278,7 +278,7 @@ image: /assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_clini
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_clinically_proven_mi_d211f9-Illustration-1-dark.svg" | relative_url }}" alt="Clinical Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_clinically_proven_mi_d211f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_clinically_proven_mi_d211f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This makes clinically proven language a useful example of a fallacy-like advertising technique. The wording may be literally true—some kind of clinical test may have occurred—while still inviting a stronger conclusion than the disclosed evidence supports. Regulators in both the United States and the United Kingdom emphasise that objective health and efficacy claims require appropriate substantiation and that implied messages can be as important as explicit statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">The reasonable basis doctrine requires that firms have substantiation before disseminating a claim.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/universities-comparative-claims.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">universities comparative claims</span><span class="citation-popover-snippet">ASAComparisons: Universities15 Apr 2025 — The CAP Code requires advertisers to hold documentary evidence to substantiate claims that cons...</span></span></span>
+This makes clinically proven language a useful example of a fallacy-like advertising technique. The wording may be literally true—some kind of clinical test may have occurred—while still inviting a stronger conclusion than the disclosed evidence supports. Regulators in both the United States and the United Kingdom emphasise that objective health and efficacy claims require appropriate substantiation and that implied messages can be as important as explicit statements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">The reasonable basis doctrine requires that firms have substantiation before disseminating a claim.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/universities-comparative-claims.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">universities comparative claims</span><span class="citation-popover-snippet">Comparisons: Universities15 Apr 2025 — The CAP Code requires advertisers to hold documentary evidence to substantiate claims that cons...</span></span></span>
 
 ## What Makes Scientific Language So Persuasive?
 
@@ -296,13 +296,13 @@ When a company highlights a clinical claim without key details, several importan
 
 A result is difficult to interpret without a comparison. If a moisturiser is “clinically proven to improve skin appearance”, was it compared with a placebo, a competing product, no treatment at all, or simply the users' own baseline condition?
 
-Different comparisons can produce very different impressions. A product that performs slightly better than doing nothing may sound impressive in advertising, but that does not mean it performs better than established alternatives. Regulatory guidance often treats comparative claims as requiring particular evidence because consumers naturally infer superiority when comparisons are implied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">beauty and cosmetics general</span><span class="citation-popover-snippet">ASABeauty and Cosmetics: General2 Feb 2026 — Marketers of beauty and cosmetics must hold clinical evidence of any efficacy claims, and sh...</span></span></span>
+Different comparisons can produce very different impressions. A product that performs slightly better than doing nothing may sound impressive in advertising, but that does not mean it performs better than established alternatives. Regulatory guidance often treats comparative claims as requiring particular evidence because consumers naturally infer superiority when comparisons are implied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">beauty and cosmetics general</span><span class="citation-popover-snippet">Beauty and Cosmetics: General2 Feb 2026 — Marketers of beauty and cosmetics must hold clinical evidence of any efficacy claims, and sh...</span></span></span>
 
 ### How Many People Were Tested?
 
 Sample size matters because small studies can produce unstable or misleading results by chance alone. A positive result involving a handful of participants is generally less convincing than a result replicated across larger groups.
 
-Advertisements rarely feature the sample size prominently. Yet knowing whether a claim is based on 15 participants or 1,500 can dramatically change how much confidence a reader should place in the finding. Scientific and regulatory guidance consistently places importance on study quality, design and statistical reliability rather than merely the existence of a study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cooley.com">[Cooley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cooley.com</span><span class="citation-popover-title">2023 03 02 ftc revises health products compliance guidance</span><span class="citation-popover-snippet">CooleyFTC Revises Health Products Compliance Guidance2 Mar 2023 — Only then can advertisers confidently say that their health claim is su...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">The reasonable basis doctrine requires that firms have substantiation before disseminating a claim.Read more...</span></span></span>
+Advertisements rarely feature the sample size prominently. Yet knowing whether a claim is based on 15 participants or 1,500 can dramatically change how much confidence a reader should place in the finding. Scientific and regulatory guidance consistently places importance on study quality, design and statistical reliability rather than merely the existence of a study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cooley.com">[Cooley]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cooley.com</span><span class="citation-popover-title">2023 03 02 ftc revises health products compliance guidance</span><span class="citation-popover-snippet">FTC Revises Health Products Compliance Guidance2 Mar 2023 — Only then can advertisers confidently say that their health claim is su...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">The reasonable basis doctrine requires that firms have substantiation before disseminating a claim.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1q_kA5yKwFE" title="Why You Can&#x27;t Trust Nutrition Science &amp; Health Claims" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1q_kA5yKwFE" target="_blank" rel="noopener noreferrer">Why You Can&#x27;t Trust Nutrition Science &amp; Health Claims</a></p><p class="youtube-embed-meta">Channel: After Skool &middot; Views: 458.1K &middot; Uploaded: September 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1q_kA5yKwFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1q_kA5yKwFE">Open on YouTube</a></p></div></div></div>
@@ -351,7 +351,7 @@ None of those conclusions necessarily follows from the phrase alone.
 
 The underlying study might have involved a small sample, measured a narrow outcome, lasted only a short period or found only a modest improvement. The advertisement may not be explicitly false if a clinical study supported some reduction in a measured indicator. The logical problem is that consumers are encouraged to infer far more than the words themselves establish.
 
-This is a common pattern in [advertising fallacies]({{ 'advertising/' | relative_url }}): a limited premise is used to support a much broader conclusion.
+This is a common pattern in advertising fallacies: a limited premise is used to support a much broader conclusion.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Urny4oFBbto" title="How Commercials Get Us To Buy Crap We Don&#x27;t Need" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Urny4oFBbto" target="_blank" rel="noopener noreferrer">How Commercials Get Us To Buy Crap We Don&#x27;t Need</a></p><p class="youtube-embed-meta">Channel: AJ+ &middot; Views: 401.6K &middot; Uploaded: December 2015 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Urny4oFBbto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Urny4oFBbto">Open on YouTube</a></p></div></div></div>
@@ -400,7 +400,7 @@ The first statement may be accurate. The second and third require additional evi
 “Clinically proven” becomes misleading when consumers treat it as a substitute for understanding the study itself. The missing details—comparison group, sample size, outcomes, methodology and overall results—are precisely the information needed to determine whether the conclusion is warranted. Without them, the phrase often functions less as evidence and more as a cue that encourages trust in the appearance of science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fdli.org">[Food and Drug Law Institute (FDLI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fdli.org</span><span class="citation-popover-snippet">takes the position that certain literally true claims, such as “cardiologist recommended” and “clinically tested”...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kslaw.com">[King &amp; Spalding]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kslaw.com</span><span class="citation-popover-snippet">King &amp; SpaldingFTC Revises and Expands Guidance for Health Claims2 Feb 2023 — FTC would consider the reference to the “clinically tested...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n64Xgr6VDYQ" title="Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer">Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy.</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 8.6K &middot; Uploaded: January 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n64Xgr6VDYQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1KUjyF44rFM" title="Bad Science in Consumer Health Products and Services. Presentation by Ryan Armstrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1KUjyF44rFM" target="_blank" rel="noopener noreferrer">Bad Science in Consumer Health Products and Services. Presentation by Ryan Armstrong</a></p><p class="youtube-embed-meta">Channel: Centre for Inquiry Canada &middot; Views: 132 &middot; Uploaded: December 2020 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1KUjyF44rFM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1KUjyF44rFM">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -824,129 +824,129 @@ The first statement may be accurate. The second and third require additional evi
 
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation](https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation)  
+   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The reasonable basis doctrine requires that firms have substantiation before disseminating a claim.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: fdli.org  
-   Link: [https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/](https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/)  
+   Link: <a href="https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/" target="_blank" rel="noopener noreferrer nofollow">https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>takes the position that certain literally true claims, such as “cardiologist recommended” and “clinically tested”...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: asa.org.uk  
    Title: universities comparative claims  
-   Link: [https://www.asa.org.uk/advice-online/universities-comparative-claims.html](https://www.asa.org.uk/advice-online/universities-comparative-claims.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASAComparisons: Universities15 Apr 2025 — The CAP Code requires advertisers to hold documentary evidence to substantiate claims that cons...</p></details>
+   Link: <a href="https://www.asa.org.uk/advice-online/universities-comparative-claims.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/universities-comparative-claims.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparisons: Universities15 Apr 2025 — The CAP Code requires advertisers to hold documentary evidence to substantiate claims that cons...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cooley.com  
    Title: 2023 03 02 ftc revises health products compliance guidance  
-   Link: [https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance](https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CooleyFTC Revises Health Products Compliance Guidance2 Mar 2023 — Only then can advertisers confidently say that their health claim is su...</p></details>
+   Link: <a href="https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2023/2023-03-02-ftc-revises-health-products-compliance-guidance</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revises Health Products Compliance Guidance2 Mar 2023 — Only then can advertisers confidently say that their health claim is su...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: asa.org.uk  
    Title: beauty and cosmetics general  
-   Link: [https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html](https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASABeauty and Cosmetics: General2 Feb 2026 — Marketers of beauty and cosmetics must hold clinical evidence of any efficacy claims, and sh...</p></details>
+   Link: <a href="https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/beauty-and-cosmetics-general.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beauty and Cosmetics: General2 Feb 2026 — Marketers of beauty and cosmetics must hold clinical evidence of any efficacy claims, and sh...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: cms.law  
-   Link: [https://cms.law/en/gbr/legal-updates/ctpa-and-asa-publish-guidance-on-claims-made-in-cosmetics-adverts](https://cms.law/en/gbr/legal-updates/ctpa-and-asa-publish-guidance-on-claims-made-in-cosmetics-adverts)  
+   Link: <a href="https://cms.law/en/gbr/legal-updates/ctpa-and-asa-publish-guidance-on-claims-made-in-cosmetics-adverts" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-updates/ctpa-and-asa-publish-guidance-on-claims-made-in-cosmetics-adverts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CTPA and ASA publish guidance on claims made in...The Guidance confirms that claims should be supported by sound, relevant and clear evi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/news/advertising-complementary-and-alternative-medicines-and-therapies.html](https://www.asa.org.uk/news/advertising-complementary-and-alternative-medicines-and-therapies.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASAAdvertising complementary and alternative medicines and...26 Mar 2026 — As with any other marketing claim, all efficacy claims about...</p></details>
+   Link: <a href="https://www.asa.org.uk/news/advertising-complementary-and-alternative-medicines-and-therapies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/news/advertising-complementary-and-alternative-medicines-and-therapies.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advertising complementary and alternative medicines and...26 Mar 2026 — As with any other marketing claim, all efficacy claims about...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: asa.org.uk  
    Title: types of claims general  
-   Link: [https://www.asa.org.uk/advice-online/types-of-claims-general.html](https://www.asa.org.uk/advice-online/types-of-claims-general.html)  
+   Link: <a href="https://www.asa.org.uk/advice-online/types-of-claims-general.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/types-of-claims-general.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of claims: General12 Mar 2026 — Some types of claims are commonly used in advertising. When assessing claims, the ASA will consider...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: asa.org.uk  
-   Link: [https://www.asa.org.uk/advice-online/substantiation.html](https://www.asa.org.uk/advice-online/substantiation.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASASubstantiation12 Mar 2026 — Marketers must hold documentary evidence to prove claims that consumers are likely to regard as objective...</p></details>
+   Link: <a href="https://www.asa.org.uk/advice-online/substantiation.html" target="_blank" rel="noopener noreferrer nofollow">https://www.asa.org.uk/advice-online/substantiation.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Substantiation12 Mar 2026 — Marketers must hold documentary evidence to prove claims that consumers are likely to regard as objective...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: kslaw.com  
-   Link: [https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=](https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=)  
+   Link: <a href="https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=" target="_blank" rel="noopener noreferrer nofollow">https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>King &amp; SpaldingFTC Revises and Expands Guidance for Health Claims2 Feb 2023 — FTC would consider the reference to the “clinically tested...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bbbprograms.org  
-   Link: [https://bbbprograms.org/media/insights/blog/ftc-health-claims-guidance](https://bbbprograms.org/media/insights/blog/ftc-health-claims-guidance)  
+   Link: <a href="https://bbbprograms.org/media/insights/blog/ftc-health-claims-guidance" target="_blank" rel="noopener noreferrer nofollow">https://bbbprograms.org/media/insights/blog/ftc-health-claims-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BBB ProgramsFTC&#x27;s New Health Claims Guidance: What You Need to...15 Feb 2023 — Competent and reliable scientific evidence (C&amp;RSE) is req...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ropesgray.com  
    Title: Ropes & Gray Consumer Products in Focus: New FTC and FDA  
-   Link: [https://www.ropesgray.com/en/insights/alerts/2023/01/consumer-products-in-focus-new-ftc-and-fda-guidances-address-the-marketing-of-health-products](https://www.ropesgray.com/en/insights/alerts/2023/01/consumer-products-in-focus-new-ftc-and-fda-guidances-address-the-marketing-of-health-products)  
+   Link: <a href="https://www.ropesgray.com/en/insights/alerts/2023/01/consumer-products-in-focus-new-ftc-and-fda-guidances-address-the-marketing-of-health-products" target="_blank" rel="noopener noreferrer nofollow">https://www.ropesgray.com/en/insights/alerts/2023/01/consumer-products-in-focus-new-ftc-and-fda-guidances-address-the-marketing-of-health-products</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ropes &amp; GrayConsumer Products in Focus: New FTC and FDA...January 10, 2023 — 10 Jan 2023 — The Health Products Guidance explains that cl...</p></details>
    Published: January 10, 2023  
 
 14. <a id="endnote-14"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/media/77832/download](https://www.fda.gov/media/77832/download)  
+   Link: <a href="https://www.fda.gov/media/77832/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/77832/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance for Industry:Patient-Reported Outcome MeasuresStatistical Considerations for Patient-Level Missing Data. When the amount of miss...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: academyofphysicalmedicine.co.uk  
-   Link: [https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf](https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf)  
+   Link: <a href="https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academyofphysicalmedicine.co.uk/wp-content/uploads/2017/04/ASA-Guidance.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA GUIDANCE: Marketing ClaimsThe CAP makes it clear that, before submitting marketing communications for publication, marketers must ens...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: jonesday.com  
-   Link: [https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising](https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising)  
+   Link: <a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pagb.co.uk  
-   Link: [https://www.pagb.co.uk/content/uploads/2018/02/2016-Self-care-medical-devices-advertising-guideline.pdf](https://www.pagb.co.uk/content/uploads/2018/02/2016-Self-care-medical-devices-advertising-guideline.pdf)  
+   Link: <a href="https://www.pagb.co.uk/content/uploads/2018/02/2016-Self-care-medical-devices-advertising-guideline.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pagb.co.uk/content/uploads/2018/02/2016-Self-care-medical-devices-advertising-guideline.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Care Medical Devices Advertising GuidelineFor clinical claims, advertisers must be able to demonstrate that they have taken a system...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: intertek.com  
-   Link: [https://www.intertek.com/form/webinars-the-new-ftc-health-products-compliance-guide-emea/](https://www.intertek.com/form/webinars-the-new-ftc-health-products-compliance-guide-emea/)  
+   Link: <a href="https://www.intertek.com/form/webinars-the-new-ftc-health-products-compliance-guide-emea/" target="_blank" rel="noopener noreferrer nofollow">https://www.intertek.com/form/webinars-the-new-ftc-health-products-compliance-guide-emea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New FTC Health Products Compliance GuideAlso new is the very clear guidance on the “competent and reliable scientific evidence” subst...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cov.com  
-   Link: [https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide](https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide)  
+   Link: <a href="https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cov.com/en/news-and-insights/insights/2023/01/ftc-issues-new-guidance-on-health-related-claims-to-replace-the-dietary-supplements-advertising-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Issues New Guidance on Health-Related Claims to...5 Jan 2023 — The guidance includes a more detailed discussion of the amount and ty...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nutraceuticalsworld.com  
-   Link: [https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/](https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/)  
+   Link: <a href="https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reviewing Claims Substantiation for Supplements and the...10 Jan 2024 — For so-called “establishment claims”—claims that reference a spe...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/nutrition-and-health-claims-guidance-to-compliance-with-regulation-ec-1924-2006-on-nutrition-and-health-claims-made-on-foods/nutrition-and-health-claims-guidance-to-compliance-with-regulation-ec-19242006](https://www.gov.uk/government/publications/nutrition-and-health-claims-guidance-to-compliance-with-regulation-ec-1924-2006-on-nutrition-and-health-claims-made-on-foods/nutrition-and-health-claims-guidance-to-compliance-with-regulation-ec-19242006)  
+   Link: <a href="https://www.gov.uk/government/publications/nutrition-and-health-claims-guidance-to-compliance-with-regulation-ec-1924-2006-on-nutrition-and-health-claims-made-on-foods/nutrition-and-health-claims-guidance-to-compliance-with-regulation-ec-19242006" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/nutrition-and-health-claims-guidance-to-compliance-with-regulation-ec-1924-2006-on-nutrition-and-health-claims-made-on-foods/nutrition-and-health-claims-guidance-to-compliance-with-regulation-ec-19242006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and health claims: guidance to compliance with...This guidance is designed to help you comply with the regulations if you choose to make...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: kelleydrye.com  
-   Link: [https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance](https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance)  
+   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misguided: The FTC Attempts to Redefine the Law with its...21 Dec 2022 — The 2022 Guidance is not law, but rather provides insight into...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: foodchainid.com  
-   Link: [https://www.foodchainid.com/resources/united-states-updated-ftc-guidance-on-claims-in-advertising/](https://www.foodchainid.com/resources/united-states-updated-ftc-guidance-on-claims-in-advertising/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Guidance on [Advertising Claims](&amp;#123;&amp;#123; &#x27;ad-claims/&#x27; | relative_url &amp;#125;&amp;#125;) UpdateUnderstand the latest Federal Trade Comission - FTC guidance on advertising claims, including su...</p></details>
+   Link: <a href="https://www.foodchainid.com/resources/united-states-updated-ftc-guidance-on-claims-in-advertising/" target="_blank" rel="noopener noreferrer nofollow">https://www.foodchainid.com/resources/united-states-updated-ftc-guidance-on-claims-in-advertising/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Guidance on Advertising Claims UpdateUnderstand the latest Federal Trade Comission - FTC guidance on advertising claims, including su...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/guidance/advertise-your-medicines](https://www.gov.uk/guidance/advertise-your-medicines)  
+   Link: <a href="https://www.gov.uk/guidance/advertise-your-medicines" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/advertise-your-medicines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>your medicinesHow to comply with the requirements on promoting medicines to the public and to prescribers and suppliers of medicines...</p></details>

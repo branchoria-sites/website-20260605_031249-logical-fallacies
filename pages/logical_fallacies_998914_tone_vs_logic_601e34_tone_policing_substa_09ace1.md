@@ -307,7 +307,7 @@ A common pattern looks like this:
 When that sequence occurs, tone criticism is functioning as a diversion from the substantive issue under discussion. APA Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.housing.wisc.edu/2023/12/inclusive-language-series-tone-policing-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: housing.wisc.edu">[2housing.wisc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">housing.wisc.edu</span><span class="citation-popover-title">inclusive language series tone policing 2</span><span class="citation-popover-snippet">Inclusive Language Series: Tone PolicingDec 1, 2023 — According to the Oxford Dictionary, tone policing is “the action or practice of cri...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kCgkiGNOmek" title="On Tone Policing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer">On Tone Policing</a></p><p class="youtube-embed-meta">Channel: T1J &middot; Views: 26.8K &middot; Uploaded: May 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kCgkiGNOmek">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VnB22pNcI2g" title="Ad Hominem Argument: Stick It To The Man! - Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VnB22pNcI2g" target="_blank" rel="noopener noreferrer">Ad Hominem Argument: Stick It To The Man! - Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 2.5K &middot; Uploaded: June 2020 &middot; Length: 3 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VnB22pNcI2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VnB22pNcI2g">Open on YouTube</a></p></div></div></div>
 
 ## Legitimate boundaries versus logical dismissal
 
@@ -364,7 +364,7 @@ Conversely, tone criticism is less likely to be fallacious when the listener bot
 The decisive question is always the same: has the argument been answered? If criticism of tone merely accompanies engagement with the evidence, it need not be fallacious. If criticism of tone substitutes for engagement with the evidence, it becomes a way of dodging substance rather than evaluating it. [ANECDOTAL+3Internet Encyclopedia of Philosophy+3Stanford Encyclopedia of Philosophy]
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IEQDP2pYrmM" title="Ad Hominem (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IEQDP2pYrmM" target="_blank" rel="noopener noreferrer">Ad Hominem (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 12.7K &middot; Uploaded: February 2014 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IEQDP2pYrmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IEQDP2pYrmM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kCgkiGNOmek" title="On Tone Policing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer">On Tone Policing</a></p><p class="youtube-embed-meta">Channel: T1J &middot; Views: 26.8K &middot; Uploaded: May 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kCgkiGNOmek">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -453,7 +453,7 @@ The decisive question is always the same: has the argument been answered? If cri
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -462,46 +462,94 @@ The decisive question is always the same: has the argument been answered? If cri
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tone-policing-when-does-tone-policing-become-a-fallacy-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tone-policing-when-does-tone-policing-become-a-fallacy-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tone-policing-when-does-tone-policing-become-a-fallacy-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search <span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tone-policing-when-does-tone-policing-become-a-fallacy-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tone-policing-when-does-tone-policing-become-a-fallacy-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters"><img src="{{ '/assets/images/marketplace-covers/deaf6670602b0a5a701b.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2aMAAeSwQYlp1Tf6/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tone-policing-when-does-tone-policing-become-a-fallacy-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster of Common Logical Fallacies Canvas Posters</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tone-policing-when-does-tone-policing-become-a-fallacy-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logical fallacies poster">Search <span data-ebay-domain-label>eBay.com</span>: logical fallacies poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tone-policing-when-does-tone-policing-become-a-fallacy-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSw3w1p1~TM/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=logical+fallacies+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tone-policing-when-does-tone-policing-become-a-fallacy-logical-fallacies-logical-fallacies-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -577,17 +625,31 @@ The decisive question is always the same: has the argument been answered? If cri
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -600,42 +662,73 @@ The decisive question is always the same: has the argument been answered? If cri
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -650,205 +743,209 @@ The decisive question is always the same: has the argument been answered? If cri
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Tone policing  
-   Link: [https://en.wikipedia.org/wiki/Tone_policing](https://en.wikipedia.org/wiki/Tone_policing)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tone_policing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tone_policing</a>  
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 419 — The ad hominem fall...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: housing.wisc.edu  
    Title: inclusive language series tone policing 2  
-   Link: [https://www.housing.wisc.edu/2023/12/inclusive-language-series-tone-policing-2/](https://www.housing.wisc.edu/2023/12/inclusive-language-series-tone-policing-2/)  
+   Link: <a href="https://www.housing.wisc.edu/2023/12/inclusive-language-series-tone-policing-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.housing.wisc.edu/2023/12/inclusive-language-series-tone-policing-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inclusive Language Series: Tone PolicingDec 1, 2023 — According to the Oxford Dictionary, tone policing is “the action or practice of cri...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: anecdotal.app  
-   Link: [https://anecdotal.app/fallacy/tone-policing/](https://anecdotal.app/fallacy/tone-policing/)  
+   Link: <a href="https://anecdotal.app/fallacy/tone-policing/" target="_blank" rel="noopener noreferrer nofollow">https://anecdotal.app/fallacy/tone-policing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt. Instead of engaging with what is being...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/ps-political-science-and-[politics](https://www.cambridge.org/core/journals/ps-political-science-and-[politics)  
+   Link: <a href="https://www.cambridge.org/core/journals/ps-political-science-and-[politics" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/ps-political-science-and-[politics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, why do we think incivility per se is necessarily bad?Read mo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: masslegalservices.org  
    Title: Tone-Policing and the Assertion of Authority  
-   Link: [https://www.masslegalservices.org/content/tone-policing-and-assertion-authority](https://www.masslegalservices.org/content/tone-policing-and-assertion-authority)  
+   Link: <a href="https://www.masslegalservices.org/content/tone-policing-and-assertion-authority" target="_blank" rel="noopener noreferrer nofollow">https://www.masslegalservices.org/content/tone-policing-and-assertion-authority</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 10, 2022 — Tone policing is when someone (usually a privileged person) in a conversation about oppression shifts the conversation fro...</p></details>
    Published: May 10, 2022  
 
 8. <a id="endnote-8"></a>
    Source: lwvmn.org  
-   Link: [https://www.lwvmn.org/civil-discourse](https://www.lwvmn.org/civil-discourse)  
+   Link: <a href="https://www.lwvmn.org/civil-discourse" target="_blank" rel="noopener noreferrer nofollow">https://www.lwvmn.org/civil-discourse</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>League of Women Voters Minnesota (LWVMN)Civil Discourse — League of Women Voters Minnesota...Examples of this include tone policing, fav...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Rhetoric/comments/1paq0fc/is_there_a_more_specific_term_for_the_strategy_of/](https://www.reddit.com/r/Rhetoric/comments/1paq0fc/is_there_a_more_specific_term_for_the_strategy_of/)  
+   Link: <a href="https://www.reddit.com/r/Rhetoric/comments/1paq0fc/is_there_a_more_specific_term_for_the_strategy_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Rhetoric/comments/1paq0fc/is_there_a_more_specific_term_for_the_strategy_of/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e is a more specific label for this strategy of focusing on &quot;tone&quot; and &quot;attitude&quot;...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Internet](https://en.wikipedia.org/wiki/Internet)  
+   Link: <a href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Internet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: [Tu quoque](&#123;&#123; 'tu-quoque/' | relative_url &#125;&#125;)  
-   Link: [https://en.wikipedia.org/wiki/Tu_quoque](https://en.wikipedia.org/wiki/Tu_quoque)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tu_quoque</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument. All forms of human...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/PoliticalOpinions/comments/1pmori7/civility_in_politics_is_tone_policing_political/](https://www.reddit.com/r/PoliticalOpinions/comments/1pmori7/civility_in_politics_is_tone_policing_political/)  
+   Link: <a href="https://www.reddit.com/r/PoliticalOpinions/comments/1pmori7/civility_in_politics_is_tone_policing_political/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PoliticalOpinions/comments/1pmori7/civility_in_politics_is_tone_policing_political/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Civility in Politics is tone policing, political discussions are...Civility in Politics is tone policing, political discussions are not...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — Argumentation can be defined as the communicative activity of producing and e...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallacies(1) Fallacies of relevance include fallacies that occur due to reliance on an irrelevant reas...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Home PageAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/page/3/?cat=-](https://iep.utm.edu/page/3/?cat=-)  
+   Link: <a href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/page/3/?cat=-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallacies(1) Fallacies of relevance include fallacies that occur due to reliance on an irrelevant reas...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: philosophy.stackexchange.com  
    Title: what logical fallacy is an accusation of ad hominem attacks  
-   Link: [https://philosophy.stackexchange.com/questions/115684/what-logical-fallacy-is-an-accusation-of-ad-hominem-attacks](https://philosophy.stackexchange.com/questions/115684/what-logical-fallacy-is-an-accusation-of-ad-hominem-attacks)  
+   Link: <a href="https://philosophy.stackexchange.com/questions/115684/what-logical-fallacy-is-an-accusation-of-ad-hominem-attacks" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.stackexchange.com/questions/115684/what-logical-fallacy-is-an-accusation-of-ad-hominem-attacks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Philosophy Stack ExchangeWhat logical fallacy is an accusation of &quot;ad hominem...3 Aug 2024 — A tone argument (also called tone policing)...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theatlantic.com  
    Title: in defense of civility on twitter  
-   Link: [https://www.theatlantic.com/politics/archive/2015/11/in-defense-of-civility-on-twitter/413860/](https://www.theatlantic.com/politics/archive/2015/11/in-defense-of-civility-on-twitter/413860/)  
+   Link: <a href="https://www.theatlantic.com/politics/archive/2015/11/in-defense-of-civility-on-twitter/413860/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/politics/archive/2015/11/in-defense-of-civility-on-twitter/413860/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AtlanticIn Defense of Civility on TwitterNov 4, 2015 — Fear of tone-policing shouldn&#x27;t trump the basic norms that are crucial to a he...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: modeldiplomat.com  
    Title: tone policing  
-   Link: [https://modeldiplomat.com/learn/glossary/tone-policing](https://modeldiplomat.com/learn/glossary/tone-policing)  
+   Link: <a href="https://modeldiplomat.com/learn/glossary/tone-policing" target="_blank" rel="noopener noreferrer nofollow">https://modeldiplomat.com/learn/glossary/tone-policing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; ExplanationApr 24, 2026 — Tone policing occurs when someone focuses on the emotional delivery or style of a message rather t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: drexel.edu  
    Title: tone policing  
-   Link: [https://drexel.edu/graduatecollege/professional-development/blog/2021/November/tone-policing/](https://drexel.edu/graduatecollege/professional-development/blog/2021/November/tone-policing/)  
+   Link: <a href="https://drexel.edu/graduatecollege/professional-development/blog/2021/November/tone-policing/" target="_blank" rel="noopener noreferrer nofollow">https://drexel.edu/graduatecollege/professional-development/blog/2021/November/tone-policing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Graduate StudiesNov 15, 2021 — It refers to being asked to remove any emotion as one speaks, makes a suggestion, or recommendat...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 23. <a id="endnote-23"></a>
    Source: utminers.utep.edu  
-   Link: [https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm](https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm)  
+   Link: <a href="https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm" target="_blank" rel="noopener noreferrer nofollow">https://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Logical Fallacies&quot; See also &quot;Ad Hominem Argument&quot; and &quot;Tone Policing.&quot; Personalizaion: A deluded fallacy of ethos, seeing yoursel...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: finmasters.com  
    Title: ad hominem fallacy  
-   Link: [https://finmasters.com/ad-hominem-fallacy/](https://finmasters.com/ad-hominem-fallacy/)  
+   Link: <a href="https://finmasters.com/ad-hominem-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/ad-hominem-fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ad Hominem: When Personal Attacks Become Fallacious26 Nov 2019 — Ad hominem is a logical fallacy that is based on personal and irrelevant...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: logical-fallacy.com  
    Title: Ad Hominem  
-   Link: [https://www.logical-fallacy.com/articles/ad-hominem/](https://www.logical-fallacy.com/articles/ad-hominem/)  
+   Link: <a href="https://www.logical-fallacy.com/articles/ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://www.logical-fallacy.com/articles/ad-hominem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition and Examples - Logical FallacyAug 1, 2020 — Tone trolling, tone argument, Tone fallacy, Tone policing fallacy is an Ad Hominem...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/ad-hominem](https://www.britannica.com/topic/ad-hominem)  
+   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; FactsAd hominem, type of argument or attack that appeals to pr...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf](https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf)  
+   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesA fallacy is incorrect argumentation in logic and rhetoric resulting in a lack of validity, or more generally, a lack of...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: medium.com  
-   Link: [https://medium.com/psychology-hits-decoding-the-mind/when-its-not-about-tone-of-voice-it-s-about-shifting-the-focus-1618569c8313](https://medium.com/psychology-hits-decoding-the-mind/when-its-not-about-tone-of-voice-it-s-about-shifting-the-focus-1618569c8313)  
+   Link: <a href="https://medium.com/psychology-hits-decoding-the-mind/when-its-not-about-tone-of-voice-it-s-about-shifting-the-focus-1618569c8313" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/psychology-hits-decoding-the-mind/when-its-not-about-tone-of-voice-it-s-about-shifting-the-focus-1618569c8313</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tone Policing: When It&#x27;s Not About Tone | Psychology HitsIt&#x27;s about shifting attention from what&#x27;s being said to how it&#x27;s being said — an...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: yourlogicalfallacyis.com  
-   Link: [https://yourlogicalfallacyis.com/ad-hominem](https://yourlogicalfallacyis.com/ad-hominem)  
+   Link: <a href="https://yourlogicalfallacyis.com/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/ad-hominem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your logical fallacy is ad hominemAd hominem attacks can take the form of overtly attacking somebody, or more subtly casting doubt on the...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/334212535_Navigating_the_Danger_Zone_Tone_Policing_and_the_Bounding_of_Civility_in_the_Practice_of_Student_Voice](https://www.researchgate.net/publication/334212535_Navigating_the_Danger_Zone_Tone_Policing_and_the_Bounding_of_Civility_in_the_Practice_of_Student_Voice)  
+   Link: <a href="https://www.researchgate.net/publication/334212535_Navigating_the_Danger_Zone_Tone_Policing_and_the_Bounding_of_Civility_in_the_Practice_of_Student_Voice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334212535_Navigating_the_Danger_Zone_Tone_Policing_and_the_Bounding_of_Civility_in_the_Practice_of_Student_Voice</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tone Policing and the Bounding of Civility in the Practice...Jul 3, 2019 — Navigating the “Danger Zone”: Tone Policing and the Bounding...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: medium.com  
-   Link: [https://medium.com/neurodiversified/respect-versus-reverence-49d05f110a2a](https://medium.com/neurodiversified/respect-versus-reverence-49d05f110a2a)  
+   Link: <a href="https://medium.com/neurodiversified/respect-versus-reverence-49d05f110a2a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/neurodiversified/respect-versus-reverence-49d05f110a2a</a>  
 
 32. <a id="endnote-32"></a>
    Source: umaine.edu  
-   Link: [https://umaine.edu/edhd/2019/07/23/umaine-researchers-explore-the-role-of-tone-policing-calls-for-civility-in-student-voice/](https://umaine.edu/edhd/2019/07/23/umaine-researchers-explore-the-role-of-tone-policing-calls-for-civility-in-student-voice/)  
+   Link: <a href="https://umaine.edu/edhd/2019/07/23/umaine-researchers-explore-the-role-of-tone-policing-calls-for-civility-in-student-voice/" target="_blank" rel="noopener noreferrer nofollow">https://umaine.edu/edhd/2019/07/23/umaine-researchers-explore-the-role-of-tone-policing-calls-for-civility-in-student-voice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The University of MaineCollege of Education and Human DevelopmentJul 23, 2019 — Two University of Maine professors are out with new resea...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDaring to share requires intentional and collective  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7140575/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7140575/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby MW Beets · 2020 · Cited by 5 — In this commentary, we provide examples of scholarly dialogues representing antagonistic and c...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140575/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140575/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MW Beets · 2020 · Cited by 5 — In this commentary, we provide examples of scholarly dialogues representing antagonistic and c...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: jhunewsletter.com  
    Title: how tone policing legitimizes injustice and private police  
-   Link: [https://www.jhunewsletter.com/article/2019/04/how-tone-policing-legitimizes-injustice-and-private-police](https://www.jhunewsletter.com/article/2019/04/how-tone-policing-legitimizes-injustice-and-private-police)  
+   Link: <a href="https://www.jhunewsletter.com/article/2019/04/how-tone-policing-legitimizes-injustice-and-private-police" target="_blank" rel="noopener noreferrer nofollow">https://www.jhunewsletter.com/article/2019/04/how-tone-policing-legitimizes-injustice-and-private-police</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How tone policing legitimizes injustice (and private police)4 Apr 2019 — Tone policing is a powerful tool to silence voices that need to...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: theinclusionsolution.me  
    Title: As shown in the examples above, tone-policing dismisses  
-   Link: [https://theinclusionsolution.me/unpacking-the-conversations-that-matter-if-you-werent-so-angry-people-would-listen-and-the-problem-with-tone-policing/](https://theinclusionsolution.me/unpacking-the-conversations-that-matter-if-you-werent-so-angry-people-would-listen-and-the-problem-with-tone-policing/)  
+   Link: <a href="https://theinclusionsolution.me/unpacking-the-conversations-that-matter-if-you-werent-so-angry-people-would-listen-and-the-problem-with-tone-policing/" target="_blank" rel="noopener noreferrer nofollow">https://theinclusionsolution.me/unpacking-the-conversations-that-matter-if-you-werent-so-angry-people-would-listen-and-the-problem-with-tone-policing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Inclusion SolutionUnpacking the Conversations that Matter: “If you weren&#x27;t so...Tone-policing is typically used as a tactic in conve...</p></details>

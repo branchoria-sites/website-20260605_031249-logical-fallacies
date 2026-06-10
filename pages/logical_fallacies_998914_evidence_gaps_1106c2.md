@@ -501,7 +501,7 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2-overview-soc
 
 ## Introduction
 
-Persuasive claims often sound stronger than they are because they hide an evidence gap. The claim may contain a true example, a confident statistic, a named expert, or a vivid story, but the evidence still may not justify the conclusion being drawn. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this problem sits behind patterns such as hasty generalisation, cherry-picking, [appeal to ignorance]({{ 'ignorance/' | relative_url }}), weak analogy, false cause and misleading anecdote: the argument asks the reader to travel further than the evidence can safely carry them.
+Persuasive claims often sound stronger than they are because they hide an evidence gap. The claim may contain a true example, a confident statistic, a named expert, or a vivid story, but the evidence still may not justify the conclusion being drawn. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this problem sits behind patterns such as hasty generalisation, cherry-picking, appeal to [ignorance]({{ 'ignorance/' | relative_url }}), weak analogy, false cause and misleading anecdote: the argument asks the reader to travel further than the evidence can safely carry them.
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-overview.webp" | relative_url }}" alt="Overview image for Evidence Gaps" loading="eager" decoding="sync" fetchpriority="high">
@@ -511,14 +511,14 @@ The central question is not “Is there any evidence?” but “Is there enough 
 
 An unsupported leap happens when the conclusion is broader, stronger or more certain than the evidence allows. The problem is not always that the evidence is false. Often it is real but too narrow, too indirect or too selectively presented.
 
-A familiar example is: “Everyone is unhappy with this policy; I have spoken to five people and they all hate it.” The five conversations may be genuine. They may even reveal something important. But they do not support the claim “everyone”. The argument quietly turns a small convenience sample into a population-wide judgement. Writing and critical-thinking guides commonly describe this as hasty generalisation: drawing a broad conclusion from evidence that is too small, too exceptional or not representative enough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-snippet">Excelsior OWLHasty Generalization Fallacy | Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</span></span></span>
+A familiar example is: “Everyone is unhappy with this policy; I have spoken to five people and they all hate it.” The five conversations may be genuine. They may even reveal something important. But they do not support the claim “everyone”. The argument quietly turns a small convenience sample into a population-wide judgement. Writing and critical-thinking guides commonly describe this as hasty generalisation: drawing a broad conclusion from evidence that is too small, too exceptional or not representative enough. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-snippet">Excelsior OWLHasty Generalization Fallacy &#124; Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</span></span></span>
 
 Unsupported leaps can take several forms:
 
+* **From [some to most]({{ 'some-to-most/' | relative_url }}):** a few cases are treated as if they reveal the normal pattern.
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
-* **From some to most:** a few cases are treated as if they reveal the normal pattern.
 * **From correlation to cause:** two things occur together, so one is assumed to have caused the other.
 * **From absence to disproof:** because no evidence has been produced, the claim is treated as false; or because no disproof has been produced, it is treated as true.
 * **From expert mention to proof:** a source is named, but the argument does not show that the source actually supports the specific claim.
@@ -548,7 +548,7 @@ Cherry-picking is the clearest example. It presents selected evidence that suppo
 
 A health claim, for instance, might cite one favourable study but ignore larger trials, failed replications, adverse findings or reviews that put the result in context. A political claim might show one dramatic local example while ignoring national data. A business claim might advertise “nine out of ten users saw improvement” without explaining how users were selected, what counted as improvement, how many dropped out, or whether there was a comparison group.
 
-This is also why regulators focus on substantiation in advertising. The US Federal Trade Commission says objective [advertising claims]({{ 'ad-claims/' | relative_url }}) should have a reasonable basis before they are made, and that advertisers must substantiate both express and implied claims conveyed to reasonable consumers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That principle is useful beyond advertising: the strength of the evidence should match the strength and practical significance of the claim.
+This is also why regulators focus on substantiation in [advertising]({{ 'advertising/' | relative_url }}). The US Federal Trade Commission says objective advertising claims should have a reasonable basis before they are made, and that advertisers must substantiate both express and implied claims conveyed to reasonable consumers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That principle is useful beyond advertising: the strength of the evidence should match the strength and practical significance of the claim.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qf03U04rqGQ" title="31 logical fallacies in 8 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer">31 logical fallacies in 8 minutes</a></p><p class="youtube-embed-meta">Channel: Jill Bearup &middot; Views: 2.4M &middot; Uploaded: January 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qf03U04rqGQ">Open on YouTube</a></p></div></div></div>
@@ -1064,235 +1064,235 @@ The strongest critical readers therefore ask evidence questions before reaching 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
    Title: Encyclopedia of Philosophy Informal Logic  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: owl.excelsior.edu  
-   Link: [https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/](https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/)  
+   Link: <a href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-hasty-generalization/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Excelsior OWLHasty Generalization Fallacy | Excelsior OWLThis fallacy occurs when an argument is based on a body of evidence that is simp...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10193086/</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Cherry picking  
-   Link: [https://en.wikipedia.org/wiki/Cherry_picking](https://en.wikipedia.org/wiki/Cherry_picking)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cherry_picking</a>  
 
 5. <a id="endnote-5"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406](https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406)  
+   Link: <a href="https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/the-national-council-for-excellence-in-critical-thinking/406</a>  
 
 6. <a id="endnote-6"></a>
    Source: fallacyfiles.org  
-   Link: [https://www.fallacyfiles.org/ignorant.html](https://www.fallacyfiles.org/ignorant.html)  
+   Link: <a href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow">https://www.fallacyfiles.org/ignorant.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence  
-   Link: [https://arxiv.org/abs/2408.12812](https://arxiv.org/abs/2408.12812)  
+   Link: <a href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.12812</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Argument from ignorance  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_ignorance](https://en.wikipedia.org/wiki/Argument_from_ignorance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_ignorance</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of fallacies  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
 
 10. <a id="endnote-10"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/data/pages/25/2e51737bb044ed99a88bdc1220fe8cb660f7687377bed.pdf](https://www.criticalthinking.org/data/pages/25/2e51737bb044ed99a88bdc1220fe8cb660f7687377bed.pdf)  
+   Link: <a href="https://www.criticalthinking.org/data/pages/25/2e51737bb044ed99a88bdc1220fe8cb660f7687377bed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/25/2e51737bb044ed99a88bdc1220fe8cb660f7687377bed.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/pages/a-brief-history-of-the-idea-of-critical-thinking/408](https://www.criticalthinking.org/pages/a-brief-history-of-the-idea-of-critical-thinking/408)  
+   Link: <a href="https://www.criticalthinking.org/pages/a-brief-history-of-the-idea-of-critical-thinking/408" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/a-brief-history-of-the-idea-of-critical-thinking/408</a>  
 
 12. <a id="endnote-12"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/data/pages/99/579d6b9722ed3418d0b4a7514f0a9f1d513655794857b.pdf](https://www.criticalthinking.org/data/pages/99/579d6b9722ed3418d0b4a7514f0a9f1d513655794857b.pdf)  
+   Link: <a href="https://www.criticalthinking.org/data/pages/99/579d6b9722ed3418d0b4a7514f0a9f1d513655794857b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/99/579d6b9722ed3418d0b4a7514f0a9f1d513655794857b.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/pages/center-for-critical-thinking/401](https://www.criticalthinking.org/pages/center-for-critical-thinking/401)  
+   Link: <a href="https://www.criticalthinking.org/pages/center-for-critical-thinking/401" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/center-for-critical-thinking/401</a>  
 
 14. <a id="endnote-14"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/store/get_file.php?inventories_id=159](https://www.criticalthinking.org/store/get_file.php?inventories_id=159)  
+   Link: <a href="https://www.criticalthinking.org/store/get_file.php?inventories_id=159" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/store/get_file.php?inventories_id=159</a>  
 
 15. <a id="endnote-15"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/data/pages/14/c4b33ac92ec0940ec11171a6d52d6627519d0ee10b37e.pdf](https://www.criticalthinking.org/data/pages/14/c4b33ac92ec0940ec11171a6d52d6627519d0ee10b37e.pdf)  
+   Link: <a href="https://www.criticalthinking.org/data/pages/14/c4b33ac92ec0940ec11171a6d52d6627519d0ee10b37e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/14/c4b33ac92ec0940ec11171a6d52d6627519d0ee10b37e.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/files/White%20PaperAssessmentSept2007.pdf](https://www.criticalthinking.org/files/White%20PaperAssessmentSept2007.pdf)  
+   Link: <a href="https://www.criticalthinking.org/files/White%20PaperAssessmentSept2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/files/White%20PaperAssessmentSept2007.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/data/pages/86/2059cb576fc40aa34de9c999042fcf445f7cdc2d30ae6.pdf](https://www.criticalthinking.org/data/pages/86/2059cb576fc40aa34de9c999042fcf445f7cdc2d30ae6.pdf)  
+   Link: <a href="https://www.criticalthinking.org/data/pages/86/2059cb576fc40aa34de9c999042fcf445f7cdc2d30ae6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/data/pages/86/2059cb576fc40aa34de9c999042fcf445f7cdc2d30ae6.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: criticalthinking.org  
-   Link: [https://www.criticalthinking.org/pages/glossary-of-critical-thinking-terms/496](https://www.criticalthinking.org/pages/glossary-of-critical-thinking-terms/496)  
+   Link: <a href="https://www.criticalthinking.org/pages/glossary-of-critical-thinking-terms/496" target="_blank" rel="noopener noreferrer nofollow">https://www.criticalthinking.org/pages/glossary-of-critical-thinking-terms/496</a>  
 
 19. <a id="endnote-19"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/sum2022/entries/logic-informal/](https://plato.stanford.edu/archives/sum2022/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/sum2022/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/sum2022/entries/logic-informal/</a>  
 
 20. <a id="endnote-20"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
 
 21. <a id="endnote-21"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2019/entries/logic-informal/](https://plato.stanford.edu/archives/fall2019/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2019/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2019/entries/logic-informal/</a>  
 
 22. <a id="endnote-22"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2014/entries/logic-informal/](https://plato.stanford.edu/archives/fall2014/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2014/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2014/entries/logic-informal/</a>  
 
 23. <a id="endnote-23"></a>
    Source: plato.stanford.edu  
    Title: descartes epistemology  
-   Link: [https://plato.stanford.edu/entries/descartes-epistemology/](https://plato.stanford.edu/entries/descartes-epistemology/)  
+   Link: <a href="https://plato.stanford.edu/entries/descartes-epistemology/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/descartes-epistemology/</a>  
 
 24. <a id="endnote-24"></a>
    Source: plato.stanford.edu  
    Title: plato ethics  
-   Link: [https://plato.stanford.edu/archives/fall2015/entries/plato-ethics/](https://plato.stanford.edu/archives/fall2015/entries/plato-ethics/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2015/entries/plato-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2015/entries/plato-ethics/</a>  
 
 25. <a id="endnote-25"></a>
    Source: plato.stanford.edu  
    Title: plato ethics  
-   Link: [https://plato.stanford.edu/archives/fall2007/entries/plato-ethics/](https://plato.stanford.edu/archives/fall2007/entries/plato-ethics/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2007/entries/plato-ethics/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2007/entries/plato-ethics/</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: 31 logical fallacies in 8 minutes  
-   Link: [https://www.youtube.com/watch?v=Qf03U04rqGQ](https://www.youtube.com/watch?v=Qf03U04rqGQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qf03U04rqGQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logical Fallacies...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Logical Fallacies  
-   Link: [https://www.youtube.com/watch?v=HpP71KmmlYQ](https://www.youtube.com/watch?v=HpP71KmmlYQ)  
+   Link: <a href="https://www.youtube.com/watch?v=HpP71KmmlYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HpP71KmmlYQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Listening, Logical Fallacies, and Evaluating Evidence...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pewresearch.org  
    Title: Pew Research Center Methods 101: Random Sampling  
-   Link: [https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/](https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/)  
+   Link: <a href="https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2017/05/12/methods-101-video-random-sampling/</a>  
 
 29. <a id="endnote-29"></a>
    Source: healthknowledge.org.uk  
-   Link: [https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population)  
+   Link: <a href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population" target="_blank" rel="noopener noreferrer nofollow">https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/methods-of-sampling-population</a>  
 
 30. <a id="endnote-30"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation](https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation)  
+   Link: <a href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation</a>  
 
 31. <a id="endnote-31"></a>
    Source: ftc.gov  
    Title: advertising faqs guide small business  
-   Link: [https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business](https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/advertising-faqs-guide-small-business</a>  
 
 32. <a id="endnote-32"></a>
    Source: healthknowledge.org.uk  
-   Link: [https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/biases](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/biases)  
+   Link: <a href="https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/biases" target="_blank" rel="noopener noreferrer nofollow">https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1a-epidemiology/biases</a>  
 
 33. <a id="endnote-33"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108](https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/00031305.2016.1154108</a>  
 
 34. <a id="endnote-34"></a>
    Source: writingcenter.unc.edu  
-   Link: [https://writingcenter.unc.edu/tips-and-tools/fallacies/](https://writingcenter.unc.edu/tips-and-tools/fallacies/)  
+   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/fallacies/</a>  
 
 35. <a id="endnote-35"></a>
    Source: pewresearch.org  
    Title: for weighting online opt in samples what matters most  
-   Link: [https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/](https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/)  
+   Link: <a href="https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/</a>  
 
 36. <a id="endnote-36"></a>
    Source: pewresearch.org  
-   Link: [https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/](https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/)  
+   Link: <a href="https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/methods/2018/08/06/video-explainer-what-are-nonprobability-surveys/</a>  
 
 37. <a id="endnote-37"></a>
    Source: pewresearch.org  
    Title: [social media](&#123;&#123; 'social-media/' | relative_url &#125;&#125;) use 2025 methodology  
-   Link: [https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/](https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/)  
+   Link: <a href="https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.pewresearch.org/internet/2025/11/20/social-media-use-2025-methodology/</a>  
 
 38. <a id="endnote-38"></a>
    Source: askattest.com  
    Title: representative sample  
-   Link: [https://www.askattest.com/blog/articles/representative-sample](https://www.askattest.com/blog/articles/representative-sample)  
+   Link: <a href="https://www.askattest.com/blog/articles/representative-sample" target="_blank" rel="noopener noreferrer nofollow">https://www.askattest.com/blog/articles/representative-sample</a>  
 
 39. <a id="endnote-39"></a>
    Source: methods.sagepub.com  
-   Link: [https://methods.sagepub.com/hnbk/edvol/sage-hdbk-public-opinion-research/chpt/sampling](https://methods.sagepub.com/hnbk/edvol/sage-hdbk-public-opinion-research/chpt/sampling)  
+   Link: <a href="https://methods.sagepub.com/hnbk/edvol/sage-hdbk-public-opinion-research/chpt/sampling" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/hnbk/edvol/sage-hdbk-public-opinion-research/chpt/sampling</a>  
 
 40. <a id="endnote-40"></a>
    Source: unr.edu  
-   Link: [https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies)  
+   Link: <a href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.unr.edu/writing-speaking-center/writing-speaking-resources/logical-fallacies</a>  
 
 41. <a id="endnote-41"></a>
    Source: checkbox.com  
    Title: representative sample  
-   Link: [https://www.checkbox.com/blog/representative-sample](https://www.checkbox.com/blog/representative-sample)  
+   Link: <a href="https://www.checkbox.com/blog/representative-sample" target="_blank" rel="noopener noreferrer nofollow">https://www.checkbox.com/blog/representative-sample</a>  
 
 42. <a id="endnote-42"></a>
    Source: quillbot.com  
    Title: appeal to ignorance fallacy  
-   Link: [https://quillbot.com/blog/reasoning/appeal-to-ignorance-fallacy/](https://quillbot.com/blog/reasoning/appeal-to-ignorance-fallacy/)  
+   Link: <a href="https://quillbot.com/blog/reasoning/appeal-to-ignorance-fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/reasoning/appeal-to-ignorance-fallacy/</a>  
 
 ### Additional References
 
 43. <a id="endnote-43"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesSo, [informal fallacies](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) are errors of reasoning that cannot easily be expressed in our standar...</p></details>
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesSo, informal fallacies are errors of reasoning that cannot easily be expressed in our standar...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: purdueglobalwriting.center  
-   Link: [https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/](https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/)  
+   Link: <a href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue Global Success CenterHasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a co...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf](https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf)  
+   Link: <a href="https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/sites/default/files/attachments/training-materials/substantiation.pdf</a>  
 
 46. <a id="endnote-46"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html](https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html)  
+   Link: <a href="https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html</a>  
 
 47. <a id="endnote-47"></a>
    Source: labxchange.org  
-   Link: [https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803](https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803)  
+   Link: <a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A75f36ede%3Ahtml%3A1/178803</a>  
 
 48. <a id="endnote-48"></a>
    Source: burtthompson.net  
-   Link: [https://www.burtthompson.net/uploads/9/6/8/4/9684389/wasserstein-2016__asa_p-value_statement.pdf](https://www.burtthompson.net/uploads/9/6/8/4/9684389/wasserstein-2016__asa_p-value_statement.pdf)  
+   Link: <a href="https://www.burtthompson.net/uploads/9/6/8/4/9684389/wasserstein-2016__asa_p-value_statement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.burtthompson.net/uploads/9/6/8/4/9684389/wasserstein-2016__asa_p-value_statement.pdf</a>  
 
 49. <a id="endnote-49"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance](https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Argument-from-Ignorance</a>  
 
 50. <a id="endnote-50"></a>
    Source: errorstatistics.com  
-   Link: [https://errorstatistics.com/wp-content/uploads/2016/03/4_berry.pdf](https://errorstatistics.com/wp-content/uploads/2016/03/4_berry.pdf)  
+   Link: <a href="https://errorstatistics.com/wp-content/uploads/2016/03/4_berry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://errorstatistics.com/wp-content/uploads/2016/03/4_berry.pdf</a>  
 
 51. <a id="endnote-51"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/701425677/6-Session-Six-Evidence-Evaluation-Causality](https://www.scribd.com/document/701425677/6-Session-Six-Evidence-Evaluation-Causality)  
+   Link: <a href="https://www.scribd.com/document/701425677/6-Session-Six-Evidence-Evaluation-Causality" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/701425677/6-Session-Six-Evidence-Evaluation-Causality</a>  
 
 52. <a id="endnote-52"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/critical-thinking-fallacies](https://www.logicallyfallacious.com/critical-thinking-fallacies)  
+   Link: <a href="https://www.logicallyfallacious.com/critical-thinking-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/critical-thinking-fallacies</a>  

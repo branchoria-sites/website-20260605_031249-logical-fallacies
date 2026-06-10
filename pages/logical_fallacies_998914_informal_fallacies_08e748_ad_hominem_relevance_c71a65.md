@@ -289,14 +289,14 @@ Consider these examples:
 
 </div>
 
-In each case, the criticism may or may not be true, but it does not address the evidence supporting the claim. The argument attempts to move from a fact about a person to a conclusion about the truth of a proposition without showing a relevant connection. Philosophers and argumentation theorists commonly identify this irrelevance as the central defect of the fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">feminism argumentation</span><span class="citation-popover-snippet">The Stanford Encyclopedia of Philosophy is copyright © 2025 by The...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; FactsAd hominem, type of argument or attack that appeals to pr...</span></span></span>
+In each case, the criticism may or may not be true, but it does not address the evidence supporting the claim. The argument attempts to move from a fact about a person to a conclusion about the truth of a proposition without showing a relevant connection. Philosophers and argumentation theorists commonly identify this irrelevance as the central defect of the fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">feminism argumentation</span><span class="citation-popover-snippet">The Stanford Encyclopedia of Philosophy is copyright © 2025 by The...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAd hominem &#124; Definition, Fallacy, Bias, Examples, &amp; FactsAd hominem, type of argument or attack that appeals to pr...</span></span></span>
 
 This is why merely pointing out hypocrisy often fails as a rebuttal. A doctor who smokes may still be correct that smoking damages health. A politician who violates their own principles may still advocate a sound policy. Exposing inconsistency may reveal something about the speaker, but it does not automatically show that the underlying claim is false. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span>
 
 A useful rule is that objective evidence does not usually change because of who presents it. A calculation remains correct even if performed by an unpleasant person. A photograph does not become less accurate because the photographer has bad motives. When the evidence can stand independently, personal attacks rarely add anything relevant.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4CtofTCXcYI" title="Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer">Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: LearnFree &middot; Views: 875.1K &middot; Uploaded: August 2019 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4CtofTCXcYI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oXewyyWqn2A" title="What Is The Fallacy of Ad Hominem? How People Get It Wrong Online | Greg Sadler&#x27;s Advice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oXewyyWqn2A" target="_blank" rel="noopener noreferrer">What Is The Fallacy of Ad Hominem? How People Get It Wrong Online | Greg Sadler&#x27;s Advice</a></p><p class="youtube-embed-meta">Channel: Gregory B. Sadler - That Philosophy Guy &middot; Views: 3.9K &middot; Uploaded: March 2025 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oXewyyWqn2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oXewyyWqn2A">Open on YouTube</a></p></div></div></div>
 
 ## Witness credibility and relevant bias
 
@@ -333,12 +333,12 @@ Even legitimate concerns about credibility can slide into fallacious reasoning.
 
 One common mistake is treating evidence of bias as proof of falsehood. A person may have a financial interest in a position and still be correct. Bias can justify additional scrutiny, but it does not automatically refute a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Circumstantial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAd Hominem (Circumstantial)Suggesting that the person who is making the argument is biased or predisposed to take a p...</span></span></span>
 
-Another mistake is [guilt by association]({{ 'association/' | relative_url }}). Someone's argument is not automatically wrong because they belong to a disliked group or share a view with controversial figures. The [association]({{ 'association/' | relative_url }}) must be shown to have a genuine connection to the claim under discussion. Otherwise the reasoning remains an irrelevant attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">List of fallaciesAd hominem – attacking the arguer instead of the argument. (Note that &quot;ad hominem &quot; can also refer to the dialectical...</span></span></span>
+Another mistake is guilt by [association]({{ 'association/' | relative_url }}). Someone's argument is not automatically wrong because they belong to a disliked group or share a view with controversial figures. The association must be shown to have a genuine connection to the claim under discussion. Otherwise the reasoning remains an irrelevant attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">List of fallaciesAd hominem – attacking the arguer instead of the argument. (Note that &quot;ad hominem &quot; can also refer to the dialectical...</span></span></span>
 
 A third error is moving from credibility concerns to certainty. Discovering that a witness has lied before may justify caution, but it rarely proves every statement by that witness is false. Credibility assessment is usually about adjusting confidence rather than reaching absolute conclusions.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oXewyyWqn2A" title="What Is The Fallacy of Ad Hominem? How People Get It Wrong Online | Greg Sadler&#x27;s Advice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oXewyyWqn2A" target="_blank" rel="noopener noreferrer">What Is The Fallacy of Ad Hominem? How People Get It Wrong Online | Greg Sadler&#x27;s Advice</a></p><p class="youtube-embed-meta">Channel: Gregory B. Sadler - That Philosophy Guy &middot; Views: 3.9K &middot; Uploaded: March 2025 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oXewyyWqn2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oXewyyWqn2A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4CtofTCXcYI" title="Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer">Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: LearnFree &middot; Views: 875.1K &middot; Uploaded: August 2019 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4CtofTCXcYI">Open on YouTube</a></p></div></div></div>
 
 ## A checklist for separating character attacks from evidence
 
@@ -366,7 +366,7 @@ The most reliable test is to imagine that the same evidence had been presented b
 The difference between an ad hominem fallacy and a legitimate credibility concern is not whether a person has been criticised. It is whether the criticism bears on the evidential value of what they are saying. Personal attacks become fallacious when they distract from the argument. They become potentially relevant when the person's reliability, expertise, honesty or bias forms part of the evidence itself. Informal logic therefore asks a more precise question than “Was someone criticised?” It asks: “Does this fact about the person help us judge the claim, or is it merely a distraction?” [Wikipedia+3Internet Encyclopedia of Philosophy+3Stanford Encyclopedia of Philosophy]
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wnbK76m691I" title="CRITICAL THINKING - Fallacies: Introduction to Ad Hominem Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wnbK76m691I" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Introduction to Ad Hominem Fallacies</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 88.1K &middot; Uploaded: January 2015 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wnbK76m691I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wnbK76m691I">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJ09OchTiZo" title="Is QUESTIONING a WITNESS’S CREDIBILITY an AD HOMINEM FALLACY? (Logic &amp; Law Explained)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJ09OchTiZo" target="_blank" rel="noopener noreferrer">Is QUESTIONING a WITNESS’S CREDIBILITY an AD HOMINEM FALLACY? (Logic &amp; Law Explained)</a></p><p class="youtube-embed-meta">Channel: Philosophy Classnotes &middot; Views: 10 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJ09OchTiZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJ09OchTiZo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -699,179 +699,179 @@ The difference between an ad hominem fallacy and a legitimate credibility concer
 
 1. <a id="endnote-1"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/fallacies/](https://plato.stanford.edu/entries/fallacies/)  
+   Link: <a href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/fallacies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — The ad hominem fall...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/entries/argument/](https://plato.stanford.edu/entries/argument/)  
+   Link: <a href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/argument/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 105 — The ad hominem fallacy, which inv...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/topic/ad-hominem](https://www.britannica.com/topic/ad-hominem)  
+   Link: <a href="https://www.britannica.com/topic/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/ad-hominem</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaAd hominem | Definition, Fallacy, Bias, Examples, &amp; FactsAd hominem, type of argument or attack that appeals to pr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Ad hominem  
-   Link: [https://en.wikipedia.org/wiki/Ad_hominem](https://en.wikipedia.org/wiki/Ad_hominem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ad_hominem</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/List_of_fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_fallacies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of fallaciesAd hominem – attacking the arguer instead of the argument. (Note that &quot;ad hominem &quot; can also refer to the dialectical...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/entries/logic-informal/](https://plato.stanford.edu/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different [informal logics](&amp;#123;&amp;#123; &#x27;informal-logic/&#x27; | relative_url &amp;#125;&amp;#125;) support this aim by providing va...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2020/entries/logic-informal/](https://plato.stanford.edu/archives/fall2020/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2020/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2020/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditionally, emotional appeals have been seen as fallacious moves in argument. This is too simple a view of the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/win2004/entries/logic-informal/](https://plato.stanford.edu/archives/win2004/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/win2004/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/win2004/entries/logic-informal/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LogicOne attempt to use traditional fallacies as a way to define good argument schema (by treating ad hominem, guilt by association, appe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plato.stanford.edu  
    Title: feminism argumentation  
-   Link: [https://plato.stanford.edu/entries/feminism-argumentation/](https://plato.stanford.edu/entries/feminism-argumentation/)  
+   Link: <a href="https://plato.stanford.edu/entries/feminism-argumentation/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/feminism-argumentation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stanford Encyclopedia of Philosophy is copyright © 2025 by The...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: plato.stanford.edu  
    Title: logic informal  
-   Link: [https://plato.stanford.edu/archives/fall2003/entries/logic-informal/](https://plato.stanford.edu/archives/fall2003/entries/logic-informal/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2003/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2003/entries/logic-informal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logic11 Nov 2002 — In assessing ordinary arguments, it may more simply be said that fallacies are common patterns of poor reasoning which...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: plato.stanford.edu  
    Title: testimony episprob  
-   Link: [https://plato.stanford.edu/entries/testimony-episprob/](https://plato.stanford.edu/entries/testimony-episprob/)  
+   Link: <a href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/entries/testimony-episprob/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Problems of Testimonyby N Leonard · 2021 · Cited by 103 — Testimony is clearly an indispensable source of knowledge, specifying exactly h...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: plato.stanford.edu  
-   Link: [https://plato.stanford.edu/archives/spr2024/entries/fallacies/notes.html](https://plato.stanford.edu/archives/spr2024/entries/fallacies/notes.html)  
+   Link: <a href="https://plato.stanford.edu/archives/spr2024/entries/fallacies/notes.html" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/spr2024/entries/fallacies/notes.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Fallacies - Stanford Encyclopedia of Philosophy9. At (2010, 179) Walton says that a fallacy is an argument that seems to be correct bu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: plato.stanford.edu  
    Title: reasoning analogy  
-   Link: [https://plato.stanford.edu/archives/fall2013/entries/reasoning-analogy/](https://plato.stanford.edu/archives/fall2013/entries/reasoning-analogy/)  
+   Link: <a href="https://plato.stanford.edu/archives/fall2013/entries/reasoning-analogy/" target="_blank" rel="noopener noreferrer nofollow">https://plato.stanford.edu/archives/fall2013/entries/reasoning-analogy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Analogical Reasoning25 Jun 2013 — An analogy is a comparison between two objects, or systems of objects, that highlights respects in...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Argument from authority  
-   Link: [https://en.wikipedia.org/wiki/Argument_from_authority](https://en.wikipedia.org/wiki/Argument_from_authority)  
+   Link: <a href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Argument_from_authority</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Argument from authorityAn argument from authority is a form of argument in which the opinion of an authority figure (or figures) is us...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: philosophy.institute  
-   Link: [https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/](https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/)  
+   Link: <a href="https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.institute/logic/understanding-fallacies-reasoning-errors/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Fallacies: Errors in Reasoning9 Dec 2025 — The fallacy arises when personal characteristics are used as a substitute for en...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iep.utm.edu  
-   Link: [https://iep.utm.edu/fallacy/](https://iep.utm.edu/fallacy/)  
+   Link: <a href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow">https://iep.utm.edu/fallacy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Circumstantial](https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Circumstantial)  
+   Link: <a href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Circumstantial" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Circumstantial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Logically FallaciousAd Hominem (Circumstantial)Suggesting that the person who is making the argument is biased or predisposed to take a p...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: informallogic.ca  
-   Link: [https://informallogic.ca/index.php/informal_logic/article/view/2990/2442](https://informallogic.ca/index.php/informal_logic/article/view/2990/2442)  
+   Link: <a href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow">https://informallogic.ca/index.php/informal_logic/article/view/2990/2442</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Informal LogicAd Hominem Arguments as Legitimate Rebuttals to Appeals to...by M Mizrahi · 2010 · Cited by 20 — One such legitimate case...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: seop.illc.uva.nl  
    Title: evidence legal  
-   Link: [https://seop.illc.uva.nl/entries/evidence-legal/](https://seop.illc.uva.nl/entries/evidence-legal/)  
+   Link: <a href="https://seop.illc.uva.nl/entries/evidence-legal/" target="_blank" rel="noopener noreferrer nofollow">https://seop.illc.uva.nl/entries/evidence-legal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Encyclopedia of PhilosophyThe Legal Concept of Evidenceby HL Ho · 2015 · Cited by 102 — This entry focuses on the modern concept...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: philosophy.lander.edu  
-   Link: [https://philosophy.lander.edu/logic/person.html](https://philosophy.lander.edu/logic/person.html)  
+   Link: <a href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow">https://philosophy.lander.edu/logic/person.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HominemAd Hominem Fallacy: (abusive and circumstantial): the fallacy of attacking the character or circumstances of an individual who is...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sk.sagepub.com  
    Title: ad hominem argument  
-   Link: [https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-corporate-reputation/chpt/ad-hominem-argument](https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-corporate-reputation/chpt/ad-hominem-argument)  
+   Link: <a href="https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-corporate-reputation/chpt/ad-hominem-argument" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/the-sage-encyclopedia-of-corporate-reputation/chpt/ad-hominem-argument</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem ArgumentAd hominem criticism is innately deceptive as it defies the principle of an ethical argument as an attempt to offer legit...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem](https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/ad-hominem</a>  
 
 23. <a id="endnote-23"></a>
    Source: logicallyfallacious.com  
-   Link: [https://www.logicallyfallacious.com/blog/how-to-spot-the-ad-hominem-fallacy-in-arguments](https://www.logicallyfallacious.com/blog/how-to-spot-the-ad-hominem-fallacy-in-arguments)  
+   Link: <a href="https://www.logicallyfallacious.com/blog/how-to-spot-the-ad-hominem-fallacy-in-arguments" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/blog/how-to-spot-the-ad-hominem-fallacy-in-arguments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If you want to argue more clearly, evaluate...Read more...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: labxchange.org  
-   Link: [https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A4fc53430%3Ahtml%3A1/178800](https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A4fc53430%3Ahtml%3A1/178800)  
+   Link: <a href="https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A4fc53430%3Ahtml%3A1/178800" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3Ae14a306c-99b2-4ae8-9d59-b2169c30b54b/items/lb%3ALabXchange%3A4fc53430%3Ahtml%3A1/178800</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6. The Ad Hominem FallacyThe criticism made by an ad hominem fallacy could often be used to construct a good argument that the speaker is...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ecampusontario.pressbooks.pub  
-   Link: [https://ecampusontario.pressbooks.pub/wsia062018/chapter/13/](https://ecampusontario.pressbooks.pub/wsia062018/chapter/13/)  
+   Link: <a href="https://ecampusontario.pressbooks.pub/wsia062018/chapter/13/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/wsia062018/chapter/13/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Social Epistemology of ArgumentIn the abusive ad hominem, an attack is made on the arguer&#x27;s character or background and this attack i...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: finmasters.com  
-   Link: [https://finmasters.com/circumstantial-ad-hominem/](https://finmasters.com/circumstantial-ad-hominem/)  
+   Link: <a href="https://finmasters.com/circumstantial-ad-hominem/" target="_blank" rel="noopener noreferrer nofollow">https://finmasters.com/circumstantial-ad-hominem/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 23, 2023 — Circumstantial ad hominem occurs when someone argues that their opponent&#x27;s argument must be invalid because his or her pos...</p></details>
    Published: May 23, 2023  
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/279807512_Discounting_Testimony_with_the_Argument_Ad_Hominem_and_a_Bayesian_Congruent_Prior_Model](https://www.researchgate.net/publication/279807512_Discounting_Testimony_with_the_Argument_Ad_Hominem_and_a_Bayesian_Congruent_Prior_Model)  
+   Link: <a href="https://www.researchgate.net/publication/279807512_Discounting_Testimony_with_the_Argument_Ad_Hominem_and_a_Bayesian_Congruent_Prior_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/279807512_Discounting_Testimony_with_the_Argument_Ad_Hominem_and_a_Bayesian_Congruent_Prior_Model</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>violation of the rules of evidence, are jurors&#x27; beliefs still affected?Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/968580683281312/posts/1076238102515569/](https://www.facebook.com/groups/968580683281312/posts/1076238102515569/)  
+   Link: <a href="https://www.facebook.com/groups/968580683281312/posts/1076238102515569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/968580683281312/posts/1076238102515569/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;s position on the basis of something about the person and...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: lawexplores.com  
    Title: Ad Hominem Fallacies and Epistemic Credibility  
-   Link: [https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/](https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/)  
+   Link: <a href="https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/" target="_blank" rel="noopener noreferrer nofollow">https://lawexplores.com/ad-hominem-fallacies-and-epistemic-credibility/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Law ExplorerOct 26, 2015 — An ad hominem fallacy is an error in logical reasoning in which an interlocutor attacks the person making the...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: philsci-archive.pitt.edu  
    Title: Ad Hominem Arguments in Scientific Discourses  
-   Link: [https://philsci-archive.pitt.edu/27835/1/Ad%20Hominem%20Arguments%20in%20Scientific%20Discourses.pdf](https://philsci-archive.pitt.edu/27835/1/Ad%20Hominem%20Arguments%20in%20Scientific%20Discourses.pdf)  
+   Link: <a href="https://philsci-archive.pitt.edu/27835/1/Ad%20Hominem%20Arguments%20in%20Scientific%20Discourses.pdf" target="_blank" rel="noopener noreferrer nofollow">https://philsci-archive.pitt.edu/27835/1/Ad%20Hominem%20Arguments%20in%20Scientific%20Discourses.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hominem Arguments in Scientific Discoursesby LP Schäfer · 2025 — Instead, witness testimonies can be checked in terms of internal consist...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TJ09OchTiZo](https://www.youtube.com/watch?v=TJ09OchTiZo)  
+   Link: <a href="https://www.youtube.com/watch?v=TJ09OchTiZo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJ09OchTiZo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is The Fallacy of Ad Hominem? How People Get It Wrong Online | Greg Sadler&#x27;s Advice...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/three-puzzles-with-ad-hominem-arguments/3EA1126C7081C468F4D03C9870852C96](https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/three-puzzles-with-ad-hominem-arguments/3EA1126C7081C468F4D03C9870852C96)  
+   Link: <a href="https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/three-puzzles-with-ad-hominem-arguments/3EA1126C7081C468F4D03C9870852C96" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-the-american-philosophical-association/article/three-puzzles-with-ad-hominem-arguments/3EA1126C7081C468F4D03C9870852C96</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three Puzzles with Ad Hominem Argumentsby S AIKIN · 2025 · Cited by 2 — The ad hominem appears to be the simplest fallacy form—one critic...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1570868308000384](https://www.sciencedirect.com/science/article/pii/S1570868308000384)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1570868308000384" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1570868308000384</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Formalization of the ad hominem argumentation schemeby D Walton · 2010 · Cited by 22 — For example in a case of witness testimony, it is...</p></details>

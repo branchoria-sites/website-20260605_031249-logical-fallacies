@@ -202,6 +202,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-05 02:39:57'
 parent_title: Did the Logo Cause the Losing Streak? | Fallacy Lab
 parent_permalink: /sports-cause/
 parent_nav_short_title: Sports Cause
@@ -265,7 +266,6 @@ next_link:
   permalink: /post-hoc/
   short_title: Post Hoc
   heading_title: Did the Logo Really Cause the Losing Streak?
-date: '2026-06-05 02:39:57 '
 header:
   og_image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-1-social.jpg
   preview_image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-1.webp
@@ -285,7 +285,7 @@ Intermittent reinforcement occurs when a behaviour is followed by a desired outc
 Applied to sports logo superstitions, the process is straightforward:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a4wBLZhnLcI" title="Sports Psychology Case Study - Superstitions And Rituals of Athletes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a4wBLZhnLcI" target="_blank" rel="noopener noreferrer">Sports Psychology Case Study - Superstitions And Rituals of Athletes</a></p><p class="youtube-embed-meta">Channel: Peak Performance Sports, LLC &middot; Views: 8.3K &middot; Uploaded: March 2016 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a4wBLZhnLcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a4wBLZhnLcI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OXvT9ZNokRc" title="Stuart Vyse - The Psychology of Superstition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OXvT9ZNokRc" target="_blank" rel="noopener noreferrer">Stuart Vyse - The Psychology of Superstition</a></p><p class="youtube-embed-meta">Channel: The Philadelphia Association for Critical Thinking &middot; Views: 1.1K &middot; Uploaded: November 2020 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OXvT9ZNokRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OXvT9ZNokRc">Open on YouTube</a></p></div></div></div>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -301,7 +301,7 @@ Applied to sports logo superstitions, the process is straightforward:
 The crucial point is that the ritual does not need to work consistently. A supporter who wears a retro-logo cap for ten matches may remember the three dramatic victories that followed while treating the seven ordinary results as less important. The rare “hits” carry more emotional weight than the routine misses. Sport psychology research has repeatedly identified accidental associations between behaviour and success as a major source of superstitious practices among athletes and fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> PubMed Because sport outcomes are uncertain by nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span>, there is always a supply of chance successes available to reinforce the belief.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5gU5Vg2JokU" title="Europe - Superstitious" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5gU5Vg2JokU" target="_blank" rel="noopener noreferrer">Europe - Superstitious</a></p><p class="youtube-embed-meta">Channel: EuropeVEVO &middot; Views: 20.8M &middot; Uploaded: October 2009 &middot; Length: 4 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5gU5Vg2JokU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5gU5Vg2JokU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XWBXQAa-IU" title="The Superstitious Pigeon: B. F. Skinner 1948 Keon West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XWBXQAa-IU" target="_blank" rel="noopener noreferrer">The Superstitious Pigeon: B. F. Skinner 1948 Keon West</a></p><p class="youtube-embed-meta">Channel: The Faculties &middot; Views: 10.2K &middot; Uploaded: January 2015 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XWBXQAa-IU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XWBXQAa-IU">Open on YouTube</a></p></div></div></div>
 
 ## Why Misses Are Forgotten or Explained Away
 
@@ -328,7 +328,7 @@ In logo-related beliefs, this means a supporter may vividly recall a cup run tha
 
 Intermittent reinforcement becomes even more powerful during losing streaks.
 
-A common assumption is that repeated failure should weaken superstition. In practice, the opposite often occurs. When results deteriorate, uncertainty and anxiety increase. Athletes and supporters then search for actions that restore a sense of control. Research on sports superstition consistently finds that rituals can serve a psychological function by reducing anxiety and creating feelings of confidence, predictability or control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revistas.um.es/sportk/article/view/686101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistas.um.es">[Revistas UM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistas.um.es</span><span class="citation-popover-snippet">Revistas UMMental strategies and well-being: the dynamics of superstition...19 May 2026 — This study aimed to examine the effects of psy...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/41432157/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpbs.thebrpi.org">[3jpbs.thebrpi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpbs.thebrpi.org</span><span class="citation-popover-snippet">Superstitions and accompanying rituals are common among athletes and appear to provide an experience of control over performance.Read more...</span></span></span>
+A common assumption is that repeated failure should weaken superstition. In practice, the opposite often occurs. When results deteriorate, uncertainty and anxiety increase. Athletes and supporters then search for actions that restore a sense of control. Research on sports superstition consistently finds that rituals can serve a psychological function by reducing anxiety and creating feelings of confidence, predictability or control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revistas.um.es/sportk/article/view/686101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistas.um.es">[Revistas UM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistas.um.es</span><span class="citation-popover-snippet">Mental strategies and well-being: the dynamics of superstition...19 May 2026 — This study aimed to examine the effects of psy...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/41432157/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Superstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpbs.thebrpi.org">[3jpbs.thebrpi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpbs.thebrpi.org</span><span class="citation-popover-snippet">Superstitions and accompanying rituals are common among athletes and appear to provide an experience of control over performance.Read more...</span></span></span>
 
 For logo superstitions, a slump may trigger behavioural escalation:
 
@@ -347,7 +347,7 @@ Instead of abandoning the superstition, believers often modify it. If touching t
 This constant revision makes the belief difficult to disprove. Failures do not necessarily challenge the superstition; they often generate new versions of it.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XWBXQAa-IU" title="The Superstitious Pigeon: B. F. Skinner 1948 Keon West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XWBXQAa-IU" target="_blank" rel="noopener noreferrer">The Superstitious Pigeon: B. F. Skinner 1948 Keon West</a></p><p class="youtube-embed-meta">Channel: The Faculties &middot; Views: 10.2K &middot; Uploaded: January 2015 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XWBXQAa-IU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XWBXQAa-IU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a4wBLZhnLcI" title="Sports Psychology Case Study - Superstitions And Rituals of Athletes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a4wBLZhnLcI" target="_blank" rel="noopener noreferrer">Sports Psychology Case Study - Superstitions And Rituals of Athletes</a></p><p class="youtube-embed-meta">Channel: Peak Performance Sports, LLC &middot; Views: 8.3K &middot; Uploaded: March 2016 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a4wBLZhnLcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a4wBLZhnLcI">Open on YouTube</a></p></div></div></div>
 
 ## Why the Mechanism Feels So Convincing
 
@@ -781,114 +781,114 @@ For that reason, intermittent reinforcement is one of the most effective engines
 
 1. <a id="endnote-1"></a>
    Source: psychclassics.yorku.ca  
-   Link: [https://psychclassics.yorku.ca/Skinner/Pigeon/](https://psychclassics.yorku.ca/Skinner/Pigeon/)  
+   Link: <a href="https://psychclassics.yorku.ca/Skinner/Pigeon/" target="_blank" rel="noopener noreferrer nofollow">https://psychclassics.yorku.ca/Skinner/Pigeon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The bird behaves as if there were a causal relation between its behavior and the...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10099982/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the gap between laboratory and applied research on...by ET Ingvarsson · 2022 · Cited by 12 — In 1948, Skinner described the behavior of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: jpbs.thebrpi.org  
-   Link: [https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf](https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf)  
+   Link: <a href="https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superstitions and accompanying rituals are common among athletes and appear to provide an [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;) of control over performance.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: revistas.um.es  
-   Link: [https://revistas.um.es/sportk/article/view/686101](https://revistas.um.es/sportk/article/view/686101)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revistas UMMental strategies and well-being: the dynamics of superstition...19 May 2026 — This study aimed to examine the effects of psy...</p></details>
+   Link: <a href="https://revistas.um.es/sportk/article/view/686101" target="_blank" rel="noopener noreferrer nofollow">https://revistas.um.es/sportk/article/view/686101</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental strategies and well-being: the dynamics of superstition...19 May 2026 — This study aimed to examine the effects of psy...</p></details>
    Published: May 2026  
 
 5. <a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41432157/](https://pubmed.ncbi.nlm.nih.gov/41432157/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41432157/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41432157/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Superstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf](https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf)  
+   Link: <a href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/superstitious](https://dictionary.cambridge.org/dictionary/english/superstitious)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionarybased on or believing in superstitions (= beliefs based on old ideas about luck and magic rather...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/superstitious" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/superstitious</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarybased on or believing in superstitions (= beliefs based on old ideas about luck and magic rather...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Superstition](https://en.wikipedia.org/wiki/Superstition)  
+   Link: <a href="https://en.wikipedia.org/wiki/Superstition" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Superstition</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SuperstitionA superstition is any belief or practice considered by non-practitioners to be irrational or supernatural. It is commonly...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/superstitious](https://www.merriam-webster.com/dictionary/superstitious)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/superstitious" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/superstitious</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; Meaning11 May 2026 — The meaning of SUPERSTITIOUS is of, relating to, or swayed by superstition. How to use superstitious in...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/superstition](https://www.ebsco.com/research-starters/religion-and-philosophy/superstition)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/superstition" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/superstition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This belief system often...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: psychologistworld.com  
-   Link: [https://www.psychologistworld.com/superstition](https://www.psychologistworld.com/superstition)  
+   Link: <a href="https://www.psychologistworld.com/superstition" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologistworld.com/superstition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologist WorldSkinner&#x27;s Pigeon Experiment revealed that even pigeons can be conditioned to develop superstitious behaviours in belief...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/377059901_The_Influence_of_Skinner%27s_1948_Study_of_the_%27Superstition_in_the_Pigeon%27_on_Noncontingent_Reinforcement_Learning_Research_-_A_Critical_Perspective](https://www.researchgate.net/publication/377059901_The_Influence_of_Skinner%27s_1948_Study_of_the_%27Superstition_in_the_Pigeon%27_on_Noncontingent_Reinforcement_Learning_Research_-_A_Critical_Perspective)  
+   Link: <a href="https://www.researchgate.net/publication/377059901_The_Influence_of_Skinner%27s_1948_Study_of_the_%27Superstition_in_the_Pigeon%27_on_Noncontingent_Reinforcement_Learning_Research_-_A_Critical_Perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377059901_The_Influence_of_Skinner%27s_1948_Study_of_the_%27Superstition_in_the_Pigeon%27_on_Noncontingent_Reinforcement_Learning_Research_-_A_Critical_Perspective</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Influence of Skinner&#x27;s (1948) Study of the &#x27;Superstition...Jan 1, 2024 — Skinner&#x27;s (1948) research on his self-proclaimed &#x27;superstit...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mobt3ath.com  
-   Link: [https://www.mobt3ath.com/uplode/book/book-46937.pdf](https://www.mobt3ath.com/uplode/book/book-46937.pdf)  
+   Link: <a href="https://www.mobt3ath.com/uplode/book/book-46937.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mobt3ath.com/uplode/book/book-46937.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Superstition in Sport: A Phenomenological StudyWhether the reason is sport related or individually supplied, superstitious behaviors will...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: innerdrive.co.uk  
-   Link: [https://www.innerdrive.co.uk/blog/superstition-athletes/](https://www.innerdrive.co.uk/blog/superstition-athletes/)  
+   Link: <a href="https://www.innerdrive.co.uk/blog/superstition-athletes/" target="_blank" rel="noopener noreferrer nofollow">https://www.innerdrive.co.uk/blog/superstition-athletes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Activating a superstition boosts self-efficacy – meaning, it makes you feel confident...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: simplypsychology.org  
    Title: Simply Psychology Operant Conditioning In Psychology: B.F  
-   Link: [https://www.simplypsychology.org/operant-conditioning.html](https://www.simplypsychology.org/operant-conditioning.html)  
+   Link: <a href="https://www.simplypsychology.org/operant-conditioning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/operant-conditioning.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinner Theoryby S McLeod · Cited by 60 — Just like humans, pigeons can develop “superstitious” behaviors based on coincidental occurrenc...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: balticsportscience.com  
    Title: Not only does observation of athlete's behavior, but al  
-   Link: [https://www.balticsportscience.com/cgi/viewcontent.cgi?article=1300&[context](https://www.balticsportscience.com/cgi/viewcontent.cgi?article=1300&[context)  
+   Link: <a href="https://www.balticsportscience.com/cgi/viewcontent.cgi?article=1300&amp;[context" target="_blank" rel="noopener noreferrer nofollow">https://www.balticsportscience.com/cgi/viewcontent.cgi?article=1300&amp;[context</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-performance rituals and anxiety among young Polish...by J Basiaga-Pasternak · 2019 · Cited by 15 — Due to a repetitive nature of sup...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: aubreydaniels.com  
    Title: Are We Superstitious About "Superstitious" Behavior?  
-   Link: [https://www.aubreydaniels.com/blog/are-we-superstitious-about-superstitious-behavior](https://www.aubreydaniels.com/blog/are-we-superstitious-about-superstitious-behavior)  
+   Link: <a href="https://www.aubreydaniels.com/blog/are-we-superstitious-about-superstitious-behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.aubreydaniels.com/blog/are-we-superstitious-about-superstitious-behavior</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 27, 2014 — Skinner labeled such behavior as &quot;superstitious,&quot; and suggested that it maintained because of the accidental temporal...</p></details>
    Published: October 27, 2014  
 
 18. <a id="endnote-18"></a>
    Source: members.believeperform.com  
    Title: the power of superstitions and rituals in sport  
-   Link: [https://members.believeperform.com/the-power-of-superstitions-and-rituals-in-sport/](https://members.believeperform.com/the-power-of-superstitions-and-rituals-in-sport/)  
+   Link: <a href="https://members.believeperform.com/the-power-of-superstitions-and-rituals-in-sport/" target="_blank" rel="noopener noreferrer nofollow">https://members.believeperform.com/the-power-of-superstitions-and-rituals-in-sport/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>power of superstitions and rituals in sportMany sports performers believe that performing a specific ritual before a competition improves...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/919407035/Skinner](https://www.scribd.com/document/919407035/Skinner)  
+   Link: <a href="https://www.scribd.com/document/919407035/Skinner" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/919407035/Skinner</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y reinforcement. He observed that pigeons, when placed in an...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: drstankovich.com  
    Title: Sport Superstitions and Pre-Game Rituals  
-   Link: [https://drstankovich.com/sport-superstitions-pre-game-rituals/](https://drstankovich.com/sport-superstitions-pre-game-rituals/)  
+   Link: <a href="https://drstankovich.com/sport-superstitions-pre-game-rituals/" target="_blank" rel="noopener noreferrer nofollow">https://drstankovich.com/sport-superstitions-pre-game-rituals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Stankovich27 Oct 2009 — I was recently interviewed about my thoughts on sports performance, and how superstitions differ from pre-g...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/292810172_Superstitious_behavior_in_sport_Levels_of_effectiveness_and_determinants_of_use_in_three_collegiate_sports](https://www.researchgate.net/publication/292810172_Superstitious_behavior_in_sport_Levels_of_effectiveness_and_determinants_of_use_in_three_collegiate_sports)  
+   Link: <a href="https://www.researchgate.net/publication/292810172_Superstitious_behavior_in_sport_Levels_of_effectiveness_and_determinants_of_use_in_three_collegiate_sports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/292810172_Superstitious_behavior_in_sport_Levels_of_effectiveness_and_determinants_of_use_in_three_collegiate_sports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Superstitious behavior in sport: Levels of effectiveness and...16 Jun 2016 — However, most superstitious behaviors stem from the individ...</p></details>

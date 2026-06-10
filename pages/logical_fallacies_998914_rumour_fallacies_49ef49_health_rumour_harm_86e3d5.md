@@ -284,9 +284,9 @@ The result is more than confusion. During COVID-19 and other health emergencies,
 
 Health emergencies place people under pressure to make decisions before complete evidence exists. That pressure strengthens several common fallacies.
 
-A false-cause fallacy appears when people assume that because two events occur together, one must have caused the other. During a pandemic, a recovery after taking a home remedy can be interpreted as proof that the remedy works, even when many other explanations are possible. A hasty generalisation occurs when a small number of anecdotes are treated as evidence for a broad medical claim. An appeal to authority appears when a claim is accepted because a respected figure endorsed it, regardless of whether that person has relevant expertise.
+A false-cause fallacy appears when people assume that because two events occur together, one must have caused the other. During a pandemic, a recovery after taking a home remedy can be interpreted as proof that the remedy works, even when many other explanations are possible. A hasty generalisation occurs when a small number of anecdotes are treated as evidence for a broad medical claim. An [appeal to authority]({{ 'authority/' | relative_url }}) appears when a claim is accepted because a respected figure endorsed it, regardless of whether that person has relevant expertise.
 
-Fear also changes how people evaluate information. Research on pandemic misinformation repeatedly finds that [emotionally charged]({{ 'charged-labels/' | relative_url }}) claims travel quickly because they appear to offer certainty in situations where genuine experts are still gathering evidence. WHO and public-health researchers have warned that such information environments can lead people to ignore protective measures, adopt risky behaviours, or lose trust in institutions responsible for managing outbreaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span> The logical problem is not merely that a claim is wrong. It is that weak evidence is treated as if it were strong evidence precisely when decisions carry unusually high consequences.
+Fear also changes how people evaluate information. Research on pandemic misinformation repeatedly finds that emotionally charged claims travel quickly because they appear to offer certainty in situations where genuine experts are still gathering evidence. WHO and public-health researchers have warned that such information environments can lead people to ignore protective measures, adopt risky behaviours, or lose trust in institutions responsible for managing outbreaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span> The logical problem is not merely that a claim is wrong. It is that weak evidence is treated as if it were strong evidence precisely when decisions carry unusually high consequences.
 
 ## When rumours produce direct physical harm
 
@@ -308,7 +308,7 @@ Researchers studying the outbreak noted that the danger did not arise from a sop
 
 </div>
 
-Each step involved unsupported assumptions, yet the conclusion spread widely enough to affect behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span> ScienceDirect Pandemic misinformation has also been linked to other risky behaviours <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAlcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span>, including excessive consumption of supposed preventative substances, misuse of cleaning products, and avoidance of evidence-based treatments. Reviews of COVID-19 misinformation consistently identify confusion, risk-taking behaviour, and harmful self-treatment as recurring consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span>
+Each step involved unsupported assumptions, yet the conclusion spread widely enough to affect behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span> ScienceDirect Pandemic misinformation has also been linked to other risky behaviours <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span>, including excessive consumption of supposed preventative substances, misuse of cleaning products, and avoidance of evidence-based treatments. Reviews of COVID-19 misinformation consistently identify confusion, risk-taking behaviour, and harmful self-treatment as recurring consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe impact of misinformation on the COVID-19 pandemic</span><span class="citation-popover-snippet">impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BRylhApqr0s" title="WHO concerned over coronavirus &#x27;infodemic&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BRylhApqr0s" target="_blank" rel="noopener noreferrer">WHO concerned over coronavirus &#x27;infodemic&#x27;</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 15.2K &middot; Uploaded: February 2020 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BRylhApqr0s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BRylhApqr0s">Open on YouTube</a></p></div></div></div>
@@ -358,7 +358,7 @@ A more reliable approach distinguishes between plausible, possible, and establis
 
 </div>
 
-Public-health researchers increasingly emphasise that effective responses to infodemics depend not only on correcting falsehoods but also on helping people evaluate evidence more carefully. The goal is not blind trust in authorities; it is proportioning confidence to the quality of the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAlcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAlcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span>
+Public-health researchers increasingly emphasise that effective responses to infodemics depend not only on correcting falsehoods but also on helping people evaluate evidence more carefully. The goal is not blind trust in authorities; it is proportioning confidence to the quality of the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</span></span></span>
 
 Pandemic rumours become dangerous when logical shortcuts replace that discipline. Fear, urgency, and trusted messengers can make weak claims feel convincing. The real-world harms—from poisonings and delayed treatment to mistrust and social conflict—show that the consequences of faulty reasoning during a health emergency extend far beyond the rumour itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ajtmh.org">[2ajtmh.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ajtmh.org</span><span class="citation-popover-title">article p1621.xml</span><span class="citation-popover-snippet">COVID-19–Related Infodemic and Its Impact on Public Healthby MS Islam · 2020 · Cited by 1551 — Infodemics, often including rumors, stigma...</span></span></span>
 
@@ -786,194 +786,194 @@ Pandemic rumours become dangerous when logical shortcuts replace that discipline
 
 1. <a id="endnote-1"></a>
    Source: who.int  
-   Link: [https://www.who.int/health-topics/infodemic](https://www.who.int/health-topics/infodemic)  
+   Link: <a href="https://www.who.int/health-topics/infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/health-topics/infodemic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemicIt causes confusion and risk-taking behaviours that can harm health. It also leads to mistrust in healt...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe impact of misinformation on the COVID-19 pandemic  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9114791/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of misinformation on the COVID-19 pandemic - PMCby MMF Caceres · 2022 · Cited by 329 — It has become evident that the internet, so...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7251552/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7251552/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7251552/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7251552/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, it is imperative to exert every effort to dispel dangerous and unscientific misinformation...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7368655/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7368655/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAlcohol intake in an attempt to fight COVID-19: A medical myth...by H Aghababaeian · 2020 · Cited by 103 — In Iran, methanol poisonin...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7368655/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7368655/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alcohol intake in an attempt to fight COVID-19: A medical myth...by H Aghababaeian · 2020 · Cited by 103 — In Iran, methanol poisonin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500](https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAlcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0741832920302500</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alcohol intake in an attempt to fight COVID-19: A medical...by H Aghababaeian · 2020 · Cited by 103 — Hundreds die in Iran...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: who.int  
-   Link: [https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds](https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds)  
+   Link: <a href="https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/europe/news/item/01-09-2022-infodemics-and-misinformation-negatively-affect-people-s-health-behaviours--new-who-review-finds</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationInfodemics and misinformation negatively affect people&#x27;s...1 Sept 2022 — The systematic review found that peopl...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9421549/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and health misinformation: a systematic review of...by IJB do Nascimento · 2022 · Cited by 708 — This phenomenon, called an infodemic, i...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
    Title: Fake rumors, real killings: Inside Congo's deadly health misinformation crisis  
-   Link: [https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/](https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/)  
+   Link: <a href="https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/media-telecom/fake-rumors-real-killings-inside-congos-deadly-health-misinformation-crisis-2026-05-07/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The panic led to violence, including the killing of four health workers conducting vaccination surveys. The WHO and Africa Infodemic Resp...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
    Title: Disease, misinformation threaten health workers This Reuters newsletter from  
-   Link: [https://www.reuters.com/sustainability/disease-misinformation-threaten-health-workers-2026-05-07/](https://www.reuters.com/sustainability/disease-misinformation-threaten-health-workers-2026-05-07/)  
+   Link: <a href="https://www.reuters.com/sustainability/disease-misinformation-threaten-health-workers-2026-05-07/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/disease-misinformation-threaten-health-workers-2026-05-07/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Tenerife, Spain, healthcare professionals are concerned about a potential outbreak of Andes hantavirus aboard the MV Hondius cruise sh...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2468266724000318](https://www.sciencedirect.com/science/article/pii/S2468266724000318)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2468266724000318" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468266724000318</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examples of...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1473309924001051](https://www.sciencedirect.com/science/article/abs/pii/S1473309924001051)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1473309924001051" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1473309924001051</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Social histories of public health misinformation and...by SL Jin · 2024 · Cited by 44 — Public health authorities continue to [experience](&amp;#123;&amp;#123; &#x27;experience/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ajtmh.org  
    Title: article p1621.xml  
-   Link: [https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml](https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml)  
+   Link: <a href="https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.ajtmh.org/view/journals/tpmd/103/4/article-p1621.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19–Related Infodemic and Its Impact on Public Healthby MS Islam · 2020 · Cited by 1551 — Infodemics, often including rumors, stigma...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: who.int  
-   Link: [https://www.who.int/](https://www.who.int/)  
+   Link: <a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
 
 14. <a id="endnote-14"></a>
    Source: emro.who.int  
-   Link: [https://www.emro.who.int/emhj-volume-28-2022/volume-28-issue-2/motivations-for-alcohol-consumption-during-the-covid-19-pandemic-in-islamic-republic-of-iran.html](https://www.emro.who.int/emhj-volume-28-2022/volume-28-issue-2/motivations-for-alcohol-consumption-during-the-covid-19-pandemic-in-islamic-republic-of-iran.html)  
+   Link: <a href="https://www.emro.who.int/emhj-volume-28-2022/volume-28-issue-2/motivations-for-alcohol-consumption-during-the-covid-19-pandemic-in-islamic-republic-of-iran.html" target="_blank" rel="noopener noreferrer nofollow">https://www.emro.who.int/emhj-volume-28-2022/volume-28-issue-2/motivations-for-alcohol-consumption-during-the-covid-19-pandemic-in-islamic-republic-of-iran.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>for alcohol consumption during the COVID-19...by A Fattah · 2022 · Cited by 4 — From 7 March to 8 April 2020, methanol poisoning was rep...</p></details>
    Published: April 2020  
 
 15. <a id="endnote-15"></a>
    Source: who.int  
    Title: WH O’s response to hantavirus cases linked to a cruise ship  
-   Link: [https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship](https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship)  
+   Link: <a href="https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship</a>  
 
 16. <a id="endnote-16"></a>
    Source: who.int  
-   Link: [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)  
+   Link: <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 MythbustersAn alcohol-based sanitizer does not create antibiotic resistance. Unlike other antiseptics and antibiotics, pathogens...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: who.int  
-   Link: [https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation](https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation)  
+   Link: <a href="https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/23-09-2020-managing-the-covid-19-infodemic-promoting-healthy-behaviours-and-mitigating-the-harm-from-misinformation-and-disinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing the COVID-19 infodemic: Promoting healthy...23 Sept 2020 — It includes deliberate attempts to disseminate wrong information to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reuters.com  
    Title: KL M flight attendant tested negative for hantavirus infection, WHO says  
-   Link: [https://www.reuters.com/business/healthcare-pharmaceuticals/klm-flight-attendant-tested-negative-hantavirus-infection-who-says-2026-05-08/](https://www.reuters.com/business/healthcare-pharmaceuticals/klm-flight-attendant-tested-negative-hantavirus-infection-who-says-2026-05-08/)  
+   Link: <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/klm-flight-attendant-tested-negative-hantavirus-infection-who-says-2026-05-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/klm-flight-attendant-tested-negative-hantavirus-infection-who-says-2026-05-08/</a>  
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S2292949521000055](https://www.sciencedirect.com/org/science/article/pii/S2292949521000055)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2292949521000055" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2292949521000055</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Prevalence of Misinformation and Factchecks on the...by M Cha · 2021 · Cited by 51 — We conducted an online survey via [social media](&amp;#123;&amp;#123; &#x27;social-media/&#x27; | relative_url &amp;#125;&amp;#125;) plat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S073567572100930X](https://www.sciencedirect.com/science/article/abs/pii/S073567572100930X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S073567572100930X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S073567572100930X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual disturbances in patients with acute methanol poisoning: a cross-sectional study: acute...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: COVID 19 misinformation  
-   Link: [https://en.wikipedia.org/wiki/COVID-19_misinformation](https://en.wikipedia.org/wiki/COVID-19_misinformation)  
+   Link: <a href="https://en.wikipedia.org/wiki/COVID-19_misinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/COVID-19_misinformation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 misinformationFalse information, including disinformation and conspiracy theories about the scale of the COVID-19 pandemic an...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: World Health Organization  
-   Link: [https://en.wikipedia.org/wiki/World_Health_Organization](https://en.wikipedia.org/wiki/World_Health_Organization)  
+   Link: <a href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World_Health_Organization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA](https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA)  
+   Link: <a href="https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UC07-dOwgza1IguKA86jqxNA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>official public health information Youtube...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/who/](https://www.instagram.com/who/)  
+   Link: <a href="https://www.instagram.com/who/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/who/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>remove hate speech &amp; mis-disinformation...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WHO/](https://www.facebook.com/WHO/)  
+   Link: <a href="https://www.facebook.com/WHO/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WHO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health Organization (WHO) | GenevaWorld Health Organization (WHO), Geneva. 37250898 likes · 31672 talking about this · 142077 were...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: x.com  
    Title: World Health Organization (WHO)We are the UN's health agency  
-   Link: [https://x.com/WHO](https://x.com/WHO)  
+   Link: <a href="https://x.com/WHO" target="_blank" rel="noopener noreferrer nofollow">https://x.com/WHO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#HealthForAll. Always check our latest tweets for updated advice/information. We will respond to mis-and-disinformation...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/396248635_Alcohol_poisoning_in_the_shadow_of_a_COVID-19_pandemic_a_5-year_review_of_methanolethanol_toxicity_in_Northern_Iran](https://www.researchgate.net/publication/396248635_Alcohol_poisoning_in_the_shadow_of_a_COVID-19_pandemic_a_5-year_review_of_methanolethanol_toxicity_in_Northern_Iran)  
+   Link: <a href="https://www.researchgate.net/publication/396248635_Alcohol_poisoning_in_the_shadow_of_a_COVID-19_pandemic_a_5-year_review_of_methanolethanol_toxicity_in_Northern_Iran" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396248635_Alcohol_poisoning_in_the_shadow_of_a_COVID-19_pandemic_a_5-year_review_of_methanolethanol_toxicity_in_Northern_Iran</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alcohol poisoning, in the shadow of a COVID-19 pandemicAlcohol poisoning, in the shadow of a COVID-19 pandemic: a 5-year review of methan...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: newswise.com  
-   Link: [https://www.newswise.com/articles/as-covid-19-and-online-misinformation-spread-children-and-teens-were-poisoned-with-hand-sanitizer-and-alcoholic-drinks](https://www.newswise.com/articles/as-covid-19-and-online-misinformation-spread-children-and-teens-were-poisoned-with-hand-sanitizer-and-alcoholic-drinks)  
+   Link: <a href="https://www.newswise.com/articles/as-covid-19-and-online-misinformation-spread-children-and-teens-were-poisoned-with-hand-sanitizer-and-alcoholic-drinks" target="_blank" rel="noopener noreferrer nofollow">https://www.newswise.com/articles/as-covid-19-and-online-misinformation-spread-children-and-teens-were-poisoned-with-hand-sanitizer-and-alcoholic-drinks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As COVID-19 and Online Misinformation Spread, Children...Sep 8, 2021 — Misinformation circulating on social media included the false sug...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ballardbrief.byu.edu  
    Title: the effects of medical misinformation on the american public  
-   Link: [https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public](https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public)  
+   Link: <a href="https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public" target="_blank" rel="noopener noreferrer nofollow">https://ballardbrief.byu.edu/issue-briefs/the-effects-of-medical-misinformation-on-the-american-public</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Medical Misinformation on the American Public15 Mar 2024 — Medical misinformation causes higher rates of death and negative he...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: abc.net.au  
    Title: hundreds dead in iran after drinking methanol to cure virus  
-   Link: [https://www.abc.net.au/news/2020-04-28/hundreds-dead-in-iran-after-drinking-methanol-to-cure-virus/12192582](https://www.abc.net.au/news/2020-04-28/hundreds-dead-in-iran-after-drinking-methanol-to-cure-virus/12192582)  
+   Link: <a href="https://www.abc.net.au/news/2020-04-28/hundreds-dead-in-iran-after-drinking-methanol-to-cure-virus/12192582" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2020-04-28/hundreds-dead-in-iran-after-drinking-methanol-to-cure-virus/12192582</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hundreds die in Iran over false belief drinking methanol...27 Apr 2020 — Health workers in Iran are warning people to not fall for coron...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cpha.ca  
-   Link: [https://www.cpha.ca/finding-public-healths-voice-infodemic](https://www.cpha.ca/finding-public-healths-voice-infodemic)  
+   Link: <a href="https://www.cpha.ca/finding-public-healths-voice-infodemic" target="_blank" rel="noopener noreferrer nofollow">https://www.cpha.ca/finding-public-healths-voice-infodemic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ncluding false or misleading information in digital and physical...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA syndemic of COVID-19 and methanol poisoning in Iran  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7272173/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7272173/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7272173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7272173/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: alcohol policy, Iran, methanol poisoning, prevention, public health models...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: societyofeditors.org  
-   Link: [https://www.societyofeditors.org/soe_news/full-fact-we-dont-know-whether-misinformation-killed-800-people/](https://www.societyofeditors.org/soe_news/full-fact-we-dont-know-whether-misinformation-killed-800-people/)  
+   Link: <a href="https://www.societyofeditors.org/soe_news/full-fact-we-dont-know-whether-misinformation-killed-800-people/" target="_blank" rel="noopener noreferrer nofollow">https://www.societyofeditors.org/soe_news/full-fact-we-dont-know-whether-misinformation-killed-800-people/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We don&#x27;t know whether “misinformation” killed 800 peopleAug 20, 2020 — The figure of 800 comes almost entirely from alcohol poisoning deaths...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: d-nb.info  
    Title: In methanol poisoning, the efficacy of tr  
-   Link: [https://d-nb.info/1217232400/34](https://d-nb.info/1217232400/34)  
+   Link: <a href="https://d-nb.info/1217232400/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1217232400/34</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>methanol outbreak in the wake of the COVID-19 pandemic...by H Hassanian-Moghaddam · 2020 · Cited by 100 — to human lives [4], as health...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: m.dongascience.com  
-   Link: [https://m.dongascience.com/en/news/39006](https://m.dongascience.com/en/news/39006)  
+   Link: <a href="https://m.dongascience.com/en/news/39006" target="_blank" rel="noopener noreferrer nofollow">https://m.dongascience.com/en/news/39006</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>dongascience.com800 Deaths Between Jan-March Linked to COVID-19 Fake...Aug 13, 2020 — This [fake news](&amp;#123;&amp;#123; &#x27;fake-news/&#x27; | relative_url &amp;#125;&amp;#125;) often gained credibility by disguis...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: researchgate.net  
    Title: (PDF) Methanol Mass Poisoning Outbreak  
-   Link: [https://www.researchgate.net/publication/342986329_Methanol_Mass_Poisoning_Outbreak_A_Consequence_of_COVID-19_Pandemic_and_Misleading_Messages_on_Social_Media](https://www.researchgate.net/publication/342986329_Methanol_Mass_Poisoning_Outbreak_A_Consequence_of_COVID-19_Pandemic_and_Misleading_Messages_on_Social_Media)  
+   Link: <a href="https://www.researchgate.net/publication/342986329_Methanol_Mass_Poisoning_Outbreak_A_Consequence_of_COVID-19_Pandemic_and_Misleading_Messages_on_Social_Media" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342986329_Methanol_Mass_Poisoning_Outbreak_A_Consequence_of_COVID-19_Pandemic_and_Misleading_Messages_on_Social_Media</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>misinformation regarding the alleged protective effects of alcohol against... poisoning during COVID-19 pandemic: a multicenter study of...</p></details>

@@ -304,7 +304,7 @@ What is missing is the crucial comparison: what would have happened if the perso
 
 ### Regression to the mean creates convincing success stories
 
-One of the most important but least understood explanations is [regression]({{ 'regression/' | relative_url }}) to the mean. When people seek treatment during an unusually bad period, statistical tendency alone predicts that later measurements will often be closer to their normal level. In other words, extreme symptoms frequently become less extreme even without an effective intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4371726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRegression to the Mean: Implications for Clinical Trials</span><span class="citation-popover-snippet">PMCby JL Cummings · 2004 · Cited by 22 — Analysis of the trial outcomes demonstrated that the reduction observed in the placebo group was...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOpen label placebo: can honestly prescribed</span><span class="citation-popover-snippet">PMC - NIHby TJ Kaptchuk · 2018 · Cited by 167 — Importantly, clinical research has shown that placebo effects are more than spontaneous i...</span></span></span>
+One of the most important but least understood explanations is [regression]({{ 'regression/' | relative_url }}) to the mean. When people seek treatment during an unusually bad period, statistical tendency alone predicts that later measurements will often be closer to their normal level. In other words, extreme symptoms frequently become less extreme even without an effective intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4371726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRegression to the Mean: Implications for Clinical Trials</span><span class="citation-popover-snippet">by JL Cummings · 2004 · Cited by 22 — Analysis of the trial outcomes demonstrated that the reduction observed in the placebo group was...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOpen label placebo: can honestly prescribed</span><span class="citation-popover-snippet">NIHby TJ Kaptchuk · 2018 · Cited by 167 — Importantly, clinical research has shown that placebo effects are more than spontaneous i...</span></span></span>
 
 Imagine someone whose chronic back pain fluctuates between mild and severe. They buy a supplement during a particularly painful week. A month later, the pain has returned to its usual level. The improvement feels real because it is real. The mistaken step is attributing that improvement to the supplement without ruling out the possibility that the symptoms would have eased anyway.
 
@@ -388,7 +388,7 @@ When evaluating a health claim, it helps to ask:
 
 </div>
 
-If the answer relies mainly on personal stories, caution is warranted. Anecdotes can suggest possibilities, but they are poor tools for measuring effectiveness. Controlled research exists precisely because human beings are so good at finding patterns, causes, and success stories even when those patterns are misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Anecdotal evidence can be unreliable. You cannot infer a general rule from a...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/providers/litreviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">nih.govEvidence-Based Medicine: Literature Reviews | NCCIHThe resources on this page will help inform you about what the science says (li...</span></span></span>
+If the answer relies mainly on personal stories, caution is warranted. Anecdotes can suggest possibilities, but they are poor tools for measuring effectiveness. Controlled research exists precisely because human beings are so good at finding patterns, causes, and success stories even when those patterns are misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Anecdotal evidence can be unreliable. You cannot infer a general rule from a...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/providers/litreviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">nih.govEvidence-Based Medicine: Literature Reviews &#124; NCCIHThe resources on this page will help inform you about what the science says (li...</span></span></span>
 
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-3-dark.svg" | relative_url }}" alt="Testimonials illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -820,164 +820,164 @@ The anecdote trap occurs when a recovery story is treated as the test rather tha
 1. <a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBad evidence  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK63649/](https://www.ncbi.nlm.nih.gov/books/NBK63649/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Anecdotal evidence](&amp;#123;&amp;#123; &#x27;anecdotes/&#x27; | relative_url &amp;#125;&amp;#125;) can be unreliable. You cannot infer a general rule from a...Read more...</p></details>
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK63649/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anecdotal evidence can be unreliable. You cannot infer a general rule from a...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nccih.nih.gov  
    Title: NCCIHKnow the Science of Complementary Health Approaches  
-   Link: [https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches](https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches)  
+   Link: <a href="https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/providers/digest/know-the-science-of-complementary-health-approaches</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Complementary Health Approaches - nccihAs you know, there is a lot of inaccurate or misleading information circulating abo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nccih.nih.gov  
-   Link: [https://www.nccih.nih.gov/health/providers/litreviews](https://www.nccih.nih.gov/health/providers/litreviews)  
+   Link: <a href="https://www.nccih.nih.gov/health/providers/litreviews" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/providers/litreviews</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govEvidence-Based Medicine: Literature Reviews | NCCIHThe resources on this page will help inform you about what the science says (li...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1125994/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge of regression to the mean can help with everything from interpreting test results to improving your career prospects...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRegression to the Mean: Implications for Clinical Trials  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4371726/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4371726/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby JL Cummings · 2004 · Cited by 22 — Analysis of the trial outcomes demonstrated that the reduction observed in the placebo group was...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4371726/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4371726/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JL Cummings · 2004 · Cited by 22 — Analysis of the trial outcomes demonstrated that the reduction observed in the placebo group was...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ebm.bmj.com  
-   Link: [https://ebm.bmj.com/content/27/3/153](https://ebm.bmj.com/content/27/3/153)  
+   Link: <a href="https://ebm.bmj.com/content/27/3/153" target="_blank" rel="noopener noreferrer nofollow">https://ebm.bmj.com/content/27/3/153</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, some interventions take...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nccih.nih.gov  
    Title: NCCIHPlacebo Effect | NCCIH  
-   Link: [https://www.nccih.nih.gov/health/placebo-effect](https://www.nccih.nih.gov/health/placebo-effect)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHThe placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help. How a health...</p></details>
+   Link: <a href="https://www.nccih.nih.gov/health/placebo-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/health/placebo-effect</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The placebo effect is a beneficial health outcome resulting from a person&#x27;s anticipation that an intervention will help. How a health...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOpen label placebo: can honestly prescribed  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6889847/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6889847/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby TJ Kaptchuk · 2018 · Cited by 167 — Importantly, clinical research has shown that placebo effects are more than spontaneous i...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6889847/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6889847/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby TJ Kaptchuk · 2018 · Cited by 167 — Importantly, clinical research has shown that placebo effects are more than spontaneous i...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ftc.gov  
    Title: health products compliance guidance  
-   Link: [https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance](https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance)  
+   Link: <a href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/health-claims](https://www.ftc.gov/business-guidance/advertising-marketing/health-claims)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claims | Federal Trade CommissionCompanies must support their [advertising claims](&amp;#123;&amp;#123; &#x27;ad-claims/&#x27; | relative_url &amp;#125;&amp;#125;) with solid proof. This is especially true for bus...</p></details>
+   Link: <a href="https://www.ftc.gov/business-guidance/advertising-marketing/health-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/advertising-marketing/health-claims</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Claims | Federal Trade CommissionCompanies must support their advertising claims with solid proof. This is especially true for bus...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/reports/effect-consumer-testimonials-disclosures-ad-communication-dietary-supplement-endorsement-booklet](https://www.ftc.gov/reports/effect-consumer-testimonials-disclosures-ad-communication-dietary-supplement-endorsement-booklet)  
+   Link: <a href="https://www.ftc.gov/reports/effect-consumer-testimonials-disclosures-ad-communication-dietary-supplement-endorsement-booklet" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/reports/effect-consumer-testimonials-disclosures-ad-communication-dietary-supplement-endorsement-booklet</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionThe Effect of Consumer Testimonials and Disclosures of Ad...The booklet consisted entirely of three pages of con...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mentalhealth.bmj.com  
-   Link: [https://mentalhealth.bmj.com/content/26/1/e300701](https://mentalhealth.bmj.com/content/26/1/e300701)  
+   Link: <a href="https://mentalhealth.bmj.com/content/26/1/e300701" target="_blank" rel="noopener noreferrer nofollow">https://mentalhealth.bmj.com/content/26/1/e300701</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To compare the models&#x27; performance, we calculated the mean absolute...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: bmjpaedsopen.bmj.com  
-   Link: [https://bmjpaedsopen.bmj.com/content/9/1/e003594](https://bmjpaedsopen.bmj.com/content/9/1/e003594)  
+   Link: <a href="https://bmjpaedsopen.bmj.com/content/9/1/e003594" target="_blank" rel="noopener noreferrer nofollow">https://bmjpaedsopen.bmj.com/content/9/1/e003594</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and diagnostic pursuit. Although there is a lack of an universally agreed definition to operationalise developmental regression, when...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bmj.com  
    Title: bmj 2021 067606  
-   Link: [https://www.bmj.com/content/378/bmj-2021-067606](https://www.bmj.com/content/378/bmj-2021-067606)  
+   Link: <a href="https://www.bmj.com/content/378/bmj-2021-067606" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/378/bmj-2021-067606</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Response to acute monotherapy for major depressive...by MB Stone · 2022 · Cited by 172 — The trimodal response distributions suggests th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/374/bmj.n1585](https://www.bmj.com/content/374/bmj.n1585)  
+   Link: <a href="https://www.bmj.com/content/374/bmj.n1585" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/374/bmj.n1585</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cluster randomised controlled trialby MR Blum · 2021 · Cited by 249 — Conclusions Inappropriate prescribing was common in older adults wi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bmj.com  
-   Link: [https://www.bmj.com/content/308/6942/1499/related](https://www.bmj.com/content/308/6942/1499/related)  
+   Link: <a href="https://www.bmj.com/content/308/6942/1499/related" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/308/6942/1499/related</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistic Notes: Regression towards the meanA reassessment of regression to the mean and spontaneous remission. Abstract... Articles by...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC2716443/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2716443/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2716443/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2716443/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Patients in the placebo arms of randomized controlled trials (RCT) often experience positive changes from baseline.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nccih.nih.gov  
    Title: research results  
-   Link: [https://www.nccih.nih.gov/research/research-results](https://www.nccih.nih.gov/research/research-results)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| NCCIH - NIHThis page provides plain language summaries of a few of the studies that NCCIH has supported or conducted...</p></details>
+   Link: <a href="https://www.nccih.nih.gov/research/research-results" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/research/research-results</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCCIH - NIHThis page provides plain language summaries of a few of the studies that NCCIH has supported or conducted...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nccih.nih.gov  
    Title: research results  
-   Link: [https://www.nccih.nih.gov/research/research-results/2024](https://www.nccih.nih.gov/research/research-results/2024)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| NCCIH - NIHAccording to a new study, not only does mindfulness meditation reduce pain more than a placebo, but it also uses different n...</p></details>
+   Link: <a href="https://www.nccih.nih.gov/research/research-results/2024" target="_blank" rel="noopener noreferrer nofollow">https://www.nccih.nih.gov/research/research-results/2024</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCCIH - NIHAccording to a new study, not only does mindfulness meditation reduce pain more than a placebo, but it also uses different n...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9361274/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9361274/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9361274/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9361274/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our aims were to provide updated information on placebo/nocebo effect and the potential use of placebo in clinical practice.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12826090/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12826090/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby YT Chen · 2025 · Cited by 3 — The present article provides an overview of regression to the mean and contextual effects, emphasizin...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12826090/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12826090/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by YT Chen · 2025 · Cited by 3 — The present article provides an overview of regression to the mean and contextual effects, emphasizin...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: healthcaresuccess.com  
-   Link: [https://healthcaresuccess.com/blog/medical-marketing-advertising/revised-ftc-guidelines-apply-to-healthcare-medical-practice-testimonials.html](https://healthcaresuccess.com/blog/medical-marketing-advertising/revised-ftc-guidelines-apply-to-healthcare-medical-practice-testimonials.html)  
+   Link: <a href="https://healthcaresuccess.com/blog/medical-marketing-advertising/revised-ftc-guidelines-apply-to-healthcare-medical-practice-testimonials.html" target="_blank" rel="noopener noreferrer nofollow">https://healthcaresuccess.com/blog/medical-marketing-advertising/revised-ftc-guidelines-apply-to-healthcare-medical-practice-testimonials.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Guidelines Apply to Healthcare &amp; Medical TestimonialsThe Federal Trade Commission (FTC) updated its guidelines regarding the use of e...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ftcdefenselawyer.com  
-   Link: [https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/](https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/)  
+   Link: <a href="https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/" target="_blank" rel="noopener noreferrer nofollow">https://ftcdefenselawyer.com/advertising-claim-substantiation-copy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Health Products Compliance Guidance | HinchNewman...The new and updated guidance prohibits false and deceptive advertising represent...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: jonesday.com  
-   Link: [https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising](https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising)  
+   Link: <a href="https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2023/05/ftc-signals-intent-to-combat-deceptive-health-claims-advertising</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Targets Deceptive Health Claims AdvertisingFTC warns companies advertising health- and wellness-related products against making unsub...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: kslaw.com  
-   Link: [https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=](https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=)  
+   Link: <a href="https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=" target="_blank" rel="noopener noreferrer nofollow">https://www.kslaw.com/attachments/000/010/346/original/It%27s_Not_Just_for_Dietary_Supplements_Anymore_-_FTC_Revises_and_Expands_Guidance_for_Health_Claims.pdf?1675367806=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Revises and Expands Guidance for Health Claims2 Feb 2023 — According to the Guidance, surveys of individual experiences “are never su...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/10757420_Effect_of_regression_to_the_mean_on_decision_making_in_health_care](https://www.researchgate.net/publication/10757420_Effect_of_regression_to_the_mean_on_decision_making_in_health_care)  
+   Link: <a href="https://www.researchgate.net/publication/10757420_Effect_of_regression_to_the_mean_on_decision_making_in_health_care" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10757420_Effect_of_regression_to_the_mean_on_decision_making_in_health_care</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of regression to the mean on decision making in...Regression to the mean may occur due to greater severity patients having more r...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/8070017_Regression_to_the_mean_Treatment_effect_without_the_intervention](https://www.researchgate.net/publication/8070017_Regression_to_the_mean_Treatment_effect_without_the_intervention)  
+   Link: <a href="https://www.researchgate.net/publication/8070017_Regression_to_the_mean_Treatment_effect_without_the_intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/8070017_Regression_to_the_mean_Treatment_effect_without_the_intervention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression to the mean: Treatment effect without...The regression to the mean (RTM) effect is a group phenomenon in clinical studies, ap...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: kelleydrye.com  
-   Link: [https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance](https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance)  
+   Link: <a href="https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/misguided-the-ftc-attempts-to-redefine-the-law-with-its-health-products-compliance-guidance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misguided: The FTC Attempts to Redefine…21 Dec 2022 — First, review claim substantiation and disclosure practices with an understanding t...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: fdli.org  
-   Link: [https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/](https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/)  
+   Link: <a href="https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/" target="_blank" rel="noopener noreferrer nofollow">https://www.fdli.org/2023/02/ftc-and-nad-remind-industry-of-their-authority-over-all-health-product-advertising-including-rx/</a>  
 
 30. <a id="endnote-30"></a>
    Source: dcscience.net  
-   Link: [https://www.dcscience.net/2015/12/11/placebo-effects-are-weak-regression-to-the-mean-is-the-main-reason-ineffective-treatments-appear-to-work/](https://www.dcscience.net/2015/12/11/placebo-effects-are-weak-regression-to-the-mean-is-the-main-reason-ineffective-treatments-appear-to-work/)  
+   Link: <a href="https://www.dcscience.net/2015/12/11/placebo-effects-are-weak-regression-to-the-mean-is-the-main-reason-ineffective-treatments-appear-to-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.dcscience.net/2015/12/11/placebo-effects-are-weak-regression-to-the-mean-is-the-main-reason-ineffective-treatments-appear-to-work/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Placebo effects are weak: regression to the mean is...Dec 11, 2015 — Statistical regression to the mean predicts that patients selected...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: nutraceuticalsworld.com  
-   Link: [https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/](https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/)  
+   Link: <a href="https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nutraceuticalsworld.com/reviewing-claims-substantiation-for-supplements-and-the-roles-of-federal-and-state-regulatory-bodies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reviewing Claims Substantiation for Supplements and the...10 Jan 2024 — This regulatory primer discusses the responsibilities and roles...</p></details>

@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Emotion
 title: When Does Emotion Replace Evidence?
-title_full: When Does Emotion Replace Evidence? | Fallacy Lab
+title_full: When Does Emotion Replace Evidence?
 display_title_short: Emotion
 display_title: Emotion
 heading_title: When Does Emotion Replace Evidence?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-overview
 
 Appeals to emotion become fallacious when feeling is made to do the work that evidence should do. A speaker may rightly ask an audience to care about suffering, danger, fairness or loss; those emotions can help people recognise what is at stake. The problem begins when the audience is pushed to accept a factual claim, verdict, policy or purchase because they feel pity, fear, [outrage]({{ 'outrage/' | relative_url }}), guilt or urgency, rather than because the reasons actually support the conclusion.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-overview.webp" | relative_url }}" alt="Overview image for Emotion" loading="eager" decoding="sync" fetchpriority="high">
 Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a fallacy of [relevance]({{ 'relevance/' | relative_url }}): the emotional material may be psychologically powerful while being logically beside the point. The Stanford Encyclopedia of Philosophy gives the classic contrast: sympathy may matter in practical or ethical decisions, but sympathy alone is not evidence that a proposition is true; likewise, a threat may give someone a reason to act, but not a reason to believe the threatened claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy</span><span class="citation-popover-snippet">Fallacies (Stanford Encyclopedia of Philosophy)...</span></span></span> Encyclopedia of Philosophy
 
@@ -523,7 +522,6 @@ The University of North Carolina Writing Center’s example of appeal to pity ca
 
 Common emotional substitutes include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Pity:** “You must accept my claim because rejecting it would be cruel.”
@@ -536,7 +534,6 @@ Common emotional substitutes include:
 </div>
 
 The fallacy does not depend on the emotion being fake. The hardship may be real. The risk may be frightening. The injustice may be serious. What matters is whether the emotion is connected to the conclusion by a relevant reason. A true story can still be used fallaciously if it is made to answer the wrong question.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-Illustration-1-dark.svg" | relative_url }}" alt="Emotion illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Manipulative pressure
@@ -559,7 +556,6 @@ Not all emotional pressure uses the same route. Fear, pity and urgency are espec
 
 **Urgency** compresses the time available for checking. It is especially effective in sales, scams, political mobilisation and online sharing. A deadline can be legitimate when it is real and relevant. It becomes manipulative when it is artificial, misleading or designed to stop comparison. The Advertising Standards Authority has warned, for instance, that countdown clocks can create undue pressure in sensitive advertising categories such as gambling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/news/it-s-the-final-countdown-but-is-it-really.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAIt&#x27;s the final countdown… but is it really?</span><span class="citation-popover-snippet">ASAIt&#x27;s the final countdown… but is it really?</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7_IZPVHiMOg" title="Appeal to the Reader&#x27;s Emotion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7_IZPVHiMOg" target="_blank" rel="noopener noreferrer">Appeal to the Reader&#x27;s Emotion</a></p><p class="youtube-embed-meta">Channel: Mometrix Academy &middot; Views: 33.0K &middot; Uploaded: January 2018 &middot; Length: 4 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7_IZPVHiMOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7_IZPVHiMOg">Open on YouTube</a></p></div></div></div>
 
 ## Why emotional arguments can feel convincing
@@ -570,14 +566,12 @@ Research on misinformation helps explain the risk. A study by Cameron Martel, Go
 
 Recent work on fallacy detection points in the same direction. A 2025 computational and human-subject study reported that emotionally framed fallacious arguments reduced human fallacy-detection performance, with fear and sadness among the emotional states associated with lower detection than enjoyment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The practical lesson is not “ignore emotion”, but “slow down when emotion is doing too much of the argumentative labour.”
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-Illustration-3-dark.svg" | relative_url }}" alt="Emotion illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical test: evidence after feeling
 
 The safest way to evaluate an emotional appeal is not to suppress the emotion. It is to ask what remains after the feeling has been acknowledged.
 
 A useful sequence is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -591,7 +585,6 @@ A useful sequence is:
 </div>
 
 This test keeps the useful part of emotion while resisting manipulation. If an animal-welfare advert shows distressing footage and then provides verifiable evidence about conditions, regulation and alternatives, the emotion may be part of a legitimate argument. If it shows distressing footage and then demands acceptance of an unrelated claim, the feeling has replaced evidence.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-Illustration-2-dark.svg" | relative_url }}" alt="Emotion illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples that show the boundary
@@ -626,7 +619,6 @@ The pressure is social and emotional, not evidential.
 
 These examples show why emotional fallacies are not defined by dramatic language alone. They are defined by a mismatch between the emotional prompt and the conclusion it is being used to secure.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JkB3hhtLx4M" title="Appeal to Emotion | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer">Appeal to Emotion | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 7.6K &middot; Uploaded: March 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JkB3hhtLx4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JkB3hhtLx4M">Open on YouTube</a></p></div></div></div>
 
 ## What good arguments do instead
@@ -637,9 +629,7 @@ The [repair]({{ 'repair/' | relative_url }}) is to put evidence after feeling. I
 
 In practice, the warning sign is not “this argument made me feel something.” The warning sign is “after I felt something, I stopped asking for reasons.” Emotional appeals become logical fallacies when they close that gap by force, guilt, sympathy or pressure rather than by evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1FqCkyO2Ir4" title="Ethos, Pathos, Logos: The Powers of Persuasion and Rhetoric!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1FqCkyO2Ir4" target="_blank" rel="noopener noreferrer">Ethos, Pathos, Logos: The Powers of Persuasion and Rhetoric!</a></p><p class="youtube-embed-meta">Channel: The ELA Connection &middot; Views: 32.2K &middot; Uploaded: September 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1FqCkyO2Ir4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1FqCkyO2Ir4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1133,4 +1123,4 @@ In practice, the warning sign is not “this argument made me feel something.”
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/</a>  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5789790/</a>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-tone-vs-logic/
 description: Focused pages that expand on Tone.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_tone_vs_logic_601e34
-parent_title: Tone | Logical Fallacies
+parent_title: Tone
 parent_nav_short_title: Tone
 parent_permalink: /tone/
 ---

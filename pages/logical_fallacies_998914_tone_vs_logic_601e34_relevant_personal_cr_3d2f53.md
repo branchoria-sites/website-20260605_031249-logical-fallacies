@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tone/
 nav_short_title: Credibility
 title: When is a personal criticism relevant?
-title_full: When is a personal criticism relevant? | Tone
+title_full: When is a personal criticism relevant?
 display_title_short: Credibility
 display_title: Credibility
 heading_title: When is a personal criticism relevant?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:19:57'
-parent_title: Is Tone the Same as Logic? | Fallacy Lab
+parent_title: Is Tone the Same as Logic?
 parent_permalink: /tone/
 parent_nav_short_title: Tone
 parent_heading_title: Is Tone the Same as Logic?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_per
 
 Not every personal criticism of a witness is an ad hominem fallacy. When a claim depends heavily on testimony—what someone says they saw, heard, remembered, measured, or concluded—the witness's credibility becomes part of the evidence itself. In those circumstances, criticism that targets honesty, bias, competence, conflicts of interest, or reliability may be directly relevant rather than fallacious. The key question is whether the criticism helps assess the trustworthiness of the testimony or merely distracts from the issue with insults and character smears. This distinction is especially important within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) because witness credibility sits at one of the main [boundaries]({{ 'boundaries/' | relative_url }}) between a genuine ad hominem attack and a legitimate challenge to evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1570868308000384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Formalization of the ad hominem argumentation schemeby D Walton · 2010 · Cited by 22 — Thus an ad hominem argument is most e...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-1-dark.svg" | relative_url }}" alt="Credibility illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why credibility matters in testimonial claims
 
@@ -296,7 +295,6 @@ Consider the following contrasts:
 
 **Relevant criticism**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “This witness previously gave three contradictory accounts of the same event.”
@@ -310,7 +308,6 @@ These statements may sound harsh, but they address factors that could reasonably
 
 **Irrelevant character attacks**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “The witness is unpleasant.”
@@ -323,7 +320,6 @@ These statements may sound harsh, but they address factors that could reasonably
 These remarks may encourage prejudice, but they do not provide evidence that the testimony itself is false or unreliable. They therefore fit the classic pattern of an ad hominem attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span>
 
 The distinction mirrors evidence law. Many legal systems limit the use of character evidence because general claims about a person's character are often poor indicators of what happened in a specific incident. Yet evidence related to truthfulness, bias, or motive may still be admitted because it bears directly on credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/impeachment_of_a_witness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[Legal Information Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-title">Legal Information Instituteimpeachment of a witness &#124; Wex</span><span class="citation-popover-snippet">of a witness refers to the process of discrediting or undermining the credibility of a witness during a trial.Read more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oX_XPnFQ1GE" title="Impeachment of a Witness (FRE 607-609, 611, 613) [LEAP Preview — Evidence: 7/17]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oX_XPnFQ1GE" target="_blank" rel="noopener noreferrer">Impeachment of a Witness (FRE 607-609, 611, 613) [LEAP Preview — Evidence: 7/17]</a></p><p class="youtube-embed-meta">Channel: Studicata &middot; Views: 53.1K &middot; Uploaded: January 2020 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oX_XPnFQ1GE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oX_XPnFQ1GE">Open on YouTube</a></p></div></div></div>
 
@@ -345,7 +341,6 @@ A relevant challenge might focus on visibility, memory, intoxication, inconsiste
 
 An irrelevant attack would be to dismiss the testimony because the witness is unpopular in the community or has unrelated personal failings.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-2-dark.svg" | relative_url }}" alt="Credibility illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Public officials
 
@@ -354,7 +349,6 @@ Public officials often make factual claims that depend partly on public trust.
 If a journalist notes that an official previously concealed information, altered records, or misled investigators, the criticism may be relevant because the current claim requires confidence in the official's honesty. If the criticism instead centres on unrelated lifestyle choices or personal dislike, it becomes much closer to a fallacious personal attack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/YAPAHF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Audrey Yap, Ad Hominem Fallacies, Bias, and TestimonyAn ad hominem fallacy is committed when an individual employs an irrelevan...</span></span></span>
 
 The distinction matters because testimony from officials is frequently accepted on the basis of institutional credibility. Evidence that weakens that credibility can therefore be relevant to evaluating the testimony itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sABz9Q8wGUc" title="What is Federal Rules of Evidence Rule 608?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sABz9Q8wGUc" target="_blank" rel="noopener noreferrer">What is Federal Rules of Evidence Rule 608?</a></p><p class="youtube-embed-meta">Channel: Law Lite &middot; Views: 1.3K &middot; Uploaded: March 2023 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sABz9Q8wGUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sABz9Q8wGUc">Open on YouTube</a></p></div></div></div>
 
@@ -367,7 +361,6 @@ An expert's qualifications, methods, independence, and conflicts of interest all
 For example, pointing out that a scientific expert is being paid by a company whose product is under review is not necessarily an ad hominem. The information may reveal a potential source of bias. Likewise, concerns about adversarial allegiance, unconscious bias, or undisclosed interests can be relevant when assessing expert evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13094959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The analysis of competing hypotheses and expert witness...by J Otzipka · 2026 — Cognitive biases, such as adversarial allegiance, can...</span></span></span>
 
 However, attacking an expert's appearance, age, accent, or unrelated political views would not normally provide evidence about the quality of the expert analysis.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/abrZeMSnwpk" title="Credibility of Evidence in Civil Proceedings, Trinity Barrister, Gary Willock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=abrZeMSnwpk" target="_blank" rel="noopener noreferrer">Credibility of Evidence in Civil Proceedings, Trinity Barrister, Gary Willock</a></p><p class="youtube-embed-meta">Channel: Trinity Barristers Chambers &middot; Views: 1.8K &middot; Uploaded: September 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=abrZeMSnwpk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=abrZeMSnwpk">Open on YouTube</a></p></div></div></div>
 
@@ -384,7 +377,6 @@ If so, it may legitimately affect how much weight the testimony deserves. <span 
 3. **Would the criticism still matter if the witness were otherwise liked and respected?**
 
 If the answer is yes because it reveals a concrete credibility issue, the criticism is probably relevant. If the criticism works only by generating dislike, it is more likely an ad hominem fallacy.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-3-dark.svg" | relative_url }}" alt="Credibility illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_relevant_personal_cr_3d2f53-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The central lesson

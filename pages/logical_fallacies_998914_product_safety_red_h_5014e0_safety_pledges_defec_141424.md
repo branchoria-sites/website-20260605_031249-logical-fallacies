@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /safety-claims/
 nav_short_title: Safety Pledges
 title: When 'We Care About Safety' Is Not an Answer
-title_full: When 'We Care About Safety' Is Not an Answer | Safety Claims
+title_full: When 'We Care About Safety' Is Not an Answer
 display_title_short: Safety Pledges
 display_title: Safety Pledges
 heading_title: When 'We Care About Safety' Is Not an Answer
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 20:50:42'
-parent_title: Did the Answer Address Safety? | Fallacy Lab
+parent_title: Did the Answer Address Safety?
 parent_permalink: /safety-claims/
 parent_nav_short_title: Safety Claims
 parent_heading_title: Did the Answer Address Safety?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safet
 
 A company’s statement that “safety is our top priority” is not, by itself, an answer to a product hazard claim. Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and product-safety red herrings, this tactic works by replacing evidence about a specific defect with evidence about corporate values. The statement may be sincere. The problem arises when it is used instead of addressing whether a product failed, who was harmed, what testing found, what corrective action is underway, and what users should do now.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-1-dark.svg" | relative_url }}" alt="Safety Pledges illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Safety values can matter. Strong safety cultures are associated with better reporting, investigation, and prevention practices. But values are not proof that a particular hazard has been identified, understood, or controlled. When reassurance about commitment to safety substitutes for defect evidence, the discussion shifts from the product's performance to the company's character. That shift is the core mechanism of the [red herring]({{ 'red-herring/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://risk-engineering.org/concept/safety-culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: risk-engineering.org">[Risk Engineering]</a><span class="citation-popover" role="note"><span class="citation-popover-source">risk-engineering.org</span><span class="citation-popover-title">Risk Engineering Safety culture: A contentious and confused notion</span><span class="citation-popover-snippet">Risk EngineeringSafety culture: A contentious and confused notionMarch 30, 2020 — The safety culture of an organisation is the product of...</span><span class="citation-popover-meta">Published: March 30, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icsi-eu.org/sites/default/files/2020-07/Icsi_cahier_EN_safety-culture_2017.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icsi-eu.org">[2icsi-eu.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icsi-eu.org</span><span class="citation-popover-snippet">Safety Culture: From Understanding to ActionThe safety culture reflects the importance the organisational culture grants to safety in all...</span></span></span>
 
@@ -289,7 +288,6 @@ First, it can communicate organisational priorities. Safety culture is commonly 
 Second, it can signal intended actions. If a company says safety is its highest priority and then follows that statement with testing data, incident reporting, recalls, design modifications, independent reviews, or customer instructions, the values statement functions as [context]({{ 'context/' | relative_url }}) rather than diversion. Regulators generally focus on those concrete actions. For example, product-safety reporting rules emphasise timely disclosure of hazards and corrective measures rather than declarations of commitment. U.S. Consumer Product Safety Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[2eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">Immediately, that is, within 24 hours, after a subject firm has obtained information which reasonably supports the conclusion that its...</span></span></span>
 
 The distinction is important: a safety pledge is appropriate as an introduction. It becomes problematic when it becomes the answer.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fLRfXxn02Uw" title="Boeing safety culture under scrutiny" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fLRfXxn02Uw" target="_blank" rel="noopener noreferrer">Boeing safety culture under scrutiny</a></p><p class="youtube-embed-meta">Channel: KTLA 5 &middot; Views: 25.1K &middot; Uploaded: April 2024 &middot; Length: 2 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fLRfXxn02Uw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fLRfXxn02Uw">Open on YouTube</a></p></div></div></div>
 
@@ -321,7 +319,6 @@ If there is a meaningful risk, consumers need practical instructions. Should the
 
 The key point is not that the company may be wrong. The key point is that the audience has not been given evidence relevant to the hazard claim.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-2-dark.svg" | relative_url }}" alt="Safety Pledges illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the tactic can sound persuasive
 
@@ -341,13 +338,11 @@ However, independent investigations did not stop at those statements. Regulators
 
 The lesson is not that safety commitments are meaningless. Rather, investigators treated those commitments as claims requiring verification through evidence. The question was not whether the company said safety mattered. The question was whether systems, decisions, and outcomes demonstrated that commitment in practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/aerospace-defense/expert-panel-finds-disconnect-between-boeing-senior-management-employees-2024-02-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Panel finds safety &#x27;disconnect&#x27; between Boeing management, employees</span><span class="citation-popover-snippet">Commissioned by the U.S. Congress after fatal crashes of Boeing 737 MAX planes in 2018 and 2019, the report criticized Boeing&#x27;s lack of a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/legal/litigation/us-safety-board-scrutinize-boeing-role-737-max-9-mid-air-emergency-2025-06-24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">National Transportation Safety Board (NTSB) has sharply criticized Boeing for failing to provide adequate training, guidance, and oversig...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/djj4C1RMkBE" title="Crisis Management and Resolving Contentious Conversations | Honest HR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=djj4C1RMkBE" target="_blank" rel="noopener noreferrer">Crisis Management and Resolving Contentious Conversations | Honest HR</a></p><p class="youtube-embed-meta">Channel: SHRM &middot; Views: 3.4K &middot; Uploaded: May 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=djj4C1RMkBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=djj4C1RMkBE">Open on YouTube</a></p></div></div></div>
 
 ## How readers can test whether the hazard was answered
 
 A simple set of questions helps distinguish a genuine response from a reassuring diversion.
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -365,7 +360,6 @@ If most of these questions remain unanswered, the response may be functioning pr
 
 Regulatory approaches reinforce this distinction. Product-safety frameworks generally emphasise reporting hazards, investigating evidence, notifying authorities, and implementing corrective actions. Requirements to report potentially dangerous defects focus on information and action, not declarations of corporate virtue. Covington & Burling 3U.S. Consumer Product Safety Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecfr.gov">[3eCFR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecfr.gov</span><span class="citation-popover-title">part 1115</span><span class="citation-popover-snippet">Immediately, that is, within 24 hours, after a subject firm has obtained information which reasonably supports the conclusion that its...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-3-dark.svg" | relative_url }}" alt="Safety Pledges illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_safety_pledges_defec_141424-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical takeaway
 
@@ -375,9 +369,7 @@ When evaluating a product-safety controversy, readers should treat safety pledge
 
 Those questions test product safety. Statements about values test only what a company says it believes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EbdpkAHcA48" title="Red Herring Fallacy Explained: Why Conversations Go Off Track (And How to Stay Focused)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EbdpkAHcA48" target="_blank" rel="noopener noreferrer">Red Herring Fallacy Explained: Why Conversations Go Off Track (And How to Stay Focused)</a></p><p class="youtube-embed-meta">Channel: Melissa Barlock &middot; Views: 73 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EbdpkAHcA48" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EbdpkAHcA48">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

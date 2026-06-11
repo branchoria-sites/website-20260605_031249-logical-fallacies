@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sports-cause/
 nav_short_title: Lucky Hits
 title: Why Logo Superstitions Survive Bad Evidence
-title_full: Why Logo Superstitions Survive Bad Evidence | Sports Cause
+title_full: Why Logo Superstitions Survive Bad Evidence
 display_title_short: Lucky Hits
 display_title: Lucky Hits
 heading_title: Why Logo Superstitions Survive Bad Evidence
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:39:57'
-parent_title: Did the Logo Cause the Losing Streak? | Fallacy Lab
+parent_title: Did the Logo Cause the Losing Streak?
 parent_permalink: /sports-cause/
 parent_nav_short_title: Sports Cause
 parent_heading_title: Did the Logo Cause the Losing Streak?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermi
 
 Sports logo superstitions survive for the same reason many other superstitions survive: they are rewarded just often enough to feel convincing. A fan avoids stepping on a dressing-room logo, wears a shirt with an old crest, or insists that a redesigned badge brought bad luck. Most of the time nothing special happens. But when a victory follows the ritual, that coincidence becomes memorable. The occasional success acts as a powerful form of intermittent reinforcement, encouraging the behaviour to continue even when there is no reliable evidence that it affects results. Research on sport superstition repeatedly finds that athletes and supporters maintain rituals because occasional positive outcomes are psychologically compelling, especially in uncertain competitive environments. Taylor & Francis Online PubMed Within the broader topic of team logo causation <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span>, intermittent reinforcement helps explain why beliefs about “lucky” or “unlucky” logos can persist despite long stretches of contradictory evidence.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-1-dark.svg" | relative_url }}" alt="Lucky Hits illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Lucky Coincidences Become Rules
 
@@ -284,9 +283,7 @@ Intermittent reinforcement occurs when a behaviour is followed by a desired outc
 
 Applied to sports logo superstitions, the process is straightforward:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OXvT9ZNokRc" title="Stuart Vyse - The Psychology of Superstition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OXvT9ZNokRc" target="_blank" rel="noopener noreferrer">Stuart Vyse - The Psychology of Superstition</a></p><p class="youtube-embed-meta">Channel: The Philadelphia Association for Critical Thinking &middot; Views: 1.1K &middot; Uploaded: November 2020 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OXvT9ZNokRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OXvT9ZNokRc">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -299,7 +296,6 @@ Applied to sports logo superstitions, the process is straightforward:
 </div>
 
 The crucial point is that the ritual does not need to work consistently. A supporter who wears a retro-logo cap for ten matches may remember the three dramatic victories that followed while treating the seven ordinary results as less important. The rare “hits” carry more emotional weight than the routine misses. Sport psychology research has repeatedly identified accidental associations between behaviour and success as a major source of superstitious practices among athletes and fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> PubMed Because sport outcomes are uncertain by nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span>, there is always a supply of chance successes available to reinforce the belief.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6XWBXQAa-IU" title="The Superstitious Pigeon: B. F. Skinner 1948 Keon West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6XWBXQAa-IU" target="_blank" rel="noopener noreferrer">The Superstitious Pigeon: B. F. Skinner 1948 Keon West</a></p><p class="youtube-embed-meta">Channel: The Faculties &middot; Views: 10.2K &middot; Uploaded: January 2015 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6XWBXQAa-IU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6XWBXQAa-IU">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +318,6 @@ Studies of sport superstition note that rituals often persist despite inconsiste
 
 In logo-related beliefs, this means a supporter may vividly recall a cup run that began after restoring an old badge to a profile picture, while forgetting dozens of ordinary matches in which the same action produced no apparent effect.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-2-dark.svg" | relative_url }}" alt="Lucky Hits illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Slumps Intensify Rituals
 
@@ -331,7 +326,6 @@ Intermittent reinforcement becomes even more powerful during losing streaks.
 A common assumption is that repeated failure should weaken superstition. In practice, the opposite often occurs. When results deteriorate, uncertainty and anxiety increase. Athletes and supporters then search for actions that restore a sense of control. Research on sports superstition consistently finds that rituals can serve a psychological function by reducing anxiety and creating feelings of confidence, predictability or control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://revistas.um.es/sportk/article/view/686101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: revistas.um.es">[Revistas UM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">revistas.um.es</span><span class="citation-popover-snippet">Mental strategies and well-being: the dynamics of superstition...19 May 2026 — This study aimed to examine the effects of psy...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/41432157/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Superstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jpbs.thebrpi.org/journals/jpbs/Vol_9_No_2_December_2021/3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpbs.thebrpi.org">[3jpbs.thebrpi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpbs.thebrpi.org</span><span class="citation-popover-snippet">Superstitions and accompanying rituals are common among athletes and appear to provide an experience of control over performance.Read more...</span></span></span>
 
 For logo superstitions, a slump may trigger behavioural escalation:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -346,7 +340,6 @@ Instead of abandoning the superstition, believers often modify it. If touching t
 
 This constant revision makes the belief difficult to disprove. Failures do not necessarily challenge the superstition; they often generate new versions of it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a4wBLZhnLcI" title="Sports Psychology Case Study - Superstitions And Rituals of Athletes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a4wBLZhnLcI" target="_blank" rel="noopener noreferrer">Sports Psychology Case Study - Superstitions And Rituals of Athletes</a></p><p class="youtube-embed-meta">Channel: Peak Performance Sports, LLC &middot; Views: 8.3K &middot; Uploaded: March 2016 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a4wBLZhnLcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a4wBLZhnLcI">Open on YouTube</a></p></div></div></div>
 
 ## Why the Mechanism Feels So Convincing
@@ -356,7 +349,6 @@ The strength of intermittent reinforcement lies in its emotional structure. Spor
 Psychological research suggests that superstitions thrive in environments characterised by uncertainty, high stakes and limited control—all conditions that define competitive sport. Under those circumstances, occasional coincidences can appear meaningful even when they are statistically unremarkable. Taylor & Francis Online PubMed Logo superstitions therefore do not require continuous evidence. They need only enough memorable successes to keep the belief alive. Every lu <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">PubMedSuperstitious Behaviors in Sports and Exerciseby N Pirwani · Cited by 1 — Superstitious behavior is highly prevalent in sports, pro...</span></span></span> cky coincidence acts as a fresh reminder that the ritual “might work”, while forgotten failures fade into the background.
 
 For that reason, intermittent reinforcement is one of the most effective engines behind sports logo causation beliefs. It transforms scattered coincidences into apparent rules, preserves those rules through selective memory, and often strengthens them precisely when poor results should have cast the most doubt on them.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-3-dark.svg" | relative_url }}" alt="Lucky Hits illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_intermittent_logo_su_46812b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

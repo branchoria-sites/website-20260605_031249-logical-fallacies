@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /informal-logic/
 nav_short_title: Red Herrings
 title: Is That Point Relevant or a Distraction?
-title_full: Is That Point Relevant or a Distraction? | Informal Logic
+title_full: Is That Point Relevant or a Distraction?
 display_title_short: Red Herrings
 display_title: Red Herrings
 heading_title: Is That Point Relevant or a Distraction?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:23:56'
-parent_title: Why Context Changes the Argument | Fallacy Lab
+parent_title: Why Context Changes the Argument
 parent_permalink: /informal-logic/
 parent_nav_short_title: Informal Logic
 parent_heading_title: Why Context Changes the Argument
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_her
 
 A [red herring]({{ 'red-herring/' | relative_url }}) is an informal fallacy in which a speaker responds to an issue by introducing a different issue that sounds important but does not actually answer the original question. The diversion may be dramatic, emotional, morally charged, or only loosely related to the topic under discussion. What makes it fallacious is not that the new topic is uninteresting; it is that the original claim remains unaddressed. In everyday disagreements, workplace discussions, media interviews, and political debates, red herrings can create the impression that a response has been given when the central issue has merely been displaced. As a result, conversations often become longer and more heated while making little progress on the question that started them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Internet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Internet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">InternetThe Internet (or internet) is the global system of interconnected computer networks that uses the Internet protocol suite (TCP...</span></span></span> Encyclopedia of Philosophy
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-1-dark.svg" | relative_url }}" alt="Red Herrings illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader family of informal fallacies, red herrings are usually treated as fallacies of [relevance]({{ 'relevance/' | relative_url }}). The key problem is not whether the side issue is true or false, but whether it is relevant to the conclusion or criticism under examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">What Is a Red Herring Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesApr 5, 2023 — More specifically, it is a fallacy of relevance: it concerns arguments or statements that seem relev...</span></span></span>
 
@@ -288,7 +287,6 @@ The second statement may be true and may deserve discussion. Yet it does not ans
 Red herrings work because human attention is limited. Once a vivid alternative issue appears, people often begin debating the new topic instead of noticing that the original question remains unresolved. Researchers and theorists of [informal logic]({{ 'informal-logic/' | relative_url }}) have long treated this kind of diversion as a relevance problem: the audience's focus is redirected away from the point that required evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 422 — One division of inf...</span></span></span>
 
 Several features make red herrings especially persuasive:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +312,6 @@ Job losses might be a legitimate policy concern. However, they do not establish 
 
 This explains why red herrings are not always blatant attempts to deceive. People often introduce them unintentionally. A speaker may genuinely believe that the side issue matters more than the original question. The reasoning is still defective if the response leaves the initial claim unanswered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4f0saWocQDc" title="Red Herring Fallacy : Anuj Shah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4f0saWocQDc" target="_blank" rel="noopener noreferrer">Red Herring Fallacy : Anuj Shah</a></p><p class="youtube-embed-meta">Channel: Critical Thinking &amp; Argumentation &middot; Views: 290 &middot; Uploaded: October 2017 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4f0saWocQDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4f0saWocQDc">Open on YouTube</a></p></div></div></div>
 
 ## When a Side Issue Is Actually Relevant
@@ -338,7 +335,6 @@ The difference depends on whether the new information helps evaluate the claim u
 
 **Relevant contribution**
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Question: “Did the policy reduce crime?”
@@ -348,7 +344,7 @@ The difference depends on whether the new information helps evaluate the claim u
 
 The evidence addresses the claim.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[**Red herring**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span>
+**Red herring** <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span>
 
 * Question: “Did the policy reduce crime?”
 * Response: “The policymakers worked very hard and care deeply about the community.”
@@ -356,7 +352,6 @@ The evidence addresses the claim.
 The response shifts attention to intentions rather than results.
 
 In the second case, the original question remains unanswered.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-2-dark.svg" | relative_url }}" alt="Red Herrings illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Tests for Spotting Topic Drift
@@ -377,7 +372,6 @@ Would that truth make the original conclusion more likely?
 
 If not, the point may be irrelevant. Informal logic often frames relevance in terms of whether premises genuinely support the conclusion being defended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/redherrf.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[The Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">The Fallacy FilesLogical Fallacy: Red HerringRed Herring is the most general fallacy of irrelevance. Any argument in which the premisses...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GSKmLiTJELc" title="Introduction to Argument - Fallacies (Red Herring &amp; Ad Hominem)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GSKmLiTJELc" target="_blank" rel="noopener noreferrer">Introduction to Argument - Fallacies (Red Herring &amp; Ad Hominem)</a></p><p class="youtube-embed-meta">Channel: mscdbond &middot; Views: 143 &middot; Uploaded: November 2012 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GSKmLiTJELc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GSKmLiTJELc">Open on YouTube</a></p></div></div></div>
 
 ### Ask: Has the Burden of Discussion Changed?
@@ -385,7 +379,6 @@ If not, the point may be irrelevant. Informal logic often frames relevance in te
 Red herrings frequently replace one burden with another.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -402,7 +395,6 @@ When the required defence changes, topic drift may be occurring.
 
 A practical response is not to debate the distraction immediately. Instead, bring the discussion back to the unresolved issue:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “That may be important, but how does it answer the original question?”
@@ -412,7 +404,6 @@ A practical response is not to debate the distraction immediately. Instead, brin
 </div>
 
 These questions force the relevance relationship into the open.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-3-dark.svg" | relative_url }}" alt="Red Herrings illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_red_herring_distract_ebed98-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Places Where Red Herrings Appear
@@ -429,7 +420,6 @@ The second complaint may be legitimate, but it does not address the first.
 In public debate, red herrings frequently emerge when evidence is weak. Discussion shifts from facts to motives, symbolism, identity, or unrelated controversies. Because these themes attract attention, they can dominate media coverage even when they leave the central issue unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span>
 
 In organisations, they may appear during performance reviews, project assessments, or policy discussions when participants redirect attention from measurable outcomes to peripheral matters.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XnBKB3lxy4s" title="The &quot;Red Herring&quot; Fallacy Explained in 2 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XnBKB3lxy4s" target="_blank" rel="noopener noreferrer">The &quot;Red Herring&quot; Fallacy Explained in 2 Minutes</a></p><p class="youtube-embed-meta">Channel: Turtleneck Philosophy &middot; Views: 28.9K &middot; Uploaded: March 2022 &middot; Length: 2 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XnBKB3lxy4s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XnBKB3lxy4s">Open on YouTube</a></p></div></div></div>
 

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-political/
 description: Focused pages that expand on Politics.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_political_speech_fal_4164bc
-parent_title: Politics | Logical Fallacies
+parent_title: Politics
 parent_nav_short_title: Politics
 parent_permalink: /politics/
 ---

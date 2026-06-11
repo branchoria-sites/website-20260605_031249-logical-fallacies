@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Sports Cause
 title: Did the Logo Cause the Losing Streak?
-title_full: Did the Logo Cause the Losing Streak? | Fallacy Lab
+title_full: Did the Logo Cause the Losing Streak?
 display_title_short: Sports Cause
 display_title: Sports Cause
 heading_title: Did the Logo Cause the Losing Streak?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada-overvie
 
 “Team Logo Causation” is a useful name for a familiar sports superstition: a team changes, mistreats, hides, modernises, steps on, or stops wearing a logo, and fans then treat the next losing streak as proof that the logo caused it. The reasoning feels persuasive because the timing is easy to see. The new badge appeared; the defeats followed. But within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is usually a [post hoc]({{ 'post-hoc/' | relative_url }}) error: assuming that because one event came before another, it caused the later event. Chronology can raise a question, but it is not enough to prove cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Post Hoc Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Post Hoc Fallacy &#124; Definition &amp; Examples</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-overview.webp" | relative_url }}" alt="Overview image for Sports Cause" loading="eager" decoding="sync" fetchpriority="high">
 Sports make this fallacy especially tempting because outcomes are emotional, public, uncertain and full of variables. A logo can matter greatly as a symbol of identity, [tradition]({{ 'tradition/' | relative_url }}) and belonging, yet that symbolic importance is not the same as evidence that it changed player performance, tactics, injuries, fixture difficulty, confidence, recruitment, refereeing decisions or random variation.
 
@@ -515,12 +514,10 @@ That emotional force can make a logo a convenient causal story. If a club change
 
 The fallacy is not that fans care about logos. They often have good reasons to care. A poor rebrand can damage trust, make merchandise less appealing, or signal that owners do not understand club culture. The fallacy appears when symbolic disappointment becomes a performance claim: “We are losing because of the logo.”
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-Illustration-1-dark.svg" | relative_url }}" alt="Sports Cause illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sequence and superstition
 
 The basic pattern is simple:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -537,7 +534,6 @@ Sports superstitions persist because they are often built from partial reinforce
 
 That is why a logo superstition can survive both winning and losing. If the team wins after restoring an old crest, the logo “worked”. If the team keeps losing, the argument may shift: the curse is deeper, the change came too late, the wrong alternate shirt was used, someone disrespected the badge, or the club has not properly returned to its roots. The claim becomes difficult to falsify because every result is made to fit the story.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4DXd8qgDCY4" title="10 Sports Curses That Will Make You Believe in Fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4DXd8qgDCY4" target="_blank" rel="noopener noreferrer">10 Sports Curses That Will Make You Believe in Fate</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 35.5K &middot; Uploaded: November 2018 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4DXd8qgDCY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4DXd8qgDCY4">Open on YouTube</a></p></div></div></div>
 
 ## The dressing-room logo shows the difference between respect and causation
@@ -548,7 +544,6 @@ A widely circulated example came when Justin Bieber accidentally stood on the Ch
 
 That distinction matters. A team can rationally enforce a symbolic norm without claiming the norm causes goals. “Do not step on the logo” may build shared identity, discipline and respect. “We lost because someone stepped on the logo” is a different kind of statement. The first is a cultural rule; the second is a causal claim that needs evidence.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-Illustration-2-dark.svg" | relative_url }}" alt="Sports Cause illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Performance has too many moving parts for one symbol to explain a streak
 
@@ -557,7 +552,6 @@ A losing streak is rarely a single-cause event. In team sport, performance is a 
 Chance also matters more than many fans like to admit. Work on team sports often separates skill from randomness because short windows of matches can exaggerate luck. In cricket, for instance, a large study of 44,224 matches estimated that winning the toss increased the chance of winning by a small but significant margin, with the effect depending on conditions and team match-up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1605.08753" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In football and basketball, analysts often have to account for [regression]({{ 'regression/' | relative_url }}) to the mean: unusually good or bad runs are often followed by more ordinary results, not because a curse has lifted, but because extreme runs are partly noise.
 
 This is why the “event time window” is so important. A five-match losing streak after a crest change may feel damning, but five matches may be too few to separate a logo story from schedule strength, injuries, fixture congestion and ordinary variance. The smaller and more emotionally selected the window, the easier it is to mistake a striking sequence for proof.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pOj5gTodXeU" title="Why Sports Logos Are Boring Now" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pOj5gTodXeU" target="_blank" rel="noopener noreferrer">Why Sports Logos Are Boring Now</a></p><p class="youtube-embed-meta">Channel: Joon Lee &middot; Views: 294.6K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pOj5gTodXeU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pOj5gTodXeU">Open on YouTube</a></p></div></div></div>
 
@@ -568,7 +562,6 @@ The strongest version of the logo argument is not mystical. It is indirect and s
 But that stronger version is also harder to prove. It needs a chain of evidence. Did supporters actually disengage? Did attendance, chants, merchandise sentiment or survey responses change? Did players or staff report morale effects? Did the slump begin before the logo issue? Were similar teams without logo changes also losing? Did performance indicators such as shots, expected goals, turnovers, penalties or defensive errors change after the event?
 
 This is where the fallacy test becomes useful. A logo can be relevant to brand attitude and fan behaviour, as rebranding research suggests. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> It does not follow automatically that the logo caused poor sporting results. Treating those as the same claim turns a plausible cultural criticism into a weak causal argument.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-Illustration-3-dark.svg" | relative_url }}" alt="Sports Cause illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Better causal checks
@@ -584,9 +577,7 @@ A good check does not ask fans to stop caring. It asks them to separate symbolis
 
 The cleanest conclusion is modest: logo events can affect fan identity, mood and commercial behaviour, and they can become powerful symbols during a bad run. Sports superstitions also have real psychological functions, especially under uncertainty and pressure. Research on top sportspersons found ritual commitment was greater when uncertainty and importance were high, with psychological tension helping to explain that commitment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.vu.nl/ws/portalfiles/portal/2177196/Schippers%20Journal%20of%20Applied%20Social%20Psychology%2036%202006%20u.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.vu.nl">[Vrije Universiteit Amsterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.vu.nl</span><span class="citation-popover-snippet">Vrije Universiteit Amsterdam</span></span></span> But the existence of a ritual, or the emotional meaning of a logo, is not proof that a badge caused a losing streak. In logical fallacy terms, the mistake is letting a memorable sequence stand in for causal evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mQfacqVvOEM" title="Correlation Does Not Imply Causation: A One Minute Perspective on Correlation vs. Causation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mQfacqVvOEM" target="_blank" rel="noopener noreferrer">Correlation Does Not Imply Causation: A One Minute Perspective on Correlation vs. Causation</a></p><p class="youtube-embed-meta">Channel: One Minute Economics &middot; Views: 90.0K &middot; Uploaded: November 2019 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mQfacqVvOEM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mQfacqVvOEM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1123,4 +1114,4 @@ The cleanest conclusion is modest: logo events can affect fan identity, mood and
 
 26. <a id="endnote-26"></a>
    Source: scitechnol.com  
-   Link: <a href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow">https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281</a>  
+   Link: <a href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow">https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281</a>

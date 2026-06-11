@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /argument-map/
 nav_short_title: Weak Link Checks
 title: Which Part of the Argument Actually Fails?
-title_full: Which Part of the Argument Actually Fails? | Argument Map
+title_full: Which Part of the Argument Actually Fails?
 display_title_short: Weak Link Checks
 display_title: Weak Link Checks
 heading_title: Which Part of the Argument Actually Fails?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:11:35'
-parent_title: Can You Map the Reasoning? | Fallacy Lab
+parent_title: Can You Map the Reasoning?
 parent_permalink: /argument-map/
 parent_nav_short_title: Argument Map
 parent_heading_title: Can You Map the Reasoning?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link
 
 Weak-link checks are the diagnostic stage of argument mapping. Once an argument has been broken into premises, conclusions, assumptions, objections and inference links, the next question is simple: which specific part fails? Rather than treating an argument as entirely sound or entirely flawed, a weak-link test examines each component separately. The method helps identify whether a problem lies in a doubtful premise, an unsupported inference, a hidden assumption, or an ineffective objection. This is one of the main advantages of argument mapping: it turns a vague sense that “something is wrong” into a precise diagnosis. Argument-mapping frameworks are designed to expose claims, support relationships, objections and implicit [warrants]({{ 'warrants/' | relative_url }}) so that each element can be evaluated independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reasoninglab.com/argument-mapping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reasoninglab.com">[Reasoninglab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reasoninglab.com</span><span class="citation-popover-snippet">Argument MappingWhat is argument mapping? Argument maps are box-and-line diagrams that lay out visually reasoning and evidenc...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1-dark.svg" | relative_url }}" alt="Weak Link Checks illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Which Part of the Argument Actually Fails?
 
@@ -292,7 +291,6 @@ The first weak-link test asks whether the stated reasons deserve acceptance.
 
 A premise can fail in several ways:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **False premise**: the claim is factually incorrect.
@@ -310,7 +308,6 @@ Mapping separates the premise from the conclusion. The premise may be true, but 
 
 Argument-mapping practice also emphasises [linked premises]({{ 'linked-premises/' | relative_url }}). Some reasons work only together. If one member of a linked set fails, the entire support structure may collapse. For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * All licensed surgeons have completed accredited medical training.
@@ -320,7 +317,6 @@ Argument-mapping practice also emphasises [linked premises]({{ 'linked-premises/
 </div>
 
 Neither premise independently establishes the conclusion. Weakening either premise damages the whole inference. Mapping makes these dependencies visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W91qk_3NiVE" title="Arguments and Claims Mini Lesson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W91qk_3NiVE" target="_blank" rel="noopener noreferrer">Arguments and Claims Mini Lesson</a></p><p class="youtube-embed-meta">Channel: Teaching Intentionally &middot; Views: 63.4K &middot; Uploaded: November 2021 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W91qk_3NiVE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W91qk_3NiVE">Open on YouTube</a></p></div></div></div>
 
@@ -362,7 +358,6 @@ Many familiar informal fallacies emerge at this stage:
 
 The advantage of weak-link testing is that the analyst need not begin with a fallacy label. The immediate question is simply whether the support relationship is strong enough.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-2-dark.svg" | relative_url }}" alt="Weak Link Checks illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Counterfactual Testing
 
@@ -380,7 +375,6 @@ For example:
 * Conclusion: The policy is effective.
 
 Even granting the premise completely, the conclusion does not follow. The weak link is therefore inferential.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kGgLlip_lvc" title="Argument Mapping: Understanding and Making Arguments w/ Nate Otey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer">Argument Mapping: Understanding and Making Arguments w/ Nate Otey</a></p><p class="youtube-embed-meta">Channel: The Stoa &middot; Views: 3.5K &middot; Uploaded: April 2022 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kGgLlip_lvc">Open on YouTube</a></p></div></div></div>
 
@@ -402,7 +396,6 @@ Good objections target the actual weak link.
 
 Poor objections often:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Attack a side issue.
@@ -414,12 +407,10 @@ Poor objections often:
 
 Because the map displays support relations explicitly, analysts can ask whether the objection connects to the element it is supposed to challenge.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-3-dark.svg" | relative_url }}" alt="Weak Link Checks illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_weak_link_checks_93e61d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Testing Qualifiers
 
 Many arguments contain implicit or explicit qualifiers:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -445,7 +436,6 @@ Changing the conclusion to:
 creates a much stronger claim that may no longer be justified.
 
 One useful diagnostic question is whether adding a modest qualifier repairs the argument. If it does, the problem may be excessive certainty rather than fundamentally defective reasoning.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cgbpsONQlYY" title="Critical Thinking with Argument Maps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cgbpsONQlYY" target="_blank" rel="noopener noreferrer">Critical Thinking with Argument Maps</a></p><p class="youtube-embed-meta">Channel: Argumentful &middot; Views: 8.5K &middot; Uploaded: July 2020 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cgbpsONQlYY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cgbpsONQlYY">Open on YouTube</a></p></div></div></div>
 

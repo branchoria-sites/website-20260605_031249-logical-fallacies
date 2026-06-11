@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /bandwagon/
 nav_short_title: Asch Lines
 title: What the Asch Experiments Still Show
-title_full: What the Asch Experiments Still Show | Bandwagon
+title_full: What the Asch Experiments Still Show
 display_title_short: Asch Lines
 display_title: Asch Lines
 heading_title: What the Asch Experiments Still Show
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:32:16'
-parent_title: Are You Being Pressured to Join? | Fallacy Lab
+parent_title: Are You Being Pressured to Join?
 parent_permalink: /bandwagon/
 parent_nav_short_title: Bandwagon
 parent_heading_title: Are You Being Pressured to Join?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_li
 
 The Asch line experiments remain one of the clearest demonstrations of visible conformity pressure. Conducted by psychologist Solomon Asch in the 1950s, the studies showed that people can publicly agree with an obviously incorrect group judgement even when the evidence is directly in front of them. The experiments matter for understanding [bandwagon pressure]({{ 'bandwagon/' | relative_url }}) because they isolate a simple question: what happens when your own eyes tell you one thing and a unanimous group tells you another? The answer was not that people always surrendered to the majority, but that a visible, united group could make independent judgement noticeably harder. That finding helps explain why popularity and consensus can sometimes feel persuasive even when they do not provide genuine evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdodds.w3.uvm.edu">[Of (im)possible interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdodds.w3.uvm.edu</span><span class="citation-popover-snippet">Asch&#x27;s experimental procedures were modified slightly to examine...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-1-dark.svg" | relative_url }}" alt="Asch Lines illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Asch Experiments Still Show
 
@@ -282,7 +281,6 @@ Because the correct answer was usually obvious, the experiment was not testing v
 
 This result is especially relevant to [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) because the group offered no additional evidence. The majority was not more informed, more expert, or better positioned to judge the lines. Yet agreement itself became psychologically influential.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TYIh4MkcfJA" title="Asch Conformity Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TYIh4MkcfJA" target="_blank" rel="noopener noreferrer">Asch Conformity Experiment</a></p><p class="youtube-embed-meta">Channel: eqivideos &middot; Views: 3.0M &middot; Uploaded: December 2007 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TYIh4MkcfJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TYIh4MkcfJA">Open on YouTube</a></p></div></div></div>
 
 ## Why Unanimity Mattered More Than Numbers
@@ -293,14 +291,12 @@ The distinction is important. In many cases, conformity did not reflect genuine 
 
 For understanding the bandwagon fallacy, this is a crucial lesson. The feeling that "everyone agrees" can influence behaviour independently of whether the group's position is actually supported by facts.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-2-dark.svg" | relative_url }}" alt="Asch Lines illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a Single Ally Changed
 
 Perhaps the most striking result emerged when unanimity was broken. Asch introduced conditions in which one other person dissented from the majority. The ally did not always have to give the correct answer; merely disagreeing with the unanimous bloc often reduced conformity dramatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdodds.w3.uvm.edu">[Of (im)possible interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdodds.w3.uvm.edu</span><span class="citation-popover-snippet">Asch&#x27;s experimental procedures were modified slightly to examine...Read more...</span></span></span>
 
 In some versions of the experiment, conformity dropped from roughly one-third of responses to very low levels once a supportive partner was present. Research summaries commonly report reductions of around three-quarters or more compared with the unanimous condition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/a-level-social.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">Simply Psychology Social Influence Revision Notes</span><span class="citation-popover-snippet">Simply PsychologySocial Influence Revision NotesMay 13, 2025 — Asch (1951) found that even the presence of just one confederate that goes...</span><span class="citation-popover-meta">Published: May 13, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experiments</span></span></span> Why was the effect so powerful?
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -313,7 +309,6 @@ In some versions of the experiment, conformity dropped from roughly one-third of
 
 Asch himself concluded that unanimity carried exceptional force. Once unanimity disappeared, much of the pressure disappeared with it. The finding suggests that visible conformity pressure depends less on overwhelming numbers than on the perception that there is no legitimate alternative viewpoint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdodds.w3.uvm.edu/files/papers/others/1955/asch1955a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdodds.w3.uvm.edu">[Of (im)possible interest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdodds.w3.uvm.edu</span><span class="citation-popover-snippet">Asch&#x27;s experimental procedures were modified slightly to examine...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p3MPAgnbMk8" title="Asch conformity studies (Asch line studies) | Behavior | MCAT | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p3MPAgnbMk8" target="_blank" rel="noopener noreferrer">Asch conformity studies (Asch line studies) | Behavior | MCAT | Khan Academy</a></p><p class="youtube-embed-meta">Channel: khanacademymedicine &middot; Views: 173.9K &middot; Uploaded: April 2015 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p3MPAgnbMk8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p3MPAgnbMk8">Open on YouTube</a></p></div></div></div>
 
 ## A More Nuanced Finding Than Popular Memory Suggests
@@ -324,7 +319,6 @@ At the same time, the studies demonstrated that independence is not effortless. 
 
 Modern replications have continued to find conformity effects of similar magnitude, suggesting that the underlying phenomenon is not merely a historical curiosity of the 1950s. A 2023 replication reported conformity rates close to those observed in the original line-judgement studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby A Franzen · 2023 · Cited by 58 — We find an error rate of 33% for the standard length-of-line experiment which replicates the...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-3-dark.svg" | relative_url }}" alt="Asch Lines illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_asch_line_conformity_341326-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Experiments Matter for Bandwagon Reasoning
 
@@ -332,9 +326,7 @@ The Asch experiments provide a concrete model of how bandwagon pressure operates
 
 For discussions of logical fallacies, this matters because popularity can feel like evidence when it is really a social signal. Asch's line studies reveal the mechanism: once a person perceives that everyone else agrees, the challenge is no longer only intellectual. It becomes social. The enduring lesson is that disagreement from even a single visible voice can help people evaluate claims on their merits rather than on the apparent size of the crowd. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experiments</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/f94c83f6-8d30-49c2-8280-b71af8095b4e" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Despite being known as a conformity study, Asch&#x27;s experiment revealed that disagreement—regardless of whether it&#x27;s correct or not—empower...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jGOv0fPoRY4" title="Would You Defy Reality | Solomon Asch’s Conformity Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jGOv0fPoRY4" target="_blank" rel="noopener noreferrer">Would You Defy Reality | Solomon Asch’s Conformity Experiment</a></p><p class="youtube-embed-meta">Channel: MR. BRAIN &middot; Views: 13.0K &middot; Uploaded: August 2023 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jGOv0fPoRY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jGOv0fPoRY4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

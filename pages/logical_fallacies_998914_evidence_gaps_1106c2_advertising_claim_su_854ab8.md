@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /evidence-gaps/
 nav_short_title: Ad Claims
 title: What Should Ads Have to Prove?
-title_full: What Should Ads Have to Prove? | Evidence Gaps
+title_full: What Should Ads Have to Prove?
 display_title_short: Ad Claims
 display_title: Ad Claims
 heading_title: What Should Ads Have to Prove?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:12:41'
-parent_title: What Evidence Is the Argument Missing? | Fallacy Lab
+parent_title: What Evidence Is the Argument Missing?
 parent_permalink: /evidence-gaps/
 parent_nav_short_title: Evidence Gaps
 parent_heading_title: What Evidence Is the Argument Missing?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_
 
 Advertising is a practical test of a core problem in [logical fallacies]({{ 'logical-fallacies/' | relative_url }}): how much evidence is needed before a claim is presented as true. Consumers often encounter statements about performance, safety, popularity, savings, health benefits, environmental impact, or customer satisfaction. Some claims are stated directly, while others are implied through images, [testimonials]({{ 'testimonials/' | relative_url }}), statistics, or comparisons. The central governance question is whether advertisers should possess evidence before publication that is strong enough to support not only the literal words used but also the conclusions a reasonable consumer is likely to draw.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-1-dark.svg" | relative_url }}" alt="Ad Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern [advertising]({{ 'advertising/' | relative_url }}) regulation generally answers yes. Regulators in both the United States and the United Kingdom require objective claims to be supported by evidence before they are disseminated. The requirement exists because [evidence gaps]({{ 'evidence-gaps/' | relative_url }}) can transform persuasive marketing into a form of misleading reasoning, encouraging consumers to infer certainty, typicality, or effectiveness that has not actually been demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/topic/Claims_endorsements_and_testimonials.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Claims, endorsements and testimonialsAny claims made in endorsements or testimonials, which are likely to be interpreted as fact, must no...</span></span></span>
 
@@ -292,7 +291,6 @@ The United Kingdom's advertising framework follows a similar logic. The CAP Code
 
 From a logical-fallacy perspective, this requirement attempts to stop unsupported leaps before they reach consumers. Instead of asking regulators or critics to prove a claim false after publication, the burden initially rests with the advertiser to show why the claim should be believed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b3DmXBuopuY" title="Truth-in-Advertising 101: Who Makes the Rules?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b3DmXBuopuY" target="_blank" rel="noopener noreferrer">Truth-in-Advertising 101: Who Makes the Rules?</a></p><p class="youtube-embed-meta">Channel: BBB National Programs &middot; Views: 3.3K &middot; Uploaded: April 2021 &middot; Length: 2 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b3DmXBuopuY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b3DmXBuopuY">Open on YouTube</a></p></div></div></div>
 
 ## How the "Reasonable Basis" Standard Works
@@ -300,7 +298,6 @@ From a logical-fallacy perspective, this requirement attempts to stop unsupporte
 A common misunderstanding is that every advertising claim requires the same type of proof. In practice, substantiation standards are usually tied to the strength and nature of the claim.
 
 Several factors influence what counts as a reasonable basis:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +313,6 @@ For example, a statement that “two out of three doctors recommend” a product
 
 Health and [safety claims]({{ 'safety-claims/' | relative_url }}) generally attract especially demanding scrutiny because consumers may rely on them when making decisions that affect wellbeing. FTC guidance on health-related products emphasises that such claims should be supported by appropriate scientific evidence rather than speculation, anecdotes, or isolated findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y2ESxL4CeTg" title="Turning Proof Into Power: Product Claims 101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y2ESxL4CeTg" target="_blank" rel="noopener noreferrer">Turning Proof Into Power: Product Claims 101</a></p><p class="youtube-embed-meta">Channel: Market Research Institute International &middot; Views: 138 &middot; Uploaded: February 2026 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y2ESxL4CeTg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y2ESxL4CeTg">Open on YouTube</a></p></div></div></div>
 
 ## When Testimonials Create Evidence Gaps
@@ -328,7 +324,6 @@ A genuine customer may honestly report a remarkable experience. The logical prob
 Advertising regulators have repeatedly emphasised that testimonials alone are generally insufficient to prove objective performance claims. UK guidance states that testimonials should not be treated as adequate evidence that a product actually works as claimed. Similarly, FTC endorsement guidance requires advertisers to possess substantiation for performance claims conveyed through endorsements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade Commission &#124; Protecting America&#x27;s ConsumersThe official website of the Federal Trade Commission, protecting America&#x27;s consu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/topic/Claims_endorsements_and_testimonials.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Claims, endorsements and testimonialsAny claims made in endorsements or testimonials, which are likely to be interpreted as fact, must no...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/topic/Claims_endorsements_and_testimonials.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Claims, endorsements and testimonialsAny claims made in endorsements or testimonials, which are likely to be interpreted as fact, must no...</span></span></span>
 
 Several common evidence gaps appear in testimonial-based advertising:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,7 +337,6 @@ Several common evidence gaps appear in testimonial-based advertising:
 
 In logical terms, these practices often resemble hasty generalisation: broad conclusions are encouraged from evidence that may be genuine but is not representative.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-2-dark.svg" | relative_url }}" alt="Ad Claims illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Statistics Can Mislead Without Being False
 
@@ -353,7 +347,6 @@ A numerical claim may technically rest on real data while still conveying a misl
 Advertising authorities increasingly provide guidance on survey claims and sampling issues because consumer interpretation often extends beyond what the underlying data can justify. If an advertisement suggests broad market support, the evidence should be capable of supporting that broader inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/topic/Claims_endorsements_and_testimonials.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Claims, endorsements and testimonialsAny claims made in endorsements or testimonials, which are likely to be interpreted as fact, must no...</span></span></span>
 
 Common statistical substantiation gaps include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -367,7 +360,6 @@ Common statistical substantiation gaps include:
 </div>
 
 The fallacy is frequently not fabrication but overextension. The evidence may support a narrow statement while the advertisement encourages a much broader belief.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-3-dark.svg" | relative_url }}" alt="Ad Claims illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_advertising_claim_su_854ab8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Environmental, Health, and "Number One" Claims
@@ -385,7 +377,6 @@ Terms such as “eco-friendly”, “sustainable”, “green”, or “biodegra
 ### Market-Leading Claims
 
 Statements such as “No. 1”, “best-selling”, or “most recommended” imply measurable superiority. Such claims typically require documentary support demonstrating that the advertised ranking or leadership position is actually true under the criteria consumers are likely to assume. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/topic/Claims_endorsements_and_testimonials.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-snippet">Claims, endorsements and testimonialsAny claims made in endorsements or testimonials, which are likely to be interpreted as fact, must no...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LFrQ_6mB0qg" title="Truth in Advertising 101: Health Claims in Advertising" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LFrQ_6mB0qg" target="_blank" rel="noopener noreferrer">Truth in Advertising 101: Health Claims in Advertising</a></p><p class="youtube-embed-meta">Channel: BBB National Programs &middot; Views: 2.4K &middot; Uploaded: January 2022 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LFrQ_6mB0qg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LFrQ_6mB0qg">Open on YouTube</a></p></div></div></div>
 

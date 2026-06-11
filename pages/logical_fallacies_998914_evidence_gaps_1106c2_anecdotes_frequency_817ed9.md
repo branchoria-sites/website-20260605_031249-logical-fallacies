@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /evidence-gaps/
 nav_short_title: Anecdotes
 title: Why One Story Feels Like a Pattern
-title_full: Why One Story Feels Like a Pattern | Evidence Gaps
+title_full: Why One Story Feels Like a Pattern
 display_title_short: Anecdotes
 display_title: Anecdotes
 heading_title: Why One Story Feels Like a Pattern
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:10:52'
-parent_title: What Evidence Is the Argument Missing? | Fallacy Lab
+parent_title: What Evidence Is the Argument Missing?
 parent_permalink: /evidence-gaps/
 parent_nav_short_title: Evidence Gaps
 parent_heading_title: What Evidence Is the Argument Missing?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_fr
 
 Anecdotes are powerful because they show that something happened to a real person in a concrete situation. The problem begins when a vivid story is treated as evidence that the event is common. In arguments with [evidence gaps]({{ 'evidence-gaps/' | relative_url }}), a single dramatic example can make a rare outcome feel typical, even when broader data show it is unusual. This is not because the story is false. It is because human judgement often uses memorable examples as shortcuts for estimating frequency. Research on the availability heuristic shows that people tend to judge likelihood by how easily examples come to mind, while studies of base-rate neglect show that vivid individual cases can overshadow information about how often events actually occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> ScienceDirect Understanding this mechanism helps separate two different questions: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview &#124; ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>“Can this happen?” and “How often does it happen?” An anecdote may answer the first question perfectly while providing little evidence for the second.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-1-dark.svg" | relative_url }}" alt="Anecdotes illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Difference Between Possibility and Frequency
 
@@ -285,7 +284,6 @@ One documented case can establish possibility. If a person experienced an unusua
 This distinction is often blurred in persuasive arguments. A speaker may present a striking example and allow listeners to infer that the example represents a broader pattern. The emotional force of the story fills the evidence gap. Yet frequency claims require representative evidence, such as large datasets, systematic observation, or reliable sampling, rather than isolated experiences.
 
 Consider the difference between these statements:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -299,13 +297,11 @@ Only the first follows directly from a single anecdote. The latter two require e
 
 The logical mistake is subtle because the anecdote itself may be completely accurate. The weakness lies in the leap from occurrence to prevalence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8AwzQdRcDXs" title="73 – The Fallacy of the Anecdotal Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8AwzQdRcDXs" target="_blank" rel="noopener noreferrer">73 – The Fallacy of the Anecdotal Evidence</a></p><p class="youtube-embed-meta">Channel: ABC EastFlorida &middot; Views: 87 &middot; Uploaded: January 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8AwzQdRcDXs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8AwzQdRcDXs">Open on YouTube</a></p></div></div></div>
 
 ## Why Vivid Examples Overpower Base Rates
 
 Psychologists have long studied the availability heuristic, a mental shortcut in which people estimate probability based on how easily examples can be recalled. Events that are dramatic, emotional, recent, or heavily publicised become easier to remember and therefore seem more common than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> ScienceDirect A vivid anecdote has several advantages over abstract statistics: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview &#124; ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -320,7 +316,6 @@ Because of these features, people may recall the story instantly while strugglin
 
 This helps explain why highly publicised but rare dangers can appear more threatening than more common risks. When dramatic cases dominate attention, memory supplies a distorted sample of reality. The judgement feels evidence-based because genuine examples exist, but the sample is too small and too memorable to represent overall frequency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Risk and Availability Heuristic: The Role of...It is not obvious yet true that people heavily rely on availability heu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0010027722001482" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On the generality and cognitive basis of base-rate neglectby E Stengård · 2022 · Cited by 40 — Base rate neglect refers to p...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1vZDWiK_1t0" title="The Availability Heuristic (Intro Psych Tutorial #92)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1vZDWiK_1t0" target="_blank" rel="noopener noreferrer">The Availability Heuristic (Intro Psych Tutorial #92)</a></p><p class="youtube-embed-meta">Channel: PsychExamReview &middot; Views: 26.8K &middot; Uploaded: March 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1vZDWiK_1t0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1vZDWiK_1t0">Open on YouTube</a></p></div></div></div>
 
 ## When One Story Defeats a Thousand Numbers
@@ -328,7 +323,6 @@ This helps explain why highly publicised but rare dangers can appear more threat
 The influence of anecdotes is not limited to casual conversation. Research comparing narrative and statistical evidence has found that stories can be highly persuasive, sometimes even when stronger statistical information is available. Studies of anecdotal bias similarly show that decision-makers may give disproportionate weight to individual cases despite the presence of more informative data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/08824099709388654" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineComparing the persuasiveness of narrative and statistical...by M Allen · 1997 · Cited by 522 — This meta‐analysis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360499820_Risk_and_Availability_Heuristic_The_Role_of_Availability_in_Risk_Perception_and_Management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Risk and Availability Heuristic: The Role of...It is not obvious yet true that people heavily rely on availability heu...</span></span></span>
 
 This creates a recurring pattern in public [debate]({{ 'debate/' | relative_url }}):
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -342,7 +336,6 @@ This creates a recurring pattern in public [debate]({{ 'debate/' | relative_url 
 The process does not require deliberate deception. A person can sincerely believe that a phenomenon is common because the available examples are so vivid and memorable.
 
 The effect becomes stronger when the anecdote confirms existing concerns or expectations. A story that fits a pre-existing belief is often repeated more frequently and remembered more easily, further increasing its apparent importance.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-2-dark.svg" | relative_url }}" alt="Anecdotes illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Base Rates Disappear
@@ -365,7 +358,7 @@ When confronted with a persuasive anecdote, several questions help restore persp
 
 If the claim is merely that an event can happen, the anecdote may be sufficient. If the claim concerns frequency or typicality, additional evidence is needed.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[**What is the base rate?**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base rate fallacy</span><span class="citation-popover-snippet">Base rate fallacyThe base rate fallacy, also called base rate neglect or base rate bias, is a type of fallacy in which people tend to...</span></span></span>
+**What is the base rate?** <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Base_rate_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Base rate fallacy</span><span class="citation-popover-snippet">Base rate fallacyThe base rate fallacy, also called base rate neglect or base rate bias, is a type of fallacy in which people tend to...</span></span></span>
 
 How often does the event occur across the relevant population? Without this information, it is difficult to judge whether the anecdote is ordinary or exceptional.
 
@@ -381,7 +374,6 @@ For many issues, individual stories can be found on multiple sides. Competing an
 
 Representative evidence can confirm, weaken, or completely overturn the impression created by a vivid example.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-3-dark.svg" | relative_url }}" alt="Anecdotes illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_anecdotes_frequency_817ed9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why One Story Feels Like a Pattern
 
@@ -389,9 +381,7 @@ The persuasive power of anecdotes comes from a mismatch between memory and measu
 
 A story can show that an event occurred. It can make a problem feel real and human. It can even identify issues that deserve investigation. What it cannot reliably establish on its own is how common the event is. When a single memorable case is allowed to stand in for population-level evidence, a rare occurrence can begin to feel like a widespread pattern. That is the evidence gap at the heart of anecdotal reasoning: possibility is mistaken for frequency, and vividness is mistaken for prevalence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/computer-science/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Availability Heuristic</span><span class="citation-popover-snippet">Availability Heuristic - an overview &#124; ScienceDirect TopicsThe Availability Heuristic is a cognitive bias where individuals assess the li...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/biases/availability-heuristic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-title">The Decision Lab Availability Heuristic</span><span class="citation-popover-snippet">The Decision LabAvailability Heuristic - The Decision...The availability heuristic describes our tendency to think that whatever is easi...</span></span></span> Lab <span class="citation-chip-wrap"><a class="citation-chip" href="https://fs.blog/mental-model-availability-bias/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[3fs.blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">l we can easily call to mind is reality, which distorts real probabilities...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H2gJXpOb2Vo" title="What is Anecdotal Evidence? (Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H2gJXpOb2Vo" target="_blank" rel="noopener noreferrer">What is Anecdotal Evidence? (Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 1.8K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H2gJXpOb2Vo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H2gJXpOb2Vo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

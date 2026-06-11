@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tradition/
 nav_short_title: Status Quo
 title: Why Familiar Choices Feel Safer
-title_full: Why Familiar Choices Feel Safer | Tradition
+title_full: Why Familiar Choices Feel Safer
 display_title_short: Status Quo
 display_title: Status Quo
 heading_title: Why Familiar Choices Feel Safer
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:46:23'
-parent_title: Is Old the Same as Right? | Fallacy Lab
+parent_title: Is Old the Same as Right?
 parent_permalink: /tradition/
 parent_nav_short_title: Tradition
 parent_heading_title: Is Old the Same as Right?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status
 
 Status quo bias is the tendency to prefer the current state of affairs simply because it is the current state. Within discussions of appeal to [tradition]({{ 'tradition/' | relative_url }}) and familiar practices, it helps explain why existing methods often seem safer, more sensible or less risky than proposed alternatives, even when nobody has compared the options carefully. Researchers have repeatedly found that people disproportionately stick with default choices and established arrangements, not necessarily because those options are better, but because change feels uncertain and psychologically costly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF00055564" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Status quo bias in decision making</span><span class="citation-popover-snippet">Status quo bias in decision making - Springer Natureby W Samuelson · 1988 · Cited by 9272 — A series of decision-making experimen...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/5152072_Status_Quo_Bias_in_Decision-Making" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Status Quo Bias in Decision-MakingA series of decision-making experiments shows that individuals disproportionately sti...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-dark.svg" | relative_url }}" alt="Status Quo illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This bias matters because it can make familiar practices appear self-justifying. When people argue that a procedure, rule or habit should continue because it is already in place, they may be relying less on evidence and more on a cognitive preference for what feels normal. Status quo bias therefore provides one of the psychological [mechanisms]({{ 'mechanisms/' | relative_url }}) that can make appeal-to-tradition arguments persuasive.
 
@@ -310,7 +309,6 @@ Behavioural researchers have shown that people frequently treat departures from 
 
 This is one reason appeals to tradition can sound convincing. A speaker does not always need to demonstrate that an old practice works better. It may be enough to highlight uncertainty about change. Once the current arrangement is mentally framed as the safe baseline, alternatives can appear risky by comparison.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pCxu_NJBbX8" title="Every Critical Thinking Trap Explained in 8 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pCxu_NJBbX8" target="_blank" rel="noopener noreferrer">Every Critical Thinking Trap Explained in 8 Minutes</a></p><p class="youtube-embed-meta">Channel: Explained-4-You &middot; Views: 2.9K &middot; Uploaded: January 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pCxu_NJBbX8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pCxu_NJBbX8">Open on YouTube</a></p></div></div></div>
 
 ## Everyday Decisions Where the Old Way Escapes Scrutiny
@@ -326,7 +324,6 @@ The lesson is not merely about organ donation. It demonstrates how powerfully pe
 ### Workplace Practices
 
 Organisations frequently continue using established procedures long after circumstances have changed. Employees may defend familiar reporting systems, meeting structures or technologies because replacing them introduces uncertainty and learning costs. Resistance often stems from attachment to the current arrangement rather than a demonstrated superiority of the existing process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.suebehaviouraldesign.com/en/blog/status-quo-bias-at-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suebehaviouraldesign.com">[SUE Behavioural Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suebehaviouraldesign.com</span><span class="citation-popover-title">status quo bias at work</span><span class="citation-popover-snippet">Every alternative is unconsciously measured against the current situation as the...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-2-dark.svg" | relative_url }}" alt="Status Quo illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Personal Financial Decisions
@@ -355,7 +352,6 @@ The first compares evidence. The second gives the current option special treatme
 
 Recognising this distinction helps separate prudent conservatism from an unexamined preference for familiarity.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pGn0K6SrMa0" title="Status Quo Bias: Why We Resist Change (3-Minute Explainer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pGn0K6SrMa0" target="_blank" rel="noopener noreferrer">Status Quo Bias: Why We Resist Change (3-Minute Explainer)</a></p><p class="youtube-embed-meta">Channel: The Business Learning Hub &middot; Views: 720 &middot; Uploaded: October 2024 &middot; Length: 3 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pGn0K6SrMa0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pGn0K6SrMa0">Open on YouTube</a></p></div></div></div>
 
 ## How to Compare Old and New Options Fairly
@@ -365,7 +361,6 @@ Because status quo bias gives existing practices an automatic advantage, [fair c
 One useful approach is to imagine that neither option currently exists. If both the old and new arrangements were presented for the first time today, which would be chosen?
 
 Another method is to evaluate alternatives using the same criteria:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -381,7 +376,6 @@ Researchers have also proposed thought experiments such as the “reversal test�
 
 The goal is not to favour change. It is to remove the hidden bonus that familiarity gives to existing arrangements.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-3-dark.svg" | relative_url }}" alt="Status Quo illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_status_quo_bias_fami_91854c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Status Quo Bias Matters for Appeal to Tradition
 
@@ -389,9 +383,7 @@ Status quo bias helps explain why appeals to tradition feel persuasive even when
 
 The bias does not prove that traditions are wrong. Many traditions survive because they are useful. What it does show is that survival and familiarity are not enough on their own. An old practice deserves the same scrutiny as a new proposal. When both are evaluated by the same standards, familiarity stops functioning as evidence and becomes merely one fact among many.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AYUH3MF12uM" title="Status Quo Bias - Cognitive Bias Mini Series (13/20) - Mental Models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AYUH3MF12uM" target="_blank" rel="noopener noreferrer">Status Quo Bias - Cognitive Bias Mini Series (13/20) - Mental Models</a></p><p class="youtube-embed-meta">Channel: Kartik Parekh &middot; Views: 55 &middot; Uploaded: February 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AYUH3MF12uM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AYUH3MF12uM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -996,7 +988,6 @@ The bias does not prove that traditions are wrong. Many traditions survive becau
 2
 
 4. DOI: [https://doi.org/10.1016/j.geb...Read](https://doi.org/10.1016/j.geb...Read) more
-
 
 34. <a id="endnote-34"></a>
    Source: emerald.com  

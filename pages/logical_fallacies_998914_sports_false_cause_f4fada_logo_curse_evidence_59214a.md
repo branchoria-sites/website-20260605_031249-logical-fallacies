@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sports-cause/
 nav_short_title: Evidence Checks
 title: How to Test a Sports Logo Curse
-title_full: How to Test a Sports Logo Curse | Sports Cause
+title_full: How to Test a Sports Logo Curse
 display_title_short: Evidence Checks
 display_title: Evidence Checks
 heading_title: How to Test a Sports Logo Curse
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:29:05'
-parent_title: Did the Logo Cause the Losing Streak? | Fallacy Lab
+parent_title: Did the Logo Cause the Losing Streak?
 parent_permalink: /sports-cause/
 parent_nav_short_title: Sports Cause
 parent_heading_title: Did the Logo Cause the Losing Streak?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_cu
 
 Claims that a team is losing because of a cursed logo are easy to make and hard to test. A logo change often happens at a memorable moment, and any subsequent losing streak feels like confirmation. Yet a serious causal claim requires more than timing. To show that a logo caused poorer results, evidence would need to rule out stronger explanations such as injuries, tactical changes, opponent strength, recruitment problems, random variation and confidence effects. In logical-fallacy terms, the key mistake is often moving from “this happened before the losses” to “this caused the losses”.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Checks illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A better evidence check asks a simple question: what evidence would persuade a sceptical observer that the logo, rather than ordinary sporting factors, explains the results? Once that standard is applied, most logo-curse claims become much weaker. At the same time, there remains a narrower possibility that branding changes can influence morale or fan behaviour indirectly. The challenge is distinguishing symbolic effects from performance effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.e.jimdo.com">[Jimdo Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.e.jimdo.com</span><span class="citation-popover-snippet">Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
 
@@ -283,7 +282,6 @@ First, there must be a plausible pathway from the symbol to on-field performance
 Second, the effect should appear consistently rather than selectively. If a team wins repeatedly after a redesign, those matches must count as evidence too. One of the strongest warning signs of superstition is remembering the “hits” and forgetting the “misses”. Research on sports superstition shows that people often maintain beliefs because occasional successes reinforce them, even when failures occur just as often. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Demystifying Sport Superstition</span><span class="citation-popover-snippet">Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</span><span class="citation-popover-meta">Published: August 16, 2016</span></span></span>
 
 Third, the claim should survive comparison with similar teams. If dozens of clubs redesign logos and most [experience]({{ 'experience/' | relative_url }}) no unusual decline, that weakens the idea that redesigns typically cause competitive failure. Research on sport rebranding has found measurable effects on fan attitudes and merchandise intentions, but that is different from demonstrating a direct effect on wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect of rebrandin...</span></span></span> CoLab A useful test is to ask whether an analyst who knew nothing about the logo would still predict the team's decline from injuries <span class="citation-chip-wrap"><a class="citation-chip" href="https://colab.ws/articles/10.1108/ijsms-01-2021-0016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colab.ws">[colab.ws]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colab.ws</span><span class="citation-popover-snippet">Sport rebranding: the effect of different degrees of sport logo...28 Jun 2021 — The findings advance the current body of knowledge on sp...</span></span></span>, squad age, financial constraints or tactical issues alone. If the answer is yes, the logo adds little explanatory value.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GIR6x6AdyOg" title="The Last of the Sports Curses (HBO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GIR6x6AdyOg" target="_blank" rel="noopener noreferrer">The Last of the Sports Curses (HBO)</a></p><p class="youtube-embed-meta">Channel: Any Given Wednesday with Bill Simmons &middot; Views: 12.5K &middot; Uploaded: November 2016 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GIR6x6AdyOg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GIR6x6AdyOg">Open on YouTube</a></p></div></div></div>
 
@@ -302,7 +300,6 @@ Before considering a curse explanation, several performance variables deserve at
 **Luck and randomness.** Sporting outcomes contain substantial uncertainty. Research on luck in sport highlights how random variation can cluster, creating apparent patterns that observers mistake for meaningful causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scitechnol.com/peer-review/luck-clustering-in-sports-applications-and-implications-for-performance-and-strategy-EWNS.php?article_id=22281" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scitechnol.com">[SciTechnol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scitechnol.com</span><span class="citation-popover-snippet">Luck Clustering in Sports: Applications and Implications for...This study concentrates on the application of luck clustering i...</span></span></span>
 
 These variables are not merely alternative explanations. They are explanations with established [mechanisms]({{ 'mechanisms/' | relative_url }}) linking them to results. A logo-curse theory must outperform them, not simply coexist with them.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Checks illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Fan Reactions Are Not the Same as Match Outcomes
@@ -323,9 +320,7 @@ This indirect pathway is more plausible because it uses recognised psychological
 
 However, even here the logo is usually acting as a signal rather than a magical force. The relevant causal story becomes:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5A7hSaoRv0g" title="CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 189.1K &middot; Uploaded: February 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5A7hSaoRv0g">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -337,13 +332,11 @@ However, even here the logo is usually acting as a signal rather than a magical 
 
 That is a very different claim from saying that a redesigned crest itself cursed the team.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UNuWpJODsYg" title="Post Hoc Ergo Propter Hoc Fallacy--Writing Notes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UNuWpJODsYg" target="_blank" rel="noopener noreferrer">Post Hoc Ergo Propter Hoc Fallacy--Writing Notes</a></p><p class="youtube-embed-meta">Channel: Writing Notes &middot; Views: 75 &middot; Uploaded: October 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UNuWpJODsYg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UNuWpJODsYg">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Evidence Checklist
 
 When encountering a logo-curse claim, ask five questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -351,6 +344,13 @@ When encountering a logo-curse claim, ask five questions:
 2. **What competing explanations have been tested?** Have injuries, tactics and opponent quality been examined?
 3. **Is the pattern consistent?** Are successful periods after the logo change being counted?
 4. **Would the same conclusion survive a comparison with other teams?** Do similar redesigns usually produce similar outcomes?
+5. **Is there evidence beyond timing?** Correlation alone does not establish causation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.e.jimdo.com">[Jimdo Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.e.jimdo.com</span><span class="citation-popover-snippet">Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
+
+</div>
+
+If those questions cannot be answered convincingly, the logo-curse explanation is usually better understood as a sports superstition reinforced by selective memory, emotional attachment and the human tendency to see causes in visible events. The stronger evidence almost always lies in the measurable factors that shape sporting performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Demystifying Sport Superstition</span><span class="citation-popover-snippet">Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</span><span class="citation-popover-meta">Published: August 16, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</span></span></span>
+
+<img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Checks illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -769,14 +769,6 @@ When encountering a logo-curse claim, ask five questions:
 </script>
 </section>
 
-5. **Is there evidence beyond timing?** Correlation alone does not establish causation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.e.jimdo.com/file/844280e6-f0b3-4311-8ae7-e5366caa2508/Sports%20Performance%20Measurement%20and%20Analytics.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.e.jimdo.com">[Jimdo Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.e.jimdo.com</span><span class="citation-popover-snippet">Jimdo StorageSports Performance Measurement and AnalyticsJune 7, 2018 — a correlation between two variables may exist, it does not necess...</span><span class="citation-popover-meta">Published: June 7, 2018</span></span></span>
-
-</div>
-
-If those questions cannot be answered convincingly, the logo-curse explanation is usually better understood as a sports superstition reinforced by selective memory, emotional attachment and the human tendency to see causes in visible events. The stronger evidence almost always lies in the measurable factors that shape sporting performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/pb-assets/cmscontent/IRS/IRS-Demystifying-sport-superstition-1471356802020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Demystifying Sport Superstition</span><span class="citation-popover-snippet">Sage JournalsDemystifying Sport SuperstitionAugust 16, 2016 — (Neil, 1975; Gmelch, 1978). &amp;dquo;Sometimes rituals fail. When the team has...</span><span class="citation-popover-meta">Published: August 16, 2016</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/383198752_Football_Analytics_Assessing_the_Correlation_between_Workload_Injury_and_Performance_of_Football_Players_in_the_English_Premier_League" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Assessing the Correlation between Workload, Injury and...4 Aug 2024 — The aim of this research is to shed light on the complex interacti...</span></span></span>
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Checks illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_logo_curse_evidence_59214a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>

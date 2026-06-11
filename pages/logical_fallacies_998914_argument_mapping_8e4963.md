@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Argument Map
 title: Can You Map the Reasoning?
-title_full: Can You Map the Reasoning? | Fallacy Lab
+title_full: Can You Map the Reasoning?
 display_title_short: Argument Map
 display_title: Argument Map
 heading_title: Can You Map the Reasoning?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963-overview-
 
 Argument mapping is a practical way to find fallacies by turning a piece of reasoning into a visible structure: a main claim, the reasons offered for it, any objections, and the assumptions that make the reasons relevant. Instead of asking, “Which fallacy label can I attach to this?”, the map asks, “Where exactly does the support fail?” That shift matters because many weak arguments do not announce their flaw in a neat textbook form. The problem may be a hidden assumption, a missing bridge between evidence and conclusion, a premise that depends on another premise, or an objection that has been ignored.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-overview.webp" | relative_url }}" alt="Overview image for Argument Map" loading="eager" decoding="sync" fetchpriority="high">
 Within the wider subject of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), argument mapping is best treated as an implementation tool. It does not replace judgement, evidence-checking or knowledge of fallacy types. Its value is that it slows the reader down, separates the moving parts, and makes weak links easier to test. Research and teaching guides describe argument maps as visual representations of conclusions, premises, co-premises, objections, counterarguments and inference links, commonly used to support critical thinking and [debate]({{ 'debate/' | relative_url }}) analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
 
@@ -520,7 +519,6 @@ This approach fits the way informal fallacies usually work. In real speech and w
 The first task in an argument map is to separate what is being claimed from what is being offered as support. This sounds simple, but it prevents many false diagnoses. A passage may contain background information, rhetorical emphasis, examples, concessions and side comments. Not all of them are premises. Mapping forces the reader to ask which statements actually carry argumentative weight.
 
 A useful basic routine is:
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-1-dark.svg" | relative_url }}" alt="Argument Map illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -548,7 +546,6 @@ A concrete example is health misinformation that cites a real biomedical paper a
 
 For a human reader, the lesson is straightforward: do not stop at “there is a source”. Map the source’s actual finding, the claim being made from it, and the missing bridge between them. The fallacy may be an overgeneralisation, cherry-picking, false cause, equivocation or [appeal to authority]({{ 'authority/' | relative_url }}), but the map shows the exact move that made the source appear stronger than it was.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kGgLlip_lvc" title="Argument Mapping: Understanding and Making Arguments w/ Nate Otey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer">Argument Mapping: Understanding and Making Arguments w/ Nate Otey</a></p><p class="youtube-embed-meta">Channel: The Stoa &middot; Views: 3.5K &middot; Uploaded: April 2022 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kGgLlip_lvc">Open on YouTube</a></p></div></div></div>
 
 ## Weak link checks
@@ -556,7 +553,6 @@ For a human reader, the lesson is straightforward: do not stop at “there is a 
 Once the argument is mapped, fallacy-finding becomes a set of targeted checks rather than a guessing game. The reader can test each link in sequence: claim, premise, assumption, inference and objection.
 
 A strong weak-link check asks:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -572,16 +568,14 @@ This is where argument maps become especially useful for policy decisions. A pol
 
 Mapping also helps distinguish two different criticisms. “The evidence is false” attacks a premise. “The evidence is true but does not support the conclusion” attacks the inference. “The conclusion is too certain” attacks the qualifier. These distinctions matter because different fallacies require different repairs. A weak premise needs better evidence. A weak inference needs a narrower claim or a stronger warrant. An ignored objection needs direct engagement, not another supporting example.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-2-dark.svg" | relative_url }}" alt="Argument Map illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical map for a policy claim
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[Take this short argument:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Take this short argument: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/285707436_Improving_critical_thinking_using_web_based_argument_mapping_exercises_with_automated_feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 “Cities should ban private cars from the centre because air pollution is harmful, and cities with fewer cars often have cleaner air.”
 
 A quick map might look like this in prose:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -598,7 +592,6 @@ A quick map might look like this in prose:
 The map does not show that the car ban is wrong. It shows what must be checked before the argument is strong. Without the implementation assumptions, the argument risks moving from a true premise — pollution is harmful — to a policy conclusion without proving that this intervention will solve the problem fairly and effectively. That is the difference between identifying a fallacy and merely disagreeing with a proposal.
 
 This kind of structure is why argument maps are used in critical-thinking teaching and complex decision analysis. Educational resources describe mapping as a way to clarify conclusions, premises, objections, suppressed premises and suppressed objections, while Rationale-style guides emphasise organising information, structuring reasoning, considering evidence, identifying assumptions and evaluating arguments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kelvinmcqueen.com/teaching/syllabi/logic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kelvinmcqueen.com">[Kelvin J. McQueen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kelvinmcqueen.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TNbWpmgDcr4" title="The Easiest Way to Improve Critical Thinking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TNbWpmgDcr4" target="_blank" rel="noopener noreferrer">The Easiest Way to Improve Critical Thinking</a></p><p class="youtube-embed-meta">Channel: Argumentful &middot; Views: 959 &middot; Uploaded: November 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TNbWpmgDcr4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TNbWpmgDcr4">Open on YouTube</a></p></div></div></div>
 
@@ -622,14 +615,12 @@ That matters for fallacy detection because some fallacies are not just broken ar
 
 The remedy is not to abandon mapping, but to map humbly. Treat the diagram as a working reconstruction, not the argument itself. When wording matters, include the key phrase rather than over-paraphrasing it. When a comparison matters, list the relevant similarities and differences. When a premise is controversial, mark it as needing support instead of quietly building on it.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-3-dark.svg" | relative_url }}" alt="Argument Map illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to use argument mapping without turning it into a ritual
 
 The best use of argument mapping is selective. Not every disagreement needs a full diagram. It is most useful when the argument is complex, emotionally charged, policy-relevant, evidence-heavy or easy to misread.
 
 A practical workflow is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -644,9 +635,7 @@ A practical workflow is:
 
 This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy labels]({{ 'labels/' | relative_url }}) as conversation-stoppers. It also makes repair possible. A mapped argument can often be improved: narrow the conclusion, qualify the claim, add evidence, replace a shaky analogy, or answer a serious objection. In that sense, argument mapping is not only a way to criticise bad reasoning. It is a way to build better reasoning before the fallacy appears.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oNGkuSg6_lY" title="Unit 2.2: Argument Diagrams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oNGkuSg6_lY" target="_blank" rel="noopener noreferrer">Unit 2.2: Argument Diagrams</a></p><p class="youtube-embed-meta">Channel: Michael FitzGerald &middot; Views: 41.5K &middot; Uploaded: January 2019 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oNGkuSg6_lY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oNGkuSg6_lY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -741,7 +730,7 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -765,15 +754,15 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IF YOU&#x27;RE THINKING WHAT I&#x27;M THINKING. FUNNY COOL quote metal enamel pin badge"><img src="https://i.ebayimg.com/images/g/jjcAAeSwinJpX7n2/s-l225.jpg" alt="Listing image for IF YOU&#x27;RE THINKING WHAT I&#x27;M THINKING. FUNNY COOL quote metal enamel pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini..."><img src="https://i.ebayimg.com/images/g/GNYAAOSw5Opm6pit/s-l225.jpg" alt="Listing image for Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini..." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">IF YOU&#x27;RE THINKING WHAT I&#x27;M THINKING. FUNNY COOL quote metal enamel pin badge</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer">Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument mapping workbook">Search <span data-ebay-domain-label>eBay.co.uk</span>: argument mapping workbook</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -781,47 +770,15 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be The Reason Someone Smiles Today Quote Pin Badge, Enamel Badge, Brooch"><img src="https://i.ebayimg.com/images/g/YHIAAeSwDWtp3Tmi/s-l225.jpg" alt="Listing image for Be The Reason Someone Smiles Today Quote Pin Badge, Enamel Badge, Brooch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini..."><span>eBay</span></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Be The Reason Someone Smiles Today Quote Pin Badge, Enamel Badge, Brooch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer">Controversy Mapping: A Field Guide by Anders Kristian Munk, Tommaso Venturini...</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning enamel pin</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for argument mapping workbook">Search <span data-ebay-domain-label>eBay.co.uk</span>: argument mapping workbook</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Designs Collectors Metal Enamel Funny Humour Brooch Lapel Tie Pin Badge"><img src="https://i.ebayimg.com/images/g/AkMAAeSwUTtpDpEk/s-l225.jpg" alt="Listing image for Various Designs Collectors Metal Enamel Funny Humour Brooch Lapel Tie Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Various Designs Collectors Metal Enamel Funny Humour Brooch Lapel Tie Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Various Designs Metal Enamel Funny Humour Animals Brooch Lapel Tie Bag Pin etc.."><img src="https://i.ebayimg.com/images/g/VIgAAeSwsAJpv4Bo/s-l225.jpg" alt="Listing image for Various Designs Metal Enamel Funny Humour Animals Brooch Lapel Tie Bag Pin etc.." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Various Designs Metal Enamel Funny Humour Animals Brooch Lapel Tie Bag Pin etc..</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -829,7 +786,7 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-reasoning-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning enamel pin" data-ebay-reference="can-you-map-the-reasoning-reasoning-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=argument+mapping+workbook&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-you-map-the-reasoning-argument-mapping-workbook&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="argument mapping workbook" data-ebay-reference="can-you-map-the-reasoning-argument-mapping-workbook" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1039,6 +996,7 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1234,4 +1192,4 @@ This order keeps fallacy-finding fair. It reduces the temptation to use [fallacy
 
 42. <a id="endnote-42"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/The-promotion-of-critical-thinking-skills-through-Dwyer-Hogan/a8fa5720f7e534da9adbffdb90c47e6067e49cfe" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-promotion-of-critical-thinking-skills-through-Dwyer-Hogan/a8fa5720f7e534da9adbffdb90c47e6067e49cfe</a>  
+   Link: <a href="https://www.semanticscholar.org/paper/The-promotion-of-critical-thinking-skills-through-Dwyer-Hogan/a8fa5720f7e534da9adbffdb90c47e6067e49cfe" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-promotion-of-critical-thinking-skills-through-Dwyer-Hogan/a8fa5720f7e534da9adbffdb90c47e6067e49cfe</a>

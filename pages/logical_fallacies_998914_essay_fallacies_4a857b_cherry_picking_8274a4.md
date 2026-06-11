@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /essays/
 nav_short_title: Cherry Picking
 title: The Evidence Your Essay Cannot Ignore
-title_full: The Evidence Your Essay Cannot Ignore | Essays
+title_full: The Evidence Your Essay Cannot Ignore
 display_title_short: Cherry Picking
 display_title: Cherry Picking
 heading_title: The Evidence Your Essay Cannot Ignore
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:04:07'
-parent_title: How Fallacies Weaken Student Essays | Fallacy Lab
+parent_title: How Fallacies Weaken Student Essays
 parent_permalink: /essays/
 parent_nav_short_title: Essays
 parent_heading_title: How Fallacies Weaken Student Essays
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_pic
 
 Cherry-picking is one of the most common evidence-related fallacies in student [essays]({{ 'essays/' | relative_url }}). It occurs when a writer highlights sources, quotations, statistics, or examples that support a thesis while ignoring significant evidence that points in another direction. The result is not necessarily a false argument; the selected evidence may be accurate. The problem is that readers are shown only part of the relevant picture. Academic argument depends not only on presenting supporting evidence but also on engaging with reasonable objections and competing evidence. When an essay omits the strongest contrary material, informed readers often conclude that the writer has not fully understood the topic or has deliberately avoided inconvenient facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1-dark.svg" | relative_url }}" alt="Cherry Picking illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and academic writing problems, cherry-picking is especially damaging because it can hide behind extensive research. An essay may contain many citations and still be selective if it consistently excludes evidence that complicates its conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bachelorprint.com/fallacies/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bachelorprint.com">[BachelorPrint]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bachelorprint.com</span><span class="citation-popover-title">cherry picking fallacy</span><span class="citation-popover-snippet">Cherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/cherry-picking-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Cherry Picking Fallacy?</span><span class="citation-popover-snippet">Definition &amp; Examples24 Jun 2024 — The cherry picking fallacy occurs when an argument highlights evidence that supports its conclusion...</span></span></span>
 
@@ -303,7 +302,6 @@ A useful test is to imagine the most informed critic of the essay. What evidence
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cherry_picking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Cherry picking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BachelorPrintCherry-Picking Fallacy ~ Meaning, Examples &amp; Psychology21 Aug 2024 — The cherry-picking fallacy is an informal fallacy where...</span></span></span> is not limited to research essays. It also appears in literature essays.
 
 A student might argue that a character is entirely selfish and then select only scenes that support that interpretation. Yet if the text contains several significant moments of sacrifice or generosity, ignoring them creates a distorted reading. Literary analysis requires engagement with the whole work, not merely the passages that fit a preferred interpretation. Discussions of literary argument similarly warn against selecting only favourable textual evidence while overlooking passages that complicate the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ncte.org/blog/2017/04/cherry-picking-literary-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncte.org">[National Council of Teachers of English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncte.org</span><span class="citation-popover-title">cherry picking literary analysis</span><span class="citation-popover-snippet">National Council of Teachers of EnglishWhat Does Cherry Picking Have to Do With Literary...18 Apr 2017 — The cherrypicking fallacy is th...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LKXkemYldmw" title="Purdue OWL: Thesis Statements" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LKXkemYldmw" target="_blank" rel="noopener noreferrer">Purdue OWL: Thesis Statements</a></p><p class="youtube-embed-meta">Channel: Purdue OWL &middot; Views: 317.2K &middot; Uploaded: September 2017 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LKXkemYldmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LKXkemYldmw">Open on YouTube</a></p></div></div></div>
 
@@ -335,7 +333,6 @@ Cherry-picking is often subtler than outright suppression of evidence. Several r
 
 These practices can occur unintentionally when students begin with a conclusion and then search mainly for confirmation rather than evaluation.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-2-dark.svg" | relative_url }}" alt="Cherry Picking illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ways to Include Complications Without Weakening the Thesis
 
@@ -354,7 +351,6 @@ For example:
 
 The revised claim can accommodate evidence that does not fit the original sweeping statement.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ewBMBu2Apsw" title="Evaluating Arguments" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ewBMBu2Apsw" target="_blank" rel="noopener noreferrer">Evaluating Arguments</a></p><p class="youtube-embed-meta">Channel: Bozeman Science &middot; Views: 8.4K &middot; Uploaded: October 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ewBMBu2Apsw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ewBMBu2Apsw">Open on YouTube</a></p></div></div></div>
 
 ### Address the strongest objection directly
@@ -362,7 +358,6 @@ The revised claim can accommodate evidence that does not fit the original sweepi
 Many writing guides recommend presenting a counterargument fairly before responding to it. This demonstrates awareness of competing evidence and strengthens reader trust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unr.edu/writing-speaking-center/writing-speaking-resources/counterarguments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unr.edu">[University of Nevada, Reno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unr.edu</span><span class="citation-popover-title">Learn how to employ them</span><span class="citation-popover-snippet">University of Nevada, RenoCounterarguments &#124; University Writing &amp; Speaking CenterA counterargument involves acknowledging standpoints tha...</span></span></span>
 
 A useful structure is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -381,14 +376,12 @@ Words such as “often”, “tends”, “under these conditions”, and “in 
 
 Qualification is not weakness. It is often a sign that the writer has considered the full body of evidence and understands its limits.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-3-dark.svg" | relative_url }}" alt="Cherry Picking illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_cherry_picking_8274a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Markers and Readers Often Notice First
 
 Experienced readers rarely detect cherry-picking by checking every source individually. Instead, they notice warning signs in the argument itself.
 
 Common indicators include:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -404,9 +397,7 @@ These patterns suggest that evidence may have been selected rather than evaluate
 
 An essay becomes more persuasive when it demonstrates command of the strongest evidence on both sides. Academic argument is not a contest to hide inconvenient facts. It is an effort to reach the most defensible conclusion after examining the evidence that supports, challenges, and complicates the thesis. When students engage seriously with counterevidence, they move from advocacy toward genuine analysis, which is one of the clearest markers of mature academic writing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Papers - Purdue OWLThis resource outlines the generally accepted structure for introductions, body paragraphs, and conclusions in an acad...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cJL20usbpJU" title="How to Write a Clever Argumentative Essay | PDF Download" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cJL20usbpJU" target="_blank" rel="noopener noreferrer">How to Write a Clever Argumentative Essay | PDF Download</a></p><p class="youtube-embed-meta">Channel: Smart Student &middot; Views: 21.8K &middot; Uploaded: January 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cJL20usbpJU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cJL20usbpJU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /informal-logic/
 nav_short_title: Equivocation
 title: When One Word Quietly Changes the Argument
-title_full: When One Word Quietly Changes the Argument | Informal Logic
+title_full: When One Word Quietly Changes the Argument
 display_title_short: Equivocation
 display_title: Equivocation
 heading_title: When One Word Quietly Changes the Argument
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:23:52'
-parent_title: Why Context Changes the Argument | Fallacy Lab
+parent_title: Why Context Changes the Argument
 parent_permalink: /informal-logic/
 parent_nav_short_title: Informal Logic
 parent_heading_title: Why Context Changes the Argument
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivoc
 
 Equivocation is one of the most common language-based fallacies in everyday argument. It occurs when a key word or phrase quietly changes meaning during the course of reasoning, making a conclusion seem to follow when it does not. Rather than adding new evidence, the argument gains its force from ambiguity. Philosophers and logicians typically define equivocation as the exploitation of a term's multiple meanings within a single argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-1-dark.svg" | relative_url }}" alt="Equivocation illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many of the words people use when discussing [politics]({{ 'politics/' | relative_url }}), ethics, health, law, and ordinary life are flexible rather than precise. Terms such as “natural”, “freedom”, “fairness”, “choice”, and “rights” often carry several related but distinct meanings. When those meanings slide unnoticed, people can feel as though a conclusion has been proven even though the argument has merely shifted linguistic ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of equivocation is an argument which exploits the ambiguity of a term or phrase which has occurred at least twice in an argum...</span></span></span> Encyclopedia of Philosophy
 
@@ -285,7 +284,6 @@ This matters because many of the words people use when discussing [politics]({{ 
 The mechanism is simple. An argument begins with a word used in one sense and ends with the same word used in another sense. Because the wording remains constant, the change can be difficult to detect.
 
 A simplified structure looks like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -304,8 +302,7 @@ Importantly, ambiguity itself is not a fallacy. A word can have multiple meaning
 
 “Natural” is a particularly fertile source of equivocation because it can mean several different things.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/equivoqu.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Consider this argument:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">The Fallacy FilesLogical Fallacy: EquivocationThe Fallacy of Equivocation occurs when an equivocal word or phrase makes an unsound argume...</span></span></span>
-
+Consider this argument: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/equivoqu.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">The Fallacy FilesLogical Fallacy: EquivocationThe Fallacy of Equivocation occurs when an equivocal word or phrase makes an unsound argume...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +318,6 @@ Many poisonous substances are natural, while many safe medicines are synthetic. 
 
 This example illustrates why equivocation is often persuasive in [advertising]({{ 'advertising/' | relative_url }}), wellness discussions, and environmental debates. The ambiguity allows positive associations attached to one meaning of a word to migrate into another meaning without additional evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x_8xKrKw19M" title="Logical Fallacies - Equivocation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x_8xKrKw19M" target="_blank" rel="noopener noreferrer">Logical Fallacies - Equivocation</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 3.7K &middot; Uploaded: January 2015 &middot; Length: 2 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x_8xKrKw19M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x_8xKrKw19M">Open on YouTube</a></p></div></div></div>
 
 ## The word “freedom”: different freedoms, different conclusions
@@ -329,7 +325,6 @@ This example illustrates why equivocation is often persuasive in [advertising]({
 Arguments about freedom frequently involve multiple concepts hidden under a single label.
 
 Imagine the claim:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,7 +335,6 @@ Imagine the claim:
 </div>
 
 At first glance the reasoning may seem straightforward. However, “freedom” can refer to many different ideas:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -354,7 +348,6 @@ At first glance the reasoning may seem straightforward. However, “freedom” c
 A person may begin by invoking one conception of freedom and then conclude something about another. Two speakers can therefore appear to disagree about facts when they are actually using different meanings of the same word.
 
 The resulting [debate]({{ 'debate/' | relative_url }}) often becomes frustrating because both sides keep appealing to “freedom” while talking about different underlying concepts. The disagreement is partly linguistic rather than purely factual.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-2-dark.svg" | relative_url }}" alt="Equivocation illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The word “fairness”: a common source of talking past each other
@@ -375,7 +368,6 @@ A third might mean:
 
 Consider the argument:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A fair system treats everyone fairly.
@@ -387,7 +379,6 @@ Consider the argument:
 The conclusion may or may not follow depending on which meaning of fairness is being used. If fairness means equal treatment under the rules, unequal outcomes do not automatically show unfairness. If fairness means equal outcomes, the conclusion may seem stronger.
 
 The crucial point is that the argument cannot be evaluated properly until the operative meaning of “fair” is identified. Otherwise participants may unknowingly switch between different standards of judgement.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kXlIAXx5TXE" title="Equivocation (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kXlIAXx5TXE" target="_blank" rel="noopener noreferrer">Equivocation (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 33.2K &middot; Uploaded: February 2014 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kXlIAXx5TXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kXlIAXx5TXE">Open on YouTube</a></p></div></div></div>
 
@@ -405,7 +396,6 @@ Words such as “freedom”, “justice”, “science”, “common sense”, a
 
 The persuasive force comes not from evidence but from the audience's favourable reaction to the term itself.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-3-dark.svg" | relative_url }}" alt="Equivocation illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_equivocation_word_sh_019829-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Everyday conversation rewards speed
 
@@ -417,7 +407,7 @@ Research on fallacy detection in natural-language arguments highlights how diffi
 
 A practical way to expose equivocation is not to accuse someone of committing a fallacy immediately. Instead, ask clarifying questions that force the key term to become more precise.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[For arguments involving “natural”:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Robust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
+For arguments involving “natural”: <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Robust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
 
 * Do you mean naturally occurring or inherently safe?
 * How does the product's origin establish its safety?
@@ -434,7 +424,6 @@ For arguments involving “fairness”:
 
 More generally, useful questions include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What exactly does this word mean here?
@@ -444,7 +433,6 @@ More generally, useful questions include:
 </div>
 
 Once the meanings are stated explicitly, many apparent disagreements become easier to analyse. Sometimes the argument survives clarification. Sometimes the conclusion weakens dramatically because the hidden word shift is revealed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t_OOqjsN36A" title="Episode 28: Ambiguity and Equivocation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t_OOqjsN36A" target="_blank" rel="noopener noreferrer">Episode 28: Ambiguity and Equivocation</a></p><p class="youtube-embed-meta">Channel: COMteacherapril &middot; Views: 53 &middot; Uploaded: November 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t_OOqjsN36A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t_OOqjsN36A">Open on YouTube</a></p></div></div></div>
 

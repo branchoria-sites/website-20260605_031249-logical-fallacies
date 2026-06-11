@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /false-cause/
 nav_short_title: Regression
 title: When Improvement Was Already Likely
-title_full: When Improvement Was Already Likely | False Cause
+title_full: When Improvement Was Already Likely
 display_title_short: Regression
 display_title: Regression
 heading_title: When Improvement Was Already Likely
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 13:31:11'
-parent_title: Did One Thing Really Cause Another? | Fallacy Lab
+parent_title: Did One Thing Really Cause Another?
 parent_permalink: /false-cause/
 parent_nav_short_title: False Cause
 parent_heading_title: Did One Thing Really Cause Another?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regress
 
 Regression to the mean is one of the most common hidden explanations behind persuasive [post hoc]({{ 'post-hoc/' | relative_url }}) stories. When an outcome is unusually good or unusually bad, the next measurement is often closer to average even if nothing important has changed. As a result, an intervention introduced after an extreme result can appear effective simply because improvement was already likely. This creates a powerful form of false-cause reasoning: a treatment, management decision, motivational speech, policy change, or training programme receives credit for a recovery that would probably have happened anyway. Statistical researchers have long warned that regression to the mean can make ordinary variation look like genuine change, especially when attention is focused on unusually extreme cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15333621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Regression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2448 — Regression to the mean (RTM) is a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/ije/article/34/1/215/638499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicRegression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2470 — Regression to the mean (RTM)...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-1-dark.svg" | relative_url }}" alt="Regression illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader family of post hoc fallacies, regression to the mean matters because it offers a specific alternative explanation. The question is not merely “Did improvement happen after the intervention?” but “Was improvement likely because the starting point was unusually extreme?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">by HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span>
 
@@ -296,9 +295,7 @@ Imagine a manager intervenes after a sales team records its worst month in years
 
 The same pattern appears repeatedly:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iu4VsEv1WIo" title="How to get your article rejected by the BMJ: 12 common statistical issues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iu4VsEv1WIo" target="_blank" rel="noopener noreferrer">How to get your article rejected by the BMJ: 12 common statistical issues</a></p><p class="youtube-embed-meta">Channel: Richard_D_Riley &middot; Views: 4.7K &middot; Uploaded: December 2023 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iu4VsEv1WIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iu4VsEv1WIo">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -323,7 +320,6 @@ This helps explain why ineffective treatments can accumulate impressive [testimo
 
 For this reason, controlled clinical trials are essential. By comparing treated individuals with similar untreated or differently treated groups, researchers can distinguish genuine treatment effects from improvements that would have occurred naturally. BMJ <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/ije/article/34/1/215/638499" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicRegression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2470 — Regression to the mean (RTM)...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-2-dark.svg" | relative_url }}" alt="Regression illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Business: The Illusion of the Successful Intervention
 
@@ -345,13 +341,11 @@ The same logic appears in stories about rookie sensations, championship teams, a
 
 Importantly, regression to the mean can also create apparent miracles. Athletes suffering unusually poor seasons often improve later without any dramatic causal explanation. Observers notice the recovery and credit whichever change happened most recently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sports_Illustrated_cover_jinx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sports Illustrated cover jinx</span><span class="citation-popover-snippet">Sports Illustrated cover jinx</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1tSqSMOyNFE" title="How We’re Fooled By Statistics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1tSqSMOyNFE" target="_blank" rel="noopener noreferrer">How We’re Fooled By Statistics</a></p><p class="youtube-embed-meta">Channel: Veritasium &middot; Views: 3.8M &middot; Uploaded: November 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1tSqSMOyNFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1tSqSMOyNFE">Open on YouTube</a></p></div></div></div>
 
 ## How to Spot Regression in a Post Hoc Claim
 
 Several warning signs suggest that regression to the mean may be operating behind a causal story:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -366,7 +360,6 @@ Several warning signs suggest that regression to the mean may be operating behin
 
 When these conditions are present, a post hoc explanation deserves caution. Improvement may be real, but the observed change alone cannot establish why it happened. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/1471-2288-13-119" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkAssessing regression to the mean effects in health care...by A Linden · 2013 · Cited by 238 — In this paper, the author ful...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-3-dark.svg" | relative_url }}" alt="Regression illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_regression_to_mean_p_eca456-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for Logical Reasoning
 
@@ -374,9 +367,7 @@ Regression to the mean does not prove that an intervention failed. Sometimes tre
 
 In post hoc reasoning, people naturally focus on what changed most recently. Regression to the mean reminds us to examine what was already likely to happen. When an outcome begins from an extreme position, movement towards a more ordinary result may require no special cause at all. Ignoring that possibility turns a statistical tendency into a false success story and a common form of false-cause reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2695861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCombined bias suppression in single-arm therapy studies</span><span class="citation-popover-snippet">by HJ Hamre · 2008 · Cited by 44 — Regression to the mean from self-selection at symptom peaks can be suppressed in three ways: by usi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/15333621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Regression to the mean: what it is and how to deal with itby AG Barnett · 2005 · Cited by 2448 — Regression to the mean (RTM) is a...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nl0XYXvQt4c" title="What is Regression to the Mean?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nl0XYXvQt4c" target="_blank" rel="noopener noreferrer">What is Regression to the Mean?</a></p><p class="youtube-embed-meta">Channel: John Zak &middot; Views: 2.1K &middot; Uploaded: November 2021 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nl0XYXvQt4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nl0XYXvQt4c">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -980,4 +971,4 @@ In post hoc reasoning, people naturally focus on what changed most recently. Reg
    Title: Sports Illustrated Jinx: Regression to the Mean  
    Link: <a href="https://www.physicsforums.com/threads/sports-illustrated-jinx-regression-to-the-mean.171887/" target="_blank" rel="noopener noreferrer nofollow">https://www.physicsforums.com/threads/sports-illustrated-jinx-regression-to-the-mean.171887/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 27, 2007 — Concerns are raised about the reliability of linear regression models in predicting individual game outcomes, with some in...</p></details>
-   Published: May 27, 2007  
+   Published: May 27, 2007

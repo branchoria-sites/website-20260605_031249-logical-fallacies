@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-appeal-to/
 description: Focused pages that expand on Ignorance.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_appeal_to_ignorance_7e7b18
-parent_title: Ignorance | Logical Fallacies
+parent_title: Ignorance
 parent_nav_short_title: Ignorance
 parent_permalink: /ignorance/
 ---

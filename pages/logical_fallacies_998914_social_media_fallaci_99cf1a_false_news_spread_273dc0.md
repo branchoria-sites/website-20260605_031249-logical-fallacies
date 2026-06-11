@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /social-media/
 nav_short_title: False News
 title: Why False Claims Outrun Careful Corrections
-title_full: Why False Claims Outrun Careful Corrections | Social Media
+title_full: Why False Claims Outrun Careful Corrections
 display_title_short: False News
 display_title: False News
 heading_title: Why False Claims Outrun Careful Corrections
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:00:58'
-parent_title: Why Bad Arguments Spread Fast Online | Fallacy Lab
+parent_title: Why Bad Arguments Spread Fast Online
 parent_permalink: /social-media/
 parent_nav_short_title: Social Media
 parent_heading_title: Why Bad Arguments Spread Fast Online
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false
 
 False claims often outrun careful corrections because [social media]({{ 'social-media/' | relative_url }}) rewards speed, novelty and emotional impact more than accuracy. By the time a claim has been checked, explained and qualified, thousands or even millions of people may already have seen, shared or discussed the original version. This matters for [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) because weak arguments frequently gain influence before anyone has time to examine the evidence behind them.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1-dark.svg" | relative_url }}" alt="False News illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research consistently shows that false news does not merely spread as widely as true information—it often spreads more quickly and reaches larger audiences. The result is an environment where misleading claims can establish themselves in public discussion before [corrections]({{ 'corrections/' | relative_url }}) arrive, making later attempts at debunking less effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
 
@@ -292,7 +291,6 @@ The same study explored why false news enjoys this advantage. One explanation wa
 
 This creates a natural advantage for arguments that rely on logical shortcuts:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * A conspiracy claim may offer a simple explanation for a complicated event.
@@ -306,7 +304,6 @@ Such arguments are easier to communicate in a short post than a careful discussi
 
 Social sharing also rewards content that makes the sharer appear informed, connected or ahead of others. Novel information can provide social value regardless of whether it is accurate. Researchers associated false news diffusion with these novelty effects, suggesting that people are often motivated by the appeal of sharing something surprising rather than something verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tliyKmxEsw8" title="A question of trust" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tliyKmxEsw8" target="_blank" rel="noopener noreferrer">A question of trust</a></p><p class="youtube-embed-meta">Channel: Massachusetts Institute of Technology (MIT) &middot; Views: 9.4K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tliyKmxEsw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tliyKmxEsw8">Open on YouTube</a></p></div></div></div>
 
 ## Why corrections struggle to catch up
@@ -318,7 +315,6 @@ Recent research examining political fact-checking in real-world information ecos
 A correction is also inherently more complicated than the original rumour. Explaining why a claim is wrong often requires [context]({{ 'context/' | relative_url }}), evidence and nuance. The false claim might fit into a single sentence; the correction may require several paragraphs. This imbalance favours the simpler message.
 
 As a result, social media users frequently encounter the original claim long before they encounter any correction.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-2-dark.svg" | relative_url }}" alt="False News illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why people may remember the claim after seeing the correction
@@ -333,7 +329,6 @@ Repetition adds another challenge. Studies on the "illusory truth effect" show t
 
 Because false claims often spread widely before corrections appear, they benefit from repeated exposure long before fact-checkers enter the conversation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KL-Js6bq6uU" title="Why does misinformation spread faster than truth? | The Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KL-Js6bq6uU" target="_blank" rel="noopener noreferrer">Why does misinformation spread faster than truth? | The Stream</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 3.5K &middot; Uploaded: October 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KL-Js6bq6uU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KL-Js6bq6uU">Open on YouTube</a></p></div></div></div>
 
 ## How to slow down before sharing a viral claim
@@ -341,7 +336,6 @@ Because false claims often spread widely before corrections appear, they benefit
 The evidence does not suggest that corrections are useless. In fact, research generally finds that well-designed corrections reduce false beliefs, and strong evidence for widespread "backfire effects" is limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7810102/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan you believe it?</span><span class="citation-popover-snippet">An investigation into the impact of... - PMCby UKH Ecker · 2021 · Cited by 212 — The continued influence effect refers to the finding th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0167811626000261" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Familiarity backfire effects?</span><span class="citation-popover-snippet">Disentangling the competing...by IN Nibat · 2026 — Repetition reliably increases belief in misinformation (illusory truth effect), while...</span></span></span>, the most effective defence often occurs before sharing rather than after correction.
 
 When encountering a viral claim:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T4enR0sWrLw" title="MIT Sloan Experts Series – Sinan Aral: The Truth About Fake News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T4enR0sWrLw" target="_blank" rel="noopener noreferrer">MIT Sloan Experts Series – Sinan Aral: The Truth About Fake News</a></p><p class="youtube-embed-meta">Channel: MIT Sloan School of Management &middot; Views: 6.9K &middot; Uploaded: March 2018 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T4enR0sWrLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T4enR0sWrLw">Open on YouTube</a></p></div></div></div>
 
@@ -357,7 +351,6 @@ When encountering a viral claim:
 </div>
 
 The central lesson from the diffusion research is that false news succeeds partly because it fits the incentives of online sharing. Careful corrections require time, evidence and nuance. Social media often rewards the opposite. That mismatch helps explain why weak arguments can gain enormous visibility before their flaws become widely recognised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">The spread of true and false news onlineby S Vosoughi · 2018 · Cited by 13621 — This suggests that false news spreads farther, fas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-3-dark.svg" | relative_url }}" alt="False News illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_false_news_spread_273dc0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

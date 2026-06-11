@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /safety-claims/
 nav_short_title: Scale Claims
 title: Can Big Numbers Hide a Serious Hazard?
-title_full: Can Big Numbers Hide a Serious Hazard? | Safety Claims
+title_full: Can Big Numbers Hide a Serious Hazard?
 display_title_short: Scale Claims
 display_title: Scale Claims
 heading_title: Can Big Numbers Hide a Serious Hazard?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 20:51:03'
-parent_title: Did the Answer Address Safety? | Fallacy Lab
+parent_title: Did the Answer Address Safety?
 parent_permalink: /safety-claims/
 parent_nav_short_title: Safety Claims
 parent_heading_title: Did the Answer Address Safety?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale
 
 A common response in product safety disputes is: “Millions of customers use this product without problems.” The statement may be true, but as an argument it can become a [red herring]({{ 'red-herring/' | relative_url }}). A large user base does not by itself answer whether a smaller group faces a serious and foreseeable danger. In safety analysis, risk depends not only on how often an event occurs but also on how severe the outcome can be. A hazard that affects one user in a million may be acceptable if the consequence is minor inconvenience; the same frequency may be unacceptable if the consequence is death, permanent disability, or severe injury. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cedengineering.com/userfiles/Ethics%2C%20an%20Alternative%20Account%20of%20the%20Ford%20Pinto%20Case%20R1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cedengineering.com">[www.cedengineering.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cedengineering.com</span><span class="citation-popover-title">www.cedengineering.com Ethics: An Alternative Account of the Ford Pinto Case</span><span class="citation-popover-snippet">www.cedengineering.comEthics: An Alternative Account of the Ford Pinto CaseSeptember 22, 2020 — by M Rossow · 2015 · Cited by 3 — “A thin...</span><span class="citation-popover-meta">Published: September 22, 2020</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-1-dark.svg" | relative_url }}" alt="Scale Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the problem arises when scale is used as a substitute for addressing the specific hazard. The relevant question is not how many people were unharmed. It is whether the exposed group, the mechanism of injury, and the severity of the outcome justify design changes, warnings, repairs, or recalls.
 
@@ -285,7 +284,6 @@ Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url
 Large numbers create a powerful psychological impression. If a company can point to millions of sales, years of use, or a vast customer base, many people instinctively conclude that the product must be safe. That intuition is not entirely unreasonable. Widespread use often does provide useful information about reliability and performance.
 
 The difficulty is that aggregate success can hide concentrated risks. A product can work exactly as intended for 99.99% of users while still creating an unacceptable danger for a predictable minority. Safety investigations therefore look beyond overall popularity and ask more focused questions:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -312,7 +310,6 @@ The frequency is identical. The severity is not. Most safety frameworks treat th
 
 This is why safety debates often focus on the exposed group rather than the total customer population. If a hazard threatens infants, children, patients, or people who cannot easily recognise the danger, even a relatively small number of incidents may carry substantial weight. Regulators frequently act before injuries become common precisely because waiting for larger numbers would mean accepting preventable harm.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/duG061uy1LM" title="Fisher-Price &quot;Rock &#x27;n Play&quot; sleeper was untested before babies died, Washington Post reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=duG061uy1LM" target="_blank" rel="noopener noreferrer">Fisher-Price &quot;Rock &#x27;n Play&quot; sleeper was untested before babies died, Washington Post reports</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 2.0K &middot; Uploaded: May 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=duG061uy1LM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=duG061uy1LM">Open on YouTube</a></p></div></div></div>
 
 ## What the Peloton Treadmill Dispute Revealed
@@ -330,7 +327,6 @@ The Fisher-Price Rock 'n Play sleeper provides another example of why sales volu
 Millions of units were sold, making the product commercially successful. Yet regulators and safety advocates became increasingly concerned about infant fatalities associated with the sleeper. The CPSC's recall notices eventually involved roughly 4.7 million units, and later reports documented additional deaths after the initial recall. The concern centred on a specific risk mechanism involving infant positioning and suffocation hazards, not on whether most purchasers reported positive experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.parents.com/baby/sleep/basics/why-inclined-baby-sleepers-are-so-dangerous/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parents.com">[Parents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parents.com</span><span class="citation-popover-snippet">These sleepers, initially popular for their ability to soothe babies to sleep, were found to pose significant risks, leading to suffocati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Newsroom/News-Releases/2023/Peloton-Agrees-to-Pay-19-Million-Civil-Penalty-for-Failure-to-Immediately-Report-Tread-Treadmill-Entrapment-Hazards-and-for-Distributing-Recalled-Treadmills" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[3U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Consumer Product Safety CommissionPeloton Agrees to Pay $19 Million Civil Penalty for Failure...5 Jan 2023 — The civil penalty also sett...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consumerreports.org/product-safety/fisher-price-ignored-the-risks-of-its-rock-n-play-sleeper-fo-a1192703672/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerreports.org">[Consumer Reports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerreports.org</span><span class="citation-popover-snippet">Fisher-Price Ignored Rock &#x27;n Play Risks While Babies Died7 Jun 2021 — Fisher-Price ignored warnings about its Rock &#x27;n Play Sleeper for ov...</span></span></span>
 
 The case demonstrates an important principle: a product can achieve enormous market penetration while still presenting a severe hazard to a subset of users. Popularity and safety are related questions, but they are not identical.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-2-dark.svg" | relative_url }}" alt="Scale Claims illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Safety Analysis Focuses on the Exposed Group
@@ -359,7 +355,6 @@ If preventing harm requires perfect vigilance, the design itself may deserve scr
 
 These questions address the hazard directly. Raw customer counts do not.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HrtNIORPspo" title="The Red Herring Fallacy: Definition &amp; Examples (Easy Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HrtNIORPspo" target="_blank" rel="noopener noreferrer">The Red Herring Fallacy: Definition &amp; Examples (Easy Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 1.7K &middot; Uploaded: April 2025 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HrtNIORPspo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HrtNIORPspo">Open on YouTube</a></p></div></div></div>
 
 ## The Ford Pinto Debate and Severity-Based Reasoning
@@ -370,13 +365,11 @@ Critics argued that the existence of many uneventful vehicle trips did not elimi
 
 When the potential consequence is death or severe injury, decision-makers are expected to examine whether the risk is foreseeable, reducible, and reasonable—not simply whether it is uncommon.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PAI5T8UecEY" title="Case Study: Ford Pinto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PAI5T8UecEY" target="_blank" rel="noopener noreferrer">Case Study: Ford Pinto</a></p><p class="youtube-embed-meta">Channel: ethicsworkshop &middot; Views: 291.2K &middot; Uploaded: January 2014 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PAI5T8UecEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PAI5T8UecEY">Open on YouTube</a></p></div></div></div>
 
 ## Questions That Reveal the Real Issue
 
 When a company responds to a safety concern by emphasising customer scale, several questions help determine whether the argument is relevant or merely distracting:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -390,7 +383,6 @@ When a company responds to a safety concern by emphasising customer scale, sever
 </div>
 
 If the answer relies primarily on sales figures, user counts, or popularity metrics, the response may be sidestepping the core safety question.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-3-dark.svg" | relative_url }}" alt="Scale Claims illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_scale_claims_low_fre_9b54b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Can Big Numbers Hide a Serious Hazard?

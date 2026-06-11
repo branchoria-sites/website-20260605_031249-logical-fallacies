@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /novelty/
 nav_short_title: Modern Claims
 title: When Modern Language Does the Persuading
-title_full: When Modern Language Does the Persuading | Novelty
+title_full: When Modern Language Does the Persuading
 display_title_short: Modern Claims
 display_title: Modern Claims
 heading_title: When Modern Language Does the Persuading
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:24:40'
-parent_title: Is New Always Better? | Fallacy Lab
+parent_title: Is New Always Better?
 parent_permalink: /novelty/
 parent_nav_short_title: Novelty
 parent_heading_title: Is New Always Better?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_l
 
 In debates about public and workplace reform, the word *modern* often carries persuasive force that exceeds the evidence behind it. A proposal described as a “modernisation”, “upgrade”, “transformation”, or “future-ready framework” can sound inherently desirable before anyone has established whether it improves outcomes. This is a specific form of the [appeal to novelty]({{ 'novelty/' | relative_url }}) fallacy: language associated with progress subtly encourages acceptance of a reform because it appears contemporary rather than because it has been shown to work.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-1-dark.svg" | relative_url }}" alt="Modern Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is not that modern reforms are usually bad. Many genuinely improve services, efficiency, fairness, or safety. The problem arises when labels such as *modern* and *upgraded* do the argumentative work that evidence should be doing. Once that happens, attention can shift away from measurable results, trade-offs, costs, and unintended consequences. Evidence-based policy research has repeatedly stressed that reforms should be judged by demonstrated outcomes rather than by their branding or perceived freshness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">full report</span><span class="citation-popover-snippet">Full Report: Government at a Glance 202519 Jun 2025 — The 2025 edition of Government at a Glance offers a comprehensive overview of p...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/policy-areas/governance.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">GovernanceIn the public sector, the OECD helps governments design and implement strategic, evidence-based and innovative policies to stre...</span></span></span>
 
@@ -285,7 +284,6 @@ The problem is not that modern reforms are usually bad. Many genuinely improve s
 Policy language is rarely neutral. Describing a proposal as modern implicitly contrasts it with something presumed outdated. The comparison often occurs before any empirical comparison has been made.
 
 A common pattern looks like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,7 +309,6 @@ The same pattern appears in workplace reforms. Organisations may replace familia
 Research on public-sector reform repeatedly emphasises the importance of evaluation because reforms often produce mixed results. Some achieve intended goals; others create costs, complexities, or unintended effects that were not obvious during the launch phase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amor.cms.hu-berlin.de/~h0598bce/docs/hw2003-public-sector-reform-and-evaluation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amor.cms.hu-berlin.de">[amor.cms.hu-berlin.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amor.cms.hu-berlin.de</span><span class="citation-popover-title">371 Public sector reform and evaluation</span><span class="citation-popover-snippet">Approaches and...by H Wollmann · Cited by 4 — Finally, there is evidence of a growing interest in the academic research community in con...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openknowledge.worldbank.org/entities/publication/65b64572-1146-51fd-b0e8-ef977eea9a19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openknowledge.worldbank.org">[Open Knowledge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openknowledge.worldbank.org</span><span class="citation-popover-snippet">Open Knowledge RepositoryMaking Public Sector Reforms Work: Political and Economic...by S Bunse · 2012 · Cited by 72 — Supporting effec...</span></span></span>
 
 This is why descriptions such as “modern governance”, “reimagined service delivery”, or “institutional transformation” should be treated as starting points for inquiry rather than conclusions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I6Z0pXNLIh4" title="Political, Forensic, and Ceremonial Rhetoric--Writing Notes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I6Z0pXNLIh4" target="_blank" rel="noopener noreferrer">Political, Forensic, and Ceremonial Rhetoric--Writing Notes</a></p><p class="youtube-embed-meta">Channel: Writing Notes &middot; Views: 299 &middot; Uploaded: October 2017 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I6Z0pXNLIh4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I6Z0pXNLIh4">Open on YouTube</a></p></div></div></div>
 
@@ -343,7 +340,6 @@ Several recurring features suggest that a reform may be relying more on modern l
 
 These signs do not prove that a reform is unsound. They indicate that readers and citizens should ask for stronger evidence before accepting claims of improvement.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-2-dark.svg" | relative_url }}" alt="Modern Claims illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Ask What the Reform Improves, for Whom, and at What Cost
 
@@ -358,7 +354,6 @@ A claim that a policy is modern tells us little. A claim that it reduces process
 ### Who benefits?
 
 A reform may help one group while imposing burdens on another. Aggregate language can conceal uneven effects.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TFlGhXeooPA" title="Every Single Logical Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer">Every Single Logical Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Unsolicited advice &middot; Views: 648.5K &middot; Uploaded: March 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TFlGhXeooPA">Open on YouTube</a></p></div></div></div>
 
@@ -376,7 +371,6 @@ Nearly every reform involves compromises. Understanding them is essential for in
 
 These questions align with broader evidence-informed policy approaches, which emphasise evaluating costs, benefits, effects, and implementation realities rather than relying on assumptions about progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/strengthening-national-evidence-informed-policymaking-ecosystems_855c5286-en/full-report/overview-of-lessons-learned-and-principles-for-healthy-evidence-informed-policymaking-ecosystems_f4089495.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Strengthening National Evidence-Informed Policymaking...18 Dec 2025 — This chapter distils findings from the EIPM project&#x27;s seven countr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/evidence-informed-infrastructure-decision-making_ac3e2c57.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">evidence informed infrastructure decision making ac3e2c57</span><span class="citation-popover-snippet">Evidence-informed infrastructure decision making19 Jun 2025 — Such evidence-informed decision making uses existing evidence and past...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-3-dark.svg" | relative_url }}" alt="Modern Claims illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_modern_language_poli_421cf1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Modernisation Language and Evidence Work Together
 
@@ -392,9 +386,7 @@ The central mechanism behind modern language claims that hide weak policy eviden
 
 The reform may indeed be beneficial. The fallacy occurs when the language of progress becomes a shortcut around the harder task of demonstrating results. In debates about policy, governance, and organisational change, the crucial question is never whether a proposal sounds modern. It is whether the evidence shows that it produces better outcomes than the available alternatives.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UEsEre-lCiU" title="Professor Nicholas Mays - Improving the Value of Policy Evaluation - Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UEsEre-lCiU" target="_blank" rel="noopener noreferrer">Professor Nicholas Mays - Improving the Value of Policy Evaluation - Part 1</a></p><p class="youtube-embed-meta">Channel: New Zealand Treasury &middot; Views: 336 &middot; Uploaded: February 2013 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UEsEre-lCiU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UEsEre-lCiU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

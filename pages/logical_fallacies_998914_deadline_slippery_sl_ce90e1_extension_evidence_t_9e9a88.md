@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /deadlines/
 nav_short_title: Evidence Rules
 title: What Proof Should an Extension Need?
-title_full: What Proof Should an Extension Need? | Deadlines
+title_full: What Proof Should an Extension Need?
 display_title_short: Evidence Rules
 display_title: Evidence Rules
 heading_title: What Proof Should an Extension Need?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:57:55'
-parent_title: Will One Extension Ruin the Rules? | Fallacy Lab
+parent_title: Will One Extension Ruin the Rules?
 parent_permalink: /deadlines/
 parent_nav_short_title: Deadlines
 parent_heading_title: Will One Extension Ruin the Rules?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_exten
 
 Arguments about deadline extensions often become slippery-slope arguments when they assume that any exception will inevitably weaken the entire rule. In practice, institutions avoid that outcome through evidence thresholds: rules about what proof is required before extra time is granted. The central policy challenge is not whether evidence should be required, but how much. If standards are too low, extensions may become difficult to distinguish from ordinary lateness. If standards are too demanding, people facing genuine illness, bereavement, disability-related disruption, or technical failures may be denied fair treatment because they cannot immediately produce extensive documentation. Effective extension systems therefore aim for evidence that is clear enough to verify a claim, proportionate to the circumstances, and practical for both applicants and decision-makers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oiahe.org.uk/media/23ahuyme/gpf-requests-for-additional-consideration.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Requests for additional consideration</span><span class="citation-popover-snippet">September 15, 2025 — Some requests may not require supporting evidence, for instance if a student is asking for a short coursework extens...</span><span class="citation-popover-meta">Published: September 15, 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Rules illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Evidence Thresholds Matter
 
@@ -286,7 +285,6 @@ A well-designed threshold serves several purposes simultaneously:
 
 This is important because the strongest rebuttal to a slippery-slope argument is often institutional evidence that decision-makers can and do draw principled lines. The question becomes not "Will everyone ask?" but "What proof must be shown, and does this request meet that standard?"
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DtmAw9Ia7LA" title="Fallacies: Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer">Fallacies: Slippery Slope</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 126.6K &middot; Uploaded: January 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DtmAw9Ia7LA">Open on YouTube</a></p></div></div></div>
 
 ## What Counts as Enough Proof?
@@ -299,7 +297,6 @@ The underlying logic is straightforward: the cost of occasional misuse may be lo
 
 A useful evidence framework often asks three questions:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Was the event beyond the applicant's control?**
@@ -309,7 +306,6 @@ A useful evidence framework often asks three questions:
 </div>
 
 The third question is not necessarily the same as demanding exhaustive proof. Credibility and certainty are different standards.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6nhA_i4r_-Q" title="The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer">The Slippery Slope Fallacy (Definition &amp; Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 2.1K &middot; Uploaded: May 2025 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6nhA_i4r_-Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6nhA_i4r_-Q">Open on YouTube</a></p></div></div></div>
 
@@ -332,7 +328,6 @@ Policies commonly accept evidence such as death notices, funeral documentation, 
 The important policy question is whether the evidence requirement matches the practical realities of the situation. Demanding highly formal documentation within a very short timeframe can effectively deny relief even when the underlying hardship is undisputed.
 
 For slippery-slope concerns, the crucial point is that a bereavement exception need not become a general lateness exception. The distinction lies in the evidence standard and the nature of the event being documented.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Rules illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Disability and Ongoing Conditions
@@ -367,7 +362,6 @@ The advantage of this approach is predictability. Applicants know what evidence 
 
 The broader lesson is that evidence standards work best when they are concrete. Vague instructions such as "provide proof" create uncertainty, while specific examples improve both compliance and consistency.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WnKNcbYTlPo" title="Logical Fallacies - Shifting the burden of proof" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer">Logical Fallacies - Shifting the burden of proof</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 7.7K &middot; Uploaded: March 2015 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WnKNcbYTlPo">Open on YouTube</a></p></div></div></div>
 
 ## Avoiding Rubber Stamps and Impossible Proof
@@ -387,7 +381,6 @@ The opposite error is demanding evidence that applicants cannot realistically ob
 Oversized evidence burdens can also disadvantage people with fewer financial resources, limited healthcare access, or disabilities that make documentation difficult to secure. For that reason, higher-education guidance increasingly emphasises proportional evidence requirements rather than maximal proof requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oiahe.org.uk/resources-and-publications/good-practice-framework/requests-for-additional-consideration/disability-and-requests-for-additional-consideration/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oiahe.org.uk">[oiahe.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oiahe.org.uk</span><span class="citation-popover-title">Disability and requests for additional consideration</span><span class="citation-popover-snippet">Providers must make reasonable adjustments for a student when they know, or could reasonably be expected to have known, that the stu...</span></span></span>
 
 The most robust systems therefore adopt a middle position: enough evidence to make claims credible, but not so much that legitimate requests become practically impossible.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Rules illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_evidence_t_9e9a88-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Practical Answer to Slippery-Slope Fears

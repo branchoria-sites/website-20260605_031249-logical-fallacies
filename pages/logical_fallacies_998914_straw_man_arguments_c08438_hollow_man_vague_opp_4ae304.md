@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /straw-man/
 nav_short_title: Hollow Men
 title: Who Actually Holds That View?
-title_full: Who Actually Holds That View? | Straw Man
+title_full: Who Actually Holds That View?
 display_title_short: Hollow Men
 display_title: Hollow Men
 heading_title: Who Actually Holds That View?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:24:20'
-parent_title: Are You Answering the Real Argument? | Fallacy Lab
+parent_title: Are You Answering the Real Argument?
 parent_permalink: /straw-man/
 parent_nav_short_title: Straw Man
 parent_heading_title: Are You Answering the Real Argument?
@@ -276,14 +276,12 @@ image: /assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow
 
 A hollow man argument is a specialised form of straw man reasoning in which the speaker attacks a position attributed to vague, unnamed, or possibly non-existent opponents. Instead of misrepresenting a real person's argument, the speaker refers to shadowy groups using phrases such as “some people say”, “many critics believe”, or “certain activists want”, and then refutes the attributed claim. The audience is left with little way to verify whether anyone actually holds the view, whether it is representative, or whether it has been described fairly. Argumentation scholars Scott Aikin and John Casey identify the hollow man as a distinct variant of the straw man family because the target itself may be fabricated or so vaguely specified that meaningful scrutiny becomes difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKSMW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Scott F</span><span class="citation-popover-snippet">Aikin &amp; John Casey, Straw Men, Weak Men, and...by SF Aikin · 2011 · Cited by 101 — Three forms of the straw man fallacy are posed: the s...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-1-dark.svg" | relative_url }}" alt="Hollow Men illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of misrepresented views, the hollow man matters because it allows an argument to appear responsive while avoiding engagement with identifiable positions. The weakness lies not only in the content of the alleged view but also in the absence of a verifiable holder of that view. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/2609857/Straw_Men_Weak_Men_and_Hollow_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Straw Men Weak Men and Hollow Men</span><span class="citation-popover-snippet">Academia(PDF) Straw Men, Weak Men, and Hollow Men7 Oct 2010 — The hollow man involves fabricating both the opponent and their argument, l...</span></span></span>
 
 ## Who Actually Holds That View?
 
 The defining feature of a hollow man claim is uncertainty about the target. In an ordinary straw man, there is at least a real opponent whose words can be compared against the criticism. In a hollow man argument, the opponent may be hidden behind broad labels or anonymous references. A speaker might say:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -296,7 +294,6 @@ The defining feature of a hollow man claim is uncertainty about the target. In a
 The audience hears a position and a rebuttal, but receives no evidence that the position is genuinely held by identifiable people in the way described. Aikin and Casey describe the hollow man as a case where the argument, and sometimes even the opponent, is effectively invented for the purpose of criticism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">view that the speaker attributes to his adversary, but that does not correspond...Read more...</span></span></span>
 
 This tactic benefits from asymmetry. The person making the accusation does not need to establish who said it, while anyone challenging the claim must first determine whether the alleged view exists at all.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1y9yky2Y8iI" title="Fallacies Ep. 2 Straw Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1y9yky2Y8iI" target="_blank" rel="noopener noreferrer">Fallacies Ep. 2 Straw Man</a></p><p class="youtube-embed-meta">Channel: Brandon&#x27;s Commentary &middot; Views: 30 &middot; Uploaded: October 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1y9yky2Y8iI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1y9yky2Y8iI">Open on YouTube</a></p></div></div></div>
 
@@ -315,13 +312,11 @@ When opponents remain unnamed:
 
 Aikin and Casey argue that this absence of a clearly identified target is central to the hollow man's effectiveness. Because nobody is specifically addressed, nobody bears a clear responsibility to answer the accusation or clarify the disputed position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/2609857/Straw_Men_Weak_Men_and_Hollow_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Straw Men Weak Men and Hollow Men</span><span class="citation-popover-snippet">Academia(PDF) Straw Men, Weak Men, and Hollow Men7 Oct 2010 — The hollow man involves fabricating both the opponent and their argument, l...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jO88Bbaujac" title="The Second Exodus Is Here and Pressure Is the Birth Canal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jO88Bbaujac" target="_blank" rel="noopener noreferrer">The Second Exodus Is Here and Pressure Is the Birth Canal</a></p><p class="youtube-embed-meta">Channel: Promiseland Network &middot; Views: 504 &middot; Uploaded: April 2026 &middot; Length: 2 hours 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jO88Bbaujac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jO88Bbaujac">Open on YouTube</a></p></div></div></div>
 
 ### Common linguistic signals
 
 Certain expressions should prompt caution:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -342,7 +337,6 @@ Not every reference to unnamed views is a logical error. Public discussions ofte
 
 A vague reference can be reasonable when:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * The view is widely documented and easily confirmed.
@@ -356,7 +350,6 @@ For example, discussing a recurring misconception found across many survey respo
 
 The argument becomes suspect when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://thenonsequitur.com/?p=1072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenonsequitur.com">[thenonsequitur.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenonsequitur.com</span><span class="citation-popover-snippet">The Non SequiturThe hollow man &#124; The Non Sequitur7 Dec 2008 — One commits the straw man fallacy in a situation of criticism–when one chal...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * No examples are offered.
@@ -368,14 +361,12 @@ The argument becomes suspect when: <span class="citation-chip-wrap"><a class="ci
 
 Argumentation research consistently treats misrepresentation as the core problem in straw man reasoning. If the audience cannot determine whether the attributed commitment belongs to anyone at all, the risk of distortion increases substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/AIKSMW" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Scott F</span><span class="citation-popover-snippet">Aikin &amp; John Casey, Straw Men, Weak Men, and...by SF Aikin · 2011 · Cited by 101 — Three forms of the straw man fallacy are posed: the s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">view that the speaker attributes to his adversary, but that does not correspond...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-2-dark.svg" | relative_url }}" alt="Hollow Men illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Hollow Men Can Be Persuasive
 
 The hollow man succeeds for many of the same reasons as other straw man techniques. It provides a simple enemy, a straightforward rebuttal, and a satisfying sense of victory. The audience sees an argument defeated but may never notice that the target was undefined from the beginning.
 
 Several psychological factors contribute:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -392,7 +383,6 @@ Research on [straw man arguments]({{ 'straw-man/' | relative_url }}) has repeate
 
 A practical defence against hollow man reasoning is to ask targeted verification questions before accepting the criticism.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KV7Pn7N9Few" title="What is a straw man? The straw man logical fallacy and how to deal with it." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KV7Pn7N9Few" target="_blank" rel="noopener noreferrer">What is a straw man? The straw man logical fallacy and how to deal with it.</a></p><p class="youtube-embed-meta">Channel: Wilf Wonders &middot; Views: 477 &middot; Uploaded: December 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KV7Pn7N9Few" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KV7Pn7N9Few">Open on YouTube</a></p></div></div></div>
 
 ### Can the speaker identify a source?
@@ -408,7 +398,6 @@ Even when examples are eventually provided, ask whether the quoted statements ge
 ### How representative is the example?
 
 One individual holding an eccentric opinion does not prove that a wider group endorses it. The distinction between isolated examples and representative positions is crucial.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-3-dark.svg" | relative_url }}" alt="Hollow Men illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_hollow_man_vague_opp_4ae304-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Could a reasonable defender recognise the description?

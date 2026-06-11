@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Popularity
 title: Does Belief Make a Claim True?
-title_full: Does Belief Make a Claim True? | Fallacy Lab
+title_full: Does Belief Make a Claim True?
 display_title_short: Popularity
 display_title: Popularity
 heading_title: Does Belief Make a Claim True?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-overv
 
 Appeal to popularity is the mistake of treating widespread belief as proof that a claim is true. It is also known as an ad populum appeal, appeal to common belief, appeal to the majority, [bandwagon]({{ 'bandwagon/' | relative_url }}) reasoning or appeal to crowd belief. The flaw is simple but powerful: popularity answers the question “How many people accept this?” while truth usually depends on evidence, method, expertise, definitions or direct observation. A claim can be popular and true, popular and false, unpopular and true, or unpopular and false.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-overview.webp" | relative_url }}" alt="Overview image for Popularity" loading="eager" decoding="sync" fetchpriority="high">
 This fallacy matters because crowd belief often feels like evidence. In daily life, it can appear in phrases such as “everyone knows”, “millions of people can’t be wrong”, “most voters agree”, “it’s the best-selling option”, or “all my friends think so”. Those statements may be relevant to taste, social norms, elections, market demand or language use. They become fallacious when they are used as a shortcut for factual proof. Standard logic resources therefore classify ad populum as an informal fallacy in which popular opinion is offered where proper support is needed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The fallacy ad popu...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; Examples20 Jun 2023 — Ad populum fallacy is arguing that a claim is true simply because...</span></span></span>
 
@@ -517,7 +516,6 @@ The fallacy is not that popular belief is always useless. Popularity can be a cl
 
 This is why the fallacy is best understood as a [relevance]({{ 'relevance/' | relative_url }}) problem. “Many people believe this” may be relevant to a claim about public opinion. It is much less relevant to a claim about chemistry, history, medicine, engineering or whether an event actually happened. In those cases, the question is not how widely a belief circulates, but what evidence survives scrutiny.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Crowd Belief Feels Persuasive
 
@@ -529,7 +527,6 @@ Solomon Asch’s conformity experiments are the classic warning here. In the lin
 
 The lesson is not that people are foolish. It is that social pressure changes the argumentative environment. A person may publicly agree because they fear embarrassment, assume others have better information, want to belong, or do not want to be the awkward dissenter. Crowd belief therefore contains several different signals mixed together: evidence, imitation, politeness, fear, fashion, identity and habit. Appeal to popularity becomes dangerous when it treats that mixed signal as clean proof.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aF6EHTtyYqw" title="CRITICAL THINKING - Fallacies: Appeal to the People [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Appeal to the People [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 114.4K &middot; Uploaded: February 2015 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aF6EHTtyYqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aF6EHTtyYqw">Open on YouTube</a></p></div></div></div>
 
 ## Social Proof Traps in Everyday Arguments
@@ -537,7 +534,6 @@ The lesson is not that people are foolish. It is that social pressure changes th
 The most common ad populum arguments are not formal speeches. They are small, confident nudges that make disagreement feel unreasonable before evidence has been examined. They often work by implying that the burden is on the sceptic simply because the claim is widely accepted.
 
 Common forms include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -553,7 +549,6 @@ Online settings intensify the trap because popularity is visible and quantifiabl
 
 Review systems create a similar tension. Real reviews can provide useful evidence about service, durability, fit or customer experience. But fake, bought or manipulated reviews can manufacture the appearance of crowd belief. The US Federal Trade Commission finalised a rule in 2024 targeting fake reviews, fabricated social media indicators and intimidation used to suppress negative reviews, recognising that artificial popularity can distort consumer judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/retail-consumer/us-ftc-finalizes-ban-fake-online-reviews-2024-08-14/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">US FTC finalizes ban on companies buying and selling fake online reviews</span><span class="citation-popover-snippet">US FTC finalizes ban on companies buying and selling fake online reviews</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-2-dark.svg" | relative_url }}" alt="Popularity illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Bandwagon Effect Is Not Just a Debate Trick
 
@@ -564,7 +559,6 @@ That mechanism helps explain why a crowd can look more knowledgeable than it is.
 This is different from a genuinely independent convergence of evidence. If many researchers, inspectors or witnesses independently examine a matter and reach the same conclusion for transparent reasons, their agreement may be evidentially meaningful. If many people merely repeat the same claim because others have repeated it, the crowd is larger but not necessarily better informed.
 
 Financial markets are a useful concrete setting because crowd belief can move prices. Work on herd behaviour and informational cascades in capital markets examines how investors, analysts and firms may copy others because of social learning, reputational incentives or payoff incentives. The point for logical fallacies is not that every market trend is irrational. It is that “others are buying” is not the same as “the asset is soundly valued”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/pra/mprapa/5186.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc Herd Behavior and Cascading in Capital Markets</span><span class="citation-popover-snippet">IDEAS/Re PEc Herd Behavior and Cascading in Capital Markets</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/pra/mprapa/5186.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc Herd Behavior and Cascading in Capital Markets</span><span class="citation-popover-snippet">IDEAS/Re PEc Herd Behavior and Cascading in Capital Markets</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkK5eA_qhFk" title="Asch’s Conformity Experiment on Groupthink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer">Asch’s Conformity Experiment on Groupthink</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 363.1K &middot; Uploaded: July 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkK5eA_qhFk">Open on YouTube</a></p></div></div></div>
 
@@ -578,14 +572,12 @@ This distinction matters because “many people believe X” and “qualified ex
 
 Climate communication research illustrates the point. The “gateway belief” model treats perceived scientific consensus as a central belief that influences wider attitudes; a 2015 PLOS ONE study found that perceived scientific agreement affected public responses to climate change. More recent work has continued testing how consensus messages influence beliefs and support for action. This does not mean consensus is magic proof; it means accurate information about expert agreement can correct public misperceptions when the expert agreement itself is grounded in evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0118489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> ScienceDirect A good test is to ask what the agreement is made of. If it is made of shared evidence <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0272494425000258" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Open source on sciencedirect.com.</span></span></span>, independent methods, specialist competence and public reasoning, it may be a useful guide. If it is made of repetition, status pressure, marketing, tribal loyalty or algorithmic amplification, it is much closer to the appeal-to-popularity trap.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-3-dark.svg" | relative_url }}" alt="Popularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Test a Popularity Claim
 
 A popularity claim should not be dismissed automatically. It should be translated into a better question. Instead of asking “Do many people believe it?”, ask what that fact is supposed to prove.
 
 Useful checks include:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -599,7 +591,6 @@ Useful checks include:
 </div>
 
 These checks preserve what is useful about crowd signals without surrendering to them. They allow popularity to become a prompt for investigation rather than a substitute for it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cDREln_LrME" title="Robert Cialdini - 7 Principles of Influence Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cDREln_LrME" target="_blank" rel="noopener noreferrer">Robert Cialdini - 7 Principles of Influence Explained</a></p><p class="youtube-embed-meta">Channel: Summation with Auren Hoffman &middot; Views: 38.3K &middot; Uploaded: July 2024 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cDREln_LrME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cDREln_LrME">Open on YouTube</a></p></div></div></div>
 
@@ -1190,4 +1181,4 @@ That separation is the core lesson of the appeal to popularity. Belief can show 
 
 34. <a id="endnote-34"></a>
    Source: sdmlab.psychol.cam.ac.uk  
-   Link: <a href="https://www.sdmlab.psychol.cam.ac.uk/research/gateway-belief-model" target="_blank" rel="noopener noreferrer nofollow">https://www.sdmlab.psychol.cam.ac.uk/research/gateway-belief-model</a>  
+   Link: <a href="https://www.sdmlab.psychol.cam.ac.uk/research/gateway-belief-model" target="_blank" rel="noopener noreferrer nofollow">https://www.sdmlab.psychol.cam.ac.uk/research/gateway-belief-model</a>

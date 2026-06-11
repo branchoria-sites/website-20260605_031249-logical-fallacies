@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /emotion/
 nav_short_title: Threats
 title: Why Threats Are Not Evidence
-title_full: Why Threats Are Not Evidence | Emotion
+title_full: Why Threats Are Not Evidence
 display_title_short: Threats
 display_title: Threats
 heading_title: Why Threats Are Not Evidence
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:21:55'
-parent_title: When Does Emotion Replace Evidence? | Fallacy Lab
+parent_title: When Does Emotion Replace Evidence?
 parent_permalink: /emotion/
 parent_nav_short_title: Emotion
 parent_heading_title: When Does Emotion Replace Evidence?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_bacul
 
 An ad baculum argument, often translated as an “appeal to the stick” or “appeal to force”, occurs when a threat is used to secure acceptance of a claim instead of providing evidence for it. The threat may be physical, economic, social, professional, or psychological. The central mistake is not that threats can influence behaviour—they often can—but that pressure is treated as if it proves a conclusion. A person may have a strong reason to comply with a demand in order to avoid harm, yet still have no reason to believe that the accompanying claim is true. This distinction between belief and compliance lies at the heart of the fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">So, for example.Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://global.oup.com/us/companion.websites/9780199331864/stu/supplement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: global.oup.com">[Oxford University Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">global.oup.com</span><span class="citation-popover-snippet">oup.comSupplement: A Summary of the FallaciesAppeal to force (argumentum ad baculum, literally “argument from the stick”) A... force or...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-1-dark.svg" | relative_url }}" alt="Threats illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader family of appeals to [emotion]({{ 'emotion/' | relative_url }}) and persuasive pressure, ad baculum is distinctive because it replaces evidence with intimidation. Instead of answering the question “What reasons support this claim?”, it shifts attention to “What will happen to me if I refuse?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to ForceWhen force, coercion, or even a threat of force is used in place of a reason in an attempt to justify...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/adbacula.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[2fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to ForceAttempts to change people&#x27;s minds by threats of punishment are appeals... When force or the threat of fo...</span></span></span>
 
@@ -296,9 +295,7 @@ When people face threats, attention often shifts from evaluating a claim to mana
 
 The mechanism typically follows a pattern:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vVQvmy1rx4c" title="STAR TREK Logical Thinking #8 - Argumentum Ad Baculum (Appeal to Force)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vVQvmy1rx4c" target="_blank" rel="noopener noreferrer">STAR TREK Logical Thinking #8 - Argumentum Ad Baculum (Appeal to Force)</a></p><p class="youtube-embed-meta">Channel: CHDanhauser &middot; Views: 17.1K &middot; Uploaded: December 2017 &middot; Length: 2 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vVQvmy1rx4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vVQvmy1rx4c">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -329,7 +326,6 @@ Political history provides many examples in which governments, parties, or power
 
 The logical issue remains the same regardless of ideology: the existence of penalties for disagreement does not make the favoured claim more likely to be true.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-2-dark.svg" | relative_url }}" alt="Threats illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Personal relationships
 
@@ -359,7 +355,6 @@ A legitimate warning takes the form:
 
 The first confuses coercion with proof. The second discusses consequences while still leaving the factual question to evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://db.arabpsychology.com/argumentum-ad-baculum/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: db.arabpsychology.com">[Psych Scales Database]</a><span class="citation-popover" role="note"><span class="citation-popover-source">db.arabpsychology.com</span><span class="citation-popover-snippet">Psych Scales DatabaseArgumentum Ad Baculum: Appeal to Force FallacyWhile threats and consequences are common elements in human interactio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thoughtco.com/appeal-to-force-fear-250346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Appeal to Force/Fear</span><span class="citation-popover-snippet">Appeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LShYAhqpwJ0" title="Appeal to Force (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LShYAhqpwJ0" target="_blank" rel="noopener noreferrer">Appeal to Force (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 16.4K &middot; Uploaded: February 2014 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LShYAhqpwJ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LShYAhqpwJ0">Open on YouTube</a></p></div></div></div>
 
 ## Why Compliance Is Often Mistaken for Belief
@@ -370,7 +365,6 @@ People under pressure may nod, sign documents, repeat slogans, or remain silent.
 
 This distinction has historical significance. Systems that rely heavily on coercion may generate visible conformity while masking private disagreement. The resulting consensus can appear stronger than it really is because people have incentives to conceal their true views. In this sense, ad baculum arguments can distort not only reasoning but also perceptions of public opinion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/adbacula.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to ForceAttempts to change people&#x27;s minds by threats of punishment are appeals... When force or the threat of fo...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ocQ9BQI0Rww" title="Ad Baculum (Appeal to Force)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ocQ9BQI0Rww" target="_blank" rel="noopener noreferrer">Ad Baculum (Appeal to Force)</a></p><p class="youtube-embed-meta">Channel: Exorna &middot; Views: 14.7K &middot; Uploaded: December 2016 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ocQ9BQI0Rww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ocQ9BQI0Rww">Open on YouTube</a></p></div></div></div>
 
 ## How to Respond When Pressure Replaces Proof
@@ -378,7 +372,6 @@ This distinction has historical significance. Systems that rely heavily on coerc
 The most effective response is often to separate the threat from the claim.
 
 Instead of debating the threatened consequence, ask questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -390,7 +383,6 @@ Instead of debating the threatened consequence, ask questions such as:
 </div>
 
 These questions redirect attention to the logical issue. They expose the gap between coercion and justification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">So, for example.Read more...</span></span></span> Encyclopedia of Philosophy Logically It is also useful to recognise that a prudent response and a rational belief need not be the same. A person may decide to comply with a deman <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[logicallyfallacious.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAppeal to ForceWhen force, coercion, or even a threat of force is used in place of a reason in an attempt to justify...</span></span></span> d because the threatened consequences are severe while still recognising that the threat does not establish the truth of the accompanying claim. That distinction preserves clear thinking even under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/appeal-to-force-fear-250346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Appeal to Force/Fear</span><span class="citation-popover-snippet">Appeal to Force/Fear - Argumentum ad Baculum4 Aug 2019 — The Appeal to Force or Fear occurs whenever someone makes an implicit o...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-3-dark.svg" | relative_url }}" alt="Threats illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_ad_baculum_threats_b_b0deb2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Threats Are Not Evidence

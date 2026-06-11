@@ -439,7 +439,6 @@ image: /assets/images/logical_fallacies_998914-overview-social.jpg
 
 The most useful way to learn fallacies is not to memorise a long insult-list for winning arguments. It is to ask better questions: What is the claim? What reasons support it? Do those reasons actually connect to the conclusion? What evidence is missing? Could the same wording be reasonable in one [context]({{ 'context/' | relative_url }}) but misleading in another? That approach turns fallacies from a debating weapon into a practical tool for clearer thinking.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914-overview.webp" | relative_url }}" alt="Overview image for Logical Fallacies" loading="eager" decoding="sync" fetchpriority="high">
 ## What makes an argument fallacious?
 
@@ -456,7 +455,6 @@ Formal fallacies are errors in logical form. If the structure is invalid, the co
 Informal fallacies are more context-sensitive. The problem is not always the bare logical shape, but how language, evidence, [relevance]({{ 'relevance/' | relative_url }}) or assumptions are being used. For example, an appeal to expert opinion can be reasonable when the expert is genuinely qualified, the issue falls within their field and the claim is consistent with the evidence. It becomes fallacious when the supposed authority is irrelevant, misquoted, unreliable or treated as beyond question. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/2868/2408" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Open source on informallogic.ca.</span></span></span>
 
 This distinction matters because many everyday arguments are not formal proofs. They are practical, incomplete and defeasible: new evidence can weaken or overturn them. Modern [informal logic]({{ 'informal-logic/' | relative_url }}) studies these real-life arguments in public debate, education, law, medicine, journalism and personal exchange, where the aim is often not mathematical certainty but better-supported belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Formal fallacies are those readily seen to be instances of...Read more...</span></span></span> Encyclopedia of Philosophy
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914-Illustration-1-dark.svg" | relative_url }}" alt="Logical Fallacies illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common fallacies, with examples that show the real error
@@ -503,7 +501,6 @@ Example: “Millions of people believe this remedy works, so it must work.” Po
 
 Example: “No one has proved this rumour false, so it must be true.” In some contexts, absence of evidence matters, but only when a good search should reasonably have found evidence if the claim were true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argumentation_scheme" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argumentation scheme</span><span class="citation-popover-snippet">Argumentation scheme</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TFlGhXeooPA" title="Every Single Logical Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer">Every Single Logical Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Unsolicited advice &middot; Views: 648.5K &middot; Uploaded: March 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TFlGhXeooPA">Open on YouTube</a></p></div></div></div>
 
 ## Why fallacy labels can mislead as well as help
@@ -520,7 +517,6 @@ The same is true of arguments from ignorance. “No one has proved this chemical
 
 This is why serious fallacy analysis often asks critical questions rather than merely applying labels. For expert opinion, those questions include whether the source is credible, whether the claim falls within the source’s field, whether other experts agree and whether the claim is backed by evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/468/437" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-title">Walton biblio 27.1</span><span class="citation-popover-snippet">Walton biblio 27.1</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914-Illustration-2-dark.svg" | relative_url }}" alt="Logical Fallacies illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How fallacies work in misinformation
 
@@ -530,13 +526,11 @@ Recent research in natural language processing has tried to detect fallacious re
 
 This research reinforces a practical point: fallacy detection is not just keyword spotting. A sentence containing “expert”, “everyone”, “because” or “after” is not automatically fallacious. The question is whether the reasoning actually supports the conclusion in that context.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_25qcV-lPM" title="Argument Essay Basics With Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_25qcV-lPM" target="_blank" rel="noopener noreferrer">Argument Essay Basics With Fallacies</a></p><p class="youtube-embed-meta">Channel: Writing Made Easy &middot; Views: 3.2K &middot; Uploaded: April 2017 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_25qcV-lPM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_25qcV-lPM">Open on YouTube</a></p></div></div></div>
 
 ## A practical method for spotting fallacies
 
 The most reliable method is to slow the argument down. Instead of reacting to the conclusion first, reconstruct the reasoning.
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -553,7 +547,6 @@ The most reliable method is to slow the argument down. Instead of reacting to th
 
 That last step is often missed. If someone argues badly for a conclusion, the right response is to reject or repair the argument, not automatically to accept the opposite conclusion. A person might use poor reasoning to defend a true claim, just as a person might use elegant reasoning from false premises to reach a false one.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KwBj2TSMi8E" title="Logical Fallacies Part 2: Most Commonly Used Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KwBj2TSMi8E" target="_blank" rel="noopener noreferrer">Logical Fallacies Part 2: Most Commonly Used Fallacies</a></p><p class="youtube-embed-meta">Channel: Professor Dave Explains &middot; Views: 68.0K &middot; Uploaded: December 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KwBj2TSMi8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KwBj2TSMi8E">Open on YouTube</a></p></div></div></div>
 
 ## How to avoid fallacies in your own writing
@@ -569,7 +562,6 @@ The strongest arguments often use modest wording. “This evidence suggests” i
 Logical fallacies are best used as diagnostic tools, not as rhetorical weapons. Their value is not in shouting “fallacy!” at an opponent, but in making reasoning clearer: identifying unsupported leaps, irrelevant attacks, false choices, weak evidence and misleading causal claims.
 
 The deeper lesson is humility. Everyday arguments are often incomplete, emotional and context-bound. A fallacy label can help, but it does not replace the harder work of reading carefully, reconstructing the argument, checking the evidence and asking whether the conclusion follows. Used well, fallacy analysis improves disagreement: it shifts attention away from who sounds more forceful and towards which claims are actually supported.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914-Illustration-3-dark.svg" | relative_url }}" alt="Logical Fallacies illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -1222,4 +1214,4 @@ The deeper lesson is humility. Everyday arguments are often incomplete, emotiona
 
 51. <a id="endnote-51"></a>
    Source: yourlogicalfallacyis.com  
-   Link: <a href="https://yourlogicalfallacyis.com/" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/</a>  
+   Link: <a href="https://yourlogicalfallacyis.com/" target="_blank" rel="noopener noreferrer nofollow">https://yourlogicalfallacyis.com/</a>

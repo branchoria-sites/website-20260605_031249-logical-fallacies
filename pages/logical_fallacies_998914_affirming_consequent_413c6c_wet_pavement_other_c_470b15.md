@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /wet-pavement/
 nav_short_title: Other Causes
 title: What Else Could Make Pavement Wet?
-title_full: What Else Could Make Pavement Wet? | Wet Pavement
+title_full: What Else Could Make Pavement Wet?
 display_title_short: Other Causes
 display_title: Other Causes
 heading_title: What Else Could Make Pavement Wet?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 17:25:05'
-parent_title: Why One Explanation Is Not Enough | Fallacy Lab
+parent_title: Why One Explanation Is Not Enough
 parent_permalink: /wet-pavement/
 parent_nav_short_title: Wet Pavement
 parent_heading_title: Why One Explanation Is Not Enough
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_p
 
 A [wet pavement]({{ 'wet-pavement/' | relative_url }}) may make rain seem like the obvious explanation, but it does not prove that rain occurred. This simple observation illustrates one of the key weaknesses behind the logical fallacy known as affirming the consequent: seeing an effect and treating one possible cause as the only possible cause. In the familiar pattern “If it rains, the pavement gets wet; the pavement is wet; therefore it rained”, the mistake lies in overlooking alternative explanations. The pavement's wetness is consistent with rain, but it is also consistent with many other causes. The existence of those alternatives is enough to prevent the conclusion from following with certainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-1-dark.svg" | relative_url }}" alt="Other Causes illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Else Could Make Pavement Wet?
 
@@ -287,7 +286,6 @@ The wet-pavement example remains useful because the alternatives are easy to ima
 Rain is a sufficient cause of wet pavement: if it rains heavily enough, the pavement will normally become wet. However, the statement “if it rains, the pavement gets wet” does not imply that rain is the only route to that outcome. Confusing a sufficient condition with a necessary condition is at the heart of affirming the consequent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesfodor.com/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesfodor.com">[James Fodor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesfodor.com</span><span class="citation-popover-title">James Fodor Affirming the Consequent</span><span class="citation-popover-snippet">James FodorAffirming the ConsequentDecember 9, 2020 — Explanation: this fallacy involves reasoning that since one thing implies a second...</span><span class="citation-popover-meta">Published: December 9, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies/v/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanacademy.org">[Khan Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanacademy.org</span><span class="citation-popover-snippet">Fallacies: Affirming the Consequent (video)If you confuse sufficient and necessary conditions, you get the fallacy of affirming the conse...</span></span></span>
 
 The logical structure allows multiple paths to the same result. Wet pavement can occur whether rain happened or not. Once that possibility is recognised, the conclusion “therefore it rained” becomes an overreach rather than a deduction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nFXAbzL_0fA" title="Affirming the Consequent (Episode 47)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nFXAbzL_0fA" target="_blank" rel="noopener noreferrer">Affirming the Consequent (Episode 47)</a></p><p class="youtube-embed-meta">Channel: Answers in Genesis Canada &middot; Views: 419 &middot; Uploaded: September 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nFXAbzL_0fA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nFXAbzL_0fA">Open on YouTube</a></p></div></div></div>
 
@@ -308,7 +306,6 @@ Several ordinary [mechanisms]({{ 'mechanisms/' | relative_url }}) can leave pave
 
 The important point is not the exact number of alternatives. Even a single plausible alternative is enough to show that wet pavement does not uniquely identify rain as its cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-2-dark.svg" | relative_url }}" alt="Other Causes illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Alternative Causes Matter
 
@@ -318,7 +315,6 @@ Suppose a person sees wet pavement at dawn. Rain is one explanation. A municipal
 
 This is precisely why affirming the consequent fails. The original conditional statement identifies one route from cause to effect, but it says nothing about whether other routes exist. When people jump from the observed effect back to a preferred cause, they silently add an extra premise: “and no other cause could have produced this result.” That additional premise is usually unstated and often unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesfodor.com/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesfodor.com">[James Fodor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesfodor.com</span><span class="citation-popover-title">James Fodor Affirming the Consequent</span><span class="citation-popover-snippet">James FodorAffirming the ConsequentDecember 9, 2020 — Explanation: this fallacy involves reasoning that since one thing implies a second...</span><span class="citation-popover-meta">Published: December 9, 2020</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lurgo_TnOnA" title="Formal and Informal Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lurgo_TnOnA" target="_blank" rel="noopener noreferrer">Formal and Informal Fallacies</a></p><p class="youtube-embed-meta">Channel: teachphilosophy &middot; Views: 11.1K &middot; Uploaded: January 2013 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lurgo_TnOnA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lurgo_TnOnA">Open on YouTube</a></p></div></div></div>
 
 ## How Causal Overreach Happens
@@ -326,7 +322,6 @@ This is precisely why affirming the consequent fails. The original conditional s
 Causal overreach occurs when an observation is treated as stronger evidence than it really is. In the wet-pavement example, rain is a familiar and common cause, so the mind tends to favour it automatically. Familiarity can make an explanation feel certain even when competing explanations remain possible.
 
 The risk increases when:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -339,7 +334,6 @@ The risk increases when:
 
 In these situations, a reasonable guess can gradually be mistaken for a logical proof. The inference may still be correct by chance, but correctness and validity are different issues. A valid deduction guarantees its conclusion; affirming the consequent does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diales.com/nl/news/the-fallacy-of-affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diales.com">[2diales.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diales.com</span><span class="citation-popover-snippet">The reasoning is flawed, which often leads...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-3-dark.svg" | relative_url }}" alt="Other Causes illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_other_c_470b15-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From Observation to Better Reasoning
 
@@ -347,9 +341,7 @@ The lesson of the wet-pavement example is not that rain should never be inferred
 
 A careful reasoner asks what else could have produced the same outcome. If several plausible mechanisms exist—street cleaning, sprinklers, leaks, flooding, or rain—then the observation supports multiple explanations rather than proving one of them. Recognising those alternatives prevents causal overreach and helps distinguish a plausible hypothesis from a logically certain conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8JYN1oOvkM" title="Logic 101 (#48): Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer">Logic 101 (#48): Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: William Spaniel &middot; Views: 12.0K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8JYN1oOvkM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

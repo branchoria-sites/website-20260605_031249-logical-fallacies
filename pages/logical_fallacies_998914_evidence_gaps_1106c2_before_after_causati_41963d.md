@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /evidence-gaps/
 nav_short_title: False Cause
 title: Did It Work, Or Just Happen After?
-title_full: Did It Work, Or Just Happen After? | Evidence Gaps
+title_full: Did It Work, Or Just Happen After?
 display_title_short: False Cause
 display_title: False Cause
 heading_title: Did It Work, Or Just Happen After?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:11:33'
-parent_title: What Evidence Is the Argument Missing? | Fallacy Lab
+parent_title: What Evidence Is the Argument Missing?
 parent_permalink: /evidence-gaps/
 parent_nav_short_title: Evidence Gaps
 parent_heading_title: What Evidence Is the Argument Missing?
@@ -270,14 +270,12 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after
 
 A common persuasive move is simple: something changed, then an improvement followed, so the change is presented as the cause. A company launches a new policy and sales rise. A person starts a supplement and feels better. A government introduces a programme and unemployment falls. The timeline is real, but the conclusion may not be. This is a form of the false-cause fallacy often called *[post hoc]({{ 'post-hoc/' | relative_url }}) ergo propter hoc*—“after this, therefore because of this”. The mistake is not noticing that one event happened before another; it is treating timing alone as proof of causation. Causation requires evidence that the change actually produced the outcome and that rival explanations have been addressed. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-1-dark.svg" | relative_url }}" alt="False Cause illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within [evidence gaps]({{ 'evidence-gaps/' | relative_url }}) behind persuasive claims, before-and-after arguments are especially powerful because they feel intuitive. People naturally search for causes, and a clear sequence of events often feels like an explanation even when important evidence is missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">What Is Post Hoc Fallacy?</span><span class="citation-popover-snippet">Examples &amp; DefinitionJune 26, 2024 — 26 Jun 2024 — The post hoc fallacy is a common error in reasoning in which one event is assumed to...</span><span class="citation-popover-meta">Published: June 26, 2024</span></span></span>
 
 ## Why Timing Alone Does Not Prove Cause
 
 The fact that an outcome occurred after an intervention is a necessary condition for causation, but it is not a sufficient one. If a treatment appears before recovery, that timing is compatible with the treatment causing recovery. It is also compatible with coincidence, natural recovery, measurement error, or some other factor producing the improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> The core pattern looks like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -296,7 +294,6 @@ This is why many dramatic [testimonials]({{ 'testimonials/' | relative_url }}) a
 ## Comparison Groups and Alternative Explanations
 
 The strongest antidote to before-and-after reasoning is comparison. Instead of asking only what happened after a change, ask what would likely have happened without it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5A7hSaoRv0g" title="CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Post Hoc Ergo Propter Hoc [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 189.1K &middot; Uploaded: February 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5A7hSaoRv0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5A7hSaoRv0g">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +319,6 @@ Many outcomes have several contributing causes. Sales may increase because of [a
 
 A before-and-after claim often focuses on the most visible change while ignoring less obvious influences. Researchers describe this broader family of mistakes as questionable-cause reasoning: identifying a cause without sufficient justification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Questionable_cause" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Questionable cause</span><span class="citation-popover-snippet">Questionable cause</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-2-dark.svg" | relative_url }}" alt="False Cause illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why These Arguments Are So Persuasive
 
@@ -336,7 +332,6 @@ Several factors strengthen the illusion:
 * **Coincidences are easy to overinterpret.** When a positive result follows a deliberate action, the action naturally receives credit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.org/blog/what-is-the-post-hoc-fallacy-vaccine-fears-correlation-vs-causation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.org">[centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.org</span><span class="citation-popover-title">What Is The Post Hoc Fallacy</span><span class="citation-popover-snippet">Vaccine Fears, Correlation...6 Apr 2015 — The appearance of causation may simply be coincidence; or A may have caused B, or B may have c...</span></span></span>
 
 Importantly, the conclusion may occasionally be correct. The fallacy concerns the quality of the reasoning, not whether the outcome ultimately turns out to be true. A policy may genuinely have caused improvement, yet the evidence offered may still be insufficient to demonstrate that fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Correlation does not imply causation</span><span class="citation-popover-snippet">Correlation does not imply causation</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ofweqU0Lz4I" title="Correlation vs Causation Explained: Why Patterns Can Mislead Us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ofweqU0Lz4I" target="_blank" rel="noopener noreferrer">Correlation vs Causation Explained: Why Patterns Can Mislead Us</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 10.0K &middot; Uploaded: March 2026 &middot; Length: 4 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ofweqU0Lz4I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ofweqU0Lz4I">Open on YouTube</a></p></div></div></div>
 
@@ -352,7 +347,6 @@ Rarely does only one thing change. Ask whether other developments occurred aroun
 
 A comparison group provides a benchmark. Without one, it is difficult to know whether the observed change was unusual or expected.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-3-dark.svg" | relative_url }}" alt="False Cause illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_before_after_causati_41963d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Was the Starting Point Extreme?
 
@@ -365,7 +359,6 @@ Some conditions improve naturally. Some markets recover naturally. Some trends r
 ### What Evidence Connects Cause to Effect?
 
 A credible causal claim usually offers more than chronology. It may provide controlled comparisons, repeated observations, a plausible mechanism, or evidence that alternative explanations have been tested and found inadequate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4958779/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPost hoc ergo propter hoc</span><span class="citation-popover-snippet">NIHby L Grouse · 2016 · Cited by 10 — This faulty reasoning is the most common cause of false and misleading conclusions of researc...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xpWR_bo44ac" title="False Cause Fallacy Example" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xpWR_bo44ac" target="_blank" rel="noopener noreferrer">False Cause Fallacy Example</a></p><p class="youtube-embed-meta">Channel: Philosophy Vibe &middot; Views: 18.2K &middot; Uploaded: January 2021 &middot; Length: 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xpWR_bo44ac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xpWR_bo44ac">Open on YouTube</a></p></div></div></div>
 

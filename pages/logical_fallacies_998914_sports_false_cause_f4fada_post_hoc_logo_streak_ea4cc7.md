@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sports-cause/
 nav_short_title: Post Hoc
 title: Did the Logo Really Cause the Losing Streak?
-title_full: Did the Logo Really Cause the Losing Streak? | Sports Cause
+title_full: Did the Logo Really Cause the Losing Streak?
 display_title_short: Post Hoc
 display_title: Post Hoc
 heading_title: Did the Logo Really Cause the Losing Streak?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 20:53:41'
-parent_title: Did the Logo Cause the Losing Streak? | Fallacy Lab
+parent_title: Did the Logo Cause the Losing Streak?
 parent_permalink: /sports-cause/
 parent_nav_short_title: Sports Cause
 parent_heading_title: Did the Logo Cause the Losing Streak?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_ho
 
 A team unveils a new crest, alternate badge, or modernised logo. A month later, the club is on a losing streak. For many supporters, the sequence feels self-explanatory: the logo changed, then the defeats arrived, so the logo must have caused the slump. This is a classic example of the post hoc fallacy—assuming that because one event happened before another, it caused it. Timing can suggest a question worth investigating, but it does not by itself establish cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> Sports fans are especially vulnerable to this mistake because logos are highly visible symbols. A tactical error, injury crisis, or difficult run of fixtures is harder to see than a new badge printed on every shirt and social-media graphic. When emotions are running high, the most visible change can become the easiest target.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-1-dark.svg" | relative_url }}" alt="Post Hoc illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Sequence Feels Like Evidence
 
@@ -290,7 +289,6 @@ The fact that losses followed a logo change establishes only that the two events
 
 Consider a football club that introduces a new crest before the season and then struggles through its first ten matches. Many alternative explanations could exist:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Key players may have suffered injuries.
@@ -304,7 +302,6 @@ Consider a football club that introduces a new crest before the season and then 
 Without evidence connecting the logo change to these performance factors, blaming the crest remains speculation rather than causal analysis.
 
 Importantly, the post hoc mistake can occur even when supporters identify a real problem. Owners who mishandle a rebrand might also be making poor football decisions. In that case, both the unpopular logo and the losing streak could stem from the same underlying management issues. The logo would be a symptom of broader organisational problems, not the direct cause of defeats.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k7IctLRiZmo" title="Pearson correlation [Simply explained]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k7IctLRiZmo" target="_blank" rel="noopener noreferrer">Pearson correlation [Simply explained]</a></p><p class="youtube-embed-meta">Channel: numiqo &middot; Views: 347.8K &middot; Uploaded: March 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k7IctLRiZmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k7IctLRiZmo">Open on YouTube</a></p></div></div></div>
 
@@ -326,8 +323,44 @@ This process is reinforced by selective memory. Fans remember the redesigns that
 
 The result is a self-reinforcing narrative:
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-2-dark.svg" | relative_url }}" alt="Post Hoc illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+1. The logo changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</span></span></span>
+2. The team struggles.
+3. The timing is interpreted as proof.
+4. Every subsequent defeat appears to confirm the theory.
+
+Yet none of these steps independently demonstrates causation.
+
+## Questions That Test a Logo-Causation Claim
+
+When someone argues that a crest change caused a losing run, several questions can help separate evidence from assumption.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ggDAUKo6bfo" title="The 7 WORST Football Club Rebrands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ggDAUKo6bfo" target="_blank" rel="noopener noreferrer">The 7 WORST Football Club Rebrands</a></p><p class="youtube-embed-meta">Channel: HITC Sevens &middot; Views: 265.4K &middot; Uploaded: December 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ggDAUKo6bfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ggDAUKo6bfo">Open on YouTube</a></p></div></div></div>
+
+### What mechanism connects the logo to performance?
+
+A credible causal claim should explain how the redesign influenced players, coaches, decision-makers, or supporters in a way that plausibly affected results. Simply pointing to the timeline is not enough.
+
+### Did other important factors change at the same time?
+
+Logo redesigns often occur alongside ownership changes, commercial strategies, coaching transitions, or squad rebuilding projects. Any of these factors may be more relevant to results than the badge itself.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B98XzmOA7eg" title="Regression to the Mean - Don&#x27;t Get Fooled by Randomness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B98XzmOA7eg" target="_blank" rel="noopener noreferrer">Regression to the Mean - Don&#x27;t Get Fooled by Randomness</a></p><p class="youtube-embed-meta">Channel: Trevor Ragan &middot; Views: 16.2K &middot; Uploaded: January 2014 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B98XzmOA7eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B98XzmOA7eg">Open on YouTube</a></p></div></div></div>
+
+### Would the same argument be accepted after a winning streak?
+
+If a club changed its logo and immediately won ten matches, many observers would hesitate to credit the crest for the success. Applying different standards to wins and losses is a warning sign that [emotion]({{ 'emotion/' | relative_url }}) may be driving the reasoning.
+
+<img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-3-dark.svg" | relative_url }}" alt="Post Hoc illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Is there evidence beyond the sequence of events?
+
+The strongest causal claims require more than chronology. They need evidence that the proposed cause actually influenced the outcome. Without that additional support, the argument remains a post hoc inference rather than a demonstrated explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+
+## The Better Interpretation
+
+A logo change followed by poor results may be emotionally satisfying as an explanation, but it is rarely persuasive as evidence. Sports branding research shows that redesigns can affect fan attitudes, loyalty, and perceptions of club identity. What it does not show is that a badge automatically determines wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
+
+The post hoc mistake arises when supporters treat sequence as proof. The crest appeared first, the defeats came later, therefore the crest caused the defeats. In reality, chronology identifies a coincidence that may deserve investigation. It does not, by itself, establish a cause-and-effect relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -746,47 +779,6 @@ The result is a self-reinforcing narrative:
 </script>
 </section>
 
-1. The logo changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/76621978/Sport_Fans_and_Their_Teams_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team_Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">PDF) Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand attitud...</span></span></span>
-2. The team struggles.
-3. The timing is interpreted as proof.
-4. Every subsequent defeat appears to confirm the theory.
-
-Yet none of these steps independently demonstrates causation.
-
-## Questions That Test a Logo-Causation Claim
-
-When someone argues that a crest change caused a losing run, several questions can help separate evidence from assumption.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ggDAUKo6bfo" title="The 7 WORST Football Club Rebrands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ggDAUKo6bfo" target="_blank" rel="noopener noreferrer">The 7 WORST Football Club Rebrands</a></p><p class="youtube-embed-meta">Channel: HITC Sevens &middot; Views: 265.4K &middot; Uploaded: December 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ggDAUKo6bfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ggDAUKo6bfo">Open on YouTube</a></p></div></div></div>
-
-### What mechanism connects the logo to performance?
-
-A credible causal claim should explain how the redesign influenced players, coaches, decision-makers, or supporters in a way that plausibly affected results. Simply pointing to the timeline is not enough.
-
-### Did other important factors change at the same time?
-
-Logo redesigns often occur alongside ownership changes, commercial strategies, coaching transitions, or squad rebuilding projects. Any of these factors may be more relevant to results than the badge itself.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B98XzmOA7eg" title="Regression to the Mean - Don&#x27;t Get Fooled by Randomness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B98XzmOA7eg" target="_blank" rel="noopener noreferrer">Regression to the Mean - Don&#x27;t Get Fooled by Randomness</a></p><p class="youtube-embed-meta">Channel: Trevor Ragan &middot; Views: 16.2K &middot; Uploaded: January 2014 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B98XzmOA7eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B98XzmOA7eg">Open on YouTube</a></p></div></div></div>
-
-### Would the same argument be accepted after a winning streak?
-
-If a club changed its logo and immediately won ten matches, many observers would hesitate to credit the crest for the success. Applying different standards to wins and losses is a warning sign that [emotion]({{ 'emotion/' | relative_url }}) may be driving the reasoning.
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-3-dark.svg" | relative_url }}" alt="Post Hoc illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_post_hoc_logo_streak_ea4cc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Is there evidence beyond the sequence of events?
-
-The strongest causal claims require more than chronology. They need evidence that the proposed cause actually influenced the outcome. Without that additional support, the argument remains a post hoc inference rather than a demonstrated explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
-
-## The Better Interpretation
-
-A logo change followed by poor results may be emotionally satisfying as an explanation, but it is rarely persuasive as evidence. Sports branding research shows that redesigns can affect fan attitudes, loyalty, and perceptions of club identity. What it does not show is that a badge automatically determines wins and losses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emerald.com/ijsms/article/23/1/155/156606/Sport-rebranding-the-effect-of-different-degrees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emerald.com">[Emerald Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emerald.com</span><span class="citation-popover-snippet">Emerald PublishingSport rebranding: the effect of different degrees of sport logo...This study sought to examine how a critical aspect o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/286595819_Sport_Fans_and_Their_Teams%27_Redesigned_Logos_An_Examination_of_the_Moderating_Effect_of_Team_Identification_on_Attitude_and_Purchase_Intention_of_Team-Logoed_Merchandise" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[3ResearchGate 3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Sport Fans and Their Teams&#x27; Redesigned LogosThe current study sought to identify the effect of team identification on brand a...</span></span></span>
-
-The post hoc mistake arises when supporters treat sequence as proof. The crest appeared first, the defeats came later, therefore the crest caused the defeats. In reality, chronology identifies a coincidence that may deserve investigation. It does not, by itself, establish a cause-and-effect relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/post-hoc-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">post hoc fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples8 May 2023 — The post hoc fallacy is the assumption that because one event preceded another event, they must be caus...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -901,4 +893,4 @@ The post hoc mistake arises when supporters treat sequence as proof. The crest a
 
 22. <a id="endnote-22"></a>
    Source: westga.edu  
-   Link: <a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>  
+   Link: <a href="https://www.westga.edu/share/documents/pubs/091175_869.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.westga.edu/share/documents/pubs/091175_869.pdf</a>

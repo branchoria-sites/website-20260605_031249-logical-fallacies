@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /context/
 nav_short_title: Two Options
 title: Are Those Really the Only Choices?
-title_full: Are Those Really the Only Choices? | Context
+title_full: Are Those Really the Only Choices?
 display_title_short: Two Options
 display_title: Two Options
 heading_title: Are Those Really the Only Choices?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:18:03'
-parent_title: When Is It Really a Fallacy? | Fallacy Lab
+parent_title: When Is It Really a Fallacy?
 parent_permalink: /context/
 parent_nav_short_title: Context
 parent_heading_title: When Is It Really a Fallacy?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_d
 
 A [false dilemma]({{ 'false-dilemma/' | relative_url }}) becomes persuasive when a situation is framed as if only two choices exist, even though other realistic options remain available. In borderline cases, the challenge is not simply spotting the words “either/or”. Some situations genuinely do reduce to two alternatives, while others only appear to do so because compromise, delay, revision, or additional options have been left out. The key question is whether the presented alternatives are truly exhaustive. If they are not, the argument creates a misleading sense of urgency or inevitability by forcing a choice that need not be made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-1-dark.svg" | relative_url }}" alt="Two Options illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within [informal logic]({{ 'informal-logic/' | relative_url }}), the problem is not the structure of choosing between options itself. The problem is the unsupported assumption that the listed options are the only live possibilities. When omitted alternatives exist, the conclusion may seem stronger than the evidence [warrants]({{ 'warrants/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
 
@@ -279,7 +278,6 @@ Within [informal logic]({{ 'informal-logic/' | relative_url }}), the problem is 
 Many [false dilemmas]({{ 'false-dilemma/' | relative_url }}) work by quietly replacing a complex decision space with a simple binary. The audience is invited to choose between two extremes and may overlook possibilities that sit between them.
 
 Consider statements such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,9 +299,7 @@ The distinction matters because false dilemmas often imitate these legitimate ca
 
 When evaluating a supposed binary choice, ask:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Di710J7Hia4" title="The Euthyphro Dilemma Once Again" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Di710J7Hia4" target="_blank" rel="noopener noreferrer">The Euthyphro Dilemma Once Again</a></p><p class="youtube-embed-meta">Channel: Cross Examined &middot; Views: 41.2K &middot; Uploaded: May 2018 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Di710J7Hia4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Di710J7Hia4">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -329,14 +325,12 @@ The classic example discussed in critical-thinking literature concerns noise reg
 
 This does not mean every political compromise is feasible. Budget limits, legal constraints, and practical realities can eliminate alternatives. The mistake occurs when an argument assumes those eliminations without demonstrating them.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-2-dark.svg" | relative_url }}" alt="Two Options illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Extreme Alternatives Are So Persuasive
 
 False dilemmas often rely on a psychological preference for clear categories. People frequently find it easier to think in terms of success or failure, loyalty or betrayal, safety or danger, rather than navigating uncertainty and mixed outcomes. Researchers and theorists of fallacies have long noted that binary framing simplifies complex realities and can make decisions feel more manageable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of fallacies</span><span class="citation-popover-snippet">List of fallaciesFalse dilemma (false dichotomy, fallacy of bifurcation, black-or-white fallacy) – two alternative statements are give...</span></span></span>
 
 This tendency becomes especially powerful when the alternatives are emotionally charged:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -359,7 +353,6 @@ A practical test involves three questions.
 
 Sometimes the overlooked alternative is not a different policy but a different timetable. Gathering evidence, conducting trials, or waiting for additional information may be realistic options. If delay remains viable, “act now or disaster” may be overstated.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-3-dark.svg" | relative_url }}" alt="Two Options illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_false_dilemma_option_ec2210-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Could the proposal be revised?
 
@@ -377,7 +370,6 @@ For example, a legislative vote may eventually require members to approve or rej
 
 This is why [context]({{ 'context/' | relative_url }}) matters. The same “either/or” wording can be reasonable in one setting and fallacious in another. A true dilemma exists when constraints make the alternatives exhaustive. A false dilemma exists when the appearance of exhaustion is created by omission rather than reality.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XIyLqUOJ0lY" title="False Dichotomy (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XIyLqUOJ0lY" target="_blank" rel="noopener noreferrer">False Dichotomy (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 47.8K &middot; Uploaded: February 2014 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XIyLqUOJ0lY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XIyLqUOJ0lY">Open on YouTube</a></p></div></div></div>
 
 ## What Changes Once Hidden Alternatives Are Recognised?
@@ -385,7 +377,6 @@ This is why [context]({{ 'context/' | relative_url }}) matters. The same “eith
 Recognising a false dilemma does not automatically identify the best choice. It changes the structure of the discussion.
 
 Instead of asking, “Which of these two options must we choose?”, the discussion becomes:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /argument-map/
 nav_short_title: Hidden Assumptions
 title: What Assumptions Make This Policy Argument Work?
-title_full: What Assumptions Make This Policy Argument Work? | Argument Map
+title_full: What Assumptions Make This Policy Argument Work?
 display_title_short: Hidden Assumptions
 display_title: Hidden Assumptions
 heading_title: What Assumptions Make This Policy Argument Work?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:11:04'
-parent_title: Can You Map the Reasoning? | Fallacy Lab
+parent_title: Can You Map the Reasoning?
 parent_permalink: /argument-map/
 parent_nav_short_title: Argument Map
 parent_heading_title: Can You Map the Reasoning?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hi
 
 Policy arguments often sound complete because they include statistics, expert endorsements, or compelling examples. Yet many of the most important parts of the reasoning are left unstated. A claim such as “this tax will reduce pollution”, “this subsidy will create jobs”, or “this regulation will improve safety” usually depends on hidden assumptions about incentives, costs, implementation, behaviour, compliance, and unintended consequences. Identifying those assumptions is one of the most effective ways to evaluate policy arguments and detect weak reasoning.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In argument mapping, these hidden assumptions are often called [warrants]({{ 'warrants/' | relative_url }}): the missing links that explain why the evidence is supposed to support the conclusion. Research on argument reasoning shows that such warrants are frequently left implicit, requiring readers to reconstruct them before the argument can be properly assessed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/N18-1175.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">ACL Anthology Identification and Reconstruction of Implicit Warrants</span><span class="citation-popover-snippet">To comprehend an argu- ment, one must analyze its warrant, which ex- plains why its claim...</span></span></span>
 
@@ -295,7 +294,6 @@ Consider the claim:
 > “Increasing fines for littering will significantly reduce litter.”
 
 The explicit reasoning appears straightforward. However, the conclusion depends on several unstated assumptions:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -334,7 +332,6 @@ Once stated explicitly, that warrant can be tested. Are the cities similar in pu
 
 Research on argument analysis consistently emphasises that warrants often remain unstated even though they do much of the logical work. Understanding an argument requires reconstructing these missing links rather than merely examining the visible premises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/N18-1175.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">ACL Anthology Identification and Reconstruction of Implicit Warrants</span><span class="citation-popover-snippet">To comprehend an argu- ment, one must analyze its warrant, which ex- plains why its claim...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1708.01425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/724vj-_8Hyg" title="Applying Behavioral Insights to the Design of Public Policy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=724vj-_8Hyg" target="_blank" rel="noopener noreferrer">Applying Behavioral Insights to the Design of Public Policy</a></p><p class="youtube-embed-meta">Channel: Maxwell School of Syracuse University &middot; Views: 778 &middot; Uploaded: April 2021 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=724vj-_8Hyg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=724vj-_8Hyg">Open on YouTube</a></p></div></div></div>
 
 ### Four common categories of hidden assumptions
@@ -344,7 +341,6 @@ Policy claims frequently rely on assumptions in four areas:
 **Behavioural assumptions**
 
 These concern how people will respond.
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -361,7 +357,6 @@ Policy-design research notes that different policy tools rely on different behav
 
 These concern administrative reality.
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Agencies have sufficient staff.
@@ -377,7 +372,6 @@ Implementation studies repeatedly find that policy success depends not only on d
 
 These concern economic and practical trade-offs.
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * Benefits exceed costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bankofengland.co.uk/prudential-regulation/publication/2024/december/pra-approach-to-cost-benefit-analysis-statement-of-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bankofengland.co.uk">[bankofengland.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bankofengland.co.uk</span><span class="citation-popover-title">pra approach to cost benefit analysis statement of policy</span><span class="citation-popover-snippet">A key step is to identify and evidence the causal chains through which a...Read more...</span></span></span>
@@ -392,7 +386,6 @@ Policy analysis frameworks stress the importance of identifying the causal chain
 **Outcome assumptions**
 
 These concern whether the intended effect actually follows.
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -418,7 +411,6 @@ For example:
 
 Relevant tests might include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Do schools actually respond to rankings?
@@ -429,7 +421,6 @@ Relevant tests might include:
 </div>
 
 A strong policy argument should identify evidence that could potentially falsify its key assumptions.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-2-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Separate feasibility from desirability
@@ -445,7 +436,6 @@ When evaluating a claim, separate:
 * Will implementation produce the predicted result?
 
 Recent work on policy [feasibility]({{ 'feasibility/' | relative_url }}) argues that assumptions about practicality can themselves become hidden premises. Sometimes reforms are dismissed because feasibility concerns are assumed rather than demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s43508-026-00140-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The feasibility syndrome: a challenge to public policyby P Ren · 2026 — This article advances the concept of the feasibility synd...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RUJX0FLdgGA" title="How to extract implicit assumptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RUJX0FLdgGA" target="_blank" rel="noopener noreferrer">How to extract implicit assumptions</a></p><p class="youtube-embed-meta">Channel: Dr. Marc Champagne, philosopher &middot; Views: 31.7K &middot; Uploaded: January 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RUJX0FLdgGA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RUJX0FLdgGA">Open on YouTube</a></p></div></div></div>
 
@@ -471,7 +461,6 @@ Policy analysts often emphasise mapping these causal chains explicitly because c
 ## Hidden Assumptions That Frequently Produce Fallacies
 
 In policy debates, several recurring assumption patterns deserve special attention.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_policy_hidden_assump_0461c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Assuming incentives work exactly as intended
@@ -504,12 +493,11 @@ Public-policy research repeatedly documents cases where policies generate side e
 
 A pilot project often receives exceptional attention, funding, and oversight.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://lobehub.com/de/skills/curiositech-windags-skills-toulmin-argument-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lobehub.com">[The hidden assumption is:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lobehub.com</span><span class="citation-popover-title">curiositech windags skills toulmin argument analysis</span><span class="citation-popover-snippet">toulmin-argument-analysis &#124; Skills M...14 May 2026 — Warrants are almost always unstated. Your job is to surface the hidden assumption th...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The hidden assumption is: <span class="citation-chip-wrap"><a class="citation-chip" href="https://lobehub.com/de/skills/curiositech-windags-skills-toulmin-argument-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lobehub.com">[lobehub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lobehub.com</span><span class="citation-popover-title">curiositech windags skills toulmin argument analysis</span><span class="citation-popover-snippet">toulmin-argument-analysis &#124; Skills M...14 May 2026 — Warrants are almost always unstated. Your job is to surface the hidden assumption th...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 > “Results observed on a small scale will remain unchanged when expanded.”
 
 This assumption frequently fails because larger programmes face different administrative, political, and logistical constraints.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Di5IUBhETxQ" title="The Danger of Implicit Assumptions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Di5IUBhETxQ" target="_blank" rel="noopener noreferrer">The Danger of Implicit Assumptions</a></p><p class="youtube-embed-meta">Channel: Brady Heywood &middot; Views: 2.1K &middot; Uploaded: September 2025 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Di5IUBhETxQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Di5IUBhETxQ">Open on YouTube</a></p></div></div></div>
 

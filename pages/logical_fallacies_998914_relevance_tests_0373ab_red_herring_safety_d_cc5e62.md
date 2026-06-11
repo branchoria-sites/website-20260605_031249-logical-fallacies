@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /relevance/
 nav_short_title: Red Herrings
 title: When True Concerns Pull Arguments Off Track
-title_full: When True Concerns Pull Arguments Off Track | Relevance
+title_full: When True Concerns Pull Arguments Off Track
 display_title_short: Red Herrings
 display_title: Red Herrings
 heading_title: When True Concerns Pull Arguments Off Track
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:13:38'
-parent_title: Does This Reason Actually Matter? | Fallacy Lab
+parent_title: Does This Reason Actually Matter?
 parent_permalink: /relevance/
 parent_nav_short_title: Relevance
 parent_heading_title: Does This Reason Actually Matter?
@@ -276,14 +276,12 @@ image: /assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herrin
 
 In safety debates, a [red herring]({{ 'red-herring/' | relative_url }}) is especially persuasive because it often introduces a concern that is genuinely important. The problem is not that the new concern is false. The problem is that it answers a different question from the one actually under discussion. A debate about whether a technology is safe can suddenly become a debate about jobs. A discussion of a health risk can shift into a discussion of economic hardship. Both topics may deserve attention, yet neither necessarily resolves the original safety question. A red herring therefore fails the [relevance]({{ 'relevance/' | relative_url }}) test not because the side issue lacks value, but because it diverts attention from the claim that still requires evaluation. Purdue OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterRed herring. Definition: Partway through an argument, the arguer goes off on a tangent, r...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-1-dark.svg" | relative_url }}" alt="Red Herrings illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), red herrings matter because safety decisions often involve multiple legitimate concerns at once. When participants stop distinguishing between safety, cost, fairness, [politics]({{ 'politics/' | relative_url }}), convenience, and public acceptance, discussions can drift away from the specific issue that evidence is supposed to answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.eur.nl">[Eur LibGuides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.eur.nl</span><span class="citation-popover-snippet">Eur LibGuidesEvaluating information &amp; data: Argumentation26 Mar 2025 — Definition: Partway through an argument, the arguer goes off on a...</span></span></span>
 
 ## How Red Herrings Shift the Issue
 
 A red herring occurs when a speaker introduces information that redirects attention from the original question rather than addressing it. Argumentation guides consistently describe the pattern as a diversion from the issue under dispute, often through a tangent or side concern that appears relevant but does not actually support the conclusion being defended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterRed herring. Definition: Partway through an argument, the arguer goes off on a tangent, r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[purdue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLRed Herring: This is a diversionary tactic that avoids the key issues, often by avoiding opposing...</span></span></span> Safety debates are particularly vulnerable because they naturally involve overlapping questions:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -306,7 +304,6 @@ The mechanism works because audiences often assume that if a consideration is im
 
 One of the most useful ways to detect red herrings in safety discussions is to separate distinct decision layers.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lWDABXVMzHA" title="The Red Herring Fallacy: Don’t Get Distracted!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lWDABXVMzHA" target="_blank" rel="noopener noreferrer">The Red Herring Fallacy: Don’t Get Distracted!</a></p><p class="youtube-embed-meta">Channel: Ontology Explained: Philosophy and AI &middot; Views: 193 &middot; Uploaded: November 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lWDABXVMzHA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lWDABXVMzHA">Open on YouTube</a></p></div></div></div>
 
 ### Safety Assessment
@@ -327,14 +324,12 @@ Policy decisions often require balancing several values simultaneously. Governme
 
 The key distinction is that balancing concerns is not itself a red herring. The fallacy occurs when participants pretend that evidence about one dimension settles another dimension. A policymaker may legitimately say, “The activity carries risks, but the benefits justify accepting them.” That is a policy judgement. By contrast, saying “The benefits are large, therefore the activity is safe” improperly substitutes one question for another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Red_herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Red herring</span><span class="citation-popover-snippet">Red herring</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/red-herring-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">red herring fallacy</span><span class="citation-popover-snippet">What Is a Red Herring Fallacy? &#124; Definition &amp; Examples5 Apr 2023 — A red herring fallacy is an attempt to redirect a conversation...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-2-dark.svg" | relative_url }}" alt="Red Herrings illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why True Concerns Make the Fallacy Harder to Spot
 
 Many people expect fallacies to involve obvious mistakes or false statements. Red herrings are more subtle because the distracting point may be entirely correct.
 
 This creates a common pattern:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -350,7 +345,6 @@ For example, a discussion about accident rates might become a discussion about p
 None of these topics are necessarily irrelevant in a broader policy discussion. The fallacy arises only when they replace the original question instead of supplementing it. Logic guides repeatedly note that red herrings distract from “what's really at stake” rather than directly engaging the claim under examination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterRed herring. Definition: Partway through an argument, the arguer goes off on a tangent, r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.eur.nl/informationskillsevaluateinfo/Argumentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.eur.nl">[Eur]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.eur.nl</span><span class="citation-popover-snippet">Eur LibGuidesEvaluating information &amp; data: Argumentation26 Mar 2025 — Definition: Partway through an argument, the arguer goes off on a...</span></span></span>
 
 This is why a true statement can still be a poor argument. Truth and relevance are different standards. A statement may be factually accurate yet fail to provide support for the conclusion currently being debated. Scribbr <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/what-is-a-red-herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">what is a red herring</span><span class="citation-popover-snippet">logical fallacy? Definitions and...3 Feb 2023 — A red herring refers to irrelevant information used in an argument or conversation to di...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-3-dark.svg" | relative_url }}" alt="Red Herrings illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_red_herring_safety_d_cc5e62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Responses That Refocus Without Dismissing Concerns
@@ -369,7 +363,6 @@ A more precise response is:
 
 Similarly:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * “The economic effects matter. Before weighing them, what evidence do we have about the risk itself?”
@@ -380,13 +373,11 @@ Similarly:
 
 This approach preserves legitimate concerns while maintaining analytical discipline. It prevents the conversation from becoming a contest over whichever issue generates the strongest emotional reaction. Guidance on identifying red herrings commonly recommends bringing the discussion back to the original claim and questioning the relevance of the diversion rather than arguing about the diversion itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cli-kh.com/uploads/files/202505171614526357.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cli-kh.com">[cli-kh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cli-kh.com</span><span class="citation-popover-snippet">Fallacy of red herring examples17 May 2025 — When faced with a red herring, respond by bringing the conversation back to the main issue o...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterRed herring. Definition: Partway through an argument, the arguer goes off on a tangent, r...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Va6CI87t9rs" title="Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer">Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope</a></p><p class="youtube-embed-meta">Channel: One Minute Economics &middot; Views: 26.9K &middot; Uploaded: April 2019 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Va6CI87t9rs">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Relevance Test for Safety Debates
 
 When evaluating a safety argument, three questions can expose most red-herring distractions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

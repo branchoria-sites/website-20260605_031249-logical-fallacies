@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /no-true/
 nav_short_title: Persuasive Words
 title: When Definitions Carry Hidden Judgment
-title_full: When Definitions Carry Hidden Judgment | No True
+title_full: When Definitions Carry Hidden Judgment
 display_title_short: Persuasive Words
 display_title: Persuasive Words
 heading_title: When Definitions Carry Hidden Judgment
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:19:16'
-parent_title: Are Definitions Moving to Escape Evidence? | Fallacy Lab
+parent_title: Are Definitions Moving to Escape Evidence?
 parent_permalink: /no-true/
 parent_nav_short_title: No True
 parent_heading_title: Are Definitions Moving to Escape Evidence?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasiv
 
 Arguments do not always change people’s minds by presenting new facts. Sometimes they change the meaning of a valued word while keeping its positive emotional appeal intact. A speaker may redefine a term such as “freedom”, “democracy”, “science”, or “justice” so that it now favours a particular position, yet continue to rely on the respect and approval that the original word already carries. Philosophers call this a *persuasive definition*: a redefinition that alters a word’s descriptive [boundaries]({{ 'boundaries/' | relative_url }}) while preserving its favourable or unfavourable emotional force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/mind/article-abstract/XLVII/187/331/1032607" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-title">Academic IV.—PERSUASIVE DEFINITIONS &#124; Mind</span><span class="citation-popover-snippet">OUP AcademicIV.—PERSUASIVE DEFINITIONS &#124; Mind - Oxford Academicby CL STEVENSON · 1938 · Cited by 317 — CHARLES LESLIE STEVENSON; IV.—PERS...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-1-dark.svg" | relative_url }}" alt="Persuasive Words illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader family of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) involving moving definitions, persuasive definitions matter because they can make an argument appear settled before the real disagreement has even begun. Instead of debating whether a position is good, the speaker builds the desired judgment directly into the definition itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Persuasive_definition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Persuasive definition</span><span class="citation-popover-snippet">Persuasive definition</span></span></span>
 
@@ -285,6 +284,99 @@ Within the broader family of [logical fallacies]({{ 'logical-fallacies/' | relat
 The key mechanism is surprisingly simple. A word often has two components:
 
 1. A descriptive component: what kinds of things the word refers to.
+2. An evaluative or emotional component: whether the word sounds admirable, respectable, shameful, dangerous, and so on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
+
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Persuasive_definition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Persuasive definition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Persuasive definition</span></span></span> on changes the first component while preserving the second.
+
+Charles Stevenson, whose work introduced the modern discussion of persuasive definitions, argued that many important social and moral words carry strong emotional associations. A speaker can therefore redirect those associations by altering what the word applies to. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/stevenson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyCharles Leslie Stevenson - Stanford Encyclopedia of Philosophyby D Boisvert · 2011 · Cited by 7 — Pers...</span></span></span>
+
+Consider the structure:
+
+* Original meaning: “A cultured person is widely read and familiar with the arts.”
+* Redefined meaning: “A cultured person is someone with imaginative sensitivity.”
+
+The positive feeling attached to “cultured” remains. What changes is who qualifies for the label. The audience is encouraged to transfer existing approval from the old meaning to the new one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+
+This differs from an ordinary proposal to revise language. People can openly argue that a word should be used differently. The problem arises when the redefinition is presented as if it were already the obvious or accepted meaning, allowing the hidden value judgment to pass unnoticed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/ABEPD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Persuasive definition</span><span class="citation-popover-snippet">Andrew Aberdeinby A Aberdein · 1998 · Cited by 27 — Charles Stevenson introduced the term &#x27;persuasive definition&#x27; to describe a suspect f...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ldC_t4ULG2I" title="Fallacy: Persuasive Definition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ldC_t4ULG2I" target="_blank" rel="noopener noreferrer">Fallacy: Persuasive Definition</a></p><p class="youtube-embed-meta">Channel: Philosophy &middot; Views: 239 &middot; Uploaded: December 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ldC_t4ULG2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ldC_t4ULG2I">Open on YouTube</a></p></div></div></div>
+
+## Why the Technique Feels Persuasive
+
+Persuasive definitions work because many political and moral disputes involve words that already command loyalty. Few people want to oppose freedom, democracy, equality, science, or justice. If a speaker can redefine one of these terms to fit a preferred position, opposition becomes harder because critics appear to be opposing the value itself rather than questioning the definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Persuasive_definition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Persuasive definition</span><span class="citation-popover-snippet">Persuasive definition</span></span></span>
+
+The audience often hears two messages at once:
+
+* An explicit descriptive claim about what the word means.
+* An implicit evaluative claim that whatever fits the definition deserves approval.
+
+Because the emotional approval arrives bundled with the definition, the argument can bypass careful examination. Researchers in argumentation theory describe persuasive definitions as combining classification claims with value judgments, allowing a definitional change to influence how people evaluate a situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/594" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.uwindsor.ca">[University of Windsor Journal Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.uwindsor.ca</span><span class="citation-popover-snippet">University of Windsor Journal PublishingPersuasive Definitions: Values, Meanings and Implicit...by F Macagno · 2008 · Cited by 44 — Pers...</span></span></span>
+
+This is one reason persuasive definitions often appear near the boundary between rhetoric and fallacy. Not every persuasive definition is automatically illegitimate, but it becomes suspect when the definitional shift substitutes for evidence rather than supporting it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Deceptive Arguments Containing Persuasive Language</span><span class="citation-popover-snippet">Deceptive Arguments Containing Persuasive Language...June 1, 2005 — Using persuasive definitions and persuasive language gen...</span><span class="citation-popover-meta">Published: June 1, 2005</span></span></span>
+
+## Freedom, Democracy, and Science as Contested Labels
+
+Certain words are especially vulnerable because they are both emotionally powerful and conceptually contested. Philosophers and argumentation scholars frequently point to terms such as freedom, democracy, and science as examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+
+### Freedom
+
+A [debate]({{ 'debate/' | relative_url }}) about economic regulation may turn into a dispute about freedom. One side may define freedom primarily as freedom from government interference. Another may define it as having the practical resources needed to act meaningfully in society.
+
+Both sides retain the positive force of the word “freedom”. The disagreement concerns what conditions count as freedom in the first place. When one side quietly treats its preferred definition as the only legitimate one, the debate can become circular: the preferred policy is declared good because it promotes “freedom”, while freedom has already been defined to include the policy’s goals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+
+<img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-2-dark.svg" | relative_url }}" alt="Persuasive Words illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Democracy
+
+Political actors often compete over the label “democratic”. Instead of arguing directly about institutions, elections, participation, or rights, they may redefine democracy in a way that favours their preferred arrangements.
+
+The positive reputation of democracy remains constant. What changes is the set of systems allowed to qualify. Once the definition shifts, the debate risks becoming a contest over labels rather than evidence about how institutions actually function. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+
+### Science
+
+The word “science” carries authority, credibility, and intellectual prestige. Competing groups sometimes attempt to expand or narrow the category in ways that support their position.
+
+One argument may imply that only conclusions supporting a particular methodology count as “real science”. Another may redefine science so broadly that nearly any preferred claim can be included. In each case, the speaker benefits from the positive standing of science while simultaneously changing the criteria for membership. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+
+The pattern resembles [No True]({{ 'no-true/' | relative_url }}) Scotsman reasoning when inconvenient examples are excluded from the category after the fact. However, the focus here is not primarily on protecting a universal claim from counterexamples. It is on attaching approval or disapproval to a revised definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WX3kEZymh44" title="Types of Definitions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WX3kEZymh44" target="_blank" rel="noopener noreferrer">Types of Definitions</a></p><p class="youtube-embed-meta">Channel: Michael Gavin &middot; Views: 40.6K &middot; Uploaded: September 2016 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WX3kEZymh44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WX3kEZymh44">Open on YouTube</a></p></div></div></div>
+
+## When a Definition Becomes a Hidden Argument
+
+A useful warning sign is that the definition itself appears to settle a disputed issue.
+
+For example:
+
+* “A patriot is anyone who supports this policy.”
+* “A responsible citizen supports this reform.”
+* “True science rejects these conclusions.”
+* “Real democracy requires this institutional arrangement.”
+
+These statements appear to define terms, but they also contain substantive judgments. The audience is invited to accept the judgment by accepting the definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+
+In effect, the speaker compresses an argument into a label. Instead of defending the claim that a policy is patriotic, responsible, scientific, or democratic, the desired conclusion is inserted into the meaning of the word itself. This is why persuasive definitions are often discussed alongside the definist fallacy and other fallacies of definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
+
+<img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-3-dark.svg" | relative_url }}" alt="Persuasive Words illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How to Ask for the Definition Openly
+
+The most effective response is usually not to argue immediately about the conclusion. Instead, examine the definition.
+
+Helpful questions include:
+
+* What exactly does this word mean in this discussion?
+* Is this definition widely accepted, or is it being proposed?
+* What examples clearly fit the definition?
+* What examples are excluded, and why?
+* Does the definition already assume the conclusion under debate?
+* Would someone who shares the value but disagrees on policy use the word differently?
+
+These questions separate the emotional appeal of a term from the descriptive criteria being used. Once the definition is made explicit, the hidden value judgment becomes easier to evaluate on its own merits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/594" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.uwindsor.ca">[University of Windsor Journal Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.uwindsor.ca</span><span class="citation-popover-snippet">University of Windsor Journal PublishingPersuasive Definitions: Values, Meanings and Implicit...by F Macagno · 2008 · Cited by 44 — Pers...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PniicEqWhYQ" title="Texas sharpshooter fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PniicEqWhYQ" target="_blank" rel="noopener noreferrer">Texas sharpshooter fallacy</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 676 &middot; Uploaded: October 2015 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PniicEqWhYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PniicEqWhYQ">Open on YouTube</a></p></div></div></div>
+
+## The Core Insight
+
+Persuasive definitions succeed by borrowing the reputation of a respected word while quietly changing what the word covers. The audience hears the familiar approval attached to terms such as freedom, democracy, or science and may not notice that the boundaries of the concept have shifted. The result is a subtle form of argumentative leverage: a value judgment is smuggled into a definition and then presented as if it were merely a matter of language. Recognising that move helps keep debates focused on the underlying issues rather than on emotionally [charged labels]({{ 'charged-labels/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -372,121 +464,46 @@ The key mechanism is surprisingly simple. A word often has two components:
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Guiness World Records Incredible Kids Critical Thinking Cards NEW SEALED"><img src="https://i.ebayimg.com/images/g/uH8AAOSwBpteZU~Y/s-l225.jpg" alt="Listing image for Guiness World Records Incredible Kids Critical Thinking Cards NEW SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">Guiness World Records Incredible Kids Critical Thinking Cards NEW SEALED</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)"><img src="{{ '/assets/images/marketplace-covers/ef2c9afcd889d27b8161.jpg' | relative_url }}" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +511,15 @@ The key mechanism is surprisingly simple. A word often has two components:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5e8104b6978eec4a34d7.jpg' | relative_url }}" alt="Listing image for Logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manic street Preachers Critical Thinking With Signed Art Card"><img src="https://i.ebayimg.com/images/g/O9sAAeSwCgFnr3kR/s-l225.jpg" alt="Listing image for Manic street Preachers Critical Thinking With Signed Art Card" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logic quotes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">Manic street Preachers Critical Thinking With Signed Art Card</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +527,15 @@ The key mechanism is surprisingly simple. A word often has two components:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/98db252dab0a5458c4d2.jpg' | relative_url }}" alt="Listing image for logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10 Critical Thinking Card Games: Ea..., Richard, Elaine"><img src="https://i.ebayimg.com/images/g/AiEAAeSwZxlpPuiV/s-l225.jpg" alt="Listing image for 10 Critical Thinking Card Games: Ea..., Richard, Elaine" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">logic quotes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">10 Critical Thinking Card Games: Ea..., Richard, Elaine</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +543,15 @@ The key mechanism is surprisingly simple. A word often has two components:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a61f24c599c619f1f9b2.jpg' | relative_url }}" alt="Listing image for logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW Kitted Critical Thinking Tools Snares Deck 01 |58 Cards"><img src="https://i.ebayimg.com/images/g/pDUAAeSwg5tosGfC/s-l225.jpg" alt="Listing image for NEW Kitted Critical Thinking Tools Snares Deck 01 |58 Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">logic quotes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">NEW Kitted Critical Thinking Tools Snares Deck 01 |58 Cards</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for critical thinking cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: critical thinking cards</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +559,7 @@ The key mechanism is surprisingly simple. A word often has two components:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=persuasive-words-when-definitions-carry-hidden-judgment-logical-fallacies-logic-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=critical+thinking+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-definitions-carry-hidden-judgment-critical-thinking-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="critical thinking cards" data-ebay-reference="when-definitions-carry-hidden-judgment-critical-thinking-cards" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -619,17 +636,31 @@ The key mechanism is surprisingly simple. A word often has two components:
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -642,42 +673,73 @@ The key mechanism is surprisingly simple. A word often has two components:
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -692,115 +754,21 @@ The key mechanism is surprisingly simple. A word often has two components:
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>
 </section>
-
-2. An evaluative or emotional component: whether the word sounds admirable, respectable, shameful, dangerous, and so on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
-
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Persuasive_definition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Persuasive definition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Persuasive definition</span></span></span> on changes the first component while preserving the second.
-
-Charles Stevenson, whose work introduced the modern discussion of persuasive definitions, argued that many important social and moral words carry strong emotional associations. A speaker can therefore redirect those associations by altering what the word applies to. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/stevenson/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyCharles Leslie Stevenson - Stanford Encyclopedia of Philosophyby D Boisvert · 2011 · Cited by 7 — Pers...</span></span></span>
-
-Consider the structure:
-
-* Original meaning: “A cultured person is widely read and familiar with the arts.”
-* Redefined meaning: “A cultured person is someone with imaginative sensitivity.”
-
-The positive feeling attached to “cultured” remains. What changes is who qualifies for the label. The audience is encouraged to transfer existing approval from the old meaning to the new one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
-
-This differs from an ordinary proposal to revise language. People can openly argue that a word should be used differently. The problem arises when the redefinition is presented as if it were already the obvious or accepted meaning, allowing the hidden value judgment to pass unnoticed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/ABEPD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers Persuasive definition</span><span class="citation-popover-snippet">Andrew Aberdeinby A Aberdein · 1998 · Cited by 27 — Charles Stevenson introduced the term &#x27;persuasive definition&#x27; to describe a suspect f...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ldC_t4ULG2I" title="Fallacy: Persuasive Definition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ldC_t4ULG2I" target="_blank" rel="noopener noreferrer">Fallacy: Persuasive Definition</a></p><p class="youtube-embed-meta">Channel: Philosophy &middot; Views: 239 &middot; Uploaded: December 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ldC_t4ULG2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ldC_t4ULG2I">Open on YouTube</a></p></div></div></div>
-
-## Why the Technique Feels Persuasive
-
-Persuasive definitions work because many political and moral disputes involve words that already command loyalty. Few people want to oppose freedom, democracy, equality, science, or justice. If a speaker can redefine one of these terms to fit a preferred position, opposition becomes harder because critics appear to be opposing the value itself rather than questioning the definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Persuasive_definition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Persuasive definition</span><span class="citation-popover-snippet">Persuasive definition</span></span></span>
-
-The audience often hears two messages at once:
-
-* An explicit descriptive claim about what the word means.
-* An implicit evaluative claim that whatever fits the definition deserves approval.
-
-Because the emotional approval arrives bundled with the definition, the argument can bypass careful examination. Researchers in argumentation theory describe persuasive definitions as combining classification claims with value judgments, allowing a definitional change to influence how people evaluate a situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/594" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.uwindsor.ca">[University of Windsor Journal Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.uwindsor.ca</span><span class="citation-popover-snippet">University of Windsor Journal PublishingPersuasive Definitions: Values, Meanings and Implicit...by F Macagno · 2008 · Cited by 44 — Pers...</span></span></span>
-
-This is one reason persuasive definitions often appear near the boundary between rhetoric and fallacy. Not every persuasive definition is automatically illegitimate, but it becomes suspect when the definitional shift substitutes for evidence rather than supporting it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/225793431_Deceptive_Arguments_Containing_Persuasive_Language_and_Persuasive_Definitions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Deceptive Arguments Containing Persuasive Language</span><span class="citation-popover-snippet">Deceptive Arguments Containing Persuasive Language...June 1, 2005 — Using persuasive definitions and persuasive language gen...</span><span class="citation-popover-meta">Published: June 1, 2005</span></span></span>
-
-## Freedom, Democracy, and Science as Contested Labels
-
-Certain words are especially vulnerable because they are both emotionally powerful and conceptually contested. Philosophers and argumentation scholars frequently point to terms such as freedom, democracy, and science as examples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
-
-### Freedom
-
-A [debate]({{ 'debate/' | relative_url }}) about economic regulation may turn into a dispute about freedom. One side may define freedom primarily as freedom from government interference. Another may define it as having the practical resources needed to act meaningfully in society.
-
-Both sides retain the positive force of the word “freedom”. The disagreement concerns what conditions count as freedom in the first place. When one side quietly treats its preferred definition as the only legitimate one, the debate can become circular: the preferred policy is declared good because it promotes “freedom”, while freedom has already been defined to include the policy’s goals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-2-dark.svg" | relative_url }}" alt="Persuasive Words illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Democracy
-
-Political actors often compete over the label “democratic”. Instead of arguing directly about institutions, elections, participation, or rights, they may redefine democracy in a way that favours their preferred arrangements.
-
-The positive reputation of democracy remains constant. What changes is the set of systems allowed to qualify. Once the definition shifts, the debate risks becoming a contest over labels rather than evidence about how institutions actually function. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
-
-### Science
-
-The word “science” carries authority, credibility, and intellectual prestige. Competing groups sometimes attempt to expand or narrow the category in ways that support their position.
-
-One argument may imply that only conclusions supporting a particular methodology count as “real science”. Another may redefine science so broadly that nearly any preferred claim can be included. In each case, the speaker benefits from the positive standing of science while simultaneously changing the criteria for membership. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
-
-The pattern resembles [No True]({{ 'no-true/' | relative_url }}) Scotsman reasoning when inconvenient examples are excluded from the category after the fact. However, the focus here is not primarily on protecting a universal claim from counterexamples. It is on attaching approval or disapproval to a revised definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WX3kEZymh44" title="Types of Definitions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WX3kEZymh44" target="_blank" rel="noopener noreferrer">Types of Definitions</a></p><p class="youtube-embed-meta">Channel: Michael Gavin &middot; Views: 40.6K &middot; Uploaded: September 2016 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WX3kEZymh44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WX3kEZymh44">Open on YouTube</a></p></div></div></div>
-
-## When a Definition Becomes a Hidden Argument
-
-A useful warning sign is that the definition itself appears to settle a disputed issue.
-
-For example:
-
-* “A patriot is anyone who supports this policy.”
-* “A responsible citizen supports this reform.”
-* “True science rejects these conclusions.”
-* “Real democracy requires this institutional arrangement.”
-
-These statements appear to define terms, but they also contain substantive judgments. The audience is invited to accept the judgment by accepting the definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
-
-In effect, the speaker compresses an argument into a label. Instead of defending the claim that a policy is patriotic, responsible, scientific, or democratic, the desired conclusion is inserted into the meaning of the word itself. This is why persuasive definitions are often discussed alongside the definist fallacy and other fallacies of definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-3-dark.svg" | relative_url }}" alt="Persuasive Words illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_persuasive_definitio_824c3b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How to Ask for the Definition Openly
-
-The most effective response is usually not to argue immediately about the conclusion. Instead, examine the definition.
-
-Helpful questions include:
-
-* What exactly does this word mean in this discussion?
-* Is this definition widely accepted, or is it being proposed?
-* What examples clearly fit the definition?
-* What examples are excluded, and why?
-* Does the definition already assume the conclusion under debate?
-* Would someone who shares the value but disagrees on policy use the word differently?
-
-These questions separate the emotional appeal of a term from the descriptive criteria being used. Once the definition is made explicit, the hidden value judgment becomes easier to evaluate on its own merits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ojs.uwindsor.ca/index.php/informal_logic/article/view/594" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ojs.uwindsor.ca">[University of Windsor Journal Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ojs.uwindsor.ca</span><span class="citation-popover-snippet">University of Windsor Journal PublishingPersuasive Definitions: Values, Meanings and Implicit...by F Macagno · 2008 · Cited by 44 — Pers...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PniicEqWhYQ" title="Texas sharpshooter fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PniicEqWhYQ" target="_blank" rel="noopener noreferrer">Texas sharpshooter fallacy</a></p><p class="youtube-embed-meta">Channel: Audiopedia &middot; Views: 676 &middot; Uploaded: October 2015 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PniicEqWhYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PniicEqWhYQ">Open on YouTube</a></p></div></div></div>
-
-## The Core Insight
-
-Persuasive definitions succeed by borrowing the reputation of a respected word while quietly changing what the word covers. The audience hears the familiar approval attached to terms such as freedom, democracy, or science and may not notice that the boundaries of the concept have shifted. The result is a subtle form of argumentative leverage: a value judgment is smuggled into a definition and then presented as if it were merely a matter of language. Recognising that move helps keep debates focused on the underlying issues rather than on emotionally [charged labels]({{ 'charged-labels/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_Stevenson_%28philosopher%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles Stevenson (philosopher</span><span class="citation-popover-snippet">Charles Stevenson (philosopher)Charles Leslie Stevenson (June 27, 1908 – March 14, 1979) was an American analytic philosopher best kno...</span><span class="citation-popover-meta">Published: June 27, 1908</span></span></span>
 
 ## Endnotes
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /deadlines/
 nav_short_title: Fairness Risk
 title: When Does One Extension Become Unfair?
-title_full: When Does One Extension Become Unfair? | Deadlines
+title_full: When Does One Extension Become Unfair?
 display_title_short: Fairness Risk
 display_title: Fairness Risk
 heading_title: When Does One Extension Become Unfair?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:58:14'
-parent_title: Will One Extension Ruin the Rules? | Fallacy Lab
+parent_title: Will One Extension Ruin the Rules?
 parent_permalink: /deadlines/
 parent_nav_short_title: Deadlines
 parent_heading_title: Will One Extension Ruin the Rules?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_exten
 
 A request for a deadline extension does not become unfair simply because it is granted. In debates about [slippery slope]({{ 'slippery-slope/' | relative_url }}) arguments, people often assume that any exception will undermine equal treatment. That claim is frequently fallacious because it skips over the crucial question: what mechanism would actually make the system unfair? A genuine fairness problem arises not from flexibility itself, but from the way flexibility is exercised. When similar cases receive different treatment because decisions are hidden, inconsistent, biased, or based on vague standards, an extension can create real inequality rather than merely imagined risk. The key distinction is between controlled discretion and arbitrary discretion. Institutions can accommodate legitimate needs while preserving fairness, but only if they apply transparent and consistent criteria. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alrc.gov.au/publication/traditional-rights-and-freedoms-encroachments-by-commonwealth-laws-alrc-report-129/14-procedural-fairness-2/procedural-fairness-the-duty-and-its-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alrc.gov.au">[alrc.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alrc.gov.au</span><span class="citation-popover-snippet">Procedural fairness: the duty and its content12 Jan 2016 — &#x27;Procedural fairness&#x27; means acting fairly in administrative decision making...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-1-dark.svg" | relative_url }}" alt="Fairness Risk illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Does One Extension Become Unfair?
 
@@ -303,7 +302,6 @@ A common problem arises when extension requests depend heavily on personal relat
 
 In such situations, fairness is threatened because access to flexibility depends on social position rather than relevant circumstances. Transparency research consistently identifies visibility of procedures and access to decision-makers as important [safeguards]({{ 'safeguards/' | relative_url }}) against unequal outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuSlhlTl93g" title="Fairness in Practice: Aspects of Procedural Fairness Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuSlhlTl93g" target="_blank" rel="noopener noreferrer">Fairness in Practice: Aspects of Procedural Fairness Webinar</a></p><p class="youtube-embed-meta">Channel: BC Ombudsperson&#x27;s Office &middot; Views: 3.5K &middot; Uploaded: December 2017 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuSlhlTl93g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuSlhlTl93g">Open on YouTube</a></p></div></div></div>
 
 ### Vague Standards
@@ -317,7 +315,6 @@ One administrator might regard caring responsibilities as sufficient justificati
 Fairness problems multiply when extension decisions are not recorded or explained.
 
 If applicants cannot see how decisions are made, they cannot determine whether the process is being applied consistently. Hidden exceptions also make it difficult for organisations to detect patterns of favouritism, bias, or unequal treatment. Transparency contributes to consistency and predictability precisely because it allows decisions to be compared against established standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-2-dark.svg" | relative_url }}" alt="Fairness Risk illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Warning Signs in Discretionary Decisions
@@ -336,7 +333,6 @@ A single extension request may signal a broader fairness problem when several wa
 
 These warning signs identify concrete [mechanisms]({{ 'mechanisms/' | relative_url }}) by which an extension system can become unfair. They are stronger arguments than abstract predictions that “the deadline will soon mean nothing.”
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nvm7Ur7yumY" title="Fairness by Design Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nvm7Ur7yumY" target="_blank" rel="noopener noreferrer">Fairness by Design Webinar</a></p><p class="youtube-embed-meta">Channel: BC Ombudsperson&#x27;s Office &middot; Views: 418 &middot; Uploaded: March 2023 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nvm7Ur7yumY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nvm7Ur7yumY">Open on YouTube</a></p></div></div></div>
 
 ## Why Equality Sometimes Requires Extensions
@@ -347,7 +343,6 @@ For example, disability accommodations often include extensions, additional cons
 
 This is why fairness debates should focus on relevant differences rather than identical treatment. If two cases differ in ways that matter to the purpose of the rule, different outcomes may be justified. What threatens fairness is not recognising relevant differences but applying them inconsistently.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ar39s8NQXUM" title="Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer">Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 5.9K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ar39s8NQXUM">Open on YouTube</a></p></div></div></div>
 
 ## How Consistent Criteria Protect Both Sides
@@ -355,7 +350,6 @@ This is why fairness debates should focus on relevant differences rather than id
 The best protection against both unfairness and slippery-slope fears is a system of clear criteria.
 
 Effective systems typically answer several questions in advance:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -371,7 +365,6 @@ Effective systems typically answer several questions in advance:
 When these questions are answered publicly, decision-makers retain flexibility while reducing arbitrariness. Consistent criteria also protect those who oppose an extension. They can be confident that the decision was made according to known rules rather than favouritism.
 
 Research and policy guidance across administrative and educational settings repeatedly link fairness to transparency, predictability, consistency, and documented procedures. These safeguards make it possible to grant justified extensions without undermining confidence in the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2012/11/procedural-fairness-and-transparency-key-findings_ee42a955/17f27597-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Procedural Fairness and Transparency: Key Findings (EN)Consistency, predictability, and fairness in decision-making processes, can be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lshtm.ac.uk/sites/default/files/academic-manual-chapter-07.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lshtm.ac.uk">[LSHTM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lshtm.ac.uk</span><span class="citation-popover-title">ademic manual chapter 07</span><span class="citation-popover-snippet">ademic Manual 2025-26 - Chapter 7This procedure is intended to be fair, consistent and transparent, whilst forming part of a fram...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-3-dark.svg" | relative_url }}" alt="Fairness Risk illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_extension_fairness_r_2d3414-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Fairness Test

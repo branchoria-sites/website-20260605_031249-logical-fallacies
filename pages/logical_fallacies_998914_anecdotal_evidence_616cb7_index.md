@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-anecdotal/
 description: Focused pages that expand on Anecdotes.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_anecdotal_evidence_616cb7
-parent_title: Anecdotes | Logical Fallacies
+parent_title: Anecdotes
 parent_nav_short_title: Anecdotes
 parent_permalink: /anecdotes/
 ---

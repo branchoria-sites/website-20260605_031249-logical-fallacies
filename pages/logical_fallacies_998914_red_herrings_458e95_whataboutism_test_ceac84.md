@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /red-herring/
 nav_short_title: Whataboutism
 title: When Whataboutism Becomes a Dodge
-title_full: When Whataboutism Becomes a Dodge | Red Herring
+title_full: When Whataboutism Becomes a Dodge
 display_title_short: Whataboutism
 display_title: Whataboutism
 heading_title: When Whataboutism Becomes a Dodge
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 16:04:16'
-parent_title: Is This Point Actually Relevant? | Fallacy Lab
+parent_title: Is This Point Actually Relevant?
 parent_permalink: /red-herring/
 parent_nav_short_title: Red Herring
 parent_heading_title: Is This Point Actually Relevant?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_
 
 Whataboutism is often described as answering criticism with “But what about them?”. As a test for spotting red herrings, the key question is not whether the comparison is true, but whether it helps answer the issue under discussion. When a speaker responds to a charge by pointing to someone else’s wrongdoing, hypocrisy, or inconsistency, the move may expose a genuine double standard. Yet if it leaves the original criticism unanswered, it functions as a diversion rather than a defence. Encyclopaedia Britannica defines whataboutism as responding to an accusation or difficult question with a counteraccusation or different issue, while discussions of [relevance]({{ 'relevance/' | relative_url }}) fallacies treat it as a common way of shifting attention away from the claim that needs to be addressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia Britannica &#124; BritannicaExplore the fact-checked online encyclopedia from Encyclopaedia Britannica with hundreds of thousands...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1-dark.svg" | relative_url }}" alt="Whataboutism illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader family of red herrings, whataboutism is especially persuasive because it often relies on facts that are partly or entirely correct. The challenge is therefore not to decide whether the new accusation is true, but to determine whether it is relevant.
 
@@ -279,7 +278,6 @@ Within the broader family of red herrings, whataboutism is especially persuasive
 Not every “what about X?” response is fallacious. Comparisons are a normal part of reasoning. The problem arises when comparison replaces evaluation.
 
 Consider these two responses:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -298,7 +296,6 @@ Now consider:
 Here the comparison directly addresses the claim of uniqueness. It is relevant rather than evasive.
 
 The red-herring test is therefore simple: if the comparison helps evaluate the original claim, it may be legitimate. If it merely redirects attention, it is functioning as whataboutism. Philosophical discussions of relevance fallacies and analyses of whataboutery both emphasise that the crucial issue is whether the new point contributes to resolving the original dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BWiMwVqq4rM" title="Whataboutism in Russian diplomacy | Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BWiMwVqq4rM" target="_blank" rel="noopener noreferrer">Whataboutism in Russian diplomacy | Explained</a></p><p class="youtube-embed-meta">Channel: TV Rain Newsroom &middot; Views: 17.8K &middot; Uploaded: September 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BWiMwVqq4rM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BWiMwVqq4rM">Open on YouTube</a></p></div></div></div>
 
@@ -324,7 +321,6 @@ The second statement may raise a legitimate concern about enforcement, but it do
 
 This is why whataboutism frequently overlaps with the *[tu quoque]({{ 'tu-quoque/' | relative_url }})* (“you too”) fallacy. The appeal to hypocrisy attempts to weaken criticism by highlighting inconsistency in the critic rather than addressing the substance of the criticism itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tu_quoque" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tu quoque</span><span class="citation-popover-snippet">Tu quoqueTu quoque, literally &quot;you, too&quot;, is a rhetorical technique that intends to discredit the opponent&#x27;s argument by attacking th...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-2-dark.svg" | relative_url }}" alt="Whataboutism illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Relevance Test
 
@@ -347,7 +343,6 @@ A discussion about one action should not automatically become a discussion about
 Evidence helps evaluate the original claim. Distraction changes the subject.
 
 This test explains why many examples feel persuasive despite being logically weak. People naturally care about fairness and consistency. A speaker can exploit that concern to redirect attention from accountability to comparison.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3a2TIcmIfc8" title="What Is Whataboutism and Is There a Double Standard on How It’s Applied?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3a2TIcmIfc8" target="_blank" rel="noopener noreferrer">What Is Whataboutism and Is There a Double Standard on How It’s Applied?</a></p><p class="youtube-embed-meta">Channel: TRT World &middot; Views: 16.3K &middot; Uploaded: June 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3a2TIcmIfc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3a2TIcmIfc8">Open on YouTube</a></p></div></div></div>
 
@@ -376,7 +371,6 @@ The response may identify a broader problem, but it can also dilute scrutiny of 
 
 Researchers studying online discourse note that whataboutism often operates as a form of narrative disruption. Instead of directly contesting a claim, it redirects attention toward another grievance, controversy, or accusation. This makes detection difficult because the new topic is frequently related enough to seem relevant at first glance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.09934" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Paying Attention to Deflections: Mining Pragmatic Nuances for Whataboutism Detection in Online DiscourseFebruary 15, 2024...</span><span class="citation-popover-meta">Published: February 15, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-3-dark.svg" | relative_url }}" alt="Whataboutism illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_whataboutism_test_ceac84-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Whataboutism Is Not a Fallacy
 
@@ -392,7 +386,6 @@ A comparison is not automatically fallacious merely because it broadens the disc
 For example, if someone argues that a particular punishment is justified because a certain act is exceptionally harmful, evidence that similar acts receive different treatment may be directly relevant.
 
 The decisive question remains relevance. If the comparison helps assess the truth, fairness, or scope of the original claim, it contributes to the argument. If it merely redirects attention, it becomes a red herring. This distinction is central to philosophical discussions of whataboutery and relevance-based fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/OCOWIA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eoin O&#x27;Connell, Whatabouteryby E O’Connell · 2020 · Cited by 16 — If we ought to condemn and do something about A then we shoul...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bG5IzHQ0SMM" title="Whataboutism explained (explainity® explainer video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bG5IzHQ0SMM" target="_blank" rel="noopener noreferrer">Whataboutism explained (explainity® explainer video)</a></p><p class="youtube-embed-meta">Channel: explainitychannel &middot; Views: 16.5K &middot; Uploaded: November 2022 &middot; Length: 2 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bG5IzHQ0SMM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bG5IzHQ0SMM">Open on YouTube</a></p></div></div></div>
 

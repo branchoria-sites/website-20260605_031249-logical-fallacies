@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Circularity
 title: Is the Argument Proving Itself?
-title_full: Is the Argument Proving Itself? | Fallacy Lab
+title_full: Is the Argument Proving Itself?
 display_title_short: Circularity
 display_title: Circularity
 heading_title: Is the Argument Proving Itself?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-overvie
 
 Circular reasoning and unsupported conclusions are central [mechanisms]({{ 'mechanisms/' | relative_url }}) of a common informal logical fallacy in which an argument fails to provide [independent support]({{ 'support-test/' | relative_url }}) for its claim. At its core, this type of reasoning uses the conclusion itself — or something virtually equivalent — as its own justification. The result is an argument that *seems* to work because it loops back on itself, but on closer inspection no new evidence or reasoning enters the chain. This fallacy is especially misleading because it can *feel* persuasive even while being uninformative: the conclusion appears to follow from the premises only because the premises already assume what they set out to prove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-overview.webp" | relative_url }}" alt="Overview image for Circularity" loading="eager" decoding="sync" fetchpriority="high">
 ## Begging the Question: When the Argument Presumes Its Conclusion
 
@@ -517,15 +516,12 @@ In this example, the premise doesn’t offer independent evidence for God’s ex
 
 More subtle instances disguise the circularity behind rephrasing, loaded language, or unstated assumptions. For example, saying “Opium puts people to sleep because it contains soporific properties” is circular because *soporific* literally means “sleep-inducing,” so the reason and the conclusion are effectively the same claim in different words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.logicalfallacies.org/begging-the-question.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicalfallacies.org">[logicalfallacies.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicalfallacies.org</span><span class="citation-popover-title">Begging The Question</span><span class="citation-popover-snippet">Definition &amp; Examples &#124; LF...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-1-dark.svg" | relative_url }}" alt="Circularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hidden Circular Premises: Where the Loop Hides
 
 One challenge with circular reasoning is that the circularity is not always explicit. In simple cases, it’s obvious when the conclusion is restated in the premises, but more complex chains of reasoning can hide the loop step by step. A chain of assertions like:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hH8VttNKiO8" title="Simpsons Logical Fallacies: Circular Reasoning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hH8VttNKiO8" target="_blank" rel="noopener noreferrer">Simpsons Logical Fallacies: Circular Reasoning</a></p><p class="youtube-embed-meta">Channel: Colburn Classroom &middot; Views: 191.4K &middot; Uploaded: November 2019 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hH8VttNKiO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hH8VttNKiO8">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -538,7 +534,6 @@ One challenge with circular reasoning is that the circularity is not always expl
 creates a closed loop, but each individual step *seems* to offer support — except that the chain never connects back to any independent evidence. This type of circularity is often concealed by additional [context]({{ 'context/' | relative_url }}) or persuasive wording, making it harder to detect without diagramming the argument or scrutinising its structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-title">Fallacy Files Logical Fallacy: Begging the Question</span><span class="citation-popover-snippet">Fallacy Files Logical Fallacy: Begging the Question</span></span></span>
 
 Philosophical treatments of circular arguments discuss how this looping can be disguised when premises and conclusions are restated in synonymous ways or when intermediate steps mask the underlying dependency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/begquest.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[Fallacy Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-title">Fallacy Files Logical Fallacy: Begging the Question</span><span class="citation-popover-snippet">Fallacy Files Logical Fallacy: Begging the Question</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N6U56pMc4_s" title="Critical Thinking #16: Begging the Question" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N6U56pMc4_s" target="_blank" rel="noopener noreferrer">Critical Thinking #16: Begging the Question</a></p><p class="youtube-embed-meta">Channel: David Pakman Show &middot; Views: 13.1K &middot; Uploaded: March 2018 &middot; Length: 4 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N6U56pMc4_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N6U56pMc4_s">Open on YouTube</a></p></div></div></div>
 
@@ -554,7 +549,6 @@ presents a loop: reliability is supported by accuracy and accuracy by reliabilit
 
 This lack of independent evidence is what distinguishes mere repetition from genuine support. It is why circular reasoning is treated as a fallacy in [informal logic]({{ 'informal-logic/' | relative_url }}): it fails to advance understanding or justify belief beyond what the audience already assumes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-2-dark.svg" | relative_url }}" alt="Circularity illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Circular Arguments Are Unconvincing
 
@@ -562,12 +556,10 @@ Despite often being *valid* in the strict formal sense — if the premises are t
 
 This is why writers and debaters are encouraged to ask whether premises would still be persuasive to someone who doubts the conclusion. If not, the argument may be merely circular rather than genuinely supportive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rebutly.com/fallacies/circular-reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rebutly.com">[Rebutly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rebutly.com</span><span class="citation-popover-title">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly</span><span class="citation-popover-snippet">Circular Reasoning Fallacy — Definition, Examples &amp; How to Counter &#124; Rebutly...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-3-dark.svg" | relative_url }}" alt="Circularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Detection and Avoidance
 
 Recognising circular reasoning often involves:(#endnote-1 "Endnote 1") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -581,9 +573,7 @@ Being alert to these patterns helps distinguish between arguments that *justify*
 
 Circular reasoning and unsupported conclusions remind us that good argumentation requires premises that stand on their own, not just mirrors of what we’re trying to prove. Without such independent support, an argument may seem persuasive but ultimately fails to do the work of genuine reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OAXKc-rvMa8" title="Are you Begging the Question? - Gentleman Thinker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OAXKc-rvMa8" target="_blank" rel="noopener noreferrer">Are you Begging the Question? - Gentleman Thinker</a></p><p class="youtube-embed-meta">Channel: Philosophy Tube &middot; Views: 152.3K &middot; Uploaded: August 2014 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OAXKc-rvMa8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OAXKc-rvMa8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

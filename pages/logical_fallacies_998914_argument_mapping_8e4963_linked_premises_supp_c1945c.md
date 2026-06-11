@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /argument-map/
 nav_short_title: Linked Premises
 title: Are These Reasons Independent or One Linked Argument?
-title_full: Are These Reasons Independent or One Linked Argument? | Argument Map
+title_full: Are These Reasons Independent or One Linked Argument?
 display_title_short: Linked Premises
 display_title: Linked Premises
 heading_title: Are These Reasons Independent or One Linked Argument?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:10:27'
-parent_title: Can You Map the Reasoning? | Fallacy Lab
+parent_title: Can You Map the Reasoning?
 parent_permalink: /argument-map/
 parent_nav_short_title: Argument Map
 parent_heading_title: Can You Map the Reasoning?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_pr
 
 One of the most common mistakes in analysing arguments is treating every stated reason as if it independently supports the conclusion. In reality, many arguments depend on **linked premises**—claims that only provide support when they are combined. If those premises are separated and counted as independent reasons, the argument can appear much stronger than it really is. Argument mapping helps reveal this problem by showing whether reasons stand alone or function as a single package. Researchers and argument-mapping guides commonly describe these connected claims as *co-premises* or *dependent premises*: neither premise does enough work on its own, but together they create the inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_map" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument map</span><span class="citation-popover-snippet">Argument map</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1-dark.svg" | relative_url }}" alt="Linked Premises illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding linked premises matters because many apparent examples of strong evidence are actually cases of **false support patterns**. The support seems substantial only because one argument has been mistakenly counted as several.
 
@@ -285,7 +284,6 @@ Understanding linked premises matters because many apparent examples of strong e
 A useful test is to ask whether each premise would still provide meaningful support if the others disappeared.
 
 Consider:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -298,7 +296,6 @@ Consider:
 Neither premise independently establishes the conclusion. Knowing only that surgeons complete training does not tell us anything about Dr Smith. Knowing only that Dr Smith is a surgeon does not establish the training requirement. The support arises from the combination. This is a linked argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jan.ucc.nau.edu/~ghr/phi332/class/mod_2/top_4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jan.ucc.nau.edu">[2jan.ucc.nau.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jan.ucc.nau.edu</span><span class="citation-popover-snippet">4: Independent and Linked PremisesIn contrast to independent premises, linked premises work together to reach a conclusion. Consider the...</span></span></span>
 
 Now compare:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -316,7 +313,6 @@ Each reason retains some force even if the others are removed. The argument cont
 Linked premises usually display one of three patterns.
 
 **A general rule plus a specific case**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -338,7 +334,6 @@ People often state the evidence but leave the connecting assumption unstated. Th
 
 **Multiple incomplete facts that become persuasive only together**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The suspect's fingerprints were on the safe.
@@ -351,7 +346,6 @@ Either fact alone is weak. Together they create a stronger inference.
 
 In maps, these claims are usually joined before connecting to the conclusion, signalling that they operate as a single reason rather than separate reasons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://quizlet.com/ca/779286448/week-6-argument-mapping-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Quizlet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-title">Week 6</span><span class="citation-popover-snippet">Argument Mapping FlashcardsIn argument maps, we depict co-premises by linking the arrows joining them to the conclusion using a &quot;Y&quot; shape...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b7QMD8J1BEE" title="Step 3.2: Independent Premises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b7QMD8J1BEE" target="_blank" rel="noopener noreferrer">Step 3.2: Independent Premises</a></p><p class="youtube-embed-meta">Channel: Elon Argumentation &middot; Views: 14.2K &middot; Uploaded: October 2012 &middot; Length: 1 minute 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b7QMD8J1BEE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b7QMD8J1BEE">Open on YouTube</a></p></div></div></div>
 
 ## Common Mapping Mistakes
@@ -361,7 +355,6 @@ In maps, these claims are usually joined before connecting to the conclusion, si
 A frequent error is to draw separate arrows from each linked premise to the conclusion. This accidentally transforms one argument into multiple arguments.
 
 Suppose someone argues:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -375,13 +368,12 @@ If each premise is mapped independently, the diagram falsely suggests two separa
 
 This mistake inflates the apparent strength of the case because readers unconsciously count each arrow as additional evidence.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-2-dark.svg" | relative_url }}" alt="Linked Premises illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Missing a hidden co-premise
 
 Another error occurs when a crucial linking assumption remains invisible.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
+For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[ecampusontario.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
 
 * Crime fell after the mayor took office.
 * Therefore, the mayor's policies reduced crime.
@@ -391,7 +383,6 @@ The hidden premise is that the policies, rather than other factors, caused the d
 ### Treating repetition as additional support
 
 Arguments sometimes restate essentially the same idea in different words:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -403,7 +394,6 @@ Arguments sometimes restate essentially the same idea in different words:
 
 If "experts" and "specialists" refer to the same group, the argument does not contain two independent reasons. It contains one reason repeated twice. Mapping helps expose this kind of duplication.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKplZwqFwVk" title="The U.S. National Blueprint for Transportation Decarbonization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer">The U.S. National Blueprint for Transportation Decarbonization</a></p><p class="youtube-embed-meta">Channel: U.S. Department of Energy &middot; Views: 2.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKplZwqFwVk">Open on YouTube</a></p></div></div></div>
 
 ## False Support Patterns and Why They Matter
@@ -414,7 +404,7 @@ One version is **support multiplication**. A linked set of premises is incorrect
 
 Another version is **evidential stacking**. Several statements appear to provide cumulative support, but they all depend on the same underlying assumption. When that assumption fails, the entire structure weakens at once.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
+For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[ecampusontario.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
 
 * The company's profits rose.
 * Its share price increased.
@@ -423,7 +413,6 @@ Another version is **evidential stacking**. Several statements appear to provide
 These may look like three independent reasons to believe the firm is healthy. Yet all three could depend on the same underlying factor, such as a temporary market trend. The apparent diversity of support may be misleading.
 
 Argument mapping is valuable because it forces analysts to identify where support originates rather than simply counting reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://critical-thinking.com.au/thoughts/what-is-argument-mapping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critical-thinking.com.au">[critical-thinking.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critical-thinking.com.au</span><span class="citation-popover-title">what is argument mapping</span><span class="citation-popover-snippet">It&#x27;s a way to show which claims justify what and how.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-3-dark.svg" | relative_url }}" alt="Linked Premises illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_linked_premises_supp_c1945c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Testing Combined Support
@@ -440,7 +429,6 @@ Ask:
 
 If the inference collapses, the premises are probably linked. If meaningful support remains, they are probably independent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://philosophy.hku.hk/think/arg/complex.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.hku.hk">[philosophy.hku.hk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.hku.hk</span><span class="citation-popover-snippet">A10] Argument mappingThis merging of the links indicate that the two premises are co-premises which work together in a single argument t...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kGgLlip_lvc" title="Argument Mapping: Understanding and Making Arguments w/ Nate Otey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer">Argument Mapping: Understanding and Making Arguments w/ Nate Otey</a></p><p class="youtube-embed-meta">Channel: The Stoa &middot; Views: 3.5K &middot; Uploaded: April 2022 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kGgLlip_lvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kGgLlip_lvc">Open on YouTube</a></p></div></div></div>
 
 ### Look for a missing bridge
@@ -453,7 +441,7 @@ Many apparently simple arguments rely on hidden assumptions. Identifying that hi
 
 Independent reasons usually provide different routes to the conclusion. Linked premises often answer different parts of the same route.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
+For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/introduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[ecampusontario.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">For example, 1A-a is a premise, which is itself supported by a reason...</span></span></span>
 
 * "She was at the meeting."
 * "The meeting approved the proposal."

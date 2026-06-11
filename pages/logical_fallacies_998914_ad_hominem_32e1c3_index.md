@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-ad-hominem/
 description: Focused pages that expand on Ad Hominem.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_ad_hominem_32e1c3
-parent_title: Ad Hominem | Logical Fallacies
+parent_title: Ad Hominem
 parent_nav_short_title: Ad Hominem
 parent_permalink: /ad-hominem/
 ---

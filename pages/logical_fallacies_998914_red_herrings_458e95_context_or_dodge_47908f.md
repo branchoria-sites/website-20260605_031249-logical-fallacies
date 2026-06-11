@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /red-herring/
 nav_short_title: Context Test
 title: Is It Context or a Dodge?
-title_full: Is It Context or a Dodge? | Red Herring
+title_full: Is It Context or a Dodge?
 display_title_short: Context Test
 display_title: Context Test
 heading_title: Is It Context or a Dodge?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 16:04:02'
-parent_title: Is This Point Actually Relevant? | Fallacy Lab
+parent_title: Is This Point Actually Relevant?
 parent_permalink: /red-herring/
 parent_nav_short_title: Red Herring
 parent_heading_title: Is This Point Actually Relevant?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_do
 
 In arguments about public policy, science, workplace decisions, or everyday disagreements, background information is often necessary. The challenge is that not all background information serves the same purpose. Useful context helps answer the question being discussed. A [red herring]({{ 'red-herring/' | relative_url }}) shifts attention to a different question, often one that is easier, safer, or more emotionally appealing to discuss. The key test is not whether the new information is true or interesting, but whether it changes the answer to the original issue. Philosophers of argumentation classify red herrings as fallacies of [relevance]({{ 'relevance/' | relative_url }}) because they divert discussion away from the point at issue rather than resolving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALCOF-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALCOF 5</span><span class="citation-popover-snippet">Douglas Walton, Classification of Fallacies of Relevanceby D Walton · 2003 · Cited by 31 — A key difference cited is that in a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesArguing for a conclusion that is not relevant to the current issue. Also called Irrelevant Co...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1-dark.svg" | relative_url }}" alt="Context Test illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because many persuasive diversions are built from genuine facts. A speaker may introduce accurate history, personal circumstances, broader social concerns, or related examples. The question is whether those facts help evaluate the claim under discussion or merely redirect attention elsewhere.
 
@@ -295,7 +294,6 @@ Many diversions succeed because participants stop tracking what was originally b
 
 Before evaluating new information, state the unresolved question in one sentence. For example:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * “Did the evidence support the conclusion?”
@@ -312,7 +310,6 @@ Argumentation theorists describe red herrings as diversions that redirect a dial
 A practical technique is to ask: **“Even if this new point is correct, what happens to the original question?”**
 
 If the original question remains unanswered, the new point may be functioning as a distraction rather than a contribution.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9FlerH-fp5k" title="Missing the Point (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9FlerH-fp5k" target="_blank" rel="noopener noreferrer">Missing the Point (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 20.6K &middot; Uploaded: February 2014 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9FlerH-fp5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9FlerH-fp5k">Open on YouTube</a></p></div></div></div>
 
@@ -352,7 +349,6 @@ The same principle appears in critical-thinking approaches that emphasise releva
 
 Some information looks like a diversion at first glance but is genuinely relevant.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-2-dark.svg" | relative_url }}" alt="Context Test illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Providing Missing Conditions
 
@@ -370,7 +366,6 @@ Relevant context: “The target was revised midway through the reporting period.
 
 Understanding the definition of the target affects the assessment.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Af0STrY58i4" title="Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer">Red Herring - Critical Thinking Fallacies | WIRELESS PHILOSOPHY</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 179.4K &middot; Uploaded: December 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Af0STrY58i4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Af0STrY58i4">Open on YouTube</a></p></div></div></div>
 
 ### Identifying Alternative Causes
@@ -386,7 +381,6 @@ In each case, the additional material helps answer the original question rather 
 ## Examples Where Context Becomes a Red Herring
 
 The same kinds of information can become distractions when they no longer connect to the issue being examined.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-3-dark.svg" | relative_url }}" alt="Context Test illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_context_or_dodge_47908f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reputation Instead of Evidence
@@ -415,13 +409,11 @@ Motives may matter in some contexts, but they do not by themselves determine the
 
 These moves often feel persuasive because they introduce emotionally significant or socially meaningful concerns. However, relevance requires a demonstrable connection to the claim under examination, not merely a thematic connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/ignoratio.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageIgnoratio Elenchi (Irrelevant Conclusion); Straw ManIgnoratio Elenchi is the fallacy of reaching an irrelevant conclu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Red-Herring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Red HerringThe red herring is a deliberate diversion of attention with the intention of trying to abandon the original argument.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZggiwS7iv2A" title="Red Herring (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer">Red Herring (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 32.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZggiwS7iv2A">Open on YouTube</a></p></div></div></div>
 
 ## Common Warning Signs
 
 Several patterns frequently signal that context may be turning into a red herring.
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -438,7 +430,6 @@ None of these signs proves a red herring on its own. They are indicators that re
 ## The Context Test
 
 A compact way to evaluate any suspected diversion is to run three questions in sequence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

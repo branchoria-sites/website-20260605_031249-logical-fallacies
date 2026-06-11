@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-appeal-to/
 description: Focused pages that expand on Popularity.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_appeal_to_popularity_14cb62
-parent_title: Popularity | Logical Fallacies
+parent_title: Popularity
 parent_nav_short_title: Popularity
 parent_permalink: /popularity/
 ---

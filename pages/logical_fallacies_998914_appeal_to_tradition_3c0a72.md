@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Tradition
 title: Is Old the Same as Right?
-title_full: Is Old the Same as Right? | Fallacy Lab
+title_full: Is Old the Same as Right?
 display_title_short: Tradition
 display_title: Tradition
 heading_title: Is Old the Same as Right?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-overvi
 
 Appeal to tradition is the mistake of treating age, custom or familiarity as proof that a belief or practice is correct. Its everyday form is simple: “We have always done it this way, so this is the right way to do it.” That argument can feel reassuring because familiar practices often carry real [experience]({{ 'experience/' | relative_url }}), social meaning and practical know-how. But tradition is not the same thing as evidence. A custom may survive because it works, because changing it is costly, because powerful groups benefit from it, or simply because nobody has examined it for a long time.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-overview.webp" | relative_url }}" alt="Overview image for Tradition" loading="eager" decoding="sync" fetchpriority="high">
 Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), appeal to tradition is best understood as a failure of support. The conclusion may still turn out to be true, but the reason offered is too weak: “old” does not automatically mean “good”, “familiar” does not automatically mean “safe”, and “customary” does not automatically mean “justified”. [Informal logic]({{ 'informal-logic/' | relative_url }}) is especially useful here because the mistake depends on context, not on a simple invalid formula; informal fallacies often turn on content, purpose and the role an argument is playing in a real discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesSo, informal fallacies are errors of reasoning that cannot easily be expressed in our standar...</span></span></span>
 
@@ -517,7 +516,6 @@ A useful contrast comes from the common idea often called Chesterton’s Fence: 
 
 The same distinction appears in political thought. Edmund Burke’s defence of inherited institutions treated society as a partnership across generations, not merely a contract among the living. That gives tradition a role as accumulated social memory. But even sympathetic modern discussions of Burke separate this insight from blind deference: an inherited arrangement may deserve investigation and respect, yet still require reform when present reasons no longer support it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/DEEAPF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive A Partnership for the Ages</span><span class="citation-popover-snippet">Phil Archive A Partnership for the Ages</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-1-dark.svg" | relative_url }}" alt="Tradition illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When “we have always done it” becomes the fallacy
 
@@ -526,7 +524,6 @@ The appeal to tradition usually has a recognisable mechanism. It converts a hist
 The historical fact might be true: a school has always used entrance exams, a workplace has always required long office hours, a family has always followed a certain ritual, or a profession has always trained people through a particular hierarchy. The conclusion might also be true in some cases. The problem is that the argument does not show why the past practice is still justified now.
 
 A compact version looks like this:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -537,7 +534,6 @@ A compact version looks like this:
 </div>
 
 The weak point is the word “therefore”. Something may be old because it is effective, but it may also be old because people lacked better tools, feared punishment, excluded dissenting voices, mistook correlation for causation, or treated change itself as suspicious. Many explainers of the fallacy make this same core point: the age of a belief or practice may be historically interesting, but it does not by itself prove truth, goodness or present usefulness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Tradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/appeal-to-tradition-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">appeal to tradition fallacy</span><span class="citation-popover-snippet">appeal to tradition fallacy</span></span></span> The fallacy often appears in softened language rather than in a blunt slogan. Phrases such as“time-tested”, “proper”, “the normal way”, “the way things are done”, or “our people have never needed that” can all be legitimate descriptions. They become suspect when they are asked to do the work of evidence. A reader should ask: what exactly has [time tested]({{ 'time-tested/' | relative_url }}) — effectiveness, fairness, safety, identity, convenience, or merely endurance?
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uIaYrXRLzSA" title="STAR TREK Logical Thinking #7 - Argumentum Ad Antiquitam (Appeal to Tradition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uIaYrXRLzSA" target="_blank" rel="noopener noreferrer">STAR TREK Logical Thinking #7 - Argumentum Ad Antiquitam (Appeal to Tradition)</a></p><p class="youtube-embed-meta">Channel: CHDanhauser &middot; Views: 16.4K &middot; Uploaded: November 2017 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uIaYrXRLzSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uIaYrXRLzSA">Open on YouTube</a></p></div></div></div>
 
@@ -552,7 +548,6 @@ For identity-forming customs, the issue may not be efficiency at all. A ceremony
 For moral or factual claims, tradition is usually much weaker. “People have believed this for centuries” does not establish that the belief is true. “This role has traditionally belonged to one group” does not establish that the exclusion is just. When an argument moves from inherited acceptance to truth or moral authority, it needs [independent support]({{ 'support-test/' | relative_url }}).
 
 This is why fallacy identification should be careful rather than automatic. The Internet Encyclopedia of Philosophy warns that a charge of fallacious reasoning itself needs justification; it is not enough to label an argument and move on. In this case, the critic must show that tradition is being treated as conclusive proof, not merely as relevant background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesSo, informal fallacies are errors of reasoning that cannot easily be expressed in our standar...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-2-dark.svg" | relative_url }}" alt="Tradition illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why familiar practices feel safer than new ones
@@ -575,7 +570,6 @@ The lesson is not that tradition in medicine is always wrong. The lesson is that
 
 This example is powerful because it avoids a simplistic “old bad, new good” message. Evidence-based medicine does not say that older treatments are worthless or that novelty is proof. It says present practice should be answerable to present evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5jiTWnyliQY" title="Appeal to Tradition | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer">Appeal to Tradition | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 3.1K &middot; Uploaded: January 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5jiTWnyliQY">Open on YouTube</a></p></div></div></div>
 
 ## The opposite mistake: assuming new is always better
@@ -586,7 +580,6 @@ The better question is comparative: what reasons support keeping, revising or re
 
 This matters in public [debate]({{ 'debate/' | relative_url }}) because tradition and novelty are often used as identity signals. One speaker presents reform as disrespect for the past; another presents continuity as fear of the future. Both frames can distract from the more useful question: what is the practice for, and is it still meeting that purpose?
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L2hsGGIaye0" title="Appealing to Tradition Fallacy - Fallacy 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L2hsGGIaye0" target="_blank" rel="noopener noreferrer">Appealing to Tradition Fallacy - Fallacy 5</a></p><p class="youtube-embed-meta">Channel: Logic &amp; Philosophy &middot; Views: 2.1K &middot; Uploaded: July 2020 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L2hsGGIaye0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L2hsGGIaye0">Open on YouTube</a></p></div></div></div>
 
 ## Testing present reasons
@@ -594,7 +587,6 @@ This matters in public [debate]({{ 'debate/' | relative_url }}) because traditio
 The practical antidote to appeal to tradition is not contempt for the past. It is a structured demand for present reasons. A tradition should be examined with enough historical humility to understand why it exists, and enough critical independence to ask whether those reasons still hold.
 
 A useful test has five parts:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -607,7 +599,6 @@ A useful test has five parts:
 </div>
 
 This approach also helps avoid overusing fallacy labels. Calling something an appeal to tradition should not mean “I dislike old customs.” It should mean that age or familiarity is being asked to prove more than it can prove.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-3-dark.svg" | relative_url }}" alt="Tradition illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the fallacy hides
@@ -1232,4 +1223,4 @@ Old can mean tested. It can mean meaningful. It can mean resilient. It can also 
 
 41. <a id="endnote-41"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/chestertons-fence-principle-thoughtful-change-peopledriven-ppzoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/chestertons-fence-principle-thoughtful-change-peopledriven-ppzoc</a>  
+   Link: <a href="https://www.linkedin.com/pulse/chestertons-fence-principle-thoughtful-change-peopledriven-ppzoc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/chestertons-fence-principle-thoughtful-change-peopledriven-ppzoc</a>

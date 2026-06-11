@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-school-phone/
 description: Focused pages that expand on Phones.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_school_phone_policy_e59b69
-parent_title: Phones | Logical Fallacies
+parent_title: Phones
 parent_nav_short_title: Phones
 parent_permalink: /phones/
 ---

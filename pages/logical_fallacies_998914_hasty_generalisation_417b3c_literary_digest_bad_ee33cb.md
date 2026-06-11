@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /bad-samples/
 nav_short_title: Digest Poll
 title: The Huge Poll That Got It Wrong
-title_full: The Huge Poll That Got It Wrong | Bad Samples
+title_full: The Huge Poll That Got It Wrong
 display_title_short: Digest Poll
 display_title: Digest Poll
 heading_title: The Huge Poll That Got It Wrong
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 13:30:45'
-parent_title: How Much Evidence Is Enough? | Fallacy Lab
+parent_title: How Much Evidence Is Enough?
 parent_permalink: /bad-samples/
 parent_nav_short_title: Bad Samples
 parent_heading_title: How Much Evidence Is Enough?
@@ -270,10 +270,8 @@ image: /assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_liter
 
 The 1936 *Literary Digest* poll is one of the most famous examples of how a hasty generalisation can arise from a weak sample. The magazine collected an astonishing number of responses—more than two million—and yet reached a conclusion that was dramatically wrong. It predicted that Republican candidate Alf Landon would defeat President Franklin D. Roosevelt in the United States presidential election. Instead, Roosevelt won in a landslide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historymatters.gmu.edu/d/5168/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historymatters.gmu.edu">[History Matters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historymatters.gmu.edu</span><span class="citation-popover-snippet">History MattersLandon in a Landslide: The Poll That Changed PollingRepublican presidential candidate Alfred Landon would win 57 percent o...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-1-dark.svg" | relative_url }}" alt="Digest Poll illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The case remains important because it demonstrates a crucial lesson about evidence: a large quantity of data does not guarantee a reliable conclusion. If the people being measured are not representative of the wider population, increasing the sample size may simply produce a more precise version of the wrong answer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disas...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YydGemJLTlM" title="Survey Says: With Guests W. Joseph Campbell &amp; Emily Oster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YydGemJLTlM" target="_blank" rel="noopener noreferrer">Survey Says: With Guests W. Joseph Campbell &amp; Emily Oster</a></p><p class="youtube-embed-meta">Channel: Charles Schwab &middot; Views: 111 &middot; Uploaded: December 2023 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YydGemJLTlM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YydGemJLTlM">Open on YouTube</a></p></div></div></div>
 
@@ -286,7 +284,6 @@ Based on those returns, the magazine forecast that Landon would receive about 57
 The actual election result was almost the reverse. Roosevelt won more than 60% of the popular vote and carried all but two states. The polling error was so large that it became a landmark case in the history of survey research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Literary_Digest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Literary Digest</span><span class="citation-popover-snippet">The Literary Digest</span></span></span>
 
 For students of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the significance is clear. The magazine treated its evidence as representative of the electorate as a whole and generalised from it to a national conclusion. The problem was not a lack of data. The problem was the quality of the sample.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o2b743BF8dg" title="Remembering the Year 1936" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o2b743BF8dg" target="_blank" rel="noopener noreferrer">Remembering the Year 1936</a></p><p class="youtube-embed-meta">Channel: Morrie Reece &middot; Views: 7.4K &middot; Uploaded: November 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o2b743BF8dg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o2b743BF8dg">Open on YouTube</a></p></div></div></div>
 
@@ -307,7 +304,6 @@ The result was a sample that differed from the electorate in two ways:
 
 These distortions combined to produce a highly misleading picture of public opinion.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-2-dark.svg" | relative_url }}" alt="Digest Poll illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Size Cannot Rescue Biased Evidence
 
@@ -321,7 +317,6 @@ The contrast with George Gallup's polling operation became famous. Gallup used a
 
 This comparison highlights a key principle behind avoiding hasty generalisations:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **More data** helps only when the data reasonably reflects the population being studied.
@@ -329,7 +324,6 @@ This comparison highlights a key principle behind avoiding hasty generalisations
 * **Biased evidence remains biased**, even when collected on a massive scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bitbybitbook.com/en/asking-questions/total-survey-error/representation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bitbybitbook.com">[Bit by Bit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bitbybitbook.com</span><span class="citation-popover-title">Bit by Bit Asking questions</span><span class="citation-popover-snippet">Bit by BitAsking questions - 3.3.1 Representation... telephone directories and automobile registration records. Here&#x27;s how they... Non-r...</span></span></span>
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JwZo28RKdvU" title="The largest presidential poll ever got the results dead wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JwZo28RKdvU" target="_blank" rel="noopener noreferrer">The largest presidential poll ever got the results dead wrong</a></p><p class="youtube-embed-meta">Channel: Business Insider &middot; Views: 137.5K &middot; Uploaded: September 2016 &middot; Length: 1 minute 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JwZo28RKdvU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JwZo28RKdvU">Open on YouTube</a></p></div></div></div>
 
@@ -340,7 +334,6 @@ The *Literary Digest* poll endures as a cautionary example because it challenges
 In reality, the poll's millions of responses encouraged confidence in a conclusion that rested on a badly selected sample. The magazine effectively generalised from a subset of wealthier and disproportionately anti-Roosevelt voters to the entire electorate. That leap from an unrepresentative sample to a broad claim is exactly the kind of reasoning error that lies behind hasty generalisations and weak-sample arguments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Literary_Digest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Literary Digest</span><span class="citation-popover-snippet">The Literary Digest</span></span></span>
 
 The episode remains memorable because it shows that the crucial question is not merely “How many examples do we have?” but “Do these examples genuinely represent the wider group?” When the answer is no, even millions of observations can lead to the wrong conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/social-science-history/article/president-landon-and-the-1936-literary-digest-poll/E360C38884D77AA8D71555E7AB6B822C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment“President” Landon and the 1936 Literary Digest Pollby D Lusinchi · 2012 · Cited by 36 — The disas...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-3-dark.svg" | relative_url }}" alt="Digest Poll illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_literary_digest_bad_ee33cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -854,4 +847,4 @@ The episode remains memorable because it shows that the crucial question is not 
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2107.14166" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.14166</a>  
+   Link: <a href="https://arxiv.org/abs/2107.14166" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.14166</a>

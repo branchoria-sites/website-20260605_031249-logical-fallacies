@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /wet-pavement/
 nav_short_title: Smoke and Fire
 title: When Bad Logic Still Feels Sensible
-title_full: When Bad Logic Still Feels Sensible | Wet Pavement
+title_full: When Bad Logic Still Feels Sensible
 display_title_short: Smoke and Fire
 display_title: Smoke and Fire
 heading_title: When Bad Logic Still Feels Sensible
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 14:55:55'
-parent_title: Why One Explanation Is Not Enough | Fallacy Lab
+parent_title: Why One Explanation Is Not Enough
 parent_permalink: /wet-pavement/
 parent_nav_short_title: Wet Pavement
 parent_heading_title: Why One Explanation Is Not Enough
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke
 
 The classic smoke-and-fire example shows why affirming the consequent is both a logical mistake and an understandable human habit. If we know that fire produces smoke, it can seem natural to conclude that smoke proves the existence of fire. Yet the conclusion does not follow with deductive certainty. Smoke may come from a machine, a controlled industrial process, steam mistaken for smoke, or some other source. The effect is real, but the cause has not been uniquely established. This tension explains why affirming the consequent remains one of the most persistent [logical fallacies]({{ 'logical-fallacies/' | relative_url }}): it often resembles a sensible guess even when it falls short of proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-1-dark.svg" | relative_url }}" alt="Smoke and Fire illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Common Causes Make the Leap Tempting
 
@@ -290,7 +289,6 @@ The appeal of the smoke-and-fire inference comes from [experience]({{ 'experienc
 
 The smoke-and-fire example highlights an important distinction between two different goals of reasoning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m9hjWTe33Wk" title="Logical Fallacies - Affirming the consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m9hjWTe33Wk" target="_blank" rel="noopener noreferrer">Logical Fallacies - Affirming the consequent</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 3.8K &middot; Uploaded: January 2015 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m9hjWTe33Wk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m9hjWTe33Wk">Open on YouTube</a></p></div></div></div>
 
 ### Deductive reasoning asks what must be true
@@ -298,7 +296,6 @@ The smoke-and-fire example highlights an important distinction between two diffe
 In deductive logic, a conclusion is valid only if it cannot be false while the premises remain true. Under this standard, observing smoke does not prove fire. The existence of alternative causes is enough to defeat the deduction. Even if fire is the most common explanation, logical validity requires certainty, not likelihood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_fallacies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of fallacies</span><span class="citation-popover-snippet">List of fallaciesAffirming the consequent – the antecedent in an indicative conditional is claimed to be true because the consequent i...</span></span></span>
 
 A structurally identical argument makes the weakness easier to see:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +307,6 @@ A structurally identical argument makes the weakness easier to see:
 
 The conclusion might be correct, but it does not logically follow because many other locations satisfy the observed condition. The smoke-and-fire argument has the same form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-2-dark.svg" | relative_url }}" alt="Smoke and Fire illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Practical reasoning asks what is most likely
 
@@ -318,14 +314,12 @@ Outside [formal logic]({{ 'formal-logic/' | relative_url }}), people often seek 
 
 Under this practical standard, smoke can legitimately increase confidence that fire is present. The observation does not prove the cause, but it may make that cause more probable. This helps explain why the fallacy can feel persuasive. The conclusion is often plausible even though the argument form remains deductively invalid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-3-dark.svg" | relative_url }}" alt="Smoke and Fire illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_smoke_fire_reasonabl_885f61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Context Can Make a Guess Reasonable
 
 The strength of a smoke-to-fire inference depends heavily on [context]({{ 'context/' | relative_url }}).
 
 Imagine three situations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,7 +335,6 @@ This is why experienced investigators, scientists, doctors, and engineers rarely
 
 In historical terms, this reflects a broader difference between formal logic and everyday reasoning. Formal logic evaluates whether conclusions necessarily follow from premises. Real-world decision-making often proceeds under uncertainty, where waiting for certainty may be impossible or costly. The challenge is recognising when a useful clue has been mistaken for conclusive evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span> Encyclopedia of Philosophy
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/85QJZdbgEoc" title="Affirming the Consequent: A Formal Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer">Affirming the Consequent: A Formal Fallacy</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 69.7K &middot; Uploaded: November 2009 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=85QJZdbgEoc">Open on YouTube</a></p></div></div></div>
 
 ## The Lesson of Smoke and Fire
@@ -350,9 +343,7 @@ The smoke-and-fire example survives in discussions of logical fallacies because 
 
 Affirming the consequent occurs when the leap from effect to cause is treated as certainty rather than possibility. Smoke can be evidence for fire. It is not, by itself, proof of fire. Recognising that distinction helps separate deductive validity from reasonable suspicion and explains why bad logic can sometimes feel perfectly sensible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The fallacy of secundum...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_WDDVz-EWFw" title="Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer">Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 11.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_WDDVz-EWFw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -471,15 +462,15 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hFQAAeSwAJlpwX6n/s-l225.jpg" alt="Listing image for Logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fireman Sam Watercolour Splash Set Of 4 Prints Pictures Wall Art Poster"><img src="https://i.ebayimg.com/images/g/Bf0AAOSw1HtjO0zE/s-l225.jpg" alt="Listing image for Fireman Sam Watercolour Splash Set Of 4 Prints Pictures Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Logic quotes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Fireman Sam Watercolour Splash Set Of 4 Prints Pictures Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +478,15 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/jbIAAeSw6B5pwYCQ/s-l225.jpg" alt="Listing image for logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter Fire Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/~MgAAeSwAu9pwYAY/s-l225.jpg" alt="Listing image for Firefighter Fire Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">logic quotes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Firefighter Fire Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +494,15 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic quotes Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/46sAAeSwGMhpwX2t/s-l225.jpg" alt="Listing image for Logic quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Firefighter with Union Jack Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/eaQAAeSwXMRpZjJx/s-l225.jpg" alt="Listing image for Firefighter with Union Jack Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Logic quotes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Firefighter with Union Jack Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +510,15 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Rapper Vinyl Days Music Album Wall Art Home Decor - POSTER 20&quot;x30&quot;"><img src="https://i.ebayimg.com/images/g/SL8AAOSwciVjfgWy/s-l225.jpg" alt="Listing image for Logic Rapper Vinyl Days Music Album Wall Art Home Decor - POSTER 20&quot;x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fireman Fire Rescue Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ANYAAeSwhfppZjPc/s-l225.jpg" alt="Listing image for Fireman Fire Rescue Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Logic Rapper Vinyl Days Music Album Wall Art Home Decor - POSTER 20&quot;x30&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">Fireman Fire Rescue Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for firefighter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: firefighter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,7 +526,7 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="when-bad-logic-still-feels-sensible-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=firefighter+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-bad-logic-still-feels-sensible-firefighter-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="firefighter poster" data-ebay-reference="when-bad-logic-still-feels-sensible-firefighter-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -745,6 +736,7 @@ Affirming the consequent occurs when the leap from effect to cause is treated as
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

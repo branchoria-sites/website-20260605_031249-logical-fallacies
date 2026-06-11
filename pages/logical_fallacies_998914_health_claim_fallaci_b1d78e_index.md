@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-health-claim/
 description: Focused pages that expand on Remedies.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_health_claim_fallaci_b1d78e
-parent_title: Remedies | Logical Fallacies
+parent_title: Remedies
 parent_nav_short_title: Remedies
 parent_permalink: /remedies/
 ---

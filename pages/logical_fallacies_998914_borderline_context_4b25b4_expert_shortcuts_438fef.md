@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /context/
 nav_short_title: Expert Shortcuts
 title: When Should You Trust an Expert?
-title_full: When Should You Trust an Expert? | Context
+title_full: When Should You Trust an Expert?
 display_title_short: Expert Shortcuts
 display_title: Expert Shortcuts
 heading_title: When Should You Trust an Expert?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:16:24'
-parent_title: When Is It Really a Fallacy? | Fallacy Lab
+parent_title: When Is It Really a Fallacy?
 parent_permalink: /context/
 parent_nav_short_title: Context
 parent_heading_title: When Is It Really a Fallacy?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_
 
 In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), an [appeal to authority]({{ 'authority/' | relative_url }}) is often presented as a mistake. Yet many everyday decisions would be impossible without relying on expert judgement. Most people cannot independently evaluate the safety of a bridge, the effectiveness of a medical treatment, or the details of a climate model. In such cases, consulting specialists is not a fallacious shortcut but a practical way of accessing evidence that would otherwise be inaccessible. The key question is not whether an expert is cited, but whether the expert's authority is functioning as a reliable indicator of underlying evidence. Expert opinion is a form of defeasible reasoning: it provides provisional support that remains open to challenge, revision, and further evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/testimony-episprob/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">testimony episprob</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyEpistemological Problems of Testimonyby N Leonard · 2021 · Cited by 104 — So much of what we know abou...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-1-dark.svg" | relative_url }}" alt="Expert Shortcuts illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This makes appeals to expertise a classic borderline case. The same argumentative move can be reasonable when it connects an audience to specialised knowledge and unreasonable when it asks them to accept a claim purely because of status or prestige. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Appeal to Expert Opinion: Arguments From AuthorityWalton&#x27;s new pragmatic approach analyzes that appeal as a distinctive form of...</span></span></span>
 
@@ -302,7 +301,6 @@ Argumentation theorists who study appeals to expert opinion emphasise that exper
 
 A useful rule is that expertise travels poorly across domains. The further a claim moves from the expert's recognised field, the weaker the appeal becomes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TsBtrVrFYpI" title="Critical Thinking #12: Appeal to Authority" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TsBtrVrFYpI" target="_blank" rel="noopener noreferrer">Critical Thinking #12: Appeal to Authority</a></p><p class="youtube-embed-meta">Channel: David Pakman Show &middot; Views: 29.1K &middot; Uploaded: March 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TsBtrVrFYpI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TsBtrVrFYpI">Open on YouTube</a></p></div></div></div>
 
 ## Consensus, Independence, and Access to Evidence
@@ -323,8 +321,7 @@ When evaluating an expert appeal, several questions improve its reliability: <sp
 
 Consensus should not be treated as proof. History contains cases where expert communities were wrong. However, in the absence of specialised knowledge, a robust expert consensus is usually a better guide than isolated opinions or popular beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9289351/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPublic Conceptions of Scientific Consensus</span><span class="citation-popover-snippet">Recent science communication...Read more...</span></span></span>
 
-
-<img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-2-dark.svg" | relative_url }}" alt="Expert Shortcuts illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-2.svg" | relative_url }}" alt="Expert Shortcuts illustration 2" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Expert Shortcuts Are Often Necessary
 
 A common misunderstanding is that rational thinkers should personally verify every important claim. In practice, that standard is impossible.
@@ -334,7 +331,6 @@ Modern knowledge systems depend on intellectual division of labour. Patients rel
 The reasonable appeal to expertise therefore functions as an evidence shortcut. Instead of recreating years of training and research, the audience uses expert judgement as a proxy for evidence. The shortcut is justified when there are good reasons to think the proxy tracks reality.
 
 The important point is that the shortcut remains connected to evidence. The audience is not being asked to believe a claim because a powerful person said it. They are being asked to treat specialised judgement as a summary of evidence that they cannot easily evaluate themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ecampusontario.pressbooks.pub/criticalthinking1234/chapter/__unknown__-4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecampusontario.pressbooks.pub">[eCampusOntario Pressbooks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecampusontario.pressbooks.pub</span><span class="citation-popover-snippet">Appeals to Authority – Studies in Critical Thinkingby M Battersby · Cited by 1 — These questions illustrate a ke...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-3-dark.svg" | relative_url }}" alt="Expert Shortcuts illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_borderline_context_4b25b4_expert_shortcuts_438fef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Expert Appeals Become Conversation-Stoppers
@@ -347,7 +343,6 @@ This misuse can occur even when genuine experts are involved. Scientific institu
 
 A healthy appeal to expertise encourages further questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What evidence supports the conclusion?
@@ -359,7 +354,6 @@ A healthy appeal to expertise encourages further questions:
 
 An unhealthy appeal discourages those questions by treating expertise as infallibility.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3PDrnZoM3nA" title="Fallacies: Appeal to Authority" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3PDrnZoM3nA" target="_blank" rel="noopener noreferrer">Fallacies: Appeal to Authority</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 51.8K &middot; Uploaded: January 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3PDrnZoM3nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3PDrnZoM3nA">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Test for Fair Expert Appeals
@@ -370,9 +364,7 @@ The appeal is usually reasonable if the expert is qualified in the relevant fiel
 
 In borderline fallacy cases, this distinction is crucial. Expert opinion is not a loophole that allows arguments to bypass evidence. Rather, it is a practical mechanism for accessing evidence indirectly. The appeal remains rational precisely because expertise is treated as a fallible but often reliable guide to what the evidence shows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psupress.org/books/titles/0-271-01694-9.html?srsltid=AfmBOorAgxMvCur5TQDHUVDLy9vYneVnIVRtLyG-KCM_AQ5FyR6gTh1G" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psupress.org">[psupress.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psupress.org</span><span class="citation-popover-snippet">gument, with an accompanying set of appropriate critical questions matching the...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6h0eyv3Tmc" title="Appeal to Authority is Not a Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6h0eyv3Tmc" target="_blank" rel="noopener noreferrer">Appeal to Authority is Not a Fallacy</a></p><p class="youtube-embed-meta">Channel: Benjamin McLean (MrBenMcLean) &middot; Views: 4.6K &middot; Uploaded: November 2016 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6h0eyv3Tmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6h0eyv3Tmc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

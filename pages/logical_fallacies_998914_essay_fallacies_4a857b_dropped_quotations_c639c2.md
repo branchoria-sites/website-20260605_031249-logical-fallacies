@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /essays/
 nav_short_title: Dropped Quotes
 title: Why Quotations Cannot Argue Alone
-title_full: Why Quotations Cannot Argue Alone | Essays
+title_full: Why Quotations Cannot Argue Alone
 display_title_short: Dropped Quotes
 display_title: Dropped Quotes
 heading_title: Why Quotations Cannot Argue Alone
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:03:44'
-parent_title: How Fallacies Weaken Student Essays | Fallacy Lab
+parent_title: How Fallacies Weaken Student Essays
 parent_permalink: /essays/
 parent_nav_short_title: Essays
 parent_heading_title: How Fallacies Weaken Student Essays
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_qu
 
 A dropped quotation is a quotation that appears in a paragraph without enough explanation of what it proves, why it matters, or how it supports the writer’s claim. In academic writing, this is more than a stylistic weakness. It is a reasoning problem. Evidence does not become an argument simply because it has been quoted and cited. Readers must be shown how the evidence connects to the point being made. Writing centres consistently emphasise that quotations function as evidence within an argument and require interpretation, analysis, or explanation from the writer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-title">Don&#x27;t Drop Quotes</span><span class="citation-popover-snippet">Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-title">Don&#x27;t Drop Quotes</span><span class="citation-popover-snippet">Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-1-dark.svg" | relative_url }}" alt="Dropped Quotes illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader category of essay fallacies and academic writing problems, dropped quotations reveal a missing step in reasoning. The writer supplies evidence but leaves the reader to construct the argument. As a result, the paragraph often appears well researched while remaining logically incomplete.
 
@@ -317,7 +316,6 @@ The same principle applies to research evidence. A statistic, interview excerpt,
 
 Suppose a paragraph claims that remote work improves employee satisfaction and then presents a survey result showing high satisfaction scores. The paragraph still needs interpretation:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What aspect of remote work appears responsible?
@@ -328,7 +326,6 @@ Suppose a paragraph claims that remote work improves employee satisfaction and t
 </div>
 
 Without those explanations, the reader sees data but not an argument. Writing guides on evidence consistently describe analysis as the process of interpreting evidence to support, test, or refine a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wts.indiana.edu/writing-guides/using-evidence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wts.indiana.edu">[Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wts.indiana.edu</span><span class="citation-popover-snippet">Writing Tutorial ServicesUsing Evidence: Writing GuidesThe process of putting together your argument is called analysis--it interprets ev...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sydney.edu.au/content/dam/students/documents/learning-resources/learning-centre/writing/using-evidence.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sydney.edu.au">[The University of Sydney]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sydney.edu.au</span><span class="citation-popover-snippet">The University of SydneyUsing evidence in essaysAims of this module: • To explain the importance of claims and evidence in a persuasive e...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hqf7FeuX4Q0" title="Quoting, Summarizing, and Paraphrasing in Academic Writing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hqf7FeuX4Q0" target="_blank" rel="noopener noreferrer">Quoting, Summarizing, and Paraphrasing in Academic Writing</a></p><p class="youtube-embed-meta">Channel: Thompson Rivers University &middot; Views: 17.0K &middot; Uploaded: December 2020 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hqf7FeuX4Q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hqf7FeuX4Q0">Open on YouTube</a></p></div></div></div>
 
@@ -357,7 +354,6 @@ The article argues that social trust has declined. The researchers found that �
 The second version tells readers what conclusion should be drawn from the evidence.
 
 This distinction explains why instructors often write comments such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -392,7 +388,6 @@ Most quotations are narrow and specific. [Essays]({{ 'essays/' | relative_url }}
 
 Interpretation builds the bridge between the small piece of evidence and the larger conclusion. This bridge is often what argument theorists call the warrant—the reasoning that links evidence to a claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLParaphrasing involves putting a passage from source material into your own w...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-2-dark.svg" | relative_url }}" alt="Dropped Quotes illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### It Demonstrates Critical Thinking
 
@@ -420,7 +415,6 @@ A long block quotation replaces analysis. The writer presents extensive source m
 
 In each case, the core problem remains identical: evidence is presented, but reasoning is omitted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/2021/02/26/dont-drop-quotes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-title">Don&#x27;t Drop Quotes</span><span class="citation-popover-snippet">Purdue University...February 26, 2021 — 26 Feb 2021 — Dropped quotes, which I call island quotes and others call floating quotes, are pr...</span><span class="citation-popover-meta">Published: February 26, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stlcc.edu/insider/writing-resources/using-quotes-effectively.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stlcc.edu">[STLCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stlcc.edu</span><span class="citation-popover-title">using quotes effectively.aspx</span><span class="citation-popover-snippet">Using Quotes Effectively &#124; Tutoring Resources23 Sept 2025 — These dropped quotations make it difficult for readers to distinguish between...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s776GKJPqFY" title="How To Use Evidence In Your Essay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s776GKJPqFY" target="_blank" rel="noopener noreferrer">How To Use Evidence In Your Essay</a></p><p class="youtube-embed-meta">Channel: A Better Way To Teach &middot; Views: 485 &middot; Uploaded: October 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s776GKJPqFY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s776GKJPqFY">Open on YouTube</a></p></div></div></div>
 
 ## Sentence Patterns for Connecting Quoted Evidence to Claims
@@ -433,18 +427,16 @@ Several sentence patterns help create this connection.
 
 After the quotation, continue with:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[* This demonstrates that...]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[* This suggests that...]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[* This indicates that...]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[* This reveals that...]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span>
+* This demonstrates that... <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> * This suggests that... <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> * This indicates that... <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span> * This reveals that... <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/academic-writing-writing-critically" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[ucl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-snippet">University College LondonAcademic writing: Writing criticallyCritical analysis · Demonstrating your understanding of reading/evidence (“t...</span></span></span>
 
 Example:
 
 > “The city remained silent throughout the night.” This imagery suggests that silence functions as a symbol of social isolation rather than simple physical quietness.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-3-dark.svg" | relative_url }}" alt="Dropped Quotes illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_dropped_quotations_c639c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Pattern 2: Explain Why the Detail Matters
 
 After presenting evidence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -462,7 +454,6 @@ Example:
 
 After the quotation:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Therefore...
@@ -476,13 +467,11 @@ Example:
 
 > “Workers reported greater autonomy when working remotely.” This supports the argument that flexibility, rather than location itself, contributes to higher job satisfaction.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OytGAPhHP54" title="College Writing Success: Quote Sandwiches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OytGAPhHP54" target="_blank" rel="noopener noreferrer">College Writing Success: Quote Sandwiches</a></p><p class="youtube-embed-meta">Channel: Maureen Wiley | Narrative Driven &middot; Views: 566 &middot; Uploaded: February 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OytGAPhHP54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OytGAPhHP54">Open on YouTube</a></p></div></div></div>
 
 ### Pattern 4: Focus on Language in Literary Essays
 
 After a textual quotation:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -502,7 +491,6 @@ Example:
 A simple revision technique is to cover the quotation and read only the surrounding sentences.
 
 Ask:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

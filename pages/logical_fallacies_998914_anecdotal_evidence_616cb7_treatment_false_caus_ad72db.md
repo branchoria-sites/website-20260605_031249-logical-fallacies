@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /anecdotes/
 nav_short_title: After Treatment
 title: Did the Remedy Cause the Recovery?
-title_full: Did the Remedy Cause the Recovery? | Anecdotes
+title_full: Did the Remedy Cause the Recovery?
 display_title_short: After Treatment
 display_title: After Treatment
 heading_title: Did the Remedy Cause the Recovery?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:30:19'
-parent_title: When Is a Story Not Enough? | Fallacy Lab
+parent_title: When Is a Story Not Enough?
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
 parent_heading_title: When Is a Story Not Enough?
@@ -270,12 +270,10 @@ image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatme
 
 When someone takes a remedy and then recovers, it is natural to connect the two events. The improvement happened after the treatment, so the treatment appears to be the cause. Yet this is one of the most common forms of false causation in health reasoning. A sequence of events alone cannot establish a cause-and-effect relationship. Many illnesses improve on their own, symptoms often fluctuate, expectations can change how people feel, and other factors may be operating at the same time. As a result, a sincere personal testimony can describe a real recovery while still misidentifying why the recovery occurred. This is why anecdotes about treatments are often starting points for investigation rather than proof of effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelf - NIHby L Irwig · 2008 · Cited by 37 — But we already know the dangers of assuming cause and effect...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-1-dark.svg" | relative_url }}" alt="After Treatment illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did the Remedy Cause the Recovery?
 
 The central logical error is simple: assuming that because recovery followed a treatment, the treatment must have produced the recovery. Philosophers and statisticians sometimes summarise this as confusing sequence with causation. In everyday life it appears in claims such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,6 @@ The same issue appears with conditions that naturally fluctuate. Pain, allergies
 
 A before-and-after story therefore lacks a crucial piece of information: what would have happened without the treatment.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zP4F2_sVbSg" title="The Anecdotal Evidence Trap Everyone Falls Into" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zP4F2_sVbSg" target="_blank" rel="noopener noreferrer">The Anecdotal Evidence Trap Everyone Falls Into</a></p><p class="youtube-embed-meta">Channel: Garden Fundamentals &middot; Views: 2.5K &middot; Uploaded: November 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zP4F2_sVbSg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zP4F2_sVbSg">Open on YouTube</a></p></div></div></div>
 
 ## Missing Comparisons and Natural Recovery
@@ -322,14 +319,12 @@ For example, placebo effects are often strongest for symptoms influenced by perc
 
 This distinction is important because a treatment may appear successful in personal testimony even when the apparent success comes largely from symptom changes, natural healing, or both.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-2-dark.svg" | relative_url }}" alt="After Treatment illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Concrete Pattern in Alternative Health Claims
 
 Many health and wellness promotions rely heavily on personal recovery stories. [Testimonials]({{ 'testimonials/' | relative_url }}) often feature dramatic before-and-after narratives because they are memorable and emotionally compelling.
 
 The weakness is that such stories usually omit critical information:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -345,7 +340,6 @@ Guides on evaluating health claims repeatedly warn that anecdotal recovery stori
 
 The history of medicine contains many examples of treatments that seemed effective based on enthusiastic personal reports but later failed when tested in controlled trials. The gap between anecdote and rigorous evidence exists precisely because human beings are poor at separating coincidence from causation through observation alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adq40GTOtXg" title="Are you being misled? How to spot bad nutrition claims using real science | Jessica Knurick | EP#392" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adq40GTOtXg" target="_blank" rel="noopener noreferrer">Are you being misled? How to spot bad nutrition claims using real science | Jessica Knurick | EP#392</a></p><p class="youtube-embed-meta">Channel: The Proof with Simon Hill &middot; Views: 2.3K &middot; Uploaded: December 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adq40GTOtXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adq40GTOtXg">Open on YouTube</a></p></div></div></div>
 
 ## Questions That Test a Causal Story
@@ -360,7 +354,6 @@ If the condition commonly improves on its own, natural recovery is a serious alt
 
 A convincing causal claim requires attention to successes and failures, not only the positive examples that get reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-3-dark.svg" | relative_url }}" alt="After Treatment illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_treatment_false_caus_ad72db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Could symptom changes reflect expectation or placebo effects?
 
@@ -373,7 +366,6 @@ Lifestyle changes, concurrent treatments, rest, diet, social support, and the pa
 ### Is there evidence beyond the anecdote?
 
 The strongest support comes from systematic comparisons that test whether treated groups do better than similar untreated groups. Personal stories may suggest a hypothesis, but broader evidence is needed to establish causation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK63648/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBe sceptical</span><span class="citation-popover-snippet">Smart Health Choices - NCBI Bookshelfby L Irwig · 2008 · Cited by 35 — Anecdotal evidence can sound compelling, but is not a valid guide...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZQLtJmQ4pOA" title="What is anecdotal evidence?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZQLtJmQ4pOA" target="_blank" rel="noopener noreferrer">What is anecdotal evidence?</a></p><p class="youtube-embed-meta">Channel: Rationable &middot; Views: 657 &middot; Uploaded: January 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZQLtJmQ4pOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZQLtJmQ4pOA">Open on YouTube</a></p></div></div></div>
 

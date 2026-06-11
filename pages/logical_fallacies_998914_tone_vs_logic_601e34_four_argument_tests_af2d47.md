@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tone/
 nav_short_title: Four Tests
 title: The four tests every argument faces
-title_full: The four tests every argument faces | Tone
+title_full: The four tests every argument faces
 display_title_short: Four Tests
 display_title: Four Tests
 heading_title: The four tests every argument faces
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:20:33'
-parent_title: Is Tone the Same as Logic? | Fallacy Lab
+parent_title: Is Tone the Same as Logic?
 parent_permalink: /tone/
 parent_nav_short_title: Tone
 parent_heading_title: Is Tone the Same as Logic?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argumen
 
 When people argue, they often ask a single question: “Is this argument good or bad?” In practice, that question hides at least four different evaluations. An argument can be logically strong yet rude, ethically troubling yet factually correct, or persuasive despite weak reasoning. Confusing these judgments is one of the main reasons disputes about [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) become muddled.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-1-dark.svg" | relative_url }}" alt="Four Tests illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In discussions about ad hominem attacks, [tone policing]({{ 'tone-policing/' | relative_url }}), and [relevance]({{ 'relevance/' | relative_url }}), the central mistake is often treating a failure on one dimension as a failure on all dimensions. A speaker who insults an opponent may still provide strong evidence. A courteous speaker may still commit a fallacy. A statement may be true but expressed in a way that damages trust or cooperation. Evaluating arguments well therefore requires four separate tests: logical support, conversational conduct, ethical respect, and practical effectiveness. Argumentation scholars have long noted that argument quality, dialogue norms, and persuasion are related but distinct forms of assessment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ai.rug.nl/~verheij/publications/pdf/walton2001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai.rug.nl">[RUG AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai.rug.nl</span><span class="citation-popover-snippet">The New Dialectic....12 Jul 2001 — A central topic in the theory of argumentation is argument evaluation. For any particular argument, t...</span></span></span>
 
@@ -319,7 +318,6 @@ Conversation therefore requires two independent assessments:
 
 The answers can differ.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qBkj-AYYg7w" title="CRITICAL THINKING - Fallacies: Ad Hominem [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Ad Hominem [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 458.3K &middot; Uploaded: September 2014 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qBkj-AYYg7w">Open on YouTube</a></p></div></div></div>
 
 ## Ethical respect and practical persuasion
@@ -334,7 +332,6 @@ This distinction explains why people can disagree about an argument without actu
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * One critic may say, “The evidence is sound, but the language is cruel.”
@@ -346,7 +343,6 @@ For example:
 All three may be discussing different dimensions of the same statement.
 
 Recognising these separate judgments prevents debates from collapsing into confusion over whether criticism concerns truth, behaviour, morality, or strategy.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-2-dark.svg" | relative_url }}" alt="Four Tests illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why tone disputes often become fallacy disputes
@@ -372,7 +368,6 @@ The first attempts to use [emotion]({{ 'emotion/' | relative_url }}) as evidence
 
 Keeping those judgments distinct allows communities to maintain civility without pretending that civility determines truth.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LNkibDGjQq8" title="Critical Thinking and Arguing: Study Hall Composition #8: ASU + Crash Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LNkibDGjQq8" target="_blank" rel="noopener noreferrer">Critical Thinking and Arguing: Study Hall Composition #8: ASU + Crash Course</a></p><p class="youtube-embed-meta">Channel: Arizona State University &middot; Views: 46.3K &middot; Uploaded: May 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LNkibDGjQq8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LNkibDGjQq8">Open on YouTube</a></p></div></div></div>
 
 ## How moderators can address tone without dodging claims
@@ -385,7 +380,6 @@ A useful approach is to issue separate rulings for separate dimensions.
 
 Instead of declaring a contribution wholly acceptable or unacceptable, moderators can distinguish between content and behaviour:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * The factual claim may remain open for discussion.
@@ -396,7 +390,6 @@ Instead of declaring a contribution wholly acceptable or unacceptable, moderator
 </div>
 
 This prevents moderation from becoming an implicit judgment about truth.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-3-dark.svg" | relative_url }}" alt="Four Tests illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_four_argument_tests_af2d47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### State which rule is being enforced
@@ -413,7 +406,6 @@ Each label refers to a different kind of problem. Combining them obscures what a
 
 Research on online argumentation and moderation increasingly treats appropriateness, argument quality, and civility as related but distinct dimensions, precisely because communities struggle when all forms of evaluation are collapsed together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.14935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Modeling Appropriate Language in Argumentation</span><span class="citation-popover-snippet">Modeling Appropriate Language in ArgumentationMay 24, 2023...</span><span class="citation-popover-meta">Published: May 24, 2023</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NKEhdsnKKHs" title="How to Argue - Philosophical Reasoning: Crash Course Philosophy #2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer">How to Argue - Philosophical Reasoning: Crash Course Philosophy #2</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 5.3M &middot; Uploaded: February 2016 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NKEhdsnKKHs">Open on YouTube</a></p></div></div></div>
 
 ### Avoid treating persuasion as proof
@@ -423,7 +415,6 @@ Arguments sometimes gain support because they are emotionally compelling or soci
 ## A simple diagnostic for difficult disputes
 
 When an argument becomes controversial, ask four separate questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

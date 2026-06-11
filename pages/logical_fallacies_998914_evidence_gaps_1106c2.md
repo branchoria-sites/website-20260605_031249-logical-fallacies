@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Evidence Gaps
 title: What Evidence Is the Argument Missing?
-title_full: What Evidence Is the Argument Missing? | Fallacy Lab
+title_full: What Evidence Is the Argument Missing?
 display_title_short: Evidence Gaps
 display_title: Evidence Gaps
 heading_title: What Evidence Is the Argument Missing?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2-overview-soc
 
 Persuasive claims often sound stronger than they are because they hide an evidence gap. The claim may contain a true example, a confident statistic, a named expert, or a vivid story, but the evidence still may not justify the conclusion being drawn. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this problem sits behind patterns such as hasty generalisation, cherry-picking, appeal to [ignorance]({{ 'ignorance/' | relative_url }}), weak analogy, false cause and misleading anecdote: the argument asks the reader to travel further than the evidence can safely carry them.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-overview.webp" | relative_url }}" alt="Overview image for Evidence Gaps" loading="eager" decoding="sync" fetchpriority="high">
 The central question is not “Is there any evidence?” but “Is there enough of the right kind of evidence for this claim, in this [context]({{ 'context/' | relative_url }})?” [Informal logic]({{ 'informal-logic/' | relative_url }}) treats everyday argument as a matter of evidence, proof, burden and justification rather than just formal validity, because real-world claims usually depend on incomplete information and judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Informal Logic</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal Logic - Stanford Encyclopedia of Philosophyby L Groarke · 1996 · Cited by 97 — Different info...</span></span></span> Encyclopedia of Philosophy Evidence gaps matter because they make thin support feel complete, shift attention away from what has not been shown, and encourage people to mistake plausibility for proof.
 
@@ -528,7 +527,6 @@ Unsupported leaps can take several forms:
 
 The strongest warning sign is a mismatch between the evidence and the wording of the claim. A modest dataset may justify “this happened in these cases”. It does not automatically justify “this always happens”, “this is the main cause”, “this proves the whole theory”, or “critics have no answer”.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Difference Between Evidence and Representative Evidence
 
@@ -550,7 +548,6 @@ A health claim, for instance, might cite one favourable study but ignore larger 
 
 This is also why regulators focus on substantiation in [advertising]({{ 'advertising/' | relative_url }}). The US Federal Trade Commission says objective advertising claims should have a reasonable basis before they are made, and that advertisers must substantiate both express and implied claims conveyed to reasonable consumers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/legal-library/browse/ftc-policy-statement-regarding-advertising-substantiation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That principle is useful beyond advertising: the strength of the evidence should match the strength and practical significance of the claim.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qf03U04rqGQ" title="31 logical fallacies in 8 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer">31 logical fallacies in 8 minutes</a></p><p class="youtube-embed-meta">Channel: Jill Bearup &middot; Views: 2.4M &middot; Uploaded: January 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qf03U04rqGQ">Open on YouTube</a></p></div></div></div>
 
 ## Missing Counter-Evidence Is Part of the Evidence Gap
@@ -563,7 +560,6 @@ Critical-thinking guidance often frames this as a duty to seek both confirming a
 
 This is especially important when a claim relies on:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * **Anecdotes:** vivid stories can reveal possibilities but cannot establish rates by themselves.
@@ -575,7 +571,6 @@ This is especially important when a claim relies on:
 </div>
 
 The practical test is whether the argument would still sound persuasive if the missing evidence were placed beside it.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Absence of Evidence Is Not Always the Same Thing
@@ -602,7 +597,6 @@ For a statistical claim, ask: **What does the number actually measure?** The Ame
 
 For a source-based claim, ask: **Does the cited source support the exact conclusion?** Recent research on fallacies in health misinformation has found that credible biomedical publications can be superficially cited in support of false claims, even when the original passages do not actually justify the conclusion being drawn. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.12812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence</span><span class="citation-popover-snippet">arXiv Grounding Fallacies Misrepresenting Scientific Publications in Evidence</span></span></span> The evidence gap is hidden inside the citation itself: the source exists, but the inference from source to claim is faulty.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HpP71KmmlYQ" title="Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HpP71KmmlYQ" target="_blank" rel="noopener noreferrer">Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: tamuwritingcenter &middot; Views: 25.1K &middot; Uploaded: June 2020 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HpP71KmmlYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HpP71KmmlYQ">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Checklist for Reading Persuasive Claims
@@ -628,7 +622,6 @@ Look for absent comparison groups, missing timeframes, unreported failures, igno
 
 Often the honest repair is not to reject the claim completely but to restate it more carefully: “This happened in these cases”, “This suggests a possible link”, or “This is consistent with the claim but does not prove it.”
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Evidence Gaps Connect Different Fallacies
 
@@ -638,9 +631,7 @@ This is why fallacy labels should not be used as shortcuts for dismissal. A clai
 
 The strongest critical readers therefore ask evidence questions before reaching for rhetorical labels. They do not merely ask whether an argument is persuasive. They ask whether the evidence is sufficient, relevant, representative and fairly presented for the conclusion being sold.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sonXfzE1hvo" title="Methods 101: Random Sampling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sonXfzE1hvo" target="_blank" rel="noopener noreferrer">Methods 101: Random Sampling</a></p><p class="youtube-embed-meta">Channel: Pew Research Center &middot; Views: 256.8K &middot; Uploaded: May 2017 &middot; Length: 2 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sonXfzE1hvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sonXfzE1hvo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1295,4 +1286,4 @@ The strongest critical readers therefore ask evidence questions before reaching 
 
 52. <a id="endnote-52"></a>
    Source: logicallyfallacious.com  
-   Link: <a href="https://www.logicallyfallacious.com/critical-thinking-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/critical-thinking-fallacies</a>  
+   Link: <a href="https://www.logicallyfallacious.com/critical-thinking-fallacies" target="_blank" rel="noopener noreferrer nofollow">https://www.logicallyfallacious.com/critical-thinking-fallacies</a>

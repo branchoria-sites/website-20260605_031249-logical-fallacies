@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tradition/
 nav_short_title: Traditional Roles
 title: Does Tradition Make Roles Fair?
-title_full: Does Tradition Make Roles Fair? | Tradition
+title_full: Does Tradition Make Roles Fair?
 display_title_short: Traditional Roles
 display_title: Traditional Roles
 heading_title: Does Tradition Make Roles Fair?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:46:49'
-parent_title: Is Old the Same as Right? | Fallacy Lab
+parent_title: Is Old the Same as Right?
 parent_permalink: /tradition/
 parent_nav_short_title: Tradition
 parent_heading_title: Is Old the Same as Right?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_tradit
 
 Traditional roles are often defended with a simple argument: people have occupied these roles for generations, therefore the roles must be fair, natural or morally correct. This is a specific form of the appeal to [tradition]({{ 'tradition/' | relative_url }}) fallacy. The fact that a role is customary may explain why it exists, but it does not by itself show that the role is just, beneficial or appropriate today.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-1-dark.svg" | relative_url }}" alt="Traditional Roles illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key mistake is a slide from description to moral authority. An argument begins by noting what people have historically done and ends by claiming what people ought to do. Yet social practices, family arrangements and workplace expectations can persist for many reasons besides fairness, including habit, social pressure, legal structures, economic incentives and unequal distributions of power. Research on social norms consistently distinguishes between what people commonly do and what people believe should be done, warning against treating the first as proof of the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/social-norms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Social Norms</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySocial Norms - Stanford Encyclopedia of Philosophyby C Bicchieri · 2011 · Cited by 320 — Since norms a...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10427483/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe dynamics of injunctive social norms</span><span class="citation-popover-snippet">NIHby S Gavrilets · 2020 · Cited by 76 — Injunctive social norms are behaviours that one is expected to follow and expects others t...</span></span></span>
 
@@ -279,7 +278,6 @@ The key mistake is a slide from description to moral authority. An argument begi
 Traditional roles appear in many areas of life: expectations about who cares for children, who leads organisations, who performs domestic labour, who inherits property, or who represents the family in public. In debates about such roles, custom is often presented as evidence of moral legitimacy.
 
 The reasoning typically follows a pattern:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -292,7 +290,6 @@ The reasoning typically follows a pattern:
 The conclusion does not follow from the premises. Longevity may indicate stability, but stability and justice are different questions. A practice can endure because it serves important functions, but it can also endure because alternatives are costly, because sanctions discourage change, or because those disadvantaged by the arrangement have limited influence over institutions. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://theoryandscience.icaap.org/content/vol9.2/Odonnell.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theoryandscience.icaap.org">[2theoryandscience.icaap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theoryandscience.icaap.org</span><span class="citation-popover-snippet">Introduction - Theory and Scienceby IS Norms — Social norms are the motley of informal, often unspoken rules, guides and standards of beh...</span></span></span>
 
 This distinction matters because traditional roles are often evaluated not merely as practical arrangements but as moral expectations. Once a custom acquires the status of an unquestionable duty, criticism can be dismissed without examining whether the underlying reasons remain persuasive.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4xEcdJHNdZE" title="The Is-Ought Problem (David Hume)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4xEcdJHNdZE" target="_blank" rel="noopener noreferrer">The Is-Ought Problem (David Hume)</a></p><p class="youtube-embed-meta">Channel: Philosophy Vibe &middot; Views: 101.1K &middot; Uploaded: March 2018 &middot; Length: 4 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4xEcdJHNdZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4xEcdJHNdZE">Open on YouTube</a></p></div></div></div>
 
@@ -321,7 +318,6 @@ Historical studies of gender roles illustrate this process. Scholars examining l
 
 A similar point appears in historical discussions of property and inheritance. Exclusion from ownership or inheritance has often been justified through tradition. Yet the fact that such exclusions lasted for centuries does not itself demonstrate that they were fair. Their endurance may reflect legal systems, economic structures and power relations as much as moral reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/rural-history/article/legacy-of-history-women-and-the-ownership-of-land-in-ireland/886047CDB23ECACD6C07817FCA6E3B0B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe legacy of history: women and the ownership of land in...by M Curtin · 2025 · Cited by 3 — Thi...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-2-dark.svg" | relative_url }}" alt="Traditional Roles illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Tradition Shields Hierarchy
 
@@ -330,7 +326,6 @@ Traditional roles become especially controversial when they allocate authority, 
 An appeal to tradition may be used to defend hierarchy by suggesting that established arrangements require no further justification. The argument effectively treats historical existence as moral endorsement. Examples can include claims that leadership positions belong primarily to one group, that domestic responsibilities naturally belong to another, or that certain public roles are inappropriate for particular populations because they have not historically occupied them.
 
 The logical problem is not that every traditional role is wrong. Some traditions may continue because they remain valuable and freely chosen. The problem is that tradition alone cannot settle questions about fairness. Once issues of exclusion, unequal opportunity or unequal burdens arise, additional justification is needed. The age of a practice does not answer whether those affected have meaningful choices, whether benefits and costs are distributed fairly, or whether the arrangement respects individual agency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2076-0760/12/3/117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Cultural Roots of Violence against Women: Individual...by V Lomazzi · 2023 · Cited by 103 — This study focuses on individual gen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/09515089.2024.2433523" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineMoral, conventional, personal: reasons for action as...by L Li · 2024 · Cited by 1 — A paradigmatic example is th...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-3-dark.svg" | relative_url }}" alt="Traditional Roles illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_traditional_roles_mo_c024f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fair Questions to Ask About Cost, Meaning and Exclusion
@@ -361,7 +356,6 @@ This thought experiment can reveal whether the defence relies on principle or me
 
 These questions focus attention on reasons, consequences and fairness rather than on age alone.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vTq4V79bivg" title="The Is-Ought Fallacy | Discussed and Examined" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vTq4V79bivg" target="_blank" rel="noopener noreferrer">The Is-Ought Fallacy | Discussed and Examined</a></p><p class="youtube-embed-meta">Channel: Philosophy for All &middot; Views: 465 &middot; Uploaded: February 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vTq4V79bivg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vTq4V79bivg">Open on YouTube</a></p></div></div></div>
 
 ## The Stronger Alternative to the Appeal
@@ -372,9 +366,7 @@ In other words, tradition can be evidence that a practice deserves examination, 
 
 The central lesson is simple: customs describe how societies have organised themselves. Moral arguments must explain why those arrangements should continue. When an argument treats inherited roles as self-justifying, it shifts from historical observation to moral conclusion without supplying the reasoning in between. That gap is where the appeal to tradition occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/social-norms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Social Norms</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySocial Norms - Stanford Encyclopedia of Philosophyby C Bicchieri · 2011 · Cited by 320 — Since norms a...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/entries/social-norms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Social Norms</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophySocial Norms - Stanford Encyclopedia of Philosophyby C Bicchieri · 2011 · Cited by 320 — Since norms a...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7QZcLkbSW_8" title="Appeal to Tradition Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7QZcLkbSW_8" target="_blank" rel="noopener noreferrer">Appeal to Tradition Fallacy</a></p><p class="youtube-embed-meta">Channel: Thinking Is Power with Melanie Trecek-King &middot; Views: 702 &middot; Uploaded: November 2024 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7QZcLkbSW_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7QZcLkbSW_8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -957,4 +949,4 @@ The central lesson is simple: customs describe how societies have organised them
    Title: These women live according to traditional  
    Link: <a href="https://www.cogitatiopress.com/mediaandcommunication/article/view/11927" target="_blank" rel="noopener noreferrer nofollow">https://www.cogitatiopress.com/mediaandcommunication/article/view/11927</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Qualitative Meaning-Making Study of Gendered Norms...14 May 2026 — Tradwives, also called traditional women, are a relatively new and...</p></details>
-   Published: May 2026  
+   Published: May 2026

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /bad-samples/
 nav_short_title: Small Samples
 title: How Many Examples Are Enough?
-title_full: How Many Examples Are Enough? | Bad Samples
+title_full: How Many Examples Are Enough?
 display_title_short: Small Samples
 display_title: Small Samples
 heading_title: How Many Examples Are Enough?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 13:30:38'
-parent_title: How Much Evidence Is Enough? | Fallacy Lab
+parent_title: How Much Evidence Is Enough?
 parent_permalink: /bad-samples/
 parent_nav_short_title: Bad Samples
 parent_heading_title: How Much Evidence Is Enough?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small
 
 A few examples can be enough to make us curious, concerned, or alert. They are rarely enough to prove a sweeping claim. One of the most common forms of hasty generalisation occurs when people move directly from a small number of cases to a conclusion about an entire group, product, policy, or trend. The reasoning feels persuasive because the examples are real, vivid, and easy to remember. The problem is that a handful of observations often tells us more about chance, circumstance, or selection than about the wider population. Statistical research and decades of work in cognitive psychology show that people routinely overestimate how much a small sample reveals about a larger reality. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[2stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-1-dark.svg" | relative_url }}" alt="Small Samples illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is not whether the examples happened. It is whether the number and type of examples justify the size of the conclusion being drawn from them.
 
@@ -285,7 +284,6 @@ The key question is not whether the examples happened. It is whether the number 
 The mechanism behind this fallacy is surprisingly simple. A person observes several similar cases and assumes they reveal a stable pattern.
 
 Consider these everyday arguments:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ Each example contains genuine observations. The mistake occurs when those observ
 Psychologists Amos Tversky and Daniel Kahneman described a related tendency as the “belief in the law of small numbers”: people often expect small samples to resemble the larger population much more closely than they actually do. In reality, small samples are highly variable and can produce misleading patterns purely by chance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow sample size influences research outcomes</span><span class="citation-popover-snippet">Very small samples undermine the internal and external validity of a study.Read more...</span></span></span>
 
 The leap from “these cases happened” to “this is generally true” is the critical step where the fallacy occurs.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A4p3QILDFso" title="Why Small Samples Fool Us: The Law of Small Numbers Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A4p3QILDFso" target="_blank" rel="noopener noreferrer">Why Small Samples Fool Us: The Law of Small Numbers Explained</a></p><p class="youtube-embed-meta">Channel: Beyond Behavior &middot; Views: 156 &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A4p3QILDFso" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A4p3QILDFso">Open on YouTube</a></p></div></div></div>
 
@@ -323,7 +320,6 @@ Research on sample size consistently shows that very small samples provide unsta
 
 This is why striking anecdotes often feel more convincing than they deserve. A dramatic cluster of cases attracts attention precisely because it stands out from what normally happens.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MntX3zWNWec" title="Law of Large Numbers - Explained and Visualized" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MntX3zWNWec" target="_blank" rel="noopener noreferrer">Law of Large Numbers - Explained and Visualized</a></p><p class="youtube-embed-meta">Channel: Jeremy Blitz-Jones &middot; Views: 278.3K &middot; Uploaded: November 2015 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MntX3zWNWec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MntX3zWNWec">Open on YouTube</a></p></div></div></div>
 
 ## Why Vivid Examples Feel More Convincing Than Statistics
@@ -336,7 +332,6 @@ Research on persuasion shows that people frequently give substantial weight to i
 
 This does not make anecdotes worthless. They can:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * Highlight possible problems.
@@ -347,7 +342,6 @@ This does not make anecdotes worthless. They can:
 </div>
 
 What they usually cannot do by themselves is establish how common, typical, or representative those experiences are.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-2-dark.svg" | relative_url }}" alt="Small Samples illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Matching Claim Size to Evidence Size
@@ -370,7 +364,6 @@ Sometimes a small number of cases is enough to justify concern or further invest
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * One confirmed contamination event may justify testing other batches.
@@ -383,7 +376,6 @@ Notice the difference. These responses are cautious. They treat the evidence as 
 
 A careful reasoner says:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “This may indicate a problem.”
@@ -393,7 +385,6 @@ A careful reasoner says:
 </div>
 
 A hasty generaliser says:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -405,13 +396,11 @@ A hasty generaliser says:
 
 The first approach recognises uncertainty. The second assumes certainty before the evidence [warrants]({{ 'warrants/' | relative_url }}) it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HoMb4nKTZwg" title="The Law of Small Numbers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HoMb4nKTZwg" target="_blank" rel="noopener noreferrer">The Law of Small Numbers</a></p><p class="youtube-embed-meta">Channel: Matt Mignogna &middot; Views: 18.1K &middot; Uploaded: June 2016 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HoMb4nKTZwg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HoMb4nKTZwg">Open on YouTube</a></p></div></div></div>
 
 ## Spotting the Fallacy in Everyday Arguments
 
 Several warning signs often indicate that small samples are being turned into sweeping claims:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -431,7 +420,6 @@ When these features appear together, the risk of hasty generalisation increases 
 Small samples are valuable starting points. They can reveal possibilities, raise questions, and identify risks that deserve attention. What they usually cannot do is settle broad questions about large populations, social trends, products, or policies.
 
 The central mechanism of this fallacy is a mismatch between evidence and conclusion. A few observations are treated as though they capture the whole picture. The result is overconfidence in claims that extend far beyond what the available evidence can actually support. Statistical reasoning, survey methodology, and research on human judgement all point to the same lesson: a handful of cases may suggest a pattern, but it rarely proves one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/17470218241255916" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Revisiting representativeness heuristic classic paradigmsKahneman and Tversky showed that when people make probability judgements, they t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow sample size influences research outcomes</span><span class="citation-popover-snippet">Very small samples undermine the internal and external validity of a study.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stats.org.uk/statistical-inference/TverskyKahneman1971.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stats.org.uk">[3stats.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stats.org.uk</span><span class="citation-popover-title">BELIE F IN THE LAW OF SMALL NUMBERS</span><span class="citation-popover-snippet">In particular, they regard a sample randomly drawn from a population as highly representative.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-3-dark.svg" | relative_url }}" alt="Small Samples illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c_small_samples_sweepi_87c67c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /rumours/
 nav_short_title: No Disproof
 title: Why no disproof is not proof
-title_full: Why no disproof is not proof | Rumours
+title_full: Why no disproof is not proof
 display_title_short: No Disproof
 display_title: No Disproof
 heading_title: Why no disproof is not proof
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:21:10'
-parent_title: Why Rumours Feel Like Evidence | Fallacy Lab
+parent_title: Why Rumours Feel Like Evidence
 parent_permalink: /rumours/
 parent_nav_short_title: Rumours
 parent_heading_title: Why Rumours Feel Like Evidence
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_dispro
 
 A rumour does not become more credible simply because nobody has disproved it. One of the most persistent traps in [rumours]({{ 'rumours/' | relative_url }}) and unverified claims is the assumption that the absence of disproof counts as evidence. In logic, this is usually known as an appeal to [ignorance]({{ 'ignorance/' | relative_url }}): treating a lack of contrary evidence as proof that a claim is true. The result is a subtle shift from “we do not know” to “it must be true”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAn appeal to ignorance is an argument for a conclusion based on a lack of evidence. There are two for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_from_ignorance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from ignorance</span><span class="citation-popover-snippet">Argument from ignoranceArgument from ignorance (Latin: argumentum ad ignorantiam), or appeal to ignorance, is an informal fallacy whe...</span></span></span> This trap matters because rumours often thrive in situations where evidence is incomplete, records are inaccessible, or events are difficult to verify. Under those conditions, uncertainty itself can be mistaken for support. The rumour gains strength not from proof, but from the inability of others to eliminate every possible version of it.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-1-dark.svg" | relative_url }}" alt="No Disproof illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why no disproof is not proof
 
@@ -297,7 +296,6 @@ Instead of providing documentation, witnesses, records, or other verification, t
 
 The pattern often sounds like this:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “Can you prove it never happened?”
@@ -310,7 +308,6 @@ These statements create the impression that unanswered questions are evidence. I
 
 Logical guides consistently note that the burden of proof normally rests with the person advancing the claim. Failure to refute a statement does not automatically validate it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Appeal to IgnoranceAn appeal to ignorance is an argument for a conclusion based on a lack of evidence. There are two for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/burden-of-proof-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[QuillBot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">Quill Bot What Is the Burden of Proof Fallacy?</span><span class="citation-popover-snippet">Definition &amp; ExamplesJune 24, 2024 — 24 Jun 2024 — Appeal to ignorance: Asserts that a claim is true or false simply because the opposi...</span><span class="citation-popover-meta">Published: June 24, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L9rkQJ91VOE" title="Can you outsmart the fallacy that started a witch hunt? - Elizabeth Cox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L9rkQJ91VOE" target="_blank" rel="noopener noreferrer">Can you outsmart the fallacy that started a witch hunt? - Elizabeth Cox</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.4M &middot; Uploaded: October 2020 &middot; Length: 4 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L9rkQJ91VOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L9rkQJ91VOE">Open on YouTube</a></p></div></div></div>
 
 ## Why vague claims become harder to check
@@ -320,7 +317,6 @@ Rumours often survive because they are difficult to test rather than because the
 A vague claim can be endlessly adjusted when challenged. If one version is questioned, another version appears. Anonymous sources, unnamed witnesses, secret conversations, deleted documents, or alleged cover-ups can make a rumour resistant to verification. The claim becomes harder to evaluate, but not more credible.
 
 This creates an asymmetry:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -334,7 +330,6 @@ As a result, people may wrongly conclude that the rumour survives scrutiny. In r
 
 The inability to conclusively disprove a flexible claim is often a sign of poor definition rather than strong evidence. A statement that cannot be clearly checked cannot be strongly confirmed either.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-2-dark.svg" | relative_url }}" alt="No Disproof illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why uncertainty feels persuasive
 
@@ -343,7 +338,6 @@ Human reasoning is uncomfortable with unresolved questions. During crises, scand
 Rumours exploit that discomfort. A claim that cannot be disproved can feel plausible because it appears to fill an information gap. Psychological research on misinformation and fallacious reasoning shows that people can find arguments convincing even when the logical support is weak, especially when [emotion]({{ 'emotion/' | relative_url }}) or uncertainty is involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2510.09695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Emotionally Charged, Logically Blurred: AI-driven Emotional Framing Impairs Human Fallacy DetectionOctober 9, 2025...</span><span class="citation-popover-meta">Published: October 9, 2025</span></span></span>
 
 The emotional appeal often follows a familiar pattern:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -355,7 +349,6 @@ The emotional appeal often follows a familiar pattern:
 </div>
 
 At no stage does positive evidence necessarily appear, yet confidence grows.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e2dYW1pSQy8" title="The Argument from Ignorance - Debunked (The Appeal to Ignorance - Refuted)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e2dYW1pSQy8" target="_blank" rel="noopener noreferrer">The Argument from Ignorance - Debunked (The Appeal to Ignorance - Refuted)</a></p><p class="youtube-embed-meta">Channel: Rationality Rules &middot; Views: 59.3K &middot; Uploaded: March 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e2dYW1pSQy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e2dYW1pSQy8">Open on YouTube</a></p></div></div></div>
 
@@ -371,7 +364,6 @@ A claim is confirmed when reliable evidence supports it. Independent verificatio
 
 A claim is disconfirmed when reliable evidence shows it is false, misleading, fabricated, or inconsistent with known facts.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yCWFRvo2jDU" title="Argument From Ignorance: Can&#x27;t Prove a Thing - Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yCWFRvo2jDU" target="_blank" rel="noopener noreferrer">Argument From Ignorance: Can&#x27;t Prove a Thing - Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 5.5K &middot; Uploaded: April 2020 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yCWFRvo2jDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yCWFRvo2jDU">Open on YouTube</a></p></div></div></div>
 
 ### Unverified
@@ -381,7 +373,6 @@ A claim is unverified when available information does not yet justify either con
 This third category is where many rumours belong. Importantly, unverified does not mean “probably true”. It also does not mean “definitely false”. It means that the evidence is currently insufficient for a confident judgement. Information-integrity frameworks commonly treat rumours as unverified information that may later prove true, false, or partly true. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/understanding-challenge/glossary-terms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary terms</span><span class="citation-popover-snippet">Glossary of terms &#124; UNHCR Information Integrity Toolkit16 Dec 2024 — Glossary of terms · Information Integrity · Risks to Informatio...</span></span></span>
 
 Maintaining that distinction prevents uncertainty from being mistaken for proof.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-3-dark.svg" | relative_url }}" alt="No Disproof illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_no_disproof_trap_e8966b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A simple test for the rumour trap

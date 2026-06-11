@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /relevance/
 nav_short_title: Popularity
 title: Does Popular Belief Make a Claim True?
-title_full: Does Popular Belief Make a Claim True? | Relevance
+title_full: Does Popular Belief Make a Claim True?
 display_title_short: Popularity
 display_title: Popularity
 heading_title: Does Popular Belief Make a Claim True?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:15:17'
-parent_title: Does This Reason Actually Matter? | Fallacy Lab
+parent_title: Does This Reason Actually Matter?
 parent_permalink: /relevance/
 parent_nav_short_title: Relevance
 parent_heading_title: Does This Reason Actually Matter?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity
 
 Does popular belief make a claim true? In most cases, no. A large majority can reveal what people think, prefer, fear or support, but it does not by itself establish that a factual, scientific, historical or moral claim is correct. This distinction is central to [relevance]({{ 'relevance/' | relative_url }}) testing in logic. When an argument moves from “many people believe this” to “therefore it is true”, it substitutes evidence about opinion for evidence about the claim itself. Logicians traditionally classify this mistake as an appeal to popularity, or *ad populum* reasoning. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span> The mistake matters because popularity often feels persuasive. Human beings are social creatures, and majority views can provide useful information. Yet a belief can be widely accepted and still be false, just as a minority view can be correct. The key relevance question is not how many people agree, but whether the popularity of the belief bears directly on the truth of the conclusion.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Where Popularity Evidence Is Relevant
 
@@ -294,9 +293,86 @@ These examples show that popularity can be relevant when the conclusion is about
 
 The appeal to popularity becomes fallacious when the argument follows this pattern:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MDCORPK8rKw" title="😎 Appeal Meaning - Appeal Defined - Appealing Examples - Appeal Definition - Appeal Appealing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MDCORPK8rKw" target="_blank" rel="noopener noreferrer">😎 Appeal Meaning - Appeal Defined - Appealing Examples - Appeal Definition - Appeal Appealing</a></p><p class="youtube-embed-meta">Channel: iswearenglish &middot; Views: 2.8K &middot; Uploaded: November 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MDCORPK8rKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MDCORPK8rKw">Open on YouTube</a></p></div></div></div>
 
+1. Many people believe claim X. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
+2. Therefore claim X is true.
+
+The weakness lies in the missing connection between belief and reality. Whether people believe something and whether it is true are separate questions. A belief can be sincere, widespread and mistaken. Logical reference works consistently identify this move as a fallacy because it replaces reasons and evidence with popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span>
+
+Consider several common forms:
+
+* **Historical claims:** “People believed for centuries that a certain event happened exactly this way, so it must be true.”
+* **Scientific claims:** “Millions of people reject a scientific finding, therefore the finding is false.”
+* **Moral claims:** “Most people approve of this practice, therefore it is morally right.”
+* **Commercial claims:** “This is the best product because it is the most popular.”
+
+In each case, popularity may describe social reality, but it does not settle the substantive question. Evidence about historical records, scientific testing, ethical principles or product performance is still required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/bandwagn.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">The Bandwagon FallacyThe Bandwagon Fallacy is committed whenever one argues for an idea based upon an irrelevant appeal to its popularity...</span></span></span>
+
+A useful relevance test asks: if the number of believers suddenly changed, would the facts change as well? For many factual claims, the answer is clearly no. A disease does not become harmless because most people think it is harmless. A historical event does not become real because a majority believes it occurred.
+
+## Why Majorities Can Be Wrong
+
+One reason the fallacy persists is that people often assume large groups are unlikely to make the same mistake. Yet history contains many examples of widely accepted beliefs later shown to be false.
+
+The underlying [mechanisms]({{ 'mechanisms/' | relative_url }}) are well studied. People learn from one another, imitate respected peers and respond to social pressure. A belief can spread because it is repeated, rewarded or culturally embedded rather than because it has been independently verified.
+
+The classic conformity experiments conducted by psychologist Solomon Asch demonstrated that individuals sometimes agree with a majority even when the majority's answer is obviously wrong. Participants frequently altered their responses to align with a group consensus despite clear visual evidence to the contrary. Later replications and extensions found that social influence remains powerful across different contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">asch conformity</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line Experiment15 May 2025 — Solomon Asch experimented with investigating the extent to which social pre...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">power of social influence: A replication and extension of...by A Franzen · 2023 · Cited by 61 — In this paper, we pursue four goals: Fir...</span></span></span>
+
+These findings do not prove that majorities are usually wrong. They show something more important for reasoning: popularity and truth can diverge. The fact that many people endorse a claim may reflect social influence rather than evidential strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-title">Verywell Mind The Asch Conformity Experiments</span><span class="citation-popover-snippet">Verywell MindThe Asch Conformity ExperimentsFebruary 9, 2009 — 26 Oct 2025 — After combining the trials, the results indicated that parti...</span><span class="citation-popover-meta">Published: February 9, 2009</span></span></span>
+
+<img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-2-dark.svg" | relative_url }}" alt="Popularity illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Popularity, Governance and Public Decision-Making
+
+Governance creates a special challenge because democratic systems depend on counting opinions while also requiring accurate information.
+
+A majority vote can legitimately determine who wins an election or whether a proposal receives political support. In those situations, popularity is part of the decision rule. Yet even overwhelming electoral support does not transform a factual claim into a true one. A government may enjoy broad public backing while still making incorrect assessments about economics, health, security or history.
+
+This distinction helps separate democratic legitimacy from epistemic validity. A policy may be democratically authorised because many citizens support it. Whether the policy's factual assumptions are correct requires additional evidence. Confusing these two questions often leads to poor public reasoning.
+
+In practical terms:
+
+* Polls can reveal preferences.
+* Elections can reveal collective choices.
+* Surveys can reveal attitudes.
+* None of these automatically reveal objective truth.
+
+The relevance test asks which of these questions is actually under discussion.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkK5eA_qhFk" title="Asch’s Conformity Experiment on Groupthink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer">Asch’s Conformity Experiment on Groupthink</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 363.1K &middot; Uploaded: July 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkK5eA_qhFk">Open on YouTube</a></p></div></div></div>
+
+## Questions That Separate Opinion from Proof
+
+When encountering a popularity-based argument, several questions help determine whether the popularity evidence is relevant.
+
+### What Exactly Does the Majority Agree About?
+
+Sometimes agreement concerns preferences rather than facts. If most residents prefer a particular transport policy, that tells us something important about public priorities. It does not necessarily tell us whether the policy will achieve its stated goals.
+
+### What Independent Evidence Supports the Claim?
+
+If popularity disappeared, what evidence would remain? Reliable arguments should still have supporting reasons after the crowd is removed from the picture.
+
+### Could the Majority Be Influenced by the Same Source?
+
+A million people repeating the same unsupported claim may represent one piece of information repeated many times rather than a million independent confirmations.
+
+<img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-3-dark.svg" | relative_url }}" alt="Popularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Is the Issue About Convention or About Reality?
+
+Questions about language, customs or collective rules often depend on social agreement. Questions about scientific facts, historical events or physical processes generally require evidence that exists independently of public opinion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experimentsIn psychology, the Asch conformity experiments were a series of studies testing the Asch paradigm, directed...</span></span></span>
+
+### Would Expert Agreement Matter for a Different Reason?
+
+A broad [expert consensus]({{ 'expert-consensus/' | relative_url }}) may carry evidential weight because it reflects specialised investigation, testing and review. The relevant factor is not merely the number of people agreeing but the quality of the underlying evidence and expertise.
+
+## A Practical Relevance Test
+
+Popularity claims become stronger reasoning only when they are connected to the specific issue being debated. If the issue is what people prefer, support or accept, popularity may be highly relevant. If the issue is whether a factual claim is true, popularity alone is usually beside the point.
+
+A simple test is to replace the statement “many people believe this” with “many people believe this, but they might all be mistaken”. If the argument collapses, it was relying on popularity rather than proof. That is the hallmark of an appeal to popularity: treating widespread belief as if it were evidence of truth rather than evidence of what people happen to think. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/70nPe7Fo3DA" title="Critical Thinking: The Fallacy of Appeal To Popularity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=70nPe7Fo3DA" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal To Popularity</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 4.9K &middot; Uploaded: November 2014 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=70nPe7Fo3DA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=70nPe7Fo3DA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -714,89 +790,6 @@ The appeal to popularity becomes fallacious when the argument follows this patte
 })();
 </script>
 </section>
-
-1. Many people believe claim X. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
-2. Therefore claim X is true.
-
-The weakness lies in the missing connection between belief and reality. Whether people believe something and whether it is true are separate questions. A belief can be sincere, widespread and mistaken. Logical reference works consistently identify this move as a fallacy because it replaces reasons and evidence with popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/argumentum-ad-populum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">argumentum ad populum</span><span class="citation-popover-snippet">Encyclopedia BritannicaArgumentum ad populum &#124; logicFeb 13, 2026 — Argument ad populum (an appeal “to the people”), which, instead of off...</span></span></span>
-
-Consider several common forms:
-
-* **Historical claims:** “People believed for centuries that a certain event happened exactly this way, so it must be true.”
-* **Scientific claims:** “Millions of people reject a scientific finding, therefore the finding is false.”
-* **Moral claims:** “Most people approve of this practice, therefore it is morally right.”
-* **Commercial claims:** “This is the best product because it is the most popular.”
-
-In each case, popularity may describe social reality, but it does not settle the substantive question. Evidence about historical records, scientific testing, ethical principles or product performance is still required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/bandwagn.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">The Bandwagon FallacyThe Bandwagon Fallacy is committed whenever one argues for an idea based upon an irrelevant appeal to its popularity...</span></span></span>
-
-A useful relevance test asks: if the number of believers suddenly changed, would the facts change as well? For many factual claims, the answer is clearly no. A disease does not become harmless because most people think it is harmless. A historical event does not become real because a majority believes it occurred.
-
-## Why Majorities Can Be Wrong
-
-One reason the fallacy persists is that people often assume large groups are unlikely to make the same mistake. Yet history contains many examples of widely accepted beliefs later shown to be false.
-
-The underlying [mechanisms]({{ 'mechanisms/' | relative_url }}) are well studied. People learn from one another, imitate respected peers and respond to social pressure. A belief can spread because it is repeated, rewarded or culturally embedded rather than because it has been independently verified.
-
-The classic conformity experiments conducted by psychologist Solomon Asch demonstrated that individuals sometimes agree with a majority even when the majority's answer is obviously wrong. Participants frequently altered their responses to align with a group consensus despite clear visual evidence to the contrary. Later replications and extensions found that social influence remains powerful across different contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/asch-conformity.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">asch conformity</span><span class="citation-popover-snippet">Simply PsychologyAsch Conformity Line Experiment15 May 2025 — Solomon Asch experimented with investigating the extent to which social pre...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10686423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">power of social influence: A replication and extension of...by A Franzen · 2023 · Cited by 61 — In this paper, we pursue four goals: Fir...</span></span></span>
-
-These findings do not prove that majorities are usually wrong. They show something more important for reasoning: popularity and truth can diverge. The fact that many people endorse a claim may reflect social influence rather than evidential strength. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/the-asch-conformity-experiments-2794996" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Verywell Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-title">Verywell Mind The Asch Conformity Experiments</span><span class="citation-popover-snippet">Verywell MindThe Asch Conformity ExperimentsFebruary 9, 2009 — 26 Oct 2025 — After combining the trials, the results indicated that parti...</span><span class="citation-popover-meta">Published: February 9, 2009</span></span></span>
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-2-dark.svg" | relative_url }}" alt="Popularity illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Popularity, Governance and Public Decision-Making
-
-Governance creates a special challenge because democratic systems depend on counting opinions while also requiring accurate information.
-
-A majority vote can legitimately determine who wins an election or whether a proposal receives political support. In those situations, popularity is part of the decision rule. Yet even overwhelming electoral support does not transform a factual claim into a true one. A government may enjoy broad public backing while still making incorrect assessments about economics, health, security or history.
-
-This distinction helps separate democratic legitimacy from epistemic validity. A policy may be democratically authorised because many citizens support it. Whether the policy's factual assumptions are correct requires additional evidence. Confusing these two questions often leads to poor public reasoning.
-
-In practical terms:
-
-* Polls can reveal preferences.
-* Elections can reveal collective choices.
-* Surveys can reveal attitudes.
-* None of these automatically reveal objective truth.
-
-The relevance test asks which of these questions is actually under discussion.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkK5eA_qhFk" title="Asch’s Conformity Experiment on Groupthink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer">Asch’s Conformity Experiment on Groupthink</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 363.1K &middot; Uploaded: July 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkK5eA_qhFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkK5eA_qhFk">Open on YouTube</a></p></div></div></div>
-
-## Questions That Separate Opinion from Proof
-
-When encountering a popularity-based argument, several questions help determine whether the popularity evidence is relevant.
-
-### What Exactly Does the Majority Agree About?
-
-Sometimes agreement concerns preferences rather than facts. If most residents prefer a particular transport policy, that tells us something important about public priorities. It does not necessarily tell us whether the policy will achieve its stated goals.
-
-### What Independent Evidence Supports the Claim?
-
-If popularity disappeared, what evidence would remain? Reliable arguments should still have supporting reasons after the crowd is removed from the picture.
-
-### Could the Majority Be Influenced by the Same Source?
-
-A million people repeating the same unsupported claim may represent one piece of information repeated many times rather than a million independent confirmations.
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-3-dark.svg" | relative_url }}" alt="Popularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_relevance_tests_0373ab_popularity_truth_tes_4ffcfd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Is the Issue About Convention or About Reality?
-
-Questions about language, customs or collective rules often depend on social agreement. Questions about scientific facts, historical events or physical processes generally require evidence that exists independently of public opinion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Asch_conformity_experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Asch conformity experiments</span><span class="citation-popover-snippet">Asch conformity experimentsIn psychology, the Asch conformity experiments were a series of studies testing the Asch paradigm, directed...</span></span></span>
-
-### Would Expert Agreement Matter for a Different Reason?
-
-A broad [expert consensus]({{ 'expert-consensus/' | relative_url }}) may carry evidential weight because it reflects specialised investigation, testing and review. The relevant factor is not merely the number of people agreeing but the quality of the underlying evidence and expertise.
-
-## A Practical Relevance Test
-
-Popularity claims become stronger reasoning only when they are connected to the specific issue being debated. If the issue is what people prefer, support or accept, popularity may be highly relevant. If the issue is whether a factual claim is true, popularity alone is usually beside the point.
-
-A simple test is to replace the statement “many people believe this” with “many people believe this, but they might all be mistaken”. If the argument collapses, it was relying on popularity rather than proof. That is the hallmark of an appeal to popularity: treating widespread belief as if it were evidence of truth rather than evidence of what people happen to think. Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/ad-populum-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">ad populum fallacy</span><span class="citation-popover-snippet">What Is Ad Populum Fallacy? &#124; Definition &amp; ExamplesJun 20, 2023 — Ad populum fallacy is arguing that a claim is true simply because that&#x27;...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/70nPe7Fo3DA" title="Critical Thinking: The Fallacy of Appeal To Popularity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=70nPe7Fo3DA" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Appeal To Popularity</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 4.9K &middot; Uploaded: November 2014 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=70nPe7Fo3DA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=70nPe7Fo3DA">Open on YouTube</a></p></div></div></div>
 
 ## Endnotes
 

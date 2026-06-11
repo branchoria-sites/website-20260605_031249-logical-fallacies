@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /rumours/
 nav_short_title: Viral Proof
 title: When sharing looks like evidence
-title_full: When sharing looks like evidence | Rumours
+title_full: When sharing looks like evidence
 display_title_short: Viral Proof
 display_title: Viral Proof
 heading_title: When sharing looks like evidence
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:22:13'
-parent_title: Why Rumours Feel Like Evidence | Fallacy Lab
+parent_title: Why Rumours Feel Like Evidence
 parent_permalink: /rumours/
 parent_nav_short_title: Rumours
 parent_heading_title: Why Rumours Feel Like Evidence
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sha
 
 One of the most persuasive mistakes in online rumours is treating widespread sharing as if it were independent confirmation. A claim appears on [social media]({{ 'social-media/' | relative_url }}), is reposted thousands of times, discussed in comments, copied into [screenshots]({{ 'screenshots/' | relative_url }}), and repeated across multiple platforms. By the time many people encounter it, the rumour seems to have been verified by sheer volume. In reality, all those apparent confirmations may trace back to a single unverified source.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-1-dark.svg" | relative_url }}" alt="Viral Proof illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This fallacy matters because people often use repetition as a shortcut for credibility. If dozens of accounts appear to be reporting the same thing, it can feel as though dozens of people have independently checked it. Yet viral circulation and independent evidence are different things. A rumour can spread extremely widely without gaining a single new piece of supporting evidence. Research on online misinformation repeatedly shows that false claims can spread rapidly and broadly, creating a powerful illusion of corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
@@ -301,7 +300,6 @@ Several factors amplify this tendency:
 
 Research on misinformation and platform design suggests that engagement-based systems can create feedback loops in which visibility generates more engagement, which in turn generates more visibility. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0047272726000253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Ranking for engagement: How social media algorithms fuel...by F Germano · 2026 · Cited by 16 — Boosting sharing-based engag...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cSKGa_7XJkg" title="How false news can spread - Noah Tavlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer">How false news can spread - Noah Tavlin</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 2.6M &middot; Uploaded: August 2015 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cSKGa_7XJkg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cSKGa_7XJkg">Open on YouTube</a></p></div></div></div>
 
 ## When Many Sources Are Really One Source
@@ -314,6 +312,76 @@ Consider a typical online chain:
 2. Several users repost it.
 3. A blog writes an article based on the reposts.
 4. Other sites cite the blog.
+5. Social media users share screenshots of those articles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirg.org">[pirg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirg.org</span><span class="citation-popover-title">misinformation on social media</span><span class="citation-popover-snippet">How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</span></span></span>
+
+At first glance, the rumour appears to be supported by numerous accounts, websites, and discussions. Yet every link in the chain depends on the same original assertion.
+
+This phenomenon is sometimes called source laundering or source [circularity]({{ 'circularity/' | relative_url }}). Information gains an appearance of legitimacy because it is repeated through multiple channels, not because new evidence has emerged. The rumour becomes surrounded by references to itself.
+
+The result is a misleading form of apparent consensus. What looks like corroboration is often merely distribution.
+
+<img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-dark.svg" | relative_url }}" alt="Viral Proof illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Illusion of Truth Through Repetition
+
+Another reason viral [rumours]({{ 'rumours/' | relative_url }}) feel convincing is that repeated exposure can increase perceived truthfulness. Psychologists refer to this tendency as the illusory truth effect: information often feels more believable simply because it has been encountered before. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</span></span></span>, familiarity is not the same as verification.
+
+A person may encounter a claim:
+
+* in a social media post, <span class="citation-chip-wrap"><a class="citation-chip" href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirg.org">[pirg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirg.org</span><span class="citation-popover-title">misinformation on social media</span><span class="citation-popover-snippet">How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</span></span></span>
+* in a reposted screenshot,
+* in a comment thread,
+* in a discussion forum,
+* and in a messaging app.
+
+Even when all versions ultimately derive from the same source, the repeated encounters can create a feeling that the information is established fact. Familiarity is experienced as confidence.
+
+This helps explain why some rumours continue circulating after they have been questioned or debunked. Repetition leaves a cognitive trace even when supporting evidence remains weak.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cXFxRkjZNiw" title="Illusory Truth Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer">Illusory Truth Effect</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.1K &middot; Uploaded: January 2026 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cXFxRkjZNiw">Open on YouTube</a></p></div></div></div>
+
+## Why Viral Rumours Spread So Easily
+
+The appearance of confirmation is strengthened by the kinds of stories that tend to go viral. Research examining large-scale rumour diffusion on social networks found that false news spread farther, faster, deeper, and more broadly than truthful information in the studied dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span> PubMed A viral rumour often succeeds because it is: <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span>
+
+* surprising,
+* emotionally engaging,
+* alarming,
+* identity-affirming,
+* or highly shareable.
+
+These qualities affect transmission, not accuracy.
+
+In practice, users frequently share content for reasons unrelated to belief. Some share to discuss it, joke about it, criticise it, or signal group identity. Research suggests that sharing behaviour and accuracy judgements can diverge; people do not always treat truthfulness as the primary factor when deciding what to circulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</span></span></span>
+
+As a result, a large volume of sharing can reflect attention rather than confirmation.
+
+<img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-3-dark.svg" | relative_url }}" alt="Viral Proof illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How to Trace One Rumour Back to Its Source
+
+The most effective response to the viral-proof fallacy is to examine origins rather than volume.
+
+Digital literacy researchers often recommend forms of lateral reading and source tracing that focus on finding the earliest evidence behind a claim rather than relying on how often it appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[UChicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">Library Guides The SIFT Method</span><span class="citation-popover-snippet">UChicago Library GuidesThe SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[2libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — Lateral reading provides a more complete picture of the credibility of a sou...</span></span></span>
+
+A practical approach is:
+
+1. **Stop before accepting popularity as evidence.**
+2. **Identify the earliest version you can find.**
+3. **Ask who originally made the claim.**
+4. **Look for independent reporting or documentation.**
+5. **Check whether later articles are citing one another rather than new evidence.**
+6. **Distinguish primary evidence from commentary and reposts.**
+
+A rumour's credibility changes dramatically when traced back to its source. What looked like hundreds of confirmations may collapse into a single unverified statement.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n-HKOWaq2OE" title="How does misleading and emotionally charged content spread faster than facts?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n-HKOWaq2OE" target="_blank" rel="noopener noreferrer">How does misleading and emotionally charged content spread faster than facts?</a></p><p class="youtube-embed-meta">Channel: Cornell University &middot; Views: 730 &middot; Uploaded: March 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n-HKOWaq2OE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n-HKOWaq2OE">Open on YouTube</a></p></div></div></div>
+
+## The Key Distinction: Reach Is Not Evidence
+
+The central lesson is straightforward. Viral sharing measures reach, not truth. A rumour can accumulate millions of views, thousands of comments, and widespread discussion without gaining any additional evidential support.
+
+Independent confirmation requires separate sources that arrive at the same conclusion through their own observations, records, investigations, or testimony. Repetition alone does not meet that standard.
+
+In the [context]({{ 'context/' | relative_url }}) of rumours and unverified claims, the fallacy arises when social visibility is treated as proof. The number of times a claim is shared may tell us how effectively it travelled through a network. It does not, by itself, tell us whether the claim is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -731,81 +799,6 @@ Consider a typical online chain:
 })();
 </script>
 </section>
-
-5. Social media users share screenshots of those articles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirg.org">[pirg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirg.org</span><span class="citation-popover-title">misinformation on social media</span><span class="citation-popover-snippet">How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</span></span></span>
-
-At first glance, the rumour appears to be supported by numerous accounts, websites, and discussions. Yet every link in the chain depends on the same original assertion.
-
-This phenomenon is sometimes called source laundering or source [circularity]({{ 'circularity/' | relative_url }}). Information gains an appearance of legitimacy because it is repeated through multiple channels, not because new evidence has emerged. The rumour becomes surrounded by references to itself.
-
-The result is a misleading form of apparent consensus. What looks like corroboration is often merely distribution.
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-dark.svg" | relative_url }}" alt="Viral Proof illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The Illusion of Truth Through Repetition
-
-Another reason viral [rumours]({{ 'rumours/' | relative_url }}) feel convincing is that repeated exposure can increase perceived truthfulness. Psychologists refer to this tendency as the illusory truth effect: information often feels more believable simply because it has been encountered before. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369031522_The_illusory_truth_effect_leads_to_the_spread_of_misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The illusory truth effect leads to the spread of misinformation23 Apr 2026 — By rewarding engagement over accuracy, social me...</span></span></span>, familiarity is not the same as verification.
-
-A person may encounter a claim:
-
-* in a social media post, <span class="citation-chip-wrap"><a class="citation-chip" href="https://pirg.org/edfund/articles/misinformation-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pirg.org">[pirg.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pirg.org</span><span class="citation-popover-title">misinformation on social media</span><span class="citation-popover-snippet">How misinformation on social media has changed news30 Jul 2025 — Misinformation that seems real - but isn&#x27;t - rapidly circulates through...</span></span></span>
-* in a reposted screenshot,
-* in a comment thread,
-* in a discussion forum,
-* and in a messaging app.
-
-Even when all versions ultimately derive from the same source, the repeated encounters can create a feeling that the information is established fact. Familiarity is experienced as confidence.
-
-This helps explain why some rumours continue circulating after they have been questioned or debunked. Repetition leaves a cognitive trace even when supporting evidence remains weak.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cXFxRkjZNiw" title="Illusory Truth Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer">Illusory Truth Effect</a></p><p class="youtube-embed-meta">Channel: American Psychological Association &middot; Views: 1.1K &middot; Uploaded: January 2026 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cXFxRkjZNiw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cXFxRkjZNiw">Open on YouTube</a></p></div></div></div>
-
-## Why Viral Rumours Spread So Easily
-
-The appearance of confirmation is strengthened by the kinds of stories that tend to go viral. Research examining large-scale rumour diffusion on social networks found that false news spread farther, faster, deeper, and more broadly than truthful information in the studied dataset. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span> PubMed A viral rumour often succeeds because it is: <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span>
-
-* surprising,
-* emotionally engaging,
-* alarming,
-* identity-affirming,
-* or highly shareable.
-
-These qualities affect transmission, not accuracy.
-
-In practice, users frequently share content for reasons unrelated to belief. Some share to discuss it, joke about it, criticise it, or signal group identity. Research suggests that sharing behaviour and accuracy judgements can diverge; people do not always treat truthfulness as the primary factor when deciding what to circulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41586-021-03344-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Shifting attention to accuracy can reduce misinformation...by G Pennycook · 2021 · Cited by 1596 — First, we find that the veracit...</span></span></span>
-
-As a result, a large volume of sharing can reflect attention rather than confirmation.
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-3-dark.svg" | relative_url }}" alt="Viral Proof illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_viral_sharing_confir_d1d0a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## How to Trace One Rumour Back to Its Source
-
-The most effective response to the viral-proof fallacy is to examine origins rather than volume.
-
-Digital literacy researchers often recommend forms of lateral reading and source tracing that focus on finding the earliest evidence behind a claim rather than relying on how often it appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://guides.lib.uchicago.edu/c.php?g=1241077&amp;p=9082322" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guides.lib.uchicago.edu">[UChicago Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guides.lib.uchicago.edu</span><span class="citation-popover-title">Library Guides The SIFT Method</span><span class="citation-popover-snippet">UChicago Library GuidesThe SIFT Method - Evaluating Resources and Misinformation30 Jun 2025 — The SIFT method is an evaluation strategy d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://libguides.mnsu.edu/sourcecredibility/lateralreading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.mnsu.edu">[2libguides.mnsu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.mnsu.edu</span><span class="citation-popover-snippet">Source Evaluation: Using Lateral Reading &amp; SIFT26 Mar 2026 — Lateral reading provides a more complete picture of the credibility of a sou...</span></span></span>
-
-A practical approach is:
-
-1. **Stop before accepting popularity as evidence.**
-2. **Identify the earliest version you can find.**
-3. **Ask who originally made the claim.**
-4. **Look for independent reporting or documentation.**
-5. **Check whether later articles are citing one another rather than new evidence.**
-6. **Distinguish primary evidence from commentary and reposts.**
-
-A rumour's credibility changes dramatically when traced back to its source. What looked like hundreds of confirmations may collapse into a single unverified statement.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n-HKOWaq2OE" title="How does misleading and emotionally charged content spread faster than facts?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n-HKOWaq2OE" target="_blank" rel="noopener noreferrer">How does misleading and emotionally charged content spread faster than facts?</a></p><p class="youtube-embed-meta">Channel: Cornell University &middot; Views: 730 &middot; Uploaded: March 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n-HKOWaq2OE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n-HKOWaq2OE">Open on YouTube</a></p></div></div></div>
-
-## The Key Distinction: Reach Is Not Evidence
-
-The central lesson is straightforward. Viral sharing measures reach, not truth. A rumour can accumulate millions of views, thousands of comments, and widespread discussion without gaining any additional evidential support.
-
-Independent confirmation requires separate sources that arrive at the same conclusion through their own observations, records, investigations, or testimony. Repetition alone does not meet that standard.
-
-In the [context]({{ 'context/' | relative_url }}) of rumours and unverified claims, the fallacy arises when social visibility is treated as proof. The number of times a claim is shared may tell us how effectively it travelled through a network. It does not, by itself, tell us whether the claim is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/23794607261423714" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsHow trust feedback reduces misinformation on social mediaBy rewarding engagement over accuracy, social media platforms foste...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.aap9559" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">used a data set of rumor cascades on Twitter from 2006 to 2017. About 126,000 rumors were...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — A new study by three MIT scholars has found that false...</span></span></span>
 
 ## Endnotes
 

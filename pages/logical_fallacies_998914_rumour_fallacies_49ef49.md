@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Rumours
 title: Why Rumours Feel Like Evidence
-title_full: Why Rumours Feel Like Evidence | Fallacy Lab
+title_full: Why Rumours Feel Like Evidence
 display_title_short: Rumours
 display_title: Rumours
 heading_title: Why Rumours Feel Like Evidence
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-overview-
 
 Rumours can feel like evidence because they arrive already wrapped in social confidence: “everyone is saying it”, “no one has disproved it”, “a friend of a friend heard it”, or “this happened right before that”. In logic, the problem is not simply that a rumour is unverified. Some rumours later turn out to be true. The fallacy appears when uncertainty is treated as proof, popularity is treated as confirmation, or a weak coincidence is treated as a cause.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-overview.webp" | relative_url }}" alt="Overview image for Rumours" loading="eager" decoding="sync" fetchpriority="high">
 This makes rumours a useful case study in [logical fallacies]({{ 'logical-fallacies/' | relative_url }}). They often rely on shortcuts that feel sensible in the moment: an appeal to ignorance, a bandwagon appeal, a hasty generalisation, a false cause, or an appeal to anonymous authority. Those shortcuts become especially persuasive during crises, breaking news, health scares and community conflict, when people want quick explanations before reliable evidence has caught up. Research on [social media]({{ 'social-media/' | relative_url }}) rumours describes them as claims whose truth is unverified at the time of posting, and distinguishes long-running rumours from fast-moving rumours that emerge during breaking events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1704.00656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Detection and Resolution of Rumours in Social Media: A Survey</span><span class="citation-popover-snippet">Detection and Resolution of Rumours in Social Media: A SurveyApril 3, 2017...</span><span class="citation-popover-meta">Published: April 3, 2017</span></span></span>
 
@@ -514,7 +513,6 @@ A common rumour fallacy is the appeal to [ignorance]({{ 'ignorance/' | relative_
 This is especially tempting with rumours because they are often hard to test. A claim may involve an unnamed insider, a private conversation, a blurry image, a deleted post or a supposedly suppressed report. The more vague the claim, the harder it is to disprove. But that does not make it stronger. It often makes it weaker, because the claim has been protected from ordinary checking.
 
 The careful alternative is to separate three states that rumours often blur together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -527,7 +525,6 @@ The careful alternative is to separate three states that rumours often blur toge
 The third category is not a compromise verdict of “probably true”. It is a warning label. UNHCR’s information-integrity glossary defines a rumour as unverified information passed from person to person and notes that rumours can be true, partly true or false. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unhcr.org/handbooks/informationintegrity/additional-resources/glossary-additional-terminology" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unhcr.org">[UNHCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unhcr.org</span><span class="citation-popover-title">glossary additional terminology</span><span class="citation-popover-snippet">Glossary of additional terminology23 Dec 2024 — Rumour is a piece unverified information that is transmitted from person to person...</span></span></span> That definition matters because it prevents the two opposite errors: dismissing every rumour automatically, or accepting every rumour because it has not been disproved.
 
 A rumour may reasonably justify caution while evidence is pending. For example, if several residents report a possible local hazard, it may be sensible to check official updates or avoid the area briefly. The fallacy begins when caution hardens into certainty without evidence: “We do not know this is false” becomes “this is what really happened”.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-Illustration-1-dark.svg" | relative_url }}" alt="Rumours illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Sharing Becomes Social Proof
@@ -550,7 +547,6 @@ Health rumours show the danger clearly. WHO Europe reported that misinformation 
 
 That example is not just a case of false information. It shows how fallacious reasoning can become socially dangerous. A frightening claim, repeated through trusted community channels, can turn an unverified causal story into an explanation that people act on. Once the rumour supplies a villain, later uncertainty may be interpreted as concealment rather than as a reason to slow down.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tqJX_4EhNhM" title="Why We Share Misinformation - The role of five cognitive biases." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tqJX_4EhNhM" target="_blank" rel="noopener noreferrer">Why We Share Misinformation - The role of five cognitive biases.</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 2.3K &middot; Uploaded: February 2023 &middot; Length: 4 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tqJX_4EhNhM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tqJX_4EhNhM">Open on YouTube</a></p></div></div></div>
 
 ## Anonymous Authority and the “Friend of a Friend”
@@ -572,7 +568,6 @@ Psychological research on fake news has found that relying on emotion can increa
 This helps explain why rumours can survive correction. If a rumour gave people a vivid emotional explanation, a later factual correction may feel cold, partial or evasive. Research on misinformation correction notes that retractions do not always fully remove the influence of the original misinformation from later judgements, a problem often called the continued influence effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/social-media-and-democracy/misinformation-and-its-correction/61FA7FD743784A723BA234533012E810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The logical lesson is not “ignore emotion”. It is “pause when emotion is doing the evidential work”. A claim that provokes immediate outrage or panic may still be true, but the emotion should trigger verification rather than replace it.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-Illustration-2-dark.svg" | relative_url }}" alt="Rumours illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Verification Questions That Expose the Fallacy
@@ -602,7 +597,6 @@ If no evidence could weaken the rumour, it is no longer being treated as an ordi
 
 These questions do not guarantee certainty. Their value is that they move the discussion away from [social proof]({{ 'social-proof/' | relative_url }}) and towards evidential support.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZFDILzTvN8" title="Is it legit? Teaching digital verification to spark news literacy learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZFDILzTvN8" target="_blank" rel="noopener noreferrer">Is it legit? Teaching digital verification to spark news literacy learning</a></p><p class="youtube-embed-meta">Channel: News Literacy Project &middot; Views: 840 &middot; Uploaded: June 2020 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZFDILzTvN8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZFDILzTvN8">Open on YouTube</a></p></div></div></div>
 
 ## How to Talk About a Rumour Without Spreading It
@@ -615,7 +609,6 @@ It also helps to avoid mockery. Calling people gullible may make the correction 
 
 The aim is not to let rumours pass unchallenged. It is to challenge the reasoning: “What is the source?”, “How do we know?”, “Could this be a repost of an older event?”, “Is there a named authority?”, “Has anyone independent verified it?” This keeps the focus on standards of evidence rather than on humiliating the person who shared the claim.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cs15_FuFRyc" title="Verification Handbook: a definitive guide to verifying digital content for emergency coverage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cs15_FuFRyc" target="_blank" rel="noopener noreferrer">Verification Handbook: a definitive guide to verifying digital content for emergency coverage</a></p><p class="youtube-embed-meta">Channel: International Journalism Festival &middot; Views: 547 &middot; Uploaded: May 2014 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cs15_FuFRyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cs15_FuFRyc">Open on YouTube</a></p></div></div></div>
 
 ## The Main Fallacies to Watch For
@@ -625,7 +618,6 @@ Rumours rarely rely on just one fallacy. Several often work together, making the
 Rumour patternFallacy riskWhy it misleads“No one has proved it false.”Appeal to ignoranceLack of disproof is treated as proof.“Everyone is sharing it.”Bandwagon appealPopularity is mistaken for confirmation.“My friend knows someone who saw it.”Anonymous authorityBorrowed credibility replaces checkable sourcing.“This happened after that.”False causeTiming is treated as causal evidence.“It happened once, so it is everywhere.”Hasty generalisationA narrow or unclear case becomes a broad claim.“They denied it, so they must be hiding it.”Circular suspicionAny contrary evidence is reinterpreted as support.“It feels too specific to be made up.”Vividness biasDetail and emotional force are confused with reliability.
 
 The table should not be used as a quick way to dismiss every uncomfortable claim. Some early warnings begin as unverified reports. The point is to keep the category clear: a rumour may be worth checking, but it has not earned the status of evidence until its support can be examined.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-Illustration-3-dark.svg" | relative_url }}" alt="Rumours illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Takeaway: Treat Rumours as Leads, Not Proof
@@ -1245,4 +1237,4 @@ That distinction matters because rumours often appear during exactly the moments
 
 43. <a id="endnote-43"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/scientific-social-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/scientific-social-[mechanisms</a>  
+   Link: <a href="https://www.linkedin.com/pulse/scientific-social-[mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/scientific-social-[mechanisms</a>

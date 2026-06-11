@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /circularity/
 nav_short_title: Hidden Loops
 title: How Long Argument Chains Hide Circularity
-title_full: How Long Argument Chains Hide Circularity | Circularity
+title_full: How Long Argument Chains Hide Circularity
 display_title_short: Hidden Loops
 display_title: Hidden Loops
 heading_title: How Long Argument Chains Hide Circularity
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 14:43:29'
-parent_title: Is the Argument Proving Itself? | Fallacy Lab
+parent_title: Is the Argument Proving Itself?
 parent_permalink: /circularity/
 parent_nav_short_title: Circularity
 parent_heading_title: Is the Argument Proving Itself?
@@ -276,14 +276,12 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_
 
 Hidden A-B-C argument loops are one of the most difficult forms of circular reasoning to detect. Instead of stating a conclusion and immediately repeating it as evidence, the argument spreads the [circularity]({{ 'circularity/' | relative_url }}) across several linked claims. A supports B, B supports C, and C eventually supports A. Because each step appears to provide a fresh reason, the overall argument can seem well supported even though it never connects to any independent evidence. The problem is not necessarily that the conclusion is false; the problem is that the chain never escapes its own assumptions. Logical analysts often describe circular reasoning as a failure to provide independent grounds for belief, and longer chains can make that failure much harder to recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Loops illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader topic of circular reasoning and unsupported conclusions, hidden loops matter because they create an illusion of depth. The argument appears to move forward through multiple stages, yet all of its support comes from claims that ultimately depend on one another.
 
 ## How an A-B-C Loop Works
 
 A hidden loop arises when a series of claims forms a closed dependency chain. The basic pattern looks like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,7 +295,6 @@ At first glance, each statement appears to contribute new information. The liste
 
 Consider a simplified example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A news source is reliable because its reporting is accurate.
@@ -310,7 +307,6 @@ Each individual statement may sound plausible. Yet the reliability of the source
 
 The crucial feature is closure. A genuine evidential chain eventually reaches a premise supported by observation, data, testimony, records, or some other independent basis. A hidden loop returns to where it began. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Regress_argument_%28epistemology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Regress argument (epistemology</span><span class="citation-popover-snippet">Regress argument (epistemology</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qSWCi_-qIME" title="Fallacies: Begging the Question (narrow sense)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer">Fallacies: Begging the Question (narrow sense)</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 51.8K &middot; Uploaded: January 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qSWCi_-qIME">Open on YouTube</a></p></div></div></div>
 
 ## Why Each Step Can Seem Supportive
@@ -319,7 +315,7 @@ Hidden loops are persuasive because human reasoning often evaluates arguments lo
 
 Several factors make the circularity harder to spot:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/799987083411428/posts/4461837207226379/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[**Distance between premise and conclusion.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">on is used as its own premise, creating a loop that offers...</span></span></span>
+**Distance between premise and conclusion.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/799987083411428/posts/4461837207226379/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">on is used as its own premise, creating a loop that offers...</span></span></span>
 
 When A and C are separated by several intermediate claims, the relationship between them becomes less obvious. The listener remembers the most recent link rather than the entire structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
@@ -335,12 +331,10 @@ Each link may appear reasonable on its own. As the chain grows longer, people of
 
 Listeners are usually more interested in whether claims sound true than in how those claims are connected. Circularity is a structural defect, so it can remain hidden beneath convincing content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Regress_argument_%28epistemology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Regress argument (epistemology</span><span class="citation-popover-snippet">Regress argument (epistemology</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-2-dark.svg" | relative_url }}" alt="Hidden Loops illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Concrete Example of the Hidden Loop
 
 Imagine an organisation making the following case:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -354,14 +348,12 @@ The argument appears to move through several stages. Yet the success of the orga
 
 A stronger argument would introduce independent evidence, such as measured performance outcomes, controlled comparisons, or external evaluations. Without such evidence, the reasoning remains trapped inside its own network of assumptions.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Loops illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_hidden_abc_loops_f363f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Diagramming the Dependency Chain
 
 One of the most effective ways to expose hidden circularity is to draw the argument as a dependency map.
 
 A genuine evidential structure often resembles a tree:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -375,7 +367,6 @@ The chain ultimately rests on evidence that does not depend on A.
 
 A hidden loop instead resembles a circle:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * A depends on B.
@@ -388,7 +379,6 @@ Once diagrammed, the problem becomes obvious. Every claim requires another claim
 
 When analysing a complex argument, useful questions include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What supports this claim?
@@ -400,7 +390,6 @@ When analysing a complex argument, useful questions include:
 
 If tracing the chain eventually leads back to the starting point, the argument contains hidden circularity.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0P79dctCEZU" title="Critical Thinking: The Fallacy of Circular Argument" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0P79dctCEZU" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Circular Argument</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 16.7K &middot; Uploaded: August 2015 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0P79dctCEZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0P79dctCEZU">Open on YouTube</a></p></div></div></div>
 
 ## Why Hidden Loops Matter
@@ -409,9 +398,7 @@ Hidden A-B-C loops are more than a technical flaw in logic. They can create a fa
 
 The key test is not how many links appear in the argument but whether any link ultimately connects to evidence outside the loop. A chain that returns to its own starting point may look sophisticated, but it has not actually advanced the case. The reasoning has travelled in a circle rather than arrived at a justified conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/circular-argument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">circular argument</span><span class="citation-popover-snippet">Encyclopedia BritannicaCircular argument &#124; Definition, History, Examples, &amp; Facts13 May 2026 — A circular argument&#x27;s premise explicitly o...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pN5uHO6RdeI" title="Circular Reasoning Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pN5uHO6RdeI" target="_blank" rel="noopener noreferrer">Circular Reasoning Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 2.7K &middot; Uploaded: September 2024 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pN5uHO6RdeI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pN5uHO6RdeI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

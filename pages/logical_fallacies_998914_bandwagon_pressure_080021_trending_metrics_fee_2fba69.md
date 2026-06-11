@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /bandwagon/
 nav_short_title: Trending Loops
 title: How Trending Numbers Create More Trending
-title_full: How Trending Numbers Create More Trending | Bandwagon
+title_full: How Trending Numbers Create More Trending
 display_title_short: Trending Loops
 display_title: Trending Loops
 heading_title: How Trending Numbers Create More Trending
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:34:08'
-parent_title: Are You Being Pressured to Join? | Fallacy Lab
+parent_title: Are You Being Pressured to Join?
 parent_permalink: /bandwagon/
 parent_nav_short_title: Bandwagon
 parent_heading_title: Are You Being Pressured to Join?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trendin
 
 Visible popularity signals are among the most powerful forms of modern [bandwagon pressure]({{ 'bandwagon/' | relative_url }}). A trending label, bestseller badge, follower count, view total, star rating or “most shared” marker appears to describe what other people have already chosen. In practice, however, these metrics often do more than record popularity: they can help create it. When people use visible popularity as a shortcut for quality, credibility or relevance, early advantages can compound into self-reinforcing feedback loops. The result is a form of appeal-to-popularity reasoning in which what appears popular gains attention because it appears popular. Research on online markets, [social media]({{ 'social-media/' | relative_url }}) and recommendation systems repeatedly finds that visibility and popularity can interact in ways that magnify initial differences and make later outcomes less predictable than they seem. Princeton University <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-1-dark.svg" | relative_url }}" alt="Trending Loops illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Visible Metrics Feel Persuasive
 
@@ -287,7 +286,6 @@ Trending indicators can therefore function as a persuasive cue before any substa
 The most important feature of online popularity systems is that they are dynamic. Popularity is not merely displayed; it is often fed back into future visibility decisions.
 
 A typical loop works as follows:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -318,7 +316,6 @@ Experimental research on ranked feeds suggests that placement alone affects atte
 
 From a logical perspective, this means that popularity metrics are not always independent evidence. Sometimes they are partly the outcome of previous popularity signals.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-2-dark.svg" | relative_url }}" alt="Trending Loops illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Platforms Blur Quality and Popularity
 
@@ -338,7 +335,6 @@ Not all popularity indicators function in the same way.
 
 Some metrics provide information that can genuinely help decision-making:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Large numbers of reviews can reveal common customer experiences.
@@ -353,7 +349,6 @@ The challenge is distinguishing informative signals from self-reinforcing ones.
 A bestseller badge may increase sales because it attracts attention. A highly rated item may receive more visibility in search results, leading to more purchases and more reviews. A creator with a large audience may gain opportunities unavailable to smaller competitors, making future growth easier regardless of relative quality.
 
 In these situations, popularity becomes both an outcome and a cause. The metric is no longer merely reporting collective judgement; it is helping to shape it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://marketingcourse.org/the-psychology-of-online-reviews-and-ratings-leveraging-social-proof-for-marketing-success/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketingcourse.org">[MarketingCourse.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketingcourse.org</span><span class="citation-popover-title">Marketing Course.org The Psychology of Online Reviews and Ratings: Leveraging</span><span class="citation-popover-snippet">The Psychology of Online Reviews and Ratings: Leveraging...May 5, 2025 — 5 May 2025 — Online reviews and ratings serve as a potent form...</span><span class="citation-popover-meta">Published: May 5, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ijfans.org/uploads/paper/b66bf0e78e02e70f38bf44b5c99b33b9.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijfans.org">[2ijfans.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijfans.org</span><span class="citation-popover-snippet">analyzing the influence of social proof on online shoppingHerd behavior is amplified by algorithms on social media platforms, which push...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UGxGDdQnC1Y" title="Social Influence: Crash Course Psychology #38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer">Social Influence: Crash Course Psychology #38</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 3.1M &middot; Uploaded: November 2014 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UGxGDdQnC1Y">Open on YouTube</a></p></div></div></div>
 
@@ -370,7 +365,6 @@ Several interventions have been proposed or tested:
 * **Providing [context]({{ 'context/' | relative_url }}) around metrics.** Explaining what a number actually measures can reduce mistaken inferences.
 
 Researchers studying recommendation systems and social-media ranking increasingly emphasise that platform outcomes emerge from interactions between algorithms and user behaviour rather than from either factor alone. This means implementation choices can strengthen or weaken feedback loops without eliminating popularity signals entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348939/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCQuantifying Social Influence in an Online Cultural Market</span><span class="citation-popover-snippet">Social Influence in an Online Cultural Market - PMCby C Krumme · 2012 · Cited by 89 — Results from the MusicLab experiments suggest that...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-3-dark.svg" | relative_url }}" alt="Trending Loops illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_trending_metrics_fee_2fba69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Popularity Can and Cannot Tell Us

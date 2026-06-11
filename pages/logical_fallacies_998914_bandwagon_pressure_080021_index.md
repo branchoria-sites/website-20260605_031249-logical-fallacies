@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-bandwagon/
 description: Focused pages that expand on Bandwagon.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_bandwagon_pressure_080021
-parent_title: Bandwagon | Logical Fallacies
+parent_title: Bandwagon
 parent_nav_short_title: Bandwagon
 parent_permalink: /bandwagon/
 ---

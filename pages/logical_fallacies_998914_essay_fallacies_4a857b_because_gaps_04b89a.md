@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /essays/
 nav_short_title: Because Gaps
 title: When Because Does Not Prove the Point
-title_full: When Because Does Not Prove the Point | Essays
+title_full: When Because Does Not Prove the Point
 display_title_short: Because Gaps
 display_title: Because Gaps
 heading_title: When Because Does Not Prove the Point
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:02:51'
-parent_title: How Fallacies Weaken Student Essays | Fallacy Lab
+parent_title: How Fallacies Weaken Student Essays
 parent_permalink: /essays/
 parent_nav_short_title: Essays
 parent_heading_title: How Fallacies Weaken Student Essays
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_ga
 
 A “because gap” occurs when a writer makes a claim and adds a reason after the word *because*, but the reason does not actually prove the conclusion. The sentence sounds argumentative because it contains a claim and an explanation, yet the logical connection is weak, incomplete, or missing. In academic writing, this is one of the most common ways that [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) appear inside otherwise fluent paragraphs.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-1-dark.svg" | relative_url }}" alt="Because Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is not necessarily a lack of evidence. More often, the writer has supplied a fact, example, observation, or opinion but has failed to show why that information justifies the claim being made. Writing specialists frequently describe argument as a claim supported by evidence, while argumentation models such as Toulmin's emphasise the need for a warrant—the reasoning that links evidence to a conclusion. When that link is absent, a because gap appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-snippet">The Writing CenterArgument – The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/historical_perspectives_on_argumentation/toulmin_argument.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLToulmin Argument</span><span class="citation-popover-snippet">Purdue OWLToulmin Argument - Purdue OWLThe Toulmin method is a style of argumentation that breaks arguments down into six component parts...</span></span></span>
 
@@ -308,11 +307,11 @@ A because gap is usually a reasoning problem rather than an evidence problem.
 
 Argumentation scholars often describe arguments as consisting of a claim, supporting grounds, and a warrant. The warrant is the assumption or explanation that allows the conclusion to follow from the evidence. When writers leave that warrant unstated, readers must supply it themselves. If the implied warrant is weak, the argument fails. Purdue OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://academics.umw.edu/speaking/resources/handouts/toulmin-argument-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academics.umw.edu">[academics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academics.umw.edu</span><span class="citation-popover-title">Academics Toulmin Argument Model</span><span class="citation-popover-snippet">Warrant: The reasoning that authorizes the inferential leap from the grounds to the claim. Backing:...Read more...</span></span></span> Several habits create because gaps:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uscb.edu/campus-life/student-development/academic-support/tutoring-and-writing-center/pdfs/Understanding_Arguments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscb.edu">[**Replacing proof with explanation.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscb.edu</span><span class="citation-popover-snippet">Understanding ArgumentsSee this explanation at the Purdue OWL: “An argumentative paper makes a claim about a topic and justifies this cla...</span></span></span>
+**Replacing proof with explanation.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uscb.edu/campus-life/student-development/academic-support/tutoring-and-writing-center/pdfs/Understanding_Arguments.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uscb.edu">[uscb.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uscb.edu</span><span class="citation-popover-snippet">Understanding ArgumentsSee this explanation at the Purdue OWL: “An argumentative paper makes a claim about a topic and justifies this cla...</span></span></span>
 
 A reason may explain why something happened without proving that a larger claim is true.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncl.ac.uk">[**Confusing correlation with support.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncl.ac.uk</span><span class="citation-popover-snippet">Using Evidence to Support your ArgumentTo check if you&#x27;re supporting your own points with evidence, imagine that the reader is asking you...</span></span></span>
+**Confusing correlation with support.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncl.ac.uk/academic-skills-kit/study-skills/critical-thinking/using-evidence-to-support-your-argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncl.ac.uk">[ncl.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncl.ac.uk</span><span class="citation-popover-snippet">Using Evidence to Support your ArgumentTo check if you&#x27;re supporting your own points with evidence, imagine that the reader is asking you...</span></span></span>
 
 A fact related to the topic may be treated as proof even though it does not directly justify the conclusion.
 
@@ -325,7 +324,6 @@ Readers may sympathise with the reason, but sympathy is not the same as logical 
 The conclusion may concern an entire population, policy, text, or historical period while the supporting reason addresses only a small part of it.
 
 Because gaps therefore sit at the point where reasoning should connect evidence and conclusion but fails to do so. Writing centres often stress that evidence never speaks for itself; writers must explain how the evidence supports the point they are trying to make. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-snippet">The Writing CenterArgument – The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-snippet">The Writing CenterArgument – The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JGOxVIgmGWE" title="Claims, Evidence, and Reasoning." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JGOxVIgmGWE" target="_blank" rel="noopener noreferrer">Claims, Evidence, and Reasoning.</a></p><p class="youtube-embed-meta">Channel: K20 Center &middot; Views: 667.8K &middot; Uploaded: August 2021 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JGOxVIgmGWE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JGOxVIgmGWE">Open on YouTube</a></p></div></div></div>
 
@@ -361,7 +359,6 @@ Once the assumption is stated explicitly, its weakness becomes easier to evaluat
 
 This approach mirrors the Toulmin concept of the warrant, which identifies the reasoning that authorises movement from evidence to conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academics.umw.edu/speaking/resources/handouts/toulmin-argument-model/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academics.umw.edu">[Academics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academics.umw.edu</span><span class="citation-popover-title">Academics Toulmin Argument Model</span><span class="citation-popover-snippet">Warrant: The reasoning that authorizes the inferential leap from the grounds to the claim. Backing:...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.baypath.edu/eng124/chapter/__unknown__-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.baypath.edu">[2open.baypath.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.baypath.edu</span><span class="citation-popover-snippet">This is what makes the audience understand how the grounds are connected to supporting the claim.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-2-dark.svg" | relative_url }}" alt="Because Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Could the same reason support opposing claims?
 
@@ -383,7 +380,6 @@ Historical claims usually require documentary or contextual evidence.
 
 If the reason belongs to the wrong category, the argument often contains a because gap.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JDGwak-_yU0" title="Writing Argument: Claims, Reasons, Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JDGwak-_yU0" target="_blank" rel="noopener noreferrer">Writing Argument: Claims, Reasons, Evidence</a></p><p class="youtube-embed-meta">Channel: School of Sciences and Humanities &middot; Views: 1.1K &middot; Uploaded: February 2021 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JDGwak-_yU0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JDGwak-_yU0">Open on YouTube</a></p></div></div></div>
 
 ## Revision examples that narrow or strengthen the argument
@@ -403,7 +399,6 @@ Stronger version:
 *Heavy social media use may contribute to sleep disruption among teenagers because studies have found associations between late-night platform use and reduced sleep duration.*
 
 The revised sentence introduces evidence relevant to the specific claim rather than merely describing usage.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-3-dark.svg" | relative_url }}" alt="Because Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_because_gaps_04b89a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Example 2: Unsupported policy recommendation
@@ -434,7 +429,6 @@ Stronger version:
 
 The reason now directly relates to the claim being made.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W-sLt3MV9yA" title="How to Develop an Academic Argument" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W-sLt3MV9yA" target="_blank" rel="noopener noreferrer">How to Develop an Academic Argument</a></p><p class="youtube-embed-meta">Channel: The Dissertation Coach (Official) &middot; Views: 4.5K &middot; Uploaded: February 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W-sLt3MV9yA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W-sLt3MV9yA">Open on YouTube</a></p></div></div></div>
 
 ### Example 4: Historical argument
@@ -454,7 +448,6 @@ The revised version matches the type of evidence to the claim.
 ## A quick check before submitting an essay
 
 Many because gaps can be found with a simple editing exercise. After drafting a paragraph, highlight every occurrence of *because*, *since*, *therefore*, *thus*, *shows that*, or *proves that*. Then ask:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

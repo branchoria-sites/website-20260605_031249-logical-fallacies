@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /argument-map/
 nav_short_title: Policy Objections
 title: Do the Objections Undermine the Policy or the Reasoning?
-title_full: Do the Objections Undermine the Policy or the Reasoning? | Argument Map
+title_full: Do the Objections Undermine the Policy or the Reasoning?
 display_title_short: Policy Objections
 display_title: Policy Objections
 heading_title: Do the Objections Undermine the Policy or the Reasoning?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:11:54'
-parent_title: Can You Map the Reasoning? | Fallacy Lab
+parent_title: Can You Map the Reasoning?
 parent_permalink: /argument-map/
 parent_nav_short_title: Argument Map
 parent_heading_title: Can You Map the Reasoning?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_tran
 
 City transport debates are fertile ground for argument mapping because objections come from many directions at once. A proposal such as a congestion charge, low-traffic neighbourhood (LTN), bus-priority corridor, or city-centre car restriction can be criticised on factual, ethical, economic, political, or practical grounds. When these objections are mixed together, it becomes difficult to tell whether they undermine the policy itself, challenge the evidence supporting it, or merely express a competing preference.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1-dark.svg" | relative_url }}" alt="Policy Objections illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Argument mapping helps separate these strands. Instead of treating all criticism as equal, it asks a more precise question: what exactly is being challenged? Is the objection attacking the evidence, exposing a hidden assumption, highlighting an overlooked trade-off, or identifying an implementation problem? This distinction matters because some objections reveal weak reasoning, while others simply show that reasonable people value different outcomes. Transport policy researchers repeatedly note that successful decision-making depends on distinguishing evidence questions from political, distributive, and governance questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instituteforgovernment.org.uk">[Institute for Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instituteforgovernment.org.uk</span><span class="citation-popover-title">Institute for Government How governments use evidence to make transport policy</span><span class="citation-popover-snippet">Institute for GovernmentHow governments use evidence to make transport policyMarch 5, 2021 — 3 Feb 2021 — The use of evidence is crucial...</span><span class="citation-popover-meta">Published: March 5, 2021</span></span></span>
 
@@ -285,7 +284,6 @@ Argument mapping helps separate these strands. Instead of treating all criticism
 A common mistake in public [debate]({{ 'debate/' | relative_url }}) is to assume that any objection disproves a policy proposal. Argument mapping encourages a more disciplined approach.
 
 Suppose a council proposes a city-centre car ban. The core argument might look like this:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -314,7 +312,6 @@ These objections dispute whether the premises are true.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Traffic congestion is not severe enough to justify intervention.
@@ -327,7 +324,6 @@ Such objections require factual investigation rather than rhetorical debate. If 
 
 Transport research generally finds that congestion charging and similar demand-management measures can reduce traffic volumes and congestion, although the size of the effect varies by design and local conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/decongesting-our-cities_a91eaeb9/930c8f58-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Decongesting our Cities</span><span class="citation-popover-snippet">Decongesting our Cities Summary and ConclusionsMay 14, 2025 — public opposition to congestion charges generally diminishes significan...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227383644_London_Congestion_Pricing_-_Implications_for_Other_Cities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">London Congestion Pricing – Implications for Other CitiesSimilar schemes in London and Milan showed that congestion pricing can reduce ve...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RKplZwqFwVk" title="The U.S. National Blueprint for Transportation Decarbonization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer">The U.S. National Blueprint for Transportation Decarbonization</a></p><p class="youtube-embed-meta">Channel: U.S. Department of Energy &middot; Views: 2.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RKplZwqFwVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RKplZwqFwVk">Open on YouTube</a></p></div></div></div>
 
 ### Assumption-Based Objections
@@ -335,7 +331,6 @@ Transport research generally finds that congestion charging and similar demand-m
 Other criticisms target hidden premises.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -361,14 +356,12 @@ This is not necessarily a factual disagreement. It is a disagreement about value
 
 Transport policy routinely involves balancing congestion, emissions, accessibility, economic activity, public health, fairness, and political acceptability. Governments commonly use cost-benefit analysis and broader social evaluation precisely because multiple objectives must be weighed simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instituteforgovernment.org.uk/sites/default/files/publications/evidence-transport-policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instituteforgovernment.org.uk">[Institute for Government]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instituteforgovernment.org.uk</span><span class="citation-popover-title">Institute for Government How governments use evidence to make transport policy</span><span class="citation-popover-snippet">Institute for GovernmentHow governments use evidence to make transport policyMarch 5, 2021 — 3 Feb 2021 — The use of evidence is crucial...</span><span class="citation-popover-meta">Published: March 5, 2021</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-2-dark.svg" | relative_url }}" alt="Policy Objections illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Implementation Objections
 
 A final category concerns execution.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,7 +375,6 @@ Examples include:
 Importantly, implementation objections do not necessarily show that the policy goal is wrong. They may indicate only that the chosen design is flawed.
 
 Argument maps often reveal that opponents and supporters agree on the objective but disagree about delivery.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sTPjC-7EDkc" title="Beyond The Prison Industrial Complex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sTPjC-7EDkc" target="_blank" rel="noopener noreferrer">Beyond The Prison Industrial Complex</a></p><p class="youtube-embed-meta">Channel: CAN TV YouTube &middot; Views: 13.2K &middot; Uploaded: October 2011 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sTPjC-7EDkc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sTPjC-7EDkc">Open on YouTube</a></p></div></div></div>
 
@@ -406,7 +398,6 @@ Opponents often argue that LTNs push congestion onto surrounding roads, increase
 
 An [argument map]({{ 'argument-map/' | relative_url }}) reveals that several distinct disputes are occurring simultaneously:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * **Empirical dispute:** Does traffic merely move elsewhere?
@@ -419,7 +410,6 @@ An [argument map]({{ 'argument-map/' | relative_url }}) reveals that several dis
 Evidence reviews commissioned by the UK government have reported that LTNs generally reduce traffic within the affected area and that negative effects on surrounding roads appear limited, although perceptions of increased congestion often remain strong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/65f400adfa18510011011787/low-traffic-neighbourhoods-research-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">low traffic neighbourhoods research report</span><span class="citation-popover-snippet">Traffic Neighbourhoods Research report March 2024March 15, 2024 — For example, the evidence suggests that impacts (positive or negative)...</span><span class="citation-popover-meta">Published: March 15, 2024</span></span></span>
 
 This distinction is important for fallacy detection. If someone argues that a policy fails solely because residents believe congestion increased, they may be substituting perception for evidence. Conversely, a supporter who points only to traffic statistics while ignoring concerns about accessibility or consultation may be overlooking a different category of objection altogether.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-3-dark.svg" | relative_url }}" alt="Policy Objections illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_city_transport_objec_589a60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Objections Conflict With Each Other
@@ -443,7 +433,6 @@ Suppose critics show that a congestion charge imposes disproportionate costs on 
 
 Argument mapping helps distinguish between:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * **Reject the policy entirely.**
@@ -455,7 +444,6 @@ Argument mapping helps distinguish between:
 These are different conclusions and require different evidence.
 
 A well-structured map therefore includes competing alternatives rather than treating the debate as a simple choice between action and inaction. Policy analysts commonly compare multiple options because identifying weaknesses in one proposal does not automatically establish the superiority of another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justicepolicynetwork.com">[justicepolicynetwork.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justicepolicynetwork.com</span><span class="citation-popover-snippet">A Practical Guide for Policy AnalysisA practical guide for policy analysis: the eightfold path to more effective problem solving / Eugen...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=NJxTGuIQFh0</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=NJxTGuIQFh0</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJxTGuIQFh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJxTGuIQFh0">Open on YouTube</a></p></div></div></div>
 
@@ -584,15 +572,15 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THINKING SKILLS GRADE 3-4 **BRAND NEW**"><img src="https://i.ebayimg.com/images/g/tzwAAeSwridp0oDG/s-l225.jpg" alt="Listing image for THINKING SKILLS GRADE 3-4 **BRAND NEW**" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Underground Cities: Mapping the tunne..., Ovenden, Mark"><img src="https://i.ebayimg.com/images/g/CWgAAeSwdstpNVH7/s-l225.jpg" alt="Listing image for Underground Cities: Mapping the tunne..., Ovenden, Mark" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">THINKING SKILLS GRADE 3-4 **BRAND NEW**</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">Underground Cities: Mapping the tunne..., Ovenden, Mark</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning skills chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning skills chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -600,15 +588,15 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Addition Subtraction Multiplication Chart Thinking Skills Arithmetic Table"><img src="https://i.ebayimg.com/images/g/JJsAAeSwAxtp~W-y/s-l225.jpg" alt="Listing image for Addition Subtraction Multiplication Chart Thinking Skills Arithmetic Table" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Poster United Kingdom MAP Great Britain England Wales Poster Laminated"><img src="https://i.ebayimg.com/images/g/PTAAAOSwHbZoNd1R/s-l225.jpg" alt="Listing image for UK Map Poster United Kingdom MAP Great Britain England Wales Poster Laminated" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">Addition Subtraction Multiplication Chart Thinking Skills Arithmetic Table</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">UK Map Poster United Kingdom MAP Great Britain England Wales Poster Laminated</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning skills chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning skills chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -616,15 +604,15 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THINKING SKILLS: GRADES 5-6 By Jeri Nutting &amp; Jill Norris **BRAND NEW**"><img src="https://i.ebayimg.com/images/g/T78AAeSwov5qH6Pj/s-l225.jpg" alt="Listing image for THINKING SKILLS: GRADES 5-6 By Jeri Nutting &amp; Jill Norris **BRAND NEW**" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bus Tram Route Map City Glasgow Corporation Transport 1950s (Black Print)"><img src="https://i.ebayimg.com/images/g/L68AAeSwi5dpa-m7/s-l225.jpg" alt="Listing image for Bus Tram Route Map City Glasgow Corporation Transport 1950s (Black Print)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">THINKING SKILLS: GRADES 5-6 By Jeri Nutting &amp; Jill Norris **BRAND NEW**</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">Bus Tram Route Map City Glasgow Corporation Transport 1950s (Black Print)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning skills chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning skills chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -632,15 +620,15 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THINKING SKILLS GRADE 1-2 **BRAND NEW**"><img src="https://i.ebayimg.com/images/g/Eh8AAeSwQMdqEtJR/s-l225.jpg" alt="Listing image for THINKING SKILLS GRADE 1-2 **BRAND NEW**" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bus Coach Route Map City of Glasgow Corporation Transport 1960s (Red Print)"><img src="https://i.ebayimg.com/images/g/bKsAAeSwbZxpa-mu/s-l225.jpg" alt="Listing image for Bus Coach Route Map City of Glasgow Corporation Transport 1960s (Red Print)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">THINKING SKILLS GRADE 1-2 **BRAND NEW**</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">Bus Coach Route Map City of Glasgow Corporation Transport 1960s (Red Print)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reasoning skills chart">Search <span data-ebay-domain-label>eBay.co.uk</span>: reasoning skills chart</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for city transit map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: city transit map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -648,7 +636,7 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reasoning+skills+chart&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reasoning skills chart" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-reasoning-skills-chart" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=city+transit+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="city transit map print" data-ebay-reference="do-the-objections-undermine-the-policy-or-the-reasoning-city-transit-map-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -858,6 +846,7 @@ Once these distinctions are mapped, many apparent disagreements become clearer. 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

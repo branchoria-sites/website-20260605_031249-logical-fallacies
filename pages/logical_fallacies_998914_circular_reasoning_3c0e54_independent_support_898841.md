@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /circularity/
 nav_short_title: Support Test
 title: Would the Premise Convince a Skeptic?
-title_full: Would the Premise Convince a Skeptic? | Circularity
+title_full: Would the Premise Convince a Skeptic?
 display_title_short: Support Test
 display_title: Support Test
 heading_title: Would the Premise Convince a Skeptic?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 14:43:32'
-parent_title: Is the Argument Proving Itself? | Fallacy Lab
+parent_title: Is the Argument Proving Itself?
 parent_permalink: /circularity/
 parent_nav_short_title: Circularity
 parent_heading_title: Is the Argument Proving Itself?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_indepen
 
 A quick way to detect circular reasoning is to ask a simple question: **would the premises give a reasonable sceptic any new reason to accept the conclusion?** If the answer is no, the argument may be relying on the conclusion itself rather than offering independent support for it. Philosophers and argumentation theorists often treat the absence of independent support as the central defect in circular arguments and question-begging reasoning. An argument may be logically valid in form, yet still fail as persuasion because anyone who doubts the conclusion will have equal reason to doubt the premises that supposedly establish it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies... circular reasoning in which a conclusion is derived from premises that presuppose the con...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-1-dark.svg" | relative_url }}" alt="Support Test illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This “support test” is valuable because [circularity]({{ 'circularity/' | relative_url }}) is not always obvious. Sometimes the conclusion is repeated directly; in other cases it is hidden behind synonyms, assumptions, or a chain of mutually supporting claims. The key issue remains the same: are the premises standing on their own, or are they merely echoing the claim they are meant to prove? Encyclopedia Britannica <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PagePetitio Principii, Circular Argument, Begging the QuestionPetitio principii is a logical fallacy where the conclusion...</span></span></span>
 
@@ -287,7 +286,6 @@ Consider this argument:
 A sceptic who doubts the outlet's trustworthiness gains no independent evidence from the second sentence. Each claim depends on the other. The reasoning moves in a circle rather than outward toward evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Circular_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Circular reasoning</span><span class="citation-popover-snippet">Circular reasoning</span></span></span>
 
 The test can be applied in a few seconds:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -325,7 +323,6 @@ Compare that with:
 
 Here, “trustworthy testimony” simply restates reliability in different language. The argument offers no independent basis for the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/circular.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PagePetitio Principii, Circular Argument, Begging the QuestionPetitio principii is a logical fallacy where the conclusion...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The major premise can be deduced from other universal premises...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VXoSHv1GP4I" title="Begging The Question Fallacy (Definition &amp; Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VXoSHv1GP4I" target="_blank" rel="noopener noreferrer">Begging The Question Fallacy (Definition &amp; Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 3.1K &middot; Uploaded: May 2025 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VXoSHv1GP4I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VXoSHv1GP4I">Open on YouTube</a></p></div></div></div>
 
 ## Hidden Circularity: When the Test Matters Most
@@ -340,7 +337,6 @@ If “fair” and “just” are being used interchangeably, the premise may con
 
 Another common pattern is a chain of dependency:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Claim A is true because of Claim B.
@@ -352,7 +348,6 @@ Another common pattern is a chain of dependency:
 Each individual step appears to provide support, yet the entire structure ultimately loops back to its starting point. Without an independent premise entering the chain, the argument never escapes circularity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Begging_the_question" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Begging the question</span><span class="citation-popover-snippet">Begging the question</span></span></span>
 
 The sceptic test cuts through the complexity. Ask whether any point in the chain could be justified without relying on the conclusion. If not, the loop remains unbroken.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-2-dark.svg" | relative_url }}" alt="Support Test illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Repairing a Circular Argument
@@ -371,7 +366,6 @@ Use:
 
 The revised premise provides information that can be evaluated separately from the conclusion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qSWCi_-qIME" title="Fallacies: Begging the Question (narrow sense)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer">Fallacies: Begging the Question (narrow sense)</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 51.8K &middot; Uploaded: January 2013 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qSWCi_-qIME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qSWCi_-qIME">Open on YouTube</a></p></div></div></div>
 
 ### Identify Hidden Assumptions
@@ -388,7 +382,6 @@ Once unpacked, the argument's weakness becomes easier to see. The crucial questi
 
 Independent support often comes from sources outside the argument itself:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Direct observation
@@ -400,7 +393,6 @@ Independent support often comes from sources outside the argument itself:
 </div>
 
 The stronger the connection to independently verifiable information, the less vulnerable the argument is to circularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">The major premise can be deduced from other universal premises...</span></span></span> Encyclopedia of Philosophy
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-3-dark.svg" | relative_url }}" alt="Support Test illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_independent_support_898841-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Checklist for Evaluating Premises
@@ -424,9 +416,7 @@ A “yes” to the first three questions and a “no” to the last two usually 
 
 The independent-support test focuses on what arguments are supposed to accomplish: provide reasons that move a discussion forward. Good arguments create a bridge from accepted premises to a disputed conclusion. Circular arguments merely walk in a loop. As several philosophical accounts of fallacies emphasise, the central failure is not simply repetition but the absence of new grounds for belief. An argument that cannot persuade a reasonable sceptic has not yet supplied the independent support that rational persuasion requires.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lGNgsmGwJ6E" title="What is The Circular Reasoning Fallacy? | Critical Thinking Basics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lGNgsmGwJ6E" target="_blank" rel="noopener noreferrer">What is The Circular Reasoning Fallacy? | Critical Thinking Basics</a></p><p class="youtube-embed-meta">Channel: Lucia Grosaru • Psychology Corner &middot; Views: 760 &middot; Uploaded: January 2024 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lGNgsmGwJ6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lGNgsmGwJ6E">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -922,4 +912,4 @@ The independent-support test focuses on what arguments are supposed to accomplis
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: What Is Circular Reasoning?  
-   Link: <a href="https://www.youtube.com/watch?v=w8Yk3qb6qbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w8Yk3qb6qbs</a>  
+   Link: <a href="https://www.youtube.com/watch?v=w8Yk3qb6qbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w8Yk3qb6qbs</a>

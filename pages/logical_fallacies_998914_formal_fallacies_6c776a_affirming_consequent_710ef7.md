@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /formal-logic/
 nav_short_title: False Effects
 title: When Evidence Looks Like Proof but Isnt
-title_full: When Evidence Looks Like Proof but Isnt | Formal Logic
+title_full: When Evidence Looks Like Proof but Isnt
 display_title_short: False Effects
 display_title: False Effects
 heading_title: When Evidence Looks Like Proof but Isnt
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:23:19'
-parent_title: When the Structure Makes Reasoning Fail | Fallacy Lab
+parent_title: When the Structure Makes Reasoning Fail
 parent_permalink: /formal-logic/
 parent_nav_short_title: Formal Logic
 parent_heading_title: When the Structure Makes Reasoning Fail
@@ -276,14 +276,12 @@ image: /assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming
 
 Affirming the consequent, sometimes understood as a form of false proof from effects, is one of the most persuasive formal fallacies because it begins with something that often feels reasonable. The pattern is simple: a person predicts that a particular cause would produce a certain effect, observes the effect, and then treats that observation as proof that the original cause must have occurred. The mistake is not noticing that the same effect may have multiple possible causes. Logic texts identify this as an invalid argument form because the conclusion does not follow necessarily from the premises, even when the premises are true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">forms of inference, so these we may think of as deductive fallacies. They include affirming the consequent, denying the antecedent, the...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1-dark.svg" | relative_url }}" alt="False Effects illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In everyday life, seeing a predicted result can be good evidence for a hypothesis. The problem arises when supporting evidence is promoted into conclusive proof. The fallacy turns “this is consistent with my explanation” into “therefore my explanation is correct”, skipping the crucial step of ruling out alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Affirming-the-Consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Logically FallaciousAffirming the ConsequentAn error in formal logic where if the consequent is said to be true, the antecedent is said t...</span></span></span>
 
 ## The Invalid If-Then Pattern
 
 The structure of affirming the consequent is:(#endnote-2 "Endnote 2") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -294,7 +292,6 @@ The structure of affirming the consequent is:(#endnote-2 "Endnote 2") <span clas
 </div>
 
 Logic scholars classify this as a deductively invalid form of inference. The first statement says that P is sufficient for Q. It does not say that P is the only route to Q. When the argument concludes that Q proves P, it silently converts a one-way relationship into a two-way relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span> A simple example illustrates the problem:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,7 +315,6 @@ False proof from effects appears in many ordinary situations because people ofte
 
 **Health symptoms**
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * If a person has influenza, they may develop a fever.
@@ -330,7 +326,6 @@ False proof from effects appears in many ordinary situations because people ofte
 A fever is compatible with influenza, but it can also result from numerous infections or medical conditions. The symptom supports a diagnosis without proving a specific one.
 
 **Workplace reasoning**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -344,7 +339,6 @@ The outage may instead be caused by network problems, configuration errors, main
 
 **Relationships and behaviour**
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * If someone is angry, they may avoid conversation.
@@ -356,7 +350,6 @@ The outage may instead be caused by network problems, configuration errors, main
 The behaviour could also result from stress, illness, distraction, fatigue, or a desire for privacy.
 
 In each case, the observed effect is real evidence. The error lies in treating it as uniquely diagnostic when it is not. The argument ignores the possibility that several different causes could produce the same result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-2-dark.svg" | relative_url }}" alt="False Effects illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Fallacy Becomes Serious
@@ -374,7 +367,6 @@ Cases such as those involving Sally Clark and Lucia de Berk are frequently cited
 Scientific reasoning often begins by asking whether observations fit a theory. However, a prediction coming true does not automatically establish that the theory is correct. Multiple theories may predict the same observation. Researchers therefore seek additional tests that distinguish among competing explanations rather than relying on one successful prediction alone.
 
 In this sense, affirming the consequent highlights a recurring risk in inquiry: confusing confirmation with demonstration. A result can support a hypothesis while still falling short of proving it uniquely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-3-dark.svg" | relative_url }}" alt="False Effects illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_affirming_consequent_710ef7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Turn a Guess into a Stronger Argument
@@ -400,7 +392,6 @@ For example, a [wet pavement]({{ 'wet-pavement/' | relative_url }}) alone does n
 ### Distinguish Proof from Support
 
 The most important correction is linguistic as well as logical.
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 

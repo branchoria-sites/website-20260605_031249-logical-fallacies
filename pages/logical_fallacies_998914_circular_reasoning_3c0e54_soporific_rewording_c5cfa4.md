@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /circularity/
 nav_short_title: Rewording
 title: When Explanations Just Rename the Claim
-title_full: When Explanations Just Rename the Claim | Circularity
+title_full: When Explanations Just Rename the Claim
 display_title_short: Rewording
 display_title: Rewording
 heading_title: When Explanations Just Rename the Claim
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 14:43:21'
-parent_title: Is the Argument Proving Itself? | Fallacy Lab
+parent_title: Is the Argument Proving Itself?
 parent_permalink: /circularity/
 parent_nav_short_title: Circularity
 parent_heading_title: Is the Argument Proving Itself?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporif
 
 One of the most deceptive forms of circular reasoning occurs when an explanation sounds technical but merely restates the claim it was supposed to explain. Instead of providing a cause, mechanism, or independent reason, the explanation simply renames the phenomenon in different words. Because the language appears scientific or specialised, the weakness can be easy to miss.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1-dark.svg" | relative_url }}" alt="Rewording illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The classic example is the claim that opium causes sleep because it possesses a “soporific” or “dormitive” property. Since *soporific* means “sleep-inducing”, the explanation effectively says that opium causes sleep because it has the property of causing sleep. Nothing new has been learned. The conclusion has merely been translated into different vocabulary. Philosophers and logicians have long used this example as a model of explanatory failure and as a warning about circular reasoning hidden behind impressive terminology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.podcasts.ox.ac.uk/philfac/2018_millican_genphil/GenPhil_2018_MT_Handouts.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.podcasts.ox.ac.uk">[2media.podcasts.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.podcasts.ox.ac.uk</span><span class="citation-popover-snippet">ford Lectures on General Philosophy, 2018-19“Why does opium make one sleep?” “Because it contains a dormitive virtue, whose nature is t...</span></span></span>
 
@@ -285,7 +284,6 @@ The classic example is the claim that opium causes sleep because it possesses a 
 The famous “dormitive virtue” example is commonly traced to a satirical scene in Molière’s 1673 play *The Imaginary Invalid*. In the scene, a medical student is asked why opium induces sleep and replies that it contains a “dormitive virtue”, a response that earns approval from the assembled doctors. The joke works because the answer appears scholarly while explaining nothing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span>
 
 The structure of the reasoning is:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -298,7 +296,6 @@ At first glance, the answer resembles an explanation. On inspection, however, th
 
 A genuine explanation would introduce something independent of the conclusion. Modern pharmacology, for example, explains sedative effects through chemical [interactions]({{ 'interactions/' | relative_url }}) with receptors and nervous-system processes. Whether that explanation is complete or not, it at least introduces [mechanisms]({{ 'mechanisms/' | relative_url }}) that are not simply synonyms for “causes sleep”. The dormitive-virtue explanation does not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Scientific Explanation</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyScientific Explanation - Stanford Encyclopedia of Philosophy9 May 2003 — Issues concerning scientific...</span><span class="citation-popover-meta">Published: May 2003</span></span></span> Encyclopedia of Philosophy
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2X23hAUjSQY" title="Professor Joe Harris discusses the theme of social class in Molière&#x27;s &#x27;Tartuffe&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2X23hAUjSQY" target="_blank" rel="noopener noreferrer">Professor Joe Harris discusses the theme of social class in Molière&#x27;s &#x27;Tartuffe&#x27;</a></p><p class="youtube-embed-meta">Channel: Royal Holloway Languages, Literatures and Cultures &middot; Views: 907 &middot; Uploaded: October 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2X23hAUjSQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2X23hAUjSQY">Open on YouTube</a></p></div></div></div>
 
 ## How Synonyms Disguise Weak Support
@@ -306,7 +303,6 @@ A genuine explanation would introduce something independent of the conclusion. M
 Reworded conclusions are persuasive because people often mistake labels for explanations. Once a phenomenon receives a technical-sounding name, it can feel as though understanding has increased even when no new evidence has been provided.
 
 Consider these examples:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,14 +319,12 @@ This pattern appears in many fields. In everyday conversation, people often infe
 
 Technical language can make the problem harder to detect. A specialised term may create an impression of expertise, causing listeners to assume that a mechanism has been identified. Yet a new label is not automatically a new explanation. The crucial question is whether the term refers to independently established processes or merely redescribes the original fact.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-2-dark.svg" | relative_url }}" alt="Rewording illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Property Really Explains Something
 
 Not every reference to a property or disposition is fallacious. Scientific explanations frequently invoke properties such as mass, electrical charge, elasticity, or toxicity. The difference lies in whether the property contributes independent explanatory content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/win2014/entries/scientific-explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Scientific Explanation</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyScientific Explanation - Stanford Encyclopedia of Philosophy9 May 2003 — Issues concerning scientific...</span><span class="citation-popover-meta">Published: May 2003</span></span></span> Encyclopedia of Philosophy
 
 A property becomes informative when it:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -344,7 +338,6 @@ A property becomes informative when it:
 For example, saying that a substance is toxic is not necessarily circular if toxicity has been independently studied, measured, and linked to identifiable biological mechanisms. The explanation does more than restate the observation; it places the observation within a wider causal framework.
 
 The dormitive-virtue example became famous precisely because it lacks these features. The alleged virtue is defined only through the effect it is supposed to explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elanortaylor.org/uploads/9/1/8/2/91822306/taylor_final_dormitive.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elanortaylor.org">[Elanor Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elanortaylor.org</span><span class="citation-popover-snippet">Elanor TaylorA Dormitive Virtue Puzzle.by E Taylor · Cited by 2 — Molière&#x27;s comedy The Imaginary Invalid a doctor “explains” that opium r...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ok7ri7R7Ffw" title="Circular Reasoning (Episode 36)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ok7ri7R7Ffw" target="_blank" rel="noopener noreferrer">Circular Reasoning (Episode 36)</a></p><p class="youtube-embed-meta">Channel: Answers in Genesis Canada &middot; Views: 1.2K &middot; Uploaded: August 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ok7ri7R7Ffw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ok7ri7R7Ffw">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +367,6 @@ An independently measurable property is more informative than one inferred solel
 
 Perhaps the simplest test is whether the explanation increases understanding or merely replaces familiar words with unfamiliar ones.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-3-dark.svg" | relative_url }}" alt="Rewording illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_soporific_rewording_c5cfa4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Reworded Explanations Remain Persuasive
 
@@ -384,9 +376,7 @@ Molière’s dormitive-virtue joke has endured for centuries because it captures
 
 Recognising reworded conclusions is therefore an important skill in evaluating arguments. Whenever an explanation seems impressive, it is worth asking whether it reveals a genuine mechanism or merely renames the claim it was meant to explain.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YyigEEx5194" title="What is Circular Reasoning?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YyigEEx5194" target="_blank" rel="noopener noreferrer">What is Circular Reasoning?</a></p><p class="youtube-embed-meta">Channel: History, Science and Religion &middot; Views: 35.3K &middot; Uploaded: August 2017 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YyigEEx5194" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YyigEEx5194">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

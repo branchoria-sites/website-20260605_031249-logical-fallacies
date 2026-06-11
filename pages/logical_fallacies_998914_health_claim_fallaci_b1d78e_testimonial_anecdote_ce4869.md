@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /remedies/
 nav_short_title: Testimonials
 title: When recovery stories are not evidence
-title_full: When recovery stories are not evidence | Remedies
+title_full: When recovery stories are not evidence
 display_title_short: Testimonials
 display_title: Testimonials
 heading_title: When recovery stories are not evidence
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:23:18'
-parent_title: Do Popular Remedies Prove Themselves? | Fallacy Lab
+parent_title: Do Popular Remedies Prove Themselves?
 parent_permalink: /remedies/
 parent_nav_short_title: Remedies
 parent_heading_title: Do Popular Remedies Prove Themselves?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testi
 
 Personal recovery stories are among the most persuasive forms of health marketing. A neighbour says a supplement ended years of joint pain. An online reviewer claims a detox programme transformed their energy levels. A video testimonial shows someone who appears healthier after using a remedy. These accounts may be completely sincere, yet sincerity is not the same as evidence.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-1-dark.svg" | relative_url }}" alt="Testimonials illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The logical fallacy at work is often called the anecdotal fallacy or, in consumer health, the anecdote trap: treating individual experiences as proof that a remedy works. The problem is not dishonesty. The problem is that a single story cannot reliably distinguish between the effect of the remedy and the many other reasons people may improve. Health researchers therefore treat testimonials as clues that may generate hypotheses, not as proof that a treatment causes recovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Anecdotal evidence can be unreliable. You cannot infer a general rule from a...Read more...</span></span></span>
 
@@ -299,7 +298,6 @@ A testimonial often captures only two moments:
 
 What is missing is the crucial comparison: what would have happened if the person had not taken the remedy?
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y8WsTQ2G-HY" title="Dietary Supplement Practicum (3 of 21): What the Federal Trade Commission (FTC) Does" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y8WsTQ2G-HY" target="_blank" rel="noopener noreferrer">Dietary Supplement Practicum (3 of 21): What the Federal Trade Commission (FTC) Does</a></p><p class="youtube-embed-meta">Channel: National Institutes of Health (NIH) &middot; Views: 1.6K &middot; Uploaded: November 2017 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y8WsTQ2G-HY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y8WsTQ2G-HY">Open on YouTube</a></p></div></div></div>
 
 ### Regression to the mean creates convincing success stories
@@ -318,14 +316,12 @@ This means a person can honestly report feeling better after taking a remedy eve
 
 Researchers also emphasise that placebo responses do not account for all improvement. Natural recovery, symptom fluctuation, regression to the mean, and other factors can operate at the same time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2716443/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Patients in the placebo arms of randomized controlled trials (RCT) often experience positive changes from baseline.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-2-dark.svg" | relative_url }}" alt="Testimonials illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The public sees winners more often than losers
 
 Testimonials are affected by selective visibility.
 
 People who experience improvement are more likely to:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -341,7 +337,6 @@ People who see no benefit often remain silent, abandon the product, or move on t
 
 As a result, consumers are exposed to a filtered collection of experiences. The visible population is not necessarily representative of everyone who tried the product. This is closely related to survivorship bias: observing only the apparent successes while the failures disappear from view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Anecdotal evidence can be unreliable. You cannot infer a general rule from a...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RObenVeD-yU" title="The FTC and FDA Join Forces on Enforcement: New Regulatory Guidance on Health-Related Claims" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RObenVeD-yU" target="_blank" rel="noopener noreferrer">The FTC and FDA Join Forces on Enforcement: New Regulatory Guidance on Health-Related Claims</a></p><p class="youtube-embed-meta">Channel: Venable LLP &middot; Views: 440 &middot; Uploaded: March 2023 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RObenVeD-yU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RObenVeD-yU">Open on YouTube</a></p></div></div></div>
 
 ## Why marketers rely on testimonials
@@ -354,7 +349,6 @@ The FTC has also studied how testimonial-based promotions influence consumers. R
 
 This does not mean every testimonial is deceptive. It means that a compelling story can communicate a much stronger message than the underlying evidence actually supports.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QDlPoSSVPuA" title="Anecdotes (The Body of Evidence)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QDlPoSSVPuA" target="_blank" rel="noopener noreferrer">Anecdotes (The Body of Evidence)</a></p><p class="youtube-embed-meta">Channel: The Body of Evidence Podcast &middot; Views: 56.5K &middot; Uploaded: July 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QDlPoSSVPuA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QDlPoSSVPuA">Open on YouTube</a></p></div></div></div>
 
 ## How to use testimonials without overtrusting them
@@ -362,7 +356,6 @@ This does not mean every testimonial is deceptive. It means that a compelling st
 Testimonials are not useless. They simply answer a different question from the one many consumers think they answer.
 
 A testimonial can sometimes help reveal:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -377,7 +370,6 @@ What it cannot reliably establish is whether the remedy caused the reported impr
 
 When evaluating a health claim, it helps to ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Would some people have improved anyway?
@@ -389,7 +381,6 @@ When evaluating a health claim, it helps to ask:
 </div>
 
 If the answer relies mainly on personal stories, caution is warranted. Anecdotes can suggest possibilities, but they are poor tools for measuring effectiveness. Controlled research exists precisely because human beings are so good at finding patterns, causes, and success stories even when those patterns are misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK63649/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIBad evidence</span><span class="citation-popover-snippet">Anecdotal evidence can be unreliable. You cannot infer a general rule from a...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/health/providers/litreviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">nih.govEvidence-Based Medicine: Literature Reviews &#124; NCCIHThe resources on this page will help inform you about what the science says (li...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-3-dark.svg" | relative_url }}" alt="Testimonials illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_testimonial_anecdote_ce4869-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The key lesson of the anecdote trap

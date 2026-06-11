@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Deadlines
 title: Will One Extension Ruin the Rules?
-title_full: Will One Extension Ruin the Rules? | Fallacy Lab
+title_full: Will One Extension Ruin the Rules?
 display_title_short: Deadlines
 display_title: Deadlines
 heading_title: Will One Extension Ruin the Rules?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-overv
 
 A deadline-extension argument becomes a [slippery slope]({{ 'slippery-slope/' | relative_url }}) fallacy when it treats one justified exception as the start of an unavoidable collapse: “If we allow this student, applicant, employee or supplier extra time, everyone will ask, the deadline will mean nothing, and the whole system will become unfair.” The worry is not always irrational. Deadlines do protect coordination, fairness and planning. The fallacy appears when the speaker skips the hard part: showing why this particular exception will probably cause the later steps.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-overview.webp" | relative_url }}" alt="Overview image for Deadlines" loading="eager" decoding="sync" fetchpriority="high">
 In governance, the useful question is not “Are [exceptions]({{ 'exceptions/' | relative_url }}) dangerous?” but “What rule, evidence threshold and safeguard separates a justified extension from an open-ended weakening of the rule?” That distinction matters because real institutions already use controlled exceptions. Universities, courts, grant bodies, public agencies and workplaces often preserve firm deadlines while allowing limited extensions for illness, disability, bereavement, technical failure or other circumstances outside a person’s control. The reasoning goes wrong when “one extension” is framed as “no standards” without evidence for the chain.
 
@@ -514,7 +513,6 @@ Deadline rules are attractive because they are simple. Everyone knows the same c
 The slippery slope enters when those legitimate concerns are inflated into inevitability. The Stanford Encyclopedia of Philosophy describes the slippery slope fallacy as a move from a starting point through incremental inferences to an unwanted conclusion, using that feared end point to reject the starting point. The Internet Encyclopedia of Philosophy similarly treats it as an informal fallacy in which step one is said to lead to step two, then step three, until an unacceptable endpoint is reached. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — The fallacy of the...</span></span></span> Encyclopedia of Philosophy
 
 A deadline-extension version usually has this shape:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -528,7 +526,6 @@ A deadline-extension version usually has this shape:
 
 The weak point is often between steps two and three. People may request similar treatment, but that does not prove the institution must grant every request. A policy can say “yes” to a hospitalisation, “no” to poor time management, and “different process” for long-term disability adjustments. The fallacy lies in erasing that middle ground.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-1-dark.svg" | relative_url }}" alt="Deadlines illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Concern Is Reasonable, Not Fallacious
 
@@ -539,7 +536,6 @@ For deadline extensions, a reasonable concern normally points to a mechanism. Fo
 Legal and policy scholarship makes a similar distinction. Eugene Volokh’s work on [slippery slopes]({{ 'slippery-slope/' | relative_url }}) focuses less on whether such arguments are formally valid in the abstract and more on the mechanisms by which one decision can make later decisions more likely, such as precedent, changed incentives, altered political power or softened [boundaries]({{ 'boundaries/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery SlopeNovember 26, 2012 — by E Volokh — erally Eric Lode, Slippery Slope Arguments and Le...</span><span class="citation-popover-meta">Published: November 26, 2012</span></span></span> Rizzo and Whitman also analyse slippery slopes as operating across layers of decisions, rules, theories and wider programmes, rather than as a single magic domino effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uclalawreview.org/the-camels-nose-is-in-the-tent-rules-theories-and-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uclalawreview.org">[UCLA Law Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uclalawreview.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Applied to deadlines, that means the question should be practical:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -556,7 +552,6 @@ A warning becomes stronger when it answers those questions with evidence. It bec
 ## The Three Chains Hidden Inside Extension Arguments
 
 Deadline-extension disputes often mix several different slippery-slope claims. Separating them makes the argument easier to test.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qt4f7QrfRRc" title="Can you outsmart the slippery slope fallacy? - Elizabeth Cox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer">Can you outsmart the slippery slope fallacy? - Elizabeth Cox</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.1M &middot; Uploaded: August 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qt4f7QrfRRc">Open on YouTube</a></p></div></div></div>
 
@@ -605,7 +600,6 @@ Common [safeguards]({{ 'safeguards/' | relative_url }}) include:
 
 These safeguards do not make every policy perfect. They do show why “one extension ruins the rule” is too fast. Real governance can attach conditions, record reasons, limit duration, cap repeated use and route different circumstances through different procedures.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-2-dark.svg" | relative_url }}" alt="Deadlines illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Fairness Trade-Off Is Real
 
@@ -616,7 +610,6 @@ That is why good policy treats extensions as a fairness device, not a favour. Th
 A slippery-slope objection often hides a real distributional question: who bears the cost of flexibility? In education, staff may face compressed marking periods. In procurement, other bidders may have relied on the original timetable. In employment, teammates may have to cover unfinished work. These concerns should be answered directly through policy design, not dismissed as heartlessness and not exaggerated into inevitable collapse.
 
 A sound extension policy therefore asks:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -629,7 +622,6 @@ A sound extension policy therefore asks:
 </div>
 
 This keeps the [debate]({{ 'debate/' | relative_url }}) on evidence and institutional design rather than fear.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yxylBjtzMNQ" title="Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer">Slippery Slope - Critical Thinking Fallacies | WIRELESS PHILOSOPHY</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 175.8K &middot; Uploaded: December 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yxylBjtzMNQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yxylBjtzMNQ">Open on YouTube</a></p></div></div></div>
 
@@ -655,7 +647,6 @@ A more careful version would say: “Career opportunities are important, but a s
 
 The difference is precision. The fallacious version jumps from one case to disaster. The strong version asks whether this case fits the rule and what precedent the decision would actually create.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-3-dark.svg" | relative_url }}" alt="Deadlines illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Policy Safeguards That Stop the Slide
 
@@ -674,7 +665,6 @@ A robust deadline-extension policy usually includes five features.
 **Protection against unfair advantage.** The aim should be to neutralise disadvantage, not improve someone’s position beyond others. Suffolk’s policy states this principle directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uos.ac.uk/media/uniofsuffolk/website/content-assets/documents/policies-and-procedures/Extenuating-Circumstances-Policy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uos.ac.uk">[University of Suffolk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uos.ac.uk</span><span class="citation-popover-title">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span><span class="citation-popover-snippet">University of Suffolk Additional Time due to Extenuating Circumstances Policy</span></span></span>
 
 These safeguards turn an exception from an ad hoc favour into a governed intervention. They also make later refusal easier: “This new request does not meet the published criteria” is much stronger than “We just do not want too many people asking.”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ar39s8NQXUM" title="Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer">Slippery Slope: Jumping From A to Z -- Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 5.9K &middot; Uploaded: February 2020 &middot; Length: 3 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ar39s8NQXUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ar39s8NQXUM">Open on YouTube</a></p></div></div></div>
 
@@ -1295,4 +1285,4 @@ A deadline does not stop being a deadline because an exception exists. It stops 
 
 39. <a id="endnote-39"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>  
+   Link: <a href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf</a>

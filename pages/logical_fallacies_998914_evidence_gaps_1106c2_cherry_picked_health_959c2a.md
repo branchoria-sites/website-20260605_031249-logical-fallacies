@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /evidence-gaps/
 nav_short_title: Cherry Picking
 title: When One Study Hides the Rest
-title_full: When One Study Hides the Rest | Evidence Gaps
+title_full: When One Study Hides the Rest
 display_title_short: Cherry Picking
 display_title: Cherry Picking
 heading_title: When One Study Hides the Rest
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:12:04'
-parent_title: What Evidence Is the Argument Missing? | Fallacy Lab
+parent_title: What Evidence Is the Argument Missing?
 parent_permalink: /evidence-gaps/
 parent_nav_short_title: Evidence Gaps
 parent_heading_title: What Evidence Is the Argument Missing?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picke
 
 A common form of cherry-picking in health claims occurs when a speaker, advertiser, influencer, or campaign highlights one favourable study while ignoring larger, better-designed, or contradictory research. The cited study may be genuine and accurately described, yet the overall argument becomes misleading because the audience sees only a selected fragment of the available evidence. In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the error is not necessarily that the chosen study is false, but that the evidence presented is incomplete in a way that creates a distorted impression of scientific support. Systematic reviews were developed partly to reduce exactly this problem by examining the total body of relevant evidence rather than isolated findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.testingtreatments.org/book/8-assessing-relevant-reliable-evidence/reducing-biases-in-systematic-reviews/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.testingtreatments.org">[EN Testing Treatments interactive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.testingtreatments.org</span><span class="citation-popover-snippet">EN Testing Treatments interactiveReducing biases in systematic reviewsFor example, researchers can simply &#x27;cherry pick&#x27; those studies whi...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-1-dark.svg" | relative_url }}" alt="Cherry Picking illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Health decisions are particularly vulnerable to this fallacy because people may change diets, buy supplements, delay treatment, or adopt medical practices based on claims that appear scientific but rest on a carefully selected subset of research. Regulatory and research organisations have repeatedly warned that health claims should be evaluated against the full evidence base rather than individual studies that happen to support a preferred conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission Health Products Compliance Guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance GuidanceDecember 20, 2022 — 20 Dec 2022 — This document provides guidance from FTC sta...</span><span class="citation-popover-meta">Published: December 20, 2022</span></span></span>
 
@@ -287,7 +286,6 @@ A single study can appear highly persuasive. It may report a statistically signi
 Medical research often produces mixed findings. Small trials may show benefits that disappear in larger studies. Early observations may not survive replication. Different populations may respond differently to the same intervention. When communicators present only the favourable studies, they create the impression that the science is settled when it may actually be uncertain or divided. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/archive/v5.2.0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">Chapter 1</span><span class="citation-popover-snippet">Chapter 1: IntroductionSystematic reviews aim to minimize bias by using explicit, systematic methods documented in advance with a...</span></span></span>
 
 This can happen in several ways:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -311,7 +309,6 @@ This psychological effect is strengthened when the cited study is easy to unders
 
 Health marketers often rely on this imbalance. Regulatory guidance on health-product advertising stresses that claims should be supported by the overall scientific evidence rather than isolated findings chosen because they support a desired message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission Health Products Compliance Guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance GuidanceDecember 20, 2022 — 20 Dec 2022 — This document provides guidance from FTC sta...</span><span class="citation-popover-meta">Published: December 20, 2022</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/egJlW4vkb1Y" title="What are systematic reviews?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=egJlW4vkb1Y" target="_blank" rel="noopener noreferrer">What are systematic reviews?</a></p><p class="youtube-embed-meta">Channel: Cochrane &middot; Views: 470.0K &middot; Uploaded: January 2016 &middot; Length: 3 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=egJlW4vkb1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=egJlW4vkb1Y">Open on YouTube</a></p></div></div></div>
 
 ## What Missing Trials and Reviews Can Reveal
@@ -321,7 +318,6 @@ The most important question is often not “What study was shown?” but “What
 Systematic reviews and meta-analyses attempt to answer that question by collecting all relevant studies according to predefined criteria. Their purpose is to reduce the influence of selective evidence selection. Cochrane, one of the leading organisations in evidence synthesis, specifically identifies missing studies and non-reporting biases as major [threats]({{ 'threats/' | relative_url }}) to reliable conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-07" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">eview, covering both biases in the results of included studies and biases in the...Read more...</span></span></span>
 
 A review can reveal that:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -334,7 +330,6 @@ A review can reveal that:
 </div>
 
 Sometimes the omitted evidence changes the conclusion entirely. Research on publication bias has shown that studies with favourable or statistically significant results are more likely to be published and cited, creating a risk that visible evidence overstates effectiveness. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jrsm.1468" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryInvestigating and dealing with publication bias and other...by MJ Page · 2021 · Cited by 296 — In this article, we s...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-2-dark.svg" | relative_url }}" alt="Cherry Picking illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Problem of Selective Outcome Reporting
@@ -354,7 +349,6 @@ For example, health products may continue promoting benefits based on early or l
 The same pattern appears when preliminary findings are presented as established fact. Early studies may justify further investigation, but persuasive claims sometimes treat them as conclusive proof while overlooking the need for replication and larger trials. Recent debates over dietary approaches for mental-health conditions have highlighted concerns that small or preliminary studies can be oversold long before stronger evidence is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/health/2026/02/17/keto-diet-schizophrenia-rfk-jr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post RFK Jr</span><span class="citation-popover-snippet">claimed that keto diets cured schizophrenia. Here&#x27;s what science says.February 17, 2026 — Health Secretary Robert F. Kennedy Jr. has clai...</span><span class="citation-popover-meta">Published: February 17, 2026</span></span></span>
 
 The fallacy is not that the preliminary studies exist. The fallacy lies in presenting them as though they represent the complete state of knowledge.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W5CQb7klLCs" title="How to Lie with Data | Cherry Picking Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W5CQb7klLCs" target="_blank" rel="noopener noreferrer">How to Lie with Data | Cherry Picking Data</a></p><p class="youtube-embed-meta">Channel: Alex The Analyst &middot; Views: 4.2K &middot; Uploaded: April 2025 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W5CQb7klLCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W5CQb7klLCs">Open on YouTube</a></p></div></div></div>
 
@@ -385,7 +379,6 @@ Commercial incentives do not automatically invalidate evidence, but they increas
 
 A balanced evidence presentation rarely claims certainty from a single paper. Instead, it situates individual studies within the wider literature, acknowledges limitations, and explains how the new findings compare with existing research.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-3-dark.svg" | relative_url }}" alt="Cherry Picking illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_cherry_picked_health_959c2a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Cherry-Picked Studies Matter
 
@@ -393,9 +386,7 @@ Cherry-picking is powerful because it can create the appearance of scientific su
 
 The logical fallacy emerges when a conclusion is presented as evidence-based even though key evidence has been excluded. A favourable study may be real, rigorous, and worth discussing. The problem begins when it is treated as the whole story while contradictory trials, negative findings, and broader reviews remain out of view. In evidence-based health assessment, what is missing can be just as important as what is shown.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k8v5hz9d2lI" title="What is Cherry Picking | Explained in 2 min" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k8v5hz9d2lI" target="_blank" rel="noopener noreferrer">What is Cherry Picking | Explained in 2 min</a></p><p class="youtube-embed-meta">Channel: Productivity Guy &middot; Views: 7.0K &middot; Uploaded: December 2020 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k8v5hz9d2lI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k8v5hz9d2lI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

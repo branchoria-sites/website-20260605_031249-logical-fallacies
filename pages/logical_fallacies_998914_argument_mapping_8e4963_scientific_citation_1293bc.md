@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /argument-map/
 nav_short_title: Citation Gaps
 title: When a Scientific Source Does Not Prove the Claim
-title_full: When a Scientific Source Does Not Prove the Claim | Argument Map
+title_full: When a Scientific Source Does Not Prove the Claim
 display_title_short: Citation Gaps
 display_title: Citation Gaps
 heading_title: When a Scientific Source Does Not Prove the Claim
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:11:18'
-parent_title: Can You Map the Reasoning? | Fallacy Lab
+parent_title: Can You Map the Reasoning?
 parent_permalink: /argument-map/
 parent_nav_short_title: Argument Map
 parent_heading_title: Can You Map the Reasoning?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientifi
 
 A scientific paper can be genuine, peer-reviewed, and accurately cited, yet still fail to support the conclusion attached to it. In argument mapping, this is one of the most important evidence-to-claim gaps to identify. The source itself is not fabricated; the problem lies in the inference. A study may show an [association]({{ 'association/' | relative_url }}), a limited effect in a narrow population, or a preliminary finding, while the argument built upon it claims proof of causation, broad effectiveness, certainty, or policy necessity. The resulting fallacy is not usually about the citation's existence but about the distance between what the evidence demonstrates and what the conclusion asserts. Research on scientific “spin” and causal overstatement shows that such gaps occur not only in media reporting but also in abstracts, press releases, and scientific communication itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8039230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPublished patterns of spin in biomedical literature</span><span class="citation-popover-snippet">NIHby N Su · 2021 · Cited by 2 — The primary aim of this study is to identify reported spin patterns and assess the prevalence of s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.1001308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Misrepresentation of Randomized Controlled Trials in Press...by A Yavchitz · 2012 · Cited by 353 — In this study, the researchers ev...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-1-dark.svg" | relative_url }}" alt="Citation Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Mapping the Cited Finding
 
@@ -289,7 +288,6 @@ In an [argument map]({{ 'argument-map/' | relative_url }}), the cited finding sh
 
 Scientific findings often fall into categories such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Correlation between variables. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0022480425001659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>
@@ -303,7 +301,6 @@ Scientific findings often fall into categories such as:
 The conclusion may require a stronger category of evidence than the study provides. Identifying that mismatch reveals the gap.
 
 A common mistake is to treat every scientific citation as if it were direct proof. In reality, the evidential strength depends on study design, measurement quality, sample selection, and the specific question being asked. Observational studies, for example, can identify relationships but generally cannot by themselves establish causal effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/jevcp/fulltext/10.1111/jep.14288~association-does-not-mean-causation-when-observational-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-snippet">Association Does Not Mean Causation, When...by F D&#x27;Amico · 2025 · Cited by 27 — Observational studies capture two events as they occu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0022480425001659" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">more...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7bT17r_yIrw" title="Correlation vs Causation: A Brief Guide To Communicating Research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7bT17r_yIrw" target="_blank" rel="noopener noreferrer">Correlation vs Causation: A Brief Guide To Communicating Research</a></p><p class="youtube-embed-meta">Channel: The Winton Centre &middot; Views: 45.7K &middot; Uploaded: November 2020 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7bT17r_yIrw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7bT17r_yIrw">Open on YouTube</a></p></div></div></div>
 
@@ -323,7 +320,7 @@ Once that assumption is exposed, it can be tested.
 
 Several missing bridges commonly appear in citation-based arguments:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrdc.pitt.edu/rottman/pubs/2022a/2022%20Willett%20CorrelationCausationDissertation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrdc.pitt.edu">[**Correlation to causation**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrdc.pitt.edu</span><span class="citation-popover-title">Why Correlation Doesn&#x27;t Imply Causation: Improving</span><span class="citation-popover-snippet">December 21, 2022 — by CL Willett · 2022 · Cited by 10 — “Researchers at the Sleep Research Society have found that people who are tired...</span><span class="citation-popover-meta">Published: December 21, 2022</span></span></span>
+**Correlation to causation** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lrdc.pitt.edu/rottman/pubs/2022a/2022%20Willett%20CorrelationCausationDissertation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lrdc.pitt.edu">[lrdc.pitt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lrdc.pitt.edu</span><span class="citation-popover-title">Why Correlation Doesn&#x27;t Imply Causation: Improving</span><span class="citation-popover-snippet">December 21, 2022 — by CL Willett · 2022 · Cited by 10 — “Researchers at the Sleep Research Society have found that people who are tired...</span><span class="citation-popover-meta">Published: December 21, 2022</span></span></span>
 
 The most familiar gap occurs when an observed association is treated as proof of cause and effect. Confounding variables, reverse causation, and selection effects can all create correlations without the claimed causal relationship. Scientific methodology devotes considerable effort to distinguishing association from causation precisely because the inference is not automatic. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8039230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPublished patterns of spin in biomedical literature</span><span class="citation-popover-snippet">NIHby N Su · 2021 · Cited by 2 — The primary aim of this study is to identify reported spin patterns and assess the prevalence of s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/jevcp/fulltext/10.1111/jep.14288~association-does-not-mean-causation-when-observational-data" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-snippet">Association Does Not Mean Causation, When...by F D&#x27;Amico · 2025 · Cited by 27 — Observational studies capture two events as they occu...</span></span></span>
 
@@ -341,7 +338,6 @@ A study may detect a real effect, yet the effect size may be small. The argument
 
 In each case, the citation provides some support, but not enough support to reach the advertised conclusion.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-2-dark.svg" | relative_url }}" alt="Citation Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Real Sources Still Produce Misleading Arguments
 
@@ -358,7 +354,6 @@ For argument mapping, the lesson is simple: the presence of a citation is not th
 ## Spotting Overstated Conclusions
 
 Several warning signs help identify evidence-to-claim gaps.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6gaQb7GzZFQ" title="Ben Goldacre Talks Bad Science" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6gaQb7GzZFQ" target="_blank" rel="noopener noreferrer">Ben Goldacre Talks Bad Science</a></p><p class="youtube-embed-meta">Channel: PopTech &middot; Views: 59.7K &middot; Uploaded: January 2011 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6gaQb7GzZFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6gaQb7GzZFQ">Open on YouTube</a></p></div></div></div>
 
@@ -380,7 +375,6 @@ A study may show a relationship between variables, while the argument recommends
 
 The recommendation requires an additional inference step. Argument maps should display that step explicitly rather than allowing it to remain hidden.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-3-dark.svg" | relative_url }}" alt="Citation Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_argument_mapping_8e4963_scientific_citation_1293bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Abstract versus study details
 
@@ -394,7 +388,6 @@ Scientific papers commonly discuss limitations, confidence intervals, alternativ
 
 When a scientific citation appears in an argument, apply three questions:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **What does the study directly establish?**
@@ -407,9 +400,7 @@ If the assumptions are substantial, controversial, or unsupported, the argument 
 
 This approach helps distinguish between evidence that genuinely supports a conclusion and evidence that merely appears to support it. The citation may be real, the data may be accurate, and the researchers may be credible. Yet the argument can still be fallacious if the conclusion extends beyond what the evidence actually demonstrates. In argument mapping, that unsupported extension is often the weakest link in the entire chain of reasoning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zw9FadtJ8VY" title="Correlation vs. Causation: Don’t Let the Data Fool You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zw9FadtJ8VY" target="_blank" rel="noopener noreferrer">Correlation vs. Causation: Don’t Let the Data Fool You</a></p><p class="youtube-embed-meta">Channel: Coursera &middot; Views: 260 &middot; Uploaded: December 2025 &middot; Length: 4 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zw9FadtJ8VY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zw9FadtJ8VY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

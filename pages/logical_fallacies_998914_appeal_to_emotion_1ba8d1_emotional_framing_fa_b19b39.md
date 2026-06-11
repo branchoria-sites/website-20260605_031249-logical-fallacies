@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /emotion/
 nav_short_title: Fake News
 title: Why Emotional Headlines Feel True
-title_full: Why Emotional Headlines Feel True | Emotion
+title_full: Why Emotional Headlines Feel True
 display_title_short: Fake News
 display_title: Fake News
 heading_title: Why Emotional Headlines Feel True
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:22:48'
-parent_title: When Does Emotion Replace Evidence? | Fallacy Lab
+parent_title: When Does Emotion Replace Evidence?
 parent_permalink: /emotion/
 parent_nav_short_title: Emotion
 parent_heading_title: When Does Emotion Replace Evidence?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotiona
 
 Emotional framing helps explain why some false headlines feel convincing even when supporting evidence is weak or absent. Within the broader family of appeals to [emotion]({{ 'emotion/' | relative_url }}), the key issue is not that people have feelings about news stories, but that emotional reactions can become a shortcut for judging truth. When a headline triggers fear, anger, outrage, hope, or anxiety, readers may focus on the feeling it creates rather than on whether the claim has been verified. Research on misinformation consistently finds that emotional processing is linked to greater susceptibility to [false news]({{ 'false-news/' | relative_url }}), while careful attention to accuracy improves truth discernment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539247/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReliance on emotion promotes belief in fake news</span><span class="citation-popover-snippet">What is the role of emotion in susceptibility to believing fake news? Prior work on the psychology of misinformation has focused primaril...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-1-dark.svg" | relative_url }}" alt="Fake News illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because modern misinformation is often designed around emotional impact. False stories that provoke strong reactions are more likely to be noticed, remembered, shared, and sometimes believed. The emotional response itself does not prove that a claim is false, but it can make accuracy checks feel less urgent at exactly the moment they are most needed. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation belief action</span><span class="citation-popover-snippet">American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</span></span></span>
 
@@ -292,7 +291,6 @@ Researchers Cameron Martel, Gordon Pennycook, and David Rand found evidence that
 </div>
 
 The emotional content does not have to be fabricated. A real photograph, genuine tragedy, or legitimate grievance can be attached to an unsupported claim. In such cases, the emotion is authentic while the conclusion remains unjustified.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NoI8QzUAeiA" title="Decoding Deception: The Psychology of Combating Misinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NoI8QzUAeiA" target="_blank" rel="noopener noreferrer">Decoding Deception: The Psychology of Combating Misinformation</a></p><p class="youtube-embed-meta">Channel: PNAS &middot; Views: 12.4K &middot; Uploaded: October 2024 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NoI8QzUAeiA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NoI8QzUAeiA">Open on YouTube</a></p></div></div></div>
 
@@ -318,7 +316,6 @@ Another mechanism is the **illusory truth effect**, in which repeated statements
 
 This combination helps explain why false stories can spread widely. Research examining large-scale information diffusion on social media found that false news often spreads farther and faster than true news. Emotional novelty and strong reactions appear to be part of the reason such content gains traction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">study twitter false news travels faster true stories 0308</span><span class="citation-popover-snippet">MIT NewsStudy: On Twitter, false news travels faster than true stories8 Mar 2018 — Researchers from the Media Lab and Sloan found that hu...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-2-dark.svg" | relative_url }}" alt="Fake News illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Pauses Before Sharing Emotional Claims
 
@@ -334,13 +331,12 @@ A useful question is: *What specific evidence would support this claim if the em
 
 Many misleading posts combine a compelling personal story with a broader factual assertion. The story may be genuine while the larger conclusion remains unsupported.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Readers can distinguish between:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotions in misinformation studies: distinguishing affective...by J Lühring · 2024 · Cited by 34 — We conclude that studies need to d...</span></span></span>
+Readers can distinguish between: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11656008/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Emotions in misinformation studies: distinguishing affective...by J Lühring · 2024 · Cited by 34 — We conclude that studies need to d...</span></span></span>
 
 * The emotional event being described.
 * The factual claim the event is being used to prove.
 
 The first does not automatically establish the second.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tNPvOYU9Y74" title="Fake News with Dr. Gordon Pennycook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tNPvOYU9Y74" target="_blank" rel="noopener noreferrer">Fake News with Dr. Gordon Pennycook</a></p><p class="youtube-embed-meta">Channel: Opinion Science &middot; Views: 448 &middot; Uploaded: July 2023 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tNPvOYU9Y74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tNPvOYU9Y74">Open on YouTube</a></p></div></div></div>
 
@@ -349,7 +345,6 @@ The first does not automatically establish the second.
 Research suggests that prompting people to think about accuracy can improve the quality of information they share. Even a brief moment spent considering whether a claim is true can reduce the influence of emotional impulses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1364661321000516" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review The Psychology of Fake Newsby G Pennycook · 2021 · Cited by 2116 — We synthesize a burgeoning literature investigatin...</span></span></span>
 
 Practical checks include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -361,7 +356,6 @@ Practical checks include:
 
 </div>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-3-dark.svg" | relative_url }}" alt="Fake News illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_emotion_1ba8d1_emotional_framing_fa_b19b39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Matters for Logical Fallacies
 
@@ -369,9 +363,7 @@ Emotional framing and fake news belief illustrate how appeals to emotion can bec
 
 A headline may feel alarming, inspiring, or infuriating. Those reactions may even be reasonable. Yet the truth of the underlying claim depends on evidence, not on the strength of the emotional response it produces. Research on misinformation repeatedly shows that when emotional cues dominate attention, the boundary between feeling that something is true and knowing that it is true becomes easier to cross. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/misinformation-belief-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">misinformation belief action</span><span class="citation-popover-snippet">American Psychological AssociationWhat psychological factors make people susceptible to...29 Nov 2023 — The emotional content of misinfo...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bA6Vgd8m04A" title="The Cognitive Science of Fake News - David Rand November 3, 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bA6Vgd8m04A" target="_blank" rel="noopener noreferrer">The Cognitive Science of Fake News - David Rand November 3, 2017</a></p><p class="youtube-embed-meta">Channel: UCTV &middot; Views: 656 &middot; Uploaded: November 2017 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bA6Vgd8m04A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bA6Vgd8m04A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

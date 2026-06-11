@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Wet Pavement
 title: Why One Explanation Is Not Enough
-title_full: Why One Explanation Is Not Enough | Fallacy Lab
+title_full: Why One Explanation Is Not Enough
 display_title_short: Wet Pavement
 display_title: Wet Pavement
 heading_title: Why One Explanation Is Not Enough
@@ -497,12 +497,10 @@ image: /assets/images/logical_fallacies_998914_affirming_consequent_413c6c-overv
 
 In the study of **[logical fallacies]({{ 'logical-fallacies/' | relative_url }})**, *affirming the consequent* is a classic example of a **formal fallacy** — a structural error in deductive reasoning where the form of the argument is invalid even if the premises are true. A vivid everyday instance of this misstep is the familiar **“wet pavement” logic**: observing wet pavement and concluding it must have rained. This sub‑topic explains why this line of reasoning is flawed, how it arises from misunderstanding conditional statements, and why recognising it matters for clearer thinking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-overview.webp" | relative_url }}" alt="Overview image for Wet Pavement" loading="eager" decoding="sync" fetchpriority="high">
 ## The rain and wet pavement example
 
 Consider the simple conditional claim: **“If it rains, then the pavement gets wet.”** Now imagine you see wet pavement and conclude “it must have rained.” At first glance this seems reasonable — after all, rain often does make pavement wet. But **this inference is not deductively valid** because wet pavement may have arisen from other causes such as a street cleaner passing by or a water main break. In logical terms:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -514,12 +512,10 @@ Consider the simple conditional claim: **“If it rains, then the pavement gets 
 
 This structure is exactly the form of affirming the consequent. Although Premise 2 is true and Premise 1 may be true, the conclusion does not necessarily follow because *the consequent can be true for reasons other than the stated antecedent*.[logicalfallacies.org]
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-Illustration-1-dark.svg" | relative_url }}" alt="Wet Pavement illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this conditional form is invalid
 
 To understand the fallacy, it helps to look at the logical form at play. A conditional statement **“If P then Q”** sets up a one‑way relationship: the truth of P guarantees Q, but **Q can be true without P being true**. In formal notation:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -533,7 +529,6 @@ This pattern is invalid because the inference assumes that Q only arises from P,
 
 Analysing the [truth table]({{ 'truth-table/' | relative_url }}) for a conditional shows why the fallacy can occur: a conditional “P → Q” is true whenever either P is false or Q is true. So, even with Q true and the conditional true, P might still be false. That means the reasoning from Q back to P simply does not follow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://proofwiki.org/wiki/Affirming_the_Consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proofwiki.org">[ProofWiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proofwiki.org</span><span class="citation-popover-title">Proof Wiki Affirming the Consequent</span><span class="citation-popover-snippet">Affirming the Consequent - ProofWikiDecember 3, 2024...</span><span class="citation-popover-meta">Published: December 3, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8JYN1oOvkM" title="Logic 101 (#48): Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer">Logic 101 (#48): Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: William Spaniel &middot; Views: 12.0K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8JYN1oOvkM">Open on YouTube</a></p></div></div></div>
 
 ## Competing explanations matter
@@ -541,7 +536,6 @@ Analysing the [truth table]({{ 'truth-table/' | relative_url }}) for a condition
 What makes affirming the consequent such a misleading pattern is its **failure to consider alternative explanations** for the observed outcome. In the wet pavement example, rain is just one sufficient cause of wet pavement; it is not a necessary one. By overlooking other plausible causes, this argument form treats one explanation as if it were the *only* explanation.
 
 This type of leap crops up in everyday reasoning beyond weather scenarios. For instance, someone might argue:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -553,7 +547,6 @@ This type of leap crops up in everyday reasoning beyond weather scenarios. For i
 
 However, many factors other than skill — such as luck, infrequent driving or good road conditions — could also explain the absence of accidents. The same pattern, if taken as proof of a specific antecedent, is logically unsound because it conflates *possibility* with *necessity*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fallacyguide.com/fallacies/affirming-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyguide.com">[The Fallacy Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyguide.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-Illustration-2-dark.svg" | relative_url }}" alt="Wet Pavement illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Beyond formal logic: why it feels convincing
 
@@ -561,14 +554,11 @@ Despite being formally invalid, affirming the consequent is a natural intuitive 
 
 In probabilistic or inductive reasoning — where one weighs likelihoods rather than strict logical entailment — observing an outcome can raise the probability of a particular cause. But this does not convert the informal intuition into a valid deductive argument. It only suggests that one explanation is *plausible*, not that it is the only explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rationalwiki.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rationalwiki.org">[rationalwiki.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rationalwiki.org</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">RationalWiki...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i5C8KHs4q7k" title="MATH 1332 3.4.8 Common Fallacies: Fallacy of the Converse [ERROR at 11:07]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i5C8KHs4q7k" target="_blank" rel="noopener noreferrer">MATH 1332 3.4.8 Common Fallacies: Fallacy of the Converse [ERROR at 11:07]</a></p><p class="youtube-embed-meta">Channel: Chris Chappa &middot; Views: 1.4K &middot; Uploaded: June 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i5C8KHs4q7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i5C8KHs4q7k">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_WDDVz-EWFw" title="Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer">Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 11.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_WDDVz-EWFw">Open on YouTube</a></p></div></div></div>
 
 ## Key takeaways
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -580,7 +570,6 @@ In probabilistic or inductive reasoning — where one weighs likelihoods rather 
 </div>
 
 **Primary [mechanisms]({{ 'mechanisms/' | relative_url }}) explained:** *Affirming the consequent* is the misapplication of conditional logic where the consequent’s truth is taken as proof of a specific antecedent, ignoring that the same consequent may arise from other causes; *wet pavement logic* embodies this mechanism in a concrete example that exposes the inferential gap.[logicalfallacies.org]
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-Illustration-3-dark.svg" | relative_url }}" alt="Wet Pavement illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

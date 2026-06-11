@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /informal-logic/
 nav_short_title: Authority
 title: When Expert Opinion Is Not Enough
-title_full: When Expert Opinion Is Not Enough | Informal Logic
+title_full: When Expert Opinion Is Not Enough
 display_title_short: Authority
 display_title: Authority
 heading_title: When Expert Opinion Is Not Enough
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:24:03'
-parent_title: Why Context Changes the Argument | Fallacy Lab
+parent_title: Why Context Changes the Argument
 parent_permalink: /informal-logic/
 parent_nav_short_title: Informal Logic
 parent_heading_title: Why Context Changes the Argument
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_
 
 An [appeal to authority]({{ 'authority/' | relative_url }}) becomes fallacious when a claim is treated as true simply because an expert, celebrity, official, or other respected figure says it is. Yet the issue is more subtle than the slogan “don’t trust authorities”. In modern societies, most people rely on expert knowledge every day when making decisions about medicine, engineering, law, science, and public policy. The real question is not whether authority matters, but when expert opinion is a reasonable form of evidence and when it is being used to replace evidence altogether. [Informal logic]({{ 'informal-logic/' | relative_url }}) therefore treats appeals to authority as a context-sensitive argument pattern: sometimes strong, sometimes weak, and occasionally misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Fundamentally, the fallacy involves accepting as evidence for a...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALATE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers Within everyday arguments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Appeal to Expert Opinion: Arguments From AuthorityThis book provides a method for the evaluation of these appeals in everyday a...</span></span></span>, the fallacy arises when status, credentials, or prestige are used as a shortcut to certainty. The challenge for critical thinking is learning how to respect expertise without treating experts as infallible.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-1-dark.svg" | relative_url }}" alt="Authority illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Authority Is Useful Evidence
 
@@ -291,7 +290,6 @@ A practical distinction is useful:
 
 The first points towards evidence and expertise. The second asks the audience to stop asking questions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DsfsoyEYZLw" title="What is The Appeal to Authority Fallacy? | Critical Thinking Basics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DsfsoyEYZLw" target="_blank" rel="noopener noreferrer">What is The Appeal to Authority Fallacy? | Critical Thinking Basics</a></p><p class="youtube-embed-meta">Channel: Lucia Grosaru • Psychology Corner &middot; Views: 455 &middot; Uploaded: January 2024 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DsfsoyEYZLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DsfsoyEYZLw">Open on YouTube</a></p></div></div></div>
 
 ## Which Experts Actually Count?
@@ -302,7 +300,6 @@ A Nobel Prize-winning physicist may be an outstanding authority on particle phys
 
 Three questions help assess whether an authority is relevant:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Is the person an expert in the specific field under discussion?**
@@ -312,7 +309,6 @@ Three questions help assess whether an authority is relevant:
 </div>
 
 The third question is especially important. Expertise is rarely exercised in isolation. Scientific and technical knowledge is typically evaluated through peer review, replication, professional criticism, and institutional scrutiny rather than individual prestige alone.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b0VQ1kr55Sk" title="Earth.Parts #13 - Logical fallacies, ad hominem, straw man, argument from authority" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b0VQ1kr55Sk" target="_blank" rel="noopener noreferrer">Earth.Parts #13 - Logical fallacies, ad hominem, straw man, argument from authority</a></p><p class="youtube-embed-meta">Channel: Earth.Parts &middot; Views: 12.3K &middot; Uploaded: December 2016 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b0VQ1kr55Sk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b0VQ1kr55Sk">Open on YouTube</a></p></div></div></div>
 
@@ -336,7 +332,6 @@ Another pattern is selective citation. A speaker may highlight one expert whose 
 
 Warning signs include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Claims presented as true solely because a credentialed person said them.
@@ -348,7 +343,6 @@ Warning signs include:
 </div>
 
 These patterns shift attention from reasons and evidence to status and identity.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-2-dark.svg" | relative_url }}" alt="Authority illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Advertising Uses Expert Status
@@ -363,7 +357,6 @@ The problem becomes more complicated online. Influencers, consultants, and self-
 
 In these settings, the authority cue often works because it reduces the effort required to evaluate claims. Rather than examining evidence directly, audiences are encouraged to trust the person presenting it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RsbG04ki2iA" title="Critical Thinking: The Fallacy of Argument From Authority" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RsbG04ki2iA" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Argument From Authority</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 3.6K &middot; Uploaded: November 2014 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RsbG04ki2iA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RsbG04ki2iA">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Test for Everyday Arguments
@@ -371,7 +364,6 @@ In these settings, the authority cue often works because it reduces the effort r
 When encountering an appeal to authority, the most useful question is not “Is this person an expert?” but “What justifies trusting this expert here?”
 
 A strong appeal to expertise generally satisfies several conditions:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -386,7 +378,6 @@ A strong appeal to expertise generally satisfies several conditions:
 A weak appeal to authority usually fails one or more of these tests. It asks the audience to substitute reputation for reasoning.
 
 In informal arguments, expert opinion is often necessary because no individual can master every specialised field. The fallacy appears not when expertise is consulted, but when expertise is treated as a substitute for evidence, scrutiny, and critical judgement. Respect for knowledge and scepticism about authority are not opposites; effective reasoning requires both.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-3-dark.svg" | relative_url }}" alt="Authority illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_appeal_to_authority_b22c59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /popularity/
 nav_short_title: Fake Reviews
 title: Can Popular Reviews Be Trusted?
-title_full: Can Popular Reviews Be Trusted? | Popularity
+title_full: Can Popular Reviews Be Trusted?
 display_title_short: Fake Reviews
 display_title: Fake Reviews
 heading_title: Can Popular Reviews Be Trusted?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 16:05:55'
-parent_title: Does Belief Make a Claim True? | Fallacy Lab
+parent_title: Does Belief Make a Claim True?
 parent_permalink: /popularity/
 parent_nav_short_title: Popularity
 parent_heading_title: Does Belief Make a Claim True?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_
 
 Online ratings and reviews can be useful because they summarise the experiences of many people in a form that is easy to compare. The problem is that review systems can be manipulated. When businesses buy reviews, create fake customer accounts, suppress criticism, or inflate popularity metrics, they manufacture the appearance of crowd approval. The resulting signal looks like evidence, but it may reflect marketing tactics rather than genuine consumer [experience]({{ 'experience/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-1-dark.svg" | relative_url }}" alt="Fake Reviews illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader appeal to popularity fallacy, fake reviews matter because they create an artificial majority. A shopper who sees thousands of positive ratings may reasonably assume that many independent customers reached the same conclusion. If those signals have been engineered, however, the apparent consensus is no longer reliable evidence. The issue is not merely commercial deception; it is a practical example of how crowd belief can be manufactured and then mistaken for proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2024/08/22/2024-18519/trade-regulation-rule-on-the-use-of-consumer-reviews-and-testimonials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">trade regulation rule on the use of consumer reviews and testimonials</span><span class="citation-popover-snippet">Federal RegisterTrade Regulation Rule on the Use of Consumer Reviews...22 Aug 2024 — The key provisions of the rule prohibit conduct tha...</span></span></span>
 
@@ -303,7 +302,6 @@ The most obvious form is the fake review written by someone who never used the p
 
 The logical problem is straightforward. The review appears to add another independent voice to the crowd when no such voice exists.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kEjU6OgTr6U" title="Podcast - FTC Consumer Review Rule Warning Letters Target a Digital Marketplace Cornerstone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kEjU6OgTr6U" target="_blank" rel="noopener noreferrer">Podcast - FTC Consumer Review Rule Warning Letters Target a Digital Marketplace Cornerstone</a></p><p class="youtube-embed-meta">Channel: Holland &amp; Knight LLP &middot; Views: 56 &middot; Uploaded: February 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kEjU6OgTr6U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kEjU6OgTr6U">Open on YouTube</a></p></div></div></div>
 
 ### Paid or Incentivised Endorsements
@@ -320,7 +318,6 @@ A product with 1,000 positive reviews and no negative reviews may appear highly 
 
 A more subtle tactic occurs when businesses transfer positive reviews from one product to another. UK regulators have described concerns about "catalogue abuse", where reviews earned by a successful item are attached to unrelated products so that the new item inherits an appearance of popularity and trust. Consumers see a large review count but may not realise that many reviews refer to something entirely different. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/amazon-gives-undertakings-to-cma-to-curb-fake-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">amazon gives undertakings to cma to curb fake reviews</span><span class="citation-popover-snippet">Commitments include enhanced detection systems and sanctions for businesses and mark...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/boards-policy-regulation/uk-secures-action-amazon-tackle-fake-reviews-2025-06-05/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">uk secures action amazon tackle fake reviews 2025 06 05</span><span class="citation-popover-snippet">UK secures action from Amazon to tackle fake reviews5 Jun 2025 — Amazon (AMZN.O) has committed to do more to tackle fake reviews, includi...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-2-dark.svg" | relative_url }}" alt="Fake Reviews illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Manufactured Popularity Is So Persuasive
 
@@ -329,7 +326,6 @@ Fake reviews succeed because they exploit a normally useful psychological habit.
 When people lack direct knowledge, they often look to others for guidance. In many situations this works well. A large number of independent judgements can reveal useful information. The challenge is that consumers cannot easily distinguish between a genuine crowd and a manufactured one.
 
 Modern review systems also compress complex information into simple metrics:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -344,7 +340,6 @@ Modern review systems also compress complex information into simple metrics:
 These indicators are attractive because they simplify decisions. Yet the simpler the signal, the easier it can be to manipulate. A shopper may never read individual reviews and instead rely entirely on a numerical summary that can be artificially inflated. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leadalchemists.com/marketing-psychology/social-proof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leadalchemists.com">[2leadalchemists.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leadalchemists.com</span><span class="citation-popover-snippet">sements, media mentions, and user statistics to build trust and credibility with...Read more...</span></span></span>
 
 Recent research has added another concern: sophisticated AI-generated reviews can be difficult for both humans and automated systems to distinguish from genuine reviews. In one 2025 study, participants identified fake reviews only at roughly chance levels, suggesting that traditional instincts about spotting obvious fraud may be becoming less reliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.13313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Large Language Models as &#x27;Hidden Persuaders&#x27;: Fake Product Reviews are Indistinguishable to Humans and MachinesJune 16, 2025...</span><span class="citation-popover-meta">Published: June 16, 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eqxIwJQEJNc" title="Online Fake Reviews | Amazon and Google commitments 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eqxIwJQEJNc" target="_blank" rel="noopener noreferrer">Online Fake Reviews | Amazon and Google commitments 2025</a></p><p class="youtube-embed-meta">Channel: Competition and Markets Authority &middot; Views: 244 &middot; Uploaded: June 2025 &middot; Length: 1 minute 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eqxIwJQEJNc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eqxIwJQEJNc">Open on YouTube</a></p></div></div></div>
 
@@ -363,7 +358,6 @@ Large numbers of reviews using similar wording, identical phrases, or highly gen
 ### Sudden Review Surges
 
 An abrupt spike in reviews over a short period may reflect a promotion campaign, a review-buying operation, or other artificial activity.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-3-dark.svg" | relative_url }}" alt="Fake Reviews illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_fake_reviews_popular_ec8582-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Mismatch Between Reviews and Details
@@ -386,9 +380,7 @@ This does not mean reviews are useless. Ratings and reviews can provide valuable
 
 The broader lesson mirrors the central problem of appeal to popularity. A crowd may be correct, mistaken, manipulated, copied from a common source, or entirely manufactured. Before treating widespread approval as evidence, the crucial question is not simply how many people appear to agree, but whether the agreement represents genuine and independent judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Trade_Commission" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Trade CommissionThe Federal Trade Commission (FTC) is an independent agency of the United States government whose principal mi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/online-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">reviewsThe CMA will investigate whether these websites are taking sufficient measures to protect consumers from fake and misleading revie...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qla6Wnniokg" title="Fake reviews: Feds approve ban on posting and purchasing fake reviews online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qla6Wnniokg" target="_blank" rel="noopener noreferrer">Fake reviews: Feds approve ban on posting and purchasing fake reviews online</a></p><p class="youtube-embed-meta">Channel: FOX 9 Minneapolis-St. Paul &middot; Views: 659 &middot; Uploaded: August 2024 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qla6Wnniokg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qla6Wnniokg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

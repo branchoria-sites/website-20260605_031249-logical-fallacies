@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /bandwagon/
 nav_short_title: Group Knows
 title: When Should You Trust the Crowd?
-title_full: When Should You Trust the Crowd? | Bandwagon
+title_full: When Should You Trust the Crowd?
 display_title_short: Group Knows
 display_title: Group Knows
 heading_title: When Should You Trust the Crowd?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:32:38'
-parent_title: Are You Being Pressured to Join? | Fallacy Lab
+parent_title: Are You Being Pressured to Join?
 parent_permalink: /bandwagon/
 parent_nav_short_title: Bandwagon
 parent_heading_title: Are You Being Pressured to Join?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informa
 
 When a group appears to know more than we do, following its judgement can be rational rather than fallacious. If a team of experienced engineers agrees that a bridge design is unsafe, or if many independent doctors converge on the same diagnosis, their agreement is evidence worth taking seriously. The key question is not whether many people agree, but why they agree.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-1-dark.svg" | relative_url }}" alt="Group Knows illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction sits at the centre of informational conformity. People often adopt a group's view because they believe the group has access to better information, greater expertise, or a broader perspective than any one individual. In many situations, this is a sensible shortcut. Yet the same process can become misleading when apparent consensus is produced by imitation rather than independent judgement. Understanding when the crowd is genuinely informative helps separate reasonable trust in collective knowledge from the [bandwagon]({{ 'bandwagon/' | relative_url }}) fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://opentextbc.ca/socialpsychology/chapter/the-many-varieties-of-conformity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opentextbc.ca">[opentextbc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opentextbc.ca</span><span class="citation-popover-title">We base our</span><span class="citation-popover-snippet">6.1 The Many Varieties of Conformity – Principles of Social...January 26, 2022 — by R Jhangiani · 2022 · Cited by 2 — Informational soci...</span><span class="citation-popover-meta">Published: January 26, 2022</span></span></span>
 
@@ -287,7 +286,6 @@ Informational conformity occurs when people change their beliefs because they th
 In everyday life, relying on others is unavoidable. No one can personally verify every scientific finding, medical recommendation, engineering standard, or economic statistic. Much of what people know comes from trusting specialised communities. The fact that thousands of scientists independently arrive at similar conclusions carries evidential weight because those conclusions emerge from extensive investigation and scrutiny.
 
 A crowd can therefore provide useful evidence when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ The idea behind the "wisdom of crowds" illustrates this point. Research has repe
 ## Expertise, Independence, and Access to Facts
 
 Three factors largely determine whether a consensus deserves trust.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-x75l2QFTew" title="Asch: Conformity - Social influence [ A Level Psychology ]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-x75l2QFTew" target="_blank" rel="noopener noreferrer">Asch: Conformity - Social influence [ A Level Psychology ]</a></p><p class="youtube-embed-meta">Channel: Psych Boost &middot; Views: 91.5K &middot; Uploaded: April 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-x75l2QFTew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-x75l2QFTew">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +325,6 @@ Consensus becomes more informative when it arises from contact with evidence rat
 
 Consider two scenarios:
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-2-dark.svg" | relative_url }}" alt="Group Knows illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Hundreds of meteorologists independently analyse weather data and predict a storm.
 2. Hundreds of [social media]({{ 'social-media/' | relative_url }}) users repeat a rumour that a storm is coming.
@@ -347,7 +343,6 @@ This creates a paradox. Agreement becomes more visible precisely as its evidenti
 
 The danger is especially acute in environments where people can easily see what others believe before forming their own views. Online ratings, viral posts, trending topics, and public vote counts can create [cascades]({{ 'cascades/' | relative_url }}) in which individuals infer that others know something important. Once enough people make that inference, a self-reinforcing herd can emerge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/social-proof/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">Behavioral Economics.com &#124; The BE Hub Social proof</span><span class="citation-popover-snippet">It is also sometimes referred to as a heuristic.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TYIh4MkcfJA" title="Asch Conformity Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TYIh4MkcfJA" target="_blank" rel="noopener noreferrer">Asch Conformity Experiment</a></p><p class="youtube-embed-meta">Channel: eqivideos &middot; Views: 3.0M &middot; Uploaded: December 2007 &middot; Length: 4 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TYIh4MkcfJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TYIh4MkcfJA">Open on YouTube</a></p></div></div></div>
 
 ## Why Consensus Can Be Right for the Wrong Reason
@@ -358,13 +353,11 @@ Studies of social influence show mixed outcomes. Some research finds that intera
 
 This means that consensus alone is an incomplete signal. A reader, voter, manager, or consumer should care not only about the existence of agreement but also about the process that produced it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UGxGDdQnC1Y" title="Social Influence: Crash Course Psychology #38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer">Social Influence: Crash Course Psychology #38</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 3.1M &middot; Uploaded: November 2014 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UGxGDdQnC1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UGxGDdQnC1Y">Open on YouTube</a></p></div></div></div>
 
 ## Questions to Ask Before Trusting the Crowd
 
 When a large majority seems confident, several questions help distinguish useful informational conformity from a bandwagon effect:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,7 +370,6 @@ When a large majority seems confident, several questions help distinguish useful
 </div>
 
 A consensus that survives these questions is often worth treating as meaningful evidence. A consensus that fails them may represent little more than a chain of copied beliefs.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-3-dark.svg" | relative_url }}" alt="Group Knows illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_bandwagon_pressure_080021_informational_confor_9345de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Link to the Bandwagon Fallacy

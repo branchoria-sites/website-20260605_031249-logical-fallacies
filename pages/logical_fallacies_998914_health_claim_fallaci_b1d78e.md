@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Remedies
 title: Do Popular Remedies Prove Themselves?
-title_full: Do Popular Remedies Prove Themselves? | Fallacy Lab
+title_full: Do Popular Remedies Prove Themselves?
 display_title_short: Remedies
 display_title: Remedies
 heading_title: Do Popular Remedies Prove Themselves?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-overv
 
 Popular remedies do not prove themselves merely by being widely used, warmly recommended, or not yet disproved. In consumer health claims, the same reasoning mistakes appear again and again: a neighbour’s recovery is treated as a clinical test, sales figures are treated as proof, and the absence of a public refutation is treated as permission to believe. These are familiar [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) in a health setting: anecdotal reasoning, appeal to popularity, appeal to [tradition]({{ 'tradition/' | relative_url }}), false cause, and shifting the burden of proof.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-overview.webp" | relative_url }}" alt="Overview image for Remedies" loading="eager" decoding="sync" fetchpriority="high">
 This matters because health decisions carry stakes that ordinary consumer choices do not. A harmless-seeming tea, supplement, device, detox plan, or “natural” cure may waste money, delay effective care, interact with medication, or encourage false hope. Regulators such as the US Food and Drug Administration and Federal Trade Commission repeatedly warn that health fraud often relies on miracle-cure language, [testimonials]({{ 'testimonials/' | relative_url }}), “ancient remedy” appeals, conspiracy claims, and scientific-sounding jargon without adequate evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">health products compliance guidance</span><span class="citation-popover-snippet">Federal Trade CommissionHealth Products Compliance Guidance20 Dec 2022 — This document provides guidance from FTC staff on how to ensure...</span></span></span>
 
@@ -517,7 +516,6 @@ Anecdotes also suffer from selective visibility. People who improve are more lik
 
 The fallacy is clearest when an anecdote is asked to carry more weight than it can bear:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **Anecdotal fallacy:** “It worked for my cousin, so it works.”
@@ -529,7 +527,6 @@ The fallacy is clearest when an anecdote is asked to carry more weight than it c
 </div>
 
 Anecdotes can still be useful as starting points. They may suggest a question worth testing, flag side effects, or show why a claim appeals to consumers. They become misleading when they are treated as the test itself.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-1-dark.svg" | relative_url }}" alt="Remedies illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Popularity Claims Are Not the Same as Health Evidence
@@ -551,7 +548,6 @@ St John’s wort is a useful example because it is not simply a cartoonish fake 
 That example shows the right distinction. A remedy’s origin may help explain why people use it, but it does not answer the central health questions: What is in the product? At what dose? For which condition? Compared with what? In which population? With what risks? Under what quality controls? “Traditional” may mean a long history of use, but a long history is not the same thing as a well-controlled comparison.
 
 The inverse mistake is also possible. A remedy is not false merely because it is traditional, popular, or sold outside mainstream medicine. The fair standard is not “mainstream equals true” and “alternative equals false”. The fair standard is proportionate evidence: stronger claims require stronger evidence, especially when the claim concerns serious disease, stopping medication, or replacing proven treatment.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tPAUPY2vhH0" title="The Logic of the Herbalist Tricking Sick People" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tPAUPY2vhH0" target="_blank" rel="noopener noreferrer">The Logic of the Herbalist Tricking Sick People</a></p><p class="youtube-embed-meta">Channel: Framing Logic &middot; Views: 15.8K &middot; Uploaded: October 2025 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tPAUPY2vhH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tPAUPY2vhH0">Open on YouTube</a></p></div></div></div>
 
@@ -577,7 +573,6 @@ Homeopathy illustrates why this matters. It remains popular with some consumers 
 
 The logical lesson is not “no popular remedy ever works”. It is that popularity does not settle the question. Testing can confirm some claims, narrow others, expose harms, or show that a remedy’s reputation has outrun its evidence.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-2-dark.svg" | relative_url }}" alt="Remedies illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Case Patterns Readers Can Recognise
 
@@ -595,7 +590,6 @@ Consumer health claims vary widely, but the weak arguments often have a familiar
 
 **The popularity shield.** Criticism is dismissed with “so many people use it” or “it would not be sold if it did not work”. The FDA’s health fraud actions show that products can be sold and promoted despite unapproved, unsubstantiated, or misleading health claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n64Xgr6VDYQ" title="Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer">Anecdotal Evidence: How to use critical thinking skills to overcome this common logical fallacy.</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 8.6K &middot; Uploaded: January 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n64Xgr6VDYQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n64Xgr6VDYQ">Open on YouTube</a></p></div></div></div>
 
 ## When the Remedy Is Harmless, Helpful, or Risky
@@ -610,7 +604,6 @@ Some products may be **effective for narrow uses but oversold for broad ones**. 
 
 Some remedies may be **unsafe or actively misleading**. Colloidal silver is a clear example. NCCIH says evidence for health-related claims is lacking and warns that it can cause serious side effects; Mayo Clinic states that taking colloidal silver by mouth is not considered safe or effective for the health claims many manufacturers make. The problem is not merely that the evidence is weak, but that risk and benefit are badly mismatched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nccih.nih.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nccih.nih.gov">[NCCIH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nccih.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KsPlwKbGxE8" title="Health Fraud Scams -- Be Smart, Be Aware, Be Careful Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KsPlwKbGxE8" target="_blank" rel="noopener noreferrer">Health Fraud Scams -- Be Smart, Be Aware, Be Careful Video</a></p><p class="youtube-embed-meta">Channel: U.S. Food and Drug Administration &middot; Views: 146.2K &middot; Uploaded: March 2011 &middot; Length: 3 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KsPlwKbGxE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KsPlwKbGxE8">Open on YouTube</a></p></div></div></div>
 
 ## How to Read a Popular Remedy Claim More Carefully
@@ -624,6 +617,18 @@ Good questions include:
 3. **Compared with what?** Improvement matters only when compared with placebo, usual care, no treatment, or an established alternative.
 4. **What outcome was measured?** Feeling better, changing a lab marker, reducing hospitalisation, and improving survival are very different claims.
 5. **Who was studied?** Evidence in healthy adults may not apply to children, pregnant people, older adults, people with chronic illness, or those taking multiple medicines.
+6. **What harms and [interactions]({{ 'interactions/' | relative_url }}) are known?** Supplements and remedies can interact with prescription and over-the-counter medicines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span>
+7. **Who benefits financially?** A seller’s claim needs more scrutiny than a neutral evidence review.
+8. **Is criticism answered with evidence or suspicion?** Conspiracy framing can make a claim unfalsifiable: every lack of proof becomes part of the alleged cover-up.
+
+This approach avoids two opposite mistakes. It does not dismiss every consumer remedy with ridicule, but it also does not let hope, popularity, or personal stories replace evidence.
+
+<img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-3-dark.svg" | relative_url }}" alt="Remedies illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Logical Takeaway
+
+Consumer health claims are a concentrated lesson in everyday fallacies because they sit at the meeting point of fear, pain, hope, identity, advertising, and uncertainty. A popular remedy may be comforting, culturally meaningful, or worth studying. It may even turn out to help for a specific use. But popularity, anecdotes, naturalness, tradition, and missing disproof cannot do the work of reliable evidence.
+
+The sounder argument is narrower and more careful: define the claim, match it to the right kind of evidence, compare outcomes fairly, look for harms, and adjust confidence to the quality of testing. That is what good reasoning adds to health decisions. It does not promise certainty. It helps prevent the most persuasive story from being mistaken for the best-supported one.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1042,20 +1047,6 @@ Good questions include:
 </script>
 </section>
 
-6. **What harms and [interactions]({{ 'interactions/' | relative_url }}) are known?** Supplements and remedies can interact with prescription and over-the-counter medicines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/health-fraud-scams/health-fraud-product-database" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">U.S. Food and Drug AdministrationHealth Fraud Product DatabaseThis list includes unapproved products that have been subject to FDA health...</span></span></span>
-7. **Who benefits financially?** A seller’s claim needs more scrutiny than a neutral evidence review.
-8. **Is criticism answered with evidence or suspicion?** Conspiracy framing can make a claim unfalsifiable: every lack of proof becomes part of the alleged cover-up.
-
-This approach avoids two opposite mistakes. It does not dismiss every consumer remedy with ridicule, but it also does not let hope, popularity, or personal stories replace evidence.
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-3-dark.svg" | relative_url }}" alt="Remedies illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The Logical Takeaway
-
-Consumer health claims are a concentrated lesson in everyday fallacies because they sit at the meeting point of fear, pain, hope, identity, advertising, and uncertainty. A popular remedy may be comforting, culturally meaningful, or worth studying. It may even turn out to help for a specific use. But popularity, anecdotes, naturalness, tradition, and missing disproof cannot do the work of reliable evidence.
-
-The sounder argument is narrower and more careful: define the claim, match it to the right kind of evidence, compare outcomes fairly, look for harms, and adjust confidence to the quality of testing. That is what good reasoning adds to health decisions. It does not promise certainty. It helps prevent the most persuasive story from being mistaken for the best-supported one.
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1261,4 +1252,4 @@ The sounder argument is narrower and more careful: define the claim, match it to
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/</a>  
+   Link: <a href="https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FDA/posts/as-part-of-our-effort-to-protect-consumers-we-issued-warning-letters-jointly-wit/344731964350835/</a>

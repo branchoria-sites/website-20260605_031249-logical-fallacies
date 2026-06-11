@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Safety Claims
 title: Did the Answer Address Safety?
-title_full: Did the Answer Address Safety? | Fallacy Lab
+title_full: Did the Answer Address Safety?
 display_title_short: Safety Claims
 display_title: Safety Claims
 heading_title: Did the Answer Address Safety?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-overv
 
 Product safety responses become a [red herring]({{ 'red-herring/' | relative_url }}) when a company answers a concrete safety question with something that sounds reassuring but does not actually address the risk. The issue is not whether the company has good employees, a loved brand, strong values, charitable projects, environmental goals or impressive overall safety statistics. The issue is whether the response deals with the specific hazard, evidence, affected users, corrective action and accountability at stake.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-overview.webp" | relative_url }}" alt="Overview image for Safety Claims" loading="eager" decoding="sync" fetchpriority="high">
 This matters because safety controversies often unfold under uncertainty. A product may be under investigation, a recall may be disputed, or the company may believe the public has misunderstood the risk. In that setting, a brand message can look like an answer while quietly changing the subject. In fallacy terms, this is a red herring: an irrelevant or weakly relevant point that diverts attention from the original question. The Internet Encyclopedia of Philosophy describes this kind of “smokescreen” as bringing up an irrelevant issue to obscure the point or cover counter-evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -516,7 +515,6 @@ A red herring response shifts from that narrow question to a broader reputationa
 Those statements are not automatically false. They may even be partly relevant as background. The fallacy appears when they are used as substitutes for the missing answer. A good brand, a large dataset or a general safety mission does not prove that the product at issue is acceptably safe in the specific circumstances being questioned.
 
 Regulators often frame safety communication in this narrower way. The US Consumer Product Safety Commission says companies must report potentially reportable product hazards within 24 hours of obtaining reportable information, and it encourages reporting even while a company’s own investigation continues. If a company is unsure whether the regulator has been adequately informed, the CPSC says it must report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cpsc.gov/Business--Manufacturing/Recall-Guidance/Duty-to-Report-to-the-CPSC-Your-Rights-and-Responsibilities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cpsc.gov">[U.S. Consumer Product Safety Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cpsc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That standard leaves little room for a public-relations detour: the important question is not whether the company is admired, but whether the potential hazard has been disclosed and controlled.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-1-dark.svg" | relative_url }}" alt="Safety Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Unrelated positives
@@ -532,7 +530,6 @@ Red herrings in product safety often work because the positive claims are emotio
 **“We are innovating for a better future.”** Future benefits are not a present safety answer. A product may promise fewer crashes, cleaner energy or improved health outcomes in the long term, but the immediate question is whether today’s product, as sold and used, is safe enough and accurately described.
 
 **“The problem is user misuse.”** User behaviour is sometimes genuinely relevant. Warnings, supervision requirements and foreseeable misuse all matter in safety analysis. But “misuse” becomes a red herring when the company ignores whether the design makes misuse predictable, whether warnings are adequate, or whether the harm occurs in normal household conditions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZggiwS7iv2A" title="Red Herring (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer">Red Herring (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 32.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZggiwS7iv2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZggiwS7iv2A">Open on YouTube</a></p></div></div></div>
 
@@ -554,7 +551,6 @@ That response addressed part of the issue: warnings and safe-use instructions ar
 
 The case illustrates a common red herring move: shifting from “Is the product unreasonably dangerous in real homes?” to “Did users follow the warnings?” The second question can matter, but it cannot carry the whole argument. Product safety is not only about ideal use; it is also about reasonably foreseeable use and the severity of harm when things go wrong.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-2-dark.svg" | relative_url }}" alt="Safety Claims illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A case pattern: Boeing 737 MAX
 
@@ -572,7 +568,6 @@ That kind of data presentation may look directly relevant because it uses safety
 
 For a reader evaluating the argument, the lesson is not simply “statistics can lie”. It is more precise: safety statistics answer the question only if they compare like with like. Relevant variables include road type, vehicle age, driver selection, when the system is enabled or disabled, crash severity, geography, weather, supervision requirements and whether the system is truly autonomous. A large number can be a red herring when the underlying denominator or comparison group does not match the claim.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zPccWPCF9Ak" title="Tylenol Crisis in the 1980s: Lessons in Crisis Management" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zPccWPCF9Ak" target="_blank" rel="noopener noreferrer">Tylenol Crisis in the 1980s: Lessons in Crisis Management</a></p><p class="youtube-embed-meta">Channel: notredamebusiness &middot; Views: 39.5K &middot; Uploaded: November 2011 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zPccWPCF9Ak" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zPccWPCF9Ak">Open on YouTube</a></p></div></div></div>
 
 ## Accountability checks
@@ -588,7 +583,6 @@ The quickest way to expose a product-safety red herring is to separate reputatio
 **Check whether the company names the remedy.** Strong responses state what will happen next: stop-use advice, inspection, refund, software update, repair, design change, recall, independent review or regulator notification. Weak responses dwell on values and reassurance while leaving the corrective action unclear.
 
 **Notice when praise for other conduct replaces accountability.** A company’s environmental goals, community donations, employee pride or past safety record may all be real. They still do not answer whether the product now under scrutiny is defective, misleadingly marketed or insufficiently controlled.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-3-dark.svg" | relative_url }}" alt="Safety Claims illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the fallacy is persuasive
@@ -607,9 +601,7 @@ A strong answer normally includes five elements: a precise description of the al
 
 This is where fallacy analysis becomes practical. Calling something a red herring is not just a debating label. It is a way of asking whether the response stayed on the safety question. The fair test is not “Did the company say something positive?” but “Did the company give reasons that actually bear on the risk people are being asked to accept?”
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/le_5I_yHgGw" title="Watch live: Boeing&#x27;s CEO testifies to Senate on 737 MAX crashes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=le_5I_yHgGw" target="_blank" rel="noopener noreferrer">Watch live: Boeing&#x27;s CEO testifies to Senate on 737 MAX crashes</a></p><p class="youtube-embed-meta">Channel: Washington Post &middot; Views: 148.5K &middot; Uploaded: October 2019 &middot; Length: 3 hours 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=le_5I_yHgGw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=le_5I_yHgGw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1164,4 +1156,4 @@ This is where fallacy analysis becomes practical. Calling something a red herrin
 
 31. <a id="endnote-31"></a>
    Source: mankogold.com  
-   Link: <a href="https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf</a>  
+   Link: <a href="https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mankogold.com/assets/htmldocuments/FTC_Revised_Green_Guides.pdf</a>

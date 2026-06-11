@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /straw-man/
 nav_short_title: Corrections
 title: How to Answer a Straw Man
-title_full: How to Answer a Straw Man | Straw Man
+title_full: How to Answer a Straw Man
 display_title_short: Corrections
 display_title: Corrections
 heading_title: How to Answer a Straw Man
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:24:23'
-parent_title: Are You Answering the Real Argument? | Fallacy Lab
+parent_title: Are You Answering the Real Argument?
 parent_permalink: /straw-man/
 parent_nav_short_title: Straw Man
 parent_heading_title: Are You Answering the Real Argument?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correc
 
 Correcting a straw man is not just about proving that someone has misrepresented a position. The real goal is to restore the discussion to the claim that was actually made and then continue the [debate]({{ 'debate/' | relative_url }}) on its merits. A correction that turns into a side argument about fairness, motives or debating etiquette can consume the conversation without resolving the underlying issue. Effective responses therefore do three things: identify the mismatch, restate the original position accurately, and return attention to the evidence or policy question under dispute. This approach reflects a central insight in argumentation theory: a straw man is a distortion of another person's commitments that is then criticised as though it were the real position. Correcting it means repairing that distortion, not merely accusing the other side of bad reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwc.knaw.nl">[DWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwc.knaw.nl</span><span class="citation-popover-title">DWCThe straw man fallacy</span><span class="citation-popover-snippet">November 18, 2010 — In this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in order...</span><span class="citation-popover-meta">Published: November 18, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man fallacy as...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-1-dark.svg" | relative_url }}" alt="Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Restate the Claim the Other Side Should Recognise
 
@@ -279,7 +278,6 @@ The most effective correction begins with reconstruction rather than accusation.
 When someone replies to a weakened or exaggerated version of your view, the first task is to identify the exact point where the argument changed. Rather than saying, “That's a straw man,” start by restating your original claim in language the audience can compare directly with the distortion.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -299,7 +297,6 @@ Once the original claim has been restored, it helps to identify precisely how it
 
 General accusations such as “You're misrepresenting me” often trigger defensive reactions because they focus attention on the person rather than the argument. More productive corrections identify the alteration itself:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “That adds a conclusion I did not make.”
@@ -313,7 +310,6 @@ Specificity matters because straw men come in different forms. Some exaggerate a
 
 The correction should remain proportionate. A minor paraphrasing error does not always require a lengthy discussion about [logical fallacies]({{ 'logical-fallacies/' | relative_url }}). The more time spent proving the existence of the straw man, the less time remains for the substantive disagreement.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v5vzCmURh7o" title="The &quot;Straw Man&quot; Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v5vzCmURh7o" target="_blank" rel="noopener noreferrer">The &quot;Straw Man&quot; Fallacy</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 450.2K &middot; Uploaded: November 2009 &middot; Length: 3 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v5vzCmURh7o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v5vzCmURh7o">Open on YouTube</a></p></div></div></div>
 
 ## Redirect to the Real Issue Under Dispute
@@ -321,7 +317,6 @@ The correction should remain proportionate. A minor paraphrasing error does not 
 A correction succeeds only if it moves the conversation back to the question that originally mattered.
 
 After restoring the claim, immediately reconnect it to the disputed evidence, principle or policy choice. A simple structure works well:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -339,7 +334,6 @@ This redirection prevents the discussion from becoming a debate about debating. 
 
 Scholars of argumentation emphasise that [straw man arguments]({{ 'straw-man/' | relative_url }}) are effective partly because audiences can lose sight of the original issue and begin evaluating the substitute argument instead. A successful correction reverses that process by restoring [relevance]({{ 'relevance/' | relative_url }}) to the actual point under discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/straw-man-arguments-a-study-in-fallacy-theory-9781350065000-9781350065031-9781350065017.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">n about but from our reasoning about each other&#x27;s reasoning.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/methods-of-argumentation/straw-man-fallacy/B51363412E88F7DCE21BC4AED19BDA9D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe Straw Man Fallacy (Chapter 9)Jun 5, 2014 — It is said to be the fallacy of misrepresenting an...</span></span></span> University Press & Assessment
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-2-dark.svg" | relative_url }}" alt="Corrections illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Misrepresentation Is Unintentional
 
@@ -354,7 +348,6 @@ A constructive response might be:
 This approach lowers the temperature of the exchange while still correcting the record. It also leaves room for the other person to revise their interpretation without losing face.
 
 Research on quotation, reporting and reinterpretation in argumentation shows that misrepresentation frequently arises through [context]({{ 'context/' | relative_url }}) loss, ambiguity or faulty paraphrase rather than outright fabrication. Because the source of the error is not always obvious, beginning with clarification is often more effective than beginning with accusation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/48009349/Fabrizio_Macagno_Douglas_Walton_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Fabrizio Macagno, Douglas Walton Interpreting Straw Man...The third chapter focuses on the issue of Establishing Commitments bet...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/319642356_Interpreting_Straw_Man_Argumentation_The_Pragmatics_of_Quotation_and_Reporting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Interpreting Straw Man Argumentation: The Pragmatics of...Straw man argumentation refers to the modification of a position by misquoting...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2xuT_NrmKzU" title="How NOT To Use Logical Fallacies (With Examples)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2xuT_NrmKzU" target="_blank" rel="noopener noreferrer">How NOT To Use Logical Fallacies (With Examples)</a></p><p class="youtube-embed-meta">Channel: Alex O&#x27;Connor &middot; Views: 269.0K &middot; Uploaded: November 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2xuT_NrmKzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2xuT_NrmKzU">Open on YouTube</a></p></div></div></div>
 
@@ -372,12 +365,10 @@ Several responses can inadvertently derail the debate even when the straw man di
 
 The most persuasive correction is usually brief. It repairs the argument and then resumes the argument.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-3-dark.svg" | relative_url }}" alt="Corrections illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_correcting_straw_men_e6e027-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Formula
 
 In most debates, a concise three-sentence response is enough:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -393,9 +384,7 @@ For example:
 
 This formula keeps attention on the genuine disagreement. It corrects the straw man without rewarding it with more attention than necessary, allowing the discussion to proceed on the basis of the actual claim rather than a distorted substitute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dwc.knaw.nl/DL/publications/PU00010685.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dwc.knaw.nl">[DWC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dwc.knaw.nl</span><span class="citation-popover-title">DWCThe straw man fallacy</span><span class="citation-popover-snippet">November 18, 2010 — In this paper, an analysis is given of the straw man fallacy as a misrepresentation of someone&#x27;s commitments in order...</span><span class="citation-popover-meta">Published: November 18, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTSM-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers The straw man fallacy</span><span class="citation-popover-snippet">The straw man fallacy - Douglas Waltonby D Walton · 1996 · Cited by 113 — In this paper, an analysis is given of the straw man fallacy as...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kPn974pWYKw" title="Answering Straw-Man Arguments (Episode 26)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kPn974pWYKw" target="_blank" rel="noopener noreferrer">Answering Straw-Man Arguments (Episode 26)</a></p><p class="youtube-embed-meta">Channel: Answers in Genesis Canada &middot; Views: 1.5K &middot; Uploaded: August 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kPn974pWYKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kPn974pWYKw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

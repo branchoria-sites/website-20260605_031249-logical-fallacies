@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: False Dilemma
 title: What Choices Are Being Hidden?
-title_full: What Choices Are Being Hidden? | Fallacy Lab
+title_full: What Choices Are Being Hidden?
 display_title_short: False Dilemma
 display_title: False Dilemma
 heading_title: What Choices Are Being Hidden?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_false_dilemmas_827e99-overview-so
 
 A false dilemma makes a complex choice look like a forced choice between two extremes: accept this policy or accept disaster; support this side or support the enemy; choose total freedom or total security. The problem is not merely that the argument is dramatic. It is that the choice set has been artificially narrowed. A real dilemma can exist when the options are genuinely exhaustive, but a false dilemma hides workable middle positions, mixed solutions, staged decisions, partial agreement, abstention, negotiation, or a different framing of the problem altogether. Writing guides often describe the fallacy as “either/or” reasoning because it reduces an issue to only two sides when more possibilities are available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">OWLLogical Fallacies</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-overview.webp" | relative_url }}" alt="Overview image for False Dilemma" loading="eager" decoding="sync" fetchpriority="high">
 This matters because false dilemmas do more than mislabel a [debate]({{ 'debate/' | relative_url }}). They can steer decisions before evidence is even discussed. Once a speaker frames the issue as “only A or B”, the audience may spend all its energy comparing A with B instead of asking whether C, D, a compromise, a sequence, or a reframed problem is being left out.
 
@@ -515,7 +514,6 @@ A useful way to see the problem is to separate the **form** from the **choice se
 
 False dilemmas often sound persuasive because they offer relief from uncertainty. [Two options]({{ 'two-options/' | relative_url }}) are easier to remember, argue over and sloganise than five options with trade-offs. That simplicity is sometimes useful in emergencies, but it becomes misleading when the narrowed frame is presented as the whole reality rather than as a deliberately simplified model. The UNC Writing Center’s advice on fallacies points to this pattern: the arguer sets up a situation as though only two choices exist, then eliminates one so the other appears unavoidable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing Center Fallacies</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-1-dark.svg" | relative_url }}" alt="False Dilemma illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing middle is not always a bland compromise
 
@@ -524,7 +522,6 @@ The “middle” in a false dilemma does not always mean splitting the differenc
 For example, “Either protect privacy or catch criminals” hides several possible middle options: targeted [warrants]({{ 'warrants/' | relative_url }}), judicial oversight, narrower data retention rules, independent audits, stronger encryption with lawful access procedures for specific cases, or better-resourced conventional investigation. The point is not that every middle option is automatically good. The point is that the argument has not earned the right to remove them from view.
 
 [Missing middle]({{ 'missing-middle/' | relative_url }}) options commonly take a few forms:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -538,7 +535,6 @@ For example, “Either protect privacy or catch criminals” hides several possi
 
 This is why “missing middle” analysis is different from the fallacy of the middle ground. The middle-ground fallacy claims that the truth must lie between two extremes. False dilemma analysis says only that the proposed extremes may not exhaust the options. A compromise can be wise, foolish or irrelevant; it must still be judged on evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/middle-ground" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[Your Logical Fallacy Is]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WZhj9S6axuo" title="Logical Fallacies Part 1: Formal and Informal Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WZhj9S6axuo" target="_blank" rel="noopener noreferrer">Logical Fallacies Part 1: Formal and Informal Fallacies</a></p><p class="youtube-embed-meta">Channel: Professor Dave Explains &middot; Views: 46.0K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WZhj9S6axuo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WZhj9S6axuo">Open on YouTube</a></p></div></div></div>
 
 ## When a dilemma is real, and when it is being manufactured
@@ -551,7 +547,6 @@ A manufactured dilemma often shows warning signs. It uses urgency to prevent ins
 
 A famous political example is George W. Bush’s 20 September 2001 address to Congress, where he said: “Either you are with us, or you are with the terrorists.” In its original [context]({{ 'context/' | relative_url }}), the line was part of a demand that states stop harbouring or supporting terrorism. As rhetoric, it created a sharp diplomatic boundary. As reasoning, it also shows why either-or frames need scrutiny: countries might support counter-terrorism while disagreeing about methods, evidence, military scope, legal process or particular alliances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://georgewbush-whitehouse.archives.gov/news/releases/2001/09/20010920-8.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: georgewbush-whitehouse.archives.gov">[George W. Bush White House Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">georgewbush-whitehouse.archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-2-dark.svg" | relative_url }}" alt="False Dilemma illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How false dilemmas hide implementation choices
 
@@ -563,7 +558,6 @@ Implementation details matter because many [real choices]({{ 'real-choices/' | r
 
 Choice architecture research also helps explain why this matters. How options are presented can influence decisions, and nudging studies have found that changes in choice architecture can affect behaviour. That does not mean every simplified choice is manipulative, but it does mean that the design of a choice set is itself an argumentative move. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/prwI8RAzTkk" title="What is The False Dilemma Fallacy? | Critical Thinking Basics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=prwI8RAzTkk" target="_blank" rel="noopener noreferrer">What is The False Dilemma Fallacy? | Critical Thinking Basics</a></p><p class="youtube-embed-meta">Channel: Lucia Grosaru • Psychology Corner &middot; Views: 1.7K &middot; Uploaded: January 2024 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=prwI8RAzTkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=prwI8RAzTkk">Open on YouTube</a></p></div></div></div>
 
 ## Testing the choice set before accepting the frame
@@ -571,7 +565,6 @@ Choice architecture research also helps explain why this matters. How options ar
 The best response to a suspected false dilemma is not to shout “fallacy” and stop thinking. It is to rebuild the choice set. The aim is to find out whether the two offered options are genuinely exhaustive, merely convenient, or strategically selected.
 
 A practical test can be simple:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -586,7 +579,6 @@ A practical test can be simple:
 
 This test is useful because it avoids a lazy counter-move. Merely saying “there are other options” is not enough; the alternatives must be plausible enough to matter. A false dilemma is exposed most clearly when adding a relevant missing option changes the strength, direction or fairness of the argument.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-3-dark.svg" | relative_url }}" alt="False Dilemma illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why false dilemmas feel clearer than better arguments
 
@@ -600,9 +592,7 @@ The practical antidote is disciplined option-generation. Before accepting an eit
 
 A false dilemma is not just a debate mistake; it is a way of controlling attention. It makes the audience argue inside a restricted frame while the real work lies outside it: identifying the full range of live options, testing whether the extremes are genuinely exhaustive, and asking what practical middle paths have been hidden. The strongest reply is not automatic compromise. It is a better map of the choice.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLLGAQvhaQs" title="How to Recognize the Either-Or Fallacy: Climate Change Edition" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLLGAQvhaQs" target="_blank" rel="noopener noreferrer">How to Recognize the Either-Or Fallacy: Climate Change Edition</a></p><p class="youtube-embed-meta">Channel: Dr. Josh&#x27;s COMMunity &middot; Views: 50 &middot; Uploaded: March 2024 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLLGAQvhaQs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLLGAQvhaQs">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1205,4 +1195,4 @@ A false dilemma is not just a debate mistake; it is a way of controlling attenti
 
 42. <a id="endnote-42"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html</a>  
+   Link: <a href="https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/false-dilemma-fallacy-definition-examples.html</a>

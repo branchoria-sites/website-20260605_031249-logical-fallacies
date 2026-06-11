@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /false-cause/
 nav_short_title: Policy Timing
 title: Did the Policy Work, or Just Arrive First?
-title_full: Did the Policy Work, or Just Arrive First? | False Cause
+title_full: Did the Policy Work, or Just Arrive First?
 display_title_short: Policy Timing
 display_title: Policy Timing
 heading_title: Did the Policy Work, or Just Arrive First?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 13:31:06'
-parent_title: Did One Thing Really Cause Another? | Fallacy Lab
+parent_title: Did One Thing Really Cause Another?
 parent_permalink: /false-cause/
 parent_nav_short_title: False Cause
 parent_heading_title: Did One Thing Really Cause Another?
@@ -276,12 +276,10 @@ image: /assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_
 
 Public debates often treat policy success as obvious: a law is introduced, a statistic improves, and the policy receives the credit. This is a specific form of [post hoc]({{ 'post-hoc/' | relative_url }}) reasoning. Because the improvement happened after the policy, people assume the policy caused it. Yet social and economic outcomes are influenced by many forces at once. A falling crime rate, rising employment, improved health outcome, or stronger economy may reflect trends that were already under way, broader national changes, demographic shifts, seasonal patterns, or unrelated events occurring at the same time. The central question is not whether the outcome changed after the policy, but whether it changed because of the policy. Modern policy evaluation exists largely because simple before-and-after comparisons are often misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents1.worldbank.org/curated/en/823791468325239704/pdf/Impact-evaluation-in-practice.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents1.worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents1.worldbank.org</span><span class="citation-popover-title">World Bank Impact Evaluation in Practice</span><span class="citation-popover-snippet">World BankImpact Evaluation in Practice - World Bank Documentby PJ Gertler · Cited by 2943 — Its main goal is to expand the evidence base...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1-dark.svg" | relative_url }}" alt="Policy Timing illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did the Policy Work, or Just Arrive First?
 
 The fallacy appears when an argument follows a simple pattern:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -310,7 +308,6 @@ Several psychological features make these arguments attractive:
 
 The last point is particularly important. The real policy question is not whether conditions improved after implementation. It is whether conditions improved more than they would have improved anyway. Impact evaluation literature consistently emphasises the need for a counterfactual—an estimate of what would have occurred in the absence of the intervention. World Bank <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/handle/JRC74778" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-snippet">JRC PublicationsA note on the impact evaluation of public policiesby M LOI · Cited by 58 — This report describes concisely, and in an int...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IpWQlHapifU" title="Difference-in-Differences method (DID) | Policy impact evaluation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IpWQlHapifU" target="_blank" rel="noopener noreferrer">Difference-in-Differences method (DID) | Policy impact evaluation</a></p><p class="youtube-embed-meta">Channel: Joint Research Centre (JRC) &middot; Views: 48.4K &middot; Uploaded: December 2017 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IpWQlHapifU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IpWQlHapifU">Open on YouTube</a></p></div></div></div>
 
 ## Background Trends, Common Causes, and Rival Explanations
@@ -335,7 +332,6 @@ Governments often introduce policies in response to crises: spikes in crime, unu
 
 This does not mean the policy had no effect. It means that before-and-after comparisons alone cannot determine how much of the improvement resulted from the intervention and how much reflected a return toward typical conditions.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-2-dark.svg" | relative_url }}" alt="Policy Timing illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How False Credit Shapes Public Debate
 
@@ -351,7 +347,6 @@ The same reasoning appears in debates about education reforms, public-health mea
 
 Recognising the weakness of before-and-after comparisons does not mean policy effects are unknowable. Researchers have developed methods specifically designed to address the post hoc problem.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/anaICMRssm8" title="Impact Evaluation: Simplest Explanation Ever #impactevaluation #evaluation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=anaICMRssm8" target="_blank" rel="noopener noreferrer">Impact Evaluation: Simplest Explanation Ever #impactevaluation #evaluation</a></p><p class="youtube-embed-meta">Channel: M&amp;E Guru &middot; Views: 8.9K &middot; Uploaded: February 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=anaICMRssm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=anaICMRssm8">Open on YouTube</a></p></div></div></div>
 
 ### Compare Against a Similar Group
@@ -365,7 +360,6 @@ If employment rises where a programme was introduced but rises equally in compar
 A widely used method called difference-in-differences compares changes over time in a treated group with changes in a comparison group. Rather than asking whether outcomes improved after a policy, it asks whether they improved more than they did elsewhere over the same period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.worldbank.org/en/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.worldbank.org">[World Bank Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.worldbank.org</span><span class="citation-popover-title">revisiting difference differences parallel trends assumption part i pre trend</span><span class="citation-popover-snippet">World Bank BlogsRevisiting the Difference-in-Differences Parallel Trends...Jan 21, 2020 — Difference-in-differences (DiD) analysis is on...</span></span></span>
 
 This approach is not perfect and relies on assumptions that must be examined carefully, but it is generally far more informative than a simple before-and-after comparison. Researchers continue refining these methods precisely because causal attribution is difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4611860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learned From CDC&#x27;s Prevention Research Centersby S Honeycutt · 2015 · Cited by 99 — Evaluating policy, systems, and environmental change...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vtSCZcKXw1w" title="Correlation vs. Causation: Causal Inference Bootcamp" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vtSCZcKXw1w" target="_blank" rel="noopener noreferrer">Correlation vs. Causation: Causal Inference Bootcamp</a></p><p class="youtube-embed-meta">Channel: Mod•U: Powerful Concepts in Social Science &middot; Views: 18.4K &middot; Uploaded: September 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vtSCZcKXw1w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vtSCZcKXw1w">Open on YouTube</a></p></div></div></div>
 
@@ -382,12 +376,10 @@ Strong policy evaluation often combines several forms of evidence: <span class="
 
 The more a claimed effect survives these checks, the more confidence we can have that the policy genuinely contributed to the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-snippet">OECD Legal InstrumentsRecommendation of the Council on Public Policy EvaluationPublic policy evaluations aim to promote understanding of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/applying-evaluation-criteria-thoughtfully_543e84ed-en/full-report/understanding-the-six-criteria-definitions-elements-for-analysis-and-key-challenges_2843ff7d.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Applying Evaluation Criteria ThoughtfullyThese guidelines provide a framework and advice to help evaluators consider interconnections...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-3-dark.svg" | relative_url }}" alt="Policy Timing illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_policy_before_after_a258b1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Question for Readers
 
 When someone claims that a policy succeeded because conditions improved afterwards, a useful response is not immediate acceptance or rejection. Instead, ask three questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

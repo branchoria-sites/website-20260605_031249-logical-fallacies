@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /loaded-words/
 nav_short_title: Hidden Assumptions
 title: How to Detect the Premises No One Defends
-title_full: How to Detect the Premises No One Defends | Loaded Words
+title_full: How to Detect the Premises No One Defends
 display_title_short: Hidden Assumptions
 display_title: Hidden Assumptions
 heading_title: How to Detect the Premises No One Defends
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:08:24'
-parent_title: What Is the Wording Sneaking In? | Fallacy Lab
+parent_title: What Is the Wording Sneaking In?
 parent_permalink: /loaded-words/
 parent_nav_short_title: Loaded Words
 parent_heading_title: What Is the Wording Sneaking In?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hid
 
 Many arguments rely on background assumptions, and that is not automatically a problem. Communication would be impossible if every speaker had to defend every premise from first principles. The difficulty arises when an argument depends on an assumption that is controversial, unsupported, or hidden from view. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), especially those involving loaded language and presuppositions, the most important question is often not “What evidence was given?” but “What must already be true for this argument to work?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://human.libretexts.org/Bookshelves/Composition/Advanced_Composition/How_Arguments_Work_-_A_Guide_to_Writing_and_Analyzing_Texts_in_College_%28Mills%29/04%3A_Assessing_the_Strength_of_an_Argument_%28Logos%29/4.05%3A_Check_the_Argument%27s_Assumptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">4.05: Check the Argument&#x27;s Assumptions</span><span class="citation-popover-snippet">ities LibreTexts4.5: Check the Argument&#x27;s Assumptions13 May 2025 — One of the most powerful techniques for testing whether an argume...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Spotting hidden assumptions helps prevent acceptance of conclusions that have slipped past scrutiny. A claim can appear persuasive because the crucial premise has been smuggled into the wording rather than defended openly. Critical thinking therefore requires identifying these invisible steps and asking whether they deserve agreement before the conclusion is accepted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span>
 
@@ -285,7 +284,6 @@ Spotting hidden assumptions helps prevent acceptance of conclusions that have sl
 A hidden assumption is an unstated premise that an argument relies upon. It functions as a bridge between the evidence offered and the conclusion reached. If that bridge collapses, the argument loses much of its force. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iu.pressbooks.pub/shockeyphilp102summer/chapter/arguments-iv-hidden-premises/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iu.pressbooks.pub">[iu.pressbooks.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iu.pressbooks.pub</span><span class="citation-popover-snippet">ent, but that is left implicit or unstated.Read more...</span></span></span>
 
 One useful technique is to reconstruct the argument in its simplest form:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +307,6 @@ The hidden premise is not the word “unnatural” itself. The crucial assumptio
 
 Hidden assumptions often become easier to see when a claim seems to jump too quickly from a fact to a judgement. The missing link is usually the assumption that needs attention.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BRflpIUqYiI" title="Complex Question (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BRflpIUqYiI" target="_blank" rel="noopener noreferrer">Complex Question (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 21.3K &middot; Uploaded: February 2014 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BRflpIUqYiI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BRflpIUqYiI">Open on YouTube</a></p></div></div></div>
 
 ## A Simple Diagnostic: Ask “What Must Be True?”
@@ -321,7 +318,6 @@ Suppose someone argues:
 > “Crime increased after the mayor took office, so the mayor's policies failed.”
 
 Several assumptions might be doing the work:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -356,7 +352,6 @@ A useful question is:
 
 If the answer is no, then the assumption requires defence rather than silent acceptance.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-2-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separating Assumptions from Evidence
 
@@ -374,9 +369,7 @@ Separating these elements improves argument evaluation because evidence can be c
 
 One practical method is to write the argument in three parts:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/07mehbgE5jc" title="Identifying Premises and Conclusions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=07mehbgE5jc" target="_blank" rel="noopener noreferrer">Identifying Premises and Conclusions</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 391.9K &middot; Uploaded: January 2013 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=07mehbgE5jc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=07mehbgE5jc">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -404,14 +397,12 @@ The same mechanism appears in public affairs:
 
 The wording presupposes that money is being wasted. Before discussing reasons, a critical thinker should ask whether that presupposition has been established. The Internet Encyclopedia of Philosophy identifies this structure as a classic example of the complex-question fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/critical-thinking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyCritical ThinkingCritical thinking is the process of using and assessing reasons to evaluate statement...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Assumptions illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_loaded_language_f9a858_detect_hidden_assump_be2d06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Hidden Assumptions Often Go Unnoticed
 
 Hidden assumptions are persuasive because people naturally fill gaps in reasoning. Linguists describe presuppositions as information speakers treat as already accepted or taken for granted. Once embedded in ordinary language, these assumptions can pass through conversation with little scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presupposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Certain linguistic patterns are especially likely to carry assumptions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -428,9 +419,7 @@ Because these assumptions operate beneath the surface of the argument, they can 
 
 Before accepting an argument, ask:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YrXZO_wwX6c" title="Critical Thinking #6: Implicit Premises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YrXZO_wwX6c" target="_blank" rel="noopener noreferrer">Critical Thinking #6: Implicit Premises</a></p><p class="youtube-embed-meta">Channel: David Pakman Show &middot; Views: 22.9K &middot; Uploaded: March 2018 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YrXZO_wwX6c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YrXZO_wwX6c">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

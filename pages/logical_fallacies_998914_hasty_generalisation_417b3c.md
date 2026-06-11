@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Bad Samples
 title: How Much Evidence Is Enough?
-title_full: How Much Evidence Is Enough? | Fallacy Lab
+title_full: How Much Evidence Is Enough?
 display_title_short: Bad Samples
 display_title: Bad Samples
 heading_title: How Much Evidence Is Enough?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-overv
 
 A hasty generalisation happens when an argument draws a broad conclusion from evidence that is too small, too narrow, or too badly selected to support it. The weakness is not simply that the speaker has generalised; everyday reasoning often has to move from examples to broader claims. The fallacy lies in treating a thin or distorted sample as if it represents the wider group, pattern, product, policy, population or trend. University writing guides commonly describe it as making assumptions about a whole group from an inadequate or atypical sample, and statistics sources describe the same underlying problem as poor generalisation from data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Hasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a conclusion about a population...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[2purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Hasty Generalizations and Other Logical FallaciesHasty generalizations are committed when a person draws a conclusion about a population...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-overview.webp" | relative_url }}" alt="Overview image for Bad Samples" loading="eager" decoding="sync" fetchpriority="high">
 This page focuses on the evidence problem behind the fallacy: how much evidence is enough, what makes examples unrepresentative, and how a better generalisation differs from a reckless one. The practical test is not “Have I seen an example?” but “Is this example, or set of examples, good evidence for the size of claim being made?”
 
@@ -517,7 +516,6 @@ That last point matters for fallacy-spotting. A hasty generalisation is not defe
 
 A useful rule is to compare the conclusion with the evidence:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Narrow claim:** “These three deliveries were late.” The sample is the evidence.
@@ -528,7 +526,6 @@ A useful rule is to compare the conclusion with the evidence:
 </div>
 
 The fallacy often appears when a speaker skips these middle steps. A small sample can raise suspicion, support a tentative hypothesis, or justify checking further. It becomes a hasty generalisation when it is treated as if it has already settled the wider question.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-1-dark.svg" | relative_url }}" alt="Bad Samples illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Biased examples: why more anecdotes do not always help
@@ -543,7 +540,6 @@ That example is useful beyond polling. It shows the difference between **quantit
 
 Biased examples commonly enter arguments through:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * **Convenience samples:** evidence from whoever was easiest to reach.
@@ -555,7 +551,6 @@ Biased examples commonly enter arguments through:
 </div>
 
 The key question is not “Are these examples real?” They may be entirely real. The question is whether they are typical enough, varied enough and fairly selected enough to support the claim attached to them.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zXystSfiClI" title="What is Hasty Generalization? (Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zXystSfiClI" target="_blank" rel="noopener noreferrer">What is Hasty Generalization? (Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 976 &middot; Uploaded: March 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zXystSfiClI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zXystSfiClI">Open on YouTube</a></p></div></div></div>
 
@@ -569,7 +564,6 @@ The cognitive version of this problem is sometimes discussed as belief in the �
 
 In everyday [debate]({{ 'debate/' | relative_url }}), this creates a recognisable pattern:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A striking example is noticed.
@@ -582,7 +576,6 @@ In everyday [debate]({{ 'debate/' | relative_url }}), this creates a recognisabl
 
 This does not mean personal [experience]({{ 'experience/' | relative_url }}) is worthless. Personal experience can identify harms that official data missed, expose problems that deserve investigation, and give human meaning to statistics. The mistake is using experience as if it automatically measures prevalence. A personal story may show that something can happen; it does not by itself show how often it happens, who it happens to, or whether it is typical.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-2-dark.svg" | relative_url }}" alt="Bad Samples illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How much evidence is enough?
 
@@ -591,7 +584,6 @@ There is no single sample size that makes every generalisation safe. “Enough�
 Statistics guidance on sample size makes this context-dependence clear: researchers consider the target population, the parameter being estimated, population variability, desired precision, cost, prior knowledge and practical [feasibility]({{ 'feasibility/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itl.nist.gov/div898/handbook/prc/section2/prc222.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itl.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itl.nist.gov</span><span class="citation-popover-snippet">Open source on nist.gov.</span></span></span> In medical and experimental settings, sample size also affects the risk of missing real effects or reporting unstable results; a widely cited “Statistics in Brief” article describes sample size as a major determinant of the risk of false-negative findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8889191/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span><span class="citation-popover-snippet">PMCCan we shift belief in the &#x27;Law of Small Numbers&#x27;?</span></span></span>
 
 For ordinary arguments, the practical standard is less technical but still disciplined. Before accepting a generalisation, ask:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -606,7 +598,6 @@ For ordinary arguments, the practical standard is less technical but still disci
 
 A better generalisation matches its wording to its evidence. Instead of saying “Remote workers are less productive” after seeing one weak team, a more careful claim would be: “This team’s remote process seems to be struggling, and we should check whether the same pattern appears elsewhere.” The evidence has not been thrown away; it has been put in the right place.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZK-DMZziTMw" title="What is hasty generalization? Logical Fallacies Explained #25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZK-DMZziTMw" target="_blank" rel="noopener noreferrer">What is hasty generalization? Logical Fallacies Explained #25</a></p><p class="youtube-embed-meta">Channel: Leveled Up &middot; Views: 695 &middot; Uploaded: October 2021 &middot; Length: 1 minute 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZK-DMZziTMw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZK-DMZziTMw">Open on YouTube</a></p></div></div></div>
 
 ## Bad samples in public arguments
@@ -619,7 +610,6 @@ This distinction is useful for evaluating modern evidence. Online reviews, socia
 
 The same issue appears in workplace and consumer arguments. A manager who only hears from unhappy employees may overestimate dissatisfaction. A product team that only interviews loyal users may miss why others left. A journalist who quotes three people from the same social circle may make a trend look broader than it is. In each case, the weak sample does not necessarily contain false information; it lacks the right connection to the wider claim.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gv74iYjzh8M" title="Vote &#x27;18: What Does a U.S. Representative Do?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gv74iYjzh8M" target="_blank" rel="noopener noreferrer">Vote &#x27;18: What Does a U.S. Representative Do?</a></p><p class="youtube-embed-meta">Channel: wpsu &middot; Views: 28.7K &middot; Uploaded: May 2018 &middot; Length: 1 minute 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gv74iYjzh8M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gv74iYjzh8M">Open on YouTube</a></p></div></div></div>
 
 ## Better generalisations: cautious, testable and proportionate
@@ -629,7 +619,6 @@ The answer to hasty generalisation is not to avoid generalising altogether. Huma
 A stronger generalisation usually does three things. First, it defines the group clearly. Second, it explains how the evidence was gathered. Third, it uses wording that reflects uncertainty. “In this survey of 1,200 adults selected through a probability-based panel…” is much stronger than “Everyone thinks…” because the reader can see the population, method and limits of the claim. Probability sampling is widely valued in quantitative research because each member of the population has a known chance of selection, which helps reduce selection bias when the aim is population-level inference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2772906024005089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Careful wording also prevents a useful observation from turning into a fallacy. Compare these versions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -641,14 +630,12 @@ Careful wording also prevents a useful observation from turning into a fallacy. 
 
 The final version does not pretend to be a perfect census. It gives enough information for the reader to judge the claim: sample size, recruitment relevance, observed pattern and conclusion strength. That is the opposite of a hasty generalisation. It does not hide the sample; it lets the sample carry only the weight it can bear.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-3-dark.svg" | relative_url }}" alt="Bad Samples illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_hasty_generalisation_417b3c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A quick test for weak samples
 
 A practical way to spot this fallacy is to look for a mismatch between the evidence and the conclusion. The warning sign is not merely a small number. It is a small, narrow or distorted number being used as if it were broad, balanced and decisive.
 
 Ask four questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -1190,4 +1177,4 @@ The most reliable version of the lesson is modest but powerful: examples are not
 
 31. <a id="endnote-31"></a>
    Source: tckpublishing.com  
-   Link: <a href="https://www.tckpublishing.com/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.tckpublishing.com/hasty-generalization/</a>  
+   Link: <a href="https://www.tckpublishing.com/hasty-generalization/" target="_blank" rel="noopener noreferrer nofollow">https://www.tckpublishing.com/hasty-generalization/</a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /advertising/
 nav_short_title: Review Ratings
 title: Can Star Ratings Become Manufactured Proof?
-title_full: Can Star Ratings Become Manufactured Proof? | Advertising
+title_full: Can Star Ratings Become Manufactured Proof?
 display_title_short: Review Ratings
 display_title: Review Ratings
 heading_title: Can Star Ratings Become Manufactured Proof?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 14:57:28'
-parent_title: How Ads Make Weak Claims Persuasive | Fallacy Lab
+parent_title: How Ads Make Weak Claims Persuasive
 parent_permalink: /advertising/
 parent_nav_short_title: Advertising
 parent_heading_title: How Ads Make Weak Claims Persuasive
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_onlin
 
 Online review ratings look like a form of consumer evidence. A product with thousands of positive reviews and a high average score appears to have been tested by the market itself. In many cases that impression is justified. However, star ratings can become a form of manufactured [social proof]({{ 'social-proof/' | relative_url }}) when the review environment is manipulated, filtered or distorted. The logical problem is not that every review is false. It is that consumers may be encouraged to treat a rating as stronger evidence than it really is.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-1-dark.svg" | relative_url }}" alt="Review Ratings illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within [advertising]({{ 'advertising/' | relative_url }}) and consumer persuasion, this becomes a fallacy-like shortcut: “many people rated it highly, therefore it must be good”. That inference weakens when the visible reviews do not accurately represent genuine customer experience. [Fake reviews]({{ 'fake-reviews/' | relative_url }}), hidden negative feedback, undisclosed incentives and biased sampling can all make a product appear more widely approved than the underlying evidence warrants. Regulatory action in both the United States and the United Kingdom reflects growing concern that review systems can be manipulated in ways that mislead consumers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">federal trade commission announces final rule banning fake reviews testimonials</span><span class="citation-popover-snippet">Federal Trade CommissionFederal Trade Commission Announces Final Rule Banning...14 Aug 2024 — The Federal Trade Commission today announc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/news-events/news/press-releases/2024/08/federal-trade-commission-announces-final-rule-banning-fake-reviews-testimonials" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">federal trade commission announces final rule banning fake reviews testimonials</span><span class="citation-popover-snippet">Federal Trade CommissionFederal Trade Commission Announces Final Rule Banning...14 Aug 2024 — The Federal Trade Commission today announc...</span></span></span>
 
@@ -286,7 +285,6 @@ The persuasive force of ratings also comes from social proof. Consumers often in
 
 The logical risk emerges when consumers move from “many people seem satisfied” to stronger conclusions such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The product is objectively superior.
@@ -297,7 +295,6 @@ The logical risk emerges when consumers move from “many people seem satisfied�
 </div>
 
 A star rating alone cannot establish any of those conclusions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLboz88rM7E" title="FTC cracks down on fake reviews with new rule set to ban phony feedback" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLboz88rM7E" target="_blank" rel="noopener noreferrer">FTC cracks down on fake reviews with new rule set to ban phony feedback</a></p><p class="youtube-embed-meta">Channel: CBS Mornings &middot; Views: 23.1K &middot; Uploaded: October 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLboz88rM7E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLboz88rM7E">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +328,6 @@ This illustrates an important evidential point. A rating average is only as trus
 
 Regulators increasingly emphasise this distinction. Recent UK guidance highlights concerns not only about fake reviews but also about practices that suppress, filter or distort genuine consumer feedback. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/fake-and-misleading-reviews-5-businesses-under-cma-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">fake and misleading reviews 5 businesses under cma investigation</span><span class="citation-popover-snippet">and misleading reviews: 5 businesses under CMA...27 Mar 2026 — Five companies now under investigation as the CMA steps up its work to ta...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/online-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">reviewsThe CMA will investigate whether these websites are taking sufficient measures to protect consumers from fake and misleading revie...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-2-dark.svg" | relative_url }}" alt="Review Ratings illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Large Numbers Do Not Always Mean Strong Evidence
 
@@ -350,7 +346,6 @@ The average score alone cannot answer these questions.
 Even genuine reviews can become biased through social influence. Studies of online review systems have found that exposure to existing ratings can affect subsequent ratings. Early positive signals may therefore influence later reviewers and gradually amplify a favourable impression beyond what independent evaluations would have produced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/303030394_Social_Influence_Bias_in_Online_Ratings_A_Field_Experiment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Social Influence Bias in Online Ratings: A Field Experiment</span><span class="citation-popover-snippet">Social Influence Bias in Online Ratings: A Field ExperimentMay 13, 2016 — This study addresses the issues of social influence...</span><span class="citation-popover-meta">Published: May 13, 2016</span></span></span>
 
 This does not mean highly rated products are unreliable. It means that the number itself should be treated as evidence with limitations rather than as conclusive proof.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0o3eF1QZC4E" title="FTC cracking down on fake online reviews" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0o3eF1QZC4E" target="_blank" rel="noopener noreferrer">FTC cracking down on fake online reviews</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 1.8K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0o3eF1QZC4E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0o3eF1QZC4E">Open on YouTube</a></p></div></div></div>
 
@@ -376,7 +371,6 @@ Several checks can improve judgement:
 
 These checks do not guarantee accuracy, but they help distinguish genuine customer evidence from manufactured impressions of consensus.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-3-dark.svg" | relative_url }}" alt="Review Ratings illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_advertising_fallacie_a808f7_online_review_social_7746ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Fallacy Behind Manufactured Ratings
 
@@ -386,9 +380,7 @@ Manufactured social proof exploits the gap between appearance and reality. Consu
 
 For that reason, star ratings are best treated as a starting point for evaluation rather than as proof in themselves. The more opaque the review system, the more cautious consumers should be about treating a numerical average as reliable evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dHibMYRRV8g" title="FTC&#x27;s rule banning fake online reviews goes into effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dHibMYRRV8g" target="_blank" rel="noopener noreferrer">FTC&#x27;s rule banning fake online reviews goes into effect</a></p><p class="youtube-embed-meta">Channel: KVUE &middot; Views: 205 &middot; Uploaded: October 2024 &middot; Length: 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dHibMYRRV8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dHibMYRRV8g">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -937,4 +929,4 @@ For that reason, star ratings are best treated as a starting point for evaluatio
    Title: 29877379192987 Complying with the FTC Final Rule for Reviews  
    Link: <a href="https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews" target="_blank" rel="noopener noreferrer nofollow">https://stampedsupport.stamped.io/hc/en-us/articles/29877379192987-Complying-with-the-FTC-Final-Rule-for-Reviews</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>with the FTC Final Rule for Reviews7 Oct 2024 — The Federal Trade Commission has announced a final rule, effective October 15, 2024, aime...</p></details>
-   Published: October 15, 2024  
+   Published: October 15, 2024

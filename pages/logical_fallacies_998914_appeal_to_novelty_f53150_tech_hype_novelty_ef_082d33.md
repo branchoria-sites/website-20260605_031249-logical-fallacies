@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /novelty/
 nav_short_title: Tech Hype
 title: Does the New Feature Still Work Later?
-title_full: Does the New Feature Still Work Later? | Novelty
+title_full: Does the New Feature Still Work Later?
 display_title_short: Tech Hype
 display_title: Tech Hype
 heading_title: Does the New Feature Still Work Later?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:25:59'
-parent_title: Is New Always Better? | Fallacy Lab
+parent_title: Is New Always Better?
 parent_permalink: /novelty/
 parent_nav_short_title: Novelty
 parent_heading_title: Is New Always Better?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hyp
 
 When a new app feature, interface redesign, AI tool, or digital service launches, usage often surges. People click, explore, share [screenshots]({{ 'screenshots/' | relative_url }}), and spend more time with the product. This burst of activity can look like proof that the change is better. However, one of the most common forms of [appeal to novelty]({{ 'novelty/' | relative_url }}) in technology is treating this initial excitement as evidence of lasting value. The problem is that early engagement may reflect curiosity about something new rather than genuine improvement. Researchers describe this as a novelty effect: users temporarily increase attention, usage, or enthusiasm because a technology is unfamiliar, with behaviour often changing once the novelty fades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6952057/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Beyond novelty effect: a mixed-methods exploration into the...by G Shin · 2018 · Cited by 191 — This study explores the impact of nov...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-1-dark.svg" | relative_url }}" alt="Tech Hype illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the mistake occurs when observers move from “people are using the new feature more” to “the new feature is better” without testing whether the behaviour persists. Newness may explain the initial response, but it does not automatically demonstrate long-term usefulness, satisfaction, or effectiveness.
 
@@ -292,7 +291,6 @@ Those outcomes can be real while still failing to demonstrate durable improvemen
 Studies of technology adoption repeatedly find that initial attraction and long-term use are not identical phenomena. Research on activity trackers, for example, found that novelty can strongly influence early adoption, while sustained use depends on different motivational factors that emerge after the initial excitement period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10515511/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby J Berner · 2023 · Cited by 23 — Technology enthusiasm and technology anxiety are attitudes that affect the relationship to th...</span></span></span>
 
 This distinction matters because appeal-to-novelty reasoning often treats adoption and enduring value as if they were the same thing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2t1cy8YG0FM" title="Seth Godin - Finding an Elegant Strategy: Doing Work That Matters for People Who Care Plus Q&amp;A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2t1cy8YG0FM" target="_blank" rel="noopener noreferrer">Seth Godin - Finding an Elegant Strategy: Doing Work That Matters for People Who Care Plus Q&amp;A</a></p><p class="youtube-embed-meta">Channel: The Reinvention Summit &middot; Views: 61.9K &middot; Uploaded: May 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2t1cy8YG0FM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2t1cy8YG0FM">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +326,6 @@ When a technology is heavily promoted as innovative, revolutionary, or disruptiv
 
 This can create a feedback loop:
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-2-dark.svg" | relative_url }}" alt="Tech Hype illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -353,7 +350,6 @@ A feature that creates durable improvement tends to survive the transition from 
 
 Several indicators are often more informative than launch-day excitement:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Retention after weeks or months.
@@ -369,7 +365,6 @@ User-[experience]({{ 'experience/' | relative_url }}) researchers have developed
 
 This distinction helps avoid the logical leap from “people tried it” to “people benefited from it.”
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jB1RDz9jaj0" title="Gartner Hype Cycles, Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jB1RDz9jaj0" target="_blank" rel="noopener noreferrer">Gartner Hype Cycles, Explained</a></p><p class="youtube-embed-meta">Channel: Gartner &middot; Views: 142.9K &middot; Uploaded: March 2022 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jB1RDz9jaj0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jB1RDz9jaj0">Open on YouTube</a></p></div></div></div>
 
 ## How Teams Can Test Lasting Value Instead of Launch Excitement
@@ -384,7 +379,7 @@ Useful approaches include:
 
 Track outcomes for weeks or months rather than focusing only on launch-period metrics. Long-term studies are often necessary to separate novelty from sustained value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1461444817727264" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA phased framework for long-term user acceptance of...Our 6-month home study deploying an interactive robot provides insigh...</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40dhruvghulati/google-s-heart-framework-a-critical-evaluation-a6694421dae" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[**Retention-focused analysis**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Google&#x27;s HEART framework — A Critical EvaluationHEART stands for Happiness, Engagement, Adoption, Retention and Task Success. Traditional...</span></span></span>
+**Retention-focused analysis** <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40dhruvghulati/google-s-heart-framework-a-critical-evaluation-a6694421dae" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Google&#x27;s HEART framework — A Critical EvaluationHEART stands for Happiness, Engagement, Adoption, Retention and Task Success. Traditional...</span></span></span>
 
 Measure how many users continue using a feature after the initial exploration phase. Retention often reveals more than adoption alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google.com/pubs/archive/36299.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google.com">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
@@ -398,7 +393,6 @@ Ask whether users complete tasks more effectively, not merely whether they spend
 
 These methods shift attention from excitement to evidence.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-3-dark.svg" | relative_url }}" alt="Tech Hype illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_tech_hype_novelty_ef_082d33-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Fallacy Behind “Users Love It”
 
@@ -408,9 +402,7 @@ In appeal-to-novelty reasoning, the hidden assumption is that because users are 
 
 A more careful conclusion is that strong launch metrics show that people noticed the innovation. Whether the innovation genuinely improves the product is a separate question that can only be answered after the novelty has had time to wear off.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SaQ2k9ztb_M" title="The Gartner Hype Cycle Explained 2026 | Stages of Gartner Hype Cycle |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SaQ2k9ztb_M" target="_blank" rel="noopener noreferrer">The Gartner Hype Cycle Explained 2026 | Stages of Gartner Hype Cycle |</a></p><p class="youtube-embed-meta">Channel: orangemantra &middot; Views: 290 &middot; Uploaded: February 2026 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SaQ2k9ztb_M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SaQ2k9ztb_M">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /wet-pavement/
 nav_short_title: One Way Logic
 title: Why If P Then Q Does Not Reverse
-title_full: Why If P Then Q Does Not Reverse | Wet Pavement
+title_full: Why If P Then Q Does Not Reverse
 display_title_short: One Way Logic
 display_title: One Way Logic
 heading_title: Why If P Then Q Does Not Reverse
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 17:25:19'
-parent_title: Why One Explanation Is Not Enough | Fallacy Lab
+parent_title: Why One Explanation Is Not Enough
 parent_permalink: /wet-pavement/
 parent_nav_short_title: Wet Pavement
 parent_heading_title: Why One Explanation Is Not Enough
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_
 
 A conditional statement such as “if P, then Q” makes a specific promise: whenever P is true, Q will also be true. What it does **not** automatically promise is the reverse. The reasoning pattern “Q is true, therefore P is true” commits the logical fallacy known as **affirming the consequent**. This mistake sits at the heart of many examples of flawed reasoning, including the familiar wet-pavement argument: “If it rains, the pavement gets wet. The pavement is wet. Therefore it rained.” The conclusion may be correct, but it does not logically follow from the premises because there may be other ways for the pavement to become wet. In [formal logic]({{ 'formal-logic/' | relative_url }}), this is a recognised invalid argument form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-1-dark.svg" | relative_url }}" alt="One Way Logic illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What a Conditional Statement Actually Guarantees
 
@@ -302,9 +301,102 @@ The original conditional and its reversal are different statements.
 
 Compare:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OW2-CkZTUlQ" title="Affirming the consequent &amp; Denying the antecedent [#3.1 How to argue]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OW2-CkZTUlQ" target="_blank" rel="noopener noreferrer">Affirming the consequent &amp; Denying the antecedent [#3.1 How to argue]</a></p><p class="youtube-embed-meta">Channel: Komei&#x27;s Channel &middot; Views: 3.4K &middot; Uploaded: June 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OW2-CkZTUlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OW2-CkZTUlQ">Open on YouTube</a></p></div></div></div>
 
+1. If P, then Q. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">affirming the consequent</span><span class="citation-popover-snippet">Q. Therefore, P. Affirming the consequent fallacy... This means the argument is invalid and commits a formal logical fallacy.Read more...</span></span></span>
+2. If Q, then P.
+
+These may look similar, but they express different relationships.
+
+For example:
+
+* If a figure is a square, then it has four sides.
+* If a figure has four sides, then it is a square.
+
+The first statement is true. The second is false because rectangles, trapeziums, and many other shapes also have four sides.
+
+The mistake occurs when someone starts with the first statement and then reasons as though the second statement had been established. In logical notation, the invalid pattern is:
+
+* If P, then Q. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">affirming the consequent</span><span class="citation-popover-snippet">Q. Therefore, P. Affirming the consequent fallacy... This means the argument is invalid and commits a formal logical fallacy.Read more...</span></span></span>
+* Q.
+* Therefore P.
+
+This pattern is formally invalid because the truth of Q does not eliminate alternative explanations for Q. Logic authorities identify this structure as the fallacy of affirming the consequent, sometimes called the **converse error** because it incorrectly treats the converse of a conditional as established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8JYN1oOvkM" title="Logic 101 (#48): Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer">Logic 101 (#48): Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: William Spaniel &middot; Views: 12.0K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8JYN1oOvkM">Open on YouTube</a></p></div></div></div>
+
+## Why the Outcome Can Be True Without the Original Cause
+
+The most important mechanism is that a consequence often has multiple possible causes.
+
+Suppose:
+
+* If a burglar entered the house, the alarm would sound.
+
+Now imagine:
+
+* The alarm is sounding.
+
+The alarm may have been triggered by a burglar, but it might also have been triggered by a fault, a family member entering, a power issue, or a maintenance test.
+
+The original conditional only tells us that burglary would produce the alarm. It does not tell us that burglary is the only possible explanation. Therefore the observation of the alarm does not logically prove burglary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Formal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Formal fallacy</span><span class="citation-popover-snippet">Formal fallacy... formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, &quot;non seq...</span></span></span>
+
+This is exactly what happens in wet-pavement reasoning. Rain is one sufficient cause of [wet pavement]({{ 'wet-pavement/' | relative_url }}), but not necessarily the only one. The observed effect does not uniquely identify the cause.
+
+<img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-2-dark.svg" | relative_url }}" alt="One Way Logic illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## When the Reverse Does Work
+
+People often wonder whether “Q, therefore P” is always wrong.
+
+The answer is no. The inference becomes valid when the relationship is genuinely two-way.
+
+For example:
+
+* If a number is divisible by 4 and leaves no remainder, then it is even.
+* If a number is even and also satisfies the relevant definition, the reverse may hold in a specially defined system.
+
+More clearly:
+
+* If a shape is a square, then it is a rectangle.
+* If a shape is a rectangle, then it is a square.
+
+This reverse statement is false, so the inference fails.
+
+By contrast, if a statement explicitly establishes equivalence:
+
+* P if and only if Q
+
+then each side implies the other. In that special case, moving from Q back to P is legitimate because the original claim includes both directions. Logic distinguishes these biconditional relationships from ordinary one-way conditionals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Formal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Formal fallacy</span><span class="citation-popover-snippet">Formal fallacy... formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, &quot;non seq...</span></span></span>
+
+<img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-3-dark.svg" | relative_url }}" alt="One Way Logic illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Simple Tests for Spotting the Invalid Move
+
+A quick way to detect affirming the consequent is to ask whether the observed outcome could happen for any reason other than the proposed cause.
+
+If the answer is yes, the inference is not deductively valid.
+
+Useful checks include:
+
+* **Look for alternative causes.** Could something else produce Q?
+* **Ask whether the original statement claimed exclusivity.** Did it say P is the only way Q can occur?
+* **Try reversing the sentence explicitly.** Does “If Q, then P” actually follow from what was stated?
+* **Search for counterexamples.** Can you imagine a case where Q is true but P is false?
+
+If even one plausible counterexample exists, the move from Q to P has not been established. This reflects the basic requirement of deductive validity: the conclusion must follow necessarily from the premises, not merely seem plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_yflf6S2Cy8" title="17. Affirming the Consequent and Denying the Antecedent | Syllogistic Logic: Logic Made Accessible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_yflf6S2Cy8" target="_blank" rel="noopener noreferrer">17. Affirming the Consequent and Denying the Antecedent | Syllogistic Logic: Logic Made Accessible</a></p><p class="youtube-embed-meta">Channel: Logic Made Accessible &middot; Views: 1.5K &middot; Uploaded: July 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_yflf6S2Cy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_yflf6S2Cy8">Open on YouTube</a></p></div></div></div>
+
+## Why the Error Feels So Persuasive
+
+The fallacy persists because everyday reasoning is often probabilistic rather than strictly deductive. Observing an effect can legitimately increase confidence in a particular cause. Seeing wet pavement may make rain more likely; seeing smoke may make fire more likely.
+
+However, increased likelihood is not the same as logical proof. Philosophers and logicians have long noted that some argument forms classified as deductively invalid may still provide evidential support in practical reasoning, depending on [context]({{ 'context/' | relative_url }}) and background knowledge. The crucial point is that support is not certainty. The observation of Q may make P more plausible, but it does not allow the conclusion “therefore P” to be treated as logically guaranteed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">arXiv Human Conditional Reasoning in Answer Set Programming</span></span></span>
+
+## The Core Lesson of One-Way Logic
+
+The distinction between “if P then Q” and “Q therefore P” is simple but fundamental. A conditional statement guarantees that P leads to Q. It does not automatically guarantee that Q can only come from P. When the outcome is treated as proof of the original condition, the reasoning has reversed the direction of the implication without justification.
+
+Remembering that conditional statements are normally one-way claims helps prevent a common logical mistake: confusing a possible cause with the only possible cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Formal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Formal fallacy</span><span class="citation-popover-snippet">Formal fallacy... formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, &quot;non seq...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -600,105 +692,6 @@ Compare:
 </script>
 </section>
 
-1. If P, then Q. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">affirming the consequent</span><span class="citation-popover-snippet">Q. Therefore, P. Affirming the consequent fallacy... This means the argument is invalid and commits a formal logical fallacy.Read more...</span></span></span>
-2. If Q, then P.
-
-These may look similar, but they express different relationships.
-
-For example:
-
-* If a figure is a square, then it has four sides.
-* If a figure has four sides, then it is a square.
-
-The first statement is true. The second is false because rectangles, trapeziums, and many other shapes also have four sides.
-
-The mistake occurs when someone starts with the first statement and then reasons as though the second statement had been established. In logical notation, the invalid pattern is:
-
-* If P, then Q. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/affirming-the-consequent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">affirming the consequent</span><span class="citation-popover-snippet">Q. Therefore, P. Affirming the consequent fallacy... This means the argument is invalid and commits a formal logical fallacy.Read more...</span></span></span>
-* Q.
-* Therefore P.
-
-This pattern is formally invalid because the truth of Q does not eliminate alternative explanations for Q. Logic authorities identify this structure as the fallacy of affirming the consequent, sometimes called the **converse error** because it incorrectly treats the converse of a conditional as established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T8JYN1oOvkM" title="Logic 101 (#48): Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer">Logic 101 (#48): Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: William Spaniel &middot; Views: 12.0K &middot; Uploaded: January 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T8JYN1oOvkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T8JYN1oOvkM">Open on YouTube</a></p></div></div></div>
-
-## Why the Outcome Can Be True Without the Original Cause
-
-The most important mechanism is that a consequence often has multiple possible causes.
-
-Suppose:
-
-* If a burglar entered the house, the alarm would sound.
-
-Now imagine:
-
-* The alarm is sounding.
-
-The alarm may have been triggered by a burglar, but it might also have been triggered by a fault, a family member entering, a power issue, or a maintenance test.
-
-The original conditional only tells us that burglary would produce the alarm. It does not tell us that burglary is the only possible explanation. Therefore the observation of the alarm does not logically prove burglary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Formal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Formal fallacy</span><span class="citation-popover-snippet">Formal fallacy... formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, &quot;non seq...</span></span></span>
-
-This is exactly what happens in wet-pavement reasoning. Rain is one sufficient cause of [wet pavement]({{ 'wet-pavement/' | relative_url }}), but not necessarily the only one. The observed effect does not uniquely identify the cause.
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-2-dark.svg" | relative_url }}" alt="One Way Logic illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## When the Reverse Does Work
-
-People often wonder whether “Q, therefore P” is always wrong.
-
-The answer is no. The inference becomes valid when the relationship is genuinely two-way.
-
-For example:
-
-* If a number is divisible by 4 and leaves no remainder, then it is even.
-* If a number is even and also satisfies the relevant definition, the reverse may hold in a specially defined system.
-
-More clearly:
-
-* If a shape is a square, then it is a rectangle.
-* If a shape is a rectangle, then it is a square.
-
-This reverse statement is false, so the inference fails.
-
-By contrast, if a statement explicitly establishes equivalence:
-
-* P if and only if Q
-
-then each side implies the other. In that special case, moving from Q back to P is legitimate because the original claim includes both directions. Logic distinguishes these biconditional relationships from ordinary one-way conditionals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Formal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Formal fallacy</span><span class="citation-popover-snippet">Formal fallacy... formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, &quot;non seq...</span></span></span>
-
-
-<img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-3-dark.svg" | relative_url }}" alt="One Way Logic illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_if_p_then_q_reverse_23c82e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Simple Tests for Spotting the Invalid Move
-
-A quick way to detect affirming the consequent is to ask whether the observed outcome could happen for any reason other than the proposed cause.
-
-If the answer is yes, the inference is not deductively valid.
-
-Useful checks include:
-
-* **Look for alternative causes.** Could something else produce Q?
-* **Ask whether the original statement claimed exclusivity.** Did it say P is the only way Q can occur?
-* **Try reversing the sentence explicitly.** Does “If Q, then P” actually follow from what was stated?
-* **Search for counterexamples.** Can you imagine a case where Q is true but P is false?
-
-If even one plausible counterexample exists, the move from Q to P has not been established. This reflects the basic requirement of deductive validity: the conclusion must follow necessarily from the premises, not merely seem plausible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_yflf6S2Cy8" title="17. Affirming the Consequent and Denying the Antecedent | Syllogistic Logic: Logic Made Accessible" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_yflf6S2Cy8" target="_blank" rel="noopener noreferrer">17. Affirming the Consequent and Denying the Antecedent | Syllogistic Logic: Logic Made Accessible</a></p><p class="youtube-embed-meta">Channel: Logic Made Accessible &middot; Views: 1.5K &middot; Uploaded: July 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_yflf6S2Cy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_yflf6S2Cy8">Open on YouTube</a></p></div></div></div>
-
-## Why the Error Feels So Persuasive
-
-The fallacy persists because everyday reasoning is often probabilistic rather than strictly deductive. Observing an effect can legitimately increase confidence in a particular cause. Seeing wet pavement may make rain more likely; seeing smoke may make fire more likely.
-
-However, increased likelihood is not the same as logical proof. Philosophers and logicians have long noted that some argument forms classified as deductively invalid may still provide evidential support in practical reasoning, depending on [context]({{ 'context/' | relative_url }}) and background knowledge. The crucial point is that support is not certainty. The observation of Q may make P more plausible, but it does not allow the conclusion “therefore P” to be treated as logically guaranteed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyArgument and Argumentationby C Dutilh Novaes · 2021 · Cited by 101 — For example, deductively invalid...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.04412" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Human Conditional Reasoning in Answer Set Programming</span><span class="citation-popover-snippet">arXiv Human Conditional Reasoning in Answer Set Programming</span></span></span>
-
-## The Core Lesson of One-Way Logic
-
-The distinction between “if P then Q” and “Q therefore P” is simple but fundamental. A conditional statement guarantees that P leads to Q. It does not automatically guarantee that Q can only come from P. When the outcome is treated as proof of the original condition, the reasoning has reversed the direction of the implication without justification.
-
-Remembering that conditional statements are normally one-way claims helps prevent a common logical mistake: confusing a possible cause with the only possible cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/affirmation-of-the-consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaAffirmation of the consequent &#124; logicIn applied logic: Formal fallacies …B; not-A; therefore, not-B”) and affirmin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Formal_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Formal fallacy</span><span class="citation-popover-snippet">Formal fallacy... formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, &quot;non seq...</span></span></span>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -901,4 +894,4 @@ Remembering that conditional statements are normally one-way claims helps preven
    Source: philosophyalevel.com  
    Link: <a href="https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/" target="_blank" rel="noopener noreferrer nofollow">https://philosophyalevel.com/posts/if-p-then-q-modus-ponens-modus-tollens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 28, 2023 — Affirming the consequent is a logical fallacy that occurs when someone assumes that if the consequent of a conditional sta...</p></details>
-   Published: May 28, 2023  
+   Published: May 28, 2023

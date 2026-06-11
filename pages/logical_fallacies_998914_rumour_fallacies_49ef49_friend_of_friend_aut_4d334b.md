@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /rumours/
 nav_short_title: FOAF Claims
 title: Who actually said the warning?
-title_full: Who actually said the warning? | Rumours
+title_full: Who actually said the warning?
 display_title_short: FOAF Claims
 display_title: FOAF Claims
 heading_title: Who actually said the warning?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:21:53'
-parent_title: Why Rumours Feel Like Evidence | Fallacy Lab
+parent_title: Why Rumours Feel Like Evidence
 parent_permalink: /rumours/
 parent_nav_short_title: Rumours
 parent_heading_title: Why Rumours Feel Like Evidence
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of
 
 Many unverified warnings gain credibility not because the evidence is strong, but because the source appears socially close and yet just out of reach. A message that begins, “My colleague’s neighbour is a doctor,” or “A friend of a friend works for the council,” sounds more trustworthy than a completely anonymous claim. The warning seems connected to a real person with insider knowledge, while remaining difficult to check.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-1-dark.svg" | relative_url }}" alt="FOAF Claims illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This pattern is a recurring feature of [rumours]({{ 'rumours/' | relative_url }}), urban legends, and viral warnings. In logical terms, it combines elements of an appeal to anonymous authority with a friend-of-a-friend (FOAF) source chain. The result is borrowed credibility without accountability: the authority cannot be questioned, the source cannot be verified, and the claim acquires a persuasive force that exceeds the evidence behind it. Research on rumour transmission has found that attributing a claim to a credible friend of a friend increases both its perceived plausibility and people's willingness to share it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10427462/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">It happened to a friend of a friend: inaccurate source reporting...by S Altay · 2020 · Cited by 18 — Attribution to a credible friend...</span></span></span>
 
@@ -285,7 +284,6 @@ This pattern is a recurring feature of [rumours]({{ 'rumours/' | relative_url }}
 A rumour rarely spreads by saying simply, “I made this up.” Instead, it often arrives attached to a person whose status appears relevant to the warning. The authority figure might be described as a doctor, police officer, teacher, government employee, airline worker, scientist, or industry insider.
 
 The persuasive move is subtle. The listener is encouraged to think:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -305,7 +303,6 @@ Consider a typical message:
 
 The claim sounds evidence-based. However, the audience receives no verifiable evidence—only a chain of social connections leading to an unnamed authority.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nWGFJOxCPj4" title="How to Spread a Rumor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nWGFJOxCPj4" target="_blank" rel="noopener noreferrer">How to Spread a Rumor</a></p><p class="youtube-embed-meta">Channel: Howcast &middot; Views: 27.9K &middot; Uploaded: October 2009 &middot; Length: 1 minute 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nWGFJOxCPj4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nWGFJOxCPj4">Open on YouTube</a></p></div></div></div>
 
 ## Why friend-of-a-friend chains evade verification
@@ -315,7 +312,6 @@ The FOAF structure is remarkably effective because it solves two problems for a 
 First, it increases credibility. Second, it protects the story from scrutiny.
 
 If a listener asks for proof, the source is always one step further away:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -341,7 +337,6 @@ Health scares, crime alerts, contamination rumours, kidnapping stories, and publ
 
 A typical pattern is:
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-2-dark.svg" | relative_url }}" alt="FOAF Claims illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -357,7 +352,6 @@ Urban-legend research has documented this structure repeatedly in stories about 
 
 The logic is often emotionally compelling:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * If the warning is true, ignoring it could be costly.
@@ -368,7 +362,6 @@ The logic is often emotionally compelling:
 
 The problem is that the credibility of the warning is being inferred from the claimed source rather than demonstrated by evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OLvsifVbCQU" title="Every Logical Fallacy Explained in 8 Minutes w/ Memes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OLvsifVbCQU" target="_blank" rel="noopener noreferrer">Every Logical Fallacy Explained in 8 Minutes w/ Memes</a></p><p class="youtube-embed-meta">Channel: PNG Guy &middot; Views: 5.1K &middot; Uploaded: January 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OLvsifVbCQU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OLvsifVbCQU">Open on YouTube</a></p></div></div></div>
 
 ## The difference between expertise and claimed expertise
@@ -378,7 +371,6 @@ Not every appeal to expertise is fallacious. Expert testimony can be valuable wh
 The difference lies in accountability.
 
 **Legitimate expert evidence:**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -391,7 +383,6 @@ The difference lies in accountability.
 
 **Friend-of-a-friend authority:**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The expert is unnamed.
@@ -402,7 +393,6 @@ The difference lies in accountability.
 </div>
 
 The fallacy does not depend on whether the hidden authority actually exists. An unnamed doctor may genuinely have spoken. The problem is that the audience is being asked to trust a claim without access to the information needed to evaluate that authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/appeal-to-authority-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">appeal to authority fallacy</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; Examples15 Jun 2023 — Appeal to anonymous authority occurs when an arguer attributes a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Anonymous-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Anonymous AuthorityAppeals to anonymous sources are more often than not, a way to fabricate, exaggerate, or misrepresent facts in order t...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-3-dark.svg" | relative_url }}" alt="FOAF Claims illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_rumour_fallacies_49ef49_friend_of_friend_aut_4d334b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Questions that bring hidden sources into the open
@@ -421,7 +411,6 @@ Several questions help expose whether a warning rests on evidence or merely on s
 These questions shift attention from the social chain to the evidence itself.
 
 Notice that many FOAF warnings become weaker as details are requested. The story may gradually change from “a hospital doctor confirmed this” to “someone heard that a doctor said it.” That shift reveals how much of the claim's force depended on borrowed authority rather than verifiable information.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vnLoNeATgek" title="What is Appeal to Anonymous Authority? [Definition and Example] - Understanding Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vnLoNeATgek" target="_blank" rel="noopener noreferrer">What is Appeal to Anonymous Authority? [Definition and Example] - Understanding Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 926 &middot; Uploaded: November 2020 &middot; Length: 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vnLoNeATgek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vnLoNeATgek">Open on YouTube</a></p></div></div></div>
 

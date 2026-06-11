@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /politics/
 nav_short_title: Deregulation
 title: The Missing Middle in Deregulation Debates
-title_full: The Missing Middle in Deregulation Debates | Politics
+title_full: The Missing Middle in Deregulation Debates
 display_title_short: Deregulation
 display_title: Deregulation
 heading_title: The Missing Middle in Deregulation Debates
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 14:59:40'
-parent_title: How Public Arguments Go Off Track | Fallacy Lab
+parent_title: How Public Arguments Go Off Track
 parent_permalink: /politics/
 parent_nav_short_title: Politics
 parent_heading_title: How Public Arguments Go Off Track
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_political_speech_fal_4164bc_dereg
 
 [False dilemma]({{ 'false-dilemma/' | relative_url }}) framing is a common logical fallacy in political debates about deregulation. It occurs when speakers present a complex policy question as if only two choices exist: remove regulations or accept economic decline; protect regulation or destroy innovation; choose freedom or choose bureaucracy. In reality, most regulatory systems contain a wide range of options between these extremes. Policymakers can redesign rules, simplify compliance, target specific sectors, improve enforcement, replace prescriptive requirements with performance standards, or remove ineffective regulations while retaining protections that address genuine market failures. By reducing this spectrum to a binary choice, false dilemma arguments can obscure important trade-offs and weaken public understanding of policy choices. OECD <span class="citation-chip-wrap"><a class="citation-chip" href="https://johnbraithwaite.com/wp-content/uploads/2016/06/Responsive-Regulation-Transce.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnbraithwaite.com">[John Braithwaite]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnbraithwaite.com</span><span class="citation-popover-snippet">John BraithwaiteResponsive regulation: transcending the deregulation debateOur work on responsive regulation flourished during the time...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1-dark.svg" | relative_url }}" alt="Deregulation illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within political speech, this fallacy is particularly influential because regulatory policy is often technical and difficult for non-specialists to evaluate. Simplified narratives are easier to communicate than nuanced discussions of costs, benefits and institutional design. As a result, debates that should focus on evidence frequently become contests between competing extremes.
 
@@ -285,7 +284,6 @@ Within political speech, this fallacy is particularly influential because regula
 Deregulation debates often involve questions about economic growth, consumer protection, environmental standards, labour conditions, financial oversight or competition policy. These issues rarely present policymakers with only two realistic options.
 
 A false dilemma emerges when a speaker compresses a broad policy spectrum into a stark either-or proposition. Common formulations include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ Regulation affects multiple goals simultaneously. A rule may increase compliance
 
 Because regulations often generate both benefits and costs, they are particularly susceptible to oversimplification. Economic outcomes depend not only on whether regulation exists but on how it is designed, enforced and adapted over time. OECD analyses of regulatory reform repeatedly emphasise regulatory quality, institutional design and policy implementation rather than simple increases or decreases in the number of rules. OECD <span class="citation-chip-wrap"><a class="citation-chip" href="https://regulatoryreform.com/wp-content/uploads/2015/02/OECD-Regulatory-Policies-in-OECD-Countries-2002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: regulatoryreform.com">[JCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">regulatoryreform.com</span><span class="citation-popover-snippet">Regulatory Policies in OECD CountriesFor example, the OECD Report on Regulatory Reform in Denmark noted concerns that the use of a centra...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wg-pFtvsvmo" title="Geography | KS1 | KS2 | The world | BBC Teach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wg-pFtvsvmo" target="_blank" rel="noopener noreferrer">Geography | KS1 | KS2 | The world | BBC Teach</a></p><p class="youtube-embed-meta">Channel: BBC Bitesize for Teachers &middot; Views: 413.3K &middot; Uploaded: August 2020 &middot; Length: 1 minute 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wg-pFtvsvmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wg-pFtvsvmo">Open on YouTube</a></p></div></div></div>
 
 ## What Evidence Is Lost When Trade-Offs Disappear
@@ -314,7 +311,6 @@ Because regulations often generate both benefits and costs, they are particularl
 The main damage caused by false dilemma framing is not merely logical error. It is the removal of evidence that would allow citizens and policymakers to evaluate realistic alternatives.
 
 When debates become binary, several important questions often disappear:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -341,7 +337,6 @@ For example, a debate about environmental compliance might be framed publicly as
 
 The existence of these middle positions demonstrates why the forced-choice narrative is often misleading.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-2-dark.svg" | relative_url }}" alt="Deregulation illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Test Whether the Binary Is Real
 
@@ -356,7 +351,6 @@ A strong indicator of false dilemma framing is the omission of obvious alternati
 If a speaker claims that the only choices are maintaining every existing rule or eliminating regulation entirely, ask whether partial reform, targeted exemptions, updated standards or improved enforcement could address the underlying problem.
 
 The existence of credible intermediate options weakens the binary claim.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MIcl7emllt0" title="False Dilemma Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MIcl7emllt0" target="_blank" rel="noopener noreferrer">False Dilemma Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 3.6K &middot; Uploaded: September 2024 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MIcl7emllt0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MIcl7emllt0">Open on YouTube</a></p></div></div></div>
 
@@ -376,7 +370,6 @@ Claims that economic collapse, mass unemployment, runaway exploitation or total 
 
 Economists and regulatory scholars routinely emphasise uncertainty, [context]({{ 'context/' | relative_url }}) and trade-offs when assessing reforms. Broad ideological calls for either wholesale deregulation or wholesale re-regulation have been criticised precisely because they ignore the imperfect and context-dependent nature of policy design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://economics.mit.edu/sites/default/files/2022-09/Deregulation%20-%20Where%20Do%20We%20Go%20From%20Here.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economics.mit.edu">[MIT Economics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economics.mit.edu</span><span class="citation-popover-snippet">Joskow Alfred...by PL Joskow · 2009 — Whatever conclusions one comes to about the need for and nature of regulation or deregulation or r...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-3-dark.svg" | relative_url }}" alt="Deregulation illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_political_speech_fal_4164bc_deregulation_false_d_8dd39a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Does the Speaker Define Success Too Narrowly?
 
@@ -394,9 +387,7 @@ Evidence from regulatory reform research points toward a more complex reality. S
 
 Recognising the false dilemma does not determine whether a particular deregulation proposal is good or bad. Instead, it restores the [missing middle]({{ 'missing-middle/' | relative_url }}) of the conversation, allowing debates to focus on evidence, trade-offs and realistic policy alternatives rather than forced choices between opposing extremes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2hZVGiOi30g" title="False Dilemma Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2hZVGiOi30g" target="_blank" rel="noopener noreferrer">False Dilemma Fallacy</a></p><p class="youtube-embed-meta">Channel: HillTopsEdX &middot; Views: 518 &middot; Uploaded: April 2024 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2hZVGiOi30g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2hZVGiOi30g">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

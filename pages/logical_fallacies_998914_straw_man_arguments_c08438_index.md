@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-straw-man/
 description: Focused pages that expand on Straw Man.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_straw_man_arguments_c08438
-parent_title: Straw Man | Logical Fallacies
+parent_title: Straw Man
 parent_nav_short_title: Straw Man
 parent_permalink: /straw-man/
 ---

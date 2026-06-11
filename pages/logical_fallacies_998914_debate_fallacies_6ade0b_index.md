@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-debate/
 description: Focused pages that expand on Debate.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_debate_fallacies_6ade0b
-parent_title: Debate | Logical Fallacies
+parent_title: Debate
 parent_nav_short_title: Debate
 parent_permalink: /debate/
 ---

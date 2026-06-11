@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /straw-man/
 nav_short_title: Quote Mining
 title: How Quotes Lose Their Meaning
-title_full: How Quotes Lose Their Meaning | Straw Man
+title_full: How Quotes Lose Their Meaning
 display_title_short: Quote Mining
 display_title: Quote Mining
 heading_title: How Quotes Lose Their Meaning
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:24:14'
-parent_title: Are You Answering the Real Argument? | Fallacy Lab
+parent_title: Are You Answering the Real Argument?
 parent_permalink: /straw-man/
 parent_nav_short_title: Straw Man
 parent_heading_title: Are You Answering the Real Argument?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_
 
 Quote mining, often called *contextomy* or quoting out of [context]({{ 'context/' | relative_url }}), is a common way of misrepresenting another person’s position without changing a single word they actually said. A quotation can be perfectly accurate at the level of wording while still creating a false impression of the speaker’s meaning. This makes quote mining a particularly effective form of straw man argumentation: instead of inventing a position outright, it selectively extracts language that makes an opponent appear more extreme, simplistic, contradictory, or unreasonable than the full passage supports. Researchers define contextomy as the removal of words from their original linguistic setting in a way that distorts the speaker’s intended meaning. Studies further suggest that the damage can persist even after readers later encounter the original context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/joc/article/55/2/330/4103017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">“Contextomy” refers to the excerpting of words from their original linguistic context in a way that distorts the source&#x27;s intentions. Con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249723004_Contextomy_The_art_of_quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Contextomy: The art of quoting out of context&#x27;Contextomy&#x27; refers to the selective excerpting of words from their origin...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-1-dark.svg" | relative_url }}" alt="Quote Mining illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In public [debate]({{ 'debate/' | relative_url }}), the practice matters because audiences often encounter only a short clip, headline, social-media post, or soundbite. When context disappears, the target of criticism may no longer be the argument that was actually made.
 
@@ -285,7 +284,6 @@ In public [debate]({{ 'debate/' | relative_url }}), the practice matters because
 The most important feature of quote mining is that it does not necessarily involve false words. Instead, it changes how those words are interpreted.
 
 Meaning can be altered in several ways:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -300,7 +298,6 @@ Meaning can be altered in several ways:
 The result is often a shift in perceived commitment. Readers believe the speaker endorsed a stronger or different claim than they actually did. Because the words themselves are genuine, the distortion can be harder to detect than a direct fabrication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/joc/article/55/2/330/4103017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">“Contextomy” refers to the excerpting of words from their original linguistic context in a way that distorts the source&#x27;s intentions. Con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227738790_Quoted_Out_of_Context_Contextomy_and_Its_Consequences" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Quoted Out of Context: Contextomy and Its Consequences“Contextomy” refers to the excerpting of words from their original linguistic conte...</span></span></span>
 
 This is why quote mining fits naturally within the broader family of straw man tactics. The opponent is not refuted as they are; they are refuted as they appear after selective editing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oTqITHKt_nU" title="What is the Straw Man Fallacy? - and how to handle it" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oTqITHKt_nU" target="_blank" rel="noopener noreferrer">What is the Straw Man Fallacy? - and how to handle it</a></p><p class="youtube-embed-meta">Channel: Darren F Magee &middot; Views: 38.7K &middot; Uploaded: August 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oTqITHKt_nU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oTqITHKt_nU">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +316,6 @@ Several features of modern communication amplify the problem:
 
 Because many people encounter only the shortened version, the correction often reaches fewer people than the original distortion.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-2-dark.svg" | relative_url }}" alt="Quote Mining illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Political and Media Uses of Clipped Quotations
 
@@ -332,7 +328,6 @@ Researchers examining contextomy have highlighted cases in which public figures'
 The practice is not limited to [politics]({{ 'politics/' | relative_url }}). Media scholars have documented similar techniques in [advertising]({{ 'advertising/' | relative_url }}), where negative reviews are sometimes trimmed into apparently positive endorsements. A review that is critical overall may be reduced to a few favourable words, creating an impression opposite to the reviewer’s actual judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Quoting_out_of_context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Quoting out of context</span><span class="citation-popover-snippet">Quoting out of context</span></span></span>
 
 In both cases, the mechanism is the same: accurate fragments are arranged to communicate an inaccurate overall message.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zXnAy15X420" title="STAR TREK Logical Thinking #75 - Quoting Out Of Context" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zXnAy15X420" target="_blank" rel="noopener noreferrer">STAR TREK Logical Thinking #75 - Quoting Out Of Context</a></p><p class="youtube-embed-meta">Channel: CHDanhauser &middot; Views: 7.2K &middot; Uploaded: March 2025 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zXnAy15X420" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zXnAy15X420">Open on YouTube</a></p></div></div></div>
 
@@ -350,7 +345,6 @@ Fair editingMisleading contextomyRemoves repetition or irrelevant materialRemove
 
 The difference lies less in the amount omitted than in the effect of the omission.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-3-dark.svg" | relative_url }}" alt="Quote Mining illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_straw_man_arguments_c08438_quote_mining_context_160e3e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Check the Surrounding Passage
 
@@ -367,7 +361,6 @@ When evaluating a disputed quotation, several questions help:
 Particular caution is warranted when a quotation appears surprisingly extreme, unusually convenient for the person citing it, or detached from any source material. Such cases often reward examination of the broader passage rather than the isolated sentence.
 
 Modern digital archives, transcript databases, and video recordings make this verification easier than in the past, but the responsibility still falls on readers, viewers, and participants in debate to look beyond the excerpt.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XvD_gg1fQXI" title="Straw Man Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XvD_gg1fQXI" target="_blank" rel="noopener noreferrer">Straw Man Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Communication Coach Alexander Lyon &middot; Views: 39.4K &middot; Uploaded: September 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XvD_gg1fQXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XvD_gg1fQXI">Open on YouTube</a></p></div></div></div>
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tradition/
 nav_short_title: Old Rules
 title: When Should Old Rules Stay?
-title_full: When Should Old Rules Stay? | Tradition
+title_full: When Should Old Rules Stay?
 display_title_short: Old Rules
 display_title: Old Rules
 heading_title: When Should Old Rules Stay?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:45:23'
-parent_title: Is Old the Same as Right? | Fallacy Lab
+parent_title: Is Old the Same as Right?
 parent_permalink: /tradition/
 parent_nav_short_title: Tradition
 parent_heading_title: Is Old the Same as Right?
@@ -270,14 +270,12 @@ image: /assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_cheste
 
 Chesterton’s Fence is often invoked in debates about [tradition]({{ 'tradition/' | relative_url }}), rules and institutional change, but it is frequently misunderstood. The principle does not say that old rules are correct because they are old. Instead, it warns that before removing a rule, custom or institution, we should first understand why it was created. The fence may protect against a problem that is no longer obvious. However, a different mistake emerges when this caution is transformed into an argument for permanent preservation. At that point, Chesterton’s Fence stops being a tool for inquiry and becomes a version of the appeal to tradition fallacy. A rule’s history may justify investigation, but its age alone cannot prove that it still serves the right purpose today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fs.blog/chestertons-fence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">Farnam StreetChesterton&#x27;s Fence: A Lesson in ThinkingIn its most concise version, Chesterton&#x27;s Fence states the following: “Do not remove...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-1-dark.svg" | relative_url }}" alt="Old Rules illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When Should Old Rules Stay?
 
 Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), Chesterton’s Fence sits at an interesting boundary. It is often presented as a defence of tradition, yet its original logic is closer to a defence of understanding. The principle asks reformers to identify the function of an existing rule before changing it. If they cannot explain what problem the rule was solving, they may be acting recklessly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fs.blog/chestertons-fence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">Farnam StreetChesterton&#x27;s Fence: A Lesson in ThinkingIn its most concise version, Chesterton&#x27;s Fence states the following: “Do not remove...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thoughtbot.com/blog/chestertons-fence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtbot.com">[2thoughtbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtbot.com</span><span class="citation-popover-title">chestertons fence</span><span class="citation-popover-snippet">Chesterton&#x27;s Fence: Understanding past decisions11 Jul 2024 — Chesterton&#x27;s Fence is a principle that says change should not be made until...</span></span></span>
 
 The crucial point is that understanding a rule's purpose and preserving the rule are separate decisions. Once the purpose is known, several conclusions remain possible:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -298,7 +296,6 @@ The warning rests on a governance insight: many rules are responses to past fail
 
 This is why the principle is often discussed in contexts such as public policy, software systems, organisational management and legal reform. Existing arrangements frequently contain hidden functions that are not obvious to newcomers. A process that appears wasteful may be preventing fraud. A bureaucratic review step may exist because earlier shortcuts repeatedly failed. A community norm may coordinate behaviour in ways that are difficult to see from the outside. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publish.obsidian.md/owlery/notes/decide/chesterton-fence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publish.obsidian.md">[Obsidian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publish.obsidian.md</span><span class="citation-popover-title">Chesterton&#x27;s Fence</span><span class="citation-popover-snippet">Chesterton&#x27;s Fence - Owlery1 Apr 2026 — Chesterton&#x27;s Fence is one of the most consistently violated principles in organisational...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thoughtbot.com/blog/chestertons-fence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtbot.com">[2thoughtbot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtbot.com</span><span class="citation-popover-title">chestertons fence</span><span class="citation-popover-snippet">Chesterton&#x27;s Fence: Understanding past decisions11 Jul 2024 — Chesterton&#x27;s Fence is a principle that says change should not be made until...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qPGbl2gxGqI" title="Chesterton Fence: Don’t Destroy What You Don’t Understand!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qPGbl2gxGqI" target="_blank" rel="noopener noreferrer">Chesterton Fence: Don’t Destroy What You Don’t Understand!</a></p><p class="youtube-embed-meta">Channel: Sprouts &middot; Views: 719.5K &middot; Uploaded: June 2023 &middot; Length: 4 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qPGbl2gxGqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qPGbl2gxGqI">Open on YouTube</a></p></div></div></div>
 
 ## How Inquiry Turns into Blind Preservation
@@ -317,7 +314,6 @@ The first question seeks evidence. The second treats survival itself as evidence
 
 Critics of the principle have repeatedly noted this misuse. Chesterton’s Fence functions best as a heuristic—a practical rule of thumb—not as an iron law against reform. If every unknown rule were preserved indefinitely, societies would struggle to correct outdated policies or adapt to changing circumstances. Even supporters of the principle emphasise that understanding the fence may ultimately reveal good reasons to remove it. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://sketchplanations.com/chestertons-fence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sketchplanations.com">[sketchplanations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sketchplanations.com</span><span class="citation-popover-title">chestertons fence</span><span class="citation-popover-snippet">Chesterton&#x27;s fence3 Apr 2022 — Chesterton&#x27;s fence put simply is: Don&#x27;t take a fence down unless you know why it was put u...</span></span></span> This distinction helps separate prudent caution from the appeal to tradition fallacy. Prudence says, “Investigate before changing.” The fallacy says, “Keep it because it is old.”
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-2-dark.svg" | relative_url }}" alt="Old Rules illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Governance Problem: Solutions Outliving Their Problems
 
@@ -333,7 +329,6 @@ Chesterton’s Fence encourages the first question. Avoiding appeal to tradition
 
 A useful way to apply the principle without falling into blind preservation is to separate historical understanding from present justification.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LYdXruXmlng" title="Why Superstition is Smarter Than Science - Chesterton’s Fence Explained - Future IQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LYdXruXmlng" target="_blank" rel="noopener noreferrer">Why Superstition is Smarter Than Science - Chesterton’s Fence Explained - Future IQ</a></p><p class="youtube-embed-meta">Channel: Future IQ &middot; Views: 15.0K &middot; Uploaded: May 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LYdXruXmlng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LYdXruXmlng">Open on YouTube</a></p></div></div></div>
 
 ### What problem was the rule intended to solve?
@@ -347,7 +342,6 @@ A rule that addressed a genuine concern in one era may be irrelevant in another.
 ### Does the rule still solve the problem effectively?
 
 Even when the underlying problem remains, the inherited solution may no longer be the best one. New approaches may achieve the same goal with fewer costs or side effects.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-3-dark.svg" | relative_url }}" alt="Old Rules illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_tradition_3c0a72_chestertons_fence_ol_f9dc8c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What happens if the rule disappears?
@@ -364,9 +358,7 @@ Chesterton’s Fence is often mistaken for an argument that old rules deserve ob
 
 The fence may stay. It may move. It may be removed entirely. Chesterton’s insight is that the decision should come after understanding the reason for the fence, not before. The mistake of preserving old rules is assuming that history itself settles the question. It does not. History tells us why the fence was built; evidence and present circumstances determine whether it should remain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fs.blog/chestertons-fence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.blog">[Farnam Street]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.blog</span><span class="citation-popover-snippet">Farnam StreetChesterton&#x27;s Fence: A Lesson in ThinkingIn its most concise version, Chesterton&#x27;s Fence states the following: “Do not remove...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sketchplanations.com/chestertons-fence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sketchplanations.com">[Sketchplanations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sketchplanations.com</span><span class="citation-popover-title">chestertons fence</span><span class="citation-popover-snippet">Chesterton&#x27;s fence3 Apr 2022 — Chesterton&#x27;s fence put simply is: Don&#x27;t take a fence down unless you know why it was put u...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sw5ngwmUP6Q" title="Chesterton&#x27;s Fence: Use This to Make Fewer Bad Decisions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sw5ngwmUP6Q" target="_blank" rel="noopener noreferrer">Chesterton&#x27;s Fence: Use This to Make Fewer Bad Decisions</a></p><p class="youtube-embed-meta">Channel: Farnam Street &middot; Views: 12.8K &middot; Uploaded: May 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sw5ngwmUP6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sw5ngwmUP6Q">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

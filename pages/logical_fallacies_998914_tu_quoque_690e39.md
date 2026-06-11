@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Tu Quoque
 title: Does Hypocrisy Refute the Claim?
-title_full: Does Hypocrisy Refute the Claim? | Fallacy Lab
+title_full: Does Hypocrisy Refute the Claim?
 display_title_short: Tu Quoque
 display_title: Tu Quoque
 heading_title: Does Hypocrisy Refute the Claim?
@@ -503,14 +503,12 @@ image: /assets/images/logical_fallacies_998914_tu_quoque_690e39-overview-social.
 
 Tu quoque is the “you too” reply: instead of answering a claim, it points to the speaker’s inconsistency, hypocrisy or similar wrongdoing. It becomes fallacious when the reply treats hypocrisy as if it automatically disproves the claim. A doctor who smokes can still be right that smoking damages health; a parent who overspends can still give sound advice about saving money. The weakness lies in moving from “you do not live by this standard” to “therefore the standard is false”.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-overview.webp" | relative_url }}" alt="Overview image for Tu Quoque" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean hypocrisy is never relevant. Inconsistency can matter when the issue is credibility, sincerity, authority, [double standards]({{ 'double-standards/' | relative_url }}), [feasibility]({{ 'feasibility/' | relative_url }}) or whether a rule is being applied fairly. The practical skill is to separate two questions: **does the conduct expose a problem with the speaker?** and **does it actually answer the claim?** Standard logic references treat tu quoque as a form of ad hominem because it shifts attention from the argument to the arguer, but recent informal-logic work stresses that some hypocrisy replies can be indirectly relevant when they provide evidence about authority, competence or practicability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy</span><span class="citation-popover-snippet">Fallacies (Stanford Encyclopedia of Philosophy)...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Why “You Do It Too” Does Not Settle the Claim
 
 The basic tu quoque pattern is simple:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -525,7 +523,6 @@ The error is not in noticing inconsistency. The error is in treating inconsisten
 This distinction is easiest to see in health advice. “You smoke, so your warning about smoking is worthless” is a poor reply if the warning rests on medical evidence. The speaker’s conduct may make them a bad role model, but it does not make nicotine non-addictive or lung disease imaginary. Stanford’s fallacies entry uses the same kind of example: rejecting advice to exercise merely because the adviser does not exercise is a tu quoque mistake, because the value of advice is not wholly dependent on the adviser’s personal integrity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy</span><span class="citation-popover-snippet">Fallacies (Stanford Encyclopedia of Philosophy)...</span></span></span> Encyclopedia of Philosophy
 
 The same mechanism appears in public arguments. A politician who has wasted money may still correctly identify waste in another department. A newspaper that has made errors may still publish accurate evidence about someone else’s error. A climate advocate who flies may still cite valid climate science. In each case, hypocrisy may affect trust, seriousness or moral standing, but it does not by itself refute the factual or practical claim being made.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-Illustration-1-dark.svg" | relative_url }}" alt="Tu Quoque illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Inconsistency as Evidence, Not Refutation
@@ -544,7 +541,6 @@ It may be legitimate to argue:
 
 That second form still needs care. A person might fail to live up to a good standard because of weakness, addiction, poverty, institutional constraints or transition costs. Their failure may show that the standard is hard, not that it is wrong. The inconsistency becomes stronger evidence only when the speaker’s conduct is closely connected to the claim being made and when alternative explanations have been considered.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/36-Xv16NZ_c" title="Tu quoque: You Too?!? - Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=36-Xv16NZ_c" target="_blank" rel="noopener noreferrer">Tu quoque: You Too?!? - Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 9.2K &middot; Uploaded: September 2020 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=36-Xv16NZ_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=36-Xv16NZ_c">Open on YouTube</a></p></div></div></div>
 
 ## Irrelevant Deflection and the Red-Herring Risk
@@ -562,7 +558,6 @@ The second statement might be true and worth investigating. But unless it bears 
 
 A good test is to ask: **If the hypocrisy accusation is true, what follows?** If the answer is only “the speaker looks bad”, the original claim remains standing. If the answer is “the standard is being applied selectively”, “the source may be unreliable”, or “the proposed rule may be impracticable under the very conditions the speaker faces”, then the conduct may matter.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-Illustration-2-dark.svg" | relative_url }}" alt="Tu Quoque illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Conduct Matters
 
@@ -578,7 +573,6 @@ Hypocrisy replies are not always fallacious. They are risky because they are oft
 
 Even in these stronger cases, the hypocrisy reply should not be the whole argument. It should open a line of inquiry: What exactly is inconsistent? Is the inconsistency relevant to the claim? Does it show falsity, unreliability, unfairness, impracticability or merely personal failure?
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoSPTrQLHQo" title="Tu Quoque Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoSPTrQLHQo" target="_blank" rel="noopener noreferrer">Tu Quoque Explained with &quot;The Simpsons&quot; | Logical Fallacies in TV Shows</a></p><p class="youtube-embed-meta">Channel: PsychOut &middot; Views: 3.0K &middot; Uploaded: June 2024 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoSPTrQLHQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoSPTrQLHQo">Open on YouTube</a></p></div></div></div>
 
 ## How to Answer a Hypocrisy Reply Without Dodging It
@@ -593,7 +587,6 @@ This response does three things. It acknowledges the conduct, avoids the appeara
 
 For readers assessing someone else’s argument, a compact set of questions helps:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **What is the original claim?** A factual claim, a moral judgement, a rule, a recommendation or a credibility claim?
@@ -606,7 +599,6 @@ For readers assessing someone else’s argument, a compact set of questions help
 
 This is the practical heart of the fallacy. Tu quoque replies feel powerful because hypocrisy is socially and morally salient. But logic requires a second step: showing why that hypocrisy changes the status of the claim.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-Illustration-3-dark.svg" | relative_url }}" alt="Tu Quoque illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Takeaway: Hypocrisy Can Expose, but It Cannot Replace Reasoning
 
@@ -614,9 +606,7 @@ Tu quoque is best understood as a relevance failure with an important exception.
 
 That difference matters in everyday disagreement. Without it, fallacy-spotting becomes a way to excuse hypocrisy: “You cannot mention my conduct because that is ad hominem.” But the opposite mistake is just as common: using hypocrisy to avoid answering a true criticism. The disciplined middle position is sharper and fairer. Ask what the conduct proves, how it connects to the claim, and whether the original reasons still stand once the speaker’s inconsistency is admitted.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tg-NFbRy0dw" title="Fallacies in the Workplace: Ad Hominem &amp; Tu Quoque Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tg-NFbRy0dw" target="_blank" rel="noopener noreferrer">Fallacies in the Workplace: Ad Hominem &amp; Tu Quoque Fallacies</a></p><p class="youtube-embed-meta">Channel: From the HR Desk &middot; Views: 488 &middot; Uploaded: August 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tg-NFbRy0dw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tg-NFbRy0dw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -1160,4 +1150,4 @@ That difference matters in everyday disagreement. Without it, fallacy-spotting b
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/perkinsfirm_lets-discuss-tu-quoque-which-is-a-type-activity-7323770524050849792-BYOV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/perkinsfirm_lets-discuss-tu-quoque-which-is-a-type-activity-7323770524050849792-BYOV</a>  
+   Link: <a href="https://www.linkedin.com/posts/perkinsfirm_lets-discuss-tu-quoque-which-is-a-type-activity-7323770524050849792-BYOV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/perkinsfirm_lets-discuss-tu-quoque-which-is-a-type-activity-7323770524050849792-BYOV</a>

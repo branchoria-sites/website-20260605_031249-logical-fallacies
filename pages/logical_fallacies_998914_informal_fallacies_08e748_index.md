@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-informal/
 description: Focused pages that expand on Informal Logic.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_informal_fallacies_08e748
-parent_title: Informal Logic | Logical Fallacies
+parent_title: Informal Logic
 parent_nav_short_title: Informal Logic
 parent_permalink: /informal-logic/
 ---

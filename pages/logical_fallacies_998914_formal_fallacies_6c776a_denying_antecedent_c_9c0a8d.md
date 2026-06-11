@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /formal-logic/
 nav_short_title: Other Causes
 title: The Fallacy That Rules Out Too Much
-title_full: The Fallacy That Rules Out Too Much | Formal Logic
+title_full: The Fallacy That Rules Out Too Much
 display_title_short: Other Causes
 display_title: Other Causes
 heading_title: The Fallacy That Rules Out Too Much
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:23:30'
-parent_title: When the Structure Makes Reasoning Fail | Fallacy Lab
+parent_title: When the Structure Makes Reasoning Fail
 parent_permalink: /formal-logic/
 parent_nav_short_title: Formal Logic
 parent_heading_title: When the Structure Makes Reasoning Fail
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_a
 
 Denying the antecedent is a formal fallacy that occurs when someone assumes that because one condition is absent, the outcome must also be absent. Its basic form is simple:
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-1-dark.svg" | relative_url }}" alt="Other Causes illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 *If P, then Q.*
 
@@ -328,7 +327,6 @@ In many real-world discussions, the hidden assumption of exclusivity is what mak
 
 The easiest way to spot the fallacy is to ask whether the outcome could arise through another cause.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h83bzYAfgrM" title="Contrapositive of a Conditional Statement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h83bzYAfgrM" target="_blank" rel="noopener noreferrer">Contrapositive of a Conditional Statement</a></p><p class="youtube-embed-meta">Channel: Dr. Trefor Bazett &middot; Views: 115.2K &middot; Uploaded: May 2017 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h83bzYAfgrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h83bzYAfgrM">Open on YouTube</a></p></div></div></div>
 
 ### Server outages
@@ -369,7 +367,6 @@ Medical diagnosis provides another common setting.
 
 The conclusion is obviously unsafe because fever has many possible causes. Sound diagnostic reasoning requires considering alternative explanations rather than eliminating a symptom simply because one suspected cause has been ruled out.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-2-dark.svg" | relative_url }}" alt="Other Causes illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Workplace decisions
 
@@ -391,9 +388,7 @@ Formally, the fallacy concerns conditional logic. Operationally, it is often a f
 
 The reasoning process typically unfolds like this:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NTSZMdGlo4g" title="Logical Arguments - Modus Ponens &amp; Modus Tollens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NTSZMdGlo4g" target="_blank" rel="noopener noreferrer">Logical Arguments - Modus Ponens &amp; Modus Tollens</a></p><p class="youtube-embed-meta">Channel: Dr. Trefor Bazett &middot; Views: 474.6K &middot; Uploaded: May 2017 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NTSZMdGlo4g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NTSZMdGlo4g">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -422,7 +417,7 @@ Valid reasoning:
 
 *Therefore, not P.*
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[Example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">denying the antecedent</span><span class="citation-popover-snippet">Examples &amp; Definition22 Jul 2024 — Denying the antecedent is the fallacy of assuming that if the initial condition (P) is not met, the ex...</span></span></span>
+Example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://quillbot.com/blog/reasoning/denying-the-antecedent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quillbot.com">[quillbot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quillbot.com</span><span class="citation-popover-title">denying the antecedent</span><span class="citation-popover-snippet">Examples &amp; Definition22 Jul 2024 — Denying the antecedent is the fallacy of assuming that if the initial condition (P) is not met, the ex...</span></span></span>
 
 *If the server is online, users can reach the website.*
 
@@ -444,12 +439,10 @@ This second argument may or may not be true in practice, but the conclusion is n
 
 The difference seems small, yet it separates deductively valid reasoning from an invalid inference.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-3-dark.svg" | relative_url }}" alt="Other Causes illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_denying_antecedent_c_9c0a8d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Checklist for Spotting Premature Dismissal
 
 When evaluating an argument, the following questions help expose denying the antecedent and related “missing other causes” errors:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -466,7 +459,6 @@ A practical shortcut is to ask:
 **“What else could cause the same result?”**
 
 If reasonable alternatives exist and have not been ruled out, the argument is probably excluding too much.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M1dtvvIRnHM" title="Denying the Antecedent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M1dtvvIRnHM" target="_blank" rel="noopener noreferrer">Denying the Antecedent</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 8.1K &middot; Uploaded: February 2014 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M1dtvvIRnHM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M1dtvvIRnHM">Open on YouTube</a></p></div></div></div>
 
@@ -869,6 +861,7 @@ The safest corrective is to remember that an “if–then” statement usually i
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

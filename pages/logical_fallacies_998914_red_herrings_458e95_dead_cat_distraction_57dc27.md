@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /red-herring/
 nav_short_title: Dead Cat
 title: Why Shocking Distractions Work
-title_full: Why Shocking Distractions Work | Red Herring
+title_full: Why Shocking Distractions Work
 display_title_short: Dead Cat
 display_title: Dead Cat
 heading_title: Why Shocking Distractions Work
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 16:04:27'
-parent_title: Is This Point Actually Relevant? | Fallacy Lab
+parent_title: Is This Point Actually Relevant?
 parent_permalink: /red-herring/
 parent_nav_short_title: Red Herring
 parent_heading_title: Is This Point Actually Relevant?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_dist
 
 A “dead cat” distraction is a specialised form of [red herring]({{ 'red-herring/' | relative_url }}) used in political [debate]({{ 'debate/' | relative_url }}). The tactic aims to shift public and media attention away from a damaging issue by introducing something so shocking, provocative, or emotionally charged that everyone starts talking about the new topic instead. Even when observers recognise that the new issue does not answer the original criticism, attention often moves anyway. The success of the tactic depends less on persuasion than on agenda control: if journalists, opponents, and voters spend their time discussing the “dead cat”, they spend less time examining the problem that created political trouble in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-1-dark.svg" | relative_url }}" alt="Dead Cat illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader family of red herrings and argument diversions, the dead cat tactic is distinctive because it is designed for a media environment where attention is scarce and controversy spreads rapidly. It is not merely changing the subject; it is changing the subject with something dramatic enough to dominate the conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span>
 
@@ -285,7 +284,6 @@ Within the broader family of red herrings and argument diversions, the dead cat 
 The phrase “throwing a dead cat on the table” entered political discussion through an explanation popularly associated with political strategist Lynton Crosby and later described publicly by Boris Johnson. The metaphor is simple. If a discussion is going badly because the facts are against you, introduce something startling enough that everyone begins discussing the new development rather than the original problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span>
 
 The tactic serves three related purposes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,6 @@ Importantly, a dead cat does not have to prove anything or resolve any criticism
 
 This feature distinguishes dead cat distractions from ordinary rebuttals. A rebuttal attempts to answer a criticism. A dead cat attempts to make the criticism less visible.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/saHOew-5tCU" title="Andrew has imperilled the monarchy – can William and Kate save it? | The Daily T" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=saHOew-5tCU" target="_blank" rel="noopener noreferrer">Andrew has imperilled the monarchy – can William and Kate save it? | The Daily T</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 171.9K &middot; Uploaded: February 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=saHOew-5tCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=saHOew-5tCU">Open on YouTube</a></p></div></div></div>
 
 ## How media attention rewards dramatic diversions
@@ -309,7 +306,6 @@ The effectiveness of dead cat tactics depends heavily on modern media incentives
 Political communication scholars frequently note that media systems reward [novelty]({{ 'novelty/' | relative_url }}), conflict, and emotional intensity. A technical discussion about budget overruns, procurement failures, or regulatory decisions may struggle to compete with a sensational allegation or provocative remark. The result is that the diversion can become the headline while the unanswered question becomes a secondary story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span>
 
 The mechanism works through several stages:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -323,7 +319,6 @@ The mechanism works through several stages:
 
 Notice that none of these steps requires the audience to be fooled. People may openly recognise the manoeuvre and still spend days discussing it. In that sense, dead cat tactics exploit attention rather than belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prospectmagazine.co.uk/politics/39522/dear-journalists-please-stop-calling-everything-a-dead-cat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prospectmagazine.co.uk">[Prospect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prospectmagazine.co.uk</span><span class="citation-popover-snippet">ProspectDear journalists: please stop calling everything a &quot;dead cat&quot;Nov 19, 2019 — It&#x27;s comforting to imagine political blunders are act...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-2-dark.svg" | relative_url }}" alt="Dead Cat illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical examples and recurring patterns
 
@@ -332,7 +327,6 @@ The term became especially prominent in British political commentary during deba
 Observers have also applied the concept beyond Britain. Political commentators have used it to interpret dramatic interventions in Australian and American [politics]({{ 'politics/' | relative_url }}), particularly when unexpected statements seemed to redirect coverage from ongoing controversies. The label has become common enough that journalists sometimes debate whether a particular controversy is genuinely strategic or merely a political mistake that attracted attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news.com.au/national/politics/dead-cat-strategy-truth-behind-pms-4m-copacabana-bombshell-amid-major-tax-changes/news-story/f35bb142f04ebcd4009930ad09aedb14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.com.au">[News.com.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.com.au</span><span class="citation-popover-snippet">Dead cat strategy: Truth behind PM&#x27;s $4m Copacabana...4 days ago — Former UK Prime Minister Boris Johnson called it the dead cat strategy...</span></span></span>
 
 That debate matters because not every shocking event is a dead cat. Sometimes politicians make errors, speak impulsively, or create controversies unintentionally. A key question is whether the new issue functions primarily as a diversion from a specific damaging topic. Critics have warned that journalists can overuse the label by treating every unusual political event as evidence of sophisticated strategic planning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prospectmagazine.co.uk/politics/39522/dear-journalists-please-stop-calling-everything-a-dead-cat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prospectmagazine.co.uk">[Prospect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prospectmagazine.co.uk</span><span class="citation-popover-snippet">ProspectDear journalists: please stop calling everything a &quot;dead cat&quot;Nov 19, 2019 — It&#x27;s comforting to imagine political blunders are act...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JsZnbl2INFE" title="Keir Starmer is &quot;An Absolute Flop&quot; | Leadership Crisis &amp; The Digital ID Distraction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JsZnbl2INFE" target="_blank" rel="noopener noreferrer">Keir Starmer is &quot;An Absolute Flop&quot; | Leadership Crisis &amp; The Digital ID Distraction</a></p><p class="youtube-embed-meta">Channel: TalkTV &middot; Views: 3.7K &middot; Uploaded: September 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JsZnbl2INFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JsZnbl2INFE">Open on YouTube</a></p></div></div></div>
 
@@ -346,7 +340,6 @@ Second, journalists may explicitly identify the manoeuvre. Once reporters begin 
 
 Third, repeated use reduces effectiveness. If political actors constantly rely on dramatic diversions, audiences may become more sceptical and less willing to abandon the original topic. What once looked surprising can become predictable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://influenceonline.co.uk/2021/12/14/when-is-a-dead-cat-not-a-dead-cat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: influenceonline.co.uk">[influenceonline.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">influenceonline.co.uk</span><span class="citation-popover-title">when is a dead cat not a dead cat</span><span class="citation-popover-snippet">But some distractions are more effective than others.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cpysvQ5Ix_E" title="Trump in Iran: &#x27;A dead cat strategy of nuclear proportions&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cpysvQ5Ix_E" target="_blank" rel="noopener noreferrer">Trump in Iran: &#x27;A dead cat strategy of nuclear proportions&#x27;</a></p><p class="youtube-embed-meta">Channel: LBC &middot; Views: 74.7K &middot; Uploaded: January 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cpysvQ5Ix_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cpysvQ5Ix_E">Open on YouTube</a></p></div></div></div>
 
 ## How to return to the unanswered issue
@@ -354,7 +347,6 @@ Third, repeated use reduces effectiveness. If political actors constantly rely o
 The most effective response is usually not to ignore the shocking diversion entirely. If the new topic genuinely matters, it deserves discussion. The challenge is preventing it from replacing the original question.
 
 Several techniques help:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -367,7 +359,6 @@ Several techniques help:
 </div>
 
 For analysts, journalists, and citizens, the central question is not whether the dead cat is interesting. It often is. The critical question is whether the attention-grabbing development has actually resolved the issue that prompted scrutiny in the first place. If it has not, then the diversion may be functioning as a classic red herring: a dramatic side path that leaves the original argument untouched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Dead_cat_strategy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Dead cat strategy</span><span class="citation-popover-snippet">Dead cat strategy</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mickord.com/public-relations-the-dead-cat-strategy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mickord.com">[Mick Ord]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mickord.com</span><span class="citation-popover-title">public relations the dead cat strategy</span><span class="citation-popover-snippet">Mick Ord &#124; Mick OrdPublic Relations – The Dead Cat Strategy9 Dec 2021 — The Dead Cat Strategy – or &#x27;Dead Catting – is the introduction of...</span></span></span> | Mick Ord
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-3-dark.svg" | relative_url }}" alt="Dead Cat illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_dead_cat_distraction_57dc27-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

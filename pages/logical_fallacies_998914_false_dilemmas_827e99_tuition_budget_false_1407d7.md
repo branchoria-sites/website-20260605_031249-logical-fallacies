@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /false-dilemma/
 nav_short_title: Budget Debates
 title: Is It Really Pay More or Collapse?
-title_full: Is It Really Pay More or Collapse? | False Dilemma
+title_full: Is It Really Pay More or Collapse?
 display_title_short: Budget Debates
 display_title: Budget Debates
 heading_title: Is It Really Pay More or Collapse?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 12:13:12'
-parent_title: What Choices Are Being Hidden? | Fallacy Lab
+parent_title: What Choices Are Being Hidden?
 parent_permalink: /false-dilemma/
 parent_nav_short_title: False Dilemma
 parent_heading_title: What Choices Are Being Hidden?
@@ -270,12 +270,10 @@ image: /assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_bud
 
 Arguments about university tuition and institutional budgets often arrive in a dramatic form: either tuition rises or the institution faces severe decline, programme closures, or even collapse. This framing can contain a genuine financial concern, but it frequently illustrates a [false dilemma]({{ 'false-dilemma/' | relative_url }}). The debate is presented as though only [two options]({{ 'two-options/' | relative_url }}) exist when, in reality, budget decisions usually involve multiple implementation choices about spending priorities, reserves, borrowing, efficiency measures, staffing plans, enrolment strategies, government funding, and the timing of changes. The key question is not whether financial pressures are real. It is whether the proposed “pay more or collapse” framing accurately reflects the range of available responses. Evidence from higher education finance shows that institutions facing revenue pressure often have several possible adjustment mechanisms rather than a single unavoidable path. House of Commons Library <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/publications/higher-education-finances-how-have-they-fared-and-what-options-will-incoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-snippet">Institute for Fiscal StudiesHigher education finances: how have they fared, and what...by K Ogden · Cited by 13 — The next government fa...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-1-dark.svg" | relative_url }}" alt="Budget Debates illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Is It Really Pay More or Collapse?
 
 The false dilemma appears when a speaker compresses a complex financial situation into a binary choice:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,7 +288,6 @@ Such claims can be persuasive because universities and colleges do face genuine 
 Yet acknowledging financial pressure is different from accepting that only one response exists. A budget shortfall does not automatically dictate a specific solution. The reasoning becomes fallacious when the conclusion assumes that every other implementation option has already been exhausted or shown to be impossible.
 
 A useful test is to ask whether the argument has demonstrated that alternative measures are unavailable, inadequate, or more harmful than the proposed tuition increase. If that demonstration is missing, the audience may be looking at a false dilemma rather than a genuine necessity.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hj94TPi8SIw" title="State Cuts to Public Funding of Higher Education Responsible For Increases In Tuition Costs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hj94TPi8SIw" target="_blank" rel="noopener noreferrer">State Cuts to Public Funding of Higher Education Responsible For Increases In Tuition Costs</a></p><p class="youtube-embed-meta">Channel: The Real News Network &middot; Views: 2.7K &middot; Uploaded: February 2014 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hj94TPi8SIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hj94TPi8SIw">Open on YouTube</a></p></div></div></div>
 
@@ -307,7 +304,6 @@ However, the actual budget process may involve numerous decisions about expendit
 Research on higher education finance repeatedly shows that institutions respond to funding pressures through combinations of strategies rather than a single mechanism. Universities may reduce expenditures, seek new revenue sources, alter enrolment mixes, restructure operations, or combine several approaches simultaneously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bipartisanpolicy.org/explainer/state-funding-and-college-costs-reviewing-the-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bipartisanpolicy.org">[Bipartisan Policy Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bipartisanpolicy.org</span><span class="citation-popover-title">state funding and college costs reviewing the evidence</span><span class="citation-popover-snippet">Bipartisan Policy CenterState Funding and College Costs: Reviewing the Evidence16 Dec 2024 — When confronted with reduced state funding...</span></span></span>
 
 The existence of these alternatives does not prove that tuition increases are unnecessary. It demonstrates only that the [debate]({{ 'debate/' | relative_url }}) should compare competing responses rather than assume one response is inevitable.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HC5IVp9e_tM" title="Higher (Preview)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HC5IVp9e_tM" target="_blank" rel="noopener noreferrer">Higher (Preview)</a></p><p class="youtube-embed-meta">Channel: Tom Grennan - Topic &middot; Views: 11.0K &middot; Uploaded: August 2024 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HC5IVp9e_tM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HC5IVp9e_tM">Open on YouTube</a></p></div></div></div>
 
@@ -335,7 +331,6 @@ Organisations frequently maintain reserves to absorb shocks and uncertainty. Whe
 
 A university may reasonably argue that reserves cannot permanently solve a structural deficit. Nevertheless, the existence of reserves can create additional options such as gradual transitions, targeted investments, or delayed increases. The presence of these possibilities weakens claims that only an immediate tuition rise can prevent institutional failure.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-2-dark.svg" | relative_url }}" alt="Budget Debates illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Revenue Diversification
 
@@ -353,7 +348,6 @@ Imagine a claim:
 
 This statement appears to compare only two outcomes. Yet it may actually bundle together many assumptions:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Existing spending priorities remain unchanged.
@@ -369,7 +363,6 @@ If any of those assumptions can be reconsidered, the apparent dilemma becomes a 
 
 The debate then shifts from “tuition increase versus collapse” to questions such as:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Which combination of measures is least harmful?
@@ -381,7 +374,6 @@ The debate then shifts from “tuition increase versus collapse” to questions 
 </div>
 
 Those questions are harder to communicate in a slogan, but they are usually closer to the real decision being made.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ozilbL1jD7g" title="False Dilemma Fallacy: Lesson and Activity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ozilbL1jD7g" target="_blank" rel="noopener noreferrer">False Dilemma Fallacy: Lesson and Activity</a></p><p class="youtube-embed-meta">Channel: TolentinoTeaching (Resources for English Teachers) &middot; Views: 14.2K &middot; Uploaded: July 2021 &middot; Length: 3 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ozilbL1jD7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ozilbL1jD7g">Open on YouTube</a></p></div></div></div>
 
@@ -399,7 +391,6 @@ The question is not whether a tuition increase can ever be justified. The questi
 
 When encountering claims that students must pay more or institutions will fail, several questions help reveal whether a false dilemma is at work:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * What alternative cost-saving measures were evaluated?
@@ -414,7 +405,6 @@ When encountering claims that students must pay more or institutions will fail, 
 These questions do not automatically refute the proposal. They expand the choice set.
 
 That expansion is the central lesson of false dilemmas in tuition and budget debates. Financial realities may be unavoidable, but the route through them is rarely a single dramatic choice between paying more and collapse. Most budget decisions involve a series of implementation choices, and recognising those hidden choices is often the difference between accepting a forced narrative and evaluating the full range of policy options.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-3-dark.svg" | relative_url }}" alt="Budget Debates illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_tuition_budget_false_1407d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

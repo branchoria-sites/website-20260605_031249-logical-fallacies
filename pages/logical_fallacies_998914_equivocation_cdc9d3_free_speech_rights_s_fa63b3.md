@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /equivocation/
 nav_short_title: Free Speech
 title: When Does Free Speech Become a Word Game?
-title_full: When Does Free Speech Become a Word Game? | Equivocation
+title_full: When Does Free Speech Become a Word Game?
 display_title_short: Free Speech
 display_title: Free Speech
 heading_title: When Does Free Speech Become a Word Game?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 01:49:41'
-parent_title: Did the Key Word Change Meaning? | Fallacy Lab
+parent_title: Did the Key Word Change Meaning?
 parent_permalink: /equivocation/
 parent_nav_short_title: Equivocation
 parent_heading_title: Did the Key Word Change Meaning?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_r
 
 Arguments about free speech often become examples of equivocation because the word *right* quietly changes meaning during the discussion. A person may begin by talking about a legal right against government censorship, then shift to a moral entitlement to be heard, then to a social expectation of acceptance, and finally to a claim of immunity from criticism. When these different meanings are treated as interchangeable, the argument can sound persuasive even though the conclusion no longer follows.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-1-dark.svg" | relative_url }}" alt="Free Speech illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because public debates about controversial speech frequently depend on rights language. Free speech is a genuine legal and political principle, but disagreements often arise when participants use the same words to make different kinds of claims. Philosophers and legal scholars regularly distinguish the law of free speech from the morality of speech and from broader social questions about how people should respond to expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</span></span></span>
 
@@ -285,7 +284,6 @@ This matters because public debates about controversial speech frequently depend
 The core equivocation occurs when an argument starts with one meaning of “free speech” and ends with another.
 
 Consider this pattern:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -319,13 +317,11 @@ A newspaper columnist may have a legal right to publish an opinion while still f
 
 The fallacy appears when criticism is automatically reclassified as censorship. Genuine censorship usually involves the suppression of speech through coercive power. Mere disagreement, ridicule, rebuttal, or refusal to endorse a message is something different. The distinction is widely recognised in legal discussions of free expression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ala.org/advocacy/intfreedom/censorship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ala.org">[American Library Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ala.org</span><span class="citation-popover-snippet">The First Amendment only prevents government restrictions on speech. It does not...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UVXHJSu2W3U" title="Is the First Amendment the greatest right of all? - Clive Stafford Smith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UVXHJSu2W3U" target="_blank" rel="noopener noreferrer">Is the First Amendment the greatest right of all? - Clive Stafford Smith</a></p><p class="youtube-embed-meta">Channel: Gresham College &middot; Views: 2.4K &middot; Uploaded: March 2025 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UVXHJSu2W3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UVXHJSu2W3U">Open on YouTube</a></p></div></div></div>
 
 ### Why the Confusion Persists
 
 The confusion persists because the same language of rights can describe several legitimate concerns at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,7 +344,6 @@ A speaker might say:
 
 That statement could mean:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The law protects the expression.
@@ -366,7 +361,6 @@ For example, human-rights organisations often describe freedom of expression as 
 Likewise, legal scholars frequently distinguish the morality of free speech from the law of free speech. Someone can support strong legal protections while still believing that certain speech is irresponsible, offensive, or harmful. The legal right and the moral evaluation remain separate questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/freedom-speech/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFreedom of Speech - Stanford Encyclopedia of Philosophyby JW Howard · 2024 · Cited by 37 — First, we c...</span></span></span>
 
 The equivocation occurs when a speaker treats success in one category as automatic success in all the others.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-2-dark.svg" | relative_url }}" alt="Free Speech illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Public Debates Where the Shift Often Appears
@@ -387,7 +381,6 @@ Modern debates about social-media moderation illustrate the problem. Questions a
 
 Similarly, discussions of cancel culture often blend legal rights with social sanctions. A person may lose reputation, invitations, customers, or professional opportunities because of speech without experiencing government censorship. Whether those consequences are fair is a separate [debate]({{ 'debate/' | relative_url }}) from whether free-speech rights have been legally violated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://athena.unibo.it/article/download/15655/16492/68792" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: athena.unibo.it">[athena.unibo.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">athena.unibo.it</span><span class="citation-popover-snippet">Is the Public Moral Instigation Against Inappropriate Free...July 5, 2023 — My aim in this article is to show that cancel culture is sel...</span><span class="citation-popover-meta">Published: July 5, 2023</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kCRjKMsLhtQ" title="Freedom of Speech: What the First Amendment Actually Protects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kCRjKMsLhtQ" target="_blank" rel="noopener noreferrer">Freedom of Speech: What the First Amendment Actually Protects</a></p><p class="youtube-embed-meta">Channel: Houston Public Media &middot; Views: 1.1K &middot; Uploaded: September 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kCRjKMsLhtQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kCRjKMsLhtQ">Open on YouTube</a></p></div></div></div>
 
 ## Questions That Separate Protection From Permission
@@ -406,7 +399,6 @@ Is the claim legal, moral, political, cultural, or institutional? Different answ
 
 Does the conclusion concern freedom from punishment, freedom from criticism, access to a platform, or entitlement to an audience? These are distinct claims and should be assessed separately.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-3-dark.svg" | relative_url }}" alt="Free Speech illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_equivocation_cdc9d3_free_speech_rights_s_fa63b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Would the argument still work if the meanings were made explicit?
 
@@ -424,9 +416,7 @@ Recognising the shift does not settle disputes about offensive speech, platform 
 
 When legal protection, moral entitlement, social permission, and immunity from criticism are kept distinct, many apparently intractable disputes become clearer. The word *right* stops doing hidden argumentative work, and the discussion can focus on the specific principle that is genuinely at stake.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oBfdCsAKK8s" title="Free Speech, Social Media &amp; AI with Professor Procaccini" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oBfdCsAKK8s" target="_blank" rel="noopener noreferrer">Free Speech, Social Media &amp; AI with Professor Procaccini</a></p><p class="youtube-embed-meta">Channel: Vanderbilt Law School &middot; Views: 179 &middot; Uploaded: March 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oBfdCsAKK8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oBfdCsAKK8s">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -545,15 +535,15 @@ When legal protection, moral entitlement, social permission, and immunity from c
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Contender Game of Presidential Debate Topic Cards Argument Moderator USA"><img src="https://i.ebayimg.com/images/g/znwAAOSwIOpnCK2z/s-l225.jpg" alt="Listing image for The Contender Game of Presidential Debate Topic Cards Argument Moderator USA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free-Speech Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hAIAAeSwoP9p1T3N/s-l225.jpg" alt="Listing image for Free-Speech Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">The Contender Game of Presidential Debate Topic Cards Argument Moderator USA</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">Free-Speech Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate game cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate game cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +551,15 @@ When legal protection, moral entitlement, social permission, and immunity from c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BAD OPINIONS - The Family Party Game of Hot Takes &amp; Sizzling Debates"><img src="https://i.ebayimg.com/images/g/BLAAAeSwSulo5ua5/s-l225.jpg" alt="Listing image for BAD OPINIONS - The Family Party Game of Hot Takes &amp; Sizzling Debates" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Keir Starmer&#x27;s Socialist Republic &quot;Free Speech&quot; Satire Poster A4/A3/A2/A1"><img src="https://i.ebayimg.com/images/g/kbgAAeSw4XVopdkg/s-l225.jpg" alt="Listing image for Keir Starmer&#x27;s Socialist Republic &quot;Free Speech&quot; Satire Poster A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">BAD OPINIONS - The Family Party Game of Hot Takes &amp; Sizzling Debates</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">Keir Starmer&#x27;s Socialist Republic &quot;Free Speech&quot; Satire Poster A4/A3/A2/A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate game cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate game cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,15 +567,15 @@ When legal protection, moral entitlement, social permission, and immunity from c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deep Dilemmas 200 Debate Cards Game New Condition"><img src="https://i.ebayimg.com/images/g/nBwAAeSwkxNqD2d6/s-l225.jpg" alt="Listing image for Deep Dilemmas 200 Debate Cards Game New Condition" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FREE SPEECH Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/teoAAeSw4ExpwYDL/s-l225.jpg" alt="Listing image for FREE SPEECH Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">Deep Dilemmas 200 Debate Cards Game New Condition</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">FREE SPEECH Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate game cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate game cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -593,15 +583,15 @@ When legal protection, moral entitlement, social permission, and immunity from c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bad Opinions: Card Game of Hot Takes and Sizzling Debates! VGC"><img src="https://i.ebayimg.com/images/g/sQ4AAeSwO6xpsqz-/s-l225.jpg" alt="Listing image for Bad Opinions: Card Game of Hot Takes and Sizzling Debates! VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100"><img src="https://i.ebayimg.com/images/g/clEAAOSw2aJjQik4/s-l225.jpg" alt="Listing image for FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">Bad Opinions: Card Game of Hot Takes and Sizzling Debates! VGC</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">FREE SPEECH MOVEMENT, U.C. BERKELEY, 40th ANNIVERSARY POSTER, SIGNED 1/100</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate game cards">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate game cards</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for free speech poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: free speech poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -609,7 +599,7 @@ When legal protection, moral entitlement, social permission, and immunity from c
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+game+cards&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-debate-game-cards&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate game cards" data-ebay-reference="when-does-free-speech-become-a-word-game-debate-game-cards" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=free+speech+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-free-speech-become-a-word-game-free-speech-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="free speech poster" data-ebay-reference="when-does-free-speech-become-a-word-game-free-speech-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -819,6 +809,7 @@ When legal protection, moral entitlement, social permission, and immunity from c
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Authority
 title: When Should You Trust an Expert?
-title_full: When Should You Trust an Expert? | Fallacy Lab
+title_full: When Should You Trust an Expert?
 display_title_short: Authority
 display_title: Authority
 heading_title: When Should You Trust an Expert?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_authority_908307-overvi
 
 When evaluating arguments, expert testimony can often seem persuasive—but relying on expert opinion raises its own reasoning hazards. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), **appeal to authority** refers to treating an authority’s statement as if it were proof of a claim, rather than supportive evidence (the *argumentum ad verecundiam* fallacy).⁤ What distinguishes a sound expert contribution from a fallacious appeal is not the presence of an expert per se, but *how* the expert’s view is used and whether it truly strengthens the argument beyond status alone. This page focuses tightly on those [boundaries]({{ 'boundaries/' | relative_url }}) and limits, clarifying when expert opinion is supportive and when it weakens an argument within the study of logical fallacies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Argument_from_authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from authority</span><span class="citation-popover-snippet">Argument from authority</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-overview.webp" | relative_url }}" alt="Overview image for Authority" loading="eager" decoding="sync" fetchpriority="high">
 ## When Expert Opinion Is Evidence — and When It Isn’t
 
@@ -521,7 +520,6 @@ Experts are not interchangeable: their authority depends on **[relevance]({{ 're
 
 Experts also vary in credibility due to biases, funding influences, and methodological disagreements, and these factors can diminish the weight their opinions carry in argumentation.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/%22https%3A/www.scribbr.com/fallacies/appeal-to-authority-fallacy/%22" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">Appeal to Authority Fallacy &#124; Definition &amp; Examples</span><span class="citation-popover-snippet">Appeal to Authority Fallacy &#124; Definition &amp; ExamplesJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-1-dark.svg" | relative_url }}" alt="Authority illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Misquoted Authorities and Bogus Expert Claims
 
@@ -533,7 +531,6 @@ A common source of fallacious appeals is **misusing or misquoting authorities**:
 
 In each case, the trouble is not that an authority was cited, but that the expert’s relevance, trustworthiness, or link to evidence is insufficiently established.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3PDrnZoM3nA" title="Fallacies: Appeal to Authority" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3PDrnZoM3nA" target="_blank" rel="noopener noreferrer">Fallacies: Appeal to Authority</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 51.8K &middot; Uploaded: January 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3PDrnZoM3nA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3PDrnZoM3nA">Open on YouTube</a></p></div></div></div>
 
 ## Why Expert Opinion Alone Is Weak Support
@@ -542,12 +539,10 @@ Philosophers of logic emphasise that arguments from expert opinion are **inducti
 
 From the standpoint of [formal logic]({{ 'formal-logic/' | relative_url }}), an appeal to authority is never a deductively valid proof—**even a genuine expert might be wrong**. The fallacy lies in substituting the expert’s status for actual justification, not in citing expertise per se.⁤ <span class="citation-link-wrap"><a class="citation-inline-link" href="https://critical-thinking.org.uk/appeal-to-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: critical-thinking.org.uk">[critical-thinking.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">critical-thinking.org.uk</span><span class="citation-popover-title">Appeal to Authority</span><span class="citation-popover-snippet">July 24, 2014...</span><span class="citation-popover-meta">Published: July 24, 2014</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-3-dark.svg" | relative_url }}" alt="Authority illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Beyond Credentials: Evidence and Consensus
 
 Good use of expert opinion in reasoning links authority to **actual evidence**:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -559,12 +554,10 @@ Good use of expert opinion in reasoning links authority to **actual evidence**:
 
 When these principles are followed, citing expertise becomes part of a substantive argument rather than a shortcut around evidence.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-2-dark.svg" | relative_url }}" alt="Authority illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Checklist for Evaluating Expert-Based Claims
 
 To assess whether an appeal to authority is fallacious or reasonable, ask:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -577,16 +570,13 @@ To assess whether an appeal to authority is fallacious or reasonable, ask:
 
 If the answer to these questions is yes, the argument may be sound; if not, you are likely dealing with a weak appeal to authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Appeal-to-Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious Appeal to Authority</span><span class="citation-popover-snippet">Logically FallaciousAppeal to Authority - Logically Fallacious...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ns305L-he40" title="Appeal to Authority (Misunderstood Fallacies)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ns305L-he40" target="_blank" rel="noopener noreferrer">Appeal to Authority (Misunderstood Fallacies)</a></p><p class="youtube-embed-meta">Channel: Thinking About Stuff &middot; Views: 13.2K &middot; Uploaded: December 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ns305L-he40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ns305L-he40">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
 Expert opinion plays an important role in everyday reasoning and decision-making. But in argumentative logic, **appeal to authority becomes fallacious when expertise is irrelevant, overstated, or used as a surrogate for evidence**. Recognising the limits of expert testimony—by checking relevance, corroboration, and supporting evidence—helps distinguish legitimate use of expertise from weak or fallacious argumentation within the broader study of logical fallacies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.co.uk/faqs/why-is-the-appeal-to-authority-fallacy-convincing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.co.uk">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.co.uk</span><span class="citation-popover-snippet">Appeal to authority fallacy is often convincing because of the effect authority figures have on us. When someone cites a famous person, a...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WsON5mGeVto" title="Appeal to Authority: When trusting experts becomes a logical fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer">Appeal to Authority: When trusting experts becomes a logical fallacy</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 6.1K &middot; Uploaded: January 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WsON5mGeVto">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

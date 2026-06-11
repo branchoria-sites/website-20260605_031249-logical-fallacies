@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /wet-pavement/
 nav_short_title: Truth Table
 title: The Truth Table That Breaks the Rain Claim
-title_full: The Truth Table That Breaks the Rain Claim | Wet Pavement
+title_full: The Truth Table That Breaks the Rain Claim
 display_title_short: Truth Table
 display_title: Truth Table
 heading_title: The Truth Table That Breaks the Rain Claim
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 14:55:40'
-parent_title: Why One Explanation Is Not Enough | Fallacy Lab
+parent_title: Why One Explanation Is Not Enough
 parent_permalink: /wet-pavement/
 parent_nav_short_title: Wet Pavement
 parent_heading_title: Why One Explanation Is Not Enough
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_p
 
 A truth table provides the clearest demonstration of why the [wet pavement]({{ 'wet-pavement/' | relative_url }}) version of affirming the consequent is invalid. The argument begins with a conditional statement—“If it rains, then the pavement is wet”—and then observes that the pavement is wet before concluding that it rained. Intuitively, that conclusion may seem reasonable. Logically, however, the conclusion does not follow. A truth table exposes the exact combination of truth values in which the premises are true while the conclusion is false, which is enough to prove that the argument form is invalid. Truth tables are designed precisely for this purpose: they reveal whether a pattern of reasoning works in every possible case or fails in at least one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Truth_table" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Truth table</span><span class="citation-popover-snippet">July 26, 2001 — A truth table is a mathematical table used in logic—specifically in connection with Boolean algebra, Boolean functions, a...</span><span class="citation-popover-meta">Published: July 26, 2001</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-1-dark.svg" | relative_url }}" alt="Truth Table illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Setting Up P as Rain and Q as Wet Pavement
 
@@ -279,7 +278,7 @@ Let:
 * **P** = “It rained.”
 * **Q** = “The pavement is wet.”
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Contraposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The conditional statement is:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ContrapositionThe law of contraposition says that a conditional statement is true if, and only if, its contrapositive is true.... if...</span></span></span>
+The conditional statement is: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Contraposition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ContrapositionThe law of contraposition says that a conditional statement is true if, and only if, its contrapositive is true.... if...</span></span></span>
 
 **If P, then Q** (P → Q)
 
@@ -290,7 +289,6 @@ The complete truth table is: <span class="citation-chip-wrap"><a class="citation
 P (Rain)Q (Wet Pavement)P → QTrueTrueTrueTrueFalseFalseFalseTrueTrueFalseFalseTrue
 
 The wet pavement argument has the form:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ON7yAw6W9VY" title="Analyzing an argument for validity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ON7yAw6W9VY" target="_blank" rel="noopener noreferrer">Analyzing an argument for validity</a></p><p class="youtube-embed-meta">Channel: Dr. Trefor Bazett &middot; Views: 146.3K &middot; Uploaded: May 2017 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ON7yAw6W9VY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ON7yAw6W9VY">Open on YouTube</a></p></div></div></div>
 
@@ -308,7 +306,6 @@ P (Rain)Q (Wet Pavement)P → Q**False****True****True**
 
 This row represents a situation in which:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * It did **not** rain.
@@ -321,7 +318,6 @@ Nothing in the original conditional says that rain is the only possible cause of
 
 Now examine the argument's premises and conclusion in that row:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Premise 1: “If it rains, then the pavement is wet” = True.
@@ -331,7 +327,6 @@ Now examine the argument's premises and conclusion in that row:
 </div>
 
 Because there is at least one row where all premises are true and the conclusion is false, the argument form is invalid. This is the decisive test used in truth-table analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Logical_reasoning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Logical reasoningA well-known formal fallacy is affirming the consequent. It has the following form: (1) q; (2) if p then q; (3) there...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-2-dark.svg" | relative_url }}" alt="Truth Table illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Single Row Is Enough
@@ -344,14 +339,12 @@ The third row of the table is exactly such a counterexample. It demonstrates tha
 
 This is why textbooks and logic references routinely classify affirming the consequent as a formal fallacy: its failure comes from the structure of the reasoning itself, not from the specific subject matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Converse_%28logic%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Converse (logic)In logic and mathematics, the converse of a categorical or implicational statement is the result of reversing its two...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-3-dark.svg" | relative_url }}" alt="Truth Table illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_wet_pavement_truth_t_9ca1e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Validity Depends on Form, Not Plausibility
 
 The wet pavement example can feel persuasive because rain is a familiar cause of wet roads. Yet truth tables ignore plausibility and focus entirely on logical form.
 
 The argument assumes that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -365,7 +358,6 @@ The hidden mistake is treating the conditional as though it were a two-way relat
 
 If the claim had instead been “The pavement is wet **if and only if** it rained,” the logical structure would be different. But the ordinary statement “If it rains, then the pavement is wet” does not establish that stronger relationship. The truth table reveals the gap immediately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paradoxes_of_material_implication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paradoxes of material implication</span><span class="citation-popover-snippet">Paradoxes of material implication&quot;If it is not the case that P, then if P, then Q&quot;; a false proposition implies any other. For instanc...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VCEYeB3bRW0" title="Truth Tables Tutorial (part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VCEYeB3bRW0" target="_blank" rel="noopener noreferrer">Truth Tables Tutorial (part 1)</a></p><p class="youtube-embed-meta">Channel: LearnYouSomeMath &middot; Views: 860.1K &middot; Uploaded: June 2016 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VCEYeB3bRW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VCEYeB3bRW0">Open on YouTube</a></p></div></div></div>
 
 ## What the Truth Table Proves
@@ -376,9 +368,7 @@ Rain (P)Wet Pavement (Q)Conditional (P → Q)FalseTrueTrue
 
 In this row, the pavement is wet and the conditional remains true, yet rain did not occur. That single possibility is enough to show that observing wet pavement does not deductively prove rain. The truth table therefore provides a compact, definitive demonstration of why the wet pavement argument commits the fallacy of affirming the consequent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Modus_tollens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Modus tollens</span><span class="citation-popover-snippet">Modus tollensModus tollens is a mixed hypothetical syllogism that takes the form of &quot;If P, then Q. Not Q. Therefore, not P.&quot; It is an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Modus_ponens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Modus ponens</span><span class="citation-popover-snippet">Modus ponensIt can be summarized as &quot;P implies Q. P is true. Therefore, Q must also be true.&quot; Modus ponens. Type. Deductive argument...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EfsbN5YbcPQ" title="Truth Table to determine if an argument is valid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EfsbN5YbcPQ" target="_blank" rel="noopener noreferrer">Truth Table to determine if an argument is valid</a></p><p class="youtube-embed-meta">Channel: Angiewvc &middot; Views: 484.1K &middot; Uploaded: April 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EfsbN5YbcPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EfsbN5YbcPQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -923,4 +913,4 @@ In this row, the pavement is wet and the conditional remains true, yet rain did 
 25. <a id="endnote-25"></a>
    Source: math.hawaii.edu  
    Title: If Then  
-   Link: <a href="https://math.hawaii.edu/~ramsey/Logic/IfThen.html" target="_blank" rel="noopener noreferrer nofollow">https://math.hawaii.edu/~ramsey/Logic/IfThen.html</a>  
+   Link: <a href="https://math.hawaii.edu/~ramsey/Logic/IfThen.html" target="_blank" rel="noopener noreferrer nofollow">https://math.hawaii.edu/~ramsey/Logic/IfThen.html</a>

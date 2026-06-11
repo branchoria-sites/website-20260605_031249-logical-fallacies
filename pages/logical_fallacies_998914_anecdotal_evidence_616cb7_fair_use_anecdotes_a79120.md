@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /anecdotes/
 nav_short_title: Fair Use
 title: How to Use Stories Without Cherry Picking
-title_full: How to Use Stories Without Cherry Picking | Anecdotes
+title_full: How to Use Stories Without Cherry Picking
 display_title_short: Fair Use
 display_title: Fair Use
 heading_title: How to Use Stories Without Cherry Picking
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:13:10'
-parent_title: When Is a Story Not Enough? | Fallacy Lab
+parent_title: When Is a Story Not Enough?
 parent_permalink: /anecdotes/
 parent_nav_short_title: Anecdotes
 parent_heading_title: When Is a Story Not Enough?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_us
 
 Stories are often the most memorable part of an argument. A personal account can make an abstract issue concrete, reveal a problem that statistics overlook, or help readers understand what a broader pattern looks like in practice. The danger arises when anecdotes are selected because they support a conclusion while contrary cases are ignored. That practice—often called cherry-picking—creates the appearance of evidence without providing a fair picture of reality.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-dark.svg" | relative_url }}" alt="Fair Use illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Using anecdotes responsibly does not mean avoiding stories. It means matching the story to the claim. A well-used anecdote illustrates a pattern that is supported by broader evidence. A poorly used anecdote substitutes for evidence that is missing. The difference is central to avoiding [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) based on anecdotal reasoning and hasty generalisation. Research in medicine, communication, and evidence evaluation consistently shows that anecdotes can be valuable as signals, examples, and hypothesis generators, but they become misleading when presented as proof of how things generally work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11345347/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Anecdotes impact medical decisions even when presented...by EN Line · 2024 · Cited by 9 — We found that reading anecdotes for either...</span></span></span>
 
@@ -293,7 +292,6 @@ A story may also work as an **analogy**, helping readers grasp a concept through
 What anecdotes rarely provide on their own is **proof**. A single success story cannot demonstrate that a treatment works for most people. A single failure cannot demonstrate that a policy is ineffective. Determining what is typical requires broader and more systematic evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
 A useful test is to ask: if the anecdote were removed, would the underlying claim still stand on independent evidence? If the answer is yes, the story is probably illustrating a case. If the answer is no, the story may be carrying more evidential weight than it deserves.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjISO-juArY" title="Anecdotal Fallacy: A Data Point of One Is Not Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer">Anecdotal Fallacy: A Data Point of One Is Not Evidence</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design &middot; Views: 36 &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjISO-juArY">Open on YouTube</a></p></div></div></div>
 
@@ -313,7 +311,6 @@ In fields such as user research, practitioners routinely distinguish between qua
 
 The strongest arguments therefore combine stories and data. The story explains what the pattern looks like; the evidence shows whether the pattern actually exists.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-2-dark.svg" | relative_url }}" alt="Fair Use illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Cherry-Picking Happens
 
@@ -330,7 +327,6 @@ Several common [mechanisms]({{ 'mechanisms/' | relative_url }}) produce distorte
 **Availability affects judgement.** A vivid anecdote is easier to recall than a statistical summary. People may therefore overestimate the importance or frequency of events that are easy to imagine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1126236/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JK Aronson · 2003 · Cited by 132 — Anecdotal reports of adverse reactions should be published, for they have different functions to...</span></span></span>
 
 Recognising these tendencies is essential because they can distort both the creation and the evaluation of anecdotal evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JTKD9_7LVE8" title="Scientific Published Research Compared to Anecdotal Information" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JTKD9_7LVE8" target="_blank" rel="noopener noreferrer">Scientific Published Research Compared to Anecdotal Information</a></p><p class="youtube-embed-meta">Channel: DeBacco University &middot; Views: 1.5K &middot; Uploaded: April 2019 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JTKD9_7LVE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JTKD9_7LVE8">Open on YouTube</a></p></div></div></div>
 
@@ -350,12 +346,10 @@ Finally, evaluate whether the conclusion exceeds what the story can support. A s
 
 These questions do not eliminate the value of personal experience. Instead, they help place that experience in its proper evidential role.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-3-dark.svg" | relative_url }}" alt="Fair Use illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_anecdotal_evidence_616cb7_fair_use_anecdotes_a79120-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Red Flags for Selective Storytelling
 
 Certain warning signs frequently indicate that anecdotes are being used in a misleading way.
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -370,7 +364,6 @@ Certain warning signs frequently indicate that anecdotes are being used in a mis
 </div>
 
 When these signs appear together, the risk of cherry-picking increases substantially. The problem is not that the stories are false. The problem is that readers are given no way to determine whether the stories represent the wider reality.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W5CQb7klLCs" title="How to Lie with Data | Cherry Picking Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W5CQb7klLCs" target="_blank" rel="noopener noreferrer">How to Lie with Data | Cherry Picking Data</a></p><p class="youtube-embed-meta">Channel: Alex The Analyst &middot; Views: 4.2K &middot; Uploaded: April 2025 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W5CQb7klLCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W5CQb7klLCs">Open on YouTube</a></p></div></div></div>
 

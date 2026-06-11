@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /debate/
 nav_short_title: False Choices
 title: When Debate Choices Are Too Neat
-title_full: When Debate Choices Are Too Neat | Debate
+title_full: When Debate Choices Are Too Neat
 display_title_short: False Choices
 display_title: False Choices
 heading_title: When Debate Choices Are Too Neat
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:05:31'
-parent_title: How to Spot Fallacies in Debate | Fallacy Lab
+parent_title: How to Spot Fallacies in Debate
 parent_permalink: /debate/
 parent_nav_short_title: Debate
 parent_heading_title: How to Spot Fallacies in Debate
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dil
 
 A [false dilemma]({{ 'false-dilemma/' | relative_url }}), sometimes called a false dichotomy or “either-or” fallacy, traps [debate]({{ 'debate/' | relative_url }}) audiences by presenting a complex issue as though only two choices exist. In live debates this can sound powerful because it creates clarity, urgency and decisiveness. The audience is encouraged to choose between two visible options instead of asking whether other realistic alternatives have been left out. Yet many policy questions, ethical disputes and public controversies involve a range of possibilities, compromises and conditional solutions rather than a stark binary choice. A false dilemma becomes persuasive not because it proves a point, but because it simplifies the decision-making process for listeners. Excelsior OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-1-dark.svg" | relative_url }}" alt="False Choices illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Two-Option Framing Persuades
 
@@ -302,7 +301,6 @@ The audience is pushed to compare increased surveillance with complete inaction.
 * Assuming opposition to one proposal means support for its opposite.
 * Collapsing many competing approaches into a single rejected category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/False-Dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious False Dilemma</span><span class="citation-popover-snippet">Logically FallaciousFalse Dilemma - fallaciesDescription: When only two choices are presented yet more exist, or a spectrum of possible c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/false-dilemma-fallacy-250338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo In each case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">false dilemma fallacy 250338</span><span class="citation-popover-snippet">False Dilemma Fallacy8 Mar 2017 — The False Dilemma fallacy occurs when an argument offers a false range of choices and requires that you...</span></span></span>, the audience is encouraged to judge a manufactured contest rather than the real set of available choices.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XIyLqUOJ0lY" title="False Dichotomy (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XIyLqUOJ0lY" target="_blank" rel="noopener noreferrer">False Dichotomy (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 47.8K &middot; Uploaded: February 2014 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XIyLqUOJ0lY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XIyLqUOJ0lY">Open on YouTube</a></p></div></div></div>
 
 ## How to Reveal Missing Alternatives
@@ -323,7 +321,6 @@ When a speaker offers only two options, identify at least one plausible alternat
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “We can adopt your proposal.”
@@ -333,7 +330,6 @@ For example:
 </div>
 
 The existence of a credible third option weakens the binary framing immediately. Excelsior OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/fallacies/false-dilemma-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[2scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">False Dilemma Fallacy &#124; Examples &amp; Definition</span><span class="citation-popover-snippet">30 May 2023 — The false dilemma fallacy occurs when someone misrepresents an issue by offering only two options (when more exist) or by p...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-2-dark.svg" | relative_url }}" alt="False Choices illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Separate Opposition from Endorsement
@@ -350,7 +346,6 @@ This restores space for alternative approaches and prevents the audience from eq
 
 Many false dilemmas depend on an unstated premise. The speaker may assume:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Only one policy can work.
@@ -362,7 +357,6 @@ Many false dilemmas depend on an unstated premise. The speaker may assume:
 
 Bringing those assumptions into the open often reveals that the dilemma is far less rigid than it first appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/TOMFDA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers False Dilemma: A Systematic Exposition</span><span class="citation-popover-snippet">False Dilemma: A Systematic Exposition - Taeda TomićThis article formulates six criteria for a well-grounded exposition of a fa...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4CtofTCXcYI" title="Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer">Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: LearnFree &middot; Views: 875.1K &middot; Uploaded: August 2019 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4CtofTCXcYI">Open on YouTube</a></p></div></div></div>
 
 ## When a Dilemma Is Actually Fair
@@ -370,7 +364,6 @@ Bringing those assumptions into the open often reveals that the dilemma is far l
 Not every two-option argument is fallacious. Some decisions genuinely are binary.
 
 A dilemma can be legitimate when the available options are genuinely exhaustive and mutually exclusive. For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,7 +375,6 @@ A dilemma can be legitimate when the available options are genuinely exhaustive 
 
 In such cases, presenting two options is not misleading because the decision structure itself is binary. The key question is whether meaningful alternatives have been excluded unfairly. A two-choice frame becomes fallacious only when additional realistic possibilities exist but are concealed or dismissed without justification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span> Wikipedia Debaters sometimes overuse accusations of false dilemma by assuming every binary choice is flawed. The better test is not the number of optio <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/False_dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">False dilemma</span><span class="citation-popover-snippet">False dilemma</span></span></span> ns presented but whether the speaker has accurately represented the available options.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6NQiHtbpa8s" title="Become A Master Of Influence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6NQiHtbpa8s" target="_blank" rel="noopener noreferrer">Become A Master Of Influence</a></p><p class="youtube-embed-meta">Channel: Charisma on Command &middot; Views: 3.0M &middot; Uploaded: April 2016 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6NQiHtbpa8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6NQiHtbpa8s">Open on YouTube</a></p></div></div></div>
 
 ## The Audience Risk Behind False Choices
@@ -392,7 +384,6 @@ False dilemmas are dangerous because they often feel reasonable. They do not usu
 In live debate, this makes false dilemmas particularly effective. The audience hears a clean choice, sees a clear contrast and experiences the satisfaction of apparent certainty. Critical evaluation requires a slower question: not “Which of these two options is better?” but “Are these really the only options?” Excelsior OWL <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/topic/What-Is-the-Either-Or-Fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Encyclopedia Britannica What Is the Either-Or Fallacy?</span><span class="citation-popover-snippet">False Dilemma, Dichotomy...13 Feb 2026 — The either-or fallacy, also called a false dilemma, is a logical error that happens when som...</span></span></span>
 
 The strongest defence against the fallacy is therefore not merely identifying it by name. It is restoring the missing possibilities that the debate audience was never invited to consider.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-3-dark.svg" | relative_url }}" alt="False Choices illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_false_dilemmas_debat_1ce3dd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -489,7 +480,7 @@ The strongest defence against the fallacy is therefore not merely identifying it
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -513,15 +504,15 @@ The strongest defence against the fallacy is therefore not merely identifying it
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Contender: The Game of Presidential Debate Card Game NEW (2015)"><img src="https://i.ebayimg.com/images/g/FXcAAeSwsH9pGPCK/s-l225.jpg" alt="Listing image for The Contender: The Game of Presidential Debate Card Game NEW (2015)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Debate Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sfYAAeSwATBpW~ko/s-l225.jpg" alt="Listing image for The Great Debate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">The Contender: The Game of Presidential Debate Card Game NEW (2015)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer">The Great Debate Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +520,15 @@ The strongest defence against the fallacy is therefore not merely identifying it
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fortnum &amp; Mason Dinner Party Discourse &amp; Debate Set - NEW Sealed Cards"><img src="https://i.ebayimg.com/images/g/inEAAeSwpHRqAGHJ/s-l225.jpg" alt="Listing image for Fortnum &amp; Mason Dinner Party Discourse &amp; Debate Set - NEW Sealed Cards" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEBATE Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/oeMAAeSwHaJo-Q7B/s-l225.jpg" alt="Listing image for DEBATE Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Fortnum &amp; Mason Dinner Party Discourse &amp; Debate Set - NEW Sealed Cards</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer">DEBATE Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,15 +536,15 @@ The strongest defence against the fallacy is therefore not merely identifying it
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!"><img src="https://i.ebayimg.com/images/g/tMkAAeSwcLZqIFsz/s-l225.jpg" alt="Listing image for Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1984 Ronald Reagan vs Walter Mondale Debate Poster"><img src="https://i.ebayimg.com/images/g/xr0AAOSwW0VcApCC/s-l225.jpg" alt="Listing image for 1984 Ronald Reagan vs Walter Mondale Debate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Debatable: Compact and Fun Debate Game for 3-16 Players - Win Every Argument!</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer">1984 Ronald Reagan vs Walter Mondale Debate Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -561,15 +552,15 @@ The strongest defence against the fallacy is therefore not merely identifying it
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deep Dilemmas 200 Debate Cards Game New"><img src="https://i.ebayimg.com/images/g/JuMAAOSwOWJoN3lq/s-l225.jpg" alt="Listing image for Deep Dilemmas 200 Debate Cards Game New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359"><img src="https://i.ebayimg.com/images/g/7~0AAOSwdSZmKOX1/s-l225.jpg" alt="Listing image for PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">Deep Dilemmas 200 Debate Cards Game New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer">PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate card game">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate card game</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,7 +568,7 @@ The strongest defence against the fallacy is therefore not merely identifying it
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+card+game&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-card-game&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate card game" data-ebay-reference="when-debate-choices-are-too-neat-debate-card-game" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-debate-choices-are-too-neat-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="when-debate-choices-are-too-neat-debate-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -787,6 +778,7 @@ The strongest defence against the fallacy is therefore not merely identifying it
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

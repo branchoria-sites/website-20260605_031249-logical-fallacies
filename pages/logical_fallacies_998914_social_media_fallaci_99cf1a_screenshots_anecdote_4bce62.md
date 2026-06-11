@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /social-media/
 nav_short_title: Screenshots
 title: Why Screenshots Are Not Always Evidence
-title_full: Why Screenshots Are Not Always Evidence | Social Media
+title_full: Why Screenshots Are Not Always Evidence
 display_title_short: Screenshots
 display_title: Screenshots
 heading_title: Why Screenshots Are Not Always Evidence
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:01:32'
-parent_title: Why Bad Arguments Spread Fast Online | Fallacy Lab
+parent_title: Why Bad Arguments Spread Fast Online
 parent_permalink: /social-media/
 parent_nav_short_title: Social Media
 parent_heading_title: Why Bad Arguments Spread Fast Online
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_scree
 
 A screenshot can be genuine and still support a false conclusion. A personal story can be completely true and still fail to prove a broader claim. This is one of the most common reasoning errors in [social media]({{ 'social-media/' | relative_url }}) debates: people mistake a fragment of evidence for the whole picture.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1-dark.svg" | relative_url }}" alt="Screenshots illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the wider world of social media fallacies and viral claims, screenshots and anecdotes are especially persuasive because they feel concrete. A cropped image appears to show exactly what happened. A first-person account sounds authentic because it comes from a real individual. Yet logical errors often arise not from fabricated evidence but from missing [context]({{ 'context/' | relative_url }}), missing scale, and unwarranted generalisation. Research on misinformation repeatedly shows that real photos, real posts, and real experiences can be repurposed or overinterpreted in ways that mislead audiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
@@ -281,7 +280,6 @@ A screenshot has one major advantage in online arguments: it looks like proof. U
 A cropped image may omit what came before or after a statement. A screenshot of a social media post may exclude replies that clarify the meaning. A photograph may be authentic but attached to a false description. Researchers studying misinformation have identified “out-of-context” content as one of the most effective forms of online deception because it uses genuine material while changing its interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
 
 Consider a common viral pattern:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,7 +302,6 @@ People often describe screenshots as “receipts”, implying that they settle a
 
 They do not automatically answer:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Was the content edited?
@@ -317,7 +314,6 @@ They do not automatically answer:
 </div>
 
 The logical mistake occurs when readers move from “this screenshot is real” to “therefore the broader claim is true”. The first proposition may be correct while the second remains unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/out-of-context-photos-are-a-powerful-low-tech-form-of-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">out of context photos are a powerful low tech form of misinformation</span><span class="citation-popover-snippet">Out-of-context photos are a powerful low-tech form...18 Feb 2020 — Psychological research demonstrates that these out-of-context phot...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jjISO-juArY" title="Anecdotal Fallacy: A Data Point of One Is Not Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer">Anecdotal Fallacy: A Data Point of One Is Not Evidence</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design &middot; Views: 36 &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jjISO-juArY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jjISO-juArY">Open on YouTube</a></p></div></div></div>
 
@@ -335,7 +331,6 @@ Online platforms amplify this tendency because stories are memorable. Research o
 
 A viral post might say:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * “My friend had a side effect, therefore the treatment is dangerous.”
@@ -348,14 +343,12 @@ Each story may be truthful. The problem is representativeness. One person's expe
 
 This distinction matters because unusual experiences attract attention. Social media algorithms and human psychology both favour dramatic stories over ordinary outcomes. As a result, audiences may encounter the most extreme examples rather than the most typical ones. Researchers have long noted that memorable cases can distort perceptions when people use them as substitutes for broader evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anecdotal_evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anecdotal evidence</span><span class="citation-popover-snippet">Anecdotal evidence</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-2-dark.svg" | relative_url }}" alt="Screenshots illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### True Stories Can Still Mislead
 
 A common misconception is that exposing the weakness of an anecdote requires proving the story is false. That is not necessary.
 
 Anecdotes can be:
-
 
 <div class="content-enhancement content-enhancement--tension" markdown="1">
 
@@ -369,7 +362,6 @@ For example, a single customer complaint may reveal a genuine problem. It does n
 
 The logical question is not merely “Did this happen?” but “What does this example allow us to conclude?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gE9dFM4Bs0k" title="WATCH: How to spot misinformation online" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gE9dFM4Bs0k" target="_blank" rel="noopener noreferrer">WATCH: How to spot misinformation online</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 37.7K &middot; Uploaded: July 2020 &middot; Length: 3 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gE9dFM4Bs0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gE9dFM4Bs0k">Open on YouTube</a></p></div></div></div>
 
 ## Why Context and Scale Matter More Than Viral Proof
@@ -377,7 +369,6 @@ The logical question is not merely “Did this happen?” but “What does this 
 Screenshots and anecdotes become especially misleading when combined.
 
 A viral post may contain:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -391,7 +382,6 @@ Because the evidence feels concrete, readers often skip the crucial step of aski
 
 Imagine a screenshot showing a single incident at a school, workplace, or public event. Even if the image accurately depicts what happened, it may not justify claims such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “This is happening everywhere.”
@@ -403,7 +393,6 @@ Imagine a screenshot showing a single incident at a school, workplace, or public
 The jump from example to general rule is where the logical error occurs.
 
 Researchers studying misinformation have repeatedly found that manipulated narratives often rely not on entirely fabricated material but on selective presentation. Real facts, real images, and real experiences are arranged to support conclusions that the underlying evidence cannot sustain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersinstitute.politics.ox.ac.uk/types-sources-and-claims-covid-19-misinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersinstitute.politics.ox.ac.uk">[reutersinstitute.politics.ox.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersinstitute.politics.ox.ac.uk</span><span class="citation-popover-title">types sources and claims covid 19 misinformation</span><span class="citation-popover-snippet">Types, sources, and claims of COVID-19 misinformation7 Apr 2020 — In this factsheet we identify some of the main types, sources, and clai...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-3-dark.svg" | relative_url }}" alt="Screenshots illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_screenshots_anecdote_4bce62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Quick Context Checklist for Viral Proof
@@ -419,7 +408,6 @@ Before accepting a screenshot or anecdote as evidence for a broader claim, ask a
 5. Could the same screenshot support multiple interpretations?
 
 **For anecdotes:**
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6lSF7YsvpJk" title="How disinformation works | Episode 5: Presenting things out of context" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6lSF7YsvpJk" target="_blank" rel="noopener noreferrer">How disinformation works | Episode 5: Presenting things out of context</a></p><p class="youtube-embed-meta">Channel: European Parliament &middot; Views: 225.4K &middot; Uploaded: February 2025 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6lSF7YsvpJk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6lSF7YsvpJk">Open on YouTube</a></p></div></div></div>
 

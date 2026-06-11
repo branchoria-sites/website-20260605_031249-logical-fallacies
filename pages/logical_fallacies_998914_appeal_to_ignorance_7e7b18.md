@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Ignorance
 title: What Does Missing Evidence Prove?
-title_full: What Does Missing Evidence Prove? | Fallacy Lab
+title_full: What Does Missing Evidence Prove?
 display_title_short: Ignorance
 display_title: Ignorance
 heading_title: What Does Missing Evidence Prove?
@@ -503,10 +503,8 @@ image: /assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-overvi
 
 Appeal to ignorance is the mistake of treating missing proof as if it were proof in the opposite direction. It appears in two familiar forms: “no one has proved this false, so it must be true” and “no one has proved this true, so it must be false.” The problem is not uncertainty itself. The problem is converting a gap in evidence into a confident conclusion without showing that the missing evidence would reasonably have been found if the claim were true. The Internet Encyclopedia of Philosophy describes the fallacy in exactly this two-way pattern and links it to an unjustified shift in the burden of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe Fallacy of Appeal to Ignorance comes in two forms: (1) Not knowing that a certain stateme...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-overview.webp" | relative_url }}" alt="Overview image for Ignorance" loading="eager" decoding="sync" fetchpriority="high">
 This matters because real life is full of incomplete records, unfinished investigations, unpublished studies, silent witnesses, unavailable data and [rumours]({{ 'rumours/' | relative_url }}) that cannot be checked immediately. Good reasoning can sometimes learn from silence: a well-designed search that finds nothing may count against a claim. But a lazy or impossible search proves little. The useful question is not “is there proof?” but “what kind of evidence should we expect, who looked for it, how hard did they look, and would the method have detected it?” That distinction separates legitimate caution from the appeal to ignorance.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mXAZ9L5q0U" title="Critical Thinking: The Fallacy of Argument From Ignorance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mXAZ9L5q0U" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Argument From Ignorance</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 7.6K &middot; Uploaded: December 2014 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mXAZ9L5q0U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mXAZ9L5q0U">Open on YouTube</a></p></div></div></div>
 
@@ -520,7 +518,6 @@ The fallacy is especially tempting when the missing proof would be inconvenient.
 
 A useful test is to separate three claims that often get blurred together:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **No evidence has been found.** This only describes the current state of knowledge.
@@ -530,7 +527,6 @@ A useful test is to separate three claims that often get blurred together:
 </div>
 
 Appeal to ignorance happens when the argument jumps from the first line straight to the third.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-1-dark.svg" | relative_url }}" alt="Ignorance illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a missing trace really does count
@@ -544,7 +540,6 @@ Archaeology gives a clear example because it often works with broken, partial an
 The same logic applies outside archaeology. A null result in a medical trial is more informative when the trial had enough statistical power, used relevant outcomes and measured the right population. A 2023 paper on replication and [null results]({{ 'null-results/' | relative_url }}) warns that non-significant findings in both an original and replication study do not automatically show that an effect is absent; small studies can repeatedly look “null” while still being too weak to answer the question. The authors point to equivalence testing and Bayes factors as ways to quantify evidence for absence more carefully. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.04587" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 So the corrective is not “never reason from missing evidence.” It is: do not reason from missing evidence unless the search was strong enough, targeted enough and fair enough for the conclusion being claimed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u7T_5-1N930" title="Absence of Evidence Isn&#x27;t Evidence of Absence--Writing Notes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u7T_5-1N930" target="_blank" rel="noopener noreferrer">Absence of Evidence Isn&#x27;t Evidence of Absence--Writing Notes</a></p><p class="youtube-embed-meta">Channel: Writing Notes &middot; Views: 15 &middot; Uploaded: April 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u7T_5-1N930" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u7T_5-1N930">Open on YouTube</a></p></div></div></div>
 
@@ -560,7 +555,6 @@ Legal reasoning shows why burden of proof is not always symmetrical. In criminal
 
 That distinction is crucial. In public debate, a person may be right to withhold belief from an unsupported claim. But they overreach if they turn “not enough evidence to accept this” into “therefore the opposite is certainly true.”
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-2-dark.svg" | relative_url }}" alt="Ignorance illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Rumours thrive in the space between unknown and false
 
@@ -574,7 +568,6 @@ A careful response to rumours therefore avoids two opposite mistakes. The first 
 
 That kind of wording matters because it prevents a false sense of closure. It also tells readers what would change the assessment: a named source, a primary document, a reliable record, a reproducible observation, or a search by people in a position to know.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p9ezNBBcg_g" title="Appeal to Ignorance (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p9ezNBBcg_g" target="_blank" rel="noopener noreferrer">Appeal to Ignorance (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 85.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p9ezNBBcg_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p9ezNBBcg_g">Open on YouTube</a></p></div></div></div>
 
 ## The practical test: should the evidence have shown up?
@@ -582,7 +575,6 @@ That kind of wording matters because it prevents a false sense of closure. It al
 The strongest way to avoid appeal to ignorance is to ask whether the missing evidence was reasonably expected. This turns an abstract fallacy label into a practical evidence test.
 
 A missing proof is more meaningful when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/ignorant.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -597,7 +589,6 @@ A missing proof is more meaningful when: <span class="citation-chip-wrap"><a cla
 This test also explains why the same sentence can be reasonable in one setting and fallacious in another. “There is no evidence of contamination” is useful after comprehensive laboratory testing with known detection limits. It is not useful after no one has tested the water. “No complaint was filed” may matter if filing was safe, simple and expected. It matters far less where victims face shame, cost or retaliation.
 
 The best antidote is disciplined modesty. Instead of asking missing evidence to prove too much, state exactly what it supports: no current confirmation, no evidence in a defined search, no effect detected by a particular method, or no reason yet to accept the claim. That is not weak reasoning. It is stronger reasoning because it refuses to turn ignorance into proof.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-3-dark.svg" | relative_url }}" alt="Ignorance illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -1201,4 +1192,4 @@ The best antidote is disciplined modesty. Instead of asking missing evidence to 
 
 40. <a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/</a>  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/1dce12f/absence_of_evidence_is_not_evidence_of_absence_is/</a>

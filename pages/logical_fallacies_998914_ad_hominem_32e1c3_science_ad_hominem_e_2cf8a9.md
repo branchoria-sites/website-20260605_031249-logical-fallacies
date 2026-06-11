@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ad-hominem/
 nav_short_title: Science Effects
 title: Can attacking a scientist change beliefs?
-title_full: Can attacking a scientist change beliefs? | Ad Hominem
+title_full: Can attacking a scientist change beliefs?
 display_title_short: Science Effects
 display_title: Science Effects
 heading_title: Can attacking a scientist change beliefs?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 12:12:49'
-parent_title: When Personal Attacks Replace Reasons | Fallacy Lab
+parent_title: When Personal Attacks Replace Reasons
 parent_permalink: /ad-hominem/
 parent_nav_short_title: Ad Hominem
 parent_heading_title: When Personal Attacks Replace Reasons
@@ -274,7 +274,6 @@ image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_homi
 
 Can attacking a scientist change what people believe about a scientific claim? Research in science communication suggests that it can. A growing body of experimental evidence shows that personal attacks directed at scientists often reduce public confidence in scientific findings even when the underlying evidence remains unchanged. In some studies, attacks on a scientist’s character, integrity, or motives weakened support for a claim almost as much as direct criticism of the evidence itself. This matters because many public debates about vaccines, climate change, genetically modified crops, and public health depend on trust in expert sources as well as understanding of data. When audiences use judgments about a scientist as a shortcut for judging a claim, ad hominem attacks can shape beliefs without addressing the science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0192025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">The effect of ad hominem attacks on the evaluation of claims...by RM Barnes · 2018 · Cited by 54 — Results indicate that ad hominem...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-1-dark.svg" | relative_url }}" alt="Science Effects illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), science communication research is especially interested in this effect because scientific issues are often too complex for non-specialists to evaluate directly. As a result, attacks on the messenger can become attacks on the message in practice, even when they should not be.
 
@@ -290,7 +289,6 @@ Subsequent studies extended these findings into digital communication environmen
 
 The overall pattern is consistent: personal criticism can alter perceptions of scientific claims because many people evaluate both the evidence and the credibility of the person presenting it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2zeXurLrhy8" title="Better science communication, better trust in science | Joan Leach | TEDxCanberraSalon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2zeXurLrhy8" target="_blank" rel="noopener noreferrer">Better science communication, better trust in science | Joan Leach | TEDxCanberraSalon</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.6K &middot; Uploaded: July 2020 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2zeXurLrhy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2zeXurLrhy8">Open on YouTube</a></p></div></div></div>
 
 ## Why credibility shortcuts are vulnerable
@@ -303,7 +301,6 @@ An ad hominem attack exploits this vulnerability by shifting attention from evid
 
 Research on science communication also suggests that social identity plays a role. People often evaluate scientists through group-based perceptions. When scientists are viewed as distant, elitist, or belonging to an opposing social or political camp, personal attacks may become more persuasive because they reinforce existing stereotypes. Studies examining efforts to humanise scientists have found that emphasising shared identities and relatable characteristics can improve attitudes toward science, suggesting that perceptions of scientists themselves influence how scientific information is received. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcom.sissa.it/article/pubid/JCOM_2106_2022_A03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcom.sissa.it">[jcom.sissa.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcom.sissa.it</span><span class="citation-popover-snippet">Changing attitudes toward scientists by reducing intergroup...by AL Beauchamp · 2022 · Cited by 1 — We experimentally examined how messa...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-2-dark.svg" | relative_url }}" alt="Science Effects illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Which attacks appear most influential?
 
@@ -314,7 +311,6 @@ Research on organised attacks against climate scientists has identified recurrin
 The Barnes experiments similarly found that allegations concerning conflicts of interest had substantial influence on attitudes toward scientific claims. This suggests that attacks questioning independence or impartiality may be particularly effective because they connect directly to public concerns about trustworthiness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span>
 
 Importantly, the effectiveness of these attacks does not necessarily mean they are justified. A genuine conflict of interest can be relevant evidence that deserves scrutiny. The fallacious move occurs when the accusation is treated as a substitute for evaluating the research itself rather than as a reason to examine it more carefully.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iRWBFAOqYlE" title="A Deep Look Into: Trust in Science in Uncertain Times" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iRWBFAOqYlE" target="_blank" rel="noopener noreferrer">A Deep Look Into: Trust in Science in Uncertain Times</a></p><p class="youtube-embed-meta">Channel: University of California Television (UCTV) &middot; Views: 1.1K &middot; Uploaded: November 2020 &middot; Length: 1 hour 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iRWBFAOqYlE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iRWBFAOqYlE">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +326,6 @@ Several lessons emerge from the literature:
 * **Explain credibility without demanding blind trust.** Audiences benefit from understanding why expertise matters and how scientific institutions create checks on individual bias.
 * **Address attacks directly when necessary.** Ignoring credibility challenges may leave audiences with unanswered doubts. Responding with evidence, transparency, and [context]({{ 'context/' | relative_url }}) can prevent personal accusations from becoming the dominant frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/329447572_Ad_Hominem_Arguments_Rhetoric_and_Science_Communication" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Ad Hominem Arguments, Rhetoric, and Science...I argue that effective rhetorical tools involve ad hominem strategies, t...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-3-dark.svg" | relative_url }}" alt="Science Effects illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_science_ad_hominem_e_2cf8a9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence means for understanding ad hominem fallacies
 
@@ -338,9 +333,7 @@ Science communication research provides an unusually concrete demonstration of w
 
 This does not mean every discussion of a scientist’s conduct, expertise, or conflicts of interest is irrelevant. In science, credibility can be a legitimate consideration. The key distinction is whether personal information is used to inform evaluation of evidence or to replace it. The strongest finding from the research is that audiences frequently blur that boundary. When they do, attacks on scientists can shape belief even though the evidence itself has not changed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0148867&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">plos.orgScientists&#x27; Prioritization of Communication Objectives for...by A Dudo · 2016 · Cited by 478 — Our first research aim is to see...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7323766/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Attacking science on social media: How user comments affect...by L Gierth · 2019 · Cited by 106 — A scientific claim was paired with...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5xyi4oEHDJM" title="What is an Ad Hominem Attack?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5xyi4oEHDJM" target="_blank" rel="noopener noreferrer">What is an Ad Hominem Attack?</a></p><p class="youtube-embed-meta">Channel: Communication Coach Alexander Lyon &middot; Views: 22.6K &middot; Uploaded: February 2024 &middot; Length: 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5xyi4oEHDJM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5xyi4oEHDJM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

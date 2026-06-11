@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tone/
 nav_short_title: Tone Policing
 title: When does tone policing become a fallacy?
-title_full: When does tone policing become a fallacy? | Tone
+title_full: When does tone policing become a fallacy?
 display_title_short: Tone Policing
 display_title: Tone Policing
 heading_title: When does tone policing become a fallacy?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:19:40'
-parent_title: Is Tone the Same as Logic? | Fallacy Lab
+parent_title: Is Tone the Same as Logic?
 parent_permalink: /tone/
 parent_nav_short_title: Tone
 parent_heading_title: Is Tone the Same as Logic?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policin
 
 Tone policing becomes a reasoning problem when criticism of *how* something is said replaces engagement with *what* is being said. In discussions about [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the key issue is not whether a speaker sounds angry, frustrated, sarcastic or impolite. The issue is whether their claim is true, whether their evidence is relevant, and whether their reasoning is sound. When a response shifts attention from those questions to the speaker’s emotional delivery in order to avoid answering the argument, tone policing functions as a fallacy of [relevance]({{ 'relevance/' | relative_url }}) and often resembles a form of ad hominem reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tone_policing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tone policing</span><span class="citation-popover-snippet">Tone policing</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies(1) Fallacies of relevance include fallacies that occur due to reliance on an irrelevant reas...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-1-dark.svg" | relative_url }}" alt="Tone Policing illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because debates frequently contain both substance and style. A person may express a valid criticism rudely, and another person may object to the rudeness. The reasoning problem begins when the objection to tone becomes a substitute for addressing the criticism itself. At that point, the conversation has moved away from the claim and towards the manner of presentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.housing.wisc.edu/2023/12/inclusive-language-series-tone-policing-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: housing.wisc.edu">[housing.wisc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">housing.wisc.edu</span><span class="citation-popover-title">inclusive language series tone policing 2</span><span class="citation-popover-snippet">Inclusive Language Series: Tone PolicingDec 1, 2023 — According to the Oxford Dictionary, tone policing is “the action or practice of cri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/fallacy/tone-policing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-snippet">nt. Instead of engaging with what is being...Read more...</span></span></span>
 
@@ -285,15 +284,13 @@ Consider the difference between these responses:
 
 The first response engages with the claim. The second focuses on the speaker’s demeanour. Whether the speaker is angry has little bearing on whether the pollution data are accurate.
 
-Philosophers and argumentation scholars generally classify fallacies as errors involving irrelevant reasons. If a discussion concerns evidence, then the speaker’s frustration is usually irrelevant to the truth of the evidence. Criticising the [emotion]({{ 'emotion/' | relative_url }}) rather than the argument therefore risks becoming a fallacy of relevance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies(1) Fallacies of relevance include fallacies that occur due to reliance on an irrelevant reas...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallacies(1) Fallacies of relevance include fallacies that occur due to reliance on an irrelevant reas...</span></span></span>
+Philosophers and argumentation scholars generally classify fallacies as errors involving irrelevant reasons. If a discussion concerns evidence, then the speaker’s frustration is usually irrelevant to the truth of the evidence. Criticising the [emotion]({{ 'emotion/' | relative_url }}) rather than the argument therefore risks becoming a fallacy of relevance. [Internet Encyclopedia of Philosophy+2Internet Encyclopedia of Philosophy]
 
 Tone policing is often described as a subtype of ad hominem because it targets a feature of the speaker rather than the content of the argument. Instead of attacking character directly, it attacks delivery: “too emotional”, “too aggressive”, “too upset”, or “too hostile”. The implication is that the emotional expression somehow disqualifies the argument from consideration. Yet an angry person can still present accurate facts and valid reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominemAd hominem short for argumentum ad hominem refers to when a speaker attacks the character, motive, or some other attribute o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.stackexchange.com/questions/115684/what-logical-fallacy-is-an-accusation-of-ad-hominem-attacks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.stackexchange.com">[Philosophy Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.stackexchange.com</span><span class="citation-popover-title">what logical fallacy is an accusation of ad hominem attacks</span><span class="citation-popover-snippet">Philosophy Stack ExchangeWhat logical fallacy is an accusation of &quot;ad hominem...3 Aug 2024 — A tone argument (also called tone policing)...</span></span></span>
 
 A common pattern looks like this:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sQTJyHc4hHk" title="Weak Analogy (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sQTJyHc4hHk" target="_blank" rel="noopener noreferrer">Weak Analogy (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 18.8K &middot; Uploaded: February 2014 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sQTJyHc4hHk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sQTJyHc4hHk">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -305,7 +302,6 @@ A common pattern looks like this:
 </div>
 
 When that sequence occurs, tone criticism is functioning as a diversion from the substantive issue under discussion. APA Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.housing.wisc.edu/2023/12/inclusive-language-series-tone-policing-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: housing.wisc.edu">[2housing.wisc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">housing.wisc.edu</span><span class="citation-popover-title">inclusive language series tone policing 2</span><span class="citation-popover-snippet">Inclusive Language Series: Tone PolicingDec 1, 2023 — According to the Oxford Dictionary, tone policing is “the action or practice of cri...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VnB22pNcI2g" title="Ad Hominem Argument: Stick It To The Man! - Logic Series | Academy 4 Social Change" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VnB22pNcI2g" target="_blank" rel="noopener noreferrer">Ad Hominem Argument: Stick It To The Man! - Logic Series | Academy 4 Social Change</a></p><p class="youtube-embed-meta">Channel: Academy 4 Social Civics &middot; Views: 2.5K &middot; Uploaded: June 2020 &middot; Length: 3 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VnB22pNcI2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VnB22pNcI2g">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +327,6 @@ The second statement treats emotional delivery as a reason to dismiss the claim 
 
 This distinction also explains why debates about civility can become complicated. Researchers and commentators have noted that calls for civility sometimes serve useful purposes, such as reducing hostility and preserving productive discussion. At other times, however, demands for a particular style of communication can be used to deflect attention from uncomfortable criticisms. The question is not whether civility is good or bad; it is whether appeals to civility are being used to avoid engaging with the issue at hand. Cambridge University Press & Assessment 3The University of Maine <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/politics/archive/2015/11/in-defense-of-civility-on-twitter/413860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-title">in defense of civility on twitter</span><span class="citation-popover-snippet">The AtlanticIn Defense of Civility on TwitterNov 4, 2015 — Fear of tone-policing shouldn&#x27;t trump the basic norms that are crucial to a he...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-2-dark.svg" | relative_url }}" alt="Tone Policing illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why tone policing can be persuasive
 
@@ -340,7 +335,6 @@ Tone policing succeeds because people often treat calmness as evidence of correc
 Someone can calmly present a weak argument. Someone else can angrily present a strong one. The emotional state of the speaker may affect persuasiveness, but it does not automatically determine logical quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://anecdotal.app/fallacy/tone-policing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anecdotal.app">[ANECDOTAL In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anecdotal.app</span><span class="citation-popover-snippet">nt. Instead of engaging with what is being...Read more...</span></span></span>, criticism of tone can feel easier than addressing difficult evidence. If a claim is uncomfortable, threatening to a group's status, or challenging to existing beliefs, discussion may drift towards the speaker's manner rather than the claim's merits. Several discussions of tone policing note that this pattern is especially common in disputes involving social grievances, institutional criticism, or accusations of wrongdoing, where emotional reactions are often understandable responses to the subject matter itself. League of Women Voters Minnesota (LWVMN 3APA Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.masslegalservices.org/content/tone-policing-and-assertion-authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: masslegalservices.org">[3masslegalservices.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">masslegalservices.org</span><span class="citation-popover-title">Tone-Policing and the Assertion of Authority</span><span class="citation-popover-snippet">May 10, 2022 — Tone policing is when someone (usually a privileged person) in a conversation about oppression shifts the conversation fro...</span><span class="citation-popover-meta">Published: May 10, 2022</span></span></span>
 
 That does not mean every accusation of tone policing is correct. People sometimes invoke the term to avoid accountability for genuinely disruptive behaviour. The important analytical point is that emotional expression and argumentative validity remain distinct issues. A conversation can address both without confusing one for the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/politics/archive/2015/11/in-defense-of-civility-on-twitter/413860/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-title">in defense of civility on twitter</span><span class="citation-popover-snippet">The AtlanticIn Defense of Civility on TwitterNov 4, 2015 — Fear of tone-policing shouldn&#x27;t trump the basic norms that are crucial to a he...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-3-dark.svg" | relative_url }}" alt="Tone Policing illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34_tone_policing_substa_09ace1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A test for whether tone is being used as avoidance
@@ -363,9 +357,7 @@ Conversely, tone criticism is less likely to be fallacious when the listener bot
 
 The decisive question is always the same: has the argument been answered? If criticism of tone merely accompanies engagement with the evidence, it need not be fallacious. If criticism of tone substitutes for engagement with the evidence, it becomes a way of dodging substance rather than evaluating it. [ANECDOTAL+3Internet Encyclopedia of Philosophy+3Stanford Encyclopedia of Philosophy]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kCgkiGNOmek" title="On Tone Policing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer">On Tone Policing</a></p><p class="youtube-embed-meta">Channel: T1J &middot; Views: 26.8K &middot; Uploaded: May 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kCgkiGNOmek">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -484,59 +476,59 @@ The decisive question is always the same: has the argument been answered? If cri
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQgAAeSwXRJp1TUR/s-l225.jpg" alt="Listing image for Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy grey Framed Art P Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2aMAAeSwQYlp1Tf6/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/3xwAAeSwishp1TUU/s-l225.jpg" alt="Listing image for Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy white Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSw3w1p1~TM/s-l225.jpg" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster"><img src="https://i.ebayimg.com/images/g/as0AAeSw3JRp0vdN/s-l225.jpg" alt="Listing image for H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">H.L. Mencken Moron PhD Fallacy Satirical 12x18 Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019"><img src="https://i.ebayimg.com/images/g/dZkAAOSwaNRc0NyW/s-l225.jpg" alt="Listing image for MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">MATTHEW DAY JACKSON, &#x27;Pathetic Fallacy&#x27; private view invitation card, 2019</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="https://i.ebayimg.com/images/g/TFEAAOSwCm9nqP-h/s-l225.jpg" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tone-policing-become-a-fallacy-fallacy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fallacy poster" data-ebay-reference="when-does-tone-policing-become-a-fallacy-fallacy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: fallacy poster</a>
         <div class="fr-book-actions">
@@ -758,6 +750,7 @@ The decisive question is always the same: has the argument been answered? If cri
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /false-cause/
 nav_short_title: Counterfactuals
 title: The One Question False Causes Avoid
-title_full: The One Question False Causes Avoid | False Cause
+title_full: The One Question False Causes Avoid
 display_title_short: Counterfactuals
 display_title: Counterfactuals
 heading_title: The One Question False Causes Avoid
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 13:31:09'
-parent_title: Did One Thing Really Cause Another? | Fallacy Lab
+parent_title: Did One Thing Really Cause Another?
 parent_permalink: /false-cause/
 parent_nav_short_title: False Cause
 parent_heading_title: Did One Thing Really Cause Another?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counter
 
 False cause claims often survive because they tell a convincing story: one event happened, and shortly afterwards another event followed. The missing step is whether the outcome would have occurred anyway. Counterfactual thinking addresses that gap by asking a simple question: **What would probably have happened if the supposed cause had never occurred?**
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-1-dark.svg" | relative_url }}" alt="Counterfactuals illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This approach is central to modern thinking about causation. In philosophy, law, epidemiology, and causal inference, a causal claim becomes more credible when the outcome would likely have been different without the alleged cause. If the outcome probably would have happened regardless, the apparent cause loses much of its explanatory power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/causation-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Causation in the Law</span><span class="citation-popover-snippet">Such a test asks a counterfactual question: “but for the defendant&#x27;s action, would the victim have...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/causation-counterfactual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">causation counterfactual</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyCounterfactual Theories of Causationby P Menzies · 2001 · Cited by 605 — The basic idea of counterfact...</span></span></span>
 
@@ -288,7 +287,6 @@ The same logic appears in legal reasoning through the familiar “but-for” tes
 
 Consider three common situations:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Someone takes a supplement and feels better a few days later.
@@ -304,7 +302,6 @@ The strength of this approach is that it forces a comparison between reality and
 ## How Trends and Normal Recovery Change the Answer
 
 Many false cause claims become less convincing once natural trends are considered.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5eNhS0oaLHo" title="What is a Counterfactual? (Philosophical Definition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5eNhS0oaLHo" target="_blank" rel="noopener noreferrer">What is a Counterfactual? (Philosophical Definition)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 26.7K &middot; Uploaded: June 2018 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5eNhS0oaLHo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5eNhS0oaLHo">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +319,6 @@ A useful counterfactual question is: <span class="citation-chip-wrap"><a class="
 
 The more likely natural recovery becomes, the weaker a simple before-and-after causal claim appears.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MpCxksDQ8uw" title="The Nature of Causation: The Counterfactual Theory of Causation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MpCxksDQ8uw" target="_blank" rel="noopener noreferrer">The Nature of Causation: The Counterfactual Theory of Causation</a></p><p class="youtube-embed-meta">Channel: Philosophy Overdose &middot; Views: 16.0K &middot; Uploaded: September 2021 &middot; Length: 1 hour 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MpCxksDQ8uw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MpCxksDQ8uw">Open on YouTube</a></p></div></div></div>
 
 ### Trends that began before the alleged cause
@@ -338,7 +334,6 @@ A practical question is:
 **Did the outcome start changing before the supposed cause appeared?**
 
 If the answer is yes, the alleged cause may be less influential than the timeline suggests.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-2-dark.svg" | relative_url }}" alt="Counterfactuals illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Competing explanations
@@ -357,7 +352,6 @@ Counterfactual reasoning becomes most useful when translated into concrete check
 
 When evaluating a causal claim, ask:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Would the outcome probably have happened anyway?**
@@ -370,7 +364,6 @@ When evaluating a causal claim, ask:
 </div>
 
 These questions do not guarantee the correct answer. Their value lies in forcing a comparison between competing explanations rather than allowing sequence alone to decide the issue.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-3-dark.svg" | relative_url }}" alt="Counterfactuals illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96_counterfactual_false_0e77f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Timing Alone Is Not Enough
@@ -392,7 +385,6 @@ Complex events also have multiple causes. A business success may result from mar
 In addition, poorly chosen counterfactuals can be misleading. An imagined alternative must be realistic. Asking what would have happened if an event never occurred is useful only when the proposed alternative is plausible and grounded in evidence.
 
 For that reason, counterfactual thinking works best as a challenge to weak causal claims rather than as a standalone proof of causation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dUFXhQfh24Y" title="Causation # 1 - &#x27;But For&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dUFXhQfh24Y" target="_blank" rel="noopener noreferrer">Causation # 1 - &#x27;But For&#x27;</a></p><p class="youtube-embed-meta">Channel: The Law Bank &middot; Views: 166.6K &middot; Uploaded: May 2013 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dUFXhQfh24Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dUFXhQfh24Y">Open on YouTube</a></p></div></div></div>
 

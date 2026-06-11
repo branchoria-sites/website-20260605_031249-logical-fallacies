@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /social-media/
 nav_short_title: Outrage
 title: Does Outrage Make Bad Arguments Spread?
-title_full: Does Outrage Make Bad Arguments Spread? | Social Media
+title_full: Does Outrage Make Bad Arguments Spread?
 display_title_short: Outrage
 display_title: Outrage
 heading_title: Does Outrage Make Bad Arguments Spread?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:02:09'
-parent_title: Why Bad Arguments Spread Fast Online | Fallacy Lab
+parent_title: Why Bad Arguments Spread Fast Online
 parent_permalink: /social-media/
 parent_nav_short_title: Social Media
 parent_heading_title: Why Bad Arguments Spread Fast Online
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outra
 
 Moral outrage can be a healthy response to genuine wrongdoing. Anger at corruption, discrimination, abuse, or deception often motivates people to pay attention and demand accountability. The problem begins when the emotional force of outrage is treated as evidence. On [social media]({{ 'social-media/' | relative_url }}), posts that provoke anger or disgust frequently attract more engagement, making them more visible and more likely to be shared. As a result, misleading claims can spread not because they are well supported, but because they trigger strong moral reactions. Research increasingly suggests that outrage is not merely a response to misinformation; it can be one of the [mechanisms]({{ 'mechanisms/' | relative_url }}) that helps misinformation travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">Misinformation exploits outrage to spread online</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</span><span class="citation-popover-meta">Published: November 28, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-1-dark.svg" | relative_url }}" alt="Outrage illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader topic of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and viral claims, this matters because outrage can make weak arguments feel stronger than they are. A claim that inspires thousands of angry reactions may seem persuasive even when its evidence is thin, incomplete, or false. The popularity of the outrage becomes confused with the validity of the argument.
 
@@ -342,7 +341,6 @@ Outrage-driven posts frequently present only [two options]({{ 'two-options/' | r
 
 This framing pressures readers to choose a side rather than evaluate evidence. Complex issues that allow multiple interpretations are reduced to moral loyalty tests.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-2-dark.svg" | relative_url }}" alt="Outrage illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Guilt by Association
 
@@ -362,12 +360,53 @@ Research on out-group hostility also suggests that content attacking perceived o
 
 The result is a cycle:
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-3-dark.svg" | relative_url }}" alt="Outrage illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_social_media_fallaci_99cf1a_outrage_misinformati_409f4c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A claim triggers outrage.
+2. Outrage increases engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — We expected posts about the out-group to evo...</span></span></span>
+3. Engagement increases visibility.
+4. Increased visibility generates more outrage.
+5. The claim spreads further before verification catches up.
+
+</div>
+
+None of these steps requires the claim to be true.
+
+## How to Separate Moral Concern from Weak Reasoning
+
+The solution is not to suppress moral concern. Many important social issues deserve strong emotional responses. The challenge is distinguishing justified concern from inadequate reasoning.
+
+Several questions help:
+
+**What is the actual evidence?**
+
+Separate the facts from the emotional framing. Would the argument remain persuasive if the language were calmer?
+
+**Does the conclusion exceed the evidence?**
+
+A shocking example may demonstrate a problem without proving a sweeping generalisation.
+
+**Am I reacting to facts or to presentation?**
+
+Images, dramatic wording, and expressions of outrage can influence judgment independently of evidence quality.
+
+**Have I checked the claim before sharing it?**
+
+Research suggests that even brief prompts encouraging reflection on accuracy can reduce misinformation sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — Psychological factors contribute significantly to...</span></span></span>
+
+**Would I apply the same standards to my own side?**
+
+Outrage often operates through group identity. Consistent standards help prevent motivated reasoning.
+
+## Outrage Is Not Evidence
+
+The key logical lesson is simple: outrage can be justified, informative, and socially valuable, but it is not proof.
+
+A claim does not become true because it angers large numbers of people. Nor does widespread condemnation demonstrate that the reasoning behind a viral post is sound. Social media rewards attention, and outrage is one of the most powerful ways to attract it. Research increasingly indicates that misinformation can exploit this fact by provoking stronger moral reactions and encouraging rapid sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">Misinformation exploits outrage to spread online</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</span><span class="citation-popover-meta">Published: November 28, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/1065965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">EurekAlert!Moral outrage helps misinformation spread through social...Nov 28, 2024 — The researchers found that outrage-evoking posts fa...</span></span></span>
+
+Understanding this distinction helps readers preserve two important ideas at once: some issues genuinely deserve moral outrage, and even the most morally charged claim still requires evidence and valid reasoning.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -785,49 +824,6 @@ The result is a cycle:
 })();
 </script>
 </section>
-
-2. Outrage increases engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2024292118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Out-group animosity drives engagement on social mediaby S Rathje · 2021 · Cited by 903 — We expected posts about the out-group to evo...</span></span></span>
-3. Engagement increases visibility.
-4. Increased visibility generates more outrage.
-5. The claim spreads further before verification catches up.
-
-</div>
-
-None of these steps requires the claim to be true.
-
-## How to Separate Moral Concern from Weak Reasoning
-
-The solution is not to suppress moral concern. Many important social issues deserve strong emotional responses. The challenge is distinguishing justified concern from inadequate reasoning.
-
-Several questions help:
-
-**What is the actual evidence?**
-
-Separate the facts from the emotional framing. Would the argument remain persuasive if the language were calmer?
-
-**Does the conclusion exceed the evidence?**
-
-A shocking example may demonstrate a problem without proving a sweeping generalisation.
-
-**Am I reacting to facts or to presentation?**
-
-Images, dramatic wording, and expressions of outrage can influence judgment independently of evidence quality.
-
-**Have I checked the claim before sharing it?**
-
-Research suggests that even brief prompts encouraging reflection on accuracy can reduce misinformation sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/topics/journalism-facts/how-why-misinformation-spreads" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationHow and why does misinformation spread?29 Nov 2023 — Psychological factors contribute significantly to...</span></span></span>
-
-**Would I apply the same standards to my own side?**
-
-Outrage often operates through group identity. Consistent standards help prevent motivated reasoning.
-
-## Outrage Is Not Evidence
-
-The key logical lesson is simple: outrage can be justified, informative, and socially valuable, but it is not proof.
-
-A claim does not become true because it angers large numbers of people. Nor does widespread condemnation demonstrate that the reasoning behind a viral post is sound. Social media rewards attention, and outrage is one of the most powerful ways to attract it. Research increasingly indicates that misinformation can exploit this fact by provoking stronger moral reactions and encouraging rapid sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.adl2829" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">Misinformation exploits outrage to spread online</span><span class="citation-popover-snippet">Misinformation exploits outrage to spread online - ScienceNovember 28, 2024 — We investigated the relationship between misinformat...</span><span class="citation-popover-meta">Published: November 28, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurekalert.org/news-releases/1065965" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurekalert.org">[2EurekAlert!]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurekalert.org</span><span class="citation-popover-title">news releases</span><span class="citation-popover-snippet">EurekAlert!Moral outrage helps misinformation spread through social...Nov 28, 2024 — The researchers found that outrage-evoking posts fa...</span></span></span>
-
-Understanding this distinction helps readers preserve two important ideas at once: some issues genuinely deserve moral outrage, and even the most morally charged claim still requires evidence and valid reasoning.
 
 ## Endnotes
 

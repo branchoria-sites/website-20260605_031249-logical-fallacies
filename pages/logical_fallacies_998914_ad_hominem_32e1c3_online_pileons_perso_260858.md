@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ad-hominem/
 nav_short_title: Pile ons
 title: Why online insults spread so fast
-title_full: Why online insults spread so fast | Ad Hominem
+title_full: Why online insults spread so fast
 display_title_short: Pile ons
 display_title: Pile ons
 heading_title: Why online insults spread so fast
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 12:12:46'
-parent_title: When Personal Attacks Replace Reasons | Fallacy Lab
+parent_title: When Personal Attacks Replace Reasons
 parent_permalink: /ad-hominem/
 parent_nav_short_title: Ad Hominem
 parent_heading_title: When Personal Attacks Replace Reasons
@@ -275,7 +275,6 @@ image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_
 
 Online pile-ons and quote-post personal attacks are a modern form of ad hominem argument that thrive on the design of [social media]({{ 'social-media/' | relative_url }}) platforms. Instead of answering a claim, users share a post to a wider audience, attach a brief insult or accusation, and invite others to react. The result is often a rapid shift in attention from the substance of an argument to the character, motives or identity of the person who made it. Because these exchanges are public, highly visible and rewarded by engagement metrics, a short personal attack can spread faster than a detailed rebuttal. Research on social media behaviour suggests that [outrage]({{ 'outrage/' | relative_url }}), signalling and group dynamics all help amplify these personalised attacks, making them especially influential in shaping first impressions and public judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage online</span><span class="citation-popover-snippet">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-1-dark.svg" | relative_url }}" alt="Pile ons illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader family of ad hominem fallacies, the distinctive feature of online pile-ons is scale. A single insult may be weak argumentation. Hundreds or thousands of similar responses can create the appearance that a claim has been decisively refuted even when little attention has been paid to the underlying evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/20563051211021378" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMorally Motivated Networked Harassment as Normative...by AE Marwick · 2021 · Cited by 236 — identified 10 types of harassme...</span></span></span>
 
@@ -295,7 +294,6 @@ Careful rebuttals require explanation, evidence and [context]({{ 'context/' | re
 
 This asymmetry gives personalised criticism an advantage in highly competitive attention environments. A detailed correction may take several minutes to read. An insult can be understood instantly and shared again just as quickly. The speed of transmission often means that negative impressions spread before fuller information becomes available. Several widely discussed online controversies have followed this pattern, with large numbers of users condemning an individual before later evidence complicated or revised the initial story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://insight.kellogg.northwestern.edu/article/whats-behind-the-rush-to-join-an-internet-pile-on" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: insight.kellogg.northwestern.edu">[Kellogg Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">insight.kellogg.northwestern.edu</span><span class="citation-popover-snippet">Kellogg InsightWhat&#x27;s Behind the Rush to Join an Internet Pile-on?30 Jan 2024 — Joining a social-media pile-on, calling for someone&#x27;s fir...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e7iiLbr28eQ" title="How Morally Outraged Are You? Well, That Depends on Who’s Watching | Molly Crockett | Big Think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e7iiLbr28eQ" target="_blank" rel="noopener noreferrer">How Morally Outraged Are You? Well, That Depends on Who’s Watching | Molly Crockett | Big Think</a></p><p class="youtube-embed-meta">Channel: Big Think &middot; Views: 18.0K &middot; Uploaded: November 2017 &middot; Length: 4 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e7iiLbr28eQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e7iiLbr28eQ">Open on YouTube</a></p></div></div></div>
 
 ## Why pile-ons attract participants
@@ -313,7 +311,6 @@ Several factors encourage this behaviour:
 
 The result is that criticism increasingly becomes a performance for observers rather than an attempt to persuade the original speaker.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-2-dark.svg" | relative_url }}" alt="Pile ons illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Pile-ons as social signals
 
@@ -329,9 +326,7 @@ One of the most misleading features of online pile-ons is that they can create a
 
 A reader encountering thousands of hostile responses may unconsciously reason:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bZgxmjiBydM" title="Jon Ronson: &#x27;We&#x27;ve fallen in love with online shaming&#x27; | Channel 4 News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bZgxmjiBydM" target="_blank" rel="noopener noreferrer">Jon Ronson: &#x27;We&#x27;ve fallen in love with online shaming&#x27; | Channel 4 News</a></p><p class="youtube-embed-meta">Channel: Channel 4 News &middot; Views: 22.3K &middot; Uploaded: March 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bZgxmjiBydM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bZgxmjiBydM">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -345,7 +340,6 @@ This reasoning is flawed. The number of critics does not by itself establish the
 
 The danger is not merely that the crowd may be mistaken. It is that the crowd's existence can substitute for argument altogether.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/32FHxbEPmnE" title="Why We Cancel People — The Psychology Behind Online Outrage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=32FHxbEPmnE" target="_blank" rel="noopener noreferrer">Why We Cancel People — The Psychology Behind Online Outrage</a></p><p class="youtube-embed-meta">Channel: ElevateEssence &middot; Views: 52 &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=32FHxbEPmnE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=32FHxbEPmnE">Open on YouTube</a></p></div></div></div>
 
 ## Keeping the claim in view
@@ -353,7 +347,6 @@ The danger is not merely that the crowd may be mistaken. It is that the crowd's 
 Recognising an online ad hominem pile-on requires attention to what is actually being addressed.
 
 Useful questions include:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -368,7 +361,6 @@ Useful questions include:
 These questions help separate legitimate criticism from personal dismissal. A person's credibility, expertise or conflicts of interest may sometimes be relevant. However, those considerations still need to connect to the quality of the evidence or reasoning. Simply attracting mass disapproval does not prove a claim false.
 
 In online environments, this distinction becomes especially important because platform design often rewards speed, visibility and emotional reaction. The easiest content to spread is not always the strongest argument. A quote-post that turns a [debate]({{ 'debate/' | relative_url }}) into a judgement of character may achieve enormous reach while contributing very little to determining whether the original claim is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3625680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryTo Reply or to Quote: Comparing Conversational Framing...Our research (1) demonstrates that the quote feature is more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.yale.edu/2021/08/13/likes-and-shares-teach-people-express-more-outrage-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.yale.edu">[YaleNews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.yale.edu</span><span class="citation-popover-title">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage online</span><span class="citation-popover-snippet">News&#x27;Likes&#x27; and &#x27;shares&#x27; teach people to express more outrage onlineAugust 13, 2021 — 13 Aug 2021 — Yale researchers looked at 12.7 m...</span><span class="citation-popover-meta">Published: August 13, 2021</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-3-dark.svg" | relative_url }}" alt="Pile ons illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_online_pileons_perso_260858-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /informal-logic/
 nav_short_title: Ad Hominem
 title: When Personal Criticism Actually Matters
-title_full: When Personal Criticism Actually Matters | Informal Logic
+title_full: When Personal Criticism Actually Matters
 display_title_short: Ad Hominem
 display_title: Ad Hominem
 heading_title: When Personal Criticism Actually Matters
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:23:58'
-parent_title: Why Context Changes the Argument | Fallacy Lab
+parent_title: Why Context Changes the Argument
 parent_permalink: /informal-logic/
 parent_nav_short_title: Informal Logic
 parent_heading_title: Why Context Changes the Argument
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_homi
 
 An ad hominem argument is often described as “attacking the person instead of the argument”. That is broadly correct, but it leaves out an important distinction. Not every criticism of a person is fallacious. The key question is whether the personal information is relevant to assessing the claim being made. If someone dismisses a mathematical proof because its author is rude, the criticism misses the argument entirely. If someone questions a witness’s testimony because that witness has a documented history of dishonesty, the criticism may be directly relevant to how much trust the testimony deserves. [Informal logic]({{ 'informal-logic/' | relative_url }}) therefore treats ad hominem reasoning as a problem of [relevance]({{ 'relevance/' | relative_url }}), not merely of tone or politeness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 421 — The ad hominem fall...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-1-dark.svg" | relative_url }}" alt="Ad Hominem illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding this distinction matters because many everyday arguments depend partly on trust, expertise, credibility and testimony. In those cases, facts about the speaker can sometimes count as evidence. The challenge is separating legitimate credibility assessment from an irrelevant personal attack.
 
@@ -279,7 +278,6 @@ Understanding this distinction matters because many everyday arguments depend pa
 The classic ad hominem fallacy occurs when criticism of a person is used as a substitute for examining the reasons they have offered.
 
 Consider these examples:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -295,7 +293,6 @@ This is why merely pointing out hypocrisy often fails as a rebuttal. A doctor wh
 
 A useful rule is that objective evidence does not usually change because of who presents it. A calculation remains correct even if performed by an unpleasant person. A photograph does not become less accurate because the photographer has bad motives. When the evidence can stand independently, personal attacks rarely add anything relevant.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oXewyyWqn2A" title="What Is The Fallacy of Ad Hominem? How People Get It Wrong Online | Greg Sadler&#x27;s Advice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oXewyyWqn2A" target="_blank" rel="noopener noreferrer">What Is The Fallacy of Ad Hominem? How People Get It Wrong Online | Greg Sadler&#x27;s Advice</a></p><p class="youtube-embed-meta">Channel: Gregory B. Sadler - That Philosophy Guy &middot; Views: 3.9K &middot; Uploaded: March 2025 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oXewyyWqn2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oXewyyWqn2A">Open on YouTube</a></p></div></div></div>
 
 ## Witness credibility and relevant bias
@@ -303,7 +300,6 @@ A useful rule is that objective evidence does not usually change because of who 
 The picture changes when a claim depends heavily on testimony, expertise or trustworthiness.
 
 In a courtroom, lawyers routinely examine a witness's credibility. If a witness has previously lied under oath, has a strong financial interest in the outcome, or has given contradictory accounts, those facts may affect how much weight a jury should place on the testimony. In such cases, the issue is not whether the witness is a good person. The issue is whether there are reasons to doubt the reliability of the evidence being offered. Argumentation scholars have long noted that credibility challenges of this kind can be legitimate rather than fallacious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/2990/2442" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicAd Hominem Arguments as Legitimate Rebuttals to Appeals to...by M Mizrahi · 2010 · Cited by 20 — One such legitimate case...</span></span></span> Wikipedia The same principle applies outside courts: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +310,6 @@ In a courtroom, lawyers routinely examine a witness's credibility. If a witness 
 </div>
 
 None of these facts automatically prove that the person's current claims are false. They do, however, provide relevant information about reliability, incentives or possible bias. The proper conclusion is usually not “therefore the claim is wrong”, but “therefore the claim requires closer verification”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span> Wikipedia This distinction is crucial. Relevant credibility concerns affect the strength of evidence. Fallacious ad hominem arguments attempt to replac <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ad_hominem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ad hominem</span><span class="citation-popover-snippet">Ad hominem</span></span></span> e evidence with personal criticism.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-2-dark.svg" | relative_url }}" alt="Ad Hominem illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When personal facts become evidence
@@ -337,7 +332,6 @@ Another mistake is guilt by [association]({{ 'association/' | relative_url }}). 
 
 A third error is moving from credibility concerns to certainty. Discovering that a witness has lied before may justify caution, but it rarely proves every statement by that witness is false. Credibility assessment is usually about adjusting confidence rather than reaching absolute conclusions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4CtofTCXcYI" title="Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer">Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: LearnFree &middot; Views: 875.1K &middot; Uploaded: August 2019 &middot; Length: 3 minutes 35 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4CtofTCXcYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4CtofTCXcYI">Open on YouTube</a></p></div></div></div>
 
 ## A checklist for separating character attacks from evidence
@@ -359,15 +353,12 @@ They do not automatically establish that the claim is false.
 
 The most reliable test is to imagine that the same evidence had been presented by someone else. If the evidence would remain equally strong, the personal criticism is probably irrelevant. If the evidence depends substantially on the speaker's honesty, expertise or impartiality, then questions about credibility may be an important part of evaluating the argument.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-3-dark.svg" | relative_url }}" alt="Ad Hominem illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_informal_fallacies_08e748_ad_hominem_relevance_c71a65-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The central distinction
 
 The difference between an ad hominem fallacy and a legitimate credibility concern is not whether a person has been criticised. It is whether the criticism bears on the evidential value of what they are saying. Personal attacks become fallacious when they distract from the argument. They become potentially relevant when the person's reliability, expertise, honesty or bias forms part of the evidence itself. Informal logic therefore asks a more precise question than “Was someone criticised?” It asks: “Does this fact about the person help us judge the claim, or is it merely a distraction?” [Wikipedia+3Internet Encyclopedia of Philosophy+3Stanford Encyclopedia of Philosophy]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJ09OchTiZo" title="Is QUESTIONING a WITNESS’S CREDIBILITY an AD HOMINEM FALLACY? (Logic &amp; Law Explained)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJ09OchTiZo" target="_blank" rel="noopener noreferrer">Is QUESTIONING a WITNESS’S CREDIBILITY an AD HOMINEM FALLACY? (Logic &amp; Law Explained)</a></p><p class="youtube-embed-meta">Channel: Philosophy Classnotes &middot; Views: 10 &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJ09OchTiZo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJ09OchTiZo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

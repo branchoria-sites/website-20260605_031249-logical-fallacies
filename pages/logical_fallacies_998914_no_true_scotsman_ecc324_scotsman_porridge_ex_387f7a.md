@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /no-true/
 nav_short_title: Porridge Case
 title: Why the Porridge Example Still Works
-title_full: Why the Porridge Example Still Works | No True
+title_full: Why the Porridge Example Still Works
 display_title_short: Porridge Case
 display_title: Porridge Case
 heading_title: Why the Porridge Example Still Works
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:20:06'
-parent_title: Are Definitions Moving to Escape Evidence? | Fallacy Lab
+parent_title: Are Definitions Moving to Escape Evidence?
 parent_permalink: /no-true/
 parent_nav_short_title: No True
 parent_heading_title: Are Definitions Moving to Escape Evidence?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_
 
 The porridge story is the best-known illustration of the [No True]({{ 'no-true/' | relative_url }}) Scotsman fallacy because it shows the error in its simplest possible form. A speaker begins with a broad claim about a group: “No Scotsman puts sugar on his porridge.” When a counterexample appears—a Scotsman who does put sugar on his porridge—the speaker does not revise the claim. Instead, the definition changes: “No true Scotsman puts sugar on his porridge.” The example, first popularised by philosopher Antony Flew, remains influential because almost everyone can immediately see what has happened. The discussion is not really about breakfast habits. It is about how an argument can be protected from disproof by changing the meaning of a category after evidence appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-1-dark.svg" | relative_url }}" alt="Porridge Case illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Original Porridge Claim
 
@@ -285,7 +284,6 @@ The classic version involves a simple exchange. One person asserts that no Scots
 The choice of porridge is part of the example’s effectiveness. Putting sugar on porridge is not part of any recognised definition of Scottish identity. It is a preference. Because the trait is obviously unrelated to nationality, readers can immediately recognise that the counterexample should count. The claim “No Scotsman puts sugar on porridge” is an empirical statement that can be checked against reality. One genuine exception is enough to show that the claim is false or at least overstated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
 
 The example therefore strips away distractions. There are no complicated moral issues, political loyalties, or theological disputes. The structure of the reasoning stands out clearly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nzdgd-CoKtQ" title="No True Scotsman fallacy | Middle and High School Homeschooling Logic/Argument video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nzdgd-CoKtQ" target="_blank" rel="noopener noreferrer">No True Scotsman fallacy | Middle and High School Homeschooling Logic/Argument video</a></p><p class="youtube-embed-meta">Channel: ClassicallyDad &middot; Views: 1.2K &middot; Uploaded: February 2021 &middot; Length: 3 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nzdgd-CoKtQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nzdgd-CoKtQ">Open on YouTube</a></p></div></div></div>
 
@@ -296,7 +294,6 @@ The crucial move is the insertion of a single word: *true*.
 Before the counterexample appears, “Scotsman” means a member of the group. After the counterexample appears, “true Scotsman” quietly means a member of the group who already agrees with the original claim. The category has been narrowed specifically to exclude the inconvenient case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">No True Scotsman Fallacy &#124; Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects...</span></span></span>
 
 This matters because the original statement and the revised statement are not the same claim.
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -310,7 +307,6 @@ The revision is not supported by an independent rule about Scottish identity. It
 
 The word *true* gives the impression of a deeper standard, but in the example no such standard is supplied. The speaker is effectively redefining membership so that anyone who disproves the claim is excluded from the group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/what-is-the-appeal-to-purity-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">oup from a counterexample by shifting the definition of the...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-2-dark.svg" | relative_url }}" alt="Porridge Case illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Example Remains So Memorable
 
@@ -322,9 +318,7 @@ Second, the example demonstrates how an argument can become immune to evidence. 
 
 Third, the example captures a pattern that appears in many real disputes. People often feel attached to groups they admire. When a group member behaves in a way that contradicts a cherished belief, there is a temptation to protect the group’s image by excluding the offender from the category rather than revising the belief. The porridge story provides a compact model of that tendency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[Diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4RyXTcqPFv8" title="Abusing The No True Scotsman Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4RyXTcqPFv8" target="_blank" rel="noopener noreferrer">Abusing The No True Scotsman Fallacy</a></p><p class="youtube-embed-meta">Channel: InspiringPhilosophy &middot; Views: 38.3K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4RyXTcqPFv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4RyXTcqPFv8">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a2Y27W5srR0" title="What is the No True Scotsman Fallacy?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a2Y27W5srR0" target="_blank" rel="noopener noreferrer">What is the No True Scotsman Fallacy?</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 10.8K &middot; Uploaded: November 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a2Y27W5srR0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a2Y27W5srR0">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +331,6 @@ When a universal claim is challenged by genuine evidence, there are several reas
 The example therefore highlights a basic principle of good reasoning: definitions should not be rewritten on the spot merely to avoid falsification. A valid category can be clarified, but the clarification must be grounded in a genuine standard rather than invented to eliminate a troublesome case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/askphilosophy/comments/1db4k07/why_is_no_true_scotsman_a_fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why is No True Scotsman a fallacy?: r/askphilosophyA No True Scotsman is when one retroactively modifies an initial claim in order...</span></span></span>
 
 That is why the porridge example remains the standard illustration of the No True Scotsman fallacy. In a few lines, it shows how a counterexample can expose an overconfident claim—and how the word *true* can be used to make that counterexample disappear without actually answering it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/No_true_Scotsman" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">No true Scotsman</span><span class="citation-popover-snippet">No true Scotsman</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-3-dark.svg" | relative_url }}" alt="Porridge Case illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_scotsman_porridge_ex_387f7a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

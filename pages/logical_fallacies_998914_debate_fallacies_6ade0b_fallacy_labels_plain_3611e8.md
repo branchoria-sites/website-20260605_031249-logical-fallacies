@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /debate/
 nav_short_title: Labels
 title: Should You Name the Fallacy?
-title_full: Should You Name the Fallacy? | Debate
+title_full: Should You Name the Fallacy?
 display_title_short: Labels
 display_title: Labels
 heading_title: Should You Name the Fallacy?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:06:37'
-parent_title: How to Spot Fallacies in Debate | Fallacy Lab
+parent_title: How to Spot Fallacies in Debate
 parent_permalink: /debate/
 parent_nav_short_title: Debate
 parent_heading_title: How to Spot Fallacies in Debate
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_l
 
 In live [debate]({{ 'debate/' | relative_url }}), naming a fallacy is often less important than explaining the mistake. A label such as “straw man”, “[false dilemma]({{ 'false-dilemma/' | relative_url }})”, or “ad hominem” can be useful shorthand, but it only helps an audience if they also understand what reasoning step failed and why that failure matters. Argumentation scholars generally treat fallacies as defects in the process of resolving a disagreement, not as magic words that end a discussion. A fallacy label identifies a problem; an explanation shows the audience the problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Pragma-Dialectical Theory of ArgumentationThis chapter discusses the pragma-dialectical approach developed in the Netherlands...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-1-dark.svg" | relative_url }}" alt="Labels illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because public debates are judged by listeners who may not know technical terminology. A speaker who merely announces “that’s a fallacy” can sound evasive or pedantic. A speaker who explains the missing evidence, unsupported assumption, or mistaken inference gives the audience a reason to change its assessment of the argument. The practical question is therefore not whether fallacy names are correct, but whether they improve understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span> Encyclopedia of Philosophy
 
@@ -287,7 +286,6 @@ This distinction matters because public debates are judged by listeners who may 
 For example, if everyone in the room understands what a straw man is, saying “that is a straw man” may instantly communicate that one side has attacked a weaker version of the opponent’s position rather than the actual claim. The label functions as efficient shorthand.
 
 Labels can also help organise analysis. Argumentation theory often classifies recurring reasoning errors because identifying patterns makes evaluation easier. In pragma-dialectical theory, fallacies are understood as moves that violate the rules of a reasonable critical discussion. Categorising those violations helps analysts recognise where a discussion has gone off track. Springer <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/VANFIP-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">VANFIP 2</span><span class="citation-popover-snippet">Fallacies in pragma-dialectical perspective.by FH Van Eemeren · 1987 · Cited by 319 — In the pragma-dialectical approach, fallacies are c...</span></span></span>, labels are most useful when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,7 +306,6 @@ For example:
 
 The label saves time; the explanation does the persuasive work.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P3w6LTkRCZQ" title="How to Spot Logical Fallacies (Featuring Joe Rogan and Ben Shapiro)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P3w6LTkRCZQ" target="_blank" rel="noopener noreferrer">How to Spot Logical Fallacies (Featuring Joe Rogan and Ben Shapiro)</a></p><p class="youtube-embed-meta">Channel: Mr. Beat &middot; Views: 3.4M &middot; Uploaded: March 2021 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P3w6LTkRCZQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P3w6LTkRCZQ">Open on YouTube</a></p></div></div></div>
 
 ## When Jargon Loses the Room
@@ -324,7 +321,6 @@ This risk is especially clear with commonly misunderstood fallacies. The ad homi
 Research and theory on argumentation repeatedly emphasise that the central issue is whether a move advances or obstructs reasonable discussion. Simply attaching a fallacy name does not demonstrate that the move actually failed that test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-90-481-9473-5_10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Pragma-Dialectical Theory of ArgumentationThis chapter discusses the pragma-dialectical approach developed in the Netherlands...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">more...</span></span></span>
 
 In live debate, jargon can also create an image problem. Audiences may perceive repeated fallacy-calling as scorekeeping rather than reasoning. A speaker who constantly announces labels can appear more interested in winning technical points than answering the underlying issue.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-2-dark.svg" | relative_url }}" alt="Labels illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Turn Labels into Plain Tests
@@ -363,7 +359,6 @@ Fallacy labelPlain-language testStraw manIs this actually the claim being made?H
 
 The audience does not need to memorise terminology. They only need to understand the reasoning test.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ghbkv0MKV-w" title="Can you outsmart this logical fallacy? - Alex Gendler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ghbkv0MKV-w" target="_blank" rel="noopener noreferrer">Can you outsmart this logical fallacy? - Alex Gendler</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 2.3M &middot; Uploaded: November 2019 &middot; Length: 3 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ghbkv0MKV-w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ghbkv0MKV-w">Open on YouTube</a></p></div></div></div>
 
 ## Why Explanations Persuade Better
@@ -386,7 +381,6 @@ Consider two responses:
 
 The second response gives the audience a concrete reason to doubt the argument. Even listeners who have never heard the phrase “slippery slope” can follow the logic.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-3-dark.svg" | relative_url }}" alt="Labels illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b_fallacy_labels_plain_3611e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Best Debate Practice
 
@@ -395,7 +389,6 @@ In most live disagreements, the strongest approach is neither to avoid labels no
 Use the label if it helps orient the audience. Then immediately explain the reasoning failure in ordinary language.
 
 A concise pattern is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -413,9 +406,7 @@ The audience learns both the name and the reason.
 
 The practical lesson is simple: a fallacy label is a shortcut, not an argument. In live debate, audiences are usually persuaded less by hearing the name of a mistake than by seeing exactly how the reasoning went wrong. Labels can save time, but explanations change minds.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vA_lM-2fpW0" title="Logical Fallacies Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vA_lM-2fpW0" target="_blank" rel="noopener noreferrer">Logical Fallacies Explained</a></p><p class="youtube-embed-meta">Channel: Communication Coach Alexander Lyon &middot; Views: 91.9K &middot; Uploaded: February 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vA_lM-2fpW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vA_lM-2fpW0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -808,6 +799,7 @@ The practical lesson is simple: a fallacy label is a shortcut, not an argument. 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

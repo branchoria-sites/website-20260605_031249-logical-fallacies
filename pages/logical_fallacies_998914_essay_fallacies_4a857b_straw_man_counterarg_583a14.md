@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /essays/
 nav_short_title: Straw Men
 title: Are You Answering the Real Objection?
-title_full: Are You Answering the Real Objection? | Essays
+title_full: Are You Answering the Real Objection?
 display_title_short: Straw Men
 display_title: Straw Men
 heading_title: Are You Answering the Real Objection?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:04:25'
-parent_title: How Fallacies Weaken Student Essays | Fallacy Lab
+parent_title: How Fallacies Weaken Student Essays
 parent_permalink: /essays/
 parent_nav_short_title: Essays
 parent_heading_title: How Fallacies Weaken Student Essays
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_
 
 A counterargument strengthens an academic essay only when it engages with an opposing view as that view would actually be presented by a reasonable critic. A straw man counterargument occurs when a writer replaces a real objection with a weaker, simplified, exaggerated or distorted version and then refutes that substitute instead of the genuine argument. Writing centres and logic guides consistently identify this as a major reasoning error because it creates the appearance of rebuttal without addressing the strongest evidence on the other side. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLStraw Man: This move oversimplifies an opponent&#x27;s viewpoint and then attacks that hollow argument...</span></span></span> 2scribbr.com
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1-dark.svg" | relative_url }}" alt="Straw Men illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In academic writing, the problem is not merely unfairness. A straw man signals that the writer may not fully understand the [debate]({{ 'debate/' | relative_url }}), the sources, or the competing interpretations surrounding the topic. As a result, the rebuttal often fails to persuade informed readers, who can see that the real objection remains unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[writingcenter.fas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
 
@@ -315,10 +314,9 @@ Even if the rebuttal succeeds against the distorted version, the original object
 
 Academic argument relies on intellectual fairness. Readers are more likely to trust writers who represent opposing evidence accurately before responding.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[**It weakens critical thinking.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Straw Man Fallacy?</span><span class="citation-popover-snippet">Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</span></span></span>
+**It weakens critical thinking.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychologycorner.com/critical-thinking-resources/what-is-the-straw-man-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologycorner.com">[psychologycorner.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologycorner.com</span><span class="citation-popover-title">What is The Straw Man Fallacy?</span><span class="citation-popover-snippet">Critical Thinking BasicsThe Straw Man fallacy occurs when an argument misrepresents an opponent&#x27;s position to make it easier to attack...</span></span></span>
 
 Counterarguments are intended to test the strength of a thesis. Replacing a strong objection with a weak one removes that test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.haverford.edu/sites/default/files/Office/Writing-Center/logicreason.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haverford.edu">[Haverford College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haverford.edu</span><span class="citation-popover-snippet">Haverford CollegeAVOIDING COMMON ERRORS IN LOGIC AND REASONINGJanuary 21, 2005 — By suppressing her knowledge of a possible counter-argum...</span><span class="citation-popover-meta">Published: January 21, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.fas.harvard.edu/counterargument" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.fas.harvard.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.fas.harvard.edu</span><span class="citation-popover-snippet">Counterargument &#124; Harvard College Writing CenterThe arguments that your readers could reasonably raise to challenge either your thesis or...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfil34ayaEU" title="CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Straw Man Fallacy [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 967.4K &middot; Uploaded: April 2016 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfil34ayaEU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfil34ayaEU">Open on YouTube</a></p></div></div></div>
 
@@ -332,7 +330,6 @@ Several practices help prevent straw man reasoning:
 
 Before drafting a rebuttal, ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What is the best evidence supporting the opposing view?
@@ -342,7 +339,6 @@ Before drafting a rebuttal, ask:
 </div>
 
 If the counterargument sounds obviously foolish, it is probably not the real argument.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-2-dark.svg" | relative_url }}" alt="Straw Men illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use neutral language
@@ -358,7 +354,6 @@ Write:
 > Critics argue that rapid technological adoption may create privacy and oversight concerns.
 
 Neutral phrasing keeps the focus on ideas rather than ridicule.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jrgwbhayxKM" title="AP Lang - Logical Fallacies: Ad Hominem &amp; Straw Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jrgwbhayxKM" target="_blank" rel="noopener noreferrer">AP Lang - Logical Fallacies: Ad Hominem &amp; Straw Man</a></p><p class="youtube-embed-meta">Channel: Fiveable &middot; Views: 1.5K &middot; Uploaded: December 2020 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jrgwbhayxKM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jrgwbhayxKM">Open on YouTube</a></p></div></div></div>
 
@@ -388,7 +383,6 @@ The objection has been exaggerated into a call for a total ban.
 
 The revised version identifies the actual concern and responds with evidence-based reasoning.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-3-dark.svg" | relative_url }}" alt="Straw Men illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_straw_man_counterarg_583a14-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Example 2: Artificial Intelligence in Education
 
@@ -403,7 +397,6 @@ The revised version identifies the actual concern and responds with evidence-bas
 > Critics of AI tools in education often argue that excessive reliance on automated systems may weaken independent thinking and create opportunities for academic misconduct. These concerns are significant, but structured classroom policies and transparent assessment methods may reduce these risks while preserving the educational benefits of AI-assisted learning.
 
 The rebuttal engages with the real objection rather than an invented extreme.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v5vzCmURh7o" title="The &quot;Straw Man&quot; Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v5vzCmURh7o" target="_blank" rel="noopener noreferrer">The &quot;Straw Man&quot; Fallacy</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 450.2K &middot; Uploaded: November 2009 &middot; Length: 3 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v5vzCmURh7o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v5vzCmURh7o">Open on YouTube</a></p></div></div></div>
 
@@ -422,7 +415,6 @@ The revised paragraph answers a genuine policy argument rather than a caricature
 ## A Quick Test for Detecting Straw Men During Revision
 
 Before finalising a counterargument paragraph, apply three questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /red-herring/
 nav_short_title: Straw Man
 title: Straw Man or Red Herring?
-title_full: Straw Man or Red Herring? | Red Herring
+title_full: Straw Man or Red Herring?
 display_title_short: Straw Man
 display_title: Straw Man
 heading_title: Straw Man or Red Herring?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 16:04:59'
-parent_title: Is This Point Actually Relevant? | Fallacy Lab
+parent_title: Is This Point Actually Relevant?
 parent_permalink: /red-herring/
 parent_nav_short_title: Red Herring
 parent_heading_title: Is This Point Actually Relevant?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_
 
 A straw man and a [red herring]({{ 'red-herring/' | relative_url }}) are often confused because both prevent a discussion from engaging with the original argument. The crucial difference is simple: a **straw man changes the argument**, while a **red herring changes the subject**. A straw man misrepresents what someone said and then attacks the distorted version. A red herring leaves the original claim behind and directs attention to a different issue that may be interesting, emotional, or loosely related but does not answer the point at hand. Philosophers and writing specialists consistently distinguish straw man fallacies as misrepresentation and red herrings as diversion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-1-dark.svg" | relative_url }}" alt="Straw Man illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Because both tactics can occur in the same [debate]({{ 'debate/' | relative_url }}), identifying the correct label requires looking closely at what happened to the original claim. Was it rewritten into a weaker version, or was it simply abandoned?
 
@@ -314,7 +313,6 @@ The speaker has transformed a limited proposal into an extreme position and then
 
 Employment may be an important topic, but it does not address whether reducing plastic waste is justified. The discussion has shifted tracks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.txst.edu/philosophy/student-resources/informal-fallacies/straw-person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txst.edu">[Texas State University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txst.edu</span><span class="citation-popover-snippet">Texas State UniversityStraw Person: Department of PhilosophyStraw person is the misrepresentation of an opponent&#x27;s position or a competi...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Va6CI87t9rs" title="Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer">Logical Fallacies in One Minute: Non Sequitur, Ad Hominem, Red Herring, Straw Man and Slippery Slope</a></p><p class="youtube-embed-meta">Channel: One Minute Economics &middot; Views: 26.9K &middot; Uploaded: April 2019 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Va6CI87t9rs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Va6CI87t9rs">Open on YouTube</a></p></div></div></div>
 
 ### Example 2: Public Spending
@@ -335,7 +333,6 @@ The criticism of a particular overspend is replaced with a much broader and more
 
 The awards may be genuine, but they do not answer the question about overspending.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-2-dark.svg" | relative_url }}" alt="Straw Man illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Example 3: Health Advice
 
@@ -355,7 +352,6 @@ This follows the classic pattern of exaggerating a moderate recommendation into 
 
 The statement may be true, but it does not address the recommendation about walking.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kl48A9Y5ls8" title="Red Herring vs. Straw Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kl48A9Y5ls8" target="_blank" rel="noopener noreferrer">Red Herring vs. Straw Man</a></p><p class="youtube-embed-meta">Channel: Mike Coste &middot; Views: 17.2K &middot; Uploaded: October 2011 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kl48A9Y5ls8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kl48A9Y5ls8">Open on YouTube</a></p></div></div></div>
 
 ## Why the Confusion Happens
@@ -365,7 +361,6 @@ Several features make the two fallacies easy to mistake for one another.
 First, both avoid confronting the strongest version of the original argument. Whether through distortion or diversion, the difficult point never receives a direct answer.
 
 Second, speakers sometimes combine the fallacies. A person may first misrepresent an opponent's claim and then shift the conversation elsewhere. For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -378,7 +373,6 @@ Second, speakers sometimes combine the fallacies. A person may first misrepresen
 The first sentence attacks a distorted position; the second changes the subject. The audience may perceive one continuous response even though two distinct fallacies have occurred.
 
 Third, emotional appeals can disguise both tactics. [Anger]({{ 'anger/' | relative_url }}), loyalty, fear, or sympathy may draw attention away from whether the response actually engaged with the argument. Research on fallacy detection consistently finds that identifying the specific error often requires tracing how the response relates to the original claim rather than focusing on the emotional force of the language. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2212.07425" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Robust and Explainable Identification of Logical Fallacies in Natural Language ArgumentsDecember 12, 2022...</span><span class="citation-popover-meta">Published: December 12, 2022</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-3-dark.svg" | relative_url }}" alt="Straw Man illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_red_herrings_458e95_straw_man_vs_red_her_99c39f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Questions That Identify the Right Label
@@ -401,7 +395,6 @@ A useful shortcut is:
 
 * **Straw man:** "That's not what I argued."
 * **Red herring:** "That doesn't answer the question."
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xreo5LDLU0o" title="Straw man fallacy vs. fallacy of missing the point vs. the red herring fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xreo5LDLU0o" target="_blank" rel="noopener noreferrer">Straw man fallacy vs. fallacy of missing the point vs. the red herring fallacy</a></p><p class="youtube-embed-meta">Channel: Karin Howe &middot; Views: 2.5K &middot; Uploaded: January 2017 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xreo5LDLU0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xreo5LDLU0o">Open on YouTube</a></p></div></div></div>
 

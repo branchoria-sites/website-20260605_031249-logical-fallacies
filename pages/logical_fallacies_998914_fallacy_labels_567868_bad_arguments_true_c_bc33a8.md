@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /labels/
 nav_short_title: Bad vs True
 title: When Bad Arguments Still Reach True Claims
-title_full: When Bad Arguments Still Reach True Claims | Labels
+title_full: When Bad Arguments Still Reach True Claims
 display_title_short: Bad vs True
 display_title: Bad vs True
 heading_title: When Bad Arguments Still Reach True Claims
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:07:36'
-parent_title: When Fallacy Labels Mislead Too | Fallacy Lab
+parent_title: When Fallacy Labels Mislead Too
 parent_permalink: /labels/
 parent_nav_short_title: Labels
 parent_heading_title: When Fallacy Labels Mislead Too
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_argumen
 
 A weak argument and a false conclusion are not the same thing. This distinction sits at the heart of understanding [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and avoiding the fallacy fallacy. When an argument contains a reasoning error, the most that has been shown is that the argument fails to establish its conclusion. The conclusion itself may still be true for entirely different reasons. Philosophers and logicians generally treat fallacies as defects in reasoning rather than automatic proof that a claim is false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesOne widely accepted definition defines a fallacious argument as one that either is deductivel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 427 — Two competing conce...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-1-dark.svg" | relative_url }}" alt="Bad vs True illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because [debate]({{ 'debate/' | relative_url }}) often goes wrong at exactly this point. Someone identifies a fallacy, then immediately jumps from “that argument is bad” to “therefore the claim is false”. The proper conclusion is usually much narrower: the claim has not been adequately proved by that argument. Whether the claim is true remains a separate question requiring further evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">The Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
 
@@ -300,7 +299,6 @@ This is why identifying a fallacy does not settle the factual question. It settl
 ## Train-Strike and Public-Health Examples
 
 Concrete cases make the distinction easier to see.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qf03U04rqGQ" title="31 logical fallacies in 8 minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer">31 logical fallacies in 8 minutes</a></p><p class="youtube-embed-meta">Channel: Jill Bearup &middot; Views: 2.4M &middot; Uploaded: January 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qf03U04rqGQ">Open on YouTube</a></p></div></div></div>
 
@@ -328,14 +326,12 @@ Yet the recommendation could still be sound. If clinical studies and public-heal
 
 In both examples, the reasoning fails to do the work assigned to it. The conclusion survives or falls based on separate evidence, not on the weakness of the original argument. This reflects a central insight in argumentation theory: exposing a fallacy undercuts a particular line of support, not necessarily the proposition being supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesOne widely accepted definition defines a fallacious argument as one that either is deductivel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">The Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-2-dark.svg" | relative_url }}" alt="Bad vs True illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Coincidence Creates True Conclusions from Bad Arguments
 
 Many people instinctively assume that bad reasoning should produce false beliefs. Real life is messier.
 
 A conclusion can turn out to be true because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,12 +342,11 @@ A conclusion can turn out to be true because:
 
 </div>
 
-This possibility is well recognised in discussions of logical fallacies. A fallacious argument can have a true conclusion; what makes it fallacious is the failure of the reasoning, not the eventual truth value of the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveList of fallaciesArgument from fallacy – assumes that if an argument for some conclusion is fallacious... While the con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from fallacy</span><span class="citation-popover-snippet">Argument from fallacy</span></span></span>
+This possibility is well recognised in discussions of logical fallacies. A fallacious argument can have a true conclusion; what makes it fallacious is the failure of the reasoning, not the eventual truth value of the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveList of fallaciesArgument from fallacy – assumes that if an argument for some conclusion is fallacious... While the con...</span></span></span> Wikipedia For example: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from fallacy</span><span class="citation-popover-snippet">Argument from fallacy</span></span></span>
 
 > “Jackson is a mammal; therefore Jackson is a human.”
 
 The inference is invalid. Many mammals are not humans. Yet if Jackson actually is a human, the conclusion happens to be true. The argument remains defective because the premises do not adequately establish that conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/download/ThinkingFallacies/ThinkingFallacies-Part1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveList of fallaciesArgument from fallacy – assumes that if an argument for some conclusion is fallacious... While the con...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oGBO-WMrlIQ" title="The Fallacy Fallacy | Idea Channel | PBS Digital Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oGBO-WMrlIQ" target="_blank" rel="noopener noreferrer">The Fallacy Fallacy | Idea Channel | PBS Digital Studios</a></p><p class="youtube-embed-meta">Channel: PBS Idea Channel &middot; Views: 179.9K &middot; Uploaded: January 2015 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oGBO-WMrlIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oGBO-WMrlIQ">Open on YouTube</a></p></div></div></div>
 
@@ -375,7 +370,6 @@ This shift sounds subtle, but it changes the entire discussion. It keeps attenti
 
 A related danger is treating the mere accusation of a fallacy as sufficient refutation. Contemporary discussions of the fallacy fallacy note that critics sometimes leap from spotting a supposed error in reasoning to dismissing an entire position. The proper next step is usually to examine alternative evidence, not to declare the issue settled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/ABETFF-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-snippet">The Fallacy FallacyNovember 2, 2022 — by A Aberdein · 2023 · Cited by 7 — Abstract The fallacy fallacy is either the misdiagno...</span><span class="citation-popover-meta">Published: November 2, 2022</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-3-dark.svg" | relative_url }}" alt="Bad vs True illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_bad_arguments_true_c_bc33a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Practical Value of the Distinction
 
@@ -387,9 +381,7 @@ Second, it encourages evidence-seeking. Once a weak argument has been identified
 
 That is why [fallacy labels]({{ 'labels/' | relative_url }}) are most useful as diagnostic tools. They help answer whether a particular argument works. They do not, by themselves, answer what is true. A bad argument may fail completely as proof while still pointing, by accident or for unstated reasons, toward a conclusion that happens to be correct. [Wikipedia+3Internet Encyclopedia of Philosophy+3Stanford Encyclopedia of Philosophy]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e69OECc4AlQ" title="What Bad Arguments Prove &amp; Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e69OECc4AlQ" target="_blank" rel="noopener noreferrer">What Bad Arguments Prove &amp; Why</a></p><p class="youtube-embed-meta">Channel: Christopher Anadale &middot; Views: 1.2K &middot; Uploaded: December 2016 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e69OECc4AlQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e69OECc4AlQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -919,4 +911,4 @@ That is why [fallacy labels]({{ 'labels/' | relative_url }}) are most useful as 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: 31 logical fallacies in 8 minutes  
-   Link: <a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qf03U04rqGQ</a>  
+   Link: <a href="https://www.youtube.com/watch?v=Qf03U04rqGQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qf03U04rqGQ</a>

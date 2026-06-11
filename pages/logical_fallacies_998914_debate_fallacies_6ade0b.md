@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Debate
 title: How to Spot Fallacies in Debate
-title_full: How to Spot Fallacies in Debate | Fallacy Lab
+title_full: How to Spot Fallacies in Debate
 display_title_short: Debate
 display_title: Debate
 heading_title: How to Spot Fallacies in Debate
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-overview-
 
 Debates make [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) especially tempting because speakers have to think quickly, protect their credibility, answer attacks and persuade an audience at the same time. A fallacy in live debate is not just a textbook error with a Latin name; it is often a fast rhetorical move that shifts attention away from the real point at issue. The practical skill is therefore not “spotting fallacies” as a way to score cheap points. It is learning to ask, under pressure: What claim is being made? What reason is being offered? Does that reason actually answer the question? What would be the fairest version of the opponent’s point?
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-overview.webp" | relative_url }}" alt="Overview image for Debate" loading="eager" decoding="sync" fetchpriority="high">
 That matters because a live audience may reward confidence, humour, speed or emotional force before it rewards careful reasoning. Argumentation theory treats fallacies as moves that obstruct the reasonable resolution of disagreement, while debate practice adds a further complication: the speaker must correct the reasoning without looking evasive, pedantic or unfair. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10503-023-09605-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The Pragma-Dialectical Approach to the Fallacies Revisited &#124; Argumentation &#124; Springer Nature Link...</span></span></span>
 
@@ -521,7 +520,6 @@ The best live rebuttals are usually short, specific and tied to the motion or qu
 
 A practical fast-check sequence is:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Restate the claim.** What exactly is the opponent asking the audience to believe?
@@ -535,7 +533,6 @@ A practical fast-check sequence is:
 For example, suppose a speaker says: “My opponent’s policy failed in one city, so it will fail everywhere.” A slow textbook response might call this a hasty generalisation. A better live response is: “One city is not a test of every version of the policy. They have not shown that the same conditions apply here, so this example does not carry the national conclusion they need.” The rebuttal identifies the leap, explains the missing bridge and keeps the audience focused on decision quality.
 
 The same pattern works for ad hominem attacks. Research on web argumentation notes that even in settings where debate rules are enforced, arguers can lapse into attacking the opponent rather than the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1802.06613" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv[1802.06613] Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation...</span></span></span> In live strategy, the reply should be brief: “That criticism is about me, not the evidence. The question remains whether the figures support the claim.” This avoids being dragged into a personality contest.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-1-dark.svg" | relative_url }}" alt="Debate illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Audience persuasion is not the same as sound reasoning
@@ -556,7 +553,6 @@ In live debate, fair reconstruction has strategic value as well as ethical value
 
 Fair reconstruction does not mean softening every opponent’s claim until it becomes harmless. It means separating three things:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **The exact words used**, which may be rushed or imprecise.
@@ -567,7 +563,6 @@ Fair reconstruction does not mean softening every opponent’s claim until it be
 
 A useful live formula is: “I take their point to be X. If that is the claim, it still fails because Y.” This gives the opponent a fair version while preserving the rebuttal. It also reduces the risk of wasting time on minor slips that do not affect the central clash.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IS8doeSyVNo" title="How to Win Every Argument (Even if You Are Wrong)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IS8doeSyVNo" target="_blank" rel="noopener noreferrer">How to Win Every Argument (Even if You Are Wrong)</a></p><p class="youtube-embed-meta">Channel: Rise Above Reality &middot; Views: 1.2M &middot; Uploaded: December 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IS8doeSyVNo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IS8doeSyVNo">Open on YouTube</a></p></div></div></div>
 
 ## When naming the fallacy helps, and when it backfires
@@ -575,7 +570,6 @@ A useful live formula is: “I take their point to be X. If that is the claim, i
 Fallacy labels are efficient, but they can sound like jargon or point-scoring. In front of a specialist judge, “non sequitur”, “false cause” or “[appeal to authority]({{ 'authority/' | relative_url }})” may be useful shorthand. In front of a general audience, the explanation usually matters more than the label.
 
 Use the label when it clarifies the flaw quickly:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -588,7 +582,6 @@ Use the label when it clarifies the flaw quickly:
 Avoid leading with the label when the audience may hear it as evasive. “That’s ad hominem” can sound abstract; “Attacking the speaker does not answer the evidence” is clearer. “That’s slippery slope” may sound dismissive; “They have not shown the chain of events that would take us from this policy to that extreme outcome” explains the missing reasoning.
 
 This distinction matches a broader point from pragma-dialectics: the same familiar fallacy name can cover different kinds of argumentative failure depending on the stage and function of the move. An appeal to authority, for example, may be wrong because the speaker refuses to defend the claim, because the authority is irrelevant, or because ethos is being used in place of argument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-94-007-6883-3_10-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span> In live debate, the response should target the actual failure, not merely the nearest label.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-2-dark.svg" | relative_url }}" alt="Debate illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Handling fallacies without losing the room
@@ -605,7 +598,6 @@ A strong live response usually follows this order:
 
 This approach is especially important when correcting emotionally charged claims. Research on misinformation correction suggests that [corrections]({{ 'corrections/' | relative_url }}) often improve factual beliefs, and strong “backfire” effects are less common than once feared, but correction effects can be limited by motivation, identity and context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7934973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In debate terms, simply saying “false” may not be enough. The audience needs an alternative explanation that preserves what they care about while removing the faulty inference.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NKEhdsnKKHs" title="How to Argue - Philosophical Reasoning: Crash Course Philosophy #2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer">How to Argue - Philosophical Reasoning: Crash Course Philosophy #2</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 5.3M &middot; Uploaded: February 2016 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NKEhdsnKKHs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NKEhdsnKKHs">Open on YouTube</a></p></div></div></div>
 
 ## Common live-debate traps
@@ -621,7 +613,6 @@ The most frequent fallacy traps in debate are not obscure. They are simple moves
 **Ignoring burden of proof.** Many fallacies work by shifting burdens. A speaker might say, “You cannot prove this policy will never fail, so we should reject it.” The answer is to restore the proper standard: the question is not whether failure is impossible, but whether the likely benefits outweigh the risks.
 
 **Winning the exchange but losing credibility.** Sarcasm can expose a fallacy, but it can also make the speaker look unfair. The safest approach is controlled clarity: explain the flaw sharply without belittling the opponent.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-3-dark.svg" | relative_url }}" alt="Debate illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_debate_fallacies_6ade0b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical model for live argument strategy
@@ -640,9 +631,7 @@ This model turns fallacy-spotting into live decision-making. A straw man fails a
 
 The best debaters make this visible to the audience. They do not merely announce that an argument is fallacious. They show the audience where the reasoning breaks, why that break matters, and what fair version of the argument still remains to be answered. That combination — fast checking, audience-aware explanation and fair reconstruction — is what turns knowledge of logical fallacies into effective live argument strategy.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bX0LMp11CXI" title="Rebuttal Basics in Debate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bX0LMp11CXI" target="_blank" rel="noopener noreferrer">Rebuttal Basics in Debate</a></p><p class="youtube-embed-meta">Channel: National Speech &amp; Debate Association &middot; Views: 13.5K &middot; Uploaded: September 2021 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bX0LMp11CXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bX0LMp11CXI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -761,11 +750,11 @@ The best debaters make this visible to the audience. They do not merely announce
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Great Debate Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/hJIAAeSwhIpo1am3/s-l225.jpg" alt="Listing image for The Great Debate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1984 Ronald Reagan vs Walter Mondale Debate Poster"><img src="https://i.ebayimg.com/images/g/xr0AAOSwW0VcApCC/s-l225.jpg" alt="Listing image for 1984 Ronald Reagan vs Walter Mondale Debate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">The Great Debate Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">1984 Ronald Reagan vs Walter Mondale Debate Poster</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
         <div class="fr-book-actions">
@@ -777,11 +766,11 @@ The best debaters make this visible to the audience. They do not merely announce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 📜 The Vienna Circle - Kaffeehaus Debate Poster - Retro Decor 200GSM Paper"><img src="https://i.ebayimg.com/images/g/xs8AAeSwvrRpYHqP/s-l225.jpg" alt="Listing image for 📜 The Vienna Circle - Kaffeehaus Debate Poster - Retro Decor 200GSM Paper" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Debate Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Yj0AAeSwz8RpiOL5/s-l225.jpg" alt="Listing image for Debate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">📜 The Vienna Circle - Kaffeehaus Debate Poster - Retro Decor 200GSM Paper</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Debate Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
         <div class="fr-book-actions">
@@ -793,11 +782,11 @@ The best debaters make this visible to the audience. They do not merely announce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG The Great Debate Poster Harry S Truman Walter F Mondale Radisson Muehlebach"><img src="https://i.ebayimg.com/images/g/g18AAeSwK4Rn~X~F/s-l225.jpg" alt="Listing image for VTG The Great Debate Poster Harry S Truman Walter F Mondale Radisson Muehlebach" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359"><img src="https://i.ebayimg.com/images/g/7~0AAOSwdSZmKOX1/s-l225.jpg" alt="Listing image for PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">VTG The Great Debate Poster Harry S Truman Walter F Mondale Radisson Muehlebach</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">PUNK DEBATE - SOUNDS COVER PAGE 15x11&#x27; 1982 Poster Size Advert L359</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
         <div class="fr-book-actions">
@@ -809,11 +798,11 @@ The best debaters make this visible to the audience. They do not merely announce
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Research and Data Incoming Debate Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Q~cAAeSwUN9pqiUI/s-l225.jpg" alt="Listing image for Research and Data Incoming Debate Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dominate. Don&#x27;t Debate. Motivationa Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6YgAAeSwyqhphikr/s-l225.jpg" alt="Listing image for Dominate. Don&#x27;t Debate. Motivationa Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Research and Data Incoming Debate Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer">Dominate. Don&#x27;t Debate. Motivationa Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=debate+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-spot-fallacies-in-debate-debate-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="debate poster" data-ebay-reference="how-to-spot-fallacies-in-debate-debate-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for debate poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: debate poster</a>
         <div class="fr-book-actions">
@@ -1035,6 +1024,7 @@ The best debaters make this visible to the audience. They do not merely announce
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1165,4 +1155,4 @@ The best debaters make this visible to the audience. They do not merely announce
 
 29. <a id="endnote-29"></a>
    Source: rozenbergquarterly.com  
-   Link: <a href="https://rozenbergquarterly.com/issa-proceedings-2006-informal-logic-and-pragma-dialectics/" target="_blank" rel="noopener noreferrer nofollow">https://rozenbergquarterly.com/issa-proceedings-2006-informal-logic-and-pragma-dialectics/</a>  
+   Link: <a href="https://rozenbergquarterly.com/issa-proceedings-2006-informal-logic-and-pragma-dialectics/" target="_blank" rel="noopener noreferrer nofollow">https://rozenbergquarterly.com/issa-proceedings-2006-informal-logic-and-pragma-dialectics/</a>

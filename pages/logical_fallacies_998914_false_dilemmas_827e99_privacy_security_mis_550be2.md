@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /false-dilemma/
 nav_short_title: Privacy Security
 title: Do We Have to Choose Privacy or Safety?
-title_full: Do We Have to Choose Privacy or Safety? | False Dilemma
+title_full: Do We Have to Choose Privacy or Safety?
 display_title_short: Privacy Security
 display_title: Privacy Security
 heading_title: Do We Have to Choose Privacy or Safety?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 12:13:15'
-parent_title: What Choices Are Being Hidden? | Fallacy Lab
+parent_title: What Choices Are Being Hidden?
 parent_permalink: /false-dilemma/
 parent_nav_short_title: False Dilemma
 parent_heading_title: What Choices Are Being Hidden?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_sec
 
 The debate over privacy and security is often presented as a stark choice: either citizens retain strong privacy protections or governments gain the powers needed to keep people safe. As an example of a [false dilemma]({{ 'false-dilemma/' | relative_url }}), this framing is persuasive because both values matter and because genuine conflicts sometimes arise between them. Yet many policy disputes are not about choosing one value and abandoning the other. They are about designing institutions, rules, and oversight [mechanisms]({{ 'mechanisms/' | relative_url }}) that protect both as far as possible. Legal warrants, independent review bodies, transparency requirements, targeted surveillance authorities, data-minimisation rules, and audits all exist because democratic societies have long recognised that privacy and security need not be treated as mutually exclusive goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=7454&amp;[context" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarlycommons.law.northwestern.edu">[Scholarly Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarlycommons.law.northwestern.edu</span><span class="citation-popover-snippet">Scholarly CommonsPrivacy Versus Securityby DE Bambauer · 2013 · Cited by 146 — Legal scholarship tends to conflate privacy and security...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-title">OECD LEGAL 0487</span><span class="citation-popover-snippet">OECD Legal InstrumentsDeclaration on Government Access to Personal Data Held14 Dec 2022 — Principles for government access to personal da...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-1-dark.svg" | relative_url }}" alt="Privacy Security illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader topic of [false dilemmas]({{ 'false-dilemma/' | relative_url }}) and missing-middle options, the privacy-versus-security debate is a useful case study because it shows how governance choices can expand the range of available options. The question is often not “privacy or safety?” but “what [safeguards]({{ 'safeguards/' | relative_url }}) allow security measures to operate without granting unlimited power?”
 
@@ -291,7 +290,6 @@ Scholars have also noted that privacy and security are frequently treated as if 
 ## Safeguards as Middle Options
 
 The missing middle in this debate consists of governance mechanisms that seek to achieve security objectives while limiting unnecessary intrusions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gB_aGRYjMnI" title="Should Security Cost Your Privacy? | CIA Spy vs Privacy Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gB_aGRYjMnI" target="_blank" rel="noopener noreferrer">Should Security Cost Your Privacy? | CIA Spy vs Privacy Pro</a></p><p class="youtube-embed-meta">Channel: Proton &middot; Views: 28.1K &middot; Uploaded: September 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gB_aGRYjMnI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gB_aGRYjMnI">Open on YouTube</a></p></div></div></div>
 
@@ -313,7 +311,6 @@ Auditing creates another middle option. Instead of assuming that authorities wil
 
 Privacy audits can evaluate whether organisations collected excessive data, retained information too long, or failed to implement promised safeguards. In government settings, audit trails can help ensure that surveillance tools are used only for authorised purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.compact.nl/articles/privacy-audits/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: compact.nl">[Compact]</a><span class="citation-popover" role="note"><span class="citation-popover-source">compact.nl</span><span class="citation-popover-snippet">Privacy auditsData privacy is an important management aspect and contributes to sustainable investments. It should therefore take...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-2-dark.svg" | relative_url }}" alt="Privacy Security illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Data Minimisation and Narrower Collection Rules
 
@@ -331,7 +328,6 @@ The debate is therefore not simply about privacy. Strong encryption protects ban
 
 This does not mean that investigative challenges disappear. Instead, policymakers have explored alternatives such as targeted device access, improved digital forensics, international cooperation, specialised investigative capabilities, and judicially supervised access procedures. Whether these alternatives are sufficient remains contested, but their existence demonstrates that the policy landscape contains more than two choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.csis.org/programs/strategic-technologies-program/intelligence-surveillance-and-privacy/effect-encryption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: csis.org">[CSIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">csis.org</span><span class="citation-popover-snippet">The Effect of Encryption on Lawful Access to...Our research found that the risk to public safety created by encryption has not reach...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2018/05/01/encryption-backdoors-civil-liberties-law-enforcement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-snippet">This stalemate has made it challenging to publicly discuss any potential compromise. Some insiders from government and big-tech companies...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RRt08MvK4tE" title="Why You&#x27;re Misunderstanding Privacy (and How It Harms You)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RRt08MvK4tE" target="_blank" rel="noopener noreferrer">Why You&#x27;re Misunderstanding Privacy (and How It Harms You)</a></p><p class="youtube-embed-meta">Channel: Privacy Guides &middot; Views: 28.8K &middot; Uploaded: March 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RRt08MvK4tE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RRt08MvK4tE">Open on YouTube</a></p></div></div></div>
 
 ## When Tradeoffs Remain Real
@@ -344,7 +340,6 @@ Debates surrounding intelligence collection programmes often revolve around prec
 
 A useful warning sign is language suggesting that one value must be abandoned entirely to preserve the other. Claims that privacy is an absolute barrier to safety, or that every security measure inevitably destroys liberty, usually oversimplify the available choices. Real policy debates tend to involve degrees, conditions, safeguards, and oversight rather than absolute positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://verfassungsblog.de/os6-privacy-vs-security/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verfassungsblog.de">[Verfassungsblog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verfassungsblog.de</span><span class="citation-popover-snippet">The legacy of the privacy versus security narrative in...April 21, 2022 — by E Watt · 2022 — I argue that balancing secur...</span><span class="citation-popover-meta">Published: April 21, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/articles/privacy-vs-security-its-a-false-dilemma-11570389477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Privacy vs</span><span class="citation-popover-snippet">Privacy vs. Security: It&#x27;s a False Dilemma6 Oct 2019 — Congress is the proper body to balance these risks—to reconcile individual privacy...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-3-dark.svg" | relative_url }}" alt="Privacy Security illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_false_dilemmas_827e99_privacy_security_mis_550be2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Reveals About False Dilemmas
 
@@ -352,9 +347,7 @@ The privacy-versus-security debate demonstrates that missing-middle options ofte
 
 As a result, the key question is rarely whether privacy or security should win. The more informative question is which institutional safeguards allow security objectives to be pursued while limiting unnecessary intrusions into private life. Once that question is asked, the apparent two-option choice begins to dissolve, revealing a broader range of policy possibilities than the original dilemma allowed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CkX3i0seYnM" title="Balancing Privacy and Security in the Age of the Internet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CkX3i0seYnM" target="_blank" rel="noopener noreferrer">Balancing Privacy and Security in the Age of the Internet</a></p><p class="youtube-embed-meta">Channel: Hudson Institute &middot; Views: 330 &middot; Uploaded: May 2016 &middot; Length: 1 hour 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CkX3i0seYnM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CkX3i0seYnM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

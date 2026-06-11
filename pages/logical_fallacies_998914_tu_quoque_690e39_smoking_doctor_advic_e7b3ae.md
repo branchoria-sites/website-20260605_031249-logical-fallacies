@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /tu-quoque/
 nav_short_title: Smoking Doctor
 title: Can a Hypocrite Still Give Good Advice?
-title_full: Can a Hypocrite Still Give Good Advice? | Tu Quoque
+title_full: Can a Hypocrite Still Give Good Advice?
 display_title_short: Smoking Doctor
 display_title: Smoking Doctor
 heading_title: Can a Hypocrite Still Give Good Advice?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 01:44:58'
-parent_title: Does Hypocrisy Refute the Claim? | Fallacy Lab
+parent_title: Does Hypocrisy Refute the Claim?
 parent_permalink: /tu-quoque/
 parent_nav_short_title: Tu Quoque
 parent_heading_title: Does Hypocrisy Refute the Claim?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_a
 
 A classic example of the [tu quoque]({{ 'tu-quoque/' | relative_url }}) (“you too”) fallacy is the smoking doctor. A doctor warns a patient that smoking increases the risk of cancer, heart disease, and other serious illnesses. The patient replies: “But you smoke yourself.” The reply exposes a possible inconsistency, yet it does not address whether smoking is actually harmful. The doctor's behaviour and the medical evidence are separate questions. A hypocritical adviser may be a poor role model, but the truth of the advice depends on the evidence supporting it, not on the adviser’s personal success or failure in following it. This distinction is central to understanding why many “look who’s talking” responses miss the point of the original claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">It involves not accepting a view or a recommendation because the espouser him...Read more...</span></span></span> Encyclopedia of Philosophy <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicTu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Textbook tu quoque arguments share...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-1-dark.svg" | relative_url }}" alt="Smoking Doctor illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Example Works
 
@@ -294,7 +293,6 @@ Doctors may understand the dangers of smoking yet still struggle with nicotine d
 
 Indeed, the smoking doctor may possess especially strong reasons for warning others. Personal [experience]({{ 'experience/' | relative_url }}) with addiction, failed attempts to quit, or smoking-related illness could reinforce rather than undermine the warning. The adviser’s failure to follow the advice may reveal how difficult the problem is, not that the advice is incorrect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Tu Quoque</span><span class="citation-popover-snippet">Tu Quoque - Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IEQDP2pYrmM" title="Ad Hominem (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IEQDP2pYrmM" target="_blank" rel="noopener noreferrer">Ad Hominem (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 12.7K &middot; Uploaded: February 2014 &middot; Length: 1 minute 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IEQDP2pYrmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IEQDP2pYrmM">Open on YouTube</a></p></div></div></div>
 
 ## What Hypocrisy Does Not Refute
@@ -311,7 +309,6 @@ That conclusion does not logically follow. Philosophers and argumentation theori
 
 Consider these responses to the smoking doctor:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * “You smoke, so smoking must not be dangerous.”
@@ -324,7 +321,6 @@ Each response substitutes a criticism of the speaker for an evaluation of the ev
 
 The same structure appears in many everyday arguments:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * A person dismisses dietary advice because the adviser is overweight.
@@ -334,7 +330,6 @@ The same structure appears in many everyday arguments:
 </div>
 
 In each case, inconsistency may be real, but inconsistency alone does not establish that the advice is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribbr.com/frequently-asked-questions/what-is-ad-hominem-tu-quoque/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">What is ad hominem tu quoque?Ad hominem tu quoque (&#x27;you too”) is an attempt to rebut a claim by attacking its proponent on the gro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/tu-quoque-fallacy-ad-hominem-fallacy-250335" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[ThoughtCo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Tu Quoque</span><span class="citation-popover-snippet">Tu Quoque - Ad Hominem Fallacy That You Did It Too21 Aug 2019 — The Tu Quoque fallacy is a form of the ad hominem fallacy which...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-2-dark.svg" | relative_url }}" alt="Smoking Doctor illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Better Question
@@ -355,7 +350,6 @@ The key point is that these concerns are different from proving the advice false
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Hypocrisy may reduce persuasive power.
@@ -367,7 +361,6 @@ For example:
 
 But none of those points demonstrates that smoking is safe or that the medical evidence is mistaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://informallogic.ca/index.php/informal_logic/article/view/543/506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[Informal Logic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">Informal LogicTu Quoque Arguments and the Significance of Hypocrisyby SF Aikin · 2008 · Cited by 39 — Textbook tu quoque arguments share...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Ad HominemThe ad hominem fallacy occurs whenever the character or circumstances of an individual who is advancing an argument i...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GbhIhA3Xstk" title="Tu Quoque Fallacy Example" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GbhIhA3Xstk" target="_blank" rel="noopener noreferrer">Tu Quoque Fallacy Example</a></p><p class="youtube-embed-meta">Channel: Philosophy Vibe &middot; Views: 22.8K &middot; Uploaded: December 2020 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GbhIhA3Xstk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GbhIhA3Xstk">Open on YouTube</a></p></div></div></div>
 
 ### When the Inconsistency Reveals Something Relevant
@@ -378,7 +371,6 @@ If the doctor claimed that quitting smoking is easy but has repeatedly failed to
 
 The distinction is subtle but important. Hypocrisy may justify further questions. It does not automatically answer them.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MvglX222Pxg" title="Futurama Logical Fallacies: You Also: (Tu Quoque)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MvglX222Pxg" target="_blank" rel="noopener noreferrer">Futurama Logical Fallacies: You Also: (Tu Quoque)</a></p><p class="youtube-embed-meta">Channel: Colburn Classroom &middot; Views: 22.3K &middot; Uploaded: March 2020 &middot; Length: 1 minute 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MvglX222Pxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MvglX222Pxg">Open on YouTube</a></p></div></div></div>
 
 ## The Takeaway from the Smoking Doctor
@@ -386,7 +378,6 @@ The distinction is subtle but important. Hypocrisy may justify further questions
 The smoking doctor example endures because it captures the central lesson of tu quoque reasoning in a single scene. A person's failure to live up to their own advice may reveal weakness, addiction, inconsistency, or even hypocrisy. What it does not reveal, by itself, is that the advice is wrong.
 
 A doctor who smokes can still be correct that smoking harms health. The proper response is to evaluate the evidence behind the warning, not to assume that the warning collapses because the messenger falls short of the standard being recommended. [Internet Encyclopedia of Philosophy+3Stanford Encyclopedia of Philosophy+3study.com]
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-3-dark.svg" | relative_url }}" alt="Smoking Doctor illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tu_quoque_690e39_smoking_doctor_advic_e7b3ae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

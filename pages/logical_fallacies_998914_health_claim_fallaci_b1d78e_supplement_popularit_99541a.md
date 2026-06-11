@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /remedies/
 nav_short_title: Popularity
 title: Why bestsellers can still mislead
-title_full: Why bestsellers can still mislead | Remedies
+title_full: Why bestsellers can still mislead
 display_title_short: Popularity
 display_title: Popularity
 heading_title: Why bestsellers can still mislead
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:23:42'
-parent_title: Do Popular Remedies Prove Themselves? | Fallacy Lab
+parent_title: Do Popular Remedies Prove Themselves?
 parent_permalink: /remedies/
 parent_nav_short_title: Remedies
 parent_heading_title: Do Popular Remedies Prove Themselves?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_suppl
 
 Popularity is one of the most powerful tools in supplement marketing. Labels such as “best-selling”, “#1 brand”, “millions of users”, or “trusted worldwide” create the impression that a product has already been tested by the crowd and found effective. In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a classic appeal to popularity: the suggestion that widespread use is evidence that a health claim is true.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1-dark.svg" | relative_url }}" alt="Popularity illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Demand can reveal many things. It can show that consumers like a product, that [advertising]({{ 'advertising/' | relative_url }}) has been effective, or that a supplement fits a popular health trend. What it cannot do is demonstrate that the supplement prevents, treats, or cures a medical condition. Regulators and health authorities consistently distinguish between market success and scientific evidence, requiring health claims to be supported by reliable research rather than sales figures, [testimonials]({{ 'testimonials/' | relative_url }}), or consumer enthusiasm. Federal Trade Commission <span class="citation-chip-wrap"><a class="citation-chip" href="https://cohenhealthcarelaw.com/fda-ftc-law/advertising-and-marketing-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cohenhealthcarelaw.com">[2cohenhealthcarelaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cohenhealthcarelaw.com</span><span class="citation-popover-snippet">It means you must have solid scientific evidence—often including expert analysis or...Read more...</span></span></span>
 
@@ -295,7 +294,6 @@ Health regulators emphasise that claims about health benefits must be supported 
 
 Popularity can therefore suggest demand. It cannot establish efficacy.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/myspZ3Ap4jQ" title="Argumentum ad populum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=myspZ3Ap4jQ" target="_blank" rel="noopener noreferrer">Argumentum ad populum</a></p><p class="youtube-embed-meta">Channel: WikiWikiup &middot; Views: 405 &middot; Uploaded: August 2016 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=myspZ3Ap4jQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=myspZ3Ap4jQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Large Numbers Feel Like Evidence
@@ -303,7 +301,6 @@ Popularity can therefore suggest demand. It cannot establish efficacy.
 Humans often use social information as a shortcut for decision-making. When faced with uncertainty, people naturally look at what others are doing.
 
 In supplement marketing, this tendency is amplified by impressive numbers:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -319,7 +316,6 @@ Such statements create the feeling that the product has undergone a form of coll
 The problem is that supplement markets do not function as controlled scientific experiments. Buyers rarely use the same dosage, for the same condition, over the same period, while controlling for other variables. Many users never know whether improvements came from the supplement, lifestyle changes, natural recovery, placebo effects, or unrelated factors. As a result, popularity can grow even when evidence remains weak or disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-title">Learn about their label information, effectiveness, safety, risk, quality,</span><span class="citation-popover-snippet">Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-title">Learn about their label information, effectiveness, safety, risk, quality,</span><span class="citation-popover-snippet">Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</span></span></span>
 
 The appeal to popularity is especially strong in health because people often assume that large groups cannot all be mistaken. In reality, large groups can share the same advertising exposure, the same cultural beliefs, and the same misconceptions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pwUYSi3c2Oo" title="SUPPLEMENT INDUSTRY MARKETING...&quot;Somebody&#x27;s got to tell the truth!!!&quot; - Rich Piana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pwUYSi3c2Oo" target="_blank" rel="noopener noreferrer">SUPPLEMENT INDUSTRY MARKETING...&quot;Somebody&#x27;s got to tell the truth!!!&quot; - Rich Piana</a></p><p class="youtube-embed-meta">Channel: Rich Piana &middot; Views: 2.1M &middot; Uploaded: March 2014 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pwUYSi3c2Oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pwUYSi3c2Oo">Open on YouTube</a></p></div></div></div>
 
@@ -341,7 +337,6 @@ The word “bestseller” carries psychological weight. Consumers often interpre
 
 A memory supplement, weight-loss aid, or immunity booster may become commercially dominant without possessing unusually strong clinical evidence. Market leadership and medical effectiveness measure different things.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-2-dark.svg" | relative_url }}" alt="Popularity illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fear and hope
 
@@ -360,7 +355,6 @@ Fish oil supplements became enormously popular because of early observational re
 More recently, supplements promoted on social media as alternatives to prescription weight-loss medications have gained attention through viral popularity. Their rapid adoption has often been driven by influencer discussion, affordability, and accessibility rather than a large body of high-quality clinical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/berberine-isnt-natures-ozempic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">However, experts warn it is not equivalent to these prescription drugs and lacks proven efficacy. Ozempic and Wegovy, designed for diabet...</span></span></span>
 
 These examples do not prove that every popular supplement is ineffective. Some supplements do have evidence-supported uses. The point is that popularity alone cannot distinguish effective products from ineffective ones. Scientific testing is required for that task.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y5Y2aY06ums" title="Dr. Oz Exposes Supplement Scams: What You Need to Know! | Dr. Oz | S6 | Ep 161 | Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y5Y2aY06ums" target="_blank" rel="noopener noreferrer">Dr. Oz Exposes Supplement Scams: What You Need to Know! | Dr. Oz | S6 | Ep 161 | Full Episode</a></p><p class="youtube-embed-meta">Channel: DoctorOz &middot; Views: 210.6K &middot; Uploaded: March 2025 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y5Y2aY06ums" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y5Y2aY06ums">Open on YouTube</a></p></div></div></div>
 
@@ -387,7 +381,6 @@ Phrases such as “supports”, “promotes”, or “helps maintain” may soun
 **Who evaluates the evidence?**
 
 Independent scientific reviews, clinical trials, and evidence summaries from health organisations provide stronger grounds for judgment than sales rankings or online ratings. Resources from the NIH Office of Dietary Supplements are designed specifically to help consumers assess evidence rather than popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ods.od.nih.gov/factsheets/WYNTK-Consumer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ods.od.nih.gov">[Office of Dietary Supplements]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ods.od.nih.gov</span><span class="citation-popover-title">Learn about their label information, effectiveness, safety, risk, quality,</span><span class="citation-popover-snippet">Office of Dietary SupplementsDietary Supplements: What You Need to Know - Consumer4 Jan 2023 — Important things to know about dietary sup...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-3-dark.svg" | relative_url }}" alt="Popularity illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_health_claim_fallaci_b1d78e_supplement_popularit_99541a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Logical Fallacy Behind the Bestseller Label

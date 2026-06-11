@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /circularity/
 nav_short_title: News Trust
 title: Can a Source Prove Its Own Reliability?
-title_full: Can a Source Prove Its Own Reliability? | Circularity
+title_full: Can a Source Prove Its Own Reliability?
 display_title_short: News Trust
 display_title: News Trust
 heading_title: Can a Source Prove Its Own Reliability?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 14:43:25'
-parent_title: Is the Argument Proving Itself? | Fallacy Lab
+parent_title: Is the Argument Proving Itself?
 parent_permalink: /circularity/
 parent_nav_short_title: Circularity
 parent_heading_title: Is the Argument Proving Itself?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_re
 
 Can a news source prove its own reliability? Logically, no. A source may claim that it is accurate, impartial, or trustworthy, but those claims become circular if the only evidence offered is the source’s own record as described by itself. The reasoning loop looks simple: “This outlet is reliable because its reporting is accurate, and we know its reporting is accurate because the outlet is reliable.” The conclusion and the evidence end up supporting each other without any independent check. This is a specific form of circular reasoning, a fallacy in which an argument never leaves its own assumptions.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1-dark.svg" | relative_url }}" alt="News Trust illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In everyday media use, this matters because trust decisions often depend on whether evidence comes from outside the claim itself. A source may genuinely be reliable, but reliability is established through verification, transparency, correction records, independent scrutiny, and corroboration—not merely through self-assertion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thomsonreuters.com/en/about-us/trust-principles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thomsonreuters.com">[Thomson Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thomsonreuters.com</span><span class="citation-popover-snippet">The Trust PrinciplesThe Trust Principles imposed obligations on Reuters and its employees to act at all times with integrity, independenc...</span></span></span>
 
@@ -285,7 +284,6 @@ In everyday media use, this matters because trust decisions often depend on whet
 The most common news-trust loop links two ideas: reliability and accuracy.
 
 A circular version of the argument runs as follows:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -301,7 +299,6 @@ Each statement appears to support the next, but no independent evidence enters t
 This distinction becomes clearer when compared with genuine evidence. A source's reliability is not demonstrated merely because it says it follows high standards. Rather, reliability depends on whether those standards can be observed, tested, and evaluated from outside the organisation. Reuters, for example, publishes detailed standards emphasising accuracy, [corrections]({{ 'corrections/' | relative_url }}), independence, and verification procedures. Those standards are not proof by themselves; they become meaningful when readers, competitors, researchers, and watchdogs can examine whether the organisation actually follows them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reutersagency.com/about/standards-values/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reutersagency.com">[Reuters Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reutersagency.com</span><span class="citation-popover-snippet">Reuters AgencyReuters Journalistic StandardsFollow the Trust Principles in all activities related to Reuters News · Hold accuracy sacrosa...</span></span></span>
 
 The logical mistake occurs when standards are treated as self-validating. “We are accurate because we say we follow accurate practices” remains a circular claim unless supported by evidence beyond the statement itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AD7N-1Mj-DU" title="Introduction to Media Literacy: Crash Course Media Literacy #1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AD7N-1Mj-DU" target="_blank" rel="noopener noreferrer">Introduction to Media Literacy: Crash Course Media Literacy #1</a></p><p class="youtube-embed-meta">Channel: CrashCourse &middot; Views: 1.3M &middot; Uploaded: February 2018 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AD7N-1Mj-DU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AD7N-1Mj-DU">Open on YouTube</a></p></div></div></div>
 
@@ -321,7 +318,6 @@ Notice that each of these checks introduces information from outside the origina
 
 A useful test is to ask: “If I temporarily ignored the source's opinion about itself, what evidence would remain?” If little remains, the argument may depend more on reputation than on demonstrated reliability.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-2-dark.svg" | relative_url }}" alt="News Trust illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Trust and Trustworthiness Are Not the Same Thing
 
@@ -330,7 +326,6 @@ A further complication is that public trust and actual trustworthiness are diffe
 People often trust sources because those sources feel familiar, align with existing beliefs, or consistently reinforce a preferred worldview. Researchers studying media trust have noted that trust can be influenced by social identity and prior attitudes rather than by objective measures of accuracy alone. [reutersinstitute.[politics]({{ 'politics/' | relative_url }}). ox.ac.uk+2arXiv]
 
 This creates another potential evidence loop:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -343,7 +338,6 @@ This creates another potential evidence loop:
 The source may or may not actually be accurate. The key point is that trust itself becomes part of the evidence chain. In such cases, confidence can grow even when independent verification is weak.
 
 This distinction explains why public trust surveys and reliability assessments measure different things. Polls may reveal how much confidence people place in media organisations, but they do not automatically demonstrate whether those organisations are accurate. Recent polling shows substantial variation and decline in public trust toward media institutions, yet trust levels alone cannot determine journalistic quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/695762/trust-media-new-low.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">trust media new low.aspx</span><span class="citation-popover-snippet">in Media at New Low of 28% in U.S.October 2, 2025 — 2 Oct 2025 — Americans&#x27; trust in newspapers, television and radio to report the news...</span><span class="citation-popover-meta">Published: October 2, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.gallup.com/poll/695762/trust-media-new-low.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.gallup.com">[Gallup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.gallup.com</span><span class="citation-popover-title">trust media new low.aspx</span><span class="citation-popover-snippet">in Media at New Low of 28% in U.S.October 2, 2025 — 2 Oct 2025 — Americans&#x27; trust in newspapers, television and radio to report the news...</span><span class="citation-popover-meta">Published: October 2, 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8UHoY0B48uM" title="Eat Your Broccoli: What Media Literacy Misses About Young People | News Over Noise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8UHoY0B48uM" target="_blank" rel="noopener noreferrer">Eat Your Broccoli: What Media Literacy Misses About Young People | News Over Noise</a></p><p class="youtube-embed-meta">Channel: wpsu &middot; Views: 124 &middot; Uploaded: March 2026 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8UHoY0B48uM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8UHoY0B48uM">Open on YouTube</a></p></div></div></div>
 
@@ -360,7 +354,6 @@ An outlet may be presented as reliable solely because it is well known or histor
 ### Accuracy Assumed Rather Than Demonstrated
 
 Statements such as “this source has always been right” often rely on selective memory unless accompanied by documented performance records, correction histories, or independent evaluations.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-3-dark.svg" | relative_url }}" alt="News Trust illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_circular_reasoning_3c0e54_news_reliability_loo_16fb9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fact-Checking Used as a Badge Rather Than a Process
@@ -381,9 +374,7 @@ If the answer is merely “the source says it is trustworthy” or “its report
 
 By contrast, evidence such as transparent sourcing, correction records, independent fact-checks, corroboration from unrelated organisations, and external audits gives readers something beyond the claim itself. That external support is what transforms trust from an assumption into a reasoned judgement. trust.org 3Reuters Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://glassmanlab.seas.harvard.edu/papers/reliability_criteria.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: glassmanlab.seas.harvard.edu">[3glassmanlab.seas.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">glassmanlab.seas.harvard.edu</span><span class="citation-popover-title">We identify reliability criteria, We discuss 11 widely recognized criteria,</span><span class="citation-popover-snippet">Reliability Criteria for News WebsitesFebruary 1, 2024 — by H HEUER · 2024 · Cited by 15 — Reliability criteria for news websites can hel...</span><span class="citation-popover-meta">Published: February 1, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6KdBjgYyj7I" title="Logical fallacies | GMF Compact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6KdBjgYyj7I" target="_blank" rel="noopener noreferrer">Logical fallacies | GMF Compact</a></p><p class="youtube-embed-meta">Channel: DW Global Media Forum &middot; Views: 318 &middot; Uploaded: January 2023 &middot; Length: 3 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6KdBjgYyj7I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6KdBjgYyj7I">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Ad Hominem
 title: When Personal Attacks Replace Reasons
-title_full: When Personal Attacks Replace Reasons | Fallacy Lab
+title_full: When Personal Attacks Replace Reasons
 display_title_short: Ad Hominem
 display_title: Ad Hominem
 heading_title: When Personal Attacks Replace Reasons
@@ -496,7 +496,6 @@ image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3-overview-social
 
 Ad hominem attacks are arguments that move attention away from the claim and towards the person making it. The basic error is not simply being rude. It is treating some personal fact, insult, motive or [association]({{ 'association/' | relative_url }}) as if it settles the truth of the disputed point. In a [debate]({{ 'debate/' | relative_url }}) about evidence, policy, science or ethics, that shift can make disagreement less rational because the audience is invited to judge the speaker instead of testing the reasons.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-overview.webp" | relative_url }}" alt="Overview image for Ad Hominem" loading="eager" decoding="sync" fetchpriority="high">
 This matters because personalised debate is often persuasive even when it is logically weak. A claim may be false, but it is not false because the person making it is irritating, hypocritical, unpopular, badly dressed, young, old, rich, poor or politically disliked. At the same time, not every reference to a person is fallacious: credibility, expertise, conflicts of interest and testimony can sometimes be relevant. The practical skill is to ask whether the personal information genuinely bears on the argument, or merely distracts from it.
 
@@ -508,7 +507,6 @@ The pattern is easy to miss because the personal remark may feel connected to th
 
 The clearest fallacious form looks like this:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Person A makes claim X.
@@ -518,7 +516,6 @@ The clearest fallacious form looks like this:
 </div>
 
 The failure is in step three. Even an untrustworthy person can make a true claim. Even a hypocrite can give good advice. Even a biased source can cite accurate data. The personal criticism may affect how carefully we check the claim, but it does not replace checking the claim.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-1-dark.svg" | relative_url }}" alt="Ad Hominem illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Relevant character evidence is not the same as an irrelevant insult
@@ -542,7 +539,6 @@ A useful distinction is:
 </div>
 
 The first and third examples invite closer scrutiny. The second and fourth try to end scrutiny.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F5CMW2XBH6I" title="What is an Ad Hominem Attack? | Argument Clinic | WIRED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F5CMW2XBH6I" target="_blank" rel="noopener noreferrer">What is an Ad Hominem Attack? | Argument Clinic | WIRED</a></p><p class="youtube-embed-meta">Channel: WIRED &middot; Views: 291.8K &middot; Uploaded: June 2017 &middot; Length: 2 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F5CMW2XBH6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F5CMW2XBH6I">Open on YouTube</a></p></div></div></div>
 
@@ -577,7 +573,6 @@ Empirical work on web argumentation has tried to measure this pattern rather tha
 Later research on CreateDebate, an online debate forum, used machine-learning detection and manual validation across 265,000 arguments. The authors reported that 31.23% of the analysed content contained ad hominem fallacy, and that highly active users posted significantly more ad hominem content in ways the paper associated with suppressing opposing views. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2209.02062" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These studies should not be read as proving that every heated online comment is an ad hominem fallacy. Detection depends on definitions, annotation choices and platform context. But they do support a practical point: online debate environments can reward personalised moves because they are brief, emotionally legible and socially contagious.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-2-dark.svg" | relative_url }}" alt="Ad Hominem illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Online debate examples: what changes when the attack becomes personal
@@ -616,7 +611,6 @@ Better version: “The problem with that argument is that the conclusion does no
 
 This is the cleanest case: the insult adds nothing. It merely raises the temperature.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qBkj-AYYg7w" title="CRITICAL THINKING - Fallacies: Ad Hominem [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Ad Hominem [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 458.3K &middot; Uploaded: September 2014 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qBkj-AYYg7w">Open on YouTube</a></p></div></div></div>
 
 ## The climate debate shows why character attacks can distort public reasoning
@@ -629,7 +623,6 @@ The same pattern appears in journalism about online abuse of climate scientists 
 
 The fallacy here is not that scientists are beyond criticism. Scientific claims should be challenged through evidence, methods, replication, uncertainty and peer review. The fallacy occurs when personal suspicion is used to bypass that work.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-gm-GMIjNpo" title="15 Logical Fallacies from the 2020 U.S. Presidential Debates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-gm-GMIjNpo" target="_blank" rel="noopener noreferrer">15 Logical Fallacies from the 2020 U.S. Presidential Debates</a></p><p class="youtube-embed-meta">Channel: none &middot; Views: 79.0K &middot; Uploaded: April 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-gm-GMIjNpo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-gm-GMIjNpo">Open on YouTube</a></p></div></div></div>
 
 ## How to respond without making the debate even more personal
@@ -637,7 +630,6 @@ The fallacy here is not that scientists are beyond criticism. Scientific claims 
 The most effective response to an ad hominem attack is usually not a counter-insult. A counter-insult confirms the new frame: the debate is now about personalities. A better response is to separate any relevant credibility issue from the claim itself.
 
 A practical reply can use three moves:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -650,7 +642,6 @@ A practical reply can use three moves:
 This works because it does not deny that people can have biases, motives or credibility problems. It simply refuses to let those issues replace the argument. It also avoids the trap of treating “ad hominem” as a magic word that automatically wins the exchange. Sometimes the other person has raised a fair concern about expertise, conflict of interest or reliability; the answer is to clarify relevance, not to shut down scrutiny.
 
 A useful rule for readers is: if the personal information is true, would it still show that the claim is false? If not, it may justify caution, corroboration or further questioning, but not dismissal.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-3-dark.svg" | relative_url }}" alt="Ad Hominem illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real risk is not offence, but lost reasons
@@ -1238,4 +1229,4 @@ That distinction keeps fallacy-spotting from becoming another personalised weapo
 
 34. <a id="endnote-34"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618</a>  
+   Link: <a href="https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Hominem-Arguments-Studies-Rhetoric-Communication/dp/0817355618</a>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-no-true/
 description: Focused pages that expand on No True.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_no_true_scotsman_ecc324
-parent_title: No True | Logical Fallacies
+parent_title: No True
 parent_nav_short_title: No True
 parent_permalink: /no-true/
 ---

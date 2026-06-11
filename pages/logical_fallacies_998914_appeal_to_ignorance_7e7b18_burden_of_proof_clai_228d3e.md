@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ignorance/
 nav_short_title: Proof Burden
 title: Who Has to Prove the Claim?
-title_full: Who Has to Prove the Claim? | Ignorance
+title_full: Who Has to Prove the Claim?
 display_title_short: Proof Burden
 display_title: Proof Burden
 heading_title: Who Has to Prove the Claim?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 17:22:28'
-parent_title: What Does Missing Evidence Prove? | Fallacy Lab
+parent_title: What Does Missing Evidence Prove?
 parent_permalink: /ignorance/
 parent_nav_short_title: Ignorance
 parent_heading_title: What Does Missing Evidence Prove?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden
 
 In debates about evidence, one of the most important questions is also one of the simplest: who has to prove the claim? The answer matters because unsupported assertions can appear stronger than they are when the speaker demands that everyone else disprove them first. This manoeuvre is closely connected to the appeal to [ignorance]({{ 'ignorance/' | relative_url }}) fallacy. Instead of providing evidence for a claim, the claimant points to the absence of disproof and treats that absence as support. Philosophers and argumentation scholars consistently describe this as an unjustified shift in the burden of proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1-dark.svg" | relative_url }}" alt="Proof Burden illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The core principle is straightforward: making a claim does not make it true. Before a claim deserves acceptance, the person advancing it normally has the responsibility to provide reasons, evidence, or arguments in its favour. Without that requirement, any assertion could demand belief simply because nobody has yet disproved it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[2yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</span></span></span>
 
@@ -287,7 +286,6 @@ A common mistake in unsupported claims is confusing possibility with evidence.
 Many things are possible. It is possible that a lost manuscript exists in an attic. It is possible that an undiscovered species lives in a remote region. It is possible that a rumour is true. Yet possibility alone does not justify belief. The fact that a claim could be true does not show that it is true.
 
 Burden-shifting often exploits this gap. A claimant may argue:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,9 +305,7 @@ The burden of proof normally rests with the person introducing a disputed claim.
 
 When someone shifts the burden of proof, attention moves away from the weakness of their own evidence and towards the supposed failure of critics to refute them. The structure often looks like this:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ypJITrfih3g" title="The Burden of Proof in Philosophy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ypJITrfih3g" target="_blank" rel="noopener noreferrer">The Burden of Proof in Philosophy</a></p><p class="youtube-embed-meta">Channel: Kane B &middot; Views: 9.9K &middot; Uploaded: February 2022 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ypJITrfih3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ypJITrfih3g">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -336,7 +332,6 @@ Scientific practice uses a similar logic. Researchers proposing a new effect, ex
 
 In governance contexts, this principle helps protect decision-making from being driven by unsupported assertions. Policies that impose costs, restrictions, or risks generally require justification from those advocating them rather than from everyone questioning them.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-2-dark.svg" | relative_url }}" alt="Proof Burden illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common Misunderstandings About Proving a Negative
 
@@ -354,7 +349,6 @@ Consider two responses:
 The first is often an observation about the current evidence base. The second is a stronger assertion that may require its own support. Confusion arises when these different positions are treated as identical.
 
 Recognising this distinction helps prevent debates from collapsing into endless arguments about who should be proving what.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2RRyhq_oMus" title="Burden of Proof - Learn how to avoid this logical fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2RRyhq_oMus" target="_blank" rel="noopener noreferrer">Burden of Proof - Learn how to avoid this logical fallacy</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 4.5K &middot; Uploaded: October 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2RRyhq_oMus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2RRyhq_oMus">Open on YouTube</a></p></div></div></div>
 
@@ -384,7 +378,6 @@ Some claims are framed so broadly that no practical disproof is possible. The in
 
 These responses return attention to the central issue: whether sufficient evidence exists to justify acceptance of the claim in the first place.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-3-dark.svg" | relative_url }}" alt="Proof Burden illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_burden_of_proof_clai_228d3e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Makes This Fallacy Persuasive
 
@@ -394,9 +387,7 @@ The appeal to ignorance takes advantage of this tendency by turning uncertainty 
 
 In the [context]({{ 'context/' | relative_url }}) of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the lesson is simple but powerful: a claim does not gain credibility merely because critics cannot disprove it. The responsibility to justify a claim belongs primarily to the person asking others to accept it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe fallacy uses an unjustified attempt to shift the burden of proof. The fallacy is also cal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://yourlogicalfallacyis.com/burden-of-proof" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourlogicalfallacyis.com">[3yourlogicalfallacyis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourlogicalfallacyis.com</span><span class="citation-popover-snippet">Your logical fallacy is burden of proofThe burden of proof lies with someone who is making a claim, and is not upon anyone else to dispro...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Burden_of_proof_%28philosophy%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Burden of proof (philosophy</span><span class="citation-popover-snippet">Burden of proof (philosophy</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WnKNcbYTlPo" title="Logical Fallacies - Shifting the burden of proof" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer">Logical Fallacies - Shifting the burden of proof</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 7.7K &middot; Uploaded: March 2015 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WnKNcbYTlPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WnKNcbYTlPo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

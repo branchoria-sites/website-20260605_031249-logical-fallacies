@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ad-hominem/
 nav_short_title: Credibility
 title: When character evidence actually matters
-title_full: When character evidence actually matters | Ad Hominem
+title_full: When character evidence actually matters
 display_title_short: Credibility
 display_title: Credibility
 heading_title: When character evidence actually matters
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 12:12:40'
-parent_title: When Personal Attacks Replace Reasons | Fallacy Lab
+parent_title: When Personal Attacks Replace Reasons
 parent_permalink: /ad-hominem/
 parent_nav_short_title: Ad Hominem
 parent_heading_title: When Personal Attacks Replace Reasons
@@ -275,7 +275,6 @@ image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credib
 
 In discussions about [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), people often hear that attacking a speaker is irrelevant. That is usually true. A claim does not become false because the person making it is unpopular, hypocritical or unlikeable. However, there are important exceptions. When a claim depends on testimony, expert judgement, honesty or independence, information about the speaker's credibility can be relevant evidence rather than an ad hominem fallacy. The key question is not whether a personal fact is mentioned, but whether that fact helps assess the reliability of the information being offered. Philosophers of argumentation, legal [evidence rules]({{ 'evidence-rules/' | relative_url }}) and research on expert testimony all draw this distinction: some character evidence helps evaluate a source, while other personal attacks merely distract from the claim itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-1-dark.svg" | relative_url }}" alt="Credibility illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Testimony, Expertise and Trust
 
@@ -287,7 +286,6 @@ The same logic applies outside court. Suppose a journalist reports having seen a
 
 Expert opinion creates a related but distinct case. When non-specialists evaluate a technical issue, they often rely on experts. Argumentation theorist Douglas Walton notes that appeals to expert opinion can be reasonable when the source genuinely possesses relevant expertise and when additional critical questions can be answered satisfactorily. Expertise therefore matters because it affects the likelihood that the source's judgement is reliable. Amazon <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Douglas Walton, Appeal to Expert Opinion - Arguments...Walton identifies that appeals to authority are valid when experts are cr...</span></span></span> Relevant questions include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Does the person have expertise in the specific field under discussion?
@@ -298,7 +296,6 @@ Expert opinion creates a related but distinct case. When non-specialists evaluat
 </div>
 
 These questions assess the quality of the source without assuming that authority automatically makes a claim true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/62933418/Douglas_Walton_Appeal_to_Expert_Opinion_Arguments_from_Authority" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Douglas Walton, Appeal to Expert Opinion - Arguments...Walton identifies that appeals to authority are valid when experts are cr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/303793872_Arguments_from_authority_and_expert_opinion_in_computational_argumentation_systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Arguments from authority and expert opinion in...16 Jul 2018 — In this paper we show that an essential aspect of solving the probl...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sABz9Q8wGUc" title="What is Federal Rules of Evidence Rule 608?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sABz9Q8wGUc" target="_blank" rel="noopener noreferrer">What is Federal Rules of Evidence Rule 608?</a></p><p class="youtube-embed-meta">Channel: Law Lite &middot; Views: 1.3K &middot; Uploaded: March 2023 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sABz9Q8wGUc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sABz9Q8wGUc">Open on YouTube</a></p></div></div></div>
 
@@ -317,13 +314,11 @@ Importantly, a conflict of interest weakens confidence rather than refuting a co
 
 The legitimate move is:
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-2-dark.svg" | relative_url }}" alt="Credibility illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Person A benefits from claim X.
 2. Therefore additional scrutiny of their evidence is warranted.
 
 The difference is crucial. A conflicted source may still be correct. The conflict affects how much independent verification is needed, not the truth value of the claim itself. This distinction is frequently overlooked in public [debate]({{ 'debate/' | relative_url }}), where accusations of bias are often treated as substitutes for substantive rebuttal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2xuT_NrmKzU" title="How NOT To Use Logical Fallacies (With Examples)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2xuT_NrmKzU" target="_blank" rel="noopener noreferrer">How NOT To Use Logical Fallacies (With Examples)</a></p><p class="youtube-embed-meta">Channel: Alex O&#x27;Connor &middot; Views: 269.0K &middot; Uploaded: November 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2xuT_NrmKzU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2xuT_NrmKzU">Open on YouTube</a></p></div></div></div>
 
@@ -343,7 +338,6 @@ If the answer is yes, the credibility information may be relevant. If the answer
 
 Consider the contrast:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * "This witness has repeatedly been caught lying under oath." Relevant, because the issue concerns truthfulness.
@@ -355,13 +349,11 @@ Consider the contrast:
 
 The distinction is not whether the statement concerns the person. The distinction is whether the personal fact helps evaluate the reliability of the claim being offered.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DNdriP9kFiQ" title="Stop Misusing Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DNdriP9kFiQ" target="_blank" rel="noopener noreferrer">Stop Misusing Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Professor Dave Explains &middot; Views: 639.7K &middot; Uploaded: August 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DNdriP9kFiQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DNdriP9kFiQ">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Rule for Debates
 
 The most reliable way to avoid confusion is to separate two questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -375,7 +367,6 @@ Both questions can matter, but they do different jobs.
 Source credibility becomes relevant when information is being accepted partly because of who is providing it. Testimony, expert judgement and disclosures of conflict of interest all fall into this category. In contrast, when a claim can be assessed directly through evidence and reasoning, attacks on the speaker's character often add little and risk becoming ad hominem fallacies. Philosophers of [informal logic]({{ 'informal-logic/' | relative_url }}) have argued that many apparently personal arguments are legitimate only when they answer specific critical questions about reliability and [relevance]({{ 'relevance/' | relative_url }}); otherwise they merely divert attention from the argument itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyFallacies - Stanford Encyclopedia of Philosophyby H Hansen · 2015 · Cited by 426 — The ad hominem fall...</span></span></span>
 
 The practical lesson is simple: credibility evidence is strongest when it illuminates the trustworthiness of information and weakest when it is used as a substitute for evaluating the information itself.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-3-dark.svg" | relative_url }}" alt="Credibility illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_relevant_credibility_936531-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

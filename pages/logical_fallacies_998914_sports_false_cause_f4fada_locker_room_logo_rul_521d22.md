@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /sports-cause/
 nav_short_title: Logo Rules
 title: Respect Ritual or Real Sports Curse?
-title_full: Respect Ritual or Real Sports Curse? | Sports Cause
+title_full: Respect Ritual or Real Sports Curse?
 display_title_short: Logo Rules
 display_title: Logo Rules
 heading_title: Respect Ritual or Real Sports Curse?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 20:53:58'
-parent_title: Did the Logo Cause the Losing Streak? | Fallacy Lab
+parent_title: Did the Logo Cause the Losing Streak?
 parent_permalink: /sports-cause/
 parent_nav_short_title: Sports Cause
 parent_heading_title: Did the Logo Cause the Losing Streak?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_
 
 Many teams treat the locker-room logo as more than decoration. Players may be expected to walk around it, avoid standing on it, or challenge visitors who step across it. As a team norm, this practice can serve a clear purpose: it symbolises respect for the club, reinforces group identity, and reminds athletes that they represent something larger than themselves. The mistake arises when that respect ritual is transformed into a causal claim that stepping on the logo affects match results.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-1-dark.svg" | relative_url }}" alt="Logo Rules illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and sports superstitions, locker-room logo rules are a useful example of the difference between a meaningful social ritual and evidence of cause and effect. A rule can strengthen culture without possessing any mysterious power over wins and losses.
 
@@ -296,7 +295,6 @@ The interesting shift occurs when a respect ritual begins to acquire a reputatio
 
 Several factors encourage this transformation:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **Visibility:** The logo is highly noticeable, making it easy to remember when someone breaks the rule.
@@ -311,7 +309,6 @@ Athletes themselves frequently acknowledge that many sports superstitions have n
 Community discussions around logo etiquette reveal the same pattern. Some participants argue that avoiding the logo forces players to think consciously about the organisation they represent, while others view the practice as arbitrary [tradition]({{ 'tradition/' | relative_url }}). Even among supporters of the custom, the justification often centres on mindfulness and respect rather than measurable competitive advantage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/nhl/comments/1i0j80/out_of_tradition_and_respect_one_should_never/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">It forces you to stop and think about why you are not stepping on the logo. It...Read more...</span></span></span>
 
 The ritual therefore survives because it serves social and psychological functions, not because anyone can demonstrate that it changes the score.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aBTqigT35xc" title="DON&#x27;T STEP ON THE LOGO - NHL Dressing Room Protocol" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aBTqigT35xc" target="_blank" rel="noopener noreferrer">DON&#x27;T STEP ON THE LOGO - NHL Dressing Room Protocol</a></p><p class="youtube-embed-meta">Channel: GeoSports &middot; Views: 600.2K &middot; Uploaded: February 2014 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aBTqigT35xc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aBTqigT35xc">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +334,6 @@ That statement proposes a causal relationship requiring evidence.
 
 The first claim can be true regardless of the team's record. The second requires proof that has never been established.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-2-dark.svg" | relative_url }}" alt="Logo Rules illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where respect claims turn into cause claims
 
@@ -345,9 +341,7 @@ The logical fallacy appears when symbolic meaning is mistaken for causal power.
 
 A typical chain of reasoning looks like this:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f-sbCxjsqwE" title="Justin Bieber Tarnishes Stanley Cup - The Daily Win" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f-sbCxjsqwE" target="_blank" rel="noopener noreferrer">Justin Bieber Tarnishes Stanley Cup - The Daily Win</a></p><p class="youtube-embed-meta">Channel: Secret Base &middot; Views: 10.8K &middot; Uploaded: July 2013 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f-sbCxjsqwE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f-sbCxjsqwE">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -369,7 +363,6 @@ The first is plausible because social norms can influence behaviour and group co
 
 Keeping these ideas separate helps avoid confusion. A ritual can matter deeply to a team without possessing magical or hidden causal powers.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wqP7d7lIgcw" title="NHL Superstitions: Stay Off the Logo. Former Players Becoming Coaches. Ross Colton Season Preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wqP7d7lIgcw" target="_blank" rel="noopener noreferrer">NHL Superstitions: Stay Off the Logo. Former Players Becoming Coaches. Ross Colton Season Preview</a></p><p class="youtube-embed-meta">Channel: Locked On Avalanche &middot; Views: 801 &middot; Uploaded: October 2023 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wqP7d7lIgcw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wqP7d7lIgcw">Open on YouTube</a></p></div></div></div>
 
 ## The Practical Value of the Rule
@@ -377,7 +370,6 @@ Keeping these ideas separate helps avoid confusion. A ritual can matter deeply t
 Locker-room logo rules endure because they are inexpensive, easy to understand, and highly visible expressions of team culture. They provide a daily reminder of collective identity and give players a simple way to demonstrate commitment to group standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://twointhebox.com/2013/07/11/tread-lightly-logo-etiquette-in-the-locker-room/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twointhebox.com">[Two in the Box]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twointhebox.com</span><span class="citation-popover-title">Two in the Box Tread lightly, logo etiquette in the locker room</span><span class="citation-popover-snippet">Two in the BoxTread lightly, logo etiquette in the locker room - Two in the BoxJuly 11, 2013 — 11 Jul 2013 — Paying respect to that team...</span><span class="citation-popover-meta">Published: July 11, 2013</span></span></span>
 
 Their value therefore lies in implementation rather than prediction. The rule works as a cultural signal:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -391,7 +383,6 @@ Their value therefore lies in implementation rather than prediction. The rule wo
 Those goals can be achieved whether the team wins or loses.
 
 From the perspective of logical fallacies, the important lesson is that a meaningful ritual does not automatically become a proven cause. Avoiding the logo may express loyalty and discipline. It does not demonstrate that stepping on the logo changes the outcome of a game.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-3-dark.svg" | relative_url }}" alt="Logo Rules illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_sports_false_cause_f4fada_locker_room_logo_rul_521d22-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

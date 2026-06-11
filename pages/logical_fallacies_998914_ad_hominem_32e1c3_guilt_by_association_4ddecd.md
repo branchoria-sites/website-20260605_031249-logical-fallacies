@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ad-hominem/
 nav_short_title: Association
 title: When association replaces evidence
-title_full: When association replaces evidence | Ad Hominem
+title_full: When association replaces evidence
 display_title_short: Association
 display_title: Association
 heading_title: When association replaces evidence
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 12:12:45'
-parent_title: When Personal Attacks Replace Reasons | Fallacy Lab
+parent_title: When Personal Attacks Replace Reasons
 parent_permalink: /ad-hominem/
 parent_nav_short_title: Ad Hominem
 parent_heading_title: When Personal Attacks Replace Reasons
@@ -269,7 +269,6 @@ image: /assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_associ
 
 Guilt by association is a form of ad hominem reasoning in which a claim, person or argument is judged primarily through a social connection rather than through its evidence. The central mistake is simple: instead of asking whether an argument is true, people ask whether someone connected to it is disliked, controversial or disreputable. When that substitution occurs, social judgement replaces logical evaluation. Philosophers and argumentation scholars commonly classify guilt by association as a variety of ad hominem attack because it shifts attention from the merits of a claim to the company kept by the person advancing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/page/3/?cat=-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesAn Ad hominem that attacks an arguer by attacking the arguer&#x27;s associates is called the Falla...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1-dark.svg" | relative_url }}" alt="Association illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This fallacy is especially persuasive because humans naturally use associations as shortcuts. If a disliked group supports an idea, many people feel suspicious of the idea itself. Yet the truth of a proposition does not change according to who else happens to agree with it. A weak social link may justify further investigation, but it cannot by itself establish that an argument is wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span>
 
@@ -280,7 +279,6 @@ The key question is not whether an association exists, but whether it is relevan
 A strong link provides information that genuinely bears on the reliability of a claim. For example, if a witness has a documented history of dishonesty, that fact may affect how their testimony is assessed. Likewise, a financial relationship may be relevant when evaluating potential conflicts of interest. In such cases, the connection helps assess evidence rather than replacing it. [Informal logic]({{ 'informal-logic/' | relative_url }}) scholars have long noted that personal circumstances can sometimes be legitimately relevant to argument evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</span></span></span> Encyclopedia of Philosophy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://plato.stanford.edu/archives/sum2002/entries/logic-informal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-snippet">Stanford Encyclopedia of PhilosophyInformal LogicIf someone with no physics credentials wishes to sell one a device to see quarks, then o...</span></span></span>
 
 A weak link, by contrast, relies on little more than proximity, overlap or coincidence. Consider the pattern:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -294,7 +292,6 @@ The conclusion does not follow. Different people often arrive at the same conclu
 
 The weakness becomes clearer when reversed. A respected scientist and a conspiracy theorist might both believe that exercise improves health. The fact that the conspiracy theorist agrees does not make the health claim false. Evidence remains evidence regardless of who else accepts it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fallacyfiles.org/guiltbya.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fallacyfiles.org">[fallacyfiles.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fallacyfiles.org</span><span class="citation-popover-snippet">Logical Fallacy: Guilt by AssociationGuilt by association is the attempt to discredit an idea based upon disfavored people or groups asso...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MZ7ZQigbPUE" title="What is the Fallacy of Association? (Definition)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MZ7ZQigbPUE" target="_blank" rel="noopener noreferrer">What is the Fallacy of Association? (Definition)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 4.5K &middot; Uploaded: December 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MZ7ZQigbPUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MZ7ZQigbPUE">Open on YouTube</a></p></div></div></div>
 
 ## Why disliked groups distort judgement
@@ -304,7 +301,6 @@ Guilt by association works because it exploits emotional reactions that are ofte
 When audiences hear the name of a disliked organisation, political movement or public figure, existing feelings can be transferred to the target of the argument. Propaganda researchers have long described this process as a transfer mechanism: the emotional reputation of one thing is attached to another, encouraging acceptance or rejection without careful evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College
 
 Several psychological tendencies reinforce the effect:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -317,7 +313,6 @@ Several psychological tendencies reinforce the effect:
 
 Because these shortcuts operate quickly, audiences may never reach the stage of evaluating the underlying reasons. The association itself becomes the argument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.butte.edu/departments/cas/tipsheets/thinking/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[butte]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Fallacies and Propaganda</span><span class="citation-popover-snippet">Glenn Community CollegeFallacies and Propaganda - TIP SheetsThe guilt by association fallacy muddles the process of fairly evaluati...</span></span></span> -Glenn Community College <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophybytheway.blogspot.com/2025/09/guilt-by-association.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophybytheway.blogspot.com">[Philosophy by the Way]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophybytheway.blogspot.com</span><span class="citation-popover-title">guilt by association</span><span class="citation-popover-snippet">Sep 29, 2025 — Guilt by association is a kind of heuristic, or mental shortcut, that people use to decide which companies share their val...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-2-dark.svg" | relative_url }}" alt="Association illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When association becomes a substitute for evidence
 
@@ -328,7 +323,6 @@ A speaker may suggest that a proposal is dangerous because extremists once suppo
 One reason this tactic is effective is that many real-world associations are complex. People attend the same events, work in the same institutions, share partial beliefs or cooperate on limited projects without endorsing everything one another believe. Guilt by association compresses these nuanced relationships into a simple message: "they are connected, therefore they are the same." The simplification creates rhetorical force at the cost of logical accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/logicalfallacies/Ad-Hominem-Guilt-by-Association" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-snippet">Ad Hominem (Guilt by Association)When the source is viewed negatively because of its association with another person or group who is alre...</span></span></span>
 
 The association may even be several steps removed. An argument can be dismissed because it resembles a position once held by a disliked figure, even when there is no direct relationship at all. In such cases, the chain of [relevance]({{ 'relevance/' | relative_url }}) becomes so weak that it provides virtually no information about the truth of the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-guilt-by-association/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLGuilt by Association Fallacy</span><span class="citation-popover-snippet">Excelsior OWLGuilt by Association Fallacy - Excelsior OWLA guilt by association fallacy occurs when someone connects an opponent to a dem...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N_ddwtc_H0w" title="Ad Hominem (Guilt by Association)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N_ddwtc_H0w" target="_blank" rel="noopener noreferrer">Ad Hominem (Guilt by Association)</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 18.0K &middot; Uploaded: January 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N_ddwtc_H0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N_ddwtc_H0w">Open on YouTube</a></p></div></div></div>
 
@@ -354,7 +348,6 @@ A genuine rebuttal identifies errors in facts, assumptions, logic or methodology
 
 Shared membership in a broad group, attendance at the same event or agreement on one issue rarely justifies conclusions about a person's broader beliefs or the quality of their argument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://simple.wikipedia.org/wiki/Guilt_by_association" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Guilt by association</span><span class="citation-popover-snippet">Guilt by associationThis logical fallacy often occurs when negative traits or behaviors of one person are presumed to apply to another...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-3-dark.svg" | relative_url }}" alt="Association illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_ad_hominem_32e1c3_guilt_by_association_4ddecd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical lesson
 
@@ -362,9 +355,7 @@ Guilt by association turns social reputation into evidence. Its persuasive power
 
 Associations can sometimes provide relevant [context]({{ 'context/' | relative_url }}), especially when credibility, testimony or conflicts of interest are at issue. However, weak social links, ideological overlap and mere proximity do not determine whether a claim is true. When a disliked person or group is used as a substitute for analysing the actual reasons, association has replaced evidence, and the argument has become fallacious. [philosophy.lander.edu+3Internet Encyclopedia of Philosophy+3Internet Encyclopedia of Philosophy]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XInuneqdJRM" title="Critical Thinking: The Fallacy of Ad Hominem (Guilt By Association)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XInuneqdJRM" target="_blank" rel="noopener noreferrer">Critical Thinking: The Fallacy of Ad Hominem (Guilt By Association)</a></p><p class="youtube-embed-meta">Channel: Critical Thinking, Logic, and Argumentation (ReasonIO) &middot; Views: 3.2K &middot; Uploaded: June 2015 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XInuneqdJRM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XInuneqdJRM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -452,7 +443,7 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -462,111 +453,36 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
           <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
           <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
             <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
             <span data-ebay-trigger-market-label>USA</span>
           </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
           </select>
           <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
           </div>
         </div>
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic"><img src="{{ '/assets/images/marketplace-covers/c0a260b861a4419f1bff.jpg' | relative_url }}" alt="Listing image for Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic &#x27;Thalia&#x27; (White) T-Shirt"><img src="https://i.ebayimg.com/images/g/VLIAAeSwKuhp6N0v/s-l225.jpg" alt="Listing image for Logic &#x27;Thalia&#x27; (White) T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logical Fallacies Poster ,Critical Thinking Wall Art , Philosophy Infographic</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Logic &#x27;Thalia&#x27; (White) T-Shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bd00fb3048f860b3ccdb.jpg' | relative_url }}" alt="Listing image for Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Base rate fallacy black Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas"><img src="{{ '/assets/images/marketplace-covers/cb61c849ab6ba95f7d05.jpg' | relative_url }}" alt="Listing image for Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Make A Logical Fallacy Poster Poster of Common Logical Canvas</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean"><img src="{{ '/assets/images/marketplace-covers/52e153c2980e4d629616.jpg' | relative_url }}" alt="Listing image for Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Anvil Rotting Corpse Fallacy Houston 2012 Art Poster Print Signed Flynn Prejean</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fallacy poster">Search <span data-ebay-domain-label>eBay.com</span>: fallacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=fallacy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-fallacy-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Unisex T-Shirt: Wavy (Navy Blue) (Back Print)"><img src="{{ '/assets/images/marketplace-covers/ec4b80b44ed705badd82.jpg' | relative_url }}" alt="Listing image for Logic Unisex T-Shirt: Wavy (Navy Blue) (Back Print)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logic Unisex T-Shirt: Wavy (Navy Blue) (Back Print)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +490,15 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White"><img src="{{ '/assets/images/marketplace-covers/ccb32ae6eb42606ce33e.jpg' | relative_url }}" alt="Listing image for DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic NF Kyle Tour Graphic Long Sleeve Crew Neck T-Shirt Red Unisex M"><img src="https://i.ebayimg.com/images/g/5SwAAeSwO3BqKiTa/s-l225.jpg" alt="Listing image for Logic NF Kyle Tour Graphic Long Sleeve Crew Neck T-Shirt Red Unisex M" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Logic NF Kyle Tour Graphic Long Sleeve Crew Neck T-Shirt Red Unisex M</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +506,15 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic The Endless Summer Tour 2019 black cotton t-shirt size L Next Level"><img src="{{ '/assets/images/marketplace-covers/cecadaf59d2ec9f014d5.jpg' | relative_url }}" alt="Listing image for Logic The Endless Summer Tour 2019 black cotton t-shirt size L Next Level" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic T Shirt Logo new Official Unisex Black"><img src="https://i.ebayimg.com/images/g/rWgAAeSwDe5qI4g-/s-l225.jpg" alt="Listing image for Logic T Shirt Logo new Official Unisex Black" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logic The Endless Summer Tour 2019 black cotton t-shirt size L Next Level</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Logic T Shirt Logo new Official Unisex Black</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,15 +522,15 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic College Park 301 Men’s Long Sleeve T Shirt Beige Size Medium Cotton"><img src="{{ '/assets/images/marketplace-covers/5b383a1bdaca4b57910f.jpg' | relative_url }}" alt="Listing image for Logic College Park 301 Men’s Long Sleeve T Shirt Beige Size Medium Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White"><img src="https://i.ebayimg.com/images/g/sbYAAOSw5zBnYhXD/s-l225.jpg" alt="Listing image for DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Logic College Park 301 Men’s Long Sleeve T Shirt Beige Size Medium Cotton</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DRY KILL LOGIC new T-SHIRT All sizes S M L XL XXL colours Black, White</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic t shirt</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -622,7 +538,7 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=association-when-association-replaces-evidence-logical-fallacies-logic-t-shirt&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-association-replaces-evidence-logic-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic t shirt" data-ebay-reference="when-association-replaces-evidence-logic-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -699,17 +615,31 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
 </script>
   <script type="text/javascript">
 (function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  function inferMarket(available) {
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      return window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: 'EBAY_US'
-      });
-    }
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function flagClass(marketId) {
     return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
@@ -722,42 +652,73 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
     if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
+  function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
-    var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      if (available.indexOf(marketId) >= 0) select.value = marketId;
-      var option = select.options[select.selectedIndex];
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-        flag.className = flagClass(marketId);
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-        label.textContent = option ? option.text : marketId;
-      });
-      Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-      closeMenu(section);
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
     }
-    select.addEventListener('change', function () {
-      selectMarket(select.value, true);
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
     });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
     var trigger = section.querySelector('[data-ebay-market-trigger]');
     var menu = section.querySelector('[data-ebay-market-menu]');
     if (trigger && menu) {
@@ -772,12 +733,17 @@ Associations can sometimes provide relevant [context]({{ 'context/' | relative_u
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {
           event.stopPropagation();
-          selectMarket(button.getAttribute('data-ebay-market-option'), true);
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
         });
       });
       document.addEventListener('click', function () { closeMenu(section); });
     }
-    selectMarket(inferMarket(available), false);
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
   });
 })();
 </script>

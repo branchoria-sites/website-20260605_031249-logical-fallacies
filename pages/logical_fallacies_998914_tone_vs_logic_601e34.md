@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Tone
 title: Is Tone the Same as Logic?
-title_full: Is Tone the Same as Logic? | Fallacy Lab
+title_full: Is Tone the Same as Logic?
 display_title_short: Tone
 display_title: Tone
 heading_title: Is Tone the Same as Logic?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_tone_vs_logic_601e34-overview-soc
 
 Tone is not the same as logic. A harsh argument can still give relevant reasons, and a polite argument can still dodge the point, distort the evidence or lean on a weak inference. In the study of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), the central test is not “Was the speaker nice?” but “Do the reasons actually support the conclusion?” This distinction matters because arguments about fallacies often go wrong in two opposite ways: people dismiss a sound criticism because it sounds rude, or they excuse a bad argument because it sounds calm and civil.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-overview.webp" | relative_url }}" alt="Overview image for Tone" loading="eager" decoding="sync" fetchpriority="high">
 The most common confusion sits near the ad hominem fallacy. An ad hominem becomes fallacious when it attacks a person instead of addressing the claim or evidence. But not every unpleasant personal remark is doing that logical work. Some insults are merely uncivil add-ons; some criticisms of a speaker’s conduct are directly relevant; and some polished, respectful comments are still fallacious because they avoid the issue. The practical skill is to separate tone, [relevance]({{ 'relevance/' | relative_url }}) and argumentative support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iep.utm.edu/fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iep.utm.edu">[Internet Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iep.utm.edu</span><span class="citation-popover-snippet">Internet Encyclopedia of PhilosophyFallaciesThe major difficulty with labeling a piece of reasoning an Ad Hominem Fallacy is deciding whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philosophy.lander.edu/logic/person.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philosophy.lander.edu">[Philosophy Home Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philosophy.lander.edu</span><span class="citation-popover-snippet">Philosophy Home PageAd HominemOften the fallacy is characterized simply as a personal attack. However, a personal attack is a claim, not...</span></span></span>
 
@@ -531,7 +530,6 @@ The ad hominem issue is especially sensitive because some personal criticism is 
 
 This is the mechanism behind the “rude but relevant” category. A complaint may be blunt, even insulting, while still pointing to evidence that matters. “The witness lied under oath last year, so we should corroborate this testimony” may sound severe, but credibility is relevant in a testimonial setting. “The scientist is unpleasant, so the measurements are wrong” is different: the personal attack does not engage the method, data or inference.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-1-dark.svg" | relative_url }}" alt="Tone illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tone policing as a relevance mistake
 
@@ -543,7 +541,6 @@ This distinction matters in public arguments about inequality, workplace mistrea
 
 A useful test is to ask: if the same argument were delivered calmly, would the objection still apply? If yes, the issue may be substantive. If no, the objection is probably about presentation rather than reasoning.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-3-dark.svg" | relative_url }}" alt="Tone illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Civility can improve dialogue without proving logic
 
@@ -552,7 +549,6 @@ Tone is not irrelevant to communication. Incivility can make people defensive, d
 That social effect is real, but it should not be confused with logical assessment. An argument may be rude enough to violate a discussion norm while still containing a good reason. A meeting chair, teacher or moderator may need to address the manner of speech to keep the exchange usable. But after doing so, the original claim remains to be evaluated.
 
 This produces two separate judgements:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -565,7 +561,6 @@ This produces two separate judgements:
 
 A single statement can pass one test and fail another. “Your figures are nonsense because they double-count the same survey group” is abrasive, but it gives a checkable logical criticism. “Your argument is beautifully phrased and inclusive, so it must be right” is socially pleasant, but the compliment does not establish the conclusion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qBkj-AYYg7w" title="CRITICAL THINKING - Fallacies: Ad Hominem [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer">CRITICAL THINKING - Fallacies: Ad Hominem [HD]</a></p><p class="youtube-embed-meta">Channel: Wireless Philosophy &middot; Views: 458.3K &middot; Uploaded: September 2014 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qBkj-AYYg7w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qBkj-AYYg7w">Open on YouTube</a></p></div></div></div>
 
 ## Polished weak arguments can be more dangerous than obvious insults
@@ -575,7 +570,6 @@ A crude insult is easy to spot. A polished weak argument can travel further beca
 For example, a speaker might say: “I appreciate your passion, but serious people understand that this proposal is unrealistic.” The sentence sounds courteous, yet it may still commit a relevance error if it offers no reason the proposal is unrealistic. The phrase “serious people” functions as a social filter rather than evidence. In another setting, “Experts reject this” may be strong if it names relevant experts and their reasons; it is weak if it merely borrows the prestige of expertise without showing fit, evidence or agreement.
 
 Polished weak arguments often rely on substitutions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -588,14 +582,12 @@ Polished weak arguments often rely on substitutions:
 
 The danger is that listeners may mistake social fluency for logical strength. A cleanly phrased argument can still be a [red herring]({{ 'red-herring/' | relative_url }}), a straw man, an appeal to irrelevant authority, or an ad hominem in softened language.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-2-dark.svg" | relative_url }}" alt="Tone illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_tone_vs_logic_601e34-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to tell the difference in practice
 
 The simplest method is to separate the argument from its packaging before judging either. Start by identifying the claim, then the reason offered for it, then the connection between the two. Only after that should tone be assessed as a separate conversational matter.
 
 A practical sequence is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -611,7 +603,6 @@ This avoids two common errors. The first is the “rudeness equals fallacy” er
 
 The distinction is especially important in debates about credibility. Personal facts can be relevant when the argument depends on trust, testimony, expertise, conflict of interest or consistency between words and actions. Douglas Walton’s work on ad hominem reasoning is often cited for this more nuanced view: some ad hominem arguments are fallacious diversions, but some raise legitimate critical questions about a speaker’s position, especially where inconsistency or credibility is directly at issue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1570868308000384" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/WALTAH-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">WALTAH 2</span><span class="citation-popover-snippet">WALTAH 2</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZPI8olxv7UQ" title="Not Every Insult is an Ad Hominem Fallacy!!! [SUB ESP] #logic #fallacy #insult" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZPI8olxv7UQ" target="_blank" rel="noopener noreferrer">Not Every Insult is an Ad Hominem Fallacy!!! [SUB ESP] #logic #fallacy #insult</a></p><p class="youtube-embed-meta">Channel: Chihon Teaches &middot; Views: 665 &middot; Uploaded: September 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZPI8olxv7UQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZPI8olxv7UQ">Open on YouTube</a></p></div></div></div>
 
 ## The best rule: criticise reasoning, not merely temperature
@@ -622,9 +613,7 @@ Likewise, the best way to handle polished weak arguments is to ask for the missi
 
 Tone matters for human conversation. Logic matters for whether a claim is supported. The two often interact, but they are not the same test. A good critic can say both things at once: the argument may be badly mannered, and it may still need an answer; the argument may be beautifully mannered, and it may still fail.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kCgkiGNOmek" title="On Tone Policing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer">On Tone Policing</a></p><p class="youtube-embed-meta">Channel: T1J &middot; Views: 26.8K &middot; Uploaded: May 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kCgkiGNOmek" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kCgkiGNOmek">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -743,15 +732,15 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch"><img src="https://i.ebayimg.com/images/g/No4AAOSwgyBmw8Rr/s-l225.jpg" alt="Listing image for Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)"><img src="https://i.ebayimg.com/images/g/YmEAAeSwfWxpe5MF/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic No Pressure Release Twitch Party Signed Poster *SIGNED TWICE* Merch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (6x4 &amp; 7x5)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -759,15 +748,15 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Signed Everybody Album Poster With Frame"><img src="https://i.ebayimg.com/images/g/nd0AAeSwoApoMksV/s-l225.jpg" alt="Listing image for Logic Signed Everybody Album Poster With Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/~WAAAeSwEdBpYQ3U/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Signed Everybody Album Poster With Frame</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -775,15 +764,15 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)"><img src="https://i.ebayimg.com/images/g/HT0AAeSwmutqGErO/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)"><img src="https://i.ebayimg.com/images/g/HT0AAeSwmutqGErO/s-l225.jpg" alt="Listing image for Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Album Cover Gifts Posters Prints Wall Art Home Decor (4)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -791,15 +780,15 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Logic Merch Incredible True Story Album Spacesuits Rap Music Logic Poster 36x12"><img src="https://i.ebayimg.com/images/g/mfYAAeSwykppqCp2/s-l225.jpg" alt="Listing image for Logic Merch Incredible True Story Album Spacesuits Rap Music Logic Poster 36x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock Band Music Gifts Posters Prints Home Decor Wall Art"><img src="https://i.ebayimg.com/images/g/2DAAAeSwQ9JpYP-4/s-l225.jpg" alt="Listing image for Rock Band Music Gifts Posters Prints Home Decor Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer">Logic Merch Incredible True Story Album Spacesuits Rap Music Logic Poster 36x12</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rock Band Music Gifts Posters Prints Home Decor Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for logic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: logic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -807,7 +796,7 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic poster" data-ebay-reference="is-tone-the-same-as-logic-logic-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=logic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-tone-the-same-as-logic-logic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logic wall art" data-ebay-reference="is-tone-the-same-as-logic-logic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1017,6 +1006,7 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1235,4 +1225,4 @@ Tone matters for human conversation. Logic matters for whether a claim is suppor
 
 47. <a id="endnote-47"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/walton-global" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/walton-global</a>  
+   Link: <a href="https://www.linkedin.com/company/walton-global" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/walton-global</a>

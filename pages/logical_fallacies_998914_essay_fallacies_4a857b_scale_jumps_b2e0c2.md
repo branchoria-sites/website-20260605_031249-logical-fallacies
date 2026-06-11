@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /essays/
 nav_short_title: Scale Jumps
 title: How One Example Becomes Too Much
-title_full: How One Example Becomes Too Much | Essays
+title_full: How One Example Becomes Too Much
 display_title_short: Scale Jumps
 display_title: Scale Jumps
 heading_title: How One Example Becomes Too Much
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:03:12'
-parent_title: How Fallacies Weaken Student Essays | Fallacy Lab
+parent_title: How Fallacies Weaken Student Essays
 parent_permalink: /essays/
 parent_nav_short_title: Essays
 parent_heading_title: How Fallacies Weaken Student Essays
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jump
 
 A hasty generalisation from one classroom example occurs when a writer treats a single observation, anecdote or lesson [experience]({{ 'experience/' | relative_url }}) as proof of a broad claim. In academic writing, the problem is not that the example is false. The problem is that the conclusion extends far beyond what the evidence can support. A classroom incident may illustrate a point vividly, but it cannot by itself demonstrate what is true of all students, all schools, an entire generation or a whole educational system. Logic and writing guides consistently describe hasty generalisation as drawing a conclusion from evidence that is too limited, too small or insufficiently representative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/hasty-generalization-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">hasty generalization fallacy</span><span class="citation-popover-snippet">Hasty Generalization Fallacy &#124; Definition &amp; ExamplesApr 26, 2023 — A hasty generalization fallacy occurs when people draw a conclu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLLogical Fallacies</span><span class="citation-popover-snippet">Purdue OWLLogical Fallacies - Purdue OWLHasty Generalization: This is a conclusion based on insufficient or biased evidence. In other wor...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-1-dark.svg" | relative_url }}" alt="Scale Jumps illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within student [essays]({{ 'essays/' | relative_url }}), this error often appears when a writer mistakes a memorable local experience for a reliable basis for a general claim. The result is a mismatch between the scale of the evidence and the scale of the conclusion.
 
@@ -291,7 +290,6 @@ Consider the following example:
 The observation may be accurate. The conclusion is not justified. A handful of students in one classroom cannot establish a pattern for all students. The argument moves from a local event to a sweeping statement without showing that the observed group is representative. This is a classic form of hasty generalisation, in which a small sample is treated as evidence for a much broader conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/logical-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">logical fallacy</span><span class="citation-popover-snippet">Logical Fallacies &#124; Definition, Types, List &amp; ExamplesApr 20, 2023 — The hasty generalization fallacy (or jumping to conclusions) occurs...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">A hasty generalization...Read more...</span></span></span>
 
 The same pattern appears in many essay topics:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,7 +316,6 @@ A writer may honestly believe:
 
 The missing step is proof that the class resembles the wider population being discussed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zXystSfiClI" title="What is Hasty Generalization? (Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zXystSfiClI" target="_blank" rel="noopener noreferrer">What is Hasty Generalization? (Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 976 &middot; Uploaded: March 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zXystSfiClI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zXystSfiClI">Open on YouTube</a></p></div></div></div>
 
 ### The classroom seems like a miniature version of society
@@ -343,7 +340,6 @@ The revised statement remains supported by the observation because it does not c
 
 Useful qualifiers include:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * “In this class”
@@ -356,7 +352,6 @@ Useful qualifiers include:
 </div>
 
 These phrases signal that the writer understands the limits of the evidence. Academic argument often becomes stronger, not weaker, when claims are carefully limited to what the evidence actually supports. Argumentation research and writing guidance both emphasise that conclusions should be proportionate to the premises supporting them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.13495" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Assessing the Sufficiency of Arguments through Conclusion Generation</span><span class="citation-popover-snippet">Assessing the Sufficiency of Arguments through Conclusion GenerationOctober 26, 2021...</span><span class="citation-popover-meta">Published: October 26, 2021</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-2-dark.svg" | relative_url }}" alt="Scale Jumps illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Before-and-After Revisions of Overgeneralised Essay Claims
@@ -374,7 +369,6 @@ The difference between weak and strong academic writing is often a matter of sca
 > Students in one mathematics class performed better after tablets were introduced, suggesting that digital tools may have contributed to improved performance in that setting.
 
 The revision keeps the conclusion closer to the evidence and acknowledges uncertainty.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3wGbQ6B3EtQ" title="Hasty Generalization" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3wGbQ6B3EtQ" target="_blank" rel="noopener noreferrer">Hasty Generalization</a></p><p class="youtube-embed-meta">Channel: PHILO-notes &middot; Views: 19.7K &middot; Uploaded: June 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3wGbQ6B3EtQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3wGbQ6B3EtQ">Open on YouTube</a></p></div></div></div>
 
@@ -402,14 +396,12 @@ The revised version avoids making claims about all students.
 
 The second version focuses on what the evidence actually demonstrates.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-3-dark.svg" | relative_url }}" alt="Scale Jumps illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_essay_fallacies_4a857b_scale_jumps_b2e0c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Evidence Would Justify a Broader Claim?
 
 A broad claim requires broad evidence. If a writer wants to argue that a trend exists across many classrooms or schools, a single classroom example should function as an illustration rather than the primary proof.
 
 Stronger support might include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -423,7 +415,6 @@ Stronger support might include:
 
 A classroom anecdote can still be valuable. It can introduce a topic, humanise a discussion or illustrate a larger pattern. The mistake occurs only when the anecdote is treated as sufficient proof by itself. Writing guides frequently distinguish between illustrative examples and evidence capable of supporting general conclusions. A single anecdote may demonstrate that something can happen; it rarely demonstrates how common it is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/frequently-asked-questions/difference-between-the-hasty-generalization-fallacy-and-anecdotal-evidence-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-snippet">The hasty generalization fallacy and the anecdotal...The hasty generalization fallacy and the anecdotal evidence fallacy are simi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/hasty-generalizations-and-other-logical-fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[purdueglobalwriting.center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">A hasty generalization...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b_UqIfw7Zmw" title="Hasty Generalization (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b_UqIfw7Zmw" target="_blank" rel="noopener noreferrer">Hasty Generalization (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 59.6K &middot; Uploaded: February 2014 &middot; Length: 1 minute 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b_UqIfw7Zmw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b_UqIfw7Zmw">Open on YouTube</a></p></div></div></div>
 
 ## Recognising the Scale Jump
@@ -435,7 +426,6 @@ A useful editing question is:
 If the answer is yes, the paragraph may contain a hasty generalisation.
 
 The warning signs are often easy to spot. A paragraph begins with evidence about one lesson, one class, one teacher or one school, but ends with phrases such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 

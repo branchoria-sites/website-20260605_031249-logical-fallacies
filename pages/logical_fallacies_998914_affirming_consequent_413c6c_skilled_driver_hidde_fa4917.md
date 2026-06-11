@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /wet-pavement/
 nav_short_title: Driver Example
 title: Does No Accident Prove Good Driving?
-title_full: Does No Accident Prove Good Driving? | Wet Pavement
+title_full: Does No Accident Prove Good Driving?
 display_title_short: Driver Example
 display_title: Driver Example
 heading_title: Does No Accident Prove Good Driving?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 14:56:26'
-parent_title: Why One Explanation Is Not Enough | Fallacy Lab
+parent_title: Why One Explanation Is Not Enough
 parent_permalink: /wet-pavement/
 parent_nav_short_title: Wet Pavement
 parent_heading_title: Why One Explanation Is Not Enough
@@ -270,12 +270,10 @@ image: /assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skill
 
 Does a driver who has never had an accident automatically count as a skilled driver? The answer is no. A clean accident record may be consistent with good driving, but it does not prove that driving skill is the reason for the outcome. This is a classic example of the logical fallacy known as *affirming the consequent*: moving from an observed result to one preferred explanation without ruling out other possible causes. In the same way that [wet pavement]({{ 'wet-pavement/' | relative_url }}) does not necessarily prove that it rained, a lack of accidents does not necessarily prove exceptional driving ability. The crucial mistake is treating one possible cause as though it were the only cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-1-dark.svg" | relative_url }}" alt="Driver Example illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Driver Argument in Affirming-the-Consequent Form
 
 The argument often appears in a simple form:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -298,7 +296,6 @@ The central lesson is that accident-free driving is an outcome with multiple pos
 Road travel involves uncertainty. Even careful drivers sometimes encounter reckless motorists, unexpected hazards, or adverse weather. Conversely, less capable drivers may avoid collisions simply because they have not yet encountered situations that expose their weaknesses.
 
 A short period without accidents therefore provides limited information. The outcome may partly reflect chance rather than ability. This does not mean skill is irrelevant; it means that luck can produce the same visible result that skill produces.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_WDDVz-EWFw" title="Affirming the Consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer">Affirming the Consequent</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 11.9K &middot; Uploaded: February 2014 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_WDDVz-EWFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_WDDVz-EWFw">Open on YouTube</a></p></div></div></div>
 
@@ -323,7 +320,6 @@ A driver who mainly travels on quiet rural roads during daylight in good weather
 
 Suppose two people both have ten accident-free years. One drove only on lightly travelled roads in favourable conditions. The other spent those years driving through heavy traffic and difficult weather. The same outcome may reflect very different combinations of skill, exposure, and circumstance.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-2-dark.svg" | relative_url }}" alt="Driver Example illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Concrete Comparison
 
@@ -334,7 +330,6 @@ Imagine the following claim:
 The evidence establishes only one fact: Sarah has avoided accidents.
 
 Several rival explanations remain available:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -348,7 +343,6 @@ Several rival explanations remain available:
 
 The observed fact is compatible with all of these possibilities. Because multiple explanations remain plausible, the conclusion that Sarah is skilled does not follow with certainty. This is exactly the same logical pattern as observing wet pavement and assuming rain without considering sprinklers, cleaning vehicles, or other sources of water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Affirming_the_consequent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Affirming the consequent</span><span class="citation-popover-snippet">Affirming the consequent</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/85QJZdbgEoc" title="Affirming the Consequent: A Formal Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer">Affirming the Consequent: A Formal Fallacy</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 69.7K &middot; Uploaded: November 2009 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=85QJZdbgEoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=85QJZdbgEoc">Open on YouTube</a></p></div></div></div>
 
 ## Why the Mistake Feels Reasonable
@@ -358,7 +352,6 @@ People often use outcomes as shortcuts for judging ability. In everyday life, di
 The problem is that proxies can hide important information. A person can achieve the desired outcome through several routes. When observers focus only on the outcome, they may overlook the underlying causes that produced it.
 
 This tendency is especially common when evaluating individuals. Humans naturally prefer simple stories with a single explanation. “No accidents means good driver” is cognitively easier than considering exposure, road conditions, luck, [experience]({{ 'experience/' | relative_url }}), and other contributing factors simultaneously.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m9hjWTe33Wk" title="Logical Fallacies - Affirming the consequent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m9hjWTe33Wk" target="_blank" rel="noopener noreferrer">Logical Fallacies - Affirming the consequent</a></p><p class="youtube-embed-meta">Channel: Adam Smith Institute &middot; Views: 3.8K &middot; Uploaded: January 2015 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m9hjWTe33Wk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m9hjWTe33Wk">Open on YouTube</a></p></div></div></div>
 
@@ -378,7 +371,6 @@ This revised argument does not commit the fallacy because it acknowledges altern
 
 Useful questions include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * How many miles has the driver travelled?
@@ -390,7 +382,6 @@ Useful questions include:
 </div>
 
 The more alternative explanations are examined and ruled out, the stronger the inference becomes.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-3-dark.svg" | relative_url }}" alt="Driver Example illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_affirming_consequent_413c6c_skilled_driver_hidde_fa4917-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Key Lesson

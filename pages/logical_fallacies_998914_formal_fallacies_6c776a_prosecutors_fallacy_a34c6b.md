@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /formal-logic/
 nav_short_title: Probability Trap
 title: When Rare Evidence Misleads a Jury
-title_full: When Rare Evidence Misleads a Jury | Formal Logic
+title_full: When Rare Evidence Misleads a Jury
 display_title_short: Probability Trap
 display_title: Probability Trap
 heading_title: When Rare Evidence Misleads a Jury
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 10:23:42'
-parent_title: When the Structure Makes Reasoning Fail | Fallacy Lab
+parent_title: When the Structure Makes Reasoning Fail
 parent_permalink: /formal-logic/
 parent_nav_short_title: Formal Logic
 parent_heading_title: When the Structure Makes Reasoning Fail
@@ -276,12 +276,10 @@ image: /assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecuto
 
 The prosecutor’s fallacy is a specific logical and probabilistic error that occurs when two different probability statements are treated as if they mean the same thing. In legal and forensic settings, the mistake can make evidence appear far more conclusive than it really is. The core confusion is between the probability of observing certain evidence if a person is innocent and the probability that the person is innocent given that evidence. Those are not equivalent questions, and treating them as equivalent can distort judgments about guilt, especially when the evidence is rare. The fallacy is often discussed as a specialised form of reversed conditional probability and has been linked to miscarriages of justice in several high-profile cases. CEBM PubMed Within the broader family of formal reasoning errors <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11848139/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">a pitfall in interpreting probabilities in forensic evidenceby WC Leung · 2002 · Cited by 37 — This paper highlights the source of...</span></span></span>, the prosecutor’s fallacy matters because it creates an invalid inference structure. A low probability attached to one conditional statement is incorrectly transformed into a low probability attached to a different conditional statement, even though the second conclusion does not logically follow from the first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philarchive.org/archive/DEMGBS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philarchive.org">[PhilArchive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philarchive.org</span><span class="citation-popover-title">Phil Archive The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s</span><span class="citation-popover-snippet">The “prosecutor&#x27;s fallacy” and the “interrogator&#x27;s...February 14, 2010 — by N Sesardic · 2008 · Cited by 16 — The confusion o...</span><span class="citation-popover-meta">Published: February 14, 2010</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-1-dark.svg" | relative_url }}" alt="Probability Trap illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Evidence Given Innocence Versus Innocence Given Evidence
 
 The simplest way to understand the fallacy is to compare two questions:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -304,7 +302,6 @@ This reasoning reverses the conditional probability. Researchers and legal stati
 * Probability of innocence given evidence.
 
 These values can differ dramatically because they depend on different information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cebm.ox.ac.uk/news/views/the-prosecutors-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cebm.ox.ac.uk">[CEBM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cebm.ox.ac.uk</span><span class="citation-popover-title">the prosecutors fallacy</span><span class="citation-popover-snippet">The Prosecutor&#x27;s Fallacy16 Jul 2018 — It&#x27;s when the probability of innocence given the evidence is wrongly assumed to equal an infini...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XxCEso0YvJQ" title="Sally Clark | What is the Prosecutor&#x27;s Fallacy? | Was Clark Wrongly Convicted by Bad Statistics?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XxCEso0YvJQ" target="_blank" rel="noopener noreferrer">Sally Clark | What is the Prosecutor&#x27;s Fallacy? | Was Clark Wrongly Convicted by Bad Statistics?</a></p><p class="youtube-embed-meta">Channel: Dr. Todd Grande &middot; Views: 74.6K &middot; Uploaded: March 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XxCEso0YvJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XxCEso0YvJQ">Open on YouTube</a></p></div></div></div>
 
@@ -330,7 +327,6 @@ Even if a rare double-SIDS event were extremely unlikely, that would not automat
 
 The case became a landmark example in discussions of statistical evidence because it demonstrated how a striking numerical claim can appear to settle a question that the number alone cannot answer. The Royal Statistical Society publicly expressed concern about the misuse of statistics in court proceedings connected with the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sally_Clark" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sally Clark</span><span class="citation-popover-snippet">Sally Clark</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-2-dark.svg" | relative_url }}" alt="Probability Trap illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Base Rates Matter
 
@@ -342,7 +338,6 @@ Consider a medical screening test that incorrectly identifies one healthy person
 
 In criminal cases, relevant base rates may include:
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * The size of the population from which a suspect was identified.
@@ -353,7 +348,6 @@ In criminal cases, relevant base rates may include:
 </div>
 
 Ignoring these background frequencies encourages the mistaken leap from “rare evidence” to “near-certain guilt.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsociety.org/-/media/about-us/programmes/science-and-law/science-and-law-statistics-primer.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">science and law statistics primer</span><span class="citation-popover-snippet">To interpret the weight of the evidence (or likelihood ratio (LR)).Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1355030625001364" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Does explaining the meaning of likelihood ratios improve...by WC Thompson · 2025 · Cited by 1 — The expert witness explaine...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-3-dark.svg" | relative_url }}" alt="Probability Trap illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_formal_fallacies_6c776a_prosecutors_fallacy_a34c6b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Simple Ways to Explain Base Rates and Alternatives
@@ -371,7 +365,6 @@ A clearer explanation might be:
 The second statement encourages consideration of alternative matches rather than implying a single inevitable culprit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://joelvelasco.net/teaching/122/thompson%26schumann87-statisticslaw.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: joelvelasco.net">[joelvelasco.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">joelvelasco.net</span><span class="citation-popover-title">Interpretation of statistical evidence in criminal trials</span><span class="citation-popover-snippet">November 8, 2011 — by WC Thompsont · Cited by 732 — Presenting the data in this manner probably led more subjects to commit the Prosecuto...</span><span class="citation-popover-meta">Published: November 8, 2011</span></span></span>
 
 Another useful approach is to ask two separate questions:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E3VoTTR8MXM" title="The Prosecutor&#x27;s Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E3VoTTR8MXM" target="_blank" rel="noopener noreferrer">The Prosecutor&#x27;s Fallacy</a></p><p class="youtube-embed-meta">Channel: Norman Fenton &middot; Views: 8.2K &middot; Uploaded: February 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E3VoTTR8MXM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E3VoTTR8MXM">Open on YouTube</a></p></div></div></div>
 

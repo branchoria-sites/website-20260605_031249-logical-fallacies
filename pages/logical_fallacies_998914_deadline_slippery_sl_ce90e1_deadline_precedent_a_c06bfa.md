@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /deadlines/
 nav_short_title: Precedent
 title: Does One Extension Force the Next?
-title_full: Does One Extension Force the Next? | Deadlines
+title_full: Does One Extension Force the Next?
 display_title_short: Precedent
 display_title: Precedent
 heading_title: Does One Extension Force the Next?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:57:11'
-parent_title: Will One Extension Ruin the Rules? | Fallacy Lab
+parent_title: Will One Extension Ruin the Rules?
 parent_permalink: /deadlines/
 parent_nav_short_title: Deadlines
 parent_heading_title: Will One Extension Ruin the Rules?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadl
 
 A common slippery-slope objection to deadline extensions runs as follows: if one person receives extra time, every future applicant, student, employee or contractor must receive the same treatment. The argument sounds persuasive because fairness often requires consistency. Yet consistency does not mean that every case receives an identical outcome. It means that decision-makers apply the same standards to relevant facts.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-1-dark.svg" | relative_url }}" alt="Precedent illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction is central to precedent arguments in deadline-extension decisions. A previous extension can influence future decisions by creating a reference point, but it does not automatically determine them. In governance systems, precedent is usually strongest when later cases are materially similar. When circumstances differ, consistency may require different outcomes rather than identical ones. The slippery-slope error occurs when the existence of one precedent is treated as proof that decision-makers have lost the ability to distinguish between cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">Oxford Research Archive Consistency in Administrative Law</span><span class="citation-popover-snippet">ford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</span><span class="citation-popover-meta">Published: May 5, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.localgovernmentlawyer.co.uk/governance/314-governance-a-risk-articles/40015-administrative-law-principles-consistently-consistent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: localgovernmentlawyer.co.uk">[Local Government Lawyer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">localgovernmentlawyer.co.uk</span><span class="citation-popover-title">40015 administrative law principles consistently consistent</span><span class="citation-popover-snippet">Administrative law principles – consistently consistent8 Mar 2019 — What we mean in terms of consistency is that we should be treated in...</span></span></span>
 
@@ -295,7 +294,6 @@ This is why many slippery-slope predictions overstate the force of precedent. Le
 
 A deadline-extension example illustrates the point:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * A university grants an extension because a student was hospitalised.
@@ -305,7 +303,6 @@ A deadline-extension example illustrates the point:
 </div>
 
 The institution can consistently approve the first request and reject the second because the relevant circumstances differ. The standard remains stable even though the outcomes differ.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DtmAw9Ia7LA" title="Fallacies: Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer">Fallacies: Slippery Slope</a></p><p class="youtube-embed-meta">Channel: Kevin deLaplante &middot; Views: 126.6K &middot; Uploaded: January 2010 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DtmAw9Ia7LA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DtmAw9Ia7LA">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +316,6 @@ However, recognising these mechanisms is different from assuming that they are u
 
 A governance body can acknowledge a previous extension while still asking:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Were the circumstances substantially the same?
@@ -331,14 +327,12 @@ A governance body can acknowledge a previous extension while still asking:
 
 The presence of precedent changes the discussion, but it does not eliminate judgement. Treating any precedent as irreversible surrender skips over these intermediate decision points and therefore risks becoming a slippery-slope fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/18078/index.do" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: decisions.scc-csc.ca">[SCC Decisions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">decisions.scc-csc.ca</span><span class="citation-popover-title">SCC Decisions Canada (Minister of Citizenship and Immigration) v</span><span class="citation-popover-snippet">Vavilov19 Dec 2019 — Whether an administrative decision maker has acted reasonably in adapting a legal or equitable doctrine involves a h...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-2-dark.svg" | relative_url }}" alt="Precedent illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Writing Narrow Reasons for Approval
 
 One of the most effective ways to prevent unwarranted precedent expansion is to state clearly why an extension was granted.
 
 A poorly reasoned decision may simply say that an extension was approved. A narrowly reasoned decision identifies the specific grounds:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -354,7 +348,6 @@ The narrower the reasoning, the easier it becomes to evaluate future requests ag
 This approach reflects a broader principle found in administrative decision-making. Consistency is not achieved by repeating outcomes mechanically. It is achieved by applying the same criteria to comparable situations. Prior decisions matter because of the reasons behind them, not merely because they happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">Oxford Research Archive Consistency in Administrative Law</span><span class="citation-popover-snippet">ford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</span><span class="citation-popover-meta">Published: May 5, 2023</span></span></span>
 
 A carefully written approval can therefore reduce slippery-slope pressure. Instead of creating a broad precedent of “extensions are allowed”, it creates a more precise precedent of “extensions are allowed when these specific conditions are met”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QoiS1_1LXKQ" title="Administrative Law in Two Hours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QoiS1_1LXKQ" target="_blank" rel="noopener noreferrer">Administrative Law in Two Hours</a></p><p class="youtube-embed-meta">Channel: Anthony Marinac &middot; Views: 112.8K &middot; Uploaded: April 2020 &middot; Length: 2 hours 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QoiS1_1LXKQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QoiS1_1LXKQ">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +367,6 @@ A false-equivalence argument ignores those distinctions and focuses only on the 
 
 Effective governance resists this move by comparing the facts that are relevant to the policy's purpose. If the purpose of extensions is to address circumstances beyond a person's control, then the comparison should focus on control, evidence and impact rather than on lateness alone.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-3-dark.svg" | relative_url }}" alt="Precedent illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_deadline_slippery_sl_ce90e1_deadline_precedent_a_c06bfa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Consistency Requires Different Outcomes
 
@@ -383,7 +375,6 @@ A common misunderstanding is that consistency always points toward identical tre
 Administrative-law scholarship frequently notes that consistency and fairness are linked to reasoned decision-making rather than rigid repetition. An earlier decision may deserve less weight if it involved materially different facts, relied on inaccurate information, or reflected an error. Conversely, truly comparable cases may deserve similar outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mcleods.com.au/news/restrictions-on-the-principle-of-consistency-in-decision-making/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcleods.com.au">[McLeods Lawyers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcleods.com.au</span><span class="citation-popover-title">Mc Leods Lawyers Restrictions on the Principle of Consistency in Decision</span><span class="citation-popover-snippet">McLeods LawyersRestrictions on the Principle of Consistency in Decision-...March 11, 2020 — 11 Mar 2020 — The principle of consistency i...</span><span class="citation-popover-meta">Published: March 11, 2020</span></span></span>
 
 This means that decision-makers can remain consistent while producing different results:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -398,9 +389,7 @@ The crucial requirement is that the distinctions are relevant, transparent and c
 
 Seen this way, precedent is neither irrelevant nor all-powerful. It is a tool for disciplined comparison. The slippery-slope mistake arises when precedent is treated as a force that automatically overrides judgement. A past extension can guide future decisions, but it does not force every later request to receive the same answer. Fair governance depends on comparing reasons, not merely counting prior exceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/volokh/2022/06/15/judicial-judicial-equality-slippery-slopes-and-the-extension-of-precedent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Judicial-Judicial Equality Slippery Slopes and the...15 Jun 2022 — Arguing that judicial decision A will lead to B thus requires more th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ora.ox.ac.uk/objects/uuid%3Ac0f83f50-c59a-441f-8a5a-eca8da6c15f7/files/rtm70mw01j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">Oxford Research Archive Consistency in Administrative Law</span><span class="citation-popover-snippet">ford Research ArchiveConsistency in Administrative LawMay 5, 2023 — by A Perry · 2023 — If an official adheres to a commitment when dec...</span><span class="citation-popover-meta">Published: May 5, 2023</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_pLU_Txx8Zo" title="How to Spot Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_pLU_Txx8Zo" target="_blank" rel="noopener noreferrer">How to Spot Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Darren F Magee &middot; Views: 4.9K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_pLU_Txx8Zo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_pLU_Txx8Zo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

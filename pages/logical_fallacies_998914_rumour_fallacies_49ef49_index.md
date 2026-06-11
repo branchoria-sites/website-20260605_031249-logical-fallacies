@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-rumour/
 description: Focused pages that expand on Rumours.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_rumour_fallacies_49ef49
-parent_title: Rumours | Logical Fallacies
+parent_title: Rumours
 parent_nav_short_title: Rumours
 parent_permalink: /rumours/
 ---

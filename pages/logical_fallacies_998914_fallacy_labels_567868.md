@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: Labels
 title: When Fallacy Labels Mislead Too
-title_full: When Fallacy Labels Mislead Too | Fallacy Lab
+title_full: When Fallacy Labels Mislead Too
 display_title_short: Labels
 display_title: Labels
 heading_title: When Fallacy Labels Mislead Too
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_fallacy_labels_567868-overview-so
 
 Calling an argument fallacious can be useful, but it is not a verdict on the truth of the conclusion. A fallacy label identifies a suspected weakness in the reasoning: a missing link, irrelevant support, circular move, misleading appeal, or other defect in how a claim is defended. The conclusion may still be true for other reasons. The mistake called the fallacy fallacy, or argument from fallacy, happens when someone treats “that argument is bad” as if it proves “that claim is false”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Argument_from_fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Argument from fallacy</span><span class="citation-popover-snippet">Argument from fallacy</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-overview.webp" | relative_url }}" alt="Overview image for Labels" loading="eager" decoding="sync" fetchpriority="high">
 This matters because fallacy language can clarify [debate]({{ 'debate/' | relative_url }}) or distort it. Used carefully, labels give people a shorthand for recurring reasoning problems. Used carelessly, they become a way to dismiss opponents, sound clever, or stop analysis before the real evidential question has been answered. The practical lesson is simple: name the fallacy only after showing the actual error, and then ask what follows from that error. Often, what follows is not “therefore false”, but “therefore not yet proved”.
 
@@ -525,7 +524,6 @@ This response makes the same kind of mistake in reverse. It moves from a point a
 
 This distinction is why fallacy labels should usually be treated as diagnostic tools, not final judgements. They help answer “does this argument work?” They do not, by themselves, answer “what is true?”
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-Illustration-1-dark.svg" | relative_url }}" alt="Labels illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why fallacy labels can mislead
 
@@ -534,7 +532,6 @@ Fallacy labels are attractive because they are compact. “Straw man”, “ad h
 The risk is that the label starts doing work that the analysis has not done. Catherine Hundleby’s work on fallacy pedagogy criticises the “fallacies approach” when it encourages adversarial argument evaluation: students and teachers may enjoy the quick empowerment of naming fallacies, but real arguments are often ambiguous, overlapping and context-sensitive. A move that fits a fallacy label in one setting may be reasonable in another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/3035/2419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Students enjoy the quick empowerment t...</span></span></span>
 
 Three kinds of label misuse are especially common:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -545,7 +542,6 @@ Three kinds of label misuse are especially common:
 </div>
 
 This is why a fallacy label should be the beginning of a criticism, not the whole criticism. A good objection can survive without the label. It can say, plainly, “this reason does not support that conclusion because…”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ghbkv0MKV-w" title="Can you outsmart this logical fallacy? - Alex Gendler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ghbkv0MKV-w" target="_blank" rel="noopener noreferrer">Can you outsmart this logical fallacy? - Alex Gendler</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 2.3M &middot; Uploaded: November 2019 &middot; Length: 3 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ghbkv0MKV-w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ghbkv0MKV-w">Open on YouTube</a></p></div></div></div>
 
@@ -567,7 +563,6 @@ That is a poor argument, probably involving abusive rhetoric rather than relevan
 
 The fallacy fallacy often thrives in fast-moving online argument because the visible goal becomes winning the exchange, not testing the claim. A label delivers a quick rhetorical victory. But if the underlying claim matters, the better question is: “What would count as good evidence for or against this conclusion?”
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-Illustration-2-dark.svg" | relative_url }}" alt="Labels illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Showing the actual error
 
@@ -587,7 +582,6 @@ A practical test is to replace the label with a sentence beginning “This does 
 
 A good fallacy objection should also state its scope:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * **Weak scope:** “This example does not prove the general claim.”
@@ -599,7 +593,6 @@ A good fallacy objection should also state its scope:
 
 Only the last two move towards rejecting the conclusion itself, and they require more than a fallacy label.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oGBO-WMrlIQ" title="The Fallacy Fallacy | Idea Channel | PBS Digital Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oGBO-WMrlIQ" target="_blank" rel="noopener noreferrer">The Fallacy Fallacy | Idea Channel | PBS Digital Studios</a></p><p class="youtube-embed-meta">Channel: PBS Idea Channel &middot; Views: 179.9K &middot; Uploaded: January 2015 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oGBO-WMrlIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oGBO-WMrlIQ">Open on YouTube</a></p></div></div></div>
 
 ## When naming the fallacy helps
@@ -607,7 +600,6 @@ Only the last two move towards rejecting the conclusion itself, and they require
 Fallacy labels are not useless. They are valuable when they make the problem easier to see, compare and fix. A student revising an essay may benefit from being told that a paragraph relies on a false dilemma because it presents only [two options]({{ 'two-options/' | relative_url }}) when several realistic alternatives exist. A moderator may benefit from identifying repeated ad hominem attacks because they derail discussion from claims to personal abuse. Researchers in computational argumentation also use fallacy categories to study how flawed arguments can be detected, explained and distinguished from sounder reasoning, though recent work shows that automatic fallacy detection remains difficult and context-dependent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.12402" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The best use of a label is therefore educational rather than punitive. It helps the writer or speaker [repair]({{ 'repair/' | relative_url }}) the argument:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -621,7 +613,6 @@ The best use of a label is therefore educational rather than punitive. It helps 
 Used this way, the label points back to reasoning. It does not replace reasoning.
 
 The same applies in fact-checking and science communication. Recent research on misrepresented biomedical publications argues that misinformation often gains credibility by citing real studies while drawing claims that the studies do not actually support. In such cases, the central task is not merely to label a fallacy, but to show the mismatch between the cited evidence and the claim derived from it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2406.12402" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-Illustration-3-dark.svg" | relative_url }}" alt="Labels illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When naming the fallacy hurts
@@ -647,7 +638,6 @@ A compact response might look like this:
 That response does more than shout “hasty generalisation”. It tells the reader what went wrong and what kind of evidence would repair the argument.
 
 This approach also helps prevent overcorrection. A person who spots a fallacy may feel that the whole claim has been defeated. But in real debates, conclusions are often supported by several lines of evidence. One line may fail while another remains strong. Good criticism therefore distinguishes between attacking an argument, attacking a premise, attacking a source, and attacking the conclusion itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TFlGhXeooPA" title="Every Single Logical Fallacy Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer">Every Single Logical Fallacy Explained</a></p><p class="youtube-embed-meta">Channel: Unsolicited advice &middot; Views: 648.5K &middot; Uploaded: March 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TFlGhXeooPA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TFlGhXeooPA">Open on YouTube</a></p></div></div></div>
 
@@ -1048,6 +1038,7 @@ The fallacy fallacy is the warning built into the whole subject of logical falla
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1237,4 +1228,4 @@ The fallacy fallacy is the warning built into the whole subject of logical falla
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mboudry/posts/do-fallacies-still-have-a-place-in-educationim-somewhat-conflicted-over-this-as-/1498936358904708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mboudry/posts/do-fallacies-still-have-a-place-in-educationim-somewhat-conflicted-over-this-as-/1498936358904708/</a>  
+   Link: <a href="https://www.facebook.com/mboudry/posts/do-fallacies-still-have-a-place-in-educationim-somewhat-conflicted-over-this-as-/1498936358904708/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mboudry/posts/do-fallacies-still-have-a-place-in-educationim-somewhat-conflicted-over-this-as-/1498936358904708/</a>

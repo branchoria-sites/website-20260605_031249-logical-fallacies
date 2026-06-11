@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /safety-claims/
 nav_short_title: Crash Stats
 title: When Safety Statistics Compare the Wrong Things
-title_full: When Safety Statistics Compare the Wrong Things | Safety Claims
+title_full: When Safety Statistics Compare the Wrong Things
 display_title_short: Crash Stats
 display_title: Crash Stats
 heading_title: When Safety Statistics Compare the Wrong Things
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 20:52:21'
-parent_title: Did the Answer Address Safety? | Fallacy Lab
+parent_title: Did the Answer Address Safety?
 parent_permalink: /safety-claims/
 parent_nav_short_title: Safety Claims
 parent_heading_title: Did the Answer Address Safety?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla
 
 Tesla’s safety statistics are frequently cited in debates about driver-assistance systems, but the key question is not whether the numbers are large or small. The critical question is whether the datasets being compared measure the same thing. Within discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) and product-safety responses, this matters because an impressive safety figure can function as a [red herring]({{ 'red-herring/' | relative_url }}) if it shifts attention away from whether the comparison itself is valid.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-1-dark.svg" | relative_url }}" alt="Crash Stats illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Tesla has repeatedly published figures suggesting that vehicles using Autopilot or Full Self-Driving (Supervised) [experience]({{ 'experience/' | relative_url }}) crashes far less often than average U.S. drivers. Critics, however, argue that some of these comparisons combine different crash definitions, different driving environments, and different levels of driver involvement. When the comparison groups are not aligned, the resulting safety claim may sound persuasive while providing little evidence about the question being asked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tesla.com/fsd/safety" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tesla.com">[Tesla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tesla.com</span><span class="citation-popover-snippet">Tesla refers...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/investigations/why-teslas-ai-trainers-dont-trust-its-self-driving-tech-or-its-safety-stats-2026-05-28/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Why Tesla&#x27;s AI trainers don&#x27;t trust its self-driving tech2 days ago — The review found several invalid data comparisons underlying...</span></span></span>
 
@@ -285,7 +284,6 @@ Tesla has repeatedly published figures suggesting that vehicles using Autopilot 
 Tesla’s public safety reports often present crash rates as “miles driven between crashes” and compare those figures with national crash statistics. On the surface, the difference can appear dramatic. For example, Tesla has reported millions of miles between crashes when Autopilot is engaged, compared with lower mileage figures derived from broader U.S. crash data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teslarati.com/tesla-new-safety-report-autopilot-nine-times-safer-humans-q3-2025/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teslarati.com">[TESLARATI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teslarati.com</span><span class="citation-popover-snippet">Tesla&#x27;s new Safety Report shows Autopilot is nine times...Oct 22, 2025 — In Q3 2025, we recorded 1 crash for every 6.36 million...</span></span></span>
 
 The problem is that aggregate numbers hide important differences:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -299,7 +297,6 @@ The problem is that aggregate numbers hide important differences:
 A favourable aggregate statistic can therefore create the impression that one factor—such as driver-assistance software—is solely responsible for the observed difference when multiple other factors may contribute. Researchers have long noted that meaningful safety comparisons require matching exposure conditions as closely as possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2311.06187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv A Note on Tesla&#x27;s Revised Safety Report Crash Rates</span><span class="citation-popover-snippet">arXiv A Note on Tesla&#x27;s Revised Safety Report Crash Rates</span></span></span>
 
 From a logical-fallacy perspective, the risk is that the audience focuses on the reassuring headline number rather than examining whether the underlying comparison answers the original safety question.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9KR2N_Q8ep8" title="Tesla Crash Lab | Data-Driven Safety" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9KR2N_Q8ep8" target="_blank" rel="noopener noreferrer">Tesla Crash Lab | Data-Driven Safety</a></p><p class="youtube-embed-meta">Channel: Tesla &middot; Views: 1.0M &middot; Uploaded: October 2021 &middot; Length: 4 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9KR2N_Q8ep8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9KR2N_Q8ep8">Open on YouTube</a></p></div></div></div>
 
@@ -321,7 +318,6 @@ Researchers examining Tesla’s revised safety reporting methods have raised sim
 
 This is a classic example of how a statistic can be numerically accurate yet rhetorically misleading. The fallacy does not require fabricated data; it can arise when unlike quantities are presented as though they were directly comparable.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-2-dark.svg" | relative_url }}" alt="Crash Stats illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Similar Conditions Matter More Than Large Numbers
 
@@ -335,7 +331,6 @@ Whether one agrees with the conclusions of those studies or not, the methodologi
 
 Without that alignment, a large safety advantage may reflect differences in exposure rather than differences in technology.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sV36S3ygvks" title="Tesla reveals crash data showing it&#x27;s 7 times safer to drive using Autopilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sV36S3ygvks" target="_blank" rel="noopener noreferrer">Tesla reveals crash data showing it&#x27;s 7 times safer to drive using Autopilot</a></p><p class="youtube-embed-meta">Channel: The Electric Viking &middot; Views: 13.0K &middot; Uploaded: October 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sV36S3ygvks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sV36S3ygvks">Open on YouTube</a></p></div></div></div>
 
 ## What Supervision Warnings Reveal About Autonomy Claims
@@ -348,7 +343,6 @@ This matters because safety claims are sometimes interpreted as evidence that th
 
 Supervision warnings therefore reveal an important distinction:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * A supervised system may achieve a certain safety outcome.
@@ -359,7 +353,6 @@ Supervision warnings therefore reveal an important distinction:
 
 This distinction has become increasingly relevant as regulators continue investigating crashes and reported traffic-law violations involving Tesla driver-assistance systems. The existence of such investigations does not prove a system is unsafe, but it does show why careful interpretation of safety statistics remains necessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/autos-transportation/us-opens-probe-into-28-million-tesla-vehicles-over-traffic-violations-when-using-2025-10-09/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">US probes driver assistance software in 2.9 million Tesla...9 Oct 2025 — The U.S. National Highway Traffic Safety Administration...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/autos-transportation/nhtsa-contacts-tesla-robotaxi-issues-seen-online-videos-bloomberg-news-reports-2025-06-23/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">US safety agency contacts Tesla on robotaxi issues seen in...23 Jun 2025 — The probe covers 2.4 million Tesla vehicles equipped w...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-3-dark.svg" | relative_url }}" alt="Crash Stats illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_product_safety_red_h_5014e0_tesla_crash_statisti_422836-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Logical Fallacy Behind the Numbers
 
@@ -369,9 +362,7 @@ If critics ask whether a driver-assistance system reduces crashes under particul
 
 In that sense, mismatched crash comparisons can operate as a sophisticated red herring. The discussion shifts from “Are these equivalent safety measures?” to “Look how good this safety number is.” For evidence-based safety assessment, the first question must be answered before the second has meaning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zT-sfRF6Hvk" title="The Insanity of Tesla CRASH DATA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zT-sfRF6Hvk" target="_blank" rel="noopener noreferrer">The Insanity of Tesla CRASH DATA</a></p><p class="youtube-embed-meta">Channel: Upper Echelon &middot; Views: 103.5K &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zT-sfRF6Hvk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zT-sfRF6Hvk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -490,15 +481,15 @@ In that sense, mismatched crash comparisons can operate as a sophisticated red h
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Statistics Joke Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/sQEAAeSw93Np2SN~/s-l225.jpg" alt="Listing image for Statistics Joke Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tesla Roadster Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/p-4AAeSwRqppwYGz/s-l225.jpg" alt="Listing image for Tesla Roadster Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer">Statistics Joke Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer">Tesla Roadster Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tesla poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tesla poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +497,15 @@ In that sense, mismatched crash comparisons can operate as a sophisticated red h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Phelps 1852 World One View Statistical Huge Wall Art Poster Print"><img src="https://i.ebayimg.com/images/g/3S4AAOSwHutnR2Zi/s-l225.jpg" alt="Listing image for Map Phelps 1852 World One View Statistical Huge Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small A6 Tesla Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/9Y4AAOSwa~dkKzzm/s-l225.jpg" alt="Listing image for Small A6 Tesla Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer">Map Phelps 1852 World One View Statistical Huge Wall Art Poster Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer">Small A6 Tesla Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tesla poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tesla poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +513,15 @@ In that sense, mismatched crash comparisons can operate as a sophisticated red h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/OCcAAeSwr5Fp1~Pm/s-l225.jpg" alt="Listing image for Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small A6 Tesla Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/maUAAOSw4xVkKz0~/s-l225.jpg" alt="Listing image for Small A6 Tesla Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer">Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer">Small A6 Tesla Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tesla poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tesla poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +529,15 @@ In that sense, mismatched crash comparisons can operate as a sophisticated red h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/YWgAAeSwdX9p1Tdh/s-l225.jpg" alt="Listing image for Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tesla Model 3 Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vRkAAeSwcIRpwYcg/s-l225.jpg" alt="Listing image for Tesla Model 3 Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer">Binomial Equation: Statistics Notes Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer">Tesla Model 3 Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for statistics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: statistics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tesla poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tesla poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +545,7 @@ In that sense, mismatched crash comparisons can operate as a sophisticated red h
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=statistics+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-statistics-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="statistics poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-statistics-poster" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tesla+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-safety-statistics-compare-the-wrong-things-tesla-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tesla poster" data-ebay-reference="when-safety-statistics-compare-the-wrong-things-tesla-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -764,6 +755,7 @@ In that sense, mismatched crash comparisons can operate as a sophisticated red h
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

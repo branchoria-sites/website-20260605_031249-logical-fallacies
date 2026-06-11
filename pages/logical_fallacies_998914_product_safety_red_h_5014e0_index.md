@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-product/
 description: Focused pages that expand on Safety Claims.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_product_safety_red_h_5014e0
-parent_title: Safety Claims | Logical Fallacies
+parent_title: Safety Claims
 parent_nav_short_title: Safety Claims
 parent_permalink: /safety-claims/
 ---

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /popularity/
 nav_short_title: Popularity Bias
 title: Why Trending Lists Can Distort Judgment
-title_full: Why Trending Lists Can Distort Judgment | Popularity
+title_full: Why Trending Lists Can Distort Judgment
 display_title_short: Popularity Bias
 display_title: Popularity Bias
 heading_title: Why Trending Lists Can Distort Judgment
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 16:06:10'
-parent_title: Does Belief Make a Claim True? | Fallacy Lab
+parent_title: Does Belief Make a Claim True?
 parent_permalink: /popularity/
 parent_nav_short_title: Popularity
 parent_heading_title: Does Belief Make a Claim True?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popul
 
 Popularity bias in recommender systems is a modern form of appeal to popularity. Instead of a person explicitly arguing that something is true because many people believe it, a digital platform can make popular items appear more frequently, creating the impression that widespread attention is evidence of value, quality, [relevance]({{ 'relevance/' | relative_url }}), or correctness. Trending lists, recommendation feeds, bestseller rankings, view counts, likes, and engagement metrics can all contribute to this effect.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1-dark.svg" | relative_url }}" alt="Popularity Bias illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key issue is not that popular content is necessarily bad. Many popular items are genuinely useful, entertaining, or accurate. The problem arises when visibility itself becomes a source of further visibility. Once an item gains an early advantage, recommendation systems may repeatedly expose it to more users, generating a feedback loop in which popularity grows partly because the item was already popular. Researchers describe this as popularity bias, a common tendency of recommendation algorithms to favour already well-known items over less visible alternatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s11257-024-09406-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkA survey on popularity bias in recommender systemsby A Klimashevskaia · 2024 · Cited by 156 — In this paper, we discuss the...</span></span></span>
 
@@ -285,7 +284,6 @@ The key issue is not that popular content is necessarily bad. Many popular items
 Most recommendation systems learn from user behaviour. They observe clicks, views, purchases, listening habits, watch time, ratings, and other signals. Because popular items generate more [interactions]({{ 'interactions/' | relative_url }}), they produce more data. Algorithms often treat this larger amount of data as a stronger indication that the item is worth recommending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://milvus.io/ai-quick-reference/what-is-popularity-bias-and-how-can-it-be-mitigated-in-recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: milvus.io">[Milvus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">milvus.io</span><span class="citation-popover-snippet">What is popularity bias and how can it be mitigated in...Popularity bias occurs when recommendation systems disproportionately sug...</span></span></span>
 
 This creates a sequence that is deceptively simple:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -310,7 +308,6 @@ A song that receives slightly more early engagement, a video that gains momentum
 
 The resulting impression is often that the most visible items naturally rose to the top because they were the best. Yet visibility and quality are not identical. Visibility itself can become part of the cause of success.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D4Us--bvFQo" title="Popularity Bias In Recommender Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D4Us--bvFQo" target="_blank" rel="noopener noreferrer">Popularity Bias In Recommender Systems</a></p><p class="youtube-embed-meta">Channel: Toronto Machine Learning Society (TMLS) &middot; Views: 166 &middot; Uploaded: July 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D4Us--bvFQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D4Us--bvFQo">Open on YouTube</a></p></div></div></div>
 
 ## Why Visibility Is Not the Same as Quality
@@ -331,7 +328,6 @@ Popularity bias encourages a subtle but important assumption: <span class="citat
 
 Each step may contain some truth, but the chain is not logically guaranteed. A recommendation system can increase exposure independently of quality. Once exposure changes, user behaviour changes as well. Researchers studying digital platforms note that recommendation systems do not merely observe preferences; they can also influence what users encounter and ultimately choose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/nature-index/topics/l4/algorithmic-influence-on-social-media-content-and-user-behavior" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Algorithmic Influence on Social Media Content and User...Social media platforms increasingly rely on algorithmic systems to curate...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/brain-mind-and-intelligence/personalization-algorithms-and-the-hidden-feedback-loop-shaping-your-reality-c03ab687f9ca" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Personalization Algorithms and the Hidden Feedback Loop...Empirical research suggests that recommender systems can influence user...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-2-dark.svg" | relative_url }}" alt="Popularity Bias illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Happens to Less Popular Content?
 
@@ -340,7 +336,6 @@ One consequence of popularity bias is the underrepresentation of "long-tail" con
 Research in music, film, and other recommendation domains has consistently found that less popular items appear less frequently in recommendations than highly popular ones. As a result, niche creators, specialised products, and minority interests can struggle to gain visibility even when they may be highly relevant to particular users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Unfairness of Popularity Bias in Music Recommendationby D Kowald · 2020 · Cited by 234 — Research has shown that recommender syste...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2007.13019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Feedback Loop and Bias Amplification in Recommender</span><span class="citation-popover-snippet">Feedback Loop and Bias Amplification in Recommender...July 25, 2020 — by M Mansoury · 2020 · Cited by 398 — In this paper, we propo...</span><span class="citation-popover-meta">Published: July 25, 2020</span></span></span>
 
 This creates several effects:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -355,7 +350,6 @@ Studies of recommendation feedback loops have found that popularity amplificatio
 
 From the perspective of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this matters because the system increasingly presents consensus as evidence. The more visible an item becomes, the more users interpret its visibility as confirmation that it deserves attention.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oGb_mIdO0tA" title="Overcoming Biases for a Better Recommender System: How Tech-Titans Combat Recommender System Biases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oGb_mIdO0tA" target="_blank" rel="noopener noreferrer">Overcoming Biases for a Better Recommender System: How Tech-Titans Combat Recommender System Biases</a></p><p class="youtube-embed-meta">Channel: DataTrek &middot; Views: 1.6K &middot; Uploaded: December 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oGb_mIdO0tA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oGb_mIdO0tA">Open on YouTube</a></p></div></div></div>
 
 ## When Popularity Signals Shape Belief
@@ -368,7 +362,6 @@ In such environments, popularity may begin to function as a substitute for indep
 
 The logical danger mirrors the traditional appeal to popularity fallacy:
 
-
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * Many people appear interested in a claim.
@@ -379,7 +372,6 @@ The logical danger mirrors the traditional appeal to popularity fallacy:
 </div>
 
 At no point does widespread exposure itself establish truth.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-3-dark.svg" | relative_url }}" alt="Popularity Bias illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_popularity_14cb62_popularity_bias_reco_97c4e0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Read Rankings, Likes, and Recommendations Cautiously
@@ -404,10 +396,9 @@ Many systems heavily concentrate attention on a small set of already-successful 
 
 Large numbers of likes, views, or downloads may indicate interest, but they do not independently verify factual claims.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[**Remember that recommendation systems optimise objectives.**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Exploring Popularity Bias in Music Recommendation...19 Aug 2022 — Research has shown that recommender systems are typically biased...</span></span></span>
+**Remember that recommendation systems optimise objectives.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/362860235_Exploring_Popularity_Bias_in_Music_Recommendation_Models_and_Commercial_Steaming_Services" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Exploring Popularity Bias in Music Recommendation...19 Aug 2022 — Research has shown that recommender systems are typically biased...</span></span></span>
 
 The platform may be maximising engagement, retention, [advertising]({{ 'advertising/' | relative_url }}) revenue, or user activity rather than truth, expertise, or quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://knightcolumbia.org/content/a-public-service-media-perspective-on-the-algorithmic-amplification-of-cultural-content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knightcolumbia.org">[Knight First Amendment Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knightcolumbia.org</span><span class="citation-popover-snippet">Knight First Amendment InstituteA Public Service Media Perspective on the Algorithmic...24 Jul 2024 — Recommender systems play an import...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kq8_jLSbMj8" title="BIAS@ECIR2022 - Mitigating Popularity Bias in Recommendation: Potential and Limits of Calibration .." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kq8_jLSbMj8" target="_blank" rel="noopener noreferrer">BIAS@ECIR2022 - Mitigating Popularity Bias in Recommendation: Potential and Limits of Calibration ..</a></p><p class="youtube-embed-meta">Channel: BIAS Workshop &middot; Views: 208 &middot; Uploaded: June 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kq8_jLSbMj8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kq8_jLSbMj8">Open on YouTube</a></p></div></div></div>
 

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /authority/
 nav_short_title: Biased Experts
 title: When Experts Have Something to Gain
-title_full: When Experts Have Something to Gain | Authority
+title_full: When Experts Have Something to Gain
 display_title_short: Biased Experts
 display_title: Biased Experts
 heading_title: When Experts Have Something to Gain
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 17:24:30'
-parent_title: When Should You Trust an Expert? | Fallacy Lab
+parent_title: When Should You Trust an Expert?
 parent_permalink: /authority/
 parent_nav_short_title: Authority
 parent_heading_title: When Should You Trust an Expert?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased
 
 Within discussions of [appeal to authority]({{ 'authority/' | relative_url }}), one of the most important limits on expert testimony is the possibility that the expert has something to gain from a particular conclusion. Credentials, titles, and professional status can increase the value of an expert’s opinion, but they do not eliminate the influence of financial rewards, ideological commitments, career incentives, or institutional loyalties. A claim does not become false merely because the speaker has a vested interest, yet it becomes less reliable if that interest is hidden, unmanaged, or treated as irrelevant. The logical mistake occurs when audiences accept a conclusion because of the expert’s authority while ignoring incentives that may have shaped the expert’s judgement. Conflict-of-interest research, scientific integrity policies, and governance standards all recognise that personal interests can affect decision-making even when individuals believe they are acting objectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/public/doc/130/130.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-snippet">OECD Legal InstrumentsOECD Guidelines for Managing Conflict of Interest in the...April 24, 2026 — Recent scandals have drawn attention t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK22926/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conflict of Interest in Medical Research, Education...This Institute of Medicine report examines conflicts of interest in medical resear...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-1-dark.svg" | relative_url }}" alt="Biased Experts illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Conflicts of Interest Change Credibility
 
@@ -283,7 +282,6 @@ This distinction matters because a biased expert is not automatically wrong. An 
 Expert knowledge improves understanding of a subject, but expertise does not remove ordinary human motivations. Specialists remain susceptible to incentives, group loyalties, career ambitions, and confirmation bias. Research integrity frameworks therefore focus not only on competence but also on disclosure, oversight, and independence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/10430/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesRead &quot;Integrity in Scientific ResearchA conflict of interest in research exists when the individual has interests... A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/10430/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesRead &quot;Integrity in Scientific ResearchA conflict of interest in research exists when the individual has interests... A...</span></span></span>
 
 The logical lesson is straightforward: an expert can be highly qualified and still have reasons to prefer one outcome over another. Evaluating authority requires asking both “Does this person know the subject?” and “Do they have interests that could influence their judgement?”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HVpOVLgRl5M" title="Ad Hominem Circumstantial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HVpOVLgRl5M" target="_blank" rel="noopener noreferrer">Ad Hominem Circumstantial</a></p><p class="youtube-embed-meta">Channel: Logical Fallacies &middot; Views: 679 &middot; Uploaded: June 2018 &middot; Length: 3 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HVpOVLgRl5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HVpOVLgRl5M">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +301,6 @@ The existence of a vested interest should not be used as a shortcut for dismissi
 
 A sound assessment separates two questions:
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-2-dark.svg" | relative_url }}" alt="Biased Experts illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Does the expert have interests that could influence judgement?
 2. Does the evidence support the expert’s conclusion?
@@ -315,7 +312,6 @@ This distinction is crucial in logical analysis. The fallacious appeal to author
 ## Questions That Expose Vested-Interest Authority
 
 When evaluating expert claims, several questions help reveal whether authority is being used appropriately:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -332,7 +328,6 @@ When evaluating expert claims, several questions help reveal whether authority i
 
 These questions do not assume bad faith. Instead, they help determine whether the authority derives from evidence and expertise or from status reinforced by hidden incentives.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZXyGiuaHwJY" title="Ad Hominem (Circumstantial) - Fallacy Series - S1 E1.2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZXyGiuaHwJY" target="_blank" rel="noopener noreferrer">Ad Hominem (Circumstantial) - Fallacy Series - S1 E1.2</a></p><p class="youtube-embed-meta">Channel: Philosopher&#x27;s Stone &middot; Views: 2.9K &middot; Uploaded: December 2018 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZXyGiuaHwJY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZXyGiuaHwJY">Open on YouTube</a></p></div></div></div>
 
 ## Why Disclosure Is Necessary but Not Sufficient
@@ -343,13 +338,11 @@ However, disclosure alone does not eliminate bias. Researchers and ethicists not
 
 For critical thinkers, disclosure should therefore be treated as a starting point rather than a guarantee of reliability. It provides information needed to assess credibility, but the underlying reasoning and evidence still require examination.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WsON5mGeVto" title="Appeal to Authority: When trusting experts becomes a logical fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer">Appeal to Authority: When trusting experts becomes a logical fallacy</a></p><p class="youtube-embed-meta">Channel: The Science Lens &middot; Views: 6.1K &middot; Uploaded: January 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WsON5mGeVto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WsON5mGeVto">Open on YouTube</a></p></div></div></div>
 
 ## The Logical Significance of Biased Experts
 
 The importance of biased experts within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}) is not that experts are untrustworthy. Rather, it is that expertise alone cannot carry an argument when significant incentives may be shaping the expert’s judgement. Appeals to authority become weaker when hidden financial, ideological, or personal interests stand behind the authority being invoked. The rational response is neither blind trust nor automatic dismissal. It is to examine the incentives, evaluate the evidence independently, and ask whether the conclusion would remain convincing without relying on the expert’s status alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalinstruments.oecd.org/public/doc/130/130.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalinstruments.oecd.org">[OECD Legal Instruments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalinstruments.oecd.org</span><span class="citation-popover-snippet">OECD Legal InstrumentsOECD Guidelines for Managing Conflict of Interest in the...April 24, 2026 — Recent scandals have drawn attention t...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK22926/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Conflict of Interest in Medical Research, Education...This Institute of Medicine report examines conflicts of interest in medical resear...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-3-dark.svg" | relative_url }}" alt="Biased Experts illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_authority_908307_biased_expert_intere_39f7ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

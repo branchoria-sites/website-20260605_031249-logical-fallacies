@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /slippery-slope/
 nav_short_title: Mechanisms
 title: What Actually Makes the Slope Slippery?
-title_full: What Actually Makes the Slope Slippery? | Slippery Slope
+title_full: What Actually Makes the Slope Slippery?
 display_title_short: Mechanisms
 display_title: Mechanisms
 heading_title: What Actually Makes the Slope Slippery?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 14:43:13'
-parent_title: Will One Step Really Lead There? | Fallacy Lab
+parent_title: Will One Step Really Lead There?
 parent_permalink: /slippery-slope/
 parent_nav_short_title: Slippery Slope
 parent_heading_title: Will One Step Really Lead There?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slop
 
 Many [slippery slope]({{ 'slippery-slope/' | relative_url }}) arguments are dismissed because they seem to leap from a modest first step to a dramatic future outcome without explaining how the transition would occur. Eugene Volokh’s contribution was to shift the discussion away from metaphor and towards mechanism. Instead of asking whether a feared outcome is imaginable, he asks what concrete processes could make an initial decision increase the likelihood of a later one. This move matters because it turns slippery slope claims from vague warnings into propositions that can be examined, challenged, and supported with evidence. A slope is not persuasive simply because someone predicts disaster; it becomes analytically interesting when there is a plausible mechanism connecting one decision to the next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-1-dark.svg" | relative_url }}" alt="Mechanisms illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Actually Makes the Slope Slippery?
 
@@ -297,7 +296,6 @@ Several processes can reduce those costs:
 
 These claims are testable because they generate observable predictions. Researchers can examine whether later proposals relied on earlier precedents, whether administrative systems were reused, or whether political opposition became less effective after an initial change. The mechanism does not guarantee movement down the slope, but it specifies why movement might become easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/volokh/2022/06/01/slippery-slope-june-an-introduction-to-thinking-about-slippery-slope-arguments/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Introduction to Thinking About...1 Jun 2022 — The Article aims to describe the real-world paths that the metaphors represent—to provide...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l-nmc8LPo40" title="Critical Thinking #14: Slippery Slope" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l-nmc8LPo40" target="_blank" rel="noopener noreferrer">Critical Thinking #14: Slippery Slope</a></p><p class="youtube-embed-meta">Channel: David Pakman Show &middot; Views: 10.9K &middot; Uploaded: March 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l-nmc8LPo40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l-nmc8LPo40">Open on YouTube</a></p></div></div></div>
 
 ## Changing Attitudes and Political Momentum
@@ -307,7 +305,6 @@ A second category of mechanisms focuses on changes in public beliefs and social 
 This is not merely a claim about persuasion. It is a claim about measurable shifts in attitudes. If acceptance of policy A causes voters, judges, legislators, or interest groups to view policy B more favourably, then the first decision has changed the political environment in which later decisions are made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
 Several pathways can contribute:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +317,6 @@ Several pathways can contribute:
 
 These mechanisms are also testable. Opinion polling, election results, legislative voting patterns, and public discourse can reveal whether attitudes changed after an initial decision. Instead of assuming an inevitable slide, the analyst can look for evidence of shifting preferences and political momentum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.nyu.edu/sites/default/files/ECM_PRO_060953.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.nyu.edu">[NYU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.nyu.edu</span><span class="citation-popover-title">Law PATERNALIST SLOPES</span><span class="citation-popover-snippet">Rizzoby DG Whitman · Cited by 102 — And as Eugene. Volokh has argued, slippery slopes are closely connected to phe- nomena such as “bound...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-2-dark.svg" | relative_url }}" alt="Mechanisms illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Equal-Treatment Dynamic
 
@@ -330,12 +326,10 @@ The mechanism operates through consistency. Suppose lawmakers create an exceptio
 
 What makes this mechanism testable is that it leaves documentary evidence. Judicial opinions, legislative debates, and policy reports frequently explain later expansions by citing earlier decisions and appealing to consistency. Analysts can therefore investigate whether a feared extension actually relied on equal-treatment reasoning or whether other factors drove the change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-3-dark.svg" | relative_url }}" alt="Mechanisms illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_slippery_slope_201aa8_volokh_slope_mechani_89414c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Turning Vague Fears into Testable Claims
 
 Volokh’s framework is valuable because it changes the standards by which slippery slope arguments are judged. A warning becomes stronger when it can answer specific empirical questions:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -349,7 +343,6 @@ Volokh’s framework is valuable because it changes the standards by which slipp
 
 These questions transform a slippery slope claim from a rhetorical flourish into a causal hypothesis. A critic can examine the evidence, test the assumptions, and identify weak links in the chain. Likewise, supporters of a policy can respond by showing that [safeguards]({{ 'safeguards/' | relative_url }}), institutional barriers, or political realities interrupt the proposed mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/VOLSSA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-snippet">Eugene Volokh. In Hugh LaFollette, The International Encyclopedia of Ethics. Hoboken, NJ: Wiley-Blackwell (2013). @incollection...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qt4f7QrfRRc" title="Can you outsmart the slippery slope fallacy? - Elizabeth Cox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer">Can you outsmart the slippery slope fallacy? - Elizabeth Cox</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.1M &middot; Uploaded: August 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qt4f7QrfRRc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qt4f7QrfRRc">Open on YouTube</a></p></div></div></div>
 
 ## Why This Matters for Identifying the Fallacy
@@ -358,9 +351,7 @@ Volokh’s analysis does not prove that slippery slope arguments are usually cor
 
 The practical lesson is that the presence of a slope argument is not the end of analysis but the beginning. The crucial task is to identify the mechanism. If the speaker cannot explain how the first decision lowers costs, changes attitudes, creates precedent, or generates political momentum, the argument remains speculative. If those mechanisms can be specified and supported with evidence, the claim moves from a logical fallacy towards a serious empirical prediction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www2.law.ucla.edu/Volokh/slippery.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www2.law.ucla.edu">[UCLA School of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www2.law.ucla.edu</span><span class="citation-popover-snippet">UCLA School of LawThe Mechanisms of the Slippery Slopeby E Volokh — 92 See Alex Kozinski &amp; Eugene Volokh, A Penumbra Too Far, 1o6 HARV L...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/volokh/2022/06/09/cost-lowering-slippery-slopes-as-multi-peaked-preferences-slippery-slopes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">Cost-Lowering Slippery Slopes as Multi-Peaked...Jun 9, 2022 — Cost-lowering slippery slopes, it turns out, are a special case of a broad...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RIAhM-s5oMU" title="Straw Man vs Slippery Slope Fallacy explained with examples" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RIAhM-s5oMU" target="_blank" rel="noopener noreferrer">Straw Man vs Slippery Slope Fallacy explained with examples</a></p><p class="youtube-embed-meta">Channel: Philosophy Vibe &middot; Views: 10.4K &middot; Uploaded: December 2022 &middot; Length: 2 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RIAhM-s5oMU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RIAhM-s5oMU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

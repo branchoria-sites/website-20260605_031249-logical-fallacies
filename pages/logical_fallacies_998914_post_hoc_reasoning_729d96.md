@@ -65,7 +65,7 @@ sidebar_expanded_urls:
 - /logical-fallacies/
 nav_short_title: False Cause
 title: Did One Thing Really Cause Another?
-title_full: Did One Thing Really Cause Another? | Fallacy Lab
+title_full: Did One Thing Really Cause Another?
 display_title_short: False Cause
 display_title: False Cause
 heading_title: Did One Thing Really Cause Another?
@@ -503,7 +503,6 @@ image: /assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-overvie
 
 [Post hoc]({{ 'post-hoc/' | relative_url }}) reasoning is the mistake of treating sequence as proof of causation: one thing happened, then another thing happened, so the first thing must have caused the second. In [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this sits under the wider family of false cause claims, where an argument identifies the wrong cause, an unproved cause, or a cause that is only one of several possibilities. The problem is not that timing is irrelevant. Causes normally come before effects, so timing is often a useful clue. The fallacy begins when timing does more work than it can support.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-overview.webp" | relative_url }}" alt="Overview image for False Cause" loading="eager" decoding="sync" fetchpriority="high">
 This matters because false cause claims are persuasive in everyday life. A person changes diet and then feels better. A new policy is introduced and unemployment falls. A vaccine is given and an illness is noticed later. In each case, the timing may deserve investigation, but it is not enough by itself. Good causal reasoning asks what else changed, what would probably have happened otherwise, and whether stronger evidence supports the proposed link. <span class="citation-chip-wrap"><a class="citation-chip" href="https://writingcenter.unc.edu/tips-and-tools/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Fallacies</span><span class="citation-popover-snippet">The Writing CenterFallacies - The Writing CenterPost hoc (also called false cause). This fallacy gets its name from the Latin phrase “pos...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[Stanford Encyclopedia of Philosophy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</span></span></span>
 
@@ -512,7 +511,6 @@ This matters because false cause claims are persuasive in everyday life. A perso
 The classic name for the fallacy is *post hoc ergo propter hoc*, usually translated as “after this, therefore because of this”. The Stanford Encyclopedia of Philosophy describes it as ascribing a causal relationship between two states or events on the basis of temporal succession. The Internet Encyclopedia of Philosophy treats it as one of the principal forms of false cause, alongside related errors such as mistaking correlation for causation or reversing cause and effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</span></span></span> Encyclopedia of Philosophy
 
 The basic pattern is simple:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -525,7 +523,6 @@ The basic pattern is simple:
 That pattern is not always wrong. If someone presses a working light switch and the light immediately comes on, the sequence is good initial evidence. But it becomes weak when the argument ignores other plausible causes: a timer, another switch, a motion sensor, or a coincidence. The point is not that sequence proves nothing; it is that sequence alone rarely proves enough.
 
 A useful way to see the gap is to ask a counterfactual question: if A had not happened, would B still have happened? Counterfactual theories of causation are built around this kind of test, asking whether the effect would have occurred without the supposed cause. In ordinary argument, this does not require formal philosophy. It means asking whether the same result was likely anyway, whether a background trend was already under way, or whether a different event better explains the outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://plato.stanford.edu/entries/fallacies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: plato.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">plato.stanford.edu</span><span class="citation-popover-title">Encyclopedia of Philosophy Fallacies</span><span class="citation-popover-snippet">There are a number of fallacies associated with causation, the most frequently discussed is post hoc ergo propter hoc, (after this, there...</span></span></span> Encyclopedia of Philosophy
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-1-dark.svg" | relative_url }}" alt="False Cause illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timing is a clue, not a verdict
@@ -540,7 +537,7 @@ The post hoc fallacy often appears when this middle stage is skipped. The argume
 
 The most important question in post hoc reasoning is not “Could A have caused B?” but “What else could explain B just as well, or better?” False cause claims are tempting because real life rarely presents one clean event followed by one clean outcome. Several changes usually overlap.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juliankingnz.substack.com">[Common alternative explanations include:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juliankingnz.substack.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Common alternative explanations include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://juliankingnz.substack.com/p/applying-bradford-hill-criteria-to" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juliankingnz.substack.com">[juliankingnz.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juliankingnz.substack.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 * **Coincidence:** B followed A, but the two events were unrelated.
 * **Background trends:** B was already becoming more likely before A happened.
@@ -552,7 +549,6 @@ The most important question in post hoc reasoning is not “Could A have caused 
 This is why before-and-after stories are often weaker than they feel. A company may introduce a new training course and then see productivity rise. The course might have helped. But productivity may also have risen because demand changed, poor-performing equipment was replaced, a new manager arrived, seasonal workload shifted, or employees were already adapting. A post hoc claim chooses the most visible preceding event and treats it as decisive.
 
 The weakness is not merely technical. It changes what people do next. If a business credits the wrong intervention, it may repeat an expensive ritual. If a patient credits the wrong remedy, they may abandon an effective treatment. If voters credit or blame the wrong policy, public [debate]({{ 'debate/' | relative_url }}) moves away from the actual drivers of change.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8HLtFv_KqoE" title="Can you outsmart the fallacy that fooled a generation of doctors? - Elizabeth Cox" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8HLtFv_KqoE" target="_blank" rel="noopener noreferrer">Can you outsmart the fallacy that fooled a generation of doctors? - Elizabeth Cox</a></p><p class="youtube-embed-meta">Channel: TED-Ed &middot; Views: 1.9M &middot; Uploaded: August 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8HLtFv_KqoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8HLtFv_KqoE">Open on YouTube</a></p></div></div></div>
 
@@ -574,7 +570,6 @@ This is not a minor caveat. Passive reporting systems are designed to be sensiti
 
 The same reasoning applies beyond vaccines. Adverse-event reports, customer complaints, accident timelines and workplace incident logs can all be important starting points. They become fallacious only when a temporal report is treated as a finished causal conclusion.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-2-dark.svg" | relative_url }}" alt="False Cause illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What stronger causal evidence looks like
 
@@ -591,7 +586,6 @@ A good causal claim does not need absolute certainty, but it should show more th
 **Dose-response or exposure pattern:** When greater exposure is associated with greater effect, the causal claim often becomes more plausible. The Bradford Hill [tradition]({{ 'tradition/' | relative_url }}) treats such gradients as supportive, while modern discussions also caution that not every real cause has a simple linear dose-response pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8206235/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 **Ruling out rival explanations:** The most persuasive causal evidence actively tests competing explanations rather than ignoring them. This may involve controlling for confounders, using natural experiments, checking pre-existing trends, or testing whether the effect disappears when the cause is removed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qMP4OXoOBtU" title="False Cause (Logical Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qMP4OXoOBtU" target="_blank" rel="noopener noreferrer">False Cause (Logical Fallacy)</a></p><p class="youtube-embed-meta">Channel: Carneades.org &middot; Views: 29.8K &middot; Uploaded: February 2014 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qMP4OXoOBtU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qMP4OXoOBtU">Open on YouTube</a></p></div></div></div>
 
@@ -615,12 +609,10 @@ Some sources on fallacies warn that labelling every temporal inference as “pos
 
 A fair test is to ask whether the argument would survive if the words “after that” were removed. If the only support left is the order of events, the claim is weak. If there is also a mechanism, comparison, repeated pattern and serious engagement with alternatives, then the argument may be a legitimate causal inference rather than a fallacy.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-3-dark.svg" | relative_url }}" alt="False Cause illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_post_hoc_reasoning_729d96-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical check before accepting a false cause claim
 
 When a claim says one event caused another, a quick evidence check can prevent the most common mistakes:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -636,7 +628,6 @@ When a claim says one event caused another, a quick evidence check can prevent t
 </div>
 
 These questions do not demand perfection. Everyday decisions often have to be made with incomplete evidence. But they change the standard from “Can I tell a story where A caused B?” to “Is A the best-supported explanation among the realistic alternatives?”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c9TyRXd_S7U" title="Post Hoc Ergo Propter Hoc (Easiest 3-Minute Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c9TyRXd_S7U" target="_blank" rel="noopener noreferrer">Post Hoc Ergo Propter Hoc (Easiest 3-Minute Explanation)</a></p><p class="youtube-embed-meta">Channel: Social Science Explainer &middot; Views: 2.3K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c9TyRXd_S7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c9TyRXd_S7U">Open on YouTube</a></p></div></div></div>
 
@@ -1261,4 +1252,4 @@ The safest habit is to treat sequence as an invitation to investigate. Ask what 
 
 43. <a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/</a>  
+   Link: <a href="https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askphilosophy/comments/rzyky4/difference_between_non_causa_pro_causa_post_hoc/</a>

@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /no-true/
 nav_short_title: Purity Labels
 title: How Purity Labels Shut Down Evidence
-title_full: How Purity Labels Shut Down Evidence | No True
+title_full: How Purity Labels Shut Down Evidence
 display_title_short: Purity Labels
 display_title: Purity Labels
 heading_title: How Purity Labels Shut Down Evidence
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:19:44'
-parent_title: Are Definitions Moving to Escape Evidence? | Fallacy Lab
+parent_title: Are Definitions Moving to Escape Evidence?
 parent_permalink: /no-true/
 parent_nav_short_title: No True
 parent_heading_title: Are Definitions Moving to Escape Evidence?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_la
 
 Purity labels such as “real”, “true”, “genuine”, “proper”, or “authentic” often appear when a group faces criticism or an awkward counterexample. Within the broader [No True]({{ 'no-true/' | relative_url }}) Scotsman fallacy, these labels can be used to protect an identity rather than examine evidence. Instead of asking whether a criticism is accurate, the discussion shifts to who counts as a legitimate member. A politician becomes “not a real conservative”, a dissenter becomes “not a true believer”, or a fan becomes “not a genuine supporter”. The result is that evidence loses its force because inconvenient cases are reclassified rather than addressed. This pattern is commonly described as an appeal to purity: the category is narrowed after the challenge appears, allowing the original claim to survive unchanged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[Diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span> Scribbr Purity labels are especially powerful in politics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[scribbr.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects counterexamples by claiming that...</span></span></span>, religion, and fandoms because these communities are not merely collections of opinions. They are identities that provide belonging, meaning, and social status. When membership itself becomes the focus of debate, counterexamples can feel like [threats]({{ 'threats/' | relative_url }}) to the group rather than useful evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious How to Spot the No True Scotsman Fallacy</span><span class="citation-popover-snippet">Logically FallaciousHow to Spot the No True Scotsman FallacyMay 16, 2026 — 16 May 2026 — The No True Scotsman fallacy happens when someon...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-1-dark.svg" | relative_url }}" alt="Purity Labels illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Identity Groups Invite Purity Tests
 
@@ -290,7 +289,6 @@ The logical problem is not that political labels are meaningless. Political trad
 
 Purity language can also intensify factional conflict. Once opponents are declared illegitimate members, compromise becomes harder because disagreement is treated as betrayal rather than a normal feature of political life.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4RyXTcqPFv8" title="Abusing The No True Scotsman Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4RyXTcqPFv8" target="_blank" rel="noopener noreferrer">Abusing The No True Scotsman Fallacy</a></p><p class="youtube-embed-meta">Channel: InspiringPhilosophy &middot; Views: 38.3K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4RyXTcqPFv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4RyXTcqPFv8">Open on YouTube</a></p></div></div></div>
 
 ## Religious Examples: Faith, Doubt, and Membership
@@ -302,7 +300,6 @@ A common pattern appears when someone who belongs to a religion commits a harmfu
 The same dynamic can appear when individuals leave a faith or publicly express doubts. Rather than examining their reasons, some responses focus on redefining them as people who “never really believed”. Such claims may be impossible to test because the standard of genuine belief keeps shifting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Religion and the No True Scotsman FallacyAnother form of the “No True Scotsman” fallacy is often used when someone leaves a religi...</span></span></span>
 
 Religious traditions legitimately maintain doctrines and membership requirements. Not every boundary is fallacious. A church, mosque, synagogue, or temple may have established criteria that existed before a dispute arose. The crucial question is whether the boundary is independent of the current argument or whether it was invented specifically to dismiss a troubling example.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_g9pdWyAaDs" title="Religion and the No True Scotsman Fallacy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer">Religion and the No True Scotsman Fallacy</a></p><p class="youtube-embed-meta">Channel: ReligionForBreakfast &middot; Views: 67.8K &middot; Uploaded: January 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_g9pdWyAaDs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_g9pdWyAaDs">Open on YouTube</a></p></div></div></div>
 
@@ -316,7 +313,6 @@ Popular examples include women being challenged to prove their knowledge of band
 
 The logic often mirrors No True Scotsman reasoning: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * “Real fans know every album.”
@@ -329,7 +325,6 @@ The criterion appears only after the counterexample emerges. Someone who clearly
 
 Studies of fandom gatekeeping have also highlighted how these authenticity tests can disproportionately affect women, newcomers, LGBTQ+ participants, and other groups whose presence challenges traditional assumptions about who belongs in a fan community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/380904526_Gatekeeping_the_Gatekeepers_An_Exploratory_Study_of_Transformative_Games_Fandom_TikTok_Algorithms_Article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">While the types of fans</span><span class="citation-popover-snippet">An Exploratory Study of Transformative Games Fandom &amp;...April 9, 2024 — 27 May 2024 — Within fandoms, gatekeeping practices...</span><span class="citation-popover-meta">Published: April 9, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/megan-thee-stallion-and-anime-or-the-male-gatekeeping-of-fandom-spaces" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue Megan Thee Stallion and Anime</span><span class="citation-popover-snippet">Critics accused her of faking her interest in anime for attention. Stitch argues this reaction is rooted in male gatekeeping within fando...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-2-dark.svg" | relative_url }}" alt="Purity Labels illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Purity Labels Reflect Real Boundaries
 
@@ -338,7 +333,6 @@ Not every use of “real” or “true” is fallacious. Groups sometimes need [
 A football club has official members. A religion may have formal doctrines. A political party may have written rules. If these standards existed before the dispute and can be applied consistently, they may provide legitimate grounds for classification.
 
 The distinction lies in whether the standard is independent of the challenged example. A genuine definition should:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,7 +345,6 @@ The distinction lies in whether the standard is independent of the challenged ex
 
 When those conditions are absent, purity labels are more likely serving a rhetorical rather than an evidential function. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.logicallyfallacious.com/blog/how-to-spot-the-no-true-scotsman-fallacy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: logicallyfallacious.com">[Logically Fallacious]</a><span class="citation-popover" role="note"><span class="citation-popover-source">logicallyfallacious.com</span><span class="citation-popover-title">Logically Fallacious How to Spot the No True Scotsman Fallacy</span><span class="citation-popover-snippet">Logically FallaciousHow to Spot the No True Scotsman FallacyMay 16, 2026 — 16 May 2026 — The No True Scotsman fallacy happens when someon...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5zzSqL--d_I" title="The &quot;No True Scotsman&quot; Fallacy | Idea Channel | PBS Digital Studios" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5zzSqL--d_I" target="_blank" rel="noopener noreferrer">The &quot;No True Scotsman&quot; Fallacy | Idea Channel | PBS Digital Studios</a></p><p class="youtube-embed-meta">Channel: PBS Idea Channel &middot; Views: 235.3K &middot; Uploaded: October 2014 &middot; Length: 2 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5zzSqL--d_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5zzSqL--d_I">Open on YouTube</a></p></div></div></div>
 
 ## How to Separate Criticism from Expulsion
@@ -359,7 +352,6 @@ When those conditions are absent, purity labels are more likely serving a rhetor
 A useful way to test purity-based arguments is to focus on behaviour rather than membership.
 
 Instead of saying, “No true supporter would do that,” ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -373,7 +365,6 @@ Instead of saying, “No true supporter would do that,” ask:
 These questions preserve the evidence rather than excluding it.
 
 Groups are rarely as uniform as their members imagine. Political movements contain dissenters. Religious communities contain imperfect believers. Fandoms contain casual participants and devoted experts. Recognising that diversity often produces stronger reasoning because it allows counterexamples to challenge overconfident claims rather than being dismissed through ever-narrower definitions. The moment “real”, “true”, or “proper” becomes a way to avoid inconvenient evidence, the discussion has shifted from evaluating facts to policing identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diplomacy.edu/blog/no-true-scotsman/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diplomacy.edu">[Diplomacy.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diplomacy.edu</span><span class="citation-popover-title">no true scotsman</span><span class="citation-popover-snippet">25 Jun 2018 — The text discusses the &quot;No-true-Scotsman&quot; fallacy, which involves defending a generalization by dismissing counter-examples...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/fallacies/no-true-scotsman-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">no true scotsman fallacy</span><span class="citation-popover-snippet">Definition &amp; Examples5 Jun 2023 — It is also known as the appeal to purity, because the speaker rejects counterexamples by claiming that...</span></span></span>
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-3-dark.svg" | relative_url }}" alt="Purity Labels illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_no_true_scotsman_ecc324_purity_labels_groups_006adc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

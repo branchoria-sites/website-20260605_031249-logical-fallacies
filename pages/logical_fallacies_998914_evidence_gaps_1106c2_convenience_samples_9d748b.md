@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /evidence-gaps/
 nav_short_title: Bad Samples
 title: When Five Voices Become Everyone
-title_full: When Five Voices Become Everyone | Evidence Gaps
+title_full: When Five Voices Become Everyone
 display_title_short: Bad Samples
 display_title: Bad Samples
 heading_title: When Five Voices Become Everyone
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 18:10:30'
-parent_title: What Evidence Is the Argument Missing? | Fallacy Lab
+parent_title: What Evidence Is the Argument Missing?
 parent_permalink: /evidence-gaps/
 parent_nav_short_title: Evidence Gaps
 parent_heading_title: What Evidence Is the Argument Missing?
@@ -276,7 +276,6 @@ image: /assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_
 
 A convenience sample is a group of people chosen because they are easy to reach: readers of one website, followers of one social-media account, customers in one shop, or the first few people willing to answer a question. Such samples can reveal genuine experiences and concerns. The problem begins when a speaker treats those easy-to-reach voices as if they represent the wider public.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-1-dark.svg" | relative_url }}" alt="Bad Samples illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a common evidence gap. The evidence may be real, but the claim stretches beyond what the evidence can support. Five conversations, a viral comment thread, or a quick online poll can show that some people hold a view. They cannot automatically show what most people think. Researchers distinguish between convenience samples and representative samples precisely because the route by which people enter a sample affects how safely conclusions can be generalised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Inconvenient Truth About Convenience and Purposive...by C Andrade · 2020 · Cited by 3081 — This sample, however, may not be repre...</span></span></span>
 
@@ -285,7 +284,6 @@ Within [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), this is a
 Convenience sampling selects participants based on availability rather than a process that gives members of the target population a known chance of selection. Because of this, the sample may differ systematically from the population it is supposed to represent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8295573/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Inconvenient Truth About Convenience and Purposive...by C Andrade · 2020 · Cited by 3081 — This sample, however, may not be repre...</span></span></span>
 
 What a convenience sample can often show:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -298,7 +296,6 @@ What a convenience sample can often show:
 </div>
 
 What it usually cannot show by itself:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -313,7 +310,6 @@ Consider a statement such as: “Everyone is furious about the new policy. Just 
 
 This is why convenience samples frequently become the foundation for hasty generalisations. The leap is not from false evidence to a false conclusion. It is from limited evidence to an overconfident conclusion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eFzGdQrr2K8" title="Methods 101: Question Wording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eFzGdQrr2K8" target="_blank" rel="noopener noreferrer">Methods 101: Question Wording</a></p><p class="youtube-embed-meta">Channel: Pew Research Center &middot; Views: 179.8K &middot; Uploaded: March 2018 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eFzGdQrr2K8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eFzGdQrr2K8">Open on YouTube</a></p></div></div></div>
 
 ## When Visible Voices Distort Public Opinion
@@ -323,7 +319,6 @@ Many modern examples arise because visibility is mistaken for representativeness
 A social-media trend may create the impression that “everyone is talking about” an issue. In reality, the discussion may be concentrated among a particular platform's users, a political community, a professional group, or people with unusually strong interests. The audience is visible, but it is not necessarily representative.
 
 The same problem appears in:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -340,7 +335,6 @@ Researchers often classify these as nonprobability samples because participation
 
 The persuasive force of these samples comes from their vividness. Readers see real people expressing real opinions. What they do not see are the people who were never included.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-2-dark.svg" | relative_url }}" alt="Bad Samples illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Representative Sampling Changes the Claim
 
@@ -355,7 +349,6 @@ The lesson was striking: millions of responses did not compensate for a flawed s
 Representative sampling changes the strength of the claim because it aims to ensure that different parts of the population have a fair chance of inclusion. Probability-based approaches are designed to reduce the risk that the results merely reflect whoever was easiest to contact or most eager to respond. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pewresearch.org/short-reads/2018/08/06/what-are-nonprobability-surveys/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pewresearch.org">[Pew Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pewresearch.org</span><span class="citation-popover-title">what are nonprobability surveys</span><span class="citation-popover-snippet">These polls are generally easier and cheaper for polling organizations to conduct.Read more...</span></span></span>
 
 As a result, a representative survey may support claims about broader public opinion that a convenience sample cannot.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/91V_NX0krnU" title="What is Biased Sampling? (Easiest Explanation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=91V_NX0krnU" target="_blank" rel="noopener noreferrer">What is Biased Sampling? (Easiest Explanation)</a></p><p class="youtube-embed-meta">Channel: Helpful Professor Explains! &middot; Views: 2.4K &middot; Uploaded: May 2025 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=91V_NX0krnU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=91V_NX0krnU">Open on YouTube</a></p></div></div></div>
 
@@ -375,7 +368,6 @@ Certain phrases often signal that a convenience sample is being stretched beyond
 
 Watch for claims such as:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * “Everyone thinks…”
@@ -391,7 +383,6 @@ These phrases describe broad populations. To justify them, the evidence must als
 
 A more defensible claim might be:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “Among the people who responded…”
@@ -405,12 +396,10 @@ Notice how the revised wording stays close to what the evidence actually shows.
 
 The difference may seem minor, but it changes the logic of the argument. One version reports observed responses. The other claims knowledge about a much larger population.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-3-dark.svg" | relative_url }}" alt="Bad Samples illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_evidence_gaps_1106c2_convenience_samples_9d748b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Quick Test for Readers
 
 When confronted with a claim about public opinion, ask three simple questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -424,9 +413,7 @@ If the evidence comes from people who were merely easiest to reach, volunteered 
 
 The central evidence gap is straightforward: convenience samples can reveal that an opinion exists, but they cannot by themselves establish how widely that opinion is shared. When arguments ignore that distinction, a small and accessible group is transformed into “the public”, and the evidence is asked to carry more weight than it can support.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1RaXS8S8Qwc" title="Convenience Sampling: Avoid Bias When Recruiting Study Participant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1RaXS8S8Qwc" target="_blank" rel="noopener noreferrer">Convenience Sampling: Avoid Bias When Recruiting Study Participant</a></p><p class="youtube-embed-meta">Channel: NNgroup &middot; Views: 736 &middot; Uploaded: May 2026 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1RaXS8S8Qwc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1RaXS8S8Qwc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

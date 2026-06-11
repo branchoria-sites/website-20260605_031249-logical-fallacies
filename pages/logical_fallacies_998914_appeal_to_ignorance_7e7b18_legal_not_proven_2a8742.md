@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /ignorance/
 nav_short_title: Not Proven
 title: Why Not Guilty Is Not the Same as False
-title_full: Why Not Guilty Is Not the Same as False | Ignorance
+title_full: Why Not Guilty Is Not the Same as False
 display_title_short: Not Proven
 display_title: Not Proven
 heading_title: Why Not Guilty Is Not the Same as False
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-03 17:22:40'
-parent_title: What Does Missing Evidence Prove? | Fallacy Lab
+parent_title: What Does Missing Evidence Prove?
 parent_permalink: /ignorance/
 parent_nav_short_title: Ignorance
 parent_heading_title: What Does Missing Evidence Prove?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_
 
 A common form of the appeal to [ignorance]({{ 'ignorance/' | relative_url }}) appears whenever people treat a legal acquittal as proof that an allegation was false. In criminal law, a verdict of not guilty usually means only that the prosecution failed to prove guilt to the required standard. It does not automatically settle every factual question about what happened. The legal system deliberately separates those questions because the consequences of wrongful conviction are severe, and therefore the burden of proof rests on the state rather than the accused. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of InnocenceA fundamental principle behind the right to a fair trial is that every person should be presumed i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bljsolicitors.co.uk/blog/understanding-the-standard-of-proof-in-criminal-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bljsolicitors.co.uk">[Bell Lamb &amp; Joynson Solicitors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bljsolicitors.co.uk</span><span class="citation-popover-title">understanding the standard of proof in criminal cases</span><span class="citation-popover-snippet">In the criminal justice system in the UK, the burden of proof lies with the government. It...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-1-dark.svg" | relative_url }}" alt="Not Proven illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The resulting mistake can be called the **not-proven mistake**: moving from “guilt was not proved” to “the allegation has been disproved.” That leap turns a procedural outcome into a claim of factual certainty. Within the broader family of appeal-to-ignorance errors, it is an example of treating the absence of sufficient proof for one conclusion as proof of the opposite conclusion.
 
@@ -284,7 +283,6 @@ The appeal-to-ignorance error appears when someone reasons as follows:
 2. Therefore the alleged conduct definitely did not occur.
 
 The second step does not follow from the first. Evidence may have been incomplete, unavailable, unreliable, excluded, contradictory, or insufficient to eliminate reasonable doubt. The verdict tells us how the legal burden was resolved; it does not necessarily answer every historical question.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1lPspLFBnF4" title="What Is The Difference Between A &quot;not Guilty&quot; Verdict And &quot;innocent&quot;?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1lPspLFBnF4" target="_blank" rel="noopener noreferrer">What Is The Difference Between A &quot;not Guilty&quot; Verdict And &quot;innocent&quot;?</a></p><p class="youtube-embed-meta">Channel: Criminal Defense Law Uncovered &middot; Views: 13 &middot; Uploaded: August 2025 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1lPspLFBnF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1lPspLFBnF4">Open on YouTube</a></p></div></div></div>
 
@@ -301,7 +299,6 @@ This rule serves several purposes:
 
 Confusion arises when a legal safeguard is converted into a factual conclusion. The law says, in effect, “do not punish unless guilt is proved.” It does not say, “failure to prove guilt proves innocence.”
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mm-jph5GKtM" title="Factual &amp; Legal Guilt: Darren Wilson &amp; the Presumption of Innocence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mm-jph5GKtM" target="_blank" rel="noopener noreferrer">Factual &amp; Legal Guilt: Darren Wilson &amp; the Presumption of Innocence</a></p><p class="youtube-embed-meta">Channel: Peter Hanink &middot; Views: 486 &middot; Uploaded: July 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mm-jph5GKtM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mm-jph5GKtM">Open on YouTube</a></p></div></div></div>
 
 ## Why Courtroom Standards Differ from Ordinary Belief
@@ -312,7 +309,6 @@ The law adopts a stricter threshold because criminal conviction carries exceptio
 
 This creates an important asymmetry:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A person may be factually guilty but legally acquitted because proof falls short.
@@ -322,7 +318,6 @@ This creates an important asymmetry:
 </div>
 
 Recognising this distinction does not undermine the presumption of innocence. Rather, it explains why the principle exists. The legal system deliberately accepts that some guilty individuals may avoid conviction in order to reduce the risk of punishing the innocent.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-2-dark.svg" | relative_url }}" alt="Not Proven illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Public Debate Misuses Acquittals and Allegations
@@ -335,7 +330,6 @@ The first commits the not-proven mistake by treating a failure of proof as affir
 
 This confusion becomes especially visible in cases involving:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Historical allegations with limited surviving evidence.
@@ -346,7 +340,6 @@ This confusion becomes especially visible in cases involving:
 </div>
 
 In such debates, people often invoke the acquittal as if it resolved every factual dispute. That move converts a procedural outcome into an argument from ignorance: “the allegation was not proved in court, therefore it must be false.”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f2wW7o2Hvbo" title="Difference between being factually innocent and not-guilty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f2wW7o2Hvbo" target="_blank" rel="noopener noreferrer">Difference between being factually innocent and not-guilty</a></p><p class="youtube-embed-meta">Channel: David P. Shapiro Criminal Defense Attorneys &middot; Views: 1.6K &middot; Uploaded: September 2020 &middot; Length: 1 minute 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f2wW7o2Hvbo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f2wW7o2Hvbo">Open on YouTube</a></p></div></div></div>
 
@@ -362,7 +355,6 @@ Whether one supports or opposes the reform, the [debate]({{ 'debate/' | relative
 
 When evaluating an acquittal, it helps to distinguish three separate claims:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **The person is legally not guilty.**
@@ -374,7 +366,6 @@ When evaluating an acquittal, it helps to distinguish three separate claims:
 The first claim follows from the verdict. The second often follows as well. The third requires additional evidence and cannot be inferred merely from the failure to prove guilt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fairtrials.org/the-right-to-a-fair-trial/the-presumption-of-innocence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fairtrials.org">[Fair Trials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fairtrials.org</span><span class="citation-popover-snippet">Fair TrialsThe Presumption of InnocenceA fundamental principle behind the right to a fair trial is that every person should be presumed i...</span></span></span> Wikipedia This distinction prevents a specific form of appeal to ignorance. Missing proof may justify withholding judgment or maintaining legal innocen <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Presumption_of_innocence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Presumption of innocence</span><span class="citation-popover-snippet">Presumption of innocenceThe presumption of innocence is a legal principle that every person accused of any crime is considered innocen...</span></span></span> ce. It does not automatically justify concluding that the opposite claim has been established.
 
 In other words, a criminal acquittal is often best understood not as proof of a competing narrative, but as a reminder that legal systems are designed to act cautiously when certainty is lacking. The mistake begins when that caution is transformed into certainty itself.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-3-dark.svg" | relative_url }}" alt="Not Proven illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_ignorance_7e7b18_legal_not_proven_2a8742-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 

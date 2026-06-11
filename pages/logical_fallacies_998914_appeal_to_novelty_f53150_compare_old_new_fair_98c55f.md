@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /novelty/
 nav_short_title: Fair Comparison
 title: How to Compare Old and New Fairly
-title_full: How to Compare Old and New Fairly | Novelty
+title_full: How to Compare Old and New Fairly
 display_title_short: Fair Comparison
 display_title: Fair Comparison
 heading_title: How to Compare Old and New Fairly
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-05 02:24:10'
-parent_title: Is New Always Better? | Fallacy Lab
+parent_title: Is New Always Better?
 parent_permalink: /novelty/
 parent_nav_short_title: Novelty
 parent_heading_title: Is New Always Better?
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_
 
 When people debate whether to keep an existing system or adopt a new one, they often fall into a symmetrical pair of errors. The [appeal to novelty]({{ 'novelty/' | relative_url }}) assumes that the new option is better because it is new. The appeal to [tradition]({{ 'tradition/' | relative_url }}) assumes that the existing option is better because it has been around longer. Both mistakes substitute age for evidence. A fair comparison asks a different question: what does each option improve, preserve, risk, and cost?
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-dark.svg" | relative_url }}" alt="Fair Comparison illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In practice, better decisions come from comparing outcomes against a clear baseline, identifying transition costs, and defining success and failure before implementation begins. Whether the subject is public policy, digital government, healthcare processes, education reform, or organisational technology, the strongest arguments are grounded in measurable effects rather than assumptions about modernity or tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Appeal_to_novelty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Appeal to novelty</span><span class="citation-popover-snippet">Appeal to novelty</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://effectiviology.com/appeal-to-novelty-fallacy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectiviology.com">[2effectiviology.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectiviology.com</span><span class="citation-popover-snippet">med to be either good or better than something else, simply because it&#x27;s perceived...Read more...</span></span></span>
 
@@ -292,7 +291,6 @@ The central implementation question is not whether a replacement looks promising
 
 Before replacing an existing policy, process, or technology, decision-makers should identify measurable criteria in advance:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * **Effectiveness:** Does the new option produce better outcomes?
@@ -309,7 +307,6 @@ The baseline matters because improvements are often selective. A new system may 
 
 Large-scale digital transformation programmes illustrate this point. International organisations such as the OECD emphasise measurement frameworks precisely because modernisation efforts must be evaluated against defined objectives rather than assumed to succeed simply because they involve newer technologies. What matters is not the presence of digital tools but whether they improve outcomes that can actually be measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/the-oecd-going-digital-measurement-roadmap-2026_b455e132-en/full-report/component-3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 3</span><span class="citation-popover-snippet">The OECD Going Digital Measurement Roadmap 202613 Mar 2026 — The OECD Going Digital Measurement Roadmap (the Roadmap) aims to support...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/2019/03/measuring-the-digital-transformation_g1g9f08f.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Measuring the Digital TransformationA Roadmap for the Future provides new insights into the state of the digital transformation by mappin...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SJWvTZ3h18E" title="Avoiding the Appeal to Novelty: When New Isn&#x27;t Always Better" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer">Avoiding the Appeal to Novelty: When New Isn&#x27;t Always Better</a></p><p class="youtube-embed-meta">Channel: Beyond UX Design &middot; Views: 53 &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SJWvTZ3h18E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SJWvTZ3h18E">Open on YouTube</a></p></div></div></div>
 
 ### Looking Beyond Headline Benefits
@@ -317,7 +314,6 @@ Large-scale digital transformation programmes illustrate this point. Internation
 Many replacement proposals focus attention on their strongest feature.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -340,7 +336,6 @@ Real transitions are rarely frictionless.
 
 Replacing an established system often requires:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Staff training
@@ -358,7 +353,6 @@ These costs are easy to overlook because they occur during implementation rather
 Research on digital transformation repeatedly finds that successful adoption depends not only on technology itself but also on complementary investments in organisational change, skills, and implementation capacity. A technically superior system can still underperform if transition requirements are underestimated. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.itu.int/en/ITU-D/Statistics/Documents/publications/OECDRoadmapDigitalEconomy2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itu.int">[ITU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itu.int</span><span class="citation-popover-snippet">A ROADMAP TOWARD A COMMON FRAMEWORK FOR...5 Mar 2020 — in the long term, low-skilled workers are most likely to bear the cost of digital...</span></span></span>
 
 This does not mean transition costs should prevent change. It means they should be included in the comparison. Ignoring them creates an unfair advantage for the proposed replacement.
-
 
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-2-dark.svg" | relative_url }}" alt="Fair Comparison illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Cost of Keeping the Current System
@@ -386,7 +380,6 @@ The same principle applies to organisational reforms, educational initiatives, h
 
 Baselines also reduce selective reporting. If success criteria are agreed beforehand, advocates cannot simply switch to whichever metric looks best after implementation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EuBy2QPCh1s" title="Why New Isn&#x27;t Always Better (Appeal to Novelty Fallacy)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EuBy2QPCh1s" target="_blank" rel="noopener noreferrer">Why New Isn&#x27;t Always Better (Appeal to Novelty Fallacy)</a></p><p class="youtube-embed-meta">Channel: Boonmind &middot; Views: 582 &middot; Uploaded: October 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EuBy2QPCh1s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EuBy2QPCh1s">Open on YouTube</a></p></div></div></div>
 
 ## Why Failure Criteria Matter Before Adoption
@@ -396,7 +389,6 @@ Another safeguard against appeal-to-novelty reasoning is defining failure in adv
 Organisations often establish success metrics but neglect failure thresholds. As a result, projects can continue long after evidence suggests they are underperforming.
 
 Before implementation begins, decision-makers should specify questions such as:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -412,14 +404,12 @@ Predefined failure criteria create accountability. They force advocates of chang
 
 They also encourage learning. A replacement that fails against established criteria may still provide useful evidence for future reforms. What matters is that decisions are evaluated against agreed standards rather than defended solely because they represent progress, modernisation, or reform.
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-3-dark.svg" | relative_url }}" alt="Fair Comparison illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_appeal_to_novelty_f53150_compare_old_new_fair_98c55f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Test for Fair Comparison
 
 When confronted with a claim that an existing system should be replaced, a simple test helps separate evidence from bias.
 
 Ask five questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -435,9 +425,7 @@ If clear answers exist, the argument is probably based on comparative evidence. 
 
 Fair comparison does not favour old systems or new ones. It favours systems that perform better when measured against relevant goals, realistic costs, and observable outcomes. That principle provides a more reliable guide to decision-making than either enthusiasm for novelty or attachment to tradition.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5jiTWnyliQY" title="Appeal to Tradition | Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer">Appeal to Tradition | Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Eternal Thinker &middot; Views: 3.1K &middot; Uploaded: January 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5jiTWnyliQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5jiTWnyliQY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">

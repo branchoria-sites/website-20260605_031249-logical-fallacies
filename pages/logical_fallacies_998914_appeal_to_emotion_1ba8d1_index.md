@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /logical-fallacies-998914-appeal-to/
 description: Focused pages that expand on Emotion.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: logical_fallacies_998914_appeal_to_emotion_1ba8d1
-parent_title: Emotion | Logical Fallacies
+parent_title: Emotion
 parent_nav_short_title: Emotion
 parent_permalink: /emotion/
 ---

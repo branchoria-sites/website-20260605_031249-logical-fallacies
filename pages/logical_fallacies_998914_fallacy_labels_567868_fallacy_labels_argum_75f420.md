@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /labels/
 nav_short_title: Repair
 title: How Fallacy Labels Can Improve Arguments
-title_full: How Fallacy Labels Can Improve Arguments | Labels
+title_full: How Fallacy Labels Can Improve Arguments
 display_title_short: Repair
 display_title: Repair
 heading_title: How Fallacy Labels Can Improve Arguments
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-06-04 15:09:26'
-parent_title: When Fallacy Labels Mislead Too | Fallacy Lab
+parent_title: When Fallacy Labels Mislead Too
 parent_permalink: /labels/
 parent_nav_short_title: Labels
 parent_heading_title: When Fallacy Labels Mislead Too
@@ -270,7 +270,6 @@ image: /assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_lab
 
 [Fallacy labels]({{ 'labels/' | relative_url }}) are most useful when they function as editing tools rather than verbal weapons. In discussions of [logical fallacies]({{ 'logical-fallacies/' | relative_url }}), people often treat labels such as *false dilemma*, *hasty generalisation*, or *begging the question* as a way to defeat an opponent. Yet the practical value of these labels lies elsewhere: they help identify weaknesses in reasoning and suggest specific revisions that can make an argument stronger. Research on argument pedagogy has repeatedly noted that students enjoy the quick sense of mastery that comes from naming fallacies, but that real argument evaluation becomes more productive when labels lead to deeper analysis rather than mere dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/download/3035/2419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Fallacies overlap, ar- guments are amb...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-1-dark.svg" | relative_url }}" alt="Repair illustration 1" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This perspective fits naturally with the broader lesson of the fallacy fallacy. Discovering a flaw in an argument does not prove the conclusion false. It shows that the support is inadequate. The next question should therefore be: *How can the support be improved?* A fallacy label is most valuable when it points directly to that question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span>
 
@@ -313,7 +312,6 @@ Labelling this a false dilemma is only the beginning. The repair-oriented respon
 
 The revision improves the argument by broadening the range of possibilities and forcing the writer to justify why a particular option deserves preference.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IoBbcU7ofZc" title="Logical Fallacies, Explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IoBbcU7ofZc" target="_blank" rel="noopener noreferrer">Logical Fallacies, Explained.</a></p><p class="youtube-embed-meta">Channel: Jared Henderson &middot; Views: 80.7K &middot; Uploaded: June 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IoBbcU7ofZc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IoBbcU7ofZc">Open on YouTube</a></p></div></div></div>
 
 ### Hasty Generalisation: Expand the Evidence Base
@@ -350,7 +348,6 @@ The writer may introduce performance measures, outcomes, comparative data, or ex
 
 Among common fallacies, begging the question is especially suited to repair because the weakness often reflects an absent justification rather than an entirely mistaken conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aupress.ca/app/uploads/OER-202403_Dayton_Rodier_2024-Critical-Thinking-Logic-and-Argument-Answer-Key.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aupress.ca">[aupress.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aupress.ca</span><span class="citation-popover-title">OER 202403 Dayton Rodier 2024 Critical Thinking Logic and Argument Answer Key</span><span class="citation-popover-snippet">Answer Key for Critical Thinking, Logic, and Argument (2024)January 17, 2024 — 19 Jan 2024 — Identify the following fallacies of evading...</span><span class="citation-popover-meta">Published: January 17, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-2-dark.svg" | relative_url }}" alt="Repair illustration 2" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scope Labels for Weak, Moderate, and Strong Objections
 
@@ -370,7 +367,6 @@ Examples include:
 
 The appropriate response is usually a request for more information rather than a rejection of the argument.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q_25qcV-lPM" title="Argument Essay Basics With Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q_25qcV-lPM" target="_blank" rel="noopener noreferrer">Argument Essay Basics With Fallacies</a></p><p class="youtube-embed-meta">Channel: Writing Made Easy &middot; Views: 3.2K &middot; Uploaded: April 2017 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q_25qcV-lPM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q_25qcV-lPM">Open on YouTube</a></p></div></div></div>
 
 ### Moderate Objections
@@ -378,7 +374,6 @@ The appropriate response is usually a request for more information rather than a
 A moderate objection identifies a significant gap in support.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -396,7 +391,6 @@ A strong objection identifies a flaw that substantially undermines the argument'
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A straw man that misrepresents the opposing position.
@@ -407,14 +401,12 @@ Examples include:
 
 Even here, however, the conclusion is not automatically false. The strongest interpretation remains that the argument has failed, not that reality has been settled. This distinction preserves the central lesson behind avoiding the fallacy fallacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/using_logic.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">using logic</span><span class="citation-popover-snippet">Logic - Purdue OWLThis resource covers using logic within writing—logical vocabulary, logical fallacies, and other types of logos-based r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.excelsior.edu/argument-and-critical-thinking/logical-fallacies/logical-fallacies-straw-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.excelsior.edu">[Excelsior]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.excelsior.edu</span><span class="citation-popover-title">OWLStraw Man Fallacy</span><span class="citation-popover-snippet">Excelsior OWLStraw Man Fallacy - Excelsior Online Writing LabA straw man fallacy occurs when someone distorts or exaggerates another pers...</span></span></span>
 
-
 <img src="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-3-dark.svg" | relative_url }}" alt="Repair illustration 3" data-theme-src-dark="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/logical_fallacies_998914_fallacy_labels_567868_fallacy_labels_argum_75f420-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Repair-Oriented Approach in Classrooms, Editing, and Moderation
 
 Educational researchers and argumentation scholars have criticised approaches that treat fallacy identification primarily as an adversarial game. When the goal becomes catching mistakes, participants may focus more on scoring points than on improving reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/view/3035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Popular textbook treatments of the fal...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://informallogic.ca/index.php/informal_logic/article/download/3035/2419" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: informallogic.ca">[informallogic.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">informallogic.ca</span><span class="citation-popover-snippet">The Authority of the Fallacies Approach to Argument Evaluationby C Hundleby · 2010 · Cited by 80 — Fallacies overlap, ar- guments are amb...</span></span></span>
 
 A repair-oriented approach changes the incentives:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -428,7 +420,6 @@ A repair-oriented approach changes the incentives:
 This method treats fallacies as indicators of where work remains to be done. The goal is not to collect labels but to improve reasoning quality.
 
 Interestingly, recent work on argument generation and evaluation in artificial intelligence has followed a similar path. Researchers have found that systems perform better when fallacy detection is paired with explanations, counterarguments, and revision-oriented reasoning rather than simple classification. The emphasis shifts from naming an error to understanding how the argument can be improved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.05039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IawIjqOJBU8" title="Reading Logical Fallacies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IawIjqOJBU8" target="_blank" rel="noopener noreferrer">Reading Logical Fallacies</a></p><p class="youtube-embed-meta">Channel: Mometrix Academy &middot; Views: 1.3M &middot; Uploaded: August 2018 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IawIjqOJBU8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IawIjqOJBU8">Open on YouTube</a></p></div></div></div>
 
@@ -829,6 +820,7 @@ That question keeps attention on evidence, reasoning, and revision. It recognise
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
